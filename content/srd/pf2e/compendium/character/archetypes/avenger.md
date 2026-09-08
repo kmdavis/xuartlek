@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-archetype
 tags:
 - compendium/src/pf2e/war-of-immortals
 - archetype/level/2
 aliases: ["Avenger"]
-aon_id: "archetype-282"
+aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=282"
 source: "War of Immortals"
 ---
 

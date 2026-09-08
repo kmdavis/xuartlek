@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/automaton
 - feat/level/9
 aliases: ["Arcane Slam"]
-aon_id: "feat-3101"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3101"
 source: "Guns & Gears (Remastered)"
 ---
 

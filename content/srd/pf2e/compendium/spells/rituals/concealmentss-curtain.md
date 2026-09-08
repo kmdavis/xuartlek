@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - ritual/level/4
 aliases: ["Concealments's Curtain"]
-aon_id: "ritual-249"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=249"
 source: "Impossible Magic"
 ---
 
@@ -20,7 +19,7 @@ source: "Impossible Magic"
 - **Cost**: an ornate mirror worth at least 100 gp, naturally occurring round fruit the size and number of the target’s eyes, and the same amount of flawless silver needles worth at least 1 gp each
 - **Secondary Casters**: 3
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
-- **Secondary Checks**: Arcana , Deception , Stealth
+- **Secondary Checks**: Arcana, Deception, Stealth
 - **Range**: planetary
 - **Target(s)**: 1 living creature
 - **Duration**: 1 week

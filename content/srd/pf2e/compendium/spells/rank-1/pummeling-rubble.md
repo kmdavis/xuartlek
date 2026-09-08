@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/1
 aliases: ["Pummeling Rubble"]
-aon_id: "spell-1642"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1642"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Earth`  `Manipulate`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Rivethun, The Devourer, Treasures of the Eternal Delve, Xoveron
+- **Deities**: [[srd/pf2e/compendium/deities/faiths-philosophies/rivethun|Rivethun]], [[srd/pf2e/compendium/deities/other-gods/the-devourer|The Devourer]], [[srd/pf2e/compendium/deities/covenants/treasures-of-the-eternal-delve|Treasures of the Eternal Delve]], [[srd/pf2e/compendium/deities/demon-lords/xoveron|Xoveron]]
 - **Area**: 15-foot cone
 - **Defense**: Reflex
 

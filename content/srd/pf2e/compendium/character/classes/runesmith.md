@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class
 tags:
 - compendium/src/pf2e/impossible-magic
 aliases: ["Runesmith"]
-aon_id: "class-76"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=76"
 source: "Impossible Magic"
 ---
 
@@ -24,7 +23,7 @@ The following new key terms appear in many runesmith class features and feats.
 
 ### Runic Phrases
 
-While runes can have different proper names in various cultures or magical schools, the following represent some of their most common forms. Scholars and runesmiths will assemble runes according to a standard grammar, often appending [[srd/pf2e/compendium/rules-elements/traits/impossible-magic/diacritic|diacritic]] runes onto their base runes. For instance, the combined form of _ranshu, the rune of thunder_, and _en, the rune of expansion_, might be called “en-ranshu.” While runes describe fundamental forces of the world, language is ever-changing, and so new runes might be born (and old runes fade from memory) as words and concepts are born and fall out of use.
+While runes can have different proper names in various cultures or magical schools, the following represent some of their most common forms. Scholars and runesmiths will assemble runes according to a standard grammar, often appending [[srd/pf2e/compendium/rules-elements/traits/impossible-magic/diacritic|diacritic]] runes onto their base runes. For instance, the combined form of [[srd/pf2e/compendium/character/runesmith-runes#Ranshu, Rune of Thunder|_ranshu, the rune of thunder_]], and [[srd/pf2e/compendium/character/runesmith-runes#En-, Diacritic Rune of Expansion|_en, the rune of expansion_]], might be called “en-ranshu.” While runes describe fundamental forces of the world, language is ever-changing, and so new runes might be born (and old runes fade from memory) as words and concepts are born and fall out of use.
 
 ### Roleplaying the Runesmith
 
@@ -131,7 +130,7 @@ Through meticulous study, you have carved the knowledge of secret runes into you
 
 #### Runic Magic
 
- Runes are magical effects. Some runes have a specific tradition trait; for instance, the elemental ranshu, rune of thunder is a primal rune. If a rune has the [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]] trait, you can choose to replace the magical trait with a specific tradition trait, provided you're trained in the skill matching that tradition. For instance, you could create an arcane _pluuna, rune of illumination_ if you were trained in [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]]. 
+ Runes are magical effects. Some runes have a specific tradition trait; for instance, the elemental ranshu, rune of thunder is a primal rune. If a rune has the [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]] trait, you can choose to replace the magical trait with a specific tradition trait, provided you're trained in the skill matching that tradition. For instance, you could create an arcane [[srd/pf2e/compendium/character/runesmith-runes#Pluuna, Rune of Illumination|_pluuna, rune of illumination_]] if you were trained in [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]]. 
 
 Though runes aren't spells, some things that affect spells also affect runes. Abilities that restrict you from casting spells (such as being [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorphed]] into a battle form) or protect against spells (such as a spell that protects against other spells or a creature's bonus to saves against spells) also apply to tracing or invoking runes, though you can continue to benefit from the effects of a rune that's already applied.
 
@@ -139,7 +138,7 @@ Though runes aren't spells, some things that affect spells also affect runes. Ab
 
 #### Runic Repertoire
 
-The collection of runes that you know is called your runic repertoire. At 1st level, you learn four 1st-level runes of your choice. You choose these from the common runes on the rune list as well as any uncommon or rarer runes you have access to.
+The collection of runes that you know is called your runic repertoire. At 1st level, you learn four 1st-level runes of your choice. You choose these from the common runes on the [[srd/pf2e/compendium/character/runesmith-runes|rune list]] as well as any uncommon or rarer runes you have access to.
 
  As you increase in level, you add more runes to your repertoire. You can add any rune to your repertoire as long as it is common (or you have access to it) and its level is equal to or less than your own.
 
@@ -154,7 +153,7 @@ Your LevelRunic RepertoireMax Etched Runes14224234244256366376386398410841184128
 
 #### Runic Crafter
 
-Your study of secret runes leaves you well practiced in crafting their more common cousins. You gain the [[srd/pf2e/compendium/feats/player-core/skill/magical-crafting|Magical Crafting]] skill feat, even if you don't meet the prerequisites. You automatically learn the formulas for the fundamental armor runes ([[srd/pf2e/compendium/equipment/runes/armor-potency-3|armor potency]] and [[srd/pf2e/compendium/equipment/runes/resilient-major|resilient]]), fundamental shield rune ([[srd/pf2e/compendium/equipment/runes/reinforcing-rune-supreme|reinforcing]]), and fundamental weapon runes ([[srd/pf2e/compendium/equipment/runes/weapon-potency-3|weapon potency]] and [[srd/pf2e/compendium/equipment/runes/striking-major|striking]]) as soon as your level equals each item's. You practice your runes so thoroughly you can draw them by heart and thus do not need a formula book to record the formula of any runes you learn how to create.
+Your study of secret runes leaves you well practiced in crafting their more common cousins. You gain the [[srd/pf2e/compendium/feats/player-core/skill/magical-crafting|Magical Crafting]] skill feat, even if you don't meet the prerequisites. You automatically learn the formulas for the fundamental armor runes ([[srd/pf2e/compendium/equipment/runes/armor-potency|armor potency]] and [[srd/pf2e/compendium/equipment/runes/resilient|resilient]]), fundamental shield rune ([[srd/pf2e/compendium/equipment/runes/reinforcing-rune|reinforcing]]), and fundamental weapon runes ([[srd/pf2e/compendium/equipment/runes/weapon-potency|weapon potency]] and [[srd/pf2e/compendium/equipment/runes/striking|striking]]) as soon as your level equals each item's. You practice your runes so thoroughly you can draw them by heart and thus do not need a formula book to record the formula of any runes you learn how to create.
 
 At 4th level and every 2 levels thereafter, you learn the formula for an armor or weapon property rune of your choice. The rune must be of your level or lower, and can be a common rune or another rune to which you have access.
 

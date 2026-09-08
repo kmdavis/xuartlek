@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -9,7 +8,7 @@ tags:
 - trait/shadow
 - spell/level/7
 aliases: ["Shadow Raid"]
-aon_id: "spell-2813"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2813"
 source: "Impossible Magic"
 ---
 
@@ -18,7 +17,7 @@ source: "Impossible Magic"
 `Concentrate`  `Illusion`  `Manipulate`  `Shadow`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Aleth, Children of the Night
+- **Deities**: [[srd/pf2e/compendium/deities/other-gods/aleth|Aleth]], [[srd/pf2e/compendium/deities/pantheons/children-of-the-night|Children of the Night]]
 - **Range**: 120 feet
 - **Area**: 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]]
 - **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex or Will (target’s choice)

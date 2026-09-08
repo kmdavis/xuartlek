@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Storm Snake"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Storm Snake"
 level: 5
 source: "Howl of the Wild"
-aon_id: "creature-3314"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3314"
 ---
 

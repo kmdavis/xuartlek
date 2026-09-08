@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/bulwark
 aliases: ["Bulwark"]
-aon_id: "trait-549"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=549"
 source: "Player Core"
 ---
 

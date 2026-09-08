@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/manipulate
 - spell/level/1
 aliases: ["Light"]
-aon_id: "spell-1585"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1585"
 source: "Player Core"
 ---
 
@@ -19,8 +18,8 @@ source: "Player Core"
 
 - **Traditions**: Arcane, Divine, Occult, Primal
 - **Spell Lists**: Elemental
-- **Bloodline**: Angelic
-- **Mystery**: Cosmos
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Angelic|Angelic]]
+- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Cosmos|Cosmos]]
 - **Range**: 120 feet
 - **Duration**: until your next daily preparations
 

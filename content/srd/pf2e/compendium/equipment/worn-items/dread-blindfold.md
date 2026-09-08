@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -10,7 +9,7 @@ tags:
 - trait/mental
 - equipment/level/17
 aliases: ["Dread Blindfold"]
-aon_id: "equipment-3080"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3080"
 source: "GM Core"
 ---
 
@@ -18,7 +17,7 @@ source: "GM Core"
 
 `Emotion`  `Fear`  `Invested`  `Magical`  `Mental`
 
-- **Price**: 15,000 gp
+- **Price**: 15, 000 gp
 - **Usage**: worn eyepiece
 
 When tied over your eyes, this ragged strip of black linen gives you darkvision and a +3 item bonus to Intimidation checks. You can see through the blindfold, but only using darkvision. 

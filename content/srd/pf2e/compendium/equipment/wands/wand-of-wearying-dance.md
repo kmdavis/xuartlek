@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/wand
 - equipment/level/18
 aliases: ["Wand of Wearying Dance"]
-aon_id: "equipment-2298"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2298"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -16,7 +15,7 @@ source: "Treasure Vault (Remastered)"
 
 `Magical`  `Mental`  `Wand`
 
-- **Price**: 24,000 gp
+- **Price**: 24, 000 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
 

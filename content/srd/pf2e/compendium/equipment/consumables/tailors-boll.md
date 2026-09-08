@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -9,7 +8,7 @@ tags:
 - trait/wood
 - equipment/level/3
 aliases: ["Tailor's Boll"]
-aon_id: "equipment-2647"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2647"
 source: "Rage of Elements"
 ---
 

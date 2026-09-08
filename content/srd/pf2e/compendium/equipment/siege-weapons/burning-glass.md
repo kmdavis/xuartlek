@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/rare
 - siege-weapon/level/15
 aliases: ["Burning Glass"]
-aon_id: "siege-weapon-49"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=49"
 source: "Battlecry!"
 ---
 
@@ -15,7 +14,7 @@ source: "Battlecry!"
 
 `Mounted`  `Rare`
 
-- **Price**: 11,500 gp
+- **Price**: 11, 500 gp
 - **Ammunition**: [[srd/pf2e/compendium/equipment/held-items/everlight-crystal|_everlight crystal_]] (15 gp, L Bulk)
 
 **Usage** mounted

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "War Wraith"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "War Wraith"
 level: 9
 source: "Monster Core 2"
-aon_id: "creature-4618"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4618"
 ---
 

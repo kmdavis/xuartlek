@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Golem"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Golem"
 level: 8
 source: "Monster Core 2"
-aon_id: "creature-4417"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4417"
 ---
 
@@ -63,7 +61,7 @@ abilities_bot:
   - name: "Requirements"
     desc: "The golem is uncontrollable"
   - name: "Effect"
-    desc: "The golem makes a melee Strike against every creature in its reach, whether that creature is an ally or not. The attacks count toward its multiple attack penalty normally, but the penalty does not increase until after all the Strikes are complete. Temple Guardians Golems have been used to guard and assist at temples across the Inner Sea region, though they're said to have originated in northern Garund. Only followers of holy deities can create golems, most of which are given life by priests of Desna or Shelyn, or sometimes Casandalee."
+    desc: "The golem makes a melee Strike against every creature in its reach, whether that creature is an ally or not. The attacks count toward its multiple attack penalty normally, but the penalty does not increase until after all the Strikes are complete. Temple Guardians Golems have been used to guard and assist at temples across the Inner Sea region, though they're said to have originated in northern Garund. Only followers of holy deities can create golems, most of which are given life by priests of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/desna|Desna]] or [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/shelyn|Shelyn]], or sometimes [[srd/pf2e/compendium/deities/other-gods/casandalee|Casandalee]]."
 spellcasting:
   - name: "Divine Innate Spells"
     desc: "DC 24, attack +16 - __Cantrips (4th)__ [[srd/pf2e/compendium/spells/cantrips/divine-lance|Divine Lance]], [[srd/pf2e/compendium/spells/cantrips/stabilize|Stabilize]] - __2nd__ [[srd/pf2e/compendium/spells/rank-1/heal|Heal]] (×4) - __3rd__ [[srd/pf2e/compendium/spells/rank-2/calm|Calm]] (×2), [[srd/pf2e/compendium/spells/rank-3/holy-light|Holy Light]] (at will) - __4th__ [[srd/pf2e/compendium/spells/rank-2/dispel-magic|Dispel Magic]], [[srd/pf2e/compendium/spells/rank-4/divine-wrath|Divine Wrath]] (×2)"

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -8,7 +7,7 @@ tags:
 - trait/unique
 - equipment/level/24
 aliases: ["Forgefather's Seal"]
-aon_id: "equipment-3120"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3120"
 source: "GM Core"
 ---
 
@@ -18,7 +17,7 @@ source: "GM Core"
 
 - **Usage**: etched onto armor
 
-This rune was created by Torag, god of the forge, protection, and strategy, and shared with his greatest artisans and warriors. Torag designed a small number of these seals as gifts to allied deities; each one is nearly identical but has a different spell effect when using the reaction activation; for instance, Sarenrae's seal casts _sunburst_ instead of _earthquake_.
+This rune was created by [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/torag|Torag]], god of the forge, protection, and strategy, and shared with his greatest artisans and warriors. Torag designed a small number of these seals as gifts to allied deities; each one is nearly identical but has a different spell effect when using the reaction activation; for instance, Sarenrae's seal casts _sunburst_ instead of _earthquake_.
 
  A seal constantly rings with the quiet sound of a hammer striking an anvil when etched onto a runestone. A _Forgefather's seal_ can be etched only onto armor that can bear two or more property runes, and it is so powerful that it takes the place of two property runes. While wearing armor etched with a _Forgefather's seal_, you gain fire resistance 40. You ignore the armor's check penalty and Speed penalty (if any); if the armor is light or medium, increase its item bonus to AC by 1. In addition, any shield you wield automatically recovers 10 Hit Points at the start of your turn each round.
 

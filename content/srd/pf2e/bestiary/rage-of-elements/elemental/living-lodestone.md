@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Living Lodestone"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Living Lodestone"
 level: 6
 source: "Rage of Elements"
-aon_id: "creature-2649"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2649"
 ---
 

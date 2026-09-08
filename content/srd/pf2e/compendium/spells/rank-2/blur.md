@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/visual
 - spell/level/2
 aliases: ["Blur"]
-aon_id: "spell-1455"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1455"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Concentrate`  `Illusion`  `Manipulate`  `Visual`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Black Butterfly, Mahathallah, Nyarlathotep (The Veiled Voice), Sivanah
+- **Deities**: [[srd/pf2e/compendium/deities/empyreal-lords/black-butterfly|Black Butterfly]], [[srd/pf2e/compendium/deities/queens-of-the-night/mahathallah|Mahathallah]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-the-veiled-voice|Nyarlathotep (The Veiled Voice)]], [[srd/pf2e/compendium/deities/other-gods/sivanah|Sivanah]]
 - **Range**: touch
 - **Target**: 1 creature
 - **Duration**: 1 minute

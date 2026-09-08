@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - weapon/level/1
 aliases: ["Gun Sword (Ranged)"]
-aon_id: "weapon-218"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=218"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -50,6 +49,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-Blade of Fallen Stars, [[srd/pf2e/compendium/equipment/weapons/fulmination-fang|Fulmination Fang]], [[srd/pf2e/compendium/equipment/weapons/obsidian-edge-true|Obsidian Edge]]
+Blade of Fallen Stars, [[srd/pf2e/compendium/equipment/weapons/fulmination-fang|Fulmination Fang]], [[srd/pf2e/compendium/equipment/weapons/obsidian-edge|Obsidian Edge]]
 
 *Source: Guns & Gears (Remastered) p. 159*

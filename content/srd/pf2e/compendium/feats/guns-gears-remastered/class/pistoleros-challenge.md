@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -10,7 +9,7 @@ tags:
 - trait/mental
 - feat/level/6
 aliases: ["Pistolero's Challenge"]
-aon_id: "feat-3174"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3174"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -18,7 +17,7 @@ source: "Guns & Gears (Remastered)"
 
 `Auditory`  `Flourish`  `Gunslinger`  `Linguistic`  `Mental`
 
-- **Prerequisites**: way of the pistolero
+- **Prerequisites**: [[srd/pf2e/compendium/character/ways#Way of the Pistolero|way of the pistolero]]
 
 With a stern call, carefully chosen barb, or some other challenging declaration, you demand your foe's attention in a duel. Choose an opponent within 30 feet who you can perceive and can hear you, and make your choice of a [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] or [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] check against the target's Will DC. No matter the result of the check, the foe is temporarily immune to your Pistolero's Challenge until noon the next day.
 

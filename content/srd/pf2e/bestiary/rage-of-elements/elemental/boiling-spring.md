@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Boiling Spring"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Boiling Spring"
 level: 13
 source: "Rage of Elements"
-aon_id: "creature-2661"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2661"
 ---
 

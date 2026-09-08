@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Hellcat"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Hellcat"
 level: 7
 source: "Monster Core 2"
-aon_id: "creature-4437"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4437"
 ---
 
@@ -46,7 +44,7 @@ armorclass:
 hp: 110
 health:
   - name: "HP"
-    desc: "110; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 10, physical 5 (except [[srd/pf2e/compendium/equipment/materials/silver-object-high-grade|silver]]); __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 5"
+    desc: "110; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 10, physical 5 (except [[srd/pf2e/compendium/equipment/materials/silver|silver]]); __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 5"
 speed: "35 feet"
 attacks:
   - name: "Melee"

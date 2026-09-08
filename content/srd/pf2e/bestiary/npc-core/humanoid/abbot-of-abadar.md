@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Abbot of Abadar"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Abbot of Abadar"
 level: 1
 source: "NPC Core"
-aon_id: "creature-3439"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3439"
 ---
 
@@ -40,7 +38,7 @@ abilities_top:
   - name: "True Faith"
     desc: "The abbot uses lessons from scripture to foil others trying to deceive them. They can use their [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] modifier to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Motive|Sense Motive]] instead of Perception, and their Religion DC instead of their Perception DC against attempts to [[srd/pf2e/compendium/rules-elements/actions/player-core#Lie|Lie]] to them."
   - name: "Items"
-    desc: "Crossbow (10 bolts), griffon cane (functions as a [[srd/pf2e/compendium/equipment/weapons/club/staff|staff]]), [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol-silver|religious symbol]] of Abadar"
+    desc: "Crossbow (10 bolts), griffon cane (functions as a [[srd/pf2e/compendium/equipment/weapons/club/staff|staff]]), [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol|religious symbol]] of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/abadar|Abadar]]"
 ac: 14
 armorclass:
   - name: "AC"

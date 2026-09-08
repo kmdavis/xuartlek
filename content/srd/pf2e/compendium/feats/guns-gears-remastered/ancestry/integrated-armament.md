@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/automaton
 - feat/level/5
 aliases: ["Integrated Armament"]
-aon_id: "feat-3097"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3097"
 source: "Guns & Gears (Remastered)"
 ---
 

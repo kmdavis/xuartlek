@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - siege-weapon/level/12
 aliases: ["Stasian Sled"]
-aon_id: "siege-weapon-62"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=62"
 source: "Battlecry!"
 ---
 
@@ -15,7 +14,7 @@ source: "Battlecry!"
 
 `Mounted`  `Uncommon`
 
-- **Price**: 3,800 gp
+- **Price**: 3, 800 gp
 - **Ammunition**: chemical battery (10 gp, 5 Bulk)
 
 **Usage** mounted

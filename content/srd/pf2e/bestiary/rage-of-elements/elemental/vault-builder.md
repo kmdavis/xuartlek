@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Vault Builder"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Vault Builder"
 level: 23
 source: "Rage of Elements"
-aon_id: "creature-2630"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2630"
 ---
 
@@ -42,7 +40,7 @@ abilities_top:
   - name: "Frequency"
     desc: "twice per day"
   - name: "Effect"
-    desc: "The vault builder spends 10 minutes creating a magic wand out of radioactive green crystal, containing any 8th-rank or lower [[srd/pf2e/compendium/rules-elements/traits/player-core/earth|earth]] spell of their choice. The wand can be used by other creatures, but it crumbles to sand at the end of the day and has no monetary value. The vault builder can expend both daily uses to instead make a _+3 greater striking [[srd/pf2e/compendium/equipment/staves/staff-of-earth-major|major staff of earth]]_."
+    desc: "The vault builder spends 10 minutes creating a magic wand out of radioactive green crystal, containing any 8th-rank or lower [[srd/pf2e/compendium/rules-elements/traits/player-core/earth|earth]] spell of their choice. The wand can be used by other creatures, but it crumbles to sand at the end of the day and has no monetary value. The vault builder can expend both daily uses to instead make a _+3 greater striking [[srd/pf2e/compendium/equipment/staves/staff-of-earth|major staff of earth]]_."
   - name: "Item Caster"
     desc: "The vault builder can Cast a Spell from any item (such as a staff or wand) as though it were on their spell list, but the spell can be 8th-rank or lower."
 ac: 47

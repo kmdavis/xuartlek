@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - equipment/level/1
 aliases: ["Clockwork Goggles"]
-aon_id: "equipment-1107"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1107"
 source: "Guns & Gears (Remastered)"
 ---
 

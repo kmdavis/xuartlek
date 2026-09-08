@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/druid
 - feat/level/10
 aliases: ["Pristine Weapon"]
-aon_id: "feat-4746"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4746"
 source: "Player Core"
 ---
 

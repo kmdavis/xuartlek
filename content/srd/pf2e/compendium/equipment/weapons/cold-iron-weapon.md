@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
 - equipment/level/2
 aliases: ["Cold Iron Weapon"]
-aon_id: "equipment-2856"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2856"
 source: "GM Core"
 ---
 
@@ -13,7 +12,7 @@ source: "GM Core"
 
 - **Usage**: varies by weapon
 - **Bulk**: varies by weapon
-- **Base Material**: [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|Cold Iron]]
+- **Base Material**: [[srd/pf2e/compendium/equipment/materials/cold-iron|Cold Iron]]
 
 Cold iron weapons deal additional damage to creatures with weakness to cold iron, like demons and [[srd/pf2e/compendium/rules-elements/traits/player-core/fey|fey]].
 

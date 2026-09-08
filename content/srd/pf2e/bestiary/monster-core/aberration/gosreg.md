@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Gosreg"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Gosreg"
 level: 11
 source: "Monster Core"
-aon_id: "creature-2931"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2931"
 ---
 

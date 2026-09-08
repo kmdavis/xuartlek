@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -14,7 +13,7 @@ tags:
 - trait/water
 - spell/level/10
 aliases: ["Cataclysm"]
-aon_id: "spell-1460"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1460"
 source: "Player Core"
 ---
 
@@ -24,7 +23,7 @@ source: "Player Core"
 
 - **Traditions**: Arcane, Primal
 - **Spell Lists**: Elemental
-- **Range**: 1,000 feet
+- **Range**: 1, 000 feet
 - **Area**: 60-foot burst
 - **Defense**: basic Reflex
 

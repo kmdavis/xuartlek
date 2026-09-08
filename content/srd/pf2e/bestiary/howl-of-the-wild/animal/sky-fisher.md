@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Sky Fisher"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Sky Fisher"
 level: 11
 source: "Howl of the Wild"
-aon_id: "creature-3310"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3310"
 ---
 

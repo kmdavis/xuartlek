@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/runesmith
 - feat/level/4
 aliases: ["Writing on the Wall"]
-aon_id: "feat-9186"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9186"
 source: "Impossible Magic"
 ---
 

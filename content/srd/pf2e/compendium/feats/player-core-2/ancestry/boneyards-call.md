@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - feat/level/17
 aliases: ["Boneyard's Call"]
-aon_id: "feat-5759"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5759"
 source: "Player Core 2"
 ---
 

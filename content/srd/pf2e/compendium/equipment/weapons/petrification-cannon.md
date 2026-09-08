@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - equipment/level/15
 aliases: ["Petrification Cannon"]
-aon_id: "equipment-1168"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1168"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -15,7 +14,7 @@ source: "Guns & Gears (Remastered)"
 
 `Magical`  `Uncommon`
 
-- **Price**: 6,500 gp
+- **Price**: 6, 500 gp
 - **Usage**: held in 2 hands
 - **Bulk**: 2
 

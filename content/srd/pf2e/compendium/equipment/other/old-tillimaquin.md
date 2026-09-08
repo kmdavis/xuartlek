@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/unique
 - equipment/level/12
 aliases: ["Old Tillimaquin"]
-aon_id: "equipment-4116"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4116"
 source: "Dark Archives (Remastered)"
 ---
 
@@ -15,7 +14,7 @@ source: "Dark Archives (Remastered)"
 
 `Magical`  `Unique`
 
-- **Price**: 2,000 gp
+- **Price**: 2, 000 gp
 - **Bulk**: 3
 
 This beloved tavern mascot is a shabby old stuffed beast mounted on an immense slab of ironwood. The beast is roughly the size and shape of a wolverine but with a broader snout, blue stripes along its upper legs and bristled back, and a club of spiked bone at the end of its long tail. No one can recall where _Old Tillimaquin_ originally came from, how the taxidermic beast came to stand in its tavern, or even whether it's a genuine article. The tradition of rubbing its bronzed claws for good luck has been observed for so long that the front claws are worn to stubs. Local belief holds that as long as _Old Tillimaquin_ stands, neither fire nor flood will claim its town. 

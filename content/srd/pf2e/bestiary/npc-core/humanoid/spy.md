@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Spy"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Spy"
 level: 6
 source: "NPC Core"
-aon_id: "creature-3421"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3421"
 ---
 
@@ -38,7 +36,7 @@ abilities_top:
   - name: "Noble's Ally"
     desc: "The spy has positioned themself to seem a trusted ally, gaining a +2 circumstance bonus to [[srd/pf2e/compendium/rules-elements/actions/player-core#Gather Information|Gather Information]] or to [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]] among the nobles of that court."
   - name: "Items"
-    desc: "Dagger (4), Disguise Kit, [[srd/pf2e/compendium/equipment/adventuring-gear/clothing-desert|fine clothes]], Leather Armor, _+1 [[srd/pf2e/compendium/equipment/weapons/sword/rapier|rapier]]_, [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit-infiltrator-picks|Thieves' Toolkit]]"
+    desc: "Dagger (4), Disguise Kit, [[srd/pf2e/compendium/equipment/adventuring-gear/clothing|fine clothes]], Leather Armor, _+1 [[srd/pf2e/compendium/equipment/weapons/sword/rapier|rapier]]_, [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit|Thieves' Toolkit]]"
 ac: 23
 armorclass:
   - name: "AC"

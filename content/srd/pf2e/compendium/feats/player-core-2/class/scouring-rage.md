@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/barbarian
 - feat/level/6
 aliases: ["Scouring Rage"]
-aon_id: "feat-5833"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5833"
 source: "Player Core 2"
 ---
 

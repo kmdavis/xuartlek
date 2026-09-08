@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/water
 - spell/level/3
 aliases: ["Aqueous Orb"]
-aon_id: "spell-1443"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1443"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Water`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Aegirran, Gogunta, Hanspur, Hataam, Lysianassa, Obari, Ristrentho, Waves of the Boundless Sea
+- **Deities**: [[srd/pf2e/compendium/deities/giant-gods/aegirran|Aegirran]], [[srd/pf2e/compendium/deities/demon-lords/gogunta|Gogunta]], [[srd/pf2e/compendium/deities/other-gods/hanspur|Hanspur]], [[srd/pf2e/compendium/deities/sakhil-tormentors/hataam|Hataam]], [[srd/pf2e/compendium/deities/elemental-lords/lysianassa|Lysianassa]], [[srd/pf2e/compendium/deities/other-gods/obari|Obari]], [[srd/pf2e/compendium/deities/sarkorian-gods/ristrentho|Ristrentho]], [[srd/pf2e/compendium/deities/covenants/waves-of-the-boundless-sea|Waves of the Boundless Sea]]
 - **Range**: 60 feet
 - **Defense**: Reflex
 - **Duration**: sustained up to 1 minute

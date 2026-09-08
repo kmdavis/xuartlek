@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - equipment/level/15
 aliases: ["Mirrorblade"]
-aon_id: "equipment-5021"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5021"
 source: "Impossible Magic"
 ---
 
@@ -15,12 +14,12 @@ source: "Impossible Magic"
 
 `Magical`  `Uncommon`
 
-- **Price**: 6,500 gp
+- **Price**: 6, 500 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/sword/khopesh-weapon-476|Khopesh]]
+- **Base Weapon**: Khopesh
 
-This _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+2 greater striking]] [[srd/pf2e/compendium/equipment/runes/keen|keen]] [[srd/pf2e/compendium/equipment/weapons/sword/khopesh-weapon-476|khopesh]]_ is crafted from a nearly flawless reflective material, making its surfaces glimmer with a mesmerizing shine. 
+This _[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+2 greater striking]] [[srd/pf2e/compendium/equipment/runes/keen|keen]] khopesh_ is crafted from a nearly flawless reflective material, making its surfaces glimmer with a mesmerizing shine. 
 
 **Activate—Mirage Guard** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** You wave the _mirrorblade_ around your head to create illusory distortions around you, making it difficult for opponents to judge your true position. For the next 10 minutes, you aren’t [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to melee attacks from creatures [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Flanking|flanking]] you. 
 

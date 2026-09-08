@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
 - trait/commander
 - feat/level/10
 aliases: ["Drilled Reflexes"]
-aon_id: "feat-7816"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7816"
 source: "Battlecry!"
 ---
 

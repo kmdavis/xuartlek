@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/changeling
 - feat/level/1
 aliases: ["Hag's Sight"]
-aon_id: "feat-4536"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4536"
 source: "Player Core"
 ---
 

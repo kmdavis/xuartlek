@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/summon
 - spell/level/1
 aliases: ["Summon Plant or Fungus"]
-aon_id: "spell-1705"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1705"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Summon`
 
 - **Tradition**: Primal
-- **Deities**: Aminara, Arundhat, Cyth-V’sug, Furcas, Granduncle Taproot, [[srd/pf2e/compendium/character/deities#Green Man|Green Man]], Halcamora, Telvrys, Vermilion Mother, Xhamen-Dor
+- **Deities**: Aminara, [[srd/pf2e/compendium/deities/vudrani-gods/arundhat|Arundhat]], [[srd/pf2e/compendium/deities/demon-lords/cyth-vsug|Cyth-V’sug]], [[srd/pf2e/compendium/deities/infernal-dukes/furcas|Furcas]], Granduncle Taproot, [[srd/pf2e/compendium/deities/green-man-faiths/green-man|Green Man]], Halcamora, Telvrys, Vermilion Mother, [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/xhamen-dor|Xhamen-Dor]]
 - **Range**: 30 feet
 - **Duration**: sustained up to 1 minute
 

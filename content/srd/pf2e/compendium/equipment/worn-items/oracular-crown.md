@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/invested
 - equipment/level/11
 aliases: ["Oracular Crown"]
-aon_id: "equipment-2329"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2329"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -16,7 +15,7 @@ source: "Treasure Vault (Remastered)"
 
 `Divine`  `Focused`  `Invested`
 
-- **Price**: 1,200 gp
+- **Price**: 1, 200 gp
 - **Usage**: worn headwear
 - **Bulk**: L
 

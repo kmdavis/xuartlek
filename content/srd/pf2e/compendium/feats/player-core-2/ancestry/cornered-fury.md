@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/ratfolk
 - feat/level/5
 aliases: ["Cornered Fury"]
-aon_id: "feat-5659"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5659"
 source: "Player Core 2"
 ---
 

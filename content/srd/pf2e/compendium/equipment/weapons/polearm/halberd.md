@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/versatile
 - weapon/level/0
 aliases: ["Halberd"]
-aon_id: "weapon-381"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=381"
 source: "Player Core"
 ---
 
@@ -15,7 +14,7 @@ source: "Player Core"
 
 `Reach`  `Versatile`
 
-- **Favored Weapon**: Keltheald, Olheon, Tresmalvos, Yamasoth
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/empyreal-lords/keltheald|Keltheald]], [[srd/pf2e/compendium/deities/empyreal-lords/olheon|Olheon]], [[srd/pf2e/compendium/deities/daemon-harbingers/tresmalvos|Tresmalvos]], [[srd/pf2e/compendium/deities/qlippoth-lords/yamasoth|Yamasoth]]
 - **Price**: 2 gp
 - **Damage**: 1d10 P
 - **Bulk**: 2

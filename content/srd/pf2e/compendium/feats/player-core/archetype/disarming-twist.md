@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/press
 - feat/level/10
 aliases: ["Disarming Twist"]
-aon_id: "feat-4824"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4824"
 source: "Player Core"
 ---
 
@@ -15,7 +14,7 @@ source: "Player Core"
 
 `Fighter`  `Press`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/duelist|Duelist]] (Level 12), [[srd/pf2e/compendium/character/archetypes/duelist|Duelist]] (Level 12)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/duelist|Duelist]] (Level 12)
 - **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
 - **Requirements**: You are wielding a single one-handed melee weapon and hold nothing else in your hands
 

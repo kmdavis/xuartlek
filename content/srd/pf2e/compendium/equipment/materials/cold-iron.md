@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
 - trait/precious
 - equipment/level/2
 aliases: ["Cold Iron"]
-aon_id: "equipment-2916"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2916"
 source: "GM Core"
 ---
 
@@ -22,11 +21,11 @@ Weapons made from cold iron are deadly to demons and fey alike. Cold iron looks 
 
 #### Material Uses
 
-[[srd/pf2e/compendium/equipment/armor/cold-iron-armor-high-grade|Cold Iron Armor]]
+[[srd/pf2e/compendium/equipment/armor/cold-iron-armor|Cold Iron Armor]]
 
-[[srd/pf2e/compendium/equipment/shields/cold-iron-shield-high-grade|Cold Iron Shield]]
+[[srd/pf2e/compendium/equipment/shields/cold-iron-shield|Cold Iron Shield]]
 
-[[srd/pf2e/compendium/equipment/weapons/cold-iron-weapon-high-grade|Cold Iron Weapon]]
+[[srd/pf2e/compendium/equipment/weapons/cold-iron-weapon|Cold Iron Weapon]]
 
 ### Cold Iron Chunk
 

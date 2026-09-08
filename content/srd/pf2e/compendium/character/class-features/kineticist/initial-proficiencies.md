@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class-feature
 tags:
 - compendium/src/pf2e/rage-of-elements
 - class-feature/level/1
 aliases: ["Initial Proficiencies"]
-aon_id: "class-feature-595"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=23"
 source: "Rage of Elements"
 ---
 

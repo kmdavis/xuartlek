@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/rage-of-elements
 aliases: ["Munsahir"]
-aon_id: "creature-family-342"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=342"
 source: "Rage of Elements"
 ---
 

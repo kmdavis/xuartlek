@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/archetype
 - feat/level/4
 aliases: ["Basic Synergy"]
-aon_id: "feat-9309"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9309"
 source: "Impossible Magic"
 ---
 

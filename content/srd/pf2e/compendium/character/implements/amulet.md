@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-implement
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 aliases: ["Amulet"]
-aon_id: "implement-17"
+aon_url: "https://2e.aonprd.com/Implements.aspx?ID=17"
 source: "Dark Archives (Remastered)"
 ---
 

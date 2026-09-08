@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/3
 aliases: ["Shadow Spy"]
-aon_id: "spell-2580"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2580"
 source: "Dark Archives (Remastered)"
 ---
 
@@ -16,7 +15,7 @@ source: "Dark Archives (Remastered)"
 `Concentrate`  `Manipulate`
 
 - **Traditions**: Occult, Primal
-- **Deity**: Ceyannan
+- **Deity**: [[srd/pf2e/compendium/deities/monitor-demigods/ceyannan|Ceyannan]]
 - **Cast**: 1 minute
 - **Range**: 120 feet
 - **Duration**: until the next time you make your daily preparations

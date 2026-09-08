@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Mage Killer"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Mage Killer"
 level: 8
 source: "NPC Core"
-aon_id: "creature-3517"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3517"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [4, 5, 2, 1, 2, 0]
 abilities_top:
   - name: "Items"
-    desc: "daggers (4), _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/rapier|rapier]]_, Studded Leather Armor"
+    desc: "daggers (4), _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/rapier|rapier]]_, Studded Leather Armor"
 ac: 25
 armorclass:
   - name: "AC"

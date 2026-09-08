@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/4
 aliases: ["Elemental Gift"]
-aon_id: "spell-2690"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2690"
 source: "Impossible Magic"
 ---
 
@@ -16,7 +15,7 @@ source: "Impossible Magic"
 `Concentrate`  `Manipulate`
 
 - **Tradition**: Primal
-- **Deity**: Keltheald
+- **Deity**: [[srd/pf2e/compendium/deities/empyreal-lords/keltheald|Keltheald]]
 - **Range**: 30 feet
 - **Target**: 1 willing creature
 - **Duration**: 1 minute

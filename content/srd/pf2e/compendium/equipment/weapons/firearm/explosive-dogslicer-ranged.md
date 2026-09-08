@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -11,7 +10,7 @@ tags:
 - trait/uncommon
 - weapon/level/1
 aliases: ["Explosive Dogslicer (Ranged)"]
-aon_id: "weapon-224"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=224"
 source: "Guns & Gears (Remastered)"
 ---
 

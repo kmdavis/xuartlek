@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/inventor
 - feat/level/18
 aliases: ["Negate Damage"]
-aon_id: "feat-3087"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3087"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -14,7 +13,7 @@ source: "Guns & Gears (Remastered)"
 
 `Inventor`
 
-- **Prerequisites**: armor innovation
+- **Prerequisites**: [[srd/pf2e/compendium/character/innovations#Armor|armor innovation]]
 - **Trigger**: You would take damage
 
 Your armor innovation activates various devices you prepared ahead of time, and you use one of them to reduce the damage you would take by 15.

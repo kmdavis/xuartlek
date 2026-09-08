@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -10,7 +9,7 @@ tags:
 - trait/transmutation
 - feat/level/17
 aliases: ["Core Cannon"]
-aon_id: "feat-3110"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3110"
 source: "Guns & Gears (Remastered)"
 ---
 

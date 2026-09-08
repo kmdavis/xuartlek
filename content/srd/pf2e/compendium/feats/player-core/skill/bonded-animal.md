@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/skill
 - feat/level/2
 aliases: ["Bonded Animal"]
-aon_id: "feat-5127"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5127"
 source: "Player Core"
 ---
 

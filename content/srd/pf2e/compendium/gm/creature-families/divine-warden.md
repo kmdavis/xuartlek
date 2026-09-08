@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core-2
 aliases: ["Divine Warden"]
-aon_id: "creature-family-581"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=581"
 source: "Monster Core 2"
 ---
 
@@ -44,7 +43,7 @@ It gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/uncommon|un
 
  **Faith Bound** ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]]) A divine warden can't attack a creature that openly wears or displays the religious symbol of the divine warden's patron deity unless that creature uses a hostile action against the divine warden first. If the divine warden is intelligent, it can also attack a creature it believes isn't faithful to its deity or who wears the religious symbol as a ruse (typically after succeeding at a Perception check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Motive|Sense Motive]]).
 
- **Faithful Weapon** A divine warden always wields its patron deity's favored weapon. If the weapon is a ranged weapon, the divine warden automatically generates new ammunition with each attack. For a divine warden of 4th level or higher, the deity's favored weapon gains the effects of a [[srd/pf2e/compendium/equipment/runes/striking-major|_striking_]] rune while the divine warden wields it; at 12th level, these effects are of a _greater striking_ rune, and at 19th level, they're instead of a _major striking_ rune.
+ **Faithful Weapon** A divine warden always wields its patron deity's favored weapon. If the weapon is a ranged weapon, the divine warden automatically generates new ammunition with each attack. For a divine warden of 4th level or higher, the deity's favored weapon gains the effects of a [[srd/pf2e/compendium/equipment/runes/striking|_striking_]] rune while the divine warden wields it; at 12th level, these effects are of a _greater striking_ rune, and at 19th level, they're instead of a _major striking_ rune.
 
  **Instrument of Faith** The divine warden is a beacon for its deity's faith. A cleric of the divine warden's patron deity can channel a [[srd/pf2e/compendium/spells/rank-1/heal|_heal_]] spell through a divine warden they can see within 60 feet. The cleric determines any targets or area for the spell as if they were standing in the divine warden's space.
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -13,7 +12,7 @@ tags:
 - trait/wizard
 - feat/level/2
 aliases: ["Cantrip Expansion"]
-aon_id: "feat-4580"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4580"
 source: "Player Core"
 ---
 

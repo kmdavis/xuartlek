@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -11,7 +10,7 @@ tags:
 - trait/visual
 - feat/level/1
 aliases: ["You're Next"]
-aon_id: "feat-4922"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4922"
 source: "Player Core"
 ---
 

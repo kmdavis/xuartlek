@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Cauthooj"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Cauthooj"
 level: 12
 source: "Monster Core"
-aon_id: "creature-2870"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2870"
 ---
 

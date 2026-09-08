@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-sidebar
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -9,7 +8,7 @@ entries: 10
 
 # Sidebars: Howl of the Wild
 
-## Animal Attacks  *Sidebar*
+## Animal Attacks
 
 - **Parent page**: [[srd/pf2e/compendium/character/ancestries/awakened-animal|Awakened Animal]]
 
@@ -32,7 +31,7 @@ Wing1d4 B[[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], 
 
 *Source: Howl of the Wild p. 22*
 
-## Athamaru Metamorphosis  *Sidebar*
+## Athamaru Metamorphosis
 
 - **Parent page**: [[srd/pf2e/compendium/character/ancestries/athamaru|Athamaru]]
 
@@ -40,7 +39,7 @@ Any adult athamaru can undergo a metamorphosis to become larger. This typically 
 
 *Source: Howl of the Wild p. 16*
 
-## Choosing an Animal  *Sidebar*
+## Choosing an Animal
 
 - **Parent page**: [[srd/pf2e/compendium/character/ancestries/awakened-animal|Awakened Animal]]
 
@@ -52,7 +51,7 @@ When deciding what heritages and feats to take that represent your animal, start
 
 *Source: Howl of the Wild p. 22*
 
-## Curse of the Werecreature  *Sidebar*
+## Curse of the Werecreature
 
 - **Parent page**: [[srd/pf2e/compendium/character/archetypes/werecreature|Werecreature]]
 
@@ -60,7 +59,7 @@ A werecreature’s ability to transmit its curse to other victims through a bite
 
 *Source: Howl of the Wild p. 76*
 
-## Detached Ostillis  *Sidebar*
+## Detached Ostillis
 
 - **Parent page**: [[srd/pf2e/compendium/character/archetypes/ostilli-host|Ostilli Host]]
 
@@ -68,7 +67,7 @@ If your ostilli is ever removed forcibly from your body (which requires a succes
 
 *Source: Howl of the Wild p. 70*
 
-## Minotaurs and Other Ancestries  *Sidebar*
+## Minotaurs and Other Ancestries
 
 - **Parent page**: [[srd/pf2e/compendium/character/ancestries/minotaur|Minotaur]]
 
@@ -78,7 +77,7 @@ Some minotaurs who migrated east from Iblydos made it as far as the islands of M
 
 *Source: Howl of the Wild p. 40*
 
-## Outsea  *Sidebar*
+## Outsea
 
 - **Parent page**: [[srd/pf2e/compendium/character/ancestries/merfolk|Merfolk]]
 
@@ -88,7 +87,7 @@ Outsea is home to not just merfolk but also sedacthies, azarketi, nagas, and sev
 
 *Source: Howl of the Wild p. 34*
 
-## Roleplaying a Werecreature  *Sidebar*
+## Roleplaying a Werecreature
 
 - **Parent page**: [[srd/pf2e/compendium/character/archetypes/werecreature|Werecreature]]
 
@@ -98,7 +97,7 @@ As your character advances and gains more werecreature feats, you can also explo
 
 *Source: Howl of the Wild p. 76*
 
-## Surprising for a Moment  *Sidebar*
+## Surprising for a Moment
 
 - **Parent page**: [[srd/pf2e/compendium/character/ancestries/awakened-animal|Awakened Animal]]
 
@@ -106,7 +105,7 @@ While in the real world a talking bear in armor is a sustained spectacle, in Gol
 
 *Source: Howl of the Wild p. 22*
 
-## The Minotaur Prince of Absalom  *Sidebar*
+## The Minotaur Prince of Absalom
 
 - **Parent page**: [[srd/pf2e/compendium/character/ancestries/minotaur|Minotaur]]
 

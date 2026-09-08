@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -13,7 +12,7 @@ tags:
 - trait/positive
 - spell/level/2
 aliases: ["Soothing Mist"]
-aon_id: "spell-1869"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1869"
 source: "Player Core"
 ---
 

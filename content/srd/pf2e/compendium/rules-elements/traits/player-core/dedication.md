@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/dedication
 aliases: ["Dedication"]
-aon_id: "trait-572"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=572"
 source: "Player Core"
 ---
 

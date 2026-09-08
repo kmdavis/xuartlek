@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/npc-core
 - trait/scatter
 aliases: ["Scatter"]
-aon_id: "trait-848"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=848"
 source: "NPC Core"
 ---
 

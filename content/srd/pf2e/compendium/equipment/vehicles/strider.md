@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/gm-core
 - trait/uncommon
 - vehicle/level/7
 aliases: ["Strider"]
-aon_id: "vehicle-70"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=70"
 source: "GM Core"
 ---
 
@@ -14,7 +13,7 @@ source: "GM Core"
 
 `Uncommon`
 
-- **Price**: 1,200 gp
+- **Price**: 1, 200 gp
 
 **Space** 10 feet long, 10 feet wide, 25 feet high
 

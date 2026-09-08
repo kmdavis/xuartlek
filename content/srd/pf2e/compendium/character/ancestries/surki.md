@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ancestry
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -7,7 +6,7 @@ tags:
 - trait/rare
 - trait/surki
 aliases: ["Surki"]
-aon_id: "ancestry-76"
+aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=76"
 source: "Howl of the Wild"
 ---
 
@@ -45,7 +44,7 @@ Surki society places great importance on individuality and self-expression. Ever
 
 Surkis' connection to their environment leads them to typically worship natural deities. Their own ancient traditions identify each creature as possessing a unique spirit, with keystone species occupying a deific role within their ecosystem. Surki traditions dictate that surkis and other cultures aren't part of this spirit cycle, though with time, care, and practice, one can be accepted into it with the blessing of the environment's keystone species.
 
- Among surki communities in Sarkoris, worship of Gozreh and Sturovenen has grown quickly. Surkis who dedicate themselves to a deity are more likely to choose one representing their own environment or the natural world as a whole. Deities whose domains include [[srd/pf2e/compendium/character/domains#Travel|travel]] or change are also popular among surki devotees.
+ Among surki communities in Sarkoris, worship of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/gozreh|Gozreh]] and [[srd/pf2e/compendium/deities/dead-or-missing-deities/sturovenen|Sturovenen]] has grown quickly. Surkis who dedicate themselves to a deity are more likely to choose one representing their own environment or the natural world as a whole. Deities whose domains include [[srd/pf2e/compendium/character/domains#Travel|travel]] or [[srd/pf2e/compendium/character/domains#Change|change]] are also popular among surki devotees.
 
  It's very important to surkis that life be allowed to follow its natural course. Death, violence, and war all have their place and purpose.
 

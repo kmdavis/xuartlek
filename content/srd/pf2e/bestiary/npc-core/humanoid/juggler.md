@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Juggler"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Juggler"
 level: 2
 source: "NPC Core"
-aon_id: "creature-3572"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3572"
 ---
 

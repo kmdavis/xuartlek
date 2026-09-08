@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
 - trait/precious
 - equipment/level/2
 aliases: ["Silver"]
-aon_id: "equipment-2920"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2920"
 source: "GM Core"
 ---
 
@@ -22,11 +21,11 @@ Silver weapons are a bane to creatures ranging from devils to werewolves. Silver
 
 #### Material Uses
 
-[[srd/pf2e/compendium/equipment/armor/silver-armor-high-grade|Silver Armor]]
+[[srd/pf2e/compendium/equipment/armor/silver-armor|Silver Armor]]
 
-[[srd/pf2e/compendium/equipment/shields/silver-shield-high-grade|Silver Shield]]
+[[srd/pf2e/compendium/equipment/shields/silver-shield|Silver Shield]]
 
-[[srd/pf2e/compendium/equipment/weapons/silver-weapon-high-grade|Silver Weapon]]
+[[srd/pf2e/compendium/equipment/weapons/silver-weapon|Silver Weapon]]
 
 ### Silver Chunk
 

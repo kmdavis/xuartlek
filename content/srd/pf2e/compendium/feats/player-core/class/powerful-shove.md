@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/fighter
 - feat/level/4
 aliases: ["Powerful Shove"]
-aon_id: "feat-4791"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4791"
 source: "Player Core"
 ---
 

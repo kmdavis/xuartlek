@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Deep One Hybrid"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Deep One Hybrid"
 level: 1
 source: "Monster Core 2"
-aon_id: "creature-4315"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4315"
 ---
 
@@ -38,7 +36,7 @@ abilities_top:
   - name: "Natural Swimmer"
     desc: "The deep one hybrid can hold their breath underwater for 10 minutes and gains a +2 circumstance bonus to [[srd/pf2e/books/player-core/chapter-1-introduction/playing-the-game#Initiative|initiative]] rolls and Reflex saves while [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|swimming]]."
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/weapons/knife/dagger|Dagger]], [[srd/pf2e/compendium/equipment/adventuring-gear/fishing-tackle-professional|Fishing Tackle]], [[srd/pf2e/compendium/equipment/armor#Leather Armor|Leather Armor]], [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol-silver|religious symbol of Dagon]], [[srd/pf2e/compendium/equipment/adventuring-gear/religious-text|religious text of Dagon]], [[srd/pf2e/compendium/equipment/adventuring-gear/rope|Rope]] (50 feet), [[srd/pf2e/compendium/equipment/weapons/spear/trident|Trident]]"
+    desc: "[[srd/pf2e/compendium/equipment/weapons/knife/dagger|Dagger]], [[srd/pf2e/compendium/equipment/adventuring-gear/fishing-tackle|Fishing Tackle]], [[srd/pf2e/compendium/equipment/armor#Leather Armor|Leather Armor]], [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol|religious symbol of Dagon]], [[srd/pf2e/compendium/equipment/adventuring-gear/religious-text|religious text of Dagon]], [[srd/pf2e/compendium/equipment/adventuring-gear/rope|Rope]] (50 feet), [[srd/pf2e/compendium/equipment/weapons/spear/trident|Trident]]"
 ac: 16
 armorclass:
   - name: "AC"

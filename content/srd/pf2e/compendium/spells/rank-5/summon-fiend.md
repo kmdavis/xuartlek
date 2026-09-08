@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/unholy
 - spell/level/5
 aliases: ["Summon Fiend"]
-aon_id: "spell-1701"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1701"
 source: "Player Core"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/sonic
 - feat/level/18
 aliases: ["Discordant Voice"]
-aon_id: "feat-4634"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4634"
 source: "Player Core"
 ---
 

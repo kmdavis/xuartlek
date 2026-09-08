@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Unsanctioned Sheriff"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Unsanctioned Sheriff"
 level: 5
 source: "NPC Core"
-aon_id: "creature-3509"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3509"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [4, 2, 2, 0, 2, 2]
 abilities_top:
   - name: "Items"
-    desc: "badge, [[srd/pf2e/compendium/equipment/weapons/firearm/dueling-pistol|Dueling Pistol]] (2, 20 rounds), Sap, Scale Mail"
+    desc: "badge, Dueling Pistol (2, 20 rounds), Sap, Scale Mail"
 ac: 22
 armorclass:
   - name: "AC"

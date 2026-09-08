@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Vanth"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Vanth"
 level: 7
 source: "Monster Core"
-aon_id: "creature-3148"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3148"
 ---
 
@@ -74,7 +72,7 @@ abilities_bot:
   - name: "Failure"
     desc: "The target becomes morose and glum as it accepts its own inevitable fate. For 1 hour, the target is stupefied 2. Each time the target gains the [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]] condition, the stupefied condition value increases by 1, to a maximum value of stupefied 4."
   - name: "Critical Failure"
-    desc: "As failure, but the effect is permanent. Vanth Scythes Vanths' favored weapon is the [[srd/pf2e/compendium/equipment/weapons/polearm/scythe|scythe]], a choice that further adds to their fearsome appearance and can lead to unfortunate associations with the Grim Reaper or Urgathoa among more superstitious mortals. Vanths find such comparisons to be ignorant at best or insulting at worst. Some vanths infuse their scythes with different qualities, such as [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] or [[srd/pf2e/compendium/equipment/materials/silver-object-high-grade|silver]], depending on the nature of their most common enemies."
+    desc: "As failure, but the effect is permanent. Vanth Scythes Vanths' favored weapon is the [[srd/pf2e/compendium/equipment/weapons/polearm/scythe|scythe]], a choice that further adds to their fearsome appearance and can lead to unfortunate associations with the Grim Reaper or [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/urgathoa|Urgathoa]] among more superstitious mortals. Vanths find such comparisons to be ignorant at best or insulting at worst. Some vanths infuse their scythes with different qualities, such as [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] or [[srd/pf2e/compendium/equipment/materials/silver|silver]], depending on the nature of their most common enemies."
 spellcasting:
   - name: "Divine Innate Spells"
     desc: "DC 22 - __2nd__ [[srd/pf2e/compendium/spells/rank-2/invisibility|Invisibility]] (at will; self only) - __3rd__ [[srd/pf2e/compendium/spells/rank-3/holy-light|Holy Light]] (×3), [[srd/pf2e/compendium/spells/rank-3/locate|Locate]] (×3) - __4th__ [[srd/pf2e/compendium/spells/rank-4/translocate|Translocate]] (at will) - __5th__ [[srd/pf2e/compendium/spells/rank-4/translocate|Translocate]]"

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -10,7 +9,7 @@ tags:
 - trait/visual
 - feat/level/16
 aliases: ["Kneel Before the Rightful Heir"]
-aon_id: "feat-7408"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7408"
 source: "War of Immortals"
 ---
 

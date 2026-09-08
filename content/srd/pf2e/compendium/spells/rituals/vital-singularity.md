@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 - trait/uncommon
 - ritual/level/9
 aliases: ["Vital Singularity"]
-aon_id: "ritual-230"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=230"
 source: "Dark Archives (Remastered)"
 ---
 
@@ -15,10 +14,10 @@ source: "Dark Archives (Remastered)"
 `Uncommon`
 
 - **Cast**: 1 hour
-- **Cost**: crushed rubies worth 2,000 gp
+- **Cost**: crushed rubies worth 2, 000 gp
 - **Secondary Casters**: 3
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] or [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] (legendary)
-- **Secondary Checks**: Fortitude, Society , Will
+- **Secondary Checks**: Fortitude, Society, Will
 - **Duration**: 3 hours
 
 When several companions or followers have reached a point of undying love and trust in you, they might be willing to die to save your life. You can grant them that wish. The secondary casters must be living creatures willing to sacrifice their energy to you, by allowing their life essence to drain out of them to protect you whenever you're in danger. If you're [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]], the secondary casters must be undead instead, and if you're neither living nor undead, you can't cast _vital singularity_. Whenever you take damage, after calculating the total amount of damage, including immunities, resistances, weaknesses, and any other increases or mitigation, divide the amount by 4, rounding down. You and each of the secondary casters lose that many Hit Points. If a secondary caster doesn't have enough Hit Points to give before dropping to 0 Hit Points, you take any remaining damage for them as well. When a secondary caster reaches 0 Hit Points in this way, their skin dries out like leather as the last of their life leaves their bodies; this is a [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effect.

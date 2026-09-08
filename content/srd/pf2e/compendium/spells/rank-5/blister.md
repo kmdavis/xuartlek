@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/5
 aliases: ["Blister"]
-aon_id: "spell-1969"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1969"
 source: "Player Core 2"
 ---
 
@@ -16,8 +15,8 @@ source: "Player Core 2"
 `Concentrate`  `Manipulate`
 
 - **Traditions**: Arcane, Occult, Primal
-- **Bloodline**: Demonic
-- **Deity**: Fandarra
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Demonic|Demonic]]
+- **Deity**: [[srd/pf2e/compendium/deities/giant-gods/fandarra|Fandarra]]
 - **Range**: 60 feet
 - **Target**: 1 creature
 - **Defense**: Fortitude

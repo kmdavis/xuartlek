@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Axiomite"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Axiomite"
 level: 8
 source: "Monster Core"
-aon_id: "creature-2792"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2792"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [5, 4, 3, 5, 5, 3]
 abilities_top:
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit-sterling|sterling artisan's toolkit]], _+1 striking warhammer_"
+    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit|sterling artisan's toolkit]], _+1 striking warhammer_"
 ac: 26
 armorclass:
   - name: "AC"

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Spear Frog"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Spear Frog"
 level: 0
 source: "Monster Core 2"
-aon_id: "creature-4403"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4403"
 ---
 

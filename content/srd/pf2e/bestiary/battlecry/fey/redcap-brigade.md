@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Redcap Brigade"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Redcap Brigade"
 level: 10
 source: "Battlecry!"
-aon_id: "creature-3935"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3935"
 ---
 
@@ -41,7 +39,7 @@ armorclass:
 hp: 165
 health:
   - name: "HP"
-    desc: "165 (4 segments, fast healing 20); __Weaknesses__ area damage 10, [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 10, divine revulsion, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 10"
+    desc: "165 (4 segments, fast healing 20); __Weaknesses__ area damage 10, [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 10, divine revulsion, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 10"
 abilities_mid:
   - name: "Divine Revulsion"
     desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) If a redcap brigade sees a creature brandish a religious symbol of a deity (which requires an Interact action by that creature) or cast a divine spell while wearing a religious symbol, the troop must attempt a DC 26 Will save. They then become temporarily immune to all brandished religious symbols for 10 minutes."

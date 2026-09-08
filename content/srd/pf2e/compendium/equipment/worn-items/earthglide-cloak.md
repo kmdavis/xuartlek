@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -8,7 +7,7 @@ tags:
 - trait/occult
 - equipment/level/15
 aliases: ["Earthglide Cloak"]
-aon_id: "equipment-3081"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3081"
 source: "GM Core"
 ---
 
@@ -16,7 +15,7 @@ source: "GM Core"
 
 `Earth`  `Invested`  `Occult`
 
-- **Price**: 6,500 gp
+- **Price**: 6, 500 gp
 - **Usage**: worn cloak
 
 This brown-and-gold cloak covers you from head to toe. Its weighty fabric doesn't move with the wind, instead hanging still as if carved of stone. 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -7,7 +6,7 @@ tags:
 - trait/magical
 - equipment/level/18
 aliases: ["Inexplicable Apparatus"]
-aon_id: "equipment-3090"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3090"
 source: "GM Core"
 ---
 
@@ -15,7 +14,7 @@ source: "GM Core"
 
 `Invested`  `Magical`
 
-- **Price**: 19,000 gp
+- **Price**: 19, 000 gp
 - **Usage**: worn garment
 - **Bulk**: 2
 

@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core-2
 aliases: ["Urdefhan"]
-aon_id: "creature-family-629"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=629"
 source: "Monster Core 2"
 ---
 
@@ -26,6 +25,6 @@ The first urdefhans were unleashed into the depths of Golarion’s Darklands in 
 
 ### Rhoka Swords
 
-The [[srd/pf2e/compendium/equipment/weapons/sword/rhoka-sword-weapon-543|rhoka sword]] is the preferred weapon among urdefhans, and all of their kind know how to wield these instruments of war.
+The [[srd/pf2e/compendium/equipment/weapons/sword/rhoka-sword|rhoka sword]] is the preferred weapon among urdefhans, and all of their kind know how to wield these instruments of war.
 
 *Source: Monster Core 2 p. 336*

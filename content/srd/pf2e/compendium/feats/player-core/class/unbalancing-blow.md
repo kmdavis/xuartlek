@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/rogue
 - feat/level/2
 aliases: ["Unbalancing Blow"]
-aon_id: "feat-4928"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4928"
 source: "Player Core"
 ---
 

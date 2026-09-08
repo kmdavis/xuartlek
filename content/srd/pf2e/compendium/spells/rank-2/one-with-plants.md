@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/wood
 - spell/level/2
 aliases: ["One with Plants"]
-aon_id: "spell-1618"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1618"
 source: "Player Core"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Plant`  `Polymorph`  `Wood`
 
 - **Tradition**: Primal
-- **Deities**: Arundhat, Hathor
+- **Deities**: [[srd/pf2e/compendium/deities/vudrani-gods/arundhat|Arundhat]], Hathor
 - **Duration**: 10 minutes or 8 hours
 
 You can either transform into a plant or merge with plant matter. While transformed, you can't move or affect anything outside the plant, but you can cast spells as long as they don't require line of effect beyond the plant. You can Dismiss this spell.

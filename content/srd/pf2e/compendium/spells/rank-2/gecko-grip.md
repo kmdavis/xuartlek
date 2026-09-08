@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/2
 aliases: ["Gecko Grip"]
-aon_id: "spell-1541"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1541"
 source: "Player Core"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -8,7 +7,7 @@ tags:
 - trait/oil
 - equipment/level/1
 aliases: ["Nectar of Purification"]
-aon_id: "equipment-2931"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2931"
 source: "GM Core"
 ---
 

@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 aliases: ["Hexmoth"]
-aon_id: "creature-family-498"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=498"
 source: "Howl of the Wild"
 ---
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 - trait/archetype
 - feat/level/4
 aliases: ["Fake It Till You Make it"]
-aon_id: "feat-8450"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8450"
 source: "Dark Archives (Remastered)"
 ---
 

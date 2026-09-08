@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core-2
@@ -13,7 +12,7 @@ tags:
 - trait/uncommon
 - weapon/level/0
 aliases: ["Flying Talon"]
-aon_id: "weapon-474"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=474"
 source: "Player Core 2"
 ---
 

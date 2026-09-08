@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -9,7 +8,7 @@ tags:
 - trait/morph
 - spell/level/5
 aliases: ["Mantle of the Frozen Heart"]
-aon_id: "spell-2764"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2764"
 source: "Impossible Magic"
 ---
 
@@ -18,7 +17,7 @@ source: "Impossible Magic"
 `Cold`  `Concentrate`  `Manipulate`  `Morph`
 
 - **Traditions**: Arcane, Primal
-- **Deity**: Thremyr
+- **Deity**: [[srd/pf2e/compendium/deities/giant-gods/thremyr|Thremyr]]
 - **Duration**: 1 minute
 
 You surround yourself in a mantle of frigid magic, and your skin and armor morph into cold, blue ice. Freezing air emanates from your body, sending a chill down the spine of anyone who draws too close and leaving a fine dusting of frost in your wake. Upon Casting this Spell, pick two of the options below. You can Sustain this spell once per round to change one of your chosen abilities to a different option from the list.

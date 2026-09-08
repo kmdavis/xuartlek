@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -10,7 +9,7 @@ tags:
 - trait/mental
 - feat/level/13
 aliases: ["Caterwaul"]
-aon_id: "feat-5564"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5564"
 source: "Player Core 2"
 ---
 

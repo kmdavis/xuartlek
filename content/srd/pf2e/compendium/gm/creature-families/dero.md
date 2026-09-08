@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core
 aliases: ["Dero"]
-aon_id: "creature-family-388"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=388"
 source: "Monster Core"
 ---
 
@@ -22,10 +21,10 @@ Auzmere (Creature 4), [[srd/pf2e/bestiary/monster-core/humanoid/dero-magister|De
 
 ### Cytillesh
 
-Deros grow and ingest a poisonous fungus called cytillesh, also known as brain mold. Cytillesh gives off a pale blue glow and can cause birth defects and various adverse effects. Deros aren't fazed by these detriments, as prolonged exposure can also slow the effects of aging and, in rare cases, provide occult powers to certain individuals known as “magisters.” Deros can also brew cytillesh spores into [[srd/pf2e/compendium/equipment/alchemical-items/lethargy-poison|lethargy poison]], along with many hallucinogenic toxins.
+Deros grow and ingest a poisonous fungus called cytillesh, also known as brain mold. Cytillesh gives off a pale blue glow and can cause birth defects and various adverse effects. Deros aren't fazed by these detriments, as prolonged exposure can also slow the effects of aging and, in rare cases, provide occult powers to certain individuals known as “magisters.” Deros can also brew cytillesh spores into lethargy poison, along with many hallucinogenic toxins.
 
 ### Cytillesh Toolkits
 
-These [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit-expanded|healer's toolkits]] are collections of crystalline scalpels and gritty salves made of cytillesh. They all glow the same sickly blue. While the toolkit is outside its opaque container, it sheds dim light in a 5-foot radius. Any non-dero using or wearing the toolkit is [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened 1]] until 1 hour after they've stopped, which cannot be reduced during that time.
+These [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit|healer's toolkits]] are collections of crystalline scalpels and gritty salves made of cytillesh. They all glow the same sickly blue. While the toolkit is outside its opaque container, it sheds dim light in a 5-foot radius. Any non-dero using or wearing the toolkit is [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened 1]] until 1 hour after they've stopped, which cannot be reduced during that time.
 
 *Source: Monster Core p. 84*

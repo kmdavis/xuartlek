@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/uncommon
 - ritual/level/5
 aliases: ["Fortifying Brew"]
-aon_id: "ritual-147"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=147"
 source: "Player Core 2"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core 2"
 - **Cost**: high-quality ingredients and brewing equipment worth 25 gp
 - **Secondary Casters**: 1
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], or [[srd/pf2e/compendium/rules-elements/skills/society|Society]] (expert)
-- **Secondary Checks**: Alcohol Lore (or related lore), Crafting , Society
+- **Secondary Checks**: Alcohol Lore (or related lore), Crafting, Society
 - **Range**: 20 feet
 
 You craft a large quantity of restorative drink, such as an invigorating tea, a refreshing ale, or a stimulative alchemical tonic. The ritual speeds along any natural processes to make the brew, such as fermenting fruit to make a wine. At the conclusion of the first 3 hours of the ritual, you produce enough brew for up to 10 people to drink, any of whom can be the secondary caster of the ritual. The brew must then be consumed over the next hour. There is no danger of the drinkers becoming drunk if the brew is alcoholic. Once that hour is completed, you and the secondary caster attempt your checks as normal.

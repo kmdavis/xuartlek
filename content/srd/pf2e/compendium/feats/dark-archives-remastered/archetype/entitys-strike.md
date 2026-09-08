@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 - trait/archetype
 - feat/level/4
 aliases: ["Entity's Strike"]
-aon_id: "feat-8457"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8457"
 source: "Dark Archives (Remastered)"
 ---
 

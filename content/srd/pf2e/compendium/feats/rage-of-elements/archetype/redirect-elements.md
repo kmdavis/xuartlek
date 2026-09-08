@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/rage-of-elements
 - trait/archetype
 - feat/level/12
 aliases: ["Redirect Elements"]
-aon_id: "feat-4350"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4350"
 source: "Rage of Elements"
 ---
 

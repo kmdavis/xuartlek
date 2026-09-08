@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/magical
 - equipment/level/7
 aliases: ["Burrowing Bolt"]
-aon_id: "equipment-3863"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3863"
 source: "Battlecry!"
 ---
 

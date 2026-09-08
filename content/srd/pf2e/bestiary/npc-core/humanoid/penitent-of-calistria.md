@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Penitent Of Calistria"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Penitent Of Calistria"
 level: 0
 source: "NPC Core"
-aon_id: "creature-3438"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3438"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [2, 1, 2, 0, 2, 1]
 abilities_top:
   - name: "Items"
-    desc: "Dagger, Explorer's Clothing, [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol-silver|religious symbol]] of Calistria, Whip"
+    desc: "Dagger, Explorer's Clothing, [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol|religious symbol]] of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/calistria|Calistria]], Whip"
 ac: 15
 armorclass:
   - name: "AC"

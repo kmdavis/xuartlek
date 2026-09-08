@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-adjustment
 tags:
 - compendium/src/pf2e/rage-of-elements
 aliases: ["Earth"]
-aon_id: "creature-adjustment-17"
+aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=17"
 source: "Rage of Elements"
 ---
 

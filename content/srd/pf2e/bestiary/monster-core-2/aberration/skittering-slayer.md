@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Skittering Slayer"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Skittering Slayer"
 level: 8
 source: "Monster Core 2"
-aon_id: "creature-4571"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4571"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [5, 4, 6, 0, 3, 3]
 abilities_top:
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/armor#Chain Mail|Chain Mail]], _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/flail/flail|flail]]_, [[srd/pf2e/compendium/equipment/weapons/hammer/light-hammer|Light Hammer]] (3)"
+    desc: "[[srd/pf2e/compendium/equipment/armor#Chain Mail|Chain Mail]], _[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/flail/flail|flail]]_, [[srd/pf2e/compendium/equipment/weapons/hammer/light-hammer|Light Hammer]] (3)"
 ac: 26
 armorclass:
   - name: "AC"

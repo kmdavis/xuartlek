@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/magical
 - equipment/level/7
 aliases: ["Sunweave"]
-aon_id: "equipment-4996"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4996"
 source: "Impossible Magic"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Young Omen Dragon"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Young Omen Dragon"
 level: 7
 source: "Monster Core"
-aon_id: "creature-2953"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2953"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -7,7 +6,7 @@ tags:
 - trait/magical
 - equipment/level/4
 aliases: ["Spacious Pouch"]
-aon_id: "equipment-3032"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3032"
 source: "GM Core"
 ---
 

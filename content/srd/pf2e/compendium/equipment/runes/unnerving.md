@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/magical
 - equipment/level/7
 aliases: ["Unnerving"]
-aon_id: "equipment-4997"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4997"
 source: "Impossible Magic"
 ---
 

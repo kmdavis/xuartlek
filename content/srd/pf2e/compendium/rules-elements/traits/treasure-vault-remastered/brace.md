@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
 - trait/brace
 aliases: ["Brace"]
-aon_id: "trait-471"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=471"
 source: "Treasure Vault (Remastered)"
 ---
 

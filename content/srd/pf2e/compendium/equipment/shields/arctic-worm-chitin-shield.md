@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - equipment/level/12
 aliases: ["Arctic Worm Chitin Shield"]
-aon_id: "equipment-3199"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3199"
 source: "Howl of the Wild"
 ---
 
@@ -16,7 +15,7 @@ source: "Howl of the Wild"
 
 `Invested`  `Magical`  `Uncommon`
 
-- **Price**: 1,800 gp
+- **Price**: 1, 800 gp
 - **Usage**: held in 1 hand
 - **Bulk**: 4
 - **Base Shield**: [[srd/pf2e/compendium/equipment/shields#Tower Shield|Tower Shield]]

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Exscinder"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Exscinder"
 level: 13
 source: "Monster Core 2"
-aon_id: "creature-4065"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4065"
 ---
 

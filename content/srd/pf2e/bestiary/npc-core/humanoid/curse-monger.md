@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Curse Monger"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Curse Monger"
 level: 14
 source: "NPC Core"
-aon_id: "creature-3544"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3544"
 ---
 
@@ -40,7 +38,7 @@ abilities_top:
   - name: "Incurable Curse"
     desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]]) The curse monger is permanently [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy 1]], [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained 1]], [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled 1]], or [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied 1]] by a curse that can't be removed from them in any way. The GM chooses the condition and decides whether the curse is [[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]."
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/resilient-major|resilient]] [[srd/pf2e/compendium/equipment/armor#Explorer's Clothing|explorer's clothing]]_, _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/runes/wounding|wounding]] [[srd/pf2e/compendium/equipment/weapons/knife/sickle|sickle]]_, [[srd/pf2e/compendium/spells/rank-4/fly|_scroll of fly_]]"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/resilient|resilient]] [[srd/pf2e/compendium/equipment/armor#Explorer's Clothing|explorer's clothing]]_, _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/runes/wounding|wounding]] [[srd/pf2e/compendium/equipment/weapons/knife/sickle|sickle]]_, [[srd/pf2e/compendium/spells/rank-4/fly|_scroll of fly_]]"
 ac: 35
 armorclass:
   - name: "AC"

@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-archetype
 tags:
 - compendium/src/pf2e/war-of-immortals
 aliases: ["Prophesied Monarch"]
-aon_id: "archetype-294"
+aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=294"
 source: "War of Immortals"
 ---
 

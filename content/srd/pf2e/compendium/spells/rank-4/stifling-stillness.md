@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -9,7 +8,7 @@ tags:
 - trait/poison
 - spell/level/4
 aliases: ["Stifling Stillness"]
-aon_id: "spell-1322"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1322"
 source: "Rage of Elements"
 ---
 

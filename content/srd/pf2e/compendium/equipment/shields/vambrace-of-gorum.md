@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
@@ -9,7 +8,7 @@ tags:
 - trait/unique
 - equipment/level/20
 aliases: ["Vambrace of Gorum"]
-aon_id: "equipment-3834"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3834"
 source: "Battlecry!"
 ---
 
@@ -20,7 +19,7 @@ source: "Battlecry!"
 - **Usage**: held in 1 hand
 - **Bulk**: 2
 
-When the Lord in Iron shattered, immeasurable fragments fell to Golarion as pieces of metal. This piece of his armor has been shaped into the _Vambrace of Gorum_, a _[[srd/pf2e/compendium/equipment/runes/reinforcing-rune-supreme|supreme reinforcing]] [[srd/pf2e/compendium/equipment/shields/adamantine-shield-high-grade|high-grade adamantine shield]]_ (Hardness 20, HP 160, BT 80). Pieces of sharp iron stick out, acting as _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+3 major striking]] [[srd/pf2e/compendium/equipment/weapons/shield/shield-spikes|shield spikes]]_. The _Vambrace_ still holds some of the deity’s power. When the shield is broken, small fragments of metal explode outward, dealing 6d6 piercing damage in a 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Cone|cone]] (DC 40 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save).
+When the [[srd/pf2e/compendium/deities/dead-or-missing-deities/gorum|Lord in Iron]] shattered, immeasurable fragments fell to Golarion as pieces of metal. This piece of his armor has been shaped into the _Vambrace of Gorum_, a _[[srd/pf2e/compendium/equipment/runes/reinforcing-rune|supreme reinforcing]] [[srd/pf2e/compendium/equipment/shields/adamantine-shield|high-grade adamantine shield]]_ (Hardness 20, HP 160, BT 80). Pieces of sharp iron stick out, acting as _[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+3 major striking]] [[srd/pf2e/compendium/equipment/weapons/shield/shield-spikes|shield spikes]]_. The _Vambrace_ still holds some of the deity’s power. When the shield is broken, small fragments of metal explode outward, dealing 6d6 piercing damage in a 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Cone|cone]] (DC 40 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save).
 
 **Activate—Blade of Iron** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** The shield reforms into a _+3 high-grade adamantine major striking [[srd/pf2e/compendium/equipment/weapons/sword/greatsword|greatsword]]_ for 1 minute. While wielding this sword, you gain a +1 circumstance bonus to AC for each adjacent enemy (up to a +4 bonus).
 

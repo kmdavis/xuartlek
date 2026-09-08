@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/general
 - feat/level/3
 aliases: ["Prescient Planner"]
-aon_id: "feat-5191"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5191"
 source: "Player Core"
 ---
 

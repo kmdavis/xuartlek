@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/archetype
 - feat/level/6
 aliases: ["Expert Fireworks Crafter"]
-aon_id: "feat-8530"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8530"
 source: "Guns & Gears (Remastered)"
 ---
 

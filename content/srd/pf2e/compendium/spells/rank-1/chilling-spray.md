@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/1
 aliases: ["Chilling Spray"]
-aon_id: "spell-1975"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1975"
 source: "Player Core 2"
 ---
 
@@ -17,8 +16,8 @@ source: "Player Core 2"
 `Cold`  `Concentrate`  `Manipulate`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Kostchtchie, Sithhud
-- **Patron Theme**: Baba Yaga
+- **Deities**: Kostchtchie, [[srd/pf2e/compendium/deities/demon-lords/sithhud|Sithhud]]
+- **Patron Theme**: [[srd/pf2e/compendium/character/patrons#Baba Yaga|Baba Yaga]]
 - **Area**: 15-foot cone
 - **Defense**: Reflex
 

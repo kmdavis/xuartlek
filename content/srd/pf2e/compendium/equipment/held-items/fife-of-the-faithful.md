@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
 - trait/magical
 - equipment/level/4
 aliases: ["Fife of the Faithful"]
-aon_id: "equipment-3936"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3936"
 source: "Battlecry!"
 ---
 

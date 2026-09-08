@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/bard
 - feat/level/4
 aliases: ["Triple Time"]
-aon_id: "feat-4594"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4594"
 source: "Player Core"
 ---
 

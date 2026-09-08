@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/comfort
 aliases: ["Comfort"]
-aon_id: "trait-556"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=556"
 source: "Player Core"
 ---
 

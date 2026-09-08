@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/magical
 - equipment/level/5
 aliases: ["Golden Chrysalis"]
-aon_id: "equipment-5037"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5037"
 source: "Impossible Magic"
 ---
 

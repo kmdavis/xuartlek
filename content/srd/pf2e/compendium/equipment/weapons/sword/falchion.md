@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/sweep
 - weapon/level/0
 aliases: ["Falchion"]
-aon_id: "weapon-373"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=373"
 source: "Player Core"
 ---
 
@@ -15,7 +14,7 @@ source: "Player Core"
 
 `Forceful`  `Sweep`
 
-- **Favored Weapon**: Charg, Lamashtu, Reymenda, Rull, Sobek
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/sakhil-tormentors/charg|Charg]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/lamashtu|Lamashtu]], [[srd/pf2e/compendium/deities/empyreal-lords/reymenda|Reymenda]], [[srd/pf2e/compendium/deities/orc-gods/rull|Rull]], Sobek
 - **Price**: 3 gp
 - **Damage**: 1d10 S
 - **Bulk**: 2

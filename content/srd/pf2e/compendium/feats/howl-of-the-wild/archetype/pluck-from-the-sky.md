@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - feat/level/8
 aliases: ["Pluck From the Sky"]
-aon_id: "feat-5533"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5533"
 source: "Howl of the Wild"
 ---
 
@@ -18,7 +17,7 @@ source: "Howl of the Wild"
 
 - **Archetype**: [[srd/pf2e/compendium/character/archetypes/winged-warrior|Winged Warrior]]
 - **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/winged-warrior-dedication|Winged Warrior Dedication]]
-- **Access**: tengu , strix , or awakened animal ( flying animal ) ancestry
+- **Access**: tengu, strix, or awakened animal ( flying animal ) ancestry
 
 The skies are your rightful place, and you will not suffer another to occupy them. Make a Strike against a flying creature. If the attack deals damage, the target must attempt a Reflex save against your class DC.
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/3
 aliases: ["Time Pocket"]
-aon_id: "spell-2610"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2610"
 source: "Dark Archives (Remastered)"
 ---
 
@@ -16,7 +15,7 @@ source: "Dark Archives (Remastered)"
 `Concentrate`  `Manipulate`
 
 - **Traditions**: Arcane, Occult
-- **Deity**: Esoteric Order Of The Palatine Eye
+- **Deity**: [[srd/pf2e/compendium/deities/faiths-philosophies/esoteric-order-of-the-palatine-eye|Esoteric Order Of The Palatine Eye]]
 - **Cast**: 1 minute
 - **Range**: touch
 - **Target**: one item of 1 Bulk or less that a willing creature is holding

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/unholy
 - equipment/level/6
 aliases: ["Devil's Bargain"]
-aon_id: "equipment-1844"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1844"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -22,7 +21,7 @@ source: "Treasure Vault (Remastered)"
 - **Bulk**: L
 - **Base Armor**: Studded Leather Armor
 
-Those favored by Asmodeus can be found wearing this _+1 studded leather_, which is lacquered in red and black.
+Those favored by [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/asmodeus|Asmodeus]] can be found wearing this _+1 studded leather_, which is lacquered in red and black.
 
 **Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]]) **Frequency** once per day; **Trigger** You critically fail an attack roll, check, or saving throw; **Effect** You offer a prayer to Asmodeus, who accepts under a reciprocal condition. Reroll the triggering roll with a +2 circumstance bonus and use the higher result.
 

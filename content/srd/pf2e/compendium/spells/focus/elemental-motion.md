@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -10,7 +9,7 @@ tags:
 - trait/uncommon
 - spell/level/3
 aliases: ["Elemental Motion"]
-aon_id: "spell-2106"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2106"
 source: "Player Core 2"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core 2"
 
 `Concentrate`  `Focus`  `Manipulate`  `Sorcerer`  `Uncommon`
 
-- **Bloodline**: Elemental
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Elemental|Elemental]]
 - **Duration**: 1 minute
 
 You call upon your element to propel you, improving your Speed depending on your element. This spell has your element's trait. 

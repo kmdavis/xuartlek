@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -10,7 +9,7 @@ tags:
 - trait/uncommon
 - spell/level/3
 aliases: ["Whirling Flames"]
-aon_id: "spell-2079"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2079"
 source: "Player Core 2"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core 2"
 
 `Fire`  `Focus`  `Manipulate`  `Oracle`  `Uncommon`
 
-- **Mystery**: Flames
+- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Flames|Flames]]
 - **Range**: 30 feet
 - **Area**: up to two 5-foot bursts that don’t overlap
 - **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex

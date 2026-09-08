@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -12,7 +11,7 @@ tags:
 - trait/uncommon
 - spell/level/5
 aliases: ["Hellfire Plume"]
-aon_id: "spell-2101"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2101"
 source: "Player Core 2"
 ---
 
@@ -20,7 +19,7 @@ source: "Player Core 2"
 
 `Concentrate`  `Fire`  `Focus`  `Manipulate`  `Sorcerer`  `Spirit`  `Uncommon`
 
-- **Bloodline**: Diabolic
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Diabolic|Diabolic]]
 - **Range**: 60 feet
 - **Area**: 10-foot radius, 60-foot-tall cylinder
 - **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex

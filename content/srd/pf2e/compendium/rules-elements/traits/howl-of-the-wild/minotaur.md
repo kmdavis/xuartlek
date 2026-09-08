@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 - trait/minotaur
 aliases: ["Minotaur"]
-aon_id: "trait-788"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=788"
 source: "Howl of the Wild"
 ---
 

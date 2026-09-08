@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core
 aliases: ["Gnome"]
-aon_id: "creature-family-421"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=421"
 source: "Monster Core"
 ---
 
@@ -12,7 +11,7 @@ source: "Monster Core"
 
 Gnomes are known for being creative and curious. They stand at around 3 feet tall, and their vivid personalities match their naturally vivid hair and eye color. Gnomes possess a natural connection to their ancestral home, the [[srd/pf2e/compendium/gm/planes#First World|First World]]. They crave adventure and new experiences to fight off an ancestry-wide affliction known as the Bleaching. Gnomes who fail to dream and innovate begin to slowly lose their color and fall into a deep depression.
 
- A notable subgroup of gnomes called umbral gnomes typically have gray or brown skin with a stony texture, and thin, pale hair or bald pates. Umbral gnomes are most numerous in the Darklands, where they go by the name drathnelar. Umbral gnomes often attribute these physical changes to the gnome deity regarded as the first of their kind, Nivi Rhombodazzle. Nivi was a surface gnome who traveled deep into the Darklands and was ultimately rewarded with demigodhood when she exchanged a particular gemstone with the dwarven deity, Torag. Nivi is immune to the Bleaching, and umbral gnomes are often immune or resistant to it as well. 
+ A notable subgroup of gnomes called umbral gnomes typically have gray or brown skin with a stony texture, and thin, pale hair or bald pates. Umbral gnomes are most numerous in the Darklands, where they go by the name drathnelar. Umbral gnomes often attribute these physical changes to the gnome deity regarded as the first of their kind, [[srd/pf2e/compendium/deities/other-gods/nivi-rhombodazzle|Nivi Rhombodazzle]]. Nivi was a surface gnome who traveled deep into the Darklands and was ultimately rewarded with demigodhood when she exchanged a particular gemstone with the dwarven deity, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/torag|Torag]]. Nivi is immune to the Bleaching, and umbral gnomes are often immune or resistant to it as well. 
 
 ### Members
 

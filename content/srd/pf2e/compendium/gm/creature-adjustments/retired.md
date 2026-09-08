@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-adjustment
 tags:
 - compendium/src/pf2e/npc-core
 aliases: ["Retired"]
-aon_id: "creature-adjustment-36"
+aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=36"
 source: "NPC Core"
 ---
 

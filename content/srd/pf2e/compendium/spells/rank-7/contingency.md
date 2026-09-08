@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/7
 aliases: ["Contingency"]
-aon_id: "spell-1472"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1472"
 source: "Player Core"
 ---
 
@@ -16,7 +15,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`
 
 - **Tradition**: Arcane
-- **Deities**: Abraxas, Aerekostes, Aroden, Dalenydra, Nalinivati, Nyarlathotep (The Veiled Voice), Valmallos
+- **Deities**: [[srd/pf2e/compendium/deities/demon-lords/abraxas|Abraxas]], Aerekostes, [[srd/pf2e/compendium/deities/dead-or-missing-deities/aroden|Aroden]], [[srd/pf2e/compendium/deities/empyreal-lords/dalenydra|Dalenydra]], Nalinivati, [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-the-veiled-voice|Nyarlathotep (The Veiled Voice)]], Valmallos
 - **Cast**: 10 minutes
 - **Duration**: until your next daily preparations
 

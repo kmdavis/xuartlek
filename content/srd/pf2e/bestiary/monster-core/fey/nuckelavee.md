@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Nuckelavee"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Nuckelavee"
 level: 9
 source: "Monster Core"
-aon_id: "creature-3110"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3110"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [6, 3, 4, 1, 3, 4]
 abilities_top:
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/bastard-sword|bastard sword]]_"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/bastard-sword|bastard sword]]_"
 ac: 28
 armorclass:
   - name: "AC"

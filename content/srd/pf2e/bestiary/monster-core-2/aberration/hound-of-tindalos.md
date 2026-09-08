@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Hound Of Tindalos"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Hound Of Tindalos"
 level: 7
 source: "Monster Core 2"
-aon_id: "creature-4623"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4623"
 ---
 

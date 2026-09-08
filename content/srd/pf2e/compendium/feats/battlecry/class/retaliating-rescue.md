@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
 - trait/guardian
 - feat/level/6
 aliases: ["Retaliating Rescue"]
-aon_id: "feat-7854"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7854"
 source: "Battlecry!"
 ---
 

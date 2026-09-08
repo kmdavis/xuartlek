@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Rumindrol"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Rumindrol"
 level: 15
 source: "Howl of the Wild"
-aon_id: "creature-3303"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3303"
 ---
 

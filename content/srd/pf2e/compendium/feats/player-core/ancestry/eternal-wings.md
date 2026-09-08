@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/nephilim
 - feat/level/17
 aliases: ["Eternal Wings"]
-aon_id: "feat-4566"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4566"
 source: "Player Core"
 ---
 

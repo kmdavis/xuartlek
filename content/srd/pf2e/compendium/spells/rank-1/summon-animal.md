@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/summon
 - spell/level/1
 aliases: ["Summon Animal"]
-aon_id: "spell-1694"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1694"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Summon`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Alocer, Anogetz, Atrogine, Baphomet, Chamidu, Etaris, Green Faith, Lao Shu Po, Rowdrosh, Sicva
+- **Deities**: Alocer, [[srd/pf2e/compendium/deities/daemon-harbingers/anogetz|Anogetz]], [[srd/pf2e/compendium/deities/other-gods/atrogine|Atrogine]], [[srd/pf2e/compendium/deities/demon-lords/baphomet|Baphomet]], [[srd/pf2e/compendium/deities/vudrani-gods/chamidu|Chamidu]], Etaris, [[srd/pf2e/compendium/deities/faiths-philosophies/green-faith|Green Faith]], Lao Shu Po, Rowdrosh, [[srd/pf2e/compendium/deities/azlanti-pantheon/sicva|Sicva]]
 - **Range**: 30 feet
 - **Duration**: sustained up to 1 minute
 

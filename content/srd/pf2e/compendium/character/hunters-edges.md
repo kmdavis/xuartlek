@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hunters-edge
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ entries: 4
 
 # Hunters Edges
 
-## Flurry  *Ranger Hunter's Edge*
+## Flurry
 
 You have trained to unleash a devastating flurry of attacks upon your prey. Your multiple attack penalty for attacks against your hunted prey is –3 (–2 with an agile attack) on your second attack of the turn instead of –5, and –6 (–4 with an agile attack) on your third or subsequent attack of the turn, instead of –10.
 
@@ -20,7 +19,7 @@ You can blend your weapon mastery with skillful targeting to make a series of pr
 
 *Source: Player Core p. 154*
 
-## Outwit  *Ranger Hunter's Edge*
+## Outwit
 
 You are talented at outwitting and evading your prey. You gain a +2 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] checks, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] checks, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] checks, and any checks to Recall Knowledge about the prey, and a +1 circumstance bonus to AC against your prey's attacks.
 
@@ -30,7 +29,7 @@ Your mastery of skills allows you to overwhelm your prey. If you have master pro
 
 *Source: Player Core p. 154*
 
-## Precision  *Ranger Hunter's Edge*
+## Precision
 
 You have trained to aim for your prey’s weak points. The first time you hit your hunted prey in a round, you also deal 1d8 additional precision damage. (Precision damage increases the damage you already deal, using the same type, but is ineffective against creatures that lack vital organs or weak points.) At 11th level, the extra damage increases to 2d8 precision damage, and at 19th level, the extra damage increases to 3d8 precision damage.
 
@@ -40,7 +39,7 @@ Your weapon mastery allows you to hit your prey’s vital areas multiple times. 
 
 *Source: Player Core p. 154*
 
-## Vindication  *Ranger Hunter's Edge*
+## Vindication
 
 This Hunter's Edge can be taken by [[srd/pf2e/compendium/character/archetypes/vindicator|Vindicators]].
 

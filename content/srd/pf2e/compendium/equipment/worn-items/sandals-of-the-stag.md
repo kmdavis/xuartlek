@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - equipment/level/18
 aliases: ["Sandals of the Stag"]
-aon_id: "equipment-2142"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2142"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -16,7 +15,7 @@ source: "Treasure Vault (Remastered)"
 
 `Apex`  `Invested`  `Magical`
 
-- **Price**: 24,000 gp
+- **Price**: 24, 000 gp
 - **Usage**: worn shoes
 - **Bulk**: L
 

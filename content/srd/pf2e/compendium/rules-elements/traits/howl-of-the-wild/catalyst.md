@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 - trait/catalyst
 aliases: ["Catalyst"]
-aon_id: "trait-791"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=791"
 source: "Howl of the Wild"
 ---
 

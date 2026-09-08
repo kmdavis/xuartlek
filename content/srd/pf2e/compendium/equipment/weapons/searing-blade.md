@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -7,7 +6,7 @@ tags:
 - trait/magical
 - equipment/level/13
 aliases: ["Searing Blade"]
-aon_id: "equipment-2870"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2870"
 source: "GM Core"
 ---
 

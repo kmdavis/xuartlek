@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Zuhra"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Zuhra"
 level: 8
 source: "Rage of Elements"
-aon_id: "creature-2655"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2655"
 ---
 

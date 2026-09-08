@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Tarn Linnorm"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Tarn Linnorm"
 level: 20
 source: "Monster Core"
-aon_id: "creature-3085"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3085"
 ---
 
@@ -45,7 +43,7 @@ armorclass:
 hp: 400
 health:
   - name: "HP"
-    desc: "400 , regeneration 15 (deactivated by [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]]); __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]], [[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Weaknesses__ cold iron 15"
+    desc: "400 , regeneration 15 (deactivated by [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]]); __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]], [[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Weaknesses__ cold iron 15"
 abilities_mid:
   - name: "Curse of Death"
     desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]) When a creature slays the tarn linnorm, it must succeed at a DC 46 Will save or it can no longer recover Hit Points via any means, such as [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]] spells, the [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] skill, or natural healing from rest. This has an unlimited duration."

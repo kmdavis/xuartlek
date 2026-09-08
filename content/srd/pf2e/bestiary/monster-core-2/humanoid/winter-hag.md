@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Winter Hag"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Winter Hag"
 level: 7
 source: "Monster Core 2"
-aon_id: "creature-4434"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4434"
 ---
 
@@ -40,7 +38,7 @@ abilities_top:
   - name: "Snow Vision"
     desc: "Snow doesn't impair a winter hag's vision; they ignore concealment from snowfall."
   - name: "Items"
-    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1]] [[srd/pf2e/compendium/equipment/weapons/club/staff|staff]]_"
+    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1]] [[srd/pf2e/compendium/equipment/weapons/club/staff|staff]]_"
 ac: 24
 armorclass:
   - name: "AC"
@@ -48,7 +46,7 @@ armorclass:
 hp: 145
 health:
   - name: "HP"
-    desc: "145; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]]; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 5, fire 5, thaw the heart"
+    desc: "145; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]]; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 5, fire 5, thaw the heart"
 abilities_mid:
   - name: "Thaw the Heart"
     desc: "If the hag observes a creature succeed at a [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] check with a result equal to or greater than 26, the hag becomes [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] 1 and loses their immunity to emotion effects for 1 hour."

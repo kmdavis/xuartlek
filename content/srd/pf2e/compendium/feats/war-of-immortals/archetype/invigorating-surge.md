@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -7,7 +6,7 @@ tags:
 - trait/mythic
 - feat/level/14
 aliases: ["Invigorating Surge"]
-aon_id: "feat-7420"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7420"
 source: "War of Immortals"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/rare
 - equipment/level/11
 aliases: ["Tiger's Claw"]
-aon_id: "equipment-1186"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1186"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -16,12 +15,12 @@ source: "Guns & Gears (Remastered)"
 
 `Illusion`  `Primal`  `Rare`
 
-- **Price**: 1,400 gp
+- **Price**: 1, 400 gp
 - **Usage**: held in 1 hand
 - **Bulk**: 1
-- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/firearm/dueling-pistol|Dueling Pistol]]
+- **Base Weapon**: Dueling Pistol
 
-This +2 _striking fearsome [[srd/pf2e/compendium/equipment/weapons/firearm/dueling-pistol|dueling pistol]]_ is made from fine tigerwood, with the head of a tiger as the muzzle. Beneath the tiger head is a claw shaped [[srd/pf2e/compendium/equipment/weapons/knife/bayonet|bayonet]]. One of a set of four guns crafted as a gift to a Zenj family for delivery of rare healing and disease-abating herbs during an outbreak of a deadly disease in the Grand Duchy of Alkenstar, these firearms are now passed down to those who have done brave acts in service to the Zenj people. The flintlock sparks thrown by this weapon take the shape of pouncing tigers and the firearm's report sounds like a tiger's growl. Clever wielders use the firearm's report to panic their prey into mistakes and then pounce for the kill.
+This +2 _striking fearsome dueling pistol_ is made from fine tigerwood, with the head of a tiger as the muzzle. Beneath the tiger head is a claw shaped [[srd/pf2e/compendium/equipment/weapons/knife/bayonet|bayonet]]. One of a set of four guns crafted as a gift to a Zenj family for delivery of rare healing and disease-abating herbs during an outbreak of a deadly disease in the Grand Duchy of Alkenstar, these firearms are now passed down to those who have done brave acts in service to the Zenj people. The flintlock sparks thrown by this weapon take the shape of pouncing tigers and the firearm's report sounds like a tiger's growl. Clever wielders use the firearm's report to panic their prey into mistakes and then pounce for the kill.
 
  This firearm's bullets deal slashing damage instead of piercing and add an additional 1d6 persistent bleed damage on a critical hit. This persistent bleed damage causes tiger-claw-shaped wounds to appear on the target.
 

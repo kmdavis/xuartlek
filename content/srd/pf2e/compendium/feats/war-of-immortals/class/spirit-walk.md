@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -9,7 +8,7 @@ tags:
 - trait/exploration
 - feat/level/8
 aliases: ["Spirit Walk"]
-aon_id: "feat-7137"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7137"
 source: "War of Immortals"
 ---
 

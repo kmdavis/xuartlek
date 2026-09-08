@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/rare
 - siege-weapon/level/15
 aliases: ["Alkenstar Cannon"]
-aon_id: "siege-weapon-20"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=20"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -15,7 +14,7 @@ source: "Guns & Gears (Remastered)"
 
 `Mounted`  `Rare`
 
-- **Price**: 12,000 gp
+- **Price**: 12, 000 gp
 - **Ammunition**: scattershot barrels (25 gp, 5 Bulk)
 
 **Usage** mounted (black powder)

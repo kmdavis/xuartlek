@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -9,7 +8,7 @@ tags:
 - trait/prediction
 - feat/level/10
 aliases: ["Roll the Bones of Fate"]
-aon_id: "feat-6070"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6070"
 source: "Player Core 2"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core 2"
 `Cursebound`  `Divine`  `Oracle`  `Prediction`
 
 - **Frequency**: once per 10 minutes
-- **Prerequisites**: bones mystery or lore mystery
+- **Prerequisites**: [[srd/pf2e/compendium/character/mysteries#Bones|bones mystery]] or [[srd/pf2e/compendium/character/mysteries#Lore|lore mystery]]
 
 You roll a handful of bones to learn (or perhaps influence) the future course of events. Roll 1d4 and use the corresponding result below. Whenever you Roll the Bones of Fate, any effects from a previous usage immediately end. 
 **1 Good** You or an ally within 30 feet can roll twice on your next attack roll or skill check, taking the higher result. This is a [[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]] effect. 

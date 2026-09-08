@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - equipment/level/2
 aliases: ["Wormhole Shot"]
-aon_id: "equipment-5043"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5043"
 source: "Impossible Magic"
 ---
 

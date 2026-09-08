@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-skill
 tags:
 - compendium/src/pf2e/player-core
 aliases: ["Nature"]
-aon_id: "skill-43"
+aon_url: "https://2e.aonprd.com/Skills.aspx?ID=43"
 source: "Player Core"
 ---
 
@@ -45,7 +44,7 @@ Other
 No
 Item Bonus
 
-[[srd/pf2e/compendium/equipment/staves/major-staff-of-natures-cunning|Staff Of Nature's Cunning]]
+[[srd/pf2e/compendium/equipment/staves/staff-of-natures-cunning|Staff Of Nature's Cunning]]
 +2
 7
 Staves
@@ -59,20 +58,20 @@ Held Items
 No
 Item bonus to determine a fulu's function or authenticity.
 
-[[srd/pf2e/compendium/equipment/worn-items/living-mantle-greater|Living Mantle]]
+[[srd/pf2e/compendium/equipment/worn-items/living-mantle|Living Mantle]]
 +2
 10
 Worn Items
 No
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal]]
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal]]
 +2
 11
 Worn Items
 No
 Item bonus of the associated Deity's Divine Skill
 
-[[srd/pf2e/compendium/equipment/staves/major-staff-of-natures-cunning|Greater Staff Of Nature's Cunning]]
+[[srd/pf2e/compendium/equipment/staves/staff-of-natures-cunning|Greater Staff Of Nature's Cunning]]
 +2
 11
 Staves
@@ -93,14 +92,14 @@ Other
 No
 Item Bonus
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal (Greater)]]
 +3
 18
 Worn Items
 No
 Item bonus of the associated Deity's Divine Skill
 
-[[srd/pf2e/compendium/equipment/worn-items/living-mantle-greater|Living Mantle (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/living-mantle|Living Mantle (Greater)]]
 +3
 18
 Worn Items

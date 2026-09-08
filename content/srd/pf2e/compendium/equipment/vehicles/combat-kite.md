@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/battlecry
 - vehicle/level/6
 aliases: ["Combat Kite"]
-aon_id: "vehicle-118"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=118"
 source: "Battlecry!"
 ---
 
@@ -43,6 +42,6 @@ This massive box-shaped kite is flown from the ground with a thin and light magi
 
 **Collision** 4d8 (DC 22)
 
-**Cargo Release** The combat kite can carry a glider or up to 20 Bulk of materials. The glider or materials can be remotely released by [[srd/pf2e/compendium/rules-elements/actions/player-core#Interact|Interacting]] with the magical tether.
+**Cargo Release** The combat kite can carry a [[srd/pf2e/compendium/equipment/vehicles/glider|glider]] or up to 20 Bulk of materials. The glider or materials can be remotely released by [[srd/pf2e/compendium/rules-elements/actions/player-core#Interact|Interacting]] with the magical tether.
 
 *Source: Battlecry! p. 108*

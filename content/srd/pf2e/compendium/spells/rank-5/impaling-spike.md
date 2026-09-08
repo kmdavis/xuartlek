@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/metal
 - spell/level/5
 aliases: ["Impaling Spike"]
-aon_id: "spell-1571"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1571"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Metal`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Garhaazh, Laudinmio, Shapes of the Fading Luster, Varg, Xiquiripat
+- **Deities**: Garhaazh, [[srd/pf2e/compendium/deities/elemental-lords/laudinmio|Laudinmio]], [[srd/pf2e/compendium/deities/covenants/shapes-of-the-fading-luster|Shapes of the Fading Luster]], [[srd/pf2e/compendium/deities/orc-gods/varg|Varg]], Xiquiripat
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Reflex

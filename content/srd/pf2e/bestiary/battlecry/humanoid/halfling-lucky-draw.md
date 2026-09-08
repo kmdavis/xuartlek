@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Halfling Lucky Draw"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Halfling Lucky Draw"
 level: 8
 source: "Battlecry!"
-aon_id: "creature-3921"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3921"
 ---
 

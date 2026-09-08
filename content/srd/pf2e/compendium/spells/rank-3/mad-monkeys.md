@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/3
 aliases: ["Mad Monkeys"]
-aon_id: "spell-1590"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1590"
 source: "Player Core"
 ---
 
@@ -16,8 +15,8 @@ source: "Player Core"
 `Concentrate`  `Manipulate`
 
 - **Tradition**: Primal
-- **Deities**: Cong, Lahkgya, Ragdya, Sun Wukong
-- **Lesson**: Lesson of Mischief
+- **Deities**: [[srd/pf2e/compendium/deities/goblin-gods/cong|Cong]], [[srd/pf2e/compendium/deities/vudrani-gods/lahkgya|Lahkgya]], [[srd/pf2e/compendium/deities/vudrani-gods/ragdya|Ragdya]], Sun Wukong
+- **Lesson**: [[srd/pf2e/compendium/character/lessons#Lesson of Mischief|Lesson of Mischief]]
 - **Range**: 30 feet
 - **Area**: 5-foot burst
 - **Duration**: sustained up to 1 minute

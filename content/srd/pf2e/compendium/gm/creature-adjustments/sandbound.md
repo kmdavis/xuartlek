@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-adjustment
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 aliases: ["Sandbound"]
-aon_id: "creature-adjustment-27"
+aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=27"
 source: "Howl of the Wild"
 ---
 

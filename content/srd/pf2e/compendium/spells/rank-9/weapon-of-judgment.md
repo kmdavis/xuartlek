@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -9,7 +8,7 @@ tags:
 - trait/spirit
 - spell/level/9
 aliases: ["Weapon of Judgment"]
-aon_id: "spell-2044"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2044"
 source: "Player Core 2"
 ---
 

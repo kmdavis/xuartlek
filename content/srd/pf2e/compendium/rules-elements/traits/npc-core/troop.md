@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/npc-core
 - trait/troop
 aliases: ["Troop"]
-aon_id: "trait-849"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=849"
 source: "NPC Core"
 ---
 

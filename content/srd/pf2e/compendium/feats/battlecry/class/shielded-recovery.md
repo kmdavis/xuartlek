@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
 - trait/commander
 - feat/level/4
 aliases: ["Shielded Recovery"]
-aon_id: "feat-7806"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7806"
 source: "Battlecry!"
 ---
 

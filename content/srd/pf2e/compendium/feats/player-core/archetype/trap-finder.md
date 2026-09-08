@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/rogue
 - feat/level/1
 aliases: ["Trap Finder"]
-aon_id: "feat-4919"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4919"
 source: "Player Core"
 ---
 
@@ -15,7 +14,7 @@ source: "Player Core"
 
 `Investigator`  `Rogue`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/archaeologist|Archaeologist]] (Level 4), [[srd/pf2e/compendium/character/archetypes/archaeologist|Archaeologist]] (Level 4)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/archaeologist|Archaeologist]] (Level 4)
 
 You have an intuitive sense that alerts you to the presence of traps. You gain a +1 circumstance bonus to Perception checks to find traps, to AC against attacks made by traps, and to saves against traps. Even if you aren’t Searching, you get a check to find traps that normally require you to be Searching. You still need to meet any other requirements to find the trap.
 

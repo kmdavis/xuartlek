@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/gm-core
 - trait/focused
 aliases: ["Focused"]
-aon_id: "trait-609"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=609"
 source: "GM Core"
 ---
 

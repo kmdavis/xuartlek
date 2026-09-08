@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/npc-core
@@ -8,7 +7,7 @@ tags:
 - trait/rare
 - spell/level/1
 aliases: ["500 Toads"]
-aon_id: "spell-2335"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2335"
 source: "NPC Core"
 ---
 

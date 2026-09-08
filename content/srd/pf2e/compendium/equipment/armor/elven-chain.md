@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
 - trait/uncommon
 - equipment/level/13
 aliases: ["Elven Chain"]
-aon_id: "equipment-2801"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2801"
 source: "GM Core"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Olobigonde"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Olobigonde"
 level: 2
 source: "Rage of Elements"
-aon_id: "creature-2664"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2664"
 ---
 

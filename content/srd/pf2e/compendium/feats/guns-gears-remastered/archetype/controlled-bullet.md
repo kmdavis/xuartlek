@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - feat/level/16
 aliases: ["Controlled Bullet"]
-aon_id: "feat-3233"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3233"
 source: "Guns & Gears (Remastered)"
 ---
 

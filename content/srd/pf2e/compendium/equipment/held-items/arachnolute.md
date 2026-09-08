@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - equipment/level/11
 aliases: ["Arachnolute"]
-aon_id: "equipment-3220"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3220"
 source: "Howl of the Wild"
 ---
 
@@ -15,7 +14,7 @@ source: "Howl of the Wild"
 
 `Magical`  `Uncommon`
 
-- **Price**: 1,300 gp
+- **Price**: 1, 300 gp
 - **Usage**: held in 2 hands
 - **Bulk**: 1
 

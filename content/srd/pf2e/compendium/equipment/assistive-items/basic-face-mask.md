@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
 - equipment/level/0
 aliases: ["Basic Face Mask"]
-aon_id: "equipment-2152"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2152"
 source: "Treasure Vault (Remastered)"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Hesperid Queen"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Hesperid Queen"
 level: 19
 source: "Monster Core 2"
-aon_id: "creature-4493"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4493"
 ---
 
@@ -48,7 +46,7 @@ armorclass:
 hp: 305
 health:
   - name: "HP"
-    desc: "305; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 15"
+    desc: "305; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 15"
 abilities_mid:
   - name: "Nymph's Beauty"
     desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|incapacitation]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]]) 30 feet. Creatures that start their turn in the aura must succeed at a DC 38 Will save or be become transfixed in awe, causing them to be [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] for 1 round."

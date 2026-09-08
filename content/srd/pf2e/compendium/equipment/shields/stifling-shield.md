@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/magical
 - equipment/level/11
 aliases: ["Stifling Shield"]
-aon_id: "equipment-5009"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5009"
 source: "Impossible Magic"
 ---
 
@@ -14,12 +13,12 @@ source: "Impossible Magic"
 
 `Magical`
 
-- **Price**: 1,300 gp
+- **Price**: 1, 300 gp
 - **Usage**: held in 1 hand
 - **Bulk**: 1
 - **Base Shield**: [[srd/pf2e/compendium/equipment/shields#Steel Shield|Steel Shield]]
 
-This matte black _[[srd/pf2e/compendium/equipment/runes/reinforcing-rune-supreme|moderate reinforcing]] [[srd/pf2e/compendium/equipment/shields#Steel Shield|steel shield]]_ ([[srd/pf2e/books/player-core/chapter-6-equipment/shields#Hardness|Hardness]] 10, HP 92, BT 46) seems to absorb sound, creating an eerie void around its wielder. 
+This matte black _[[srd/pf2e/compendium/equipment/runes/reinforcing-rune|moderate reinforcing]] [[srd/pf2e/compendium/equipment/shields#Steel Shield|steel shield]]_ ([[srd/pf2e/books/player-core/chapter-6-equipment/shields#Hardness|Hardness]] 10, HP 92, BT 46) seems to absorb sound, creating an eerie void around its wielder. 
 
 **Activate—Silence Falls** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Trigger** A creature within 15 feet of you Casts a Spell or takes an action with the [[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]] trait while you have the _stifling shield_ raised; **Requirements** ; **Effect** The shield briefly dampens nearby sound. The triggering creature must attempt a DC 28 Will save.
 

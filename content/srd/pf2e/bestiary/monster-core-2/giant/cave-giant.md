@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Cave Giant"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Cave Giant"
 level: 6
 source: "Monster Core 2"
-aon_id: "creature-4408"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4408"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [6, 3, 5, -2, 3, 2]
 abilities_top:
   - name: "Items"
-    desc: "_[[srd/pf2e/compendium/equipment/runes/weapon-potency-3|+1]] [[srd/pf2e/compendium/equipment/weapons/axe/greataxe|greataxe]]_, [[srd/pf2e/compendium/equipment/armor#Hide Armor|Hide Armor]]"
+    desc: "_[[srd/pf2e/compendium/equipment/runes/weapon-potency|+1]] [[srd/pf2e/compendium/equipment/weapons/axe/greataxe|greataxe]]_, [[srd/pf2e/compendium/equipment/armor#Hide Armor|Hide Armor]]"
 ac: 23
 armorclass:
   - name: "AC"

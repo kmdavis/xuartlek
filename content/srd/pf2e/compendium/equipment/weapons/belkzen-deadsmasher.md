@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - equipment/level/13
 aliases: ["Belkzen Deadsmasher"]
-aon_id: "equipment-3837"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3837"
 source: "Battlecry!"
 ---
 
@@ -19,7 +18,7 @@ source: "Battlecry!"
 - **Bulk**: 1
 - **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/club/morningstar|Morningstar]]
 
-The head of this imposing steel _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+2 greater striking]] [[srd/pf2e/compendium/equipment/runes/vitalizing-greater|vitalizing]] [[srd/pf2e/compendium/equipment/weapons/club/morningstar|morningstar]]_ is shaped to resemble a cluster of snarling orc faces, their sharpened tusks serving as the spikes. Forged deep in the Hold of Belkzen and wielded by elite warriors tasked with protecting their lands from the servants of the Whispering Tyrant, this brutal weapon grants void [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance|resistance]] 5 to any living creature who wields it.
+The head of this imposing steel _[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+2 greater striking]] [[srd/pf2e/compendium/equipment/runes/vitalizing|vitalizing]] [[srd/pf2e/compendium/equipment/weapons/club/morningstar|morningstar]]_ is shaped to resemble a cluster of snarling orc faces, their sharpened tusks serving as the spikes. Forged deep in the Hold of Belkzen and wielded by elite warriors tasked with protecting their lands from the servants of the Whispering Tyrant, this brutal weapon grants void [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance|resistance]] 5 to any living creature who wields it.
 
 **Activate—Untouchable Spirit** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]]) **Frequency** once per day; **Trigger** You fail or critically fail a saving throw against an effect originating from an [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]] creature that would inflict void damage; **Effect** Reroll the saving throw and take the better result.
 

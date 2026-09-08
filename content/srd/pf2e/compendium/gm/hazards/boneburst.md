@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -9,7 +8,7 @@ tags:
 - trait/unholy
 - hazard/level/14
 aliases: ["Boneburst"]
-aon_id: "hazard-464"
+aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=464"
 source: "War of Immortals"
 ---
 

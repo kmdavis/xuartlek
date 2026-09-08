@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Stone Mauler"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Stone Mauler"
 level: 9
 source: "Monster Core"
-aon_id: "creature-2979"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2979"
 ---
 

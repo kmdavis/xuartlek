@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Natural Scientist"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Natural Scientist"
 level: 2
 source: "NPC Core"
-aon_id: "creature-3468"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3468"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [1, 1, 2, 2, 4, 1]
 abilities_top:
   - name: "Never Lost"
-    desc: "The natural scientist can always tell true north and gains a +4 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Direction|Sense Direction]]. They don't take a –2 item penalty to the check if they don't have a [[srd/pf2e/compendium/equipment/adventuring-gear/compass-lensatic|compass]]."
+    desc: "The natural scientist can always tell true north and gains a +4 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Direction|Sense Direction]]. They don't take a –2 item penalty to the check if they don't have a [[srd/pf2e/compendium/equipment/adventuring-gear/compass|compass]]."
   - name: "Trained Observer"
     desc: "The natural scientist is accustomed to blending into their surroundings and taking notes, giving them a +2 circumstance bonus to [[srd/pf2e/compendium/rules-elements/actions/player-core#Gather Information|Gather Information]]."
   - name: "Items"

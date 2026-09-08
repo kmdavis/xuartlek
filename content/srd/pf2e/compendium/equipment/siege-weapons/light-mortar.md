@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - siege-weapon/level/1
 aliases: ["Light Mortar"]
-aon_id: "siege-weapon-36"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=36"
 source: "Battlecry!"
 ---
 
@@ -32,7 +31,7 @@ source: "Battlecry!"
 
 ---
 
-_Nethys Note: The AC, Fortitude, Reflex, HP and BT statistics for this item are located in the Light Mortar Innovation. This item does not have a price as it is an Inventor Innovation._ 
+_Nethys Note: The AC, Fortitude, Reflex, HP and BT statistics for this item are located in the [[srd/pf2e/compendium/character/innovations#Light Mortar|Light Mortar Innovation]]. This item does not have a price as it is an Inventor Innovation._ 
 
 Aim [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") unlimited, minimum distance 10 feet
 

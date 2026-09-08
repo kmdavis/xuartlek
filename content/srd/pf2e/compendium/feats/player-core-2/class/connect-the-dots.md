@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -9,7 +8,7 @@ tags:
 - trait/linguistic
 - feat/level/6
 aliases: ["Connect the Dots"]
-aon_id: "feat-5952"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5952"
 source: "Player Core 2"
 ---
 

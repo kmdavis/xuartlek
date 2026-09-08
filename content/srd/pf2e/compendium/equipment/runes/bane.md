@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - equipment/level/4
 aliases: ["Bane"]
-aon_id: "equipment-4986"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4986"
 source: "Impossible Magic"
 ---
 

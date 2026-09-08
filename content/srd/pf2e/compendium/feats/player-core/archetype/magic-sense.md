@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -11,7 +10,7 @@ tags:
 - trait/wizard
 - feat/level/12
 aliases: ["Magic Sense"]
-aon_id: "feat-5044"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5044"
 source: "Player Core"
 ---
 

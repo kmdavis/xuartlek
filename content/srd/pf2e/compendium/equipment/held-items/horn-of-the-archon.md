@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - equipment/level/16
 aliases: ["Horn of the Archon"]
-aon_id: "equipment-3938"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3938"
 source: "Battlecry!"
 ---
 
@@ -15,7 +14,7 @@ source: "Battlecry!"
 
 `Magical`  `Uncommon`
 
-- **Price**: 8,500 gp
+- **Price**: 8, 500 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
 

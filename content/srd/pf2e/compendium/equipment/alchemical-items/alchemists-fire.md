@@ -1,20 +1,19 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
-- compendium/src/pf2e/gm-core
+- compendium/src/pf2e/player-core-2
 - trait/alchemical
 - trait/bomb
 - trait/consumable
 - trait/fire
 - trait/splash
-- equipment/level/0
+- equipment/level/1
 aliases: ["Alchemist's Fire"]
-aon_id: "equipment-2876"
-source: "GM Core"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3287"
+source: "Player Core 2"
 ---
 
-# Alchemist's Fire  *Item 0*
+# Alchemist's Fire  *Item 1+*
 
 `Alchemical`  `Bomb`  `Consumable`  `Fire`  `Splash`
 
@@ -24,4 +23,44 @@ source: "GM Core"
 
 Alchemist's fire is a combination of volatile liquids that ignite when exposed to air. Alchemist's fire deals the listed fire damage, persistent fire damage, and splash damage. Many types grant an item bonus to attack rolls.
 
-*Source: GM Core p. 244*
+### Alchemist's Fire (Lesser)
+
+**Price** 3 gp
+
+**Bulk** L
+
+---
+
+The bomb deals 1d8 fire damage, 1 persistent fire damage, and 1 fire splash damage.
+
+### Alchemist's Fire (Moderate)
+
+**Price** 10 gp
+
+**Bulk** L
+
+---
+
+You gain a +1 item bonus to attack rolls. The bomb deals 2d8 fire damage, 2 persistent fire damage, and 2 fire splash damage.
+
+### Alchemist's Fire (Greater)
+
+**Price** 250 gp
+
+**Bulk** L
+
+---
+
+You gain a +2 item bonus to attack rolls. The bomb deals 3d8 fire damage, 3 persistent fire damage, and 3 fire splash damage.
+
+### Alchemist's Fire (Major)
+
+**Price** 2,500 gp
+
+**Bulk** L
+
+---
+
+You gain a +3 item bonus to attack rolls. The bomb deals 4d8 fire damage, 4 persistent fire damage, and 4 fire splash damage.
+
+*Source: Player Core 2 p. 283*

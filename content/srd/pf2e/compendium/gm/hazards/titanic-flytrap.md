@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
 tags:
 - compendium/src/pf2e/gm-core
 - trait/environmental
 - hazard/level/4
 aliases: ["Titanic Flytrap"]
-aon_id: "hazard-485"
+aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=485"
 source: "GM Core"
 ---
 

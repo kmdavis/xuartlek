@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/magical
 - equipment/level/12
 aliases: ["Hat Of Many Minds"]
-aon_id: "equipment-5186"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5186"
 source: "Impossible Magic"
 ---
 
@@ -15,7 +14,7 @@ source: "Impossible Magic"
 
 `Invested`  `Magical`
 
-- **Price**: 1,800 gp
+- **Price**: 1, 800 gp
 - **Usage**: worn headwear
 
 This pointy, brimmed hat is made up of a rainbow patchwork of various materials and seems to sit just a little lopsided on your head, no matter how you adjust it. You gain a +2 item bonus to checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Earn Income|Earn Income]] as the hat subtly helps with the tedious but important work that any given job might require. 

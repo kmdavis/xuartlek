@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Monster Hunter"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Monster Hunter"
 level: 6
 source: "NPC Core"
-aon_id: "creature-3516"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3516"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [4, 3, 3, 1, 1, 1]
 abilities_top:
   - name: "Favored Game"
-    desc: "A monster hunter specializes in bringing down certain non-humanoid creatures. These favored game are typically [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animals]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/beast|beasts]], but an individual might hunt dragons, [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plants]], or more specialized creatures like [[srd/pf2e/bestiary/monster-core/animal/tiger|tigers]] or [[srd/pf2e/bestiary/monster-core/beast/manticore|manticores]]."
+    desc: "A monster hunter specializes in bringing down certain non-humanoid creatures. These favored game are typically [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animals]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/beast|beasts]], but an individual might hunt [[srd/pf2e/compendium/character/domains#Dragon|dragons]], [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plants]], or more specialized creatures like [[srd/pf2e/bestiary/monster-core/animal/tiger|tigers]] or [[srd/pf2e/bestiary/monster-core/beast/manticore|manticores]]."
   - name: "Items"
     desc: "Composite Longbow (20 arrows), _+1 [[srd/pf2e/compendium/equipment/weapons/axe/greataxe|greataxe]]_, Hide Armor"
 ac: 22

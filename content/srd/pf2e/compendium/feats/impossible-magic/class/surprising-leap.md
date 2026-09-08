@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/summoner
 - feat/level/8
 aliases: ["Surprising Leap"]
-aon_id: "feat-9257"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9257"
 source: "Impossible Magic"
 ---
 

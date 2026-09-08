@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
 - trait/magical
 - equipment/level/7
 aliases: ["Blakenshipper"]
-aon_id: "equipment-3927"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3927"
 source: "Battlecry!"
 ---
 

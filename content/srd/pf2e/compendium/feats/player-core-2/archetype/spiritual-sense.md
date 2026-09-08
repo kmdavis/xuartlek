@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/oracle
 - feat/level/6
 aliases: ["Spiritual Sense"]
-aon_id: "feat-6065"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6065"
 source: "Player Core 2"
 ---
 

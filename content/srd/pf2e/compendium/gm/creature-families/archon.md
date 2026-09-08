@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core
 aliases: ["Archon"]
-aon_id: "creature-family-365"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=365"
 source: "Monster Core"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Skin Shifter"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Skin Shifter"
 level: 8
 source: "NPC Core"
-aon_id: "creature-3584"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3584"
 ---
 
@@ -38,7 +36,7 @@ abilities_top:
   - name: "Animal Empathy"
     desc: "The skin shifter can ask questions of, receive answers from, and use the [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] skill with [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animals]]."
   - name: "Items"
-    desc: "Hide Armor, _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/bow/longbow|longbow]]_ (20 arrows), Spiked Gauntlet"
+    desc: "Hide Armor, _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/bow/longbow|longbow]]_ (20 arrows), Spiked Gauntlet"
 ac: 25
 armorclass:
   - name: "AC"

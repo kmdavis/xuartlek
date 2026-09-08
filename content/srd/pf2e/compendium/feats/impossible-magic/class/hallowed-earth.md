@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -13,7 +12,7 @@ tags:
 - trait/positive
 - feat/level/6
 aliases: ["Hallowed Earth"]
-aon_id: "feat-9120"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9120"
 source: "Impossible Magic"
 ---
 

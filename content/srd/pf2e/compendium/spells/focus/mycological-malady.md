@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -12,7 +11,7 @@ tags:
 - trait/witch
 - spell/level/3
 aliases: ["Mycological Malady"]
-aon_id: "spell-1942"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1942"
 source: "Howl of the Wild"
 ---
 
@@ -20,7 +19,7 @@ source: "Howl of the Wild"
 
 `Concentrate`  `Disease`  `Focus`  `Hex`  `Manipulate`  `Uncommon`  `Witch`
 
-- **Lesson**: Lesson of Decay
+- **Lesson**: [[srd/pf2e/compendium/character/lessons#Lesson of Decay|Lesson of Decay]]
 - **Range**: touch
 - **Target**: 1 creature
 - **Defense**: Fortitude

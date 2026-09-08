@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/battlecry
@@ -8,7 +7,7 @@ tags:
 - trait/metal
 - spell/level/2
 aliases: ["Steel Fortifications"]
-aon_id: "spell-2516"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2516"
 source: "Battlecry!"
 ---
 

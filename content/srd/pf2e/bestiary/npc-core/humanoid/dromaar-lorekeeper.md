@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Dromaar Lorekeeper"
 tags:
@@ -14,7 +13,6 @@ statblock: inline
 name: "Dromaar Lorekeeper"
 level: 5
 source: "NPC Core"
-aon_id: "creature-3664"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3664"
 ---
 
@@ -44,7 +42,7 @@ abilities_top:
   - name: "Spotlight Ready"
     desc: "When performing for crowds of 10 or more, the dromaar lorekeeper gains a +2 circumstance bonus to their [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] checks."
   - name: "Items"
-    desc: "Dagger, [[srd/pf2e/compendium/equipment/adventuring-gear/musical-instrument-virtuoso-heavy|lute]]"
+    desc: "Dagger, [[srd/pf2e/compendium/equipment/adventuring-gear/musical-instrument|lute]]"
 ac: 21
 armorclass:
   - name: "AC"

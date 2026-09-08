@@ -1,17 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/gm-core
 - vehicle/level/10
 aliases: ["Galley"]
-aon_id: "vehicle-75"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=75"
 source: "GM Core"
 ---
 
 # Galley  *Vehicle 10*
 
-- **Price**: 3,000 gp
+- **Price**: 3, 000 gp
 
 **Space** 130 feet long, 20 feet wide, 25 feet high
 

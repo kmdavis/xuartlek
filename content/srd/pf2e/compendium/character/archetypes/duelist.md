@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-archetype
 tags:
 - compendium/src/pf2e/player-core-2
 - archetype/level/2
 aliases: ["Duelist"]
-aon_id: "archetype-248"
+aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=248"
 source: "Player Core 2"
 ---
 

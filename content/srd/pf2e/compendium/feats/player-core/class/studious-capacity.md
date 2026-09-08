@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/bard
 - feat/level/16
 aliases: ["Studious Capacity"]
-aon_id: "feat-4631"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4631"
 source: "Player Core"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Ugothol"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Ugothol"
 level: 4
 source: "Monster Core"
-aon_id: "creature-2812"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2812"
 ---
 

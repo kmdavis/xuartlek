@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -11,7 +10,7 @@ tags:
 - trait/uncommon
 - spell/level/1
 aliases: ["Angelic Halo"]
-aon_id: "spell-2093"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2093"
 source: "Player Core 2"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core 2"
 
 `Aura`  `Concentrate`  `Focus`  `Holy`  `Sorcerer`  `Uncommon`
 
-- **Bloodline**: Angelic
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Angelic|Angelic]]
 - **Area**: 15-foot emanation
 - **Duration**: 1 minute
 

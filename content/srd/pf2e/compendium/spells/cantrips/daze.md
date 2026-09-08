@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/nonlethal
 - spell/level/1
 aliases: ["Daze"]
-aon_id: "spell-1482"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1482"
 source: "Player Core"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core"
 `Cantrip`  `Concentrate`  `Manipulate`  `Mental`  `Nonlethal`
 
 - **Traditions**: Arcane, Divine, Occult
-- **Bloodlines**: Aberrant, Hag
+- **Bloodlines**: [[srd/pf2e/compendium/character/bloodlines#Aberrant|Aberrant]], [[srd/pf2e/compendium/character/bloodlines#Hag|Hag]]
 - **Range**: 60 feet
 - **Target**: 1 creature
 - **Defense**: Will

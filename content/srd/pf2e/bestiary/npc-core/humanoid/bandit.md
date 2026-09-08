@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Bandit"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Bandit"
 level: 2
 source: "NPC Core"
-aon_id: "creature-3425"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3425"
 ---
 
@@ -38,7 +36,7 @@ abilities_top:
   - name: "Bandit's Ambush"
     desc: "When the bandit rolls initiative using [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] or [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]], they can attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] one creature as a free action."
   - name: "Items"
-    desc: "Dagger, [[srd/pf2e/compendium/equipment/weapons/sword/machete|Machete]], Sling (10 bullets), studded leather"
+    desc: "Dagger, Machete, Sling (10 bullets), studded leather"
 ac: 19
 armorclass:
   - name: "AC"

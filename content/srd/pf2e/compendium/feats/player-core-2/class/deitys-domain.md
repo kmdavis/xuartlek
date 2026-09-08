@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/champion
 - feat/level/1
 aliases: ["Deity's Domain"]
-aon_id: "feat-5883"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5883"
 source: "Player Core 2"
 ---
 
@@ -14,7 +13,7 @@ source: "Player Core 2"
 
 `Champion`
 
-You embody an aspect of your deity. Choose one of your deity's domains. You gain the domain's initial domain spell as a devotion spell.
+You embody an aspect of your deity. Choose one of your deity's [[srd/pf2e/compendium/character/domains|domains]]. You gain the domain's initial domain spell as a devotion spell.
 
 ### Deity's Domain leads to...
 

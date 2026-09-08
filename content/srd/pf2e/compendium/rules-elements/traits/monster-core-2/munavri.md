@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/monster-core-2
 - trait/munavri
 aliases: ["Munavri"]
-aon_id: "trait-880"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=880"
 source: "Monster Core 2"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Grikkitog"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Grikkitog"
 level: 14
 source: "Monster Core"
-aon_id: "creature-3035"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3035"
 ---
 
@@ -62,7 +60,7 @@ abilities_bot:
   - name: "Effect"
     desc: "The grikkitog sinks its barbed teeth into the target, which must succeed at a DC 34 Reflex save or be [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]]. While immobilized, the victim takes 3d8 persistent bleed damage and the grikkitog feeds upon its flesh. The creature is immobilized until the grikkitog ends the effect as a free action or the target succeeds at a DC 38 check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]]. The grikkitog can immobilize any number of creatures with these maws."
   - name: "Earth Glide"
-    desc: "The grikkitog can [[srd/pf2e/compendium/rules-elements/actions/player-core#Burrow|Burrow]] through dirt and stone at its full burrow Speed, leaving no tunnels or signs of its passing. Grikkitog Origins Grikkitogs often feature as bogeymen in scary stories told by denizens of the [[srd/pf2e/compendium/gm/planes#Plane of Earth|Plane of Earth]]. Those who recall the wars between the elemental lords believe the first grikkitog was created as an experimental weapon by Ayrzul, the Fossilized King of the Elemental Plane of Earth. Yet the evil elemental lord did not realize the raw power of his creation. The grikkitog's hunger grew so ravenous that it escaped containment, infested an earth elemental warden, and began to spread across the planes. Now grikkitogs burrow throughout [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]], devouring the unwary."
+    desc: "The grikkitog can [[srd/pf2e/compendium/rules-elements/actions/player-core#Burrow|Burrow]] through dirt and stone at its full burrow Speed, leaving no tunnels or signs of its passing. Grikkitog Origins Grikkitogs often feature as bogeymen in scary stories told by denizens of the [[srd/pf2e/compendium/gm/planes#Plane of Earth|Plane of Earth]]. Those who recall the wars between the elemental lords believe the first grikkitog was created as an experimental weapon by [[srd/pf2e/compendium/deities/elemental-lords/ayrzul|Ayrzul]], the Fossilized King of the Elemental Plane of Earth. Yet the evil elemental lord did not realize the raw power of his creation. The grikkitog's hunger grew so ravenous that it escaped containment, infested an earth elemental warden, and began to spread across the planes. Now grikkitogs burrow throughout [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]], devouring the unwary."
 sourcebook: "_Monster Core_, page 183."
 ```
 

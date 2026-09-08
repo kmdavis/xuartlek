@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/visual
 - equipment/level/8
 aliases: ["Sun Dazzler"]
-aon_id: "equipment-1984"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1984"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -20,7 +19,7 @@ source: "Treasure Vault (Remastered)"
 - **Usage**: held in 1 hand
 - **Bulk**: L
 
-This metallic tube has a complex array of lenses and prisms at one end and a hatch at the other. The hatch can be unlocked, loaded with a [[srd/pf2e/compendium/equipment/alchemical-items/glow-rod-equipment-3355|glow rod]], and refastened using 3 Interact actions.
+This metallic tube has a complex array of lenses and prisms at one end and a hatch at the other. The hatch can be unlocked, loaded with a [[srd/pf2e/compendium/equipment/alchemical-items/glow-rod|glow rod]], and refastened using 3 Interact actions.
 
 **Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Requirements** A glow rod is installed in the dazzler; **Effect** The glow rod burns to dust in a single focused flash, creating a 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Cone|cone]] of scintillating light. Each creature in the cone must attempt a DC 24 Fortitude save, with the following effects.
 

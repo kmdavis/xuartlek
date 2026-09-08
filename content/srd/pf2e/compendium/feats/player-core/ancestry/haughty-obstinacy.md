@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/human
 - feat/level/1
 aliases: ["Haughty Obstinacy"]
-aon_id: "feat-4477"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4477"
 source: "Player Core"
 ---
 

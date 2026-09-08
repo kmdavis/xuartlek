@@ -7,7 +7,6 @@ cssclasses:
 tags:
   - srd/pf2e/gm-core
 source: "GM Core"
-aon_id: 3147
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3147"
 citation: "GM Core pg. 221"
 ---
@@ -52,7 +51,7 @@ An item’s level indicates what level of adventurer the item is best suited for
 
 ### Multiple Types
 
-If multiple types of an item exist, the title line gives the minimum level followed by a plus symbol (“+”). The description includes information on the base version of the item, and the Type entries at the bottom of the stat block lists the specifics for each version, including the level, Price, and any modified or added abilities of the different types. For some items, the types listed are upgrades to the base item. For other items, such as [[srd/pf2e/compendium/equipment/worn-items/aeon-stone-sprouting|aeon stones]], each type is distinct from the others.
+If multiple types of an item exist, the title line gives the minimum level followed by a plus symbol (“+”). The description includes information on the base version of the item, and the Type entries at the bottom of the stat block lists the specifics for each version, including the level, Price, and any modified or added abilities of the different types. For some items, the types listed are upgrades to the base item. For other items, such as [[srd/pf2e/compendium/equipment/worn-items/aeon-stone|aeon stones]], each type is distinct from the others.
 
 ## Price
 

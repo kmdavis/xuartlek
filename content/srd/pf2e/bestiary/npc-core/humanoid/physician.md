@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Physician"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Physician"
 level: -1
 source: "NPC Core"
-aon_id: "creature-3480"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3480"
 ---
 
@@ -42,7 +40,7 @@ abilities_top:
   - name: "Doctor's Hand"
     desc: "When the physician rolls a critical failure on a check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Disease|Treat Disease]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Poison|Treat Poison]], or [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Wounds|Treat Wounds]], they get a failure instead."
   - name: "Items"
-    desc: "minor elixir of life (2), [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit-expanded|Healer's Toolkit]], medical textbook"
+    desc: "minor elixir of life (2), [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit|Healer's Toolkit]], medical textbook"
 ac: 13
 armorclass:
   - name: "AC"

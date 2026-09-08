@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - siege-weapon/level/9
 aliases: ["Lashtail"]
-aon_id: "siege-weapon-26"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=26"
 source: "Howl of the Wild"
 ---
 
@@ -15,7 +14,7 @@ source: "Howl of the Wild"
 
 `Mounted`  `Uncommon`
 
-- **Price**: 1,500 gp
+- **Price**: 1, 500 gp
 - **Ammunition**: segmented chain (4 gp, 5 Bulk)
 
 **Usage** mounted

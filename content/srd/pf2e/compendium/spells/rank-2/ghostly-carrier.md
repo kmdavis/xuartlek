@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/2
 aliases: ["Ghostly Carrier"]
-aon_id: "spell-1543"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1543"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 
 - **PFS Note**: The figure created by ghostly carrier counts as a creature for any abilities that target creatures, such as Reactive Strike.
 - **Traditions**: Arcane, Occult
-- **Deities**: Abraxas, Monad
+- **Deities**: [[srd/pf2e/compendium/deities/demon-lords/abraxas|Abraxas]], [[srd/pf2e/compendium/deities/monitor-demigods/monad|Monad]]
 - **Range**: 120 feet
 - **Duration**: 1 minute
 

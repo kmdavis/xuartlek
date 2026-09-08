@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Greater Hell Hound"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Greater Hell Hound"
 level: 9
 source: "Monster Core"
-aon_id: "creature-3048"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3048"
 ---
 

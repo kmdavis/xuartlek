@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -13,7 +12,7 @@ tags:
 - trait/visual
 - feat/level/18
 aliases: ["Infinite Expanse of Bluest Heaven"]
-aon_id: "feat-4220"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4220"
 source: "Rage of Elements"
 ---
 

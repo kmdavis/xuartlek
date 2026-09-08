@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/ranger
 - feat/level/14
 aliases: ["Shared Prey"]
-aon_id: "feat-4899"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4899"
 source: "Player Core"
 ---
 

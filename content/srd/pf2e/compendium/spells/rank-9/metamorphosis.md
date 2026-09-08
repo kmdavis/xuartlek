@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/polymorph
 - spell/level/9
 aliases: ["Metamorphosis"]
-aon_id: "spell-1599"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1599"
 source: "Player Core"
 ---
 
@@ -17,8 +16,8 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Polymorph`
 
 - **Traditions**: Arcane, Primal
-- **Bloodline**: Fey
-- **Deities**: Aakriti, Isis, Wheels of Innovation, Zeaki
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Fey|Fey]]
+- **Deities**: Aakriti, [[srd/pf2e/compendium/deities/dead-or-missing-deities/isis|Isis]], [[srd/pf2e/compendium/deities/pantheons/wheels-of-innovation|Wheels of Innovation]], Zeaki
 - **Duration**: 1 minute
 
 Harnessing your mastery of transformative magic, you hide forms within forms. You transform yourself into any form you could choose with a [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorph]] spell in your spell repertoire or that you could prepare of 8th-rank or lower (including any 8th-rank or lower heightened versions of spells you know). You gain 40 temporary Hit Points rather than the amount normally granted by the form.

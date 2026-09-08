@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
 - trait/magical
 - equipment/level/5
 aliases: ["Vine Baton"]
-aon_id: "equipment-3950"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3950"
 source: "Battlecry!"
 ---
 

@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-implement
 tags:
 - compendium/src/pf2e/battlecry
 aliases: ["Shield"]
-aon_id: "implement-11"
+aon_url: "https://2e.aonprd.com/Implements.aspx?ID=11"
 source: "Battlecry!"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - equipment/level/18
 aliases: ["Emberheart"]
-aon_id: "equipment-5114"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5114"
 source: "Impossible Magic"
 ---
 
@@ -16,7 +15,7 @@ source: "Impossible Magic"
 
 `Apex`  `Invested`  `Magical`
 
-- **Price**: 24,000 gp
+- **Price**: 24, 000 gp
 - **Usage**: worn
 
 This small, heart-shaped amulet appears to be sculpted from stone with a single streak of [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Dim Light|dim light]] running through, like an ember just beneath ashes. When worn, the amulet gives off a gentle warmth, akin to being near a fireplace. You gain poison [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Resistance|resistance]] 15 when wearing this amulet. When you invest the amulet, you either increase your Constitution modifier by 1 or increase it to +4, whichever would give you a higher value. 

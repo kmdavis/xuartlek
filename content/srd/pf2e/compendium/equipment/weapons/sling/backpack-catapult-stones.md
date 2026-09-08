@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/uncommon
 - weapon/level/0
 aliases: ["Backpack Catapult Stones"]
-aon_id: "weapon-180"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=180"
 source: "Guns & Gears (Remastered)"
 ---
 

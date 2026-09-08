@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Dromaar Mountaineer"
 tags:
@@ -14,7 +13,6 @@ statblock: inline
 name: "Dromaar Mountaineer"
 level: 2
 source: "Monster Core"
-aon_id: "creature-3131"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3131"
 ---
 
@@ -42,7 +40,7 @@ skills:
 abilityMods: [3, 3, 1, 0, 2, 0]
 abilities_top:
   - name: "Items"
-    desc: "Pick, Hide Armor, Rope (50 feet), [[srd/pf2e/compendium/equipment/weapons/sling/bola|Bola]] (6)"
+    desc: "Pick, Hide Armor, Rope (50 feet), Bola (6)"
 ac: 19
 armorclass:
   - name: "AC"

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Weaver Of Webs"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Weaver Of Webs"
 level: 15
 source: "War of Immortals"
-aon_id: "creature-3410"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3410"
 ---
 

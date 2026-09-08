@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Quetz Coatl"
 tags:
@@ -14,7 +13,6 @@ statblock: inline
 name: "Quetz Coatl"
 level: 10
 source: "Monster Core"
-aon_id: "creature-2882"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2882"
 ---
 

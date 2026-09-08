@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
 - trait/coda
 aliases: ["Coda"]
-aon_id: "trait-472"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=472"
 source: "Treasure Vault (Remastered)"
 ---
 

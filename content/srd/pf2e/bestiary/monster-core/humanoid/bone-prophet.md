@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Bone Prophet"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Bone Prophet"
 level: 8
 source: "Monster Core"
-aon_id: "creature-3185"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3185"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [3, 3, 2, 5, 5, 6]
 abilities_top:
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/consumables/invisibility-potion|invisibility potion]], [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol-silver|religious symbol]] of Ydersius, _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/club/staff|staff]]_"
+    desc: "[[srd/pf2e/compendium/equipment/consumables/invisibility-potion|invisibility potion]], [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol|religious symbol]] of [[srd/pf2e/compendium/deities/dead-or-missing-deities/ydersius|Ydersius]], _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/club/staff|staff]]_"
 ac: 27
 armorclass:
   - name: "AC"

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-archetype
 tags:
 - compendium/src/pf2e/war-of-immortals
 - trait/rare
 - archetype/level/2
 aliases: ["Seneschal"]
-aon_id: "archetype-284"
+aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=284"
 source: "War of Immortals"
 ---
 

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core
 aliases: ["Phantom"]
-aon_id: "creature-family-455"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=455"
 source: "Monster Core"
 ---
 
 # Phantom  *Creature Family*
 
-The typical trajectory for souls passing to the afterlife is fairly straightforward, according to most theologians. When a mortal dies, their soul enters the River of Souls and eventually reaches the [[srd/pf2e/compendium/gm/planes#Boneyard|Boneyard]], where it is judged by Pharasma. The judged soul moves onto its appropriate domain of final rest— [[srd/pf2e/compendium/gm/planes#Heaven|Heaven]], [[srd/pf2e/compendium/gm/planes#Hell|Hell]], [[srd/pf2e/compendium/gm/planes#Abaddon|Abaddon]], and so forth—where it becomes a shade.
+The typical trajectory for souls passing to the afterlife is fairly straightforward, according to most theologians. When a mortal dies, their soul enters the River of Souls and eventually reaches the [[srd/pf2e/compendium/gm/planes#Boneyard|Boneyard]], where it is judged by [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma]]. The judged soul moves onto its appropriate domain of final rest— [[srd/pf2e/compendium/gm/planes#Heaven|Heaven]], [[srd/pf2e/compendium/gm/planes#Hell|Hell]], [[srd/pf2e/compendium/gm/planes#Abaddon|Abaddon]], and so forth—where it becomes a shade.
 
  Complications arise, however, when a soul in queue for judgment prematurely departs from the River of Souls and is shunted into the [[srd/pf2e/compendium/gm/planes#Ethereal Plane|Ethereal Plane]]. Whether as a result of nefarious interlopers like [[srd/pf2e/compendium/rules-elements/traits/player-core/daemon|daemons]]or [[srd/pf2e/compendium/rules-elements/traits/player-core/hag|hags]], malignant planar magic, or even fate, these souls become dislodged from the natural order of life and death and linger in a sort of purgatory. Unlike petitioners, these ethereal phantoms retain memories of their life before death, and unlike spirits such as ghosts, phantoms aren't tinged with the foul influences of undeath—at least, not at first, though the threat of corruption hangs heavy over a phantom's existence. Some eventually succumb to that fate, while others eventually rejoin the River of Souls. Until then, these wandering souls are a kind unto themselves—one without a true home, agenda, or purpose.
 

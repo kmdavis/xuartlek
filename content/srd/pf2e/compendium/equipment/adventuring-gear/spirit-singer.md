@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/rare
 - equipment/level/5
 aliases: ["Spirit-Singer"]
-aon_id: "equipment-1138"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1138"
 source: "Guns & Gears (Remastered)"
 ---
 

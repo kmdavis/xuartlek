@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-eidolon
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/aberration
 - trait/eidolon
 aliases: ["Aberrant"]
-aon_id: "eidolon-14"
+aon_url: "https://2e.aonprd.com/Eidolons.aspx?ID=14"
 source: "Impossible Magic"
 ---
 

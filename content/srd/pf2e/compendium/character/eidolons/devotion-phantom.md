@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-eidolon
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/ethereal
 - trait/phantom
 aliases: ["Devotion Phantom"]
-aon_id: "eidolon-20"
+aon_url: "https://2e.aonprd.com/Eidolons.aspx?ID=20"
 source: "Impossible Magic"
 ---
 

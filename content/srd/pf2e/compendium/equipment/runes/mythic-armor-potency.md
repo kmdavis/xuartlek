@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -8,7 +7,7 @@ tags:
 - trait/rare
 - equipment/level/20
 aliases: ["Mythic Armor Potency"]
-aon_id: "equipment-3498"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3498"
 source: "War of Immortals"
 ---
 
@@ -16,7 +15,7 @@ source: "War of Immortals"
 
 `Magical`  `Mythic`  `Rare`
 
-- **Price**: 70,000 gp
+- **Price**: 70, 000 gp
 - **Usage**: etched onto armor
 
 This armor is etched with a mythical ward providing unparalleled defense. Increase the armor’s item bonus to AC by 4, and the armor can be etched with four [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/armor-armaments#Property Runes|property runes]].

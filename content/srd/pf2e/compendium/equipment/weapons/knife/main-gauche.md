@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/versatile
 - weapon/level/0
 aliases: ["Main-gauche"]
-aon_id: "weapon-387"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=387"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 
 `Agile`  `Disarm`  `Finesse`  `Parry`  `Versatile`
 
-- **Favored Weapon**: Sturovenen
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/dead-or-missing-deities/sturovenen|Sturovenen]]
 - **Price**: 5 sp
 - **Damage**: 1d4 P
 - **Bulk**: L

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/modular
 aliases: ["Modular"]
-aon_id: "trait-807"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=807"
 source: "Player Core 2"
 ---
 

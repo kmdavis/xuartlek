@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/magical
 - equipment/level/14
 aliases: ["Book Of Endless Walls"]
-aon_id: "equipment-5122"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5122"
 source: "Impossible Magic"
 ---
 
@@ -15,7 +14,7 @@ source: "Impossible Magic"
 
 `Grimoire`  `Magical`
 
-- **Price**: 3,900 gp
+- **Price**: 3, 900 gp
 - **Bulk**: L
 
 A circular labyrinth is etched onto this tome’s cover, its lines shimmering silver. Touching the book causes a sense of faint discombobulation. 

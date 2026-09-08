@@ -7,7 +7,6 @@ cssclasses:
 tags:
   - srd/pf2e/treasure-vault-remastered
 source: "Treasure Vault (Remastered)"
-aon_id: 1905
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=1905"
 citation: "Treasure Vault (Remastered) pg. 46"
 ---
@@ -24,4 +23,4 @@ The following new traits are used for items presented in this section.
 
 > [!pf2-sidebar] NEW ALCHEMICAL ITEMS
 >
-> The new alchemical options appearing in this chapter represent some notable expansions of the abilities available to anyone who uses alchemy, but the alchemist class in particular. It’s important to consider the impact these options can have on the play experience, not from a balance perspective, but from a story perspective. Characters specializing in alchemical foods will want an adventure that gives them time to prepare alchemical foods with the [[srd/pf2e/compendium/rules-elements/traits/treasure-vault-remastered/processed|processed]] trait, like the new [[srd/pf2e/compendium/equipment/alchemical-items/cooperative-waffles-greater|cooperative waffles]]. Be sure that your players choosing these options have the opportunity to take full advantage of them, or warn them if that option won’t be available.
+> The new alchemical options appearing in this chapter represent some notable expansions of the abilities available to anyone who uses alchemy, but the alchemist class in particular. It’s important to consider the impact these options can have on the play experience, not from a balance perspective, but from a story perspective. Characters specializing in alchemical foods will want an adventure that gives them time to prepare alchemical foods with the [[srd/pf2e/compendium/rules-elements/traits/treasure-vault-remastered/processed|processed]] trait, like the new [[srd/pf2e/compendium/equipment/alchemical-items/cooperative-waffles|cooperative waffles]]. Be sure that your players choosing these options have the opportunity to take full advantage of them, or warn them if that option won’t be available.

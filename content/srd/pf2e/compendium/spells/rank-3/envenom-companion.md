@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/poison
 - spell/level/3
 aliases: ["Envenom Companion"]
-aon_id: "spell-2693"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2693"
 source: "Impossible Magic"
 ---
 
@@ -17,7 +16,7 @@ source: "Impossible Magic"
 `Concentrate`  `Manipulate`  `Poison`
 
 - **Tradition**: Primal
-- **Deities**: Nergal, Teshallas
+- **Deities**: [[srd/pf2e/compendium/deities/infernal-dukes/nergal|Nergal]], [[srd/pf2e/compendium/deities/monitor-demigods/teshallas|Teshallas]]
 - **Range**: 30 feet
 - **Target**: your companion or eidolon
 - **Duration**: 1 minute

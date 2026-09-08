@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -8,7 +7,7 @@ tags:
 - trait/metal
 - spell/level/6
 aliases: ["Wall of Metal"]
-aon_id: "spell-1379"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1379"
 source: "Rage of Elements"
 ---
 

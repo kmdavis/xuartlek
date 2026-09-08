@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Tripkee Camoufleur"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Tripkee Camoufleur"
 level: 2
 source: "NPC Core"
-aon_id: "creature-3674"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3674"
 ---
 
@@ -38,7 +36,7 @@ abilities_top:
   - name: "Camouflage Specialist"
     desc: "For encounters involving avoiding detection or hiding an object or creature, the camoufleur is a 5th-level challenge."
   - name: "Natural Disguise"
-    desc: "The camoufleur can use their [[srd/pf2e/compendium/equipment/adventuring-gear/disguise-kit-elite-cosmetics|disguise kit]] to disguise a creature or object as natural flora. A creature gains a +2 item bonus to [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] checks while in a natural environment until its next daily preparations or until its disguise is ruined, whichever comes first. An object in a natural environment can be found only by actively searching (using the [[srd/pf2e/compendium/rules-elements/actions/player-core#Search|Search]] activity while exploring or the [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]] action in an encounter) and uses the camoufleur's Stealth DC."
+    desc: "The camoufleur can use their [[srd/pf2e/compendium/equipment/adventuring-gear/disguise-kit|disguise kit]] to disguise a creature or object as natural flora. A creature gains a +2 item bonus to [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] checks while in a natural environment until its next daily preparations or until its disguise is ruined, whichever comes first. An object in a natural environment can be found only by actively searching (using the [[srd/pf2e/compendium/rules-elements/actions/player-core#Search|Search]] activity while exploring or the [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]] action in an encounter) and uses the camoufleur's Stealth DC."
   - name: "Items"
     desc: "darts (5), Disguise Kit, Hand Adze, Leather Armor"
 ac: 18

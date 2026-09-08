@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Verdure's Moonflower"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Verdure's Moonflower"
 level: 8
 source: "Dark Archives (Remastered)"
-aon_id: "creature-4649"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4649"
 ---
 

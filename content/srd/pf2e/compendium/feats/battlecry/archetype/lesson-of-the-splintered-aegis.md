@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
@@ -8,7 +7,7 @@ tags:
 - trait/fortune
 - feat/level/10
 aliases: ["Lesson of the Splintered Aegis"]
-aon_id: "feat-7951"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7951"
 source: "Battlecry!"
 ---
 

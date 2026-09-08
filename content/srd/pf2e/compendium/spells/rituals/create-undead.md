@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/unholy
 - ritual/level/2
 aliases: ["Create Undead"]
-aon_id: "ritual-117"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=117"
 source: "Player Core"
 ---
 

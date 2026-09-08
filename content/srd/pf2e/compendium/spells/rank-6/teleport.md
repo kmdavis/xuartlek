@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - spell/level/6
 aliases: ["Teleport"]
-aon_id: "spell-1720"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1720"
 source: "Player Core"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core"
 
 - **Traditions**: Arcane, Occult
 - **Spell Lists**: Elemental
-- **Deities**: Barzahk, Pulura
+- **Deities**: [[srd/pf2e/compendium/deities/monitor-demigods/barzahk|Barzahk]], [[srd/pf2e/compendium/deities/empyreal-lords/pulura|Pulura]]
 - **Cast**: 10 minutes
 - **Range**: 100 miles
 - **Target**: you and up to 4 targets touched, either willing creatures or objects roughly the size of a creature

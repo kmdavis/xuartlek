@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/human
 - feat/level/13
 aliases: ["Stubborn Persistence"]
-aon_id: "feat-4491"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4491"
 source: "Player Core"
 ---
 

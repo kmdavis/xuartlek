@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-sidebar
 tags:
 - compendium/src/pf2e/gm-core
@@ -9,7 +8,7 @@ entries: 78
 
 # Sidebars: GM Core
 
-## Adjusting Treasure  *Sidebar*
+## Adjusting Treasure
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-1-running-the-game/rewards#Currency|Currency]]
 
@@ -25,7 +24,7 @@ For a simple guideline to these situations, increase the treasure as though ther
 
 *Source: GM Core p. 59*
 
-## Advancement Speeds  *Sidebar*
+## Advancement Speeds
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-1-running-the-game/rewards#Hero Points|Hero Points]]
 
@@ -43,7 +42,7 @@ If you don't want to deal with managing and handing out XP, or if you want to ha
 
 *Source: GM Core p. 57*
 
-## Adventure Research  *Sidebar*
+## Adventure Research
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-1-running-the-game/running-exploration#Follow the Expert|Follow the Expert]]
 
@@ -53,15 +52,15 @@ You don't need to go into the same level of detail you'd see in a published adve
 
 *Source: GM Core p. 41*
 
-## Armor Alternatives  *Sidebar*
+## Armor Alternatives
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/armor-armaments#Armor|Armor]]
 
-If you don't want to wear armor, or you're trained in only unarmored defense, you can wear either [[srd/pf2e/compendium/equipment/armor#Explorer's Clothing|explorer's clothing]] or _[[srd/pf2e/compendium/equipment/worn-items/bands-of-force-major|bands of force]]_. Explorer's clothing can be etched with runes just like armor can, so it can provide item bonuses to AC or saves. _Bands of force_ give a +1 item bonus to AC with a Dex modifier cap of +5, and they also grant a bonus to saves.
+If you don't want to wear armor, or you're trained in only unarmored defense, you can wear either [[srd/pf2e/compendium/equipment/armor#Explorer's Clothing|explorer's clothing]] or _[[srd/pf2e/compendium/equipment/worn-items/bands-of-force|bands of force]]_. Explorer's clothing can be etched with runes just like armor can, so it can provide item bonuses to AC or saves. _Bands of force_ give a +1 item bonus to AC with a Dex modifier cap of +5, and they also grant a bonus to saves.
 
 *Source: GM Core p. 228*
 
-## Base Road Maps  *Sidebar*
+## Base Road Maps
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-2-building-games/building-creatures|Building Creatures]]
 
@@ -83,7 +82,7 @@ You can use the following suggestions to set the baseline when creating your roa
 
 *Source: GM Core p. 112*
 
-## Building a Sandbox  *Sidebar*
+## Building a Sandbox
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-2-building-games/adventure-design#Corruption|Corruption]]
 
@@ -93,7 +92,7 @@ To make a sandbox, create about triple the number of encounters and spread them 
 
 *Source: GM Core p. 71*
 
-## Building Creatures Overview  *Sidebar*
+## Building Creatures Overview
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-2-building-games/building-creatures|Building Creatures]]
 
@@ -123,7 +122,7 @@ Spells, if necessary
 
 *Source: GM Core p. 112*
 
-## Bypassed Encounters  *Sidebar*
+## Bypassed Encounters
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-1-running-the-game/running-encounters#Measuring Success and Progress|Measuring Success and Progress]]
 
@@ -135,7 +134,7 @@ You'll have to think on your feet if information or items get skipped when playe
 
 *Source: GM Core p. 31*
 
-## Campaign Reference  *Sidebar*
+## Campaign Reference
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-2-building-games/building-worlds#Mapping a World|Mapping a World]]
 
@@ -143,7 +142,7 @@ Before the campaign starts, you might want to begin the outline for a campaign r
 
 *Source: GM Core p. 135*
 
-## Campaigns, Adventures, and Encounters  *Sidebar*
+## Campaigns, Adventures, and Encounters
 
 - **Parent page**: [[srd/pf2e/books/gm-core/introduction/choosing-your-tools#I’m Running a Published Adventure|I’m Running a Published Adventure]]
 
@@ -151,7 +150,7 @@ The rules and advice in this book frequently refer to three main structures of a
 
 *Source: GM Core p. 5*
 
-## Cheating  *Sidebar*
+## Cheating
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-1-running-the-game/special-considerations#Distractions and Interruptions|Distractions and Interruptions]]
 
@@ -161,7 +160,7 @@ Ultimately, it will fall to you as the GM to gently make it clear that this beha
 
 *Source: GM Core p. 17*
 
-## Class Road Maps  *Sidebar*
+## Class Road Maps
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-2-building-games/building-creatures#PC-style Build|PC-style Build]]
 
@@ -205,7 +204,7 @@ You can use these suggestions when creating your road map to emulate a PC class,
 
 *Source: GM Core p. 128*
 
-## Collaboration During Play  *Sidebar*
+## Collaboration During Play
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-1-running-the-game/a-welcoming-environment#The Pathfinder Baseline|The Pathfinder Baseline]]
 
@@ -219,7 +218,7 @@ As you play, opportunities to collaborate will occur again and again. When playe
 
 *Source: GM Core p. 7*
 
-## Combining Subsystems  *Sidebar*
+## Combining Subsystems
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-4-subsystems/deciding-to-use-a-subsystem|Deciding to Use a Subsystem]]
 
@@ -227,15 +226,15 @@ Some of the subsystems in this chapter could interact in interesting ways when c
 
 *Source: GM Core p. 183*
 
-## Conscientious Culture Design  *Sidebar*
+## Conscientious Culture Design
 
-- **Parent page**: [[srd/pf2e/books/gm-core/chapter-2-building-games/building-worlds#Location, Size, and Population|Location, Size, and Population]]
+- **Parent page**: [[srd/pf2e/books/gm-core/chapter-2-building-games/building-worlds#Location, Size, and Population|Location, and Population]]
 
 Creating fantasy cultures is a delicate topic, as it can be all too easy to create a culture or a group based on damaging stereotypes or simplistic reductions of real-world groups. Creating entire cultures out of harmful genre tropes such as “jungle heathen” or “noble samurai” reduces real-world cultures to caricatures and perpetuates misconceptions about people from those cultures. Taking inspiration from the real world is wonderful—our world is filled with an incredible diversity of cultures and peoples—but you should do so with care and respect for those sources.
 
 *Source: GM Core p. 137*
 
-## Converting First Edition Creatures  *Sidebar*
+## Converting First Edition Creatures
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-2-building-games/building-creatures|Building Creatures]]
 
@@ -247,7 +246,7 @@ Attribute modifiers scale differently, so don't copy them exactly. The highest m
 
 *Source: GM Core p. 112*
 
-## Designing NPCs  *Sidebar*
+## Designing NPCs
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-2-building-games/building-creatures|Building Creatures]]
 
@@ -255,7 +254,7 @@ Sometimes you’ll design a creature that’s meant to have abilities or charact
 
 *Source: GM Core p. 112*
 
-## Determining the Scope of Lore  *Sidebar*
+## Determining the Scope of Lore
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-1-running-the-game/difficulty-classes#Creature Identification|Creature Identification]]
 
@@ -263,7 +262,7 @@ Lore skills are one of the most specialized aspects of Pathfinder, but they requ
 
 *Source: GM Core p. 54*
 
-## Disrupting Activations  *Sidebar*
+## Disrupting Activations
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/activating-items#Long Activation Times|Long Activation Times]]
 
@@ -271,7 +270,7 @@ Some abilities and effects can disrupt the process of Activating an Item. If som
 
 *Source: GM Core p. 220*
 
-## Doors, Gates, and Walls  *Sidebar*
+## Doors, Gates, and Walls
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-2-building-games/environment#Urban|Urban]]
 
@@ -293,7 +292,7 @@ Strong walls, such as well-maintained masonry or hewn stone, can't be broken wit
 
 *Source: GM Core p. 92*
 
-## Dungeons  *Sidebar*
+## Dungeons
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-2-building-games/environment#Underground|Underground]]
 
@@ -301,7 +300,7 @@ Dungeon environments, which include both ruins and contemporary buildings constr
 
 *Source: GM Core p. 94*
 
-## Enemy Victory Points  *Sidebar*
+## Enemy Victory Points
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-4-subsystems/victory-points#Multiple Point Subsystems|Multiple Point Subsystems]]
 
@@ -311,7 +310,7 @@ Implementing such a subsystem might mean flipping the normal rolls. For instance
 
 *Source: GM Core p. 185*
 
-## Enhanced and Impeded Magic  *Sidebar*
+## Enhanced and Impeded Magic
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/the-planes#Inner Sphere Planes|Inner Sphere Planes]]
 
@@ -323,7 +322,7 @@ Some particularly potent areas can enhance magic related to the nature of the pl
 
 *Source: GM Core p. 174*
 
-## Example Magic Scroll  *Sidebar*
+## Example Magic Scroll
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/scrolls#Magic Scroll|Magic Scroll]]
 
@@ -347,7 +346,7 @@ You cast illusory disguise as a 1st-rank spell.
 
 *Source: GM Core p. 262*
 
-## Example Magic Wand  *Sidebar*
+## Example Magic Wand
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/trappings-of-power#Specialty Wands|Specialty Wands]]
 
@@ -367,7 +366,7 @@ Activate [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Singl
 
 *Source: GM Core p. 282*
 
-## Expandable Trait  *Sidebar*
+## Expandable Trait
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/wondrous-consumables|Wondrous Consumables]]
 
@@ -375,7 +374,7 @@ An item with the [[srd/pf2e/compendium/rules-elements/traits/gm-core/expandable|
 
 *Source: GM Core p. 268*
 
-## Focus Spells  *Sidebar*
+## Focus Spells
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-2-building-games/building-creatures#Design Abilities|Design Abilities]]
 
@@ -383,7 +382,7 @@ Some creatures have focus spells, especially when those focus spells clearly fit
 
 *Source: GM Core p. 123*
 
-## Forcing Open  *Sidebar*
+## Forcing Open
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-2-building-games/environment#Urban|Urban]]
 
@@ -395,7 +394,7 @@ Structures that can be opened—such as doors, gates, and windows—can be Force
 
 *Source: GM Core p. 92*
 
-## Gallop  *Sidebar*
+## Gallop
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-4-subsystems/vehicles#Vehicle Statistics|Vehicle Statistics]]
 
@@ -403,7 +402,7 @@ Horses and some other creatures have the Gallop action. When all creatures pulli
 
 *Source: GM Core p. 213*
 
-## GM Priorities  *Sidebar*
+## GM Priorities
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-1-running-the-game/running-encounters|Running Encounters]]
 
@@ -413,7 +412,7 @@ Answering questions quickly and decisively whenever possibleBuilding anticipatio
 
 *Source: GM Core p. 24*
 
-## GM Priorities  *Sidebar*
+## GM Priorities
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-1-running-the-game/running-exploration#Daily Preparations|Daily Preparations]]
 
@@ -423,7 +422,7 @@ Evoke the setting with vivid sensory details.Shift the passage of time to emphas
 
 *Source: GM Core p. 35*
 
-## GM Priorities  *Sidebar*
+## GM Priorities
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-1-running-the-game/running-downtime#Campaigns without Downtime|Campaigns without Downtime]]
 
@@ -433,7 +432,7 @@ Demonstrate changes to the setting that result from the PCs' previous achievemen
 
 *Source: GM Core p. 45*
 
-## Grid Variants  *Sidebar*
+## Grid Variants
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-1-running-the-game/running-encounters#Maps and Miniatures|Maps and Miniatures]]
 
@@ -453,7 +452,7 @@ Some of the challenges of diagonal movement can be fixed by using a hex grid ins
 
 *Source: GM Core p. 28*
 
-## Hazards by Level  *Sidebar*
+## Hazards by Level
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-2-building-games/hazards#Simple Hazards|Simple Hazards]]
 
@@ -461,7 +460,7 @@ This chapter’s hazards are organized by complexity, then by name. If you need 
 
 *Source: GM Core p. 100*
 
-## Hero Points  *Sidebar*
+## Hero Points
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-1-running-the-game/running-a-session#Failing Forward|Failing Forward]]
 
@@ -469,7 +468,7 @@ As GM, you’re in charge of doling out Hero Points during sessions. Recommendat
 
 *Source: GM Core p. 11*
 
-## Improvising a Creature  *Sidebar*
+## Improvising a Creature
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-2-building-games/building-creatures#Armor Class|Armor Class]]
 
@@ -477,7 +476,7 @@ As you get more experienced, you might find that you don’t need to build some 
 
 *Source: GM Core p. 117*
 
-## Infiltration Preparation  *Sidebar*
+## Infiltration Preparation
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-4-subsystems/infiltration#Edge Points|Edge Points]]
 
@@ -485,7 +484,7 @@ For most infiltrations, you’ll want to detail the site or group the PCs are tr
 
 *Source: GM Core p. 199*
 
-## Item Categories  *Sidebar*
+## Item Categories
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/index|Chapter 5: Treasure Trove]]
 
@@ -495,16 +494,16 @@ Items are grouped into the following categories, shown here with a brief descrip
 
 *Source: GM Core p. 219*
 
-## Item Categories  *Sidebar*
+## Item Categories
 
-- **Parent page**: [[srd/pf2e/compendium/rules-elements/actions/gm-core-co-tak#Invest an Item|Invest an Item]]
+- **Parent page**: [[srd/pf2e/compendium/rules-elements/actions/gm-core#Invest an Item|Invest an Item]]
 
 Items are grouped into the following categories, shown here with the page number where those items appear and a brief description of the category. 
-**Armor & Armaments** includes rules for etching runes to enhance weapons and armor, armor runes, [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/armor-armaments#Specific Magic Armor|specific suits of armor]], [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/armor-armaments#Shields|shields]] and the [[srd/pf2e/compendium/equipment/runes/reinforcing-rune-supreme|reinforcing rune]], weapon runes, and specific weapons .**Alchemy** items are powered by the reactions of alchemical reagents. Almost all alchemical items are [[srd/pf2e/compendium/rules-elements/traits/player-core/consumable|consumable]] items that are used up when you activate them. This category includes [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/alchemy#Alchemical Bombs|bombs]], [[srd/pf2e/books/player-core/chapter-6-equipment/gear#Elixirs|elixirs]], [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/alchemy#Alchemical Poisons|poisons]], and [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/alchemy#Alchemical Tools|alchemical tools]].**Materials** includes the statistics for standard items and structures along with rules for precious materials that can be used to make items with unique properties and other advantages.**Momentary Magic** has a plethora of magical consumables, including [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/momentary-magic#Ammunition|ammunition]], [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/oils|oils]] applied to the surface of objects and people, [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/potions|potions]] to drink, [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/scrolls|scrolls]] used to cast more spells, [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/talismans|talismans]] affixed to items, and [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/wondrous-consumables|wondrous consumables]] of all sorts.**Trappings of Power** are permanent and powerful. They include [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/trappings-of-power#Apex Items|apex items]] that can increase an attribute modifier, [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/trappings-of-power#Companion Items|companion items]] for pets, [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/trappings-of-power#Held Items|held items]], magical [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/trappings-of-power#Staves|staves]] for spellcasters, [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/trappings-of-power#Wands|wands]] that can repeatedly cast more spells, and a vast collection of [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/trappings-of-power#Worn Items|worn items]].**Gems & Art Objects** make for an interesting variety of treasures.**Artifacts** are extraordinarily powerful magic items ideal to build adventures and plots around.**Intelligent Items** provides options for conscious items.**Cursed Items**, used sparingly, can add danger and fun to items.**Relics** let you build a special item that unlocks new powers over time through the story of a campaign.
+**Armor & Armaments** includes rules for etching runes to enhance weapons and armor, armor runes, [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/armor-armaments#Specific Magic Armor|specific suits of armor]], [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/armor-armaments#Shields|shields]] and the [[srd/pf2e/compendium/equipment/runes/reinforcing-rune|reinforcing rune]], weapon runes, and specific weapons .**Alchemy** items are powered by the reactions of alchemical reagents. Almost all alchemical items are [[srd/pf2e/compendium/rules-elements/traits/player-core/consumable|consumable]] items that are used up when you activate them. This category includes [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/alchemy#Alchemical Bombs|bombs]], [[srd/pf2e/books/player-core/chapter-6-equipment/gear#Elixirs|elixirs]], [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/alchemy#Alchemical Poisons|poisons]], and [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/alchemy#Alchemical Tools|alchemical tools]].**Materials** includes the statistics for standard items and structures along with rules for precious materials that can be used to make items with unique properties and other advantages.**Momentary Magic** has a plethora of magical consumables, including [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/momentary-magic#Ammunition|ammunition]], [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/oils|oils]] applied to the surface of objects and people, [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/potions|potions]] to drink, [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/scrolls|scrolls]] used to cast more spells, [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/talismans|talismans]] affixed to items, and [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/wondrous-consumables|wondrous consumables]] of all sorts.**Trappings of Power** are permanent and powerful. They include [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/trappings-of-power#Apex Items|apex items]] that can increase an attribute modifier, [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/trappings-of-power#Companion Items|companion items]] for pets, [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/trappings-of-power#Held Items|held items]], magical [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/trappings-of-power#Staves|staves]] for spellcasters, [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/trappings-of-power#Wands|wands]] that can repeatedly cast more spells, and a vast collection of [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/trappings-of-power#Worn Items|worn items]].**Gems & Art Objects** make for an interesting variety of treasures.**Artifacts** are extraordinarily powerful magic items ideal to build adventures and plots around.**Intelligent Items** provides options for conscious items.**Cursed Items**, used sparingly, can add danger and fun to items.**Relics** let you build a special item that unlocks new powers over time through the story of a campaign.
 
 *Source: GM Core p. 219*
 
-## Item Rarity  *Sidebar*
+## Item Rarity
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/crafting-items|Crafting Items]]
 
@@ -514,17 +513,17 @@ Rarities for uncommon and rare treasures are indicated by the first trait in the
 
 *Source: GM Core p. 223*
 
-## Manufactured Weapons  *Sidebar*
+## Manufactured Weapons
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-2-building-games/building-creatures#Strike Damage|Strike Damage]]
 
 As noted in [[srd/pf2e/books/gm-core/chapter-2-building-games/building-creatures#Items|Items]], most creatures have less treasure than PCs, so those that rely on manufactured weapons are significantly weaker if you don't adjust the weapons' damage to compensate. The method for determining [[srd/pf2e/books/gm-core/chapter-2-building-games/building-creatures#Strike Damage|Strike damage]] abstracts the sources of damage, so you don't have to worry about adjusting the weapon's damage. If you do decide to calculate the weapon's damage, give your creature weapon specialization or greater weapon specialization much earlier than a PC would get it. You might also need to add sneak attack or similar abilities to make the creature deal more damage.
 
-On the flip side, you might want to use a one-off creature as a source of a particularly high-level piece of treasure, such as a magic weapon. In these cases, you might want to make the attack bonus higher for the [[srd/pf2e/compendium/equipment/runes/weapon-potency-3|potency rune]] or the damage higher for a potent [[srd/pf2e/compendium/equipment/runes/striking-major|striking rune]] so the PCs feel the weapon's effect before they obtain it. This will make the treasure feel more powerful since they've already been on the receiving end.
+On the flip side, you might want to use a one-off creature as a source of a particularly high-level piece of treasure, such as a magic weapon. In these cases, you might want to make the attack bonus higher for the [[srd/pf2e/compendium/equipment/runes/weapon-potency|potency rune]] or the damage higher for a potent [[srd/pf2e/compendium/equipment/runes/striking|striking rune]] so the PCs feel the weapon's effect before they obtain it. This will make the treasure feel more powerful since they've already been on the receiving end.
 
 *Source: GM Core p. 120*
 
-## Mental Illness and Chronic Illness  *Sidebar*
+## Mental Illness and Chronic Illness
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-1-running-the-game/special-considerations#Characters with Disabilities|Characters with Disabilities]]
 
@@ -532,7 +531,7 @@ Some disabilities, such as mental illness and chronic illnesses, are best left t
 
 *Source: GM Core p. 21*
 
-## Monitoring Spell Durations  *Sidebar*
+## Monitoring Spell Durations
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-1-running-the-game/running-exploration#Flow of Time|Flow of Time]]
 
@@ -554,7 +553,7 @@ Casting preparatory spells before combat becomes a problem when it feels rote an
 
 *Source: GM Core p. 38*
 
-## Monsters and Hazards  *Sidebar*
+## Monsters and Hazards
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-2-building-games/hazards#Attacking a Hazard|Attacking a Hazard]]
 
@@ -564,7 +563,7 @@ For Perception, a monster is usually an expert at 3rd or 4th level, a master at 
 
 *Source: GM Core p. 99*
 
-## Months and Days  *Sidebar*
+## Months and Days
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/the-inner-sea-region|The Inner Sea Region]]
 
@@ -594,7 +593,7 @@ Sunday (Sunday)
 
 *Source: GM Core p. 144*
 
-## Notable Item Traits  *Sidebar*
+## Notable Item Traits
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/reading-items|Reading Items]]
 
@@ -614,7 +613,7 @@ When a character creates consumable items, they can make them in batches of four
 
 *Source: GM Core p. 221*
 
-## Off-Session Gaming  *Sidebar*
+## Off-Session Gaming
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-1-running-the-game/running-a-session#NPC Limitations|NPC Limitations]]
 
@@ -626,7 +625,7 @@ Some events aren't suitable for handling outside of sessions. Any event that str
 
 *Source: GM Core p. 13*
 
-## Paizo's Published Adventures  *Sidebar*
+## Paizo's Published Adventures
 
 - **Parent page**: [[srd/pf2e/books/gm-core/introduction/choosing-your-tools#I’m Running a Published Adventure|I’m Running a Published Adventure]]
 
@@ -646,7 +645,7 @@ Scenarios are the adventures used by the Pathfinder Society Organized Play progr
 
 *Source: GM Core p. 5*
 
-## Pitfalls  *Sidebar*
+## Pitfalls
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-2-building-games/encounter-design#Combining and Separating Encounters|Combining and Separating Encounters]]
 
@@ -656,7 +655,7 @@ This section arms you with a wide variety of useful tricks to add interest to yo
 
 *Source: GM Core p. 79*
 
-## Player-Driven Relics  *Sidebar*
+## Player-Driven Relics
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/relics#Adjusting Treasure|Adjusting Treasure]]
 
@@ -666,7 +665,7 @@ As the item and the character level up, the player chooses which gifts the item 
 
 *Source: GM Core p. 309*
 
-## Potions vs. Elixirs  *Sidebar*
+## Potions vs. Elixirs
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-2-building-games/building-items#Potions|Potions]]
 
@@ -674,7 +673,7 @@ Alchemical items and magic items follow a similar price economy based on their l
 
 *Source: GM Core p. 132*
 
-## Propulsion  *Sidebar*
+## Propulsion
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-4-subsystems/vehicles#Propulsion|Propulsion]]
 
@@ -700,7 +699,7 @@ The vehicles in _Guns & Gears_ use the following new means of propulsion, in add
 
 *Source: GM Core p. 211*
 
-## Pulling a Sky Chariot  *Sidebar*
+## Pulling a Sky Chariot
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-4-subsystems/vehicles#Vehicle Statistics|Vehicle Statistics]]
 
@@ -708,7 +707,7 @@ Sky chariots naturally require flying creatures to pull them. Some options in Mo
 
 *Source: GM Core p. 213*
 
-## Quick Adventure Groups  *Sidebar*
+## Quick Adventure Groups
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-2-building-games/encounter-design#XP Budget|XP Budget]]
 
@@ -718,7 +717,7 @@ If you want an easy framework for building an encounter, you can use one of the 
 
 *Source: GM Core p. 75*
 
-## Quick Environmental Details  *Sidebar*
+## Quick Environmental Details
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-1-running-the-game/running-exploration#Flow of Time|Flow of Time]]
 
@@ -780,7 +779,7 @@ If you want an easy framework for building an encounter, you can use one of the 
 
 *Source: GM Core p. 38*
 
-## Recall Knowledge Considerations  *Sidebar*
+## Recall Knowledge Considerations
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-1-running-the-game/difficulty-classes#Recall Knowledge|Recall Knowledge]]
 
@@ -796,7 +795,7 @@ Use the following advice.
 
 *Source: GM Core p. 54*
 
-## Remember the First Rule  *Sidebar*
+## Remember the First Rule
 
 - **Parent page**: [[srd/pf2e/books/gm-core/introduction/choosing-your-tools#I’m Running a Published Adventure|I’m Running a Published Adventure]]
 
@@ -804,7 +803,7 @@ The first rule of Pathfinder is that **this game is yours**. The rest of the rul
 
 *Source: GM Core p. 5*
 
-## Reputation in Pathfinder Society Organized Play  *Sidebar*
+## Reputation in Pathfinder Society Organized Play
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-4-subsystems/reputation#Hunted|Hunted]]
 
@@ -812,7 +811,7 @@ Pathfinder Society Organized Play uses a version of the reputation subsystem wit
 
 *Source: GM Core p. 201*
 
-## Reskinning a Creature  *Sidebar*
+## Reskinning a Creature
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-2-building-games/building-creatures#Develop the Concept|Develop the Concept]]
 
@@ -820,7 +819,7 @@ Sometimes you need a creature with abilities that are almost exactly the same as
 
 *Source: GM Core p. 112*
 
-## Rune Transfer Examples  *Sidebar*
+## Rune Transfer Examples
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/armor-armaments#Transferring Runes|Transferring Runes]]
 
@@ -830,7 +829,7 @@ When transferring a rune to an item that can hold multiple property runes, you c
 
 *Source: GM Core p. 225*
 
-## Runes as Gifts  *Sidebar*
+## Runes as Gifts
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/relics#Relic Gifts|Relic Gifts]]
 
@@ -838,12 +837,12 @@ You can substitute runes for gifts. If you choose to allow property runes on the
 
 #### Air
 
-**Armor** (Major) [[srd/pf2e/compendium/equipment/runes/energy-resistant-greater|energy-resistant]] or greater energy resistant (cold or electricity), [[srd/pf2e/compendium/equipment/runes/invisibility-greater|invisibility]]; **Armor** (Grand) [[srd/pf2e/compendium/equipment/runes/winged-greater|winged]]
-**Weapon** (Minor) [[srd/pf2e/compendium/equipment/runes/returning|returning]]; **Weapon** (Major) [[srd/pf2e/compendium/equipment/runes/animated|animated]], [[srd/pf2e/compendium/equipment/runes/shock-greater|shock]], [[srd/pf2e/compendium/equipment/runes/thundering-greater|thundering]]; **Weapon** (Grand) greater shock, greater thundering
+**Armor** (Major) [[srd/pf2e/compendium/equipment/runes/energy-resistant|energy-resistant]] or greater energy resistant (cold or electricity), [[srd/pf2e/compendium/equipment/runes/invisibility|invisibility]]; **Armor** (Grand) [[srd/pf2e/compendium/equipment/runes/winged|winged]]
+**Weapon** (Minor) [[srd/pf2e/compendium/equipment/runes/returning|returning]]; **Weapon** (Major) [[srd/pf2e/compendium/equipment/runes/animated|animated]], [[srd/pf2e/compendium/equipment/runes/shock|shock]], [[srd/pf2e/compendium/equipment/runes/thundering|thundering]]; **Weapon** (Grand) greater shock, greater thundering
 
 #### Beast
 
-**Weapon** (Minor) [[srd/pf2e/compendium/equipment/runes/fearsome-greater|fearsome]], [[srd/pf2e/compendium/equipment/runes/wounding|wounding]]; **Weapon** (Major) greater fearsome, [[srd/pf2e/compendium/equipment/runes/quickstrike|quickstrike]]
+**Weapon** (Minor) [[srd/pf2e/compendium/equipment/runes/fearsome|fearsome]], [[srd/pf2e/compendium/equipment/runes/wounding|wounding]]; **Weapon** (Major) greater fearsome, [[srd/pf2e/compendium/equipment/runes/quickstrike|quickstrike]]
 
 | | |
 | --- | --- |
@@ -852,7 +851,7 @@ You can substitute runes for gifts. If you choose to allow property runes on the
 
 #### Earth
 
-**Armor** (Minor) energy-resistant or greater energy resistant (acid); **Armor** (Major) [[srd/pf2e/compendium/equipment/runes/fortification-greater|fortification]]; **Armor** (Grand) greater fortification
+**Armor** (Minor) energy-resistant or greater energy resistant (acid); **Armor** (Major) [[srd/pf2e/compendium/equipment/runes/fortification|fortification]]; **Armor** (Grand) greater fortification
 **Weapon** (Minor) [[srd/pf2e/compendium/equipment/runes/shifting|shifting]]
 
 | | |
@@ -862,23 +861,23 @@ You can substitute runes for gifts. If you choose to allow property runes on the
 #### Fire
 
 **Armor** (Minor) energy-resistant or greater energy resistant (fire)
-**Weapon** (Minor) [[srd/pf2e/compendium/equipment/runes/flaming-greater|flaming]]; **Weapon** (Major) greater flaming
+**Weapon** (Minor) [[srd/pf2e/compendium/equipment/runes/flaming|flaming]]; **Weapon** (Major) greater flaming
 
 | | |
 | --- | --- |
-| **Life** | **Weapon** (Minor) [[srd/pf2e/compendium/equipment/runes/vitalizing-greater\|vitalizing]]; **Weapon** (Major) greater vitalizing |
+| **Life** | **Weapon** (Minor) [[srd/pf2e/compendium/equipment/runes/vitalizing\|vitalizing]]; **Weapon** (Major) greater vitalizing |
 | **Mind** | **Armor** (Minor) [[srd/pf2e/compendium/equipment/runes/raiment\|raiment]]; **Armor** (Major) invisibility |
 | **Plant** | **Weapon** (Minor) shifting |
-| **Shadow** | **Armor** (Minor) [[srd/pf2e/compendium/equipment/runes/shadow-major\|shadow]]; **Armor** (Major) greater shadow; **Armor** (Grand) major shadow |
+| **Shadow** | **Armor** (Minor) [[srd/pf2e/compendium/equipment/runes/shadow\|shadow]]; **Armor** (Major) greater shadow; **Armor** (Grand) major shadow |
 
 #### Water
 
-**Armor** (Minor) energy-resistant or greater energy resistant (cold or fire), [[srd/pf2e/compendium/equipment/runes/slick-major|slick]]; **Armor** (Major) greater or major slick
+**Armor** (Minor) energy-resistant or greater energy resistant (cold or fire), [[srd/pf2e/compendium/equipment/runes/slick|slick]]; **Armor** (Major) greater or major slick
 **Weapon** (Minor) shifting
 
 *Source: GM Core p. 309*
 
-## Running Your Own Adventure  *Sidebar*
+## Running Your Own Adventure
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-1-running-the-game/running-exploration#Follow the Expert|Follow the Expert]]
 
@@ -888,7 +887,7 @@ Because this is your own creation, it's closer to your heart. If the adventure d
 
 *Source: GM Core p. 41*
 
-## Sample Research Checks and Stat Block  *Sidebar*
+## Sample Research Checks and Stat Block
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-4-subsystems/research#Designing the Stat Block|Designing the Stat Block]]
 
@@ -915,7 +914,7 @@ Primal**Research Checks** sprite swarm (entrance), field of tomeflowers (babblin
 
 *Source: GM Core p. 191*
 
-## Sample Stat Block  *Sidebar*
+## Sample Stat Block
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-4-subsystems/influence#Influence Stat Blocks|Influence Stat Blocks]]
 
@@ -946,7 +945,7 @@ HumanoidPenny-pinching landlord
 
 *Source: GM Core p. 188*
 
-## Setting Infiltration Skills and DCs  *Sidebar*
+## Setting Infiltration Skills and DCs
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-4-subsystems/infiltration#Sample Obstacles|Sample Obstacles]]
 
@@ -954,7 +953,7 @@ Many of the sample infiltration activities and events give a DC range instead of
 
 *Source: GM Core p. 197*
 
-## Sharing Responsibility  *Sidebar*
+## Sharing Responsibility
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-1-running-the-game/running-a-session#The Spotlight|The Spotlight]]
 
@@ -964,7 +963,7 @@ It's best to figure out a schedule of responsibilities when you're first setting
 
 *Source: GM Core p. 11*
 
-## Social Encounter Examples  *Sidebar*
+## Social Encounter Examples
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-1-running-the-game/running-encounters#Social Encounters|Social Encounters]]
 
@@ -974,7 +973,7 @@ Besting a rival bard in a battle of witsBrokering peace between warring groupsCo
 
 *Source: GM Core p. 31*
 
-## Solo Chases  *Sidebar*
+## Solo Chases
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-4-subsystems/chases#Shortcuts and Split Paths|Shortcuts and Split Paths]]
 
@@ -982,7 +981,7 @@ Sometimes circumstances might require you to run a chase where the PCs are each 
 
 *Source: GM Core p. 193*
 
-## Specific Armor, Weapons, and Shields  *Sidebar*
+## Specific Armor, Weapons, and Shields
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/armor-armaments#Property Runes|Property Runes]]
 
@@ -990,7 +989,7 @@ Unlike armor, weapons, and shields enhanced with runes, specific armor, weapons,
 
 *Source: GM Core p. 225*
 
-## Terrain Rules  *Sidebar*
+## Terrain Rules
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-2-building-games/environment#Slopes|Slopes]]
 
@@ -1004,7 +1003,7 @@ Any movement creatures make while jumping ignores terrain that the creature is j
 
 *Source: GM Core p. 91*
 
-## The Structure Trait  *Sidebar*
+## The Structure Trait
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/trappings-of-power#Held Items|Held Items]]
 
@@ -1014,7 +1013,7 @@ The structure doesn't harm creatures within the area when it appears, and it can
 
 *Source: GM Core p. 273*
 
-## Time  *Sidebar*
+## Time
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/index|Chapter 3: Age of Lost Omens]]
 
@@ -1022,7 +1021,7 @@ Like Earth, Golarion spins on its axis once roughly every 24 hours. A week has 7
 
 *Source: GM Core p. 143*
 
-## Tools for Responsible Play  *Sidebar*
+## Tools for Responsible Play
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-1-running-the-game/a-welcoming-environment#The Pathfinder Baseline|The Pathfinder Baseline]]
 
@@ -1038,7 +1037,7 @@ Draw an “X” on a card, and you've got an X-Card. Place it on the table at th
 
 *Source: GM Core p. 7*
 
-## Traits Abilities  *Sidebar*
+## Traits Abilities
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-2-building-games/building-creatures|Building Creatures]]
 
@@ -1046,7 +1045,7 @@ Draw an “X” on a card, and you've got an X-Card. Place it on the table at th
 
 *Source: GM Core p. 112*
 
-## Types of Terrain  *Sidebar*
+## Types of Terrain
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-4-subsystems/hexploration#Switching out of Hexploration|Switching out of Hexploration]]
 
@@ -1096,7 +1095,7 @@ The following are examples of the types of terrain you can use when creating you
 
 *Source: GM Core p. 209*
 
-## Unexpected Difficulty  *Sidebar*
+## Unexpected Difficulty
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-1-running-the-game/running-encounters#Setting the Scene|Setting the Scene]]
 
@@ -1108,7 +1107,7 @@ In both these cases, consider whether the discrepancy from your expectations is 
 
 *Source: GM Core p. 25*
 
-## Upgraded Summoning Runes  *Sidebar*
+## Upgraded Summoning Runes
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-2-building-games/hazards#Complex Hazards|Complex Hazards]]
 
@@ -1116,7 +1115,7 @@ You can make a summoning rune of nearly any level. It summons a creature of a le
 
 *Source: GM Core p. 105*
 
-## Upgrading Runes  *Sidebar*
+## Upgrading Runes
 
 - **Parent page**: [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/armor-armaments#Runes|Runes]]
 

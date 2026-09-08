@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Mobogo"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Mobogo"
 level: 10
 source: "Monster Core 2"
-aon_id: "creature-4476"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4476"
 ---
 
@@ -68,7 +66,7 @@ abilities_bot:
   - name: "Tongue Grab"
     desc: "A creature hit by the mobogo's tongue becomes [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] by the mobogo. The creature isn't [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]], but it can't move beyond the reach of the mobogo's tongue. A creature can sever the tongue with a Strike against AC 27 that deals at least 10 slashing damage. This deals no damage to the mobogo but prevents them from using their tongue Strike until they regrow their tongue, which takes 1 round. The mobogo can move without ending the tongue grab as long as the creature remains within the tongue's reach."
   - name: "Tongue Reposition"
-    desc: "When a mobogo successfully [[srd/pf2e/compendium/rules-elements/actions/player-core#Reposition|Repositions]] a creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] by their tongue, they increase the distance they can move that creature by 10 feet (a total of 15 feet on a success or 20 feet on a critical success); the creature must remain within the tongue's reach. Alternatively, the mobogo can transfer the grabbed creature to being grabbed by the mobogo's jaws. Children Of Gogunta [[srd/pf2e/compendium/gm/creature-families/boggard|Boggards]] of Golarion believe mobogos to have hatched from the first clutch of eggs laid by their demon goddess Gogunta, following her awakening at the dawn of creation. Boggards, hatched millennia later from the second clutch, have been charged with serving and aiding their elder siblings in keeping her sacred swamplands untainted by the presence of outsiders."
+    desc: "When a mobogo successfully [[srd/pf2e/compendium/rules-elements/actions/player-core#Reposition|Repositions]] a creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] by their tongue, they increase the distance they can move that creature by 10 feet (a total of 15 feet on a success or 20 feet on a critical success); the creature must remain within the tongue's reach. Alternatively, the mobogo can transfer the grabbed creature to being grabbed by the mobogo's jaws. Children Of Gogunta [[srd/pf2e/compendium/gm/creature-families/boggard|Boggards]] of Golarion believe mobogos to have hatched from the first clutch of eggs laid by their demon goddess [[srd/pf2e/compendium/deities/demon-lords/gogunta|Gogunta]], following her awakening at the dawn of creation. Boggards, hatched millennia later from the second clutch, have been charged with serving and aiding their elder siblings in keeping her sacred swamplands untainted by the presence of outsiders."
 spellcasting:
   - name: "Primal Innate Spells"
     desc: "DC 27 - __4th__ [[srd/pf2e/compendium/spells/rank-1/create-water|Create Water]] (at will), [[srd/pf2e/compendium/spells/rank-2/entangling-flora|Entangling Flora]], [[srd/pf2e/compendium/spells/rank-2/mist|Mist]], [[srd/pf2e/compendium/spells/rank-2/noise-blast|Noise Blast]] (at will) - __5th__ [[srd/pf2e/compendium/spells/rank-5/control-water|Control Water]] - __Constant (2nd)__ [[srd/pf2e/compendium/spells/rank-2/speak-with-animals|Speak with Animals]], [[srd/pf2e/compendium/spells/rank-1/vanishing-tracks|Vanishing Tracks]]"

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -11,7 +10,7 @@ tags:
 - trait/sanctified
 - spell/level/5
 aliases: ["Diadem of Divine Radiance"]
-aon_id: "spell-2163"
+aon_url: "https://2e.aonprd.com/MythicSpells.aspx?ID=2163"
 source: "War of Immortals"
 ---
 

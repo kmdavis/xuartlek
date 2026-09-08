@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/monster-core
 - trait/gremlin
 aliases: ["Gremlin"]
-aon_id: "trait-756"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=756"
 source: "Monster Core"
 ---
 

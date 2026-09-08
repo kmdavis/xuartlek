@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
 - trait/mythic
 - feat/level/20
 aliases: ["You Can't Kill an Idea"]
-aon_id: "feat-7373"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7373"
 source: "War of Immortals"
 ---
 

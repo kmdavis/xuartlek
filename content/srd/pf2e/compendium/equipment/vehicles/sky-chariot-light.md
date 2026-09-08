@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/gm-core
 - trait/uncommon
 - vehicle/level/7
 aliases: ["Sky Chariot, Light"]
-aon_id: "vehicle-60"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=60"
 source: "GM Core"
 ---
 
@@ -14,7 +13,7 @@ source: "GM Core"
 
 `Uncommon`
 
-- **Price**: 1,000 gp
+- **Price**: 1, 000 gp
 
 **Space** 10 feet long, 15 feet wide, 8 feet high
 

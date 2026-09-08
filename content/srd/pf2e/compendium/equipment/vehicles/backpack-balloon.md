@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/battlecry
 - trait/uncommon
 - vehicle/level/6
 aliases: ["Backpack Balloon"]
-aon_id: "vehicle-117"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=117"
 source: "Battlecry!"
 ---
 

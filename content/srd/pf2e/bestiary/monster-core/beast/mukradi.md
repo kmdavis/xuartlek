@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Mukradi"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Mukradi"
 level: 15
 source: "Monster Core"
-aon_id: "creature-3100"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3100"
 ---
 

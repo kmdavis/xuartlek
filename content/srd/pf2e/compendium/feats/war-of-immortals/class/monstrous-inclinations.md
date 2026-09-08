@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -8,7 +7,7 @@ tags:
 - trait/wandering
 - feat/level/16
 aliases: ["Monstrous Inclinations"]
-aon_id: "feat-7148"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7148"
 source: "War of Immortals"
 ---
 

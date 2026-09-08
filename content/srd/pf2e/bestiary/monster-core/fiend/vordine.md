@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Vordine"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Vordine"
 level: 5
 source: "Monster Core"
-aon_id: "creature-2906"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2906"
 ---
 

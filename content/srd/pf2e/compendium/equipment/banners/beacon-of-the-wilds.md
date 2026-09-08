@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - equipment/level/14
 aliases: ["Beacon of the Wilds"]
-aon_id: "equipment-3907"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3907"
 source: "Battlecry!"
 ---
 
@@ -16,7 +15,7 @@ source: "Battlecry!"
 
 `Aura`  `Magical`  `Uncommon`
 
-- **Price**: 3,800 gp
+- **Price**: 3, 800 gp
 - **Usage**: affixed or held in 1 hand
 - **Bulk**: L
 

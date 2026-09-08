@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - spell/level/1
 aliases: ["Devouring Dark Form"]
-aon_id: "spell-2140"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2140"
 source: "War of Immortals"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/2
 aliases: ["Claws of the Otter"]
-aon_id: "spell-1949"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1949"
 source: "Howl of the Wild"
 ---
 

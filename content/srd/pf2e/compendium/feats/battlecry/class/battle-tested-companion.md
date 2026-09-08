@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
 - trait/commander
 - feat/level/6
 aliases: ["Battle-Tested Companion"]
-aon_id: "feat-7808"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7808"
 source: "Battlecry!"
 ---
 

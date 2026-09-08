@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 - trait/awakened-animal
 - feat/level/1
 aliases: ["Sea Legs"]
-aon_id: "feat-5303"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5303"
 source: "Howl of the Wild"
 ---
 

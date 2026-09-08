@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - ritual/level/1
 aliases: ["Confound the Eye and Confuse the Mind"]
-aon_id: "ritual-250"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=250"
 source: "Impossible Magic"
 ---
 
@@ -19,7 +18,7 @@ source: "Impossible Magic"
 - **Cost**: costumes, props, and reagents, plus cloth worth a total value of 10 gp × the target’s level
 - **Secondary Casters**: 1
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (trained)
-- **Secondary Checks**: Deception , Performance , Occultism or Thievery
+- **Secondary Checks**: Deception, Performance, Occultism or Thievery
 - **Range**: 10 feet
 - **Target(s)**: 1 creature of a level no greater than double the ritual’s rank who can cast spells
 

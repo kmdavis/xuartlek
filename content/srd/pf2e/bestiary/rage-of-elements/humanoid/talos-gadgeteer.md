@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Talos Gadgeteer"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Talos Gadgeteer"
 level: 1
 source: "Rage of Elements"
-aon_id: "creature-2658"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2658"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [1, 3, 1, 3, 0, 1]
 abilities_top:
   - name: "Gadgets"
-    desc: "A talos gadgeteer carries the following temporary gadgets, which have no value if sold and last for 24 hours or until the next time the gadgeteer makes their daily preparations: [[srd/pf2e/compendium/equipment/consumables/ablative-armor-plating-true|lesser ablative armor plating]] (1), [[srd/pf2e/compendium/equipment/consumables/blast-boots-major|lesser blast boots]] (1), [[srd/pf2e/compendium/equipment/consumables/explosive-mine-major|lesser explosive mine]] (3)."
+    desc: "A talos gadgeteer carries the following temporary gadgets, which have no value if sold and last for 24 hours or until the next time the gadgeteer makes their daily preparations: [[srd/pf2e/compendium/equipment/consumables/ablative-armor-plating|lesser ablative armor plating]] (1), [[srd/pf2e/compendium/equipment/consumables/blast-boots|lesser blast boots]] (1), [[srd/pf2e/compendium/equipment/consumables/explosive-mine|lesser explosive mine]] (3)."
   - name: "Items"
     desc: "artisan's toolkit, formula book, Leather Armor, light hammer (3)"
 ac: 17

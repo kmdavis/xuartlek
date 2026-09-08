@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - feat/level/2
 aliases: ["Pactbinder Dedication"]
-aon_id: "feat-8463"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8463"
 source: "Dark Archives (Remastered)"
 ---
 

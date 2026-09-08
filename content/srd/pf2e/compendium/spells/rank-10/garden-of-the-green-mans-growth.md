@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -10,7 +9,7 @@ tags:
 - trait/rare
 - spell/level/10
 aliases: ["Garden Of The Green Man's Growth"]
-aon_id: "spell-2156"
+aon_url: "https://2e.aonprd.com/MythicSpells.aspx?ID=2156"
 source: "War of Immortals"
 ---
 
@@ -22,7 +21,7 @@ source: "War of Immortals"
 - **Range**: 100 feet
 - **Duration**: until the end of your next turn
 
-You cast your magic into the earth, calling out to a powerful [[srd/pf2e/compendium/character/deities#Green Man|green man]], a verdant lesser deity of nature, to come to your aid. They occupy the space of a Medium creature, have a Speed of 40 feet, and a climb Speed of 40 feet. 
+You cast your magic into the earth, calling out to a powerful [[srd/pf2e/compendium/deities/green-man-faiths/green-man|green man]], a verdant lesser deity of nature, to come to your aid. They occupy the space of a Medium creature, have a Speed of 40 feet, and a climb Speed of 40 feet. 
 
 **Arrive** ([[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plant]]) _Verdant Bloom_ The green man erupts from the ground in a burst of lush growth, dealing 10d8 bludgeoning damage to creatures in a 60-foot emanation with a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save. Creatures that fail this save are pushed 30 feet away from the green man and are knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]. The area becomes [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Difficult Terrain|greater difficult terrain]] for 24 hours.
 

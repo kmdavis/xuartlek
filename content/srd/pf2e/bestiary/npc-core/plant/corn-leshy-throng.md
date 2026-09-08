@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Corn Leshy Throng"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Corn Leshy Throng"
 level: 4
 source: "NPC Core"
-aon_id: "creature-3658"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3658"
 ---
 

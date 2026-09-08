@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -9,7 +8,7 @@ tags:
 - trait/talisman
 - equipment/level/5
 aliases: ["Fulu Of The Drunken Monkey"]
-aon_id: "equipment-5074"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5074"
 source: "Impossible Magic"
 ---
 

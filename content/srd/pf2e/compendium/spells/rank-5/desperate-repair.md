@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/battlecry
 - trait/concentrate
 - spell/level/5
 aliases: ["Desperate Repair"]
-aon_id: "spell-2500"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2500"
 source: "Battlecry!"
 ---
 

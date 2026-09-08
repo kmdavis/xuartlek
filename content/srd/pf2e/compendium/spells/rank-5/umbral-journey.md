@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/uncommon
 - spell/level/5
 aliases: ["Umbral Journey"]
-aon_id: "spell-1729"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1729"
 source: "Player Core"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Shadow`  `Teleportation`  `Uncommon`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Camazotz, Count Ranalc, Enkaar, Eyes That Watch, Grasping Iovett, Husk, Lady Razor, Luhar, Reshmit of the Heavy Voice, Thalaphyrr, Zon-Kuthon
+- **Deities**: Camazotz, [[srd/pf2e/compendium/deities/eldest/count-ranalc|Count Ranalc]], Enkaar, Eyes That Watch, Grasping Iovett, Husk, Lady Razor, Luhar, Reshmit of the Heavy Voice, Thalaphyrr, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/zon-kuthon|Zon-Kuthon]]
 - **Cast**: 1 minute
 - **Range**: touch
 - **Target**: you and up to 10 willing creatures touched

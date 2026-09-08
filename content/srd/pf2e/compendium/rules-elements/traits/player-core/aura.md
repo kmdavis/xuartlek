@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/aura
 aliases: ["Aura"]
-aon_id: "trait-542"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=542"
 source: "Player Core"
 ---
 

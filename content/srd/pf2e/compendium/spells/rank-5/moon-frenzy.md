@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/morph
 - spell/level/5
 aliases: ["Moon Frenzy"]
-aon_id: "spell-1609"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1609"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Morph`
 
 - **Tradition**: Primal
-- **Deities**: Ah Pook, Ananshea, Angazhan, Aonaurious, Chamidu, Dajermube, Dolok Darkfur, Jezelda, Sekhmet, Thoth, Yrmidar, Zeaki
+- **Deities**: [[srd/pf2e/compendium/deities/other-gods/ah-pook|Ah Pook]], [[srd/pf2e/compendium/deities/sakhil-tormentors/ananshea|Ananshea]], Angazhan, [[srd/pf2e/compendium/deities/qlippoth-lords/aonaurious|Aonaurious]], [[srd/pf2e/compendium/deities/vudrani-gods/chamidu|Chamidu]], [[srd/pf2e/compendium/deities/other-gods/dajermube|Dajermube]], [[srd/pf2e/compendium/deities/sarkorian-gods/dolok-darkfur|Dolok Darkfur]], [[srd/pf2e/compendium/deities/demon-lords/jezelda|Jezelda]], Sekhmet, [[srd/pf2e/compendium/deities/dead-or-missing-deities/thoth|Thoth]], [[srd/pf2e/compendium/deities/giant-gods/yrmidar|Yrmidar]], Zeaki
 - **Range**: 30 feet
 - **Target**: up to 5 willing creatures
 - **Duration**: 1 minute

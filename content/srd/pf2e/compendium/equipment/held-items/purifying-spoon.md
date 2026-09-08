@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -7,7 +6,7 @@ tags:
 - trait/wood
 - equipment/level/1
 aliases: ["Purifying Spoon"]
-aon_id: "equipment-2643"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2643"
 source: "Rage of Elements"
 ---
 

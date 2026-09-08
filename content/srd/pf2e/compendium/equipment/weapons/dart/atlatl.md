@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
 - trait/propulsive
 - weapon/level/0
 aliases: ["Atlatl"]
-aon_id: "weapon-329"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=329"
 source: "Treasure Vault (Remastered)"
 ---
 

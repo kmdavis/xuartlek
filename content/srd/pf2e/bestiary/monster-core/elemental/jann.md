@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Jann"
 tags:
@@ -17,7 +16,6 @@ statblock: inline
 name: "Jann"
 level: 4
 source: "Monster Core"
-aon_id: "creature-3002"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3002"
 ---
 
@@ -95,7 +93,7 @@ abilities_bot:
     desc: "The jann instantly grants the benefits of a critical success with the [[srd/pf2e/compendium/spells/rituals/wish|_wish_]] ritual to a mortal creature. This has no cost. That creature specifies what they wish for, but the interpretation is up to the jann. A jann typically attempts to grant wishes in a way that encourages growth and exploration. A summoned jann can't use this ability. Jann Shuyookhs Jann shuyookhs add the following innate spells: __4th__ [[srd/pf2e/compendium/spells/rank-2/invisibility|_invisibility_]] (×2), [[srd/pf2e/compendium/spells/rank-4/read-omens|_read omens_]]."
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 21 - __Cantrips (2nd)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/know-the-way|Know the Way]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/invisibility|Invisibility]] (×2) - __4th__ [[srd/pf2e/compendium/spells/rank-4/read-omens|Read Omens]] - __7th__ [[srd/pf2e/compendium/spells/rank-7/interplanar-teleport|Interplanar Teleport]] (to [[srd/pf2e/compendium/equipment/runes/astral-greater|Astral Plane]]; Elemental Planes; or [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]] only) - __Constant (5th)__ [[srd/pf2e/compendium/spells/rank-5/truespeech|Truespeech]]"
+    desc: "DC 21 - __Cantrips (2nd)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/know-the-way|Know the Way]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/invisibility|Invisibility]] (×2) - __4th__ [[srd/pf2e/compendium/spells/rank-4/read-omens|Read Omens]] - __7th__ [[srd/pf2e/compendium/spells/rank-7/interplanar-teleport|Interplanar Teleport]] (to [[srd/pf2e/compendium/equipment/runes/astral|Astral Plane]]; Elemental Planes; or [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]] only) - __Constant (5th)__ [[srd/pf2e/compendium/spells/rank-5/truespeech|Truespeech]]"
 sourcebook: "_Monster Core_, page 156."
 ```
 

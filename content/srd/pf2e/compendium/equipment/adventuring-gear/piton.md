@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/player-core
 - equipment/level/0
 aliases: ["Piton"]
-aon_id: "equipment-2742"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2742"
 source: "Player Core"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Forest Troll"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Forest Troll"
 level: 5
 source: "Monster Core"
-aon_id: "creature-3219"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3219"
 ---
 

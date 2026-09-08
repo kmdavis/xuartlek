@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -10,7 +9,7 @@ tags:
 - trait/magical
 - equipment/level/9
 aliases: ["Storm Breath"]
-aon_id: "equipment-2586"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2586"
 source: "Rage of Elements"
 ---
 

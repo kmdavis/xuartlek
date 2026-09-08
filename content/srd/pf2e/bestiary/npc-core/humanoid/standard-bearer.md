@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Standard Bearer"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Standard Bearer"
 level: 4
 source: "NPC Core"
-aon_id: "creature-3524"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3524"
 ---
 

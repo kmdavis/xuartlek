@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 - trait/psychic
 aliases: ["Psychic"]
-aon_id: "trait-894"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=894"
 source: "Dark Archives (Remastered)"
 ---
 

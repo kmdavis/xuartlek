@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/rare
 - siege-weapon/level/18
 aliases: ["Ustradi Long Cannon"]
-aon_id: "siege-weapon-65"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=65"
 source: "Battlecry!"
 ---
 
@@ -15,7 +14,7 @@ source: "Battlecry!"
 
 `Mounted`  `Rare`
 
-- **Price**: 38,000 gp
+- **Price**: 38, 000 gp
 - **Ammunition**: massive stone sphere (10 gp, 60 Bulk)
 
 **Usage** mounted (black powder)

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/3
 aliases: ["Slow"]
-aon_id: "spell-1677"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1677"
 source: "Player Core"
 ---
 
@@ -16,8 +15,8 @@ source: "Player Core"
 `Concentrate`  `Manipulate`
 
 - **Traditions**: Arcane, Occult, Primal
-- **Bloodline**: Demonic
-- **Deities**: Embaral, Korada, Lorthact, Matravash, Sithhud, Thalaphyrr
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Demonic|Demonic]]
+- **Deities**: [[srd/pf2e/compendium/deities/other-gods/embaral|Embaral]], [[srd/pf2e/compendium/deities/empyreal-lords/korada|Korada]], Lorthact, [[srd/pf2e/compendium/deities/vudrani-gods/matravash|Matravash]], [[srd/pf2e/compendium/deities/demon-lords/sithhud|Sithhud]], Thalaphyrr
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Fortitude

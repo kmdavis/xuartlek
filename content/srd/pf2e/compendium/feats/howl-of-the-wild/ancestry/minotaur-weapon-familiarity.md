@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 - trait/minotaur
 - feat/level/1
 aliases: ["Minotaur Weapon Familiarity"]
-aon_id: "feat-5367"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5367"
 source: "Howl of the Wild"
 ---
 

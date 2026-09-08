@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class
 tags:
 - compendium/src/pf2e/player-core-2
 aliases: ["Investigator"]
-aon_id: "class-59"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=59"
 source: "Player Core 2"
 ---
 

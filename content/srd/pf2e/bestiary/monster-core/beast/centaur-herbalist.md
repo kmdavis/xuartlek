@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Centaur Herbalist"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Centaur Herbalist"
 level: 3
 source: "Monster Core"
-aon_id: "creature-2874"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=2874"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [3, 2, 1, 0, 3, 1]
 abilities_top:
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit-expanded|Healer's Toolkit]], herbal sachet, Sling (10 bullets)"
+    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit|Healer's Toolkit]], herbal sachet, Sling (10 bullets)"
 ac: 18
 armorclass:
   - name: "AC"

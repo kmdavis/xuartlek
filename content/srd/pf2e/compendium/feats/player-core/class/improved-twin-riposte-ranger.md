@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/ranger
 - feat/level/16
 aliases: ["Improved Twin Riposte (Ranger)"]
-aon_id: "feat-4903"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4903"
 source: "Player Core"
 ---
 

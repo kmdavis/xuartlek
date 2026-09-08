@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/sonic
 - spell/level/1
 aliases: ["Seashell of Stolen Sound"]
-aon_id: "spell-2810"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2810"
 source: "Impossible Magic"
 ---
 
@@ -17,7 +16,7 @@ source: "Impossible Magic"
 `Concentrate`  `Manipulate`  `Sonic`
 
 - **Traditions**: Arcane, Occult, Primal
-- **Deity**: Seramaydiel
+- **Deity**: [[srd/pf2e/compendium/deities/empyreal-lords/seramaydiel|Seramaydiel]]
 - **Trigger**: A creature within range begins to make a sound.
 - **Range**: 30 feet
 - **Duration**: until your next daily preparations

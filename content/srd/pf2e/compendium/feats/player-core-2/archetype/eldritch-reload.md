@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/archetype
 - feat/level/10
 aliases: ["Eldritch Reload"]
-aon_id: "feat-6322"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6322"
 source: "Player Core 2"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/battlecry
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - siege-weapon/level/15
 aliases: ["Glacial Zephyr"]
-aon_id: "siege-weapon-54"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=54"
 source: "Battlecry!"
 ---
 
@@ -16,7 +15,7 @@ source: "Battlecry!"
 
 `Alchemical`  `Mounted`  `Uncommon`
 
-- **Price**: 13,000 gp
+- **Price**: 13, 000 gp
 - **Ammunition**: gelid paste jar (2 gp, 1 Bulk)
 
 **Usage** mounted

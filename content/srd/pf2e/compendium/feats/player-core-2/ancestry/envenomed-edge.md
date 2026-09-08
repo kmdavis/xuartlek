@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/tripkee
 - feat/level/13
 aliases: ["Envenomed Edge"]
-aon_id: "feat-5710"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5710"
 source: "Player Core 2"
 ---
 

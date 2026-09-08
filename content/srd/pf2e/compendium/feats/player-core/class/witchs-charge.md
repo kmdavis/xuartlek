@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/witch
 - feat/level/6
 aliases: ["Witch's Charge"]
-aon_id: "feat-5003"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5003"
 source: "Player Core"
 ---
 

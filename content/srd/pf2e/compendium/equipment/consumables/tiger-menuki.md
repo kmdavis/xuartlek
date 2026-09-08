@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -8,7 +7,7 @@ tags:
 - trait/talisman
 - equipment/level/5
 aliases: ["Tiger Menuki"]
-aon_id: "equipment-2995"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2995"
 source: "GM Core"
 ---
 

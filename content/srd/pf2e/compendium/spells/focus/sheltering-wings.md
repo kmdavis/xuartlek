@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -10,7 +9,7 @@ tags:
 - trait/witch
 - spell/level/3
 aliases: ["Sheltering Wings"]
-aon_id: "spell-1943"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1943"
 source: "Howl of the Wild"
 ---
 
@@ -18,7 +17,7 @@ source: "Howl of the Wild"
 
 `Focus`  `Hex`  `Manipulate`  `Uncommon`  `Witch`
 
-- **Lesson**: Lesson of the Flock
+- **Lesson**: [[srd/pf2e/compendium/character/lessons#Lesson of the Flock|Lesson of the Flock]]
 - **Trigger**: An ally moves through a square within 15 feet of you or uses an action that has the move trait.
 - **Range**: 15 feet
 - **Target**: 1 ally

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - equipment/level/7
 aliases: ["Dragon Breath Scale"]
-aon_id: "equipment-2022"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2022"
 source: "Treasure Vault (Remastered)"
 ---
 

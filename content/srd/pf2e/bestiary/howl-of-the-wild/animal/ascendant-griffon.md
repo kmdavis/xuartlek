@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Ascendant Griffon"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Ascendant Griffon"
 level: 11
 source: "Howl of the Wild"
-aon_id: "creature-3287"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3287"
 ---
 

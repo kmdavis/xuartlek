@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Musketeer"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Musketeer"
 level: 3
 source: "NPC Core"
-aon_id: "creature-3507"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3507"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [1, 4, 1, 0, 1, 3]
 abilities_top:
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/weapons/firearm/flintlock-musket-weapon-521|Flintlock Musket]] (10 rounds), Leather Armor, Rapier"
+    desc: "[[srd/pf2e/compendium/equipment/weapons/firearm/flintlock-musket|Flintlock Musket]] (10 rounds), Leather Armor, Rapier"
 ac: 20
 armorclass:
   - name: "AC"

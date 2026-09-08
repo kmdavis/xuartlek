@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ancestry
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -8,7 +7,7 @@ tags:
 - trait/humanoid
 - trait/uncommon
 aliases: ["Centaur"]
-aon_id: "ancestry-73"
+aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=73"
 source: "Howl of the Wild"
 ---
 
@@ -48,7 +47,7 @@ Centaurs are originally from the continent of Casmaron, and most still reside th
 
 ### Alignment and Religion
 
-The beliefs of a centaur often depend on where and how they were raised. Many centaurs follow the Green Faith or worship deities who share their respect for nature, such as Cernunnos, Erastil, or Gozreh. Others feel kinship with Desna, goddess of travel. Healers and herbalists favor Immonhiel or Pharasma. In urban areas, Kurgess and Gorum are favorites, depending on the centaur's temperament and profession.
+The beliefs of a centaur often depend on where and how they were raised. Many centaurs follow the [[srd/pf2e/compendium/deities/faiths-philosophies/green-faith|Green Faith]] or worship deities who share their respect for nature, such as [[srd/pf2e/compendium/deities/dead-or-missing-deities/cernunnos|Cernunnos]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/erastil|Erastil]], or [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/gozreh|Gozreh]]. Others feel kinship with [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/desna|Desna]], goddess of travel. Healers and herbalists favor Immonhiel or [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma]]. In urban areas, [[srd/pf2e/compendium/deities/other-gods/kurgess|Kurgess]] and [[srd/pf2e/compendium/deities/dead-or-missing-deities/gorum|Gorum]] are favorites, depending on the centaur's temperament and profession.
 
  Centaurs have two primary religious figures: Greenspeakers and Faithspeakers. Greenspeakers are one with nature, followers of the Green Faith, exceptional herbalists, and otherwise learned in the ways of the natural world. Faithspeakers are pious devotees of gods, demons, celestials, and other beings. Both are given equal respect, considered two sides of the same coin. Through their Speakers, centaurs interact with the world beyond what they can see and feel, and lead ceremonies, celebrations, and prayers. Celebrations are usually divided into two categories: beginnings and endings, with beginnings such as weddings, births, and spring celebrated at dawn, and endings such as harvests, funerals, and partings celebrated at dusk. Death rites vary by region and culture, but sedentary bands and those who cultivate fields, gardens, or crops, often burn their dead on pyres, releasing their spirits from their material bodies, then using the resulting ashes to fertilize fields or gardens so the dead can continue to serve their community. In regions with rocky ground or frigid climate, centaurs instead bury their dead under cairns and stone mounds.
 

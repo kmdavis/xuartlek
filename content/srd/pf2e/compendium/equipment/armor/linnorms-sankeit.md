@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - equipment/level/18
 aliases: ["Linnorm's Sankeit"]
-aon_id: "equipment-1849"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1849"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -16,7 +15,7 @@ source: "Treasure Vault (Remastered)"
 
 `Invested`  `Magical`  `Uncommon`
 
-- **Price**: 22,750 gp
+- **Price**: 22, 750 gp
 - **Usage**: worn armor
 - **Bulk**: 2
 - **Base Armor**: [[srd/pf2e/compendium/equipment/armor#Sankeit|Sankeit]]

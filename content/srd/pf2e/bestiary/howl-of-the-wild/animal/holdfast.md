@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Holdfast"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Holdfast"
 level: 4
 source: "Howl of the Wild"
-aon_id: "creature-3291"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3291"
 ---
 

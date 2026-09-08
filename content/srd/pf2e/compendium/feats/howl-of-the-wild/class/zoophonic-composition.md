@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 - trait/bard
 - feat/level/4
 aliases: ["Zoophonic Composition"]
-aon_id: "feat-5417"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5417"
 source: "Howl of the Wild"
 ---
 
@@ -15,7 +14,7 @@ source: "Howl of the Wild"
 `Bard`
 
 - **Frequency**: once per day
-- **Prerequisites**: zoophonia muse
+- **Prerequisites**: [[srd/pf2e/compendium/character/muses#Zoophonia|zoophonia muse]]
 - **Requirements**: Your most recent action was to cast a [[srd/pf2e/compendium/rules-elements/traits/player-core/composition|composition]] spell.
 
 When the inspiration strikes, you can weave messages for animals into your compositions. You Sustain a [[srd/pf2e/compendium/spells/rank-1/summon-animal|_summon animal_]] spell or [[srd/pf2e/compendium/rules-elements/actions/player-core#Command an Animal|Command an Animal]].

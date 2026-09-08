@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - feat/level/2
 aliases: ["Scrounger Dedication"]
-aon_id: "feat-6405"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6405"
 source: "Player Core 2"
 ---
 
@@ -21,7 +20,7 @@ source: "Player Core 2"
 
 While others need specialized tools and a dedicated space, you have found a way to build just about anything, anywhere. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]] items even without appropriate tools or a workshop. Additionally, you don't need a physical formula book to remember all of your formulas; you pay the same cost as normal to learn them, but you memorize them all. You gain the Cobble Together activity.
 
-**Cobble Together** ([[srd/pf2e/compendium/rules-elements/traits/player-core/exploration|exploration]]) You Craft a temporary item out of anything, anywhere, with whatever materials happen to be on hand, spending only 10 minutes to perform the initial Crafting check. The temporary item must be one you've memorized or have the formula for, and must be common, non-magical, half your level or lower, and must be a weapon, armor, or a non-consumable piece of adventuring gear. Instead of a single item, you can create 10 pieces of a single type of ammunition. You can create only the physical item, not any information or magic, so for example, while you could create a blank journal or one with random pages, you couldn't use it as a [[srd/pf2e/compendium/equipment/adventuring-gear/scholarly-journal-compendium|scholarly journal]] or a [[srd/pf2e/compendium/equipment/adventuring-gear/religious-text|religious text]]. 
+**Cobble Together** ([[srd/pf2e/compendium/rules-elements/traits/player-core/exploration|exploration]]) You Craft a temporary item out of anything, anywhere, with whatever materials happen to be on hand, spending only 10 minutes to perform the initial Crafting check. The temporary item must be one you've memorized or have the formula for, and must be common, non-magical, half your level or lower, and must be a weapon, armor, or a non-consumable piece of adventuring gear. Instead of a single item, you can create 10 pieces of a single type of ammunition. You can create only the physical item, not any information or magic, so for example, while you could create a blank journal or one with random pages, you couldn't use it as a [[srd/pf2e/compendium/equipment/adventuring-gear/scholarly-journal|scholarly journal]] or a [[srd/pf2e/compendium/equipment/adventuring-gear/religious-text|religious text]]. 
 An item you Cobble Together is a shoddy item, but when creating it you can choose one creature to build it specifically for. That creature doesn't take the normal penalty for using this [[srd/pf2e/books/player-core/chapter-6-equipment/shoddy-items|shoddy item]]. Your temporary item lasts for 1d4 hours before falling apart into its raw components; the GM rolls the number of hours secretly.
 
 ### Scrounger Dedication leads to...

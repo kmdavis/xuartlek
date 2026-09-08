@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-adjustment
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 aliases: ["Winged"]
-aon_id: "creature-adjustment-29"
+aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=29"
 source: "Howl of the Wild"
 ---
 

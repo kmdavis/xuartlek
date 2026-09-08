@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
-- compendium/src/pf2e/gm-core
+- compendium/src/pf2e/player-core-2
 - trait/alchemical
 - trait/consumable
 - trait/injury
 - trait/poison
 - equipment/level/4
 aliases: ["Fearflower Nectar"]
-aon_id: "equipment-2897"
-source: "GM Core"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3333"
+source: "Player Core 2"
 ---
 
 # Fearflower Nectar  *Item 4*
@@ -22,7 +21,8 @@ source: "GM Core"
 - **Bulk**: L
 - **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-The nectar of a night-blooming desert flower attacks a victim's central nervous system and causes feelings of panic.
- **Saving Throw** DC 21 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d6 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1 (1 round); **Stage 2** 1d6 poison damage and frightened 2 (1 round); **Stage 3** 1d6 poison damage and frightened 3 (1 round)
+The nectar of a night-blooming desert flower attacks a victim's central nervous system and causes feelings of panic. 
 
-*Source: GM Core p. 249*
+**Saving Throw** DC 21 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d6 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1 (1 round); **Stage 2** 1d6 poison damage and frightened 2 (1 round); **Stage 3** 1d6 poison damage and frightened 3 (1 round)
+
+*Source: Player Core 2 p. 292*

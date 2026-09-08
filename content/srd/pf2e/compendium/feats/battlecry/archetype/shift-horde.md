@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - feat/level/12
 aliases: ["Shift Horde"]
-aon_id: "feat-7972"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7972"
 source: "Battlecry!"
 ---
 

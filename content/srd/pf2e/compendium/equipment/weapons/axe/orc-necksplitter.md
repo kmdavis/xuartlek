@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - weapon/level/0
 aliases: ["Orc Necksplitter"]
-aon_id: "weapon-422"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=422"
 source: "Player Core"
 ---
 

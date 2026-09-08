@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class-feature
 tags:
 - compendium/src/pf2e/impossible-magic
 - class-feature/level/15
 aliases: ["Greater Runic Optimization"]
-aon_id: "class-feature-1330"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=76"
 source: "Impossible Magic"
 ---
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
 - trait/rare
 - equipment/level/20
 aliases: ["Orichalcum Armor"]
-aon_id: "equipment-2802"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2802"
 source: "GM Core"
 ---
 
@@ -16,7 +15,7 @@ source: "GM Core"
 
 - **Usage**: worn armor
 - **Bulk**: varies by armor
-- **Base Material**: [[srd/pf2e/compendium/equipment/materials/orichalcum-object-high-grade|Orichalcum]]
+- **Base Material**: [[srd/pf2e/compendium/equipment/materials/orichalcum|Orichalcum]]
 
 Orichalcum armor can be etched with four magic property runes instead of three due to the magical empowerment of orichalcum. If you’re wearing armor made of orichalcum, the armor grants you insights into the future, granting you a +1 circumstance bonus to initiative rolls.
 

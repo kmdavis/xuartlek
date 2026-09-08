@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Mime"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Mime"
 level: 3
 source: "NPC Core"
-aon_id: "creature-3573"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3573"
 ---
 

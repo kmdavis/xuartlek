@@ -7,7 +7,6 @@ cssclasses:
 tags:
   - srd/pf2e/gm-core
 source: "GM Core"
-aon_id: 2496
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2496"
 citation: "GM Core pg. 15"
 ---
@@ -247,7 +246,7 @@ A hard-of-hearing character might take a –2 to –4 penalty to Perception chec
 
 Some magic items require certain limbs or other body parts. It's fine to allow an alternative form of the item, turning boots into bracers for a character without legs, for example.
 
-A character with a missing hand or arm might need to spend 2 actions to [[srd/pf2e/compendium/rules-elements/actions/player-core#Interact|Interact]] with an item that requires two hands, or otherwise compensate. Using a two-handed weapon is not possible. Someone missing a foot or leg might take a small penalty to Speed, and if they have no legs or are unable to walk, they might use a [[srd/pf2e/compendium/equipment/assistive-items/wheelchair-land-delvers-chair|wheelchair]], a trained mount, or flight magic. Characters can typically acquire prosthetics in most cities or settlements, which, through advanced crafting, magic, or clockwork, can provide various levels of assistive function. Many assistive devices appear here.
+A character with a missing hand or arm might need to spend 2 actions to [[srd/pf2e/compendium/rules-elements/actions/player-core#Interact|Interact]] with an item that requires two hands, or otherwise compensate. Using a two-handed weapon is not possible. Someone missing a foot or leg might take a small penalty to Speed, and if they have no legs or are unable to walk, they might use a [[srd/pf2e/compendium/equipment/assistive-items/wheelchair|wheelchair]], a trained mount, or flight magic. Characters can typically acquire prosthetics in most cities or settlements, which, through advanced crafting, magic, or clockwork, can provide various levels of assistive function. Many assistive devices appear here.
 
 ## Rarity
 

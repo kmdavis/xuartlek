@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/teleportation
 - spell/level/7
 aliases: ["Momentary Recovery"]
-aon_id: "spell-2574"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2574"
 source: "Dark Archives (Remastered)"
 ---
 
@@ -17,7 +16,7 @@ source: "Dark Archives (Remastered)"
 `Concentrate`  `Manipulate`  `Teleportation`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Elion, Vavaalrav
+- **Deities**: [[srd/pf2e/compendium/deities/azlanti-pantheon/elion|Elion]], [[srd/pf2e/compendium/deities/monitor-demigods/vavaalrav|Vavaalrav]]
 - **Range**: 60 feet
 
 You instantly teleport yourself and any items you're wearing or holding from your current space to a clear space within range that you can see. If this teleportation would bring another creature with you—even if you're carrying it in an extradimensional container—the spell is lost. After you vanish but before you arrive, you can take up to 2 actions (or the number of actions you spent to cast _momentary recovery_, if it was fewer than 2 actions). You can't target any other creatures or objects with anything during these actions and any effect with a duration that you create during these actions ends immediately when you arrive. After you arrive, you are [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] 1 until the end of your next turn.

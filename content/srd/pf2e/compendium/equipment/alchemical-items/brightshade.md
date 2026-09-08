@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -11,7 +10,7 @@ tags:
 - trait/positive
 - equipment/level/4
 aliases: ["Brightshade"]
-aon_id: "equipment-1994"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1994"
 source: "Treasure Vault (Remastered)"
 ---
 

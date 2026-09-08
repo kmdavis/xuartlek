@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/stance
 - feat/level/1
 aliases: ["Point Blank Stance"]
-aon_id: "feat-4771"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4771"
 source: "Player Core"
 ---
 
@@ -15,7 +14,7 @@ source: "Player Core"
 
 `Fighter`  `Stance`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/archer|Archer]] (Level 4), [[srd/pf2e/compendium/character/archetypes/archer|Archer]] (Level 4)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/archer|Archer]] (Level 4)
 - **Requirements**: You are wielding a ranged weapon
 
 You take aim to pick off nearby enemies quickly. When using a ranged volley weapon while you are in this stance, you don’t take the penalty to your attack rolls from the volley trait. When using a ranged weapon that doesn’t have the volley trait, you gain a +2 circumstance bonus to damage rolls on attacks against targets within the weapon’s first range increment.

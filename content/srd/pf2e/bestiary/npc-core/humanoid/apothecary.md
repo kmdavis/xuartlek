@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Apothecary"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Apothecary"
 level: -1
 source: "NPC Core"
-aon_id: "creature-3479"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3479"
 ---
 
@@ -40,7 +38,7 @@ abilities_top:
   - name: "Medical Wisdom"
     desc: "The apothecary can identify the effect of any alchemical composition or medical ingredient using only their senses. This typically takes 1 minute."
   - name: "Items"
-    desc: "lesser acid flask (2), Dagger, minor elixir of life (2), [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit-expanded|Healer's Toolkit]], leather apron (functions as [[srd/pf2e/compendium/equipment/armor#Padded Armor|padded armor]]), mortar and pestle"
+    desc: "lesser acid flask (2), Dagger, minor elixir of life (2), [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit|Healer's Toolkit]], leather apron (functions as [[srd/pf2e/compendium/equipment/armor#Padded Armor|padded armor]]), mortar and pestle"
 ac: 14
 armorclass:
   - name: "AC"

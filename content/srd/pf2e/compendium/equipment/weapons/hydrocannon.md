@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - equipment/level/5
 aliases: ["Hydrocannon"]
-aon_id: "equipment-3217"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3217"
 source: "Howl of the Wild"
 ---
 
@@ -18,9 +17,9 @@ source: "Howl of the Wild"
 - **Price**: 150 gp
 - **Usage**: held in 1 hand
 - **Bulk**: 1
-- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/firearm/hand-cannon|Hand Cannon]]
+- **Base Weapon**: Hand Cannon
 
-This _[[srd/pf2e/compendium/equipment/runes/weapon-potency-3|+1]] [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/firearm/hand-cannon|hand cannon]]_ is crafted by wrapping the water-producing organ cluster of a grodair around its barrel, eliminating the need for ammunition, though the living tissue must be maintained with 1 sp of specialized nutrient feed each day. If not, its misfire check is DC 10. If you fail this misfire check, the organ bursts, dealing an amount of bludgeoning damage equal to double the number of weapon damage dice to you and rendering the _hydrocannon_ broken.
+This _[[srd/pf2e/compendium/equipment/runes/weapon-potency|+1]] [[srd/pf2e/compendium/equipment/runes/striking|striking]] hand cannon_ is crafted by wrapping the water-producing organ cluster of a grodair around its barrel, eliminating the need for ammunition, though the living tissue must be maintained with 1 sp of specialized nutrient feed each day. If not, its misfire check is DC 10. If you fail this misfire check, the organ bursts, dealing an amount of bludgeoning damage equal to double the number of weapon damage dice to you and rendering the _hydrocannon_ broken.
 
 **Activate—Tinker Shot** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulation]]) **Frequency** once per minute; **Effect** You fiddle with the pressure regulator on the _hydrocannon_ and then make a ranged [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] with the gun. A successful attack has an additional effect depending on which modular configuration the _hydrocannon_ is currently in. 
 

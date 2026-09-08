@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - equipment/level/4
 aliases: ["Blazing Banner"]
-aon_id: "equipment-3908"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3908"
 source: "Battlecry!"
 ---
 

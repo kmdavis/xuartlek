@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - equipment/level/15
 aliases: ["Planar Tunnel"]
-aon_id: "equipment-2195"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2195"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -16,7 +15,7 @@ source: "Treasure Vault (Remastered)"
 
 `Extradimensional`  `Magical`  `Uncommon`
 
-- **Price**: 6,000 gp
+- **Price**: 6, 000 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
 

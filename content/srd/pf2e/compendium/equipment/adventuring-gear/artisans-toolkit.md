@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/player-core
 - equipment/level/0
 aliases: ["Artisan's Toolkit"]
-aon_id: "equipment-2703"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2703"
 source: "Player Core"
 ---
 

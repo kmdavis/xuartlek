@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/trip
 - weapon/level/0
 aliases: ["Meteor Hammer"]
-aon_id: "weapon-296"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=296"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -17,7 +16,7 @@ source: "Treasure Vault (Remastered)"
 
 `Backswing`  `Disarm`  `Reach`  `Trip`
 
-- **Favored Weapon**: Izuyaku, Scal
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/other-gods/izuyaku|Izuyaku]], [[srd/pf2e/compendium/deities/azlanti-pantheon/scal|Scal]]
 - **Price**: 3 gp
 - **Damage**: 1d8 B
 - **Bulk**: 2

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -13,7 +12,7 @@ tags:
 - trait/uncommon
 - weapon/level/0
 aliases: ["Butterfly Sword"]
-aon_id: "weapon-275"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=275"
 source: "Treasure Vault (Remastered)"
 ---
 

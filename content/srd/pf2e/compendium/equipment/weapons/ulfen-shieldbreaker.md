@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - equipment/level/6
 aliases: ["Ulfen Shieldbreaker"]
-aon_id: "equipment-3860"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3860"
 source: "Battlecry!"
 ---
 
@@ -20,7 +19,7 @@ source: "Battlecry!"
 - **Bulk**: 1
 - **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/axe/battle-axe|Battle Axe]]
 
-The axe and shield are signature weapons of war and powerful cultural symbols for the Ulfen people. Duels among Ulfen warriors that don’t end in death are traditionally called when one of the combatants’ shield shatters, leading experienced warriors to take as much pride in the resilience of their shields as the sharpness of their axes. This has led to something of an ongoing rivalry between Ulfen armorers seeking to craft unbreakable shields and those seeking to forge unstoppable weapons, with this distinctively bearded _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/axe/battle-axe|battle axe]]_ representing the current pinnacle of the latter group’s craft.
+The axe and shield are signature weapons of war and powerful cultural symbols for the Ulfen people. Duels among Ulfen warriors that don’t end in death are traditionally called when one of the combatants’ shield shatters, leading experienced warriors to take as much pride in the resilience of their shields as the sharpness of their axes. This has led to something of an ongoing rivalry between Ulfen armorers seeking to craft unbreakable shields and those seeking to forge unstoppable weapons, with this distinctively bearded _[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/axe/battle-axe|battle axe]]_ representing the current pinnacle of the latter group’s craft.
 
 When you damage a raised shield with an Ulfen shieldbreaker, your attack ignores the shield’s first 3 points of Hardness. If the damage is not fully mitigated by any remaining Hardness, the shield takes an additional 1d6 slashing damage from the attack. This damage ignores all Hardness.
 

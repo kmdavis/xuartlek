@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Sublime Breath"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Sublime Breath"
 level: 6
 source: "War of Immortals"
-aon_id: "creature-3408"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3408"
 ---
 
@@ -44,7 +42,7 @@ abilities_top:
   - name: "Thought Slips Away"
     desc: "The sublime breath's ephemeral lightness makes them impossible to grasp. They use their [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] modifier to [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Tumble Through|Tumble Through]], [[srd/pf2e/compendium/rules-elements/actions/player-core#High Jump|High Jump]], or [[srd/pf2e/compendium/rules-elements/actions/player-core#Long Jump|Long Jump]]. When they [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leap]], High Jump, or Long Jump, the movement does not provoke reactions."
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/artifacts/cursed-immaculate-instrument|_immaculate instrument_]]"
+    desc: "[[srd/pf2e/compendium/equipment/artifacts/immaculate-instrument|_immaculate instrument_]]"
 ac: 24
 armorclass:
   - name: "AC"

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Mammoth Land Star"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Mammoth Land Star"
 level: 8
 source: "Howl of the Wild"
-aon_id: "creature-3298"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3298"
 ---
 

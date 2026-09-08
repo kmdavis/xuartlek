@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/staff
 - equipment/level/4
 aliases: ["Trickster's Mandolin"]
-aon_id: "equipment-2271"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2271"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -45,7 +44,7 @@ Sought after by many unscrupulous bards, this instrument is surprisingly light a
 
 ---
 
-**2nd** [[srd/pf2e/compendium/spells/rank-2/blur|_blur_]], [[srd/pf2e/compendium/spells/rank-2/illusory-creature|_illusory creature_]], [[srd/pf2e/compendium/spells/rank-1/illusory-disguise|_illusory disguise_]], [[srd/pf2e/compendium/equipment/runes/invisibility-greater|invisibility]]**3rd** _illusory disguise_, _phantom prison_, [[srd/pf2e/compendium/spells/rank-3/shared-invisibility|_shared invisibility_]]
+**2nd** [[srd/pf2e/compendium/spells/rank-2/blur|_blur_]], [[srd/pf2e/compendium/spells/rank-2/illusory-creature|_illusory creature_]], [[srd/pf2e/compendium/spells/rank-1/illusory-disguise|_illusory disguise_]], [[srd/pf2e/compendium/equipment/runes/invisibility|invisibility]]**3rd** _illusory disguise_, _phantom prison_, [[srd/pf2e/compendium/spells/rank-3/shared-invisibility|_shared invisibility_]]
 
 ### Trickster's Mandolin (Major)
 

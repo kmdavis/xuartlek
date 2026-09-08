@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Volnagur"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Volnagur"
 level: 22
 source: "Monster Core 2"
-aon_id: "creature-4559"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4559"
 ---
 

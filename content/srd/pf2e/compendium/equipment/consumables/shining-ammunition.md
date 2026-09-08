@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - equipment/level/1
 aliases: ["Shining Ammunition"]
-aon_id: "equipment-2926"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2926"
 source: "GM Core"
 ---
 

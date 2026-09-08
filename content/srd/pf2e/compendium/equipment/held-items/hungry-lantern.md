@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/rare
 - equipment/level/12
 aliases: ["Hungry Lantern"]
-aon_id: "equipment-3940"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3940"
 source: "Battlecry!"
 ---
 
@@ -15,7 +14,7 @@ source: "Battlecry!"
 
 `Magical`  `Rare`
 
-- **Price**: 1,900 gp
+- **Price**: 1, 900 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
 

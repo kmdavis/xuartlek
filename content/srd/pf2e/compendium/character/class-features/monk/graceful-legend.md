@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class-feature
 tags:
 - compendium/src/pf2e/player-core-2
 - class-feature/level/17
 aliases: ["Graceful Legend"]
-aon_id: "class-feature-950"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=60"
 source: "Player Core 2"
 ---
 

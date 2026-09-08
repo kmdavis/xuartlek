@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/cleric
 - feat/level/6
 aliases: ["Magic Hands"]
-aon_id: "feat-4664"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4664"
 source: "Player Core"
 ---
 

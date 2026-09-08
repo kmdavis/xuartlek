@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Divine Warden Of Pharasma"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Divine Warden Of Pharasma"
 level: 6
 source: "Monster Core 2"
-aon_id: "creature-4338"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4338"
 ---
 
@@ -62,15 +60,15 @@ attacks:
     desc: "⬻ dagger +16 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 2d4+7 piercing"
 abilities_bot:
   - name: "Faithful Weapon"
-    desc: "A divine warden always wields its patron deity's favored weapon. If the weapon is a ranged weapon, the divine warden automatically generates new ammunition with each attack. For a divine warden of 4th level or higher, the deity's favored weapon gains the effects of a [[srd/pf2e/compendium/equipment/runes/striking-major|_striking_]] rune while the divine warden wields it. The Divine Warden of Pharasma wields a [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]] with a _striking_ rune."
+    desc: "A divine warden always wields its patron deity's favored weapon. If the weapon is a ranged weapon, the divine warden automatically generates new ammunition with each attack. For a divine warden of 4th level or higher, the deity's favored weapon gains the effects of a [[srd/pf2e/compendium/equipment/runes/striking|_striking_]] rune while the divine warden wields it. The Divine Warden of Pharasma wields a [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]] with a _striking_ rune."
   - name: "Instrument of Faith"
-    desc: "The divine warden is a beacon for its deity's faith. A [[srd/pf2e/compendium/character/classes/cleric|cleric]] of Pharasma can channel a [[srd/pf2e/compendium/spells/rank-1/heal|_heal_]] spell through the divine warden they can see within 60 feet. The cleric determines any targets or area for the spell as if they were standing in the divine warden's space."
+    desc: "The divine warden is a beacon for its deity's faith. A [[srd/pf2e/compendium/character/classes/cleric|cleric]] of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma]] can channel a [[srd/pf2e/compendium/spells/rank-1/heal|_heal_]] spell through the divine warden they can see within 60 feet. The cleric determines any targets or area for the spell as if they were standing in the divine warden's space."
   - name: "Mask of Fate"
     desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/misfortune|misfortune]]) The divine warden of Pharasma peers at a single creature within 60 feet through the eyes of its mask to alter its destiny. The target must attempt a DC 21 Will save."
   - name: "Critical Success"
     desc: "The target is unaffected."
   - name: "Success"
-    desc: "The target takes a –1 status penalty to the next saving throw it attempts within the next minute against a [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]] effect from a divine warden of Pharasma or worshipper of Pharasma."
+    desc: "The target takes a –1 status penalty to the next saving throw it attempts within the next minute against a [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]] effect from a divine warden of Pharasma or worshipper of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma]]."
   - name: "Failure"
     desc: "For the next saving throw the target attempts within the next minute against a divine effect from a divine warden of Pharasma or worshipper of Pharasma, it rolls twice and takes the worse result."
   - name: "Critical Failure"

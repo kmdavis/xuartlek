@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/shove
 - weapon/level/0
 aliases: ["Greatclub"]
-aon_id: "weapon-377"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=377"
 source: "Player Core"
 ---
 
@@ -15,7 +14,7 @@ source: "Player Core"
 
 `Backswing`  `Shove`
 
-- **Favored Weapon**: Balumbdar, Haggakal, Thuskchoon, Yamatsumi, Ydajisk
+- **Favored Weapon**: Balumbdar, [[srd/pf2e/compendium/deities/giant-gods/haggakal|Haggakal]], [[srd/pf2e/compendium/deities/qlippoth-lords/thuskchoon|Thuskchoon]], Yamatsumi, [[srd/pf2e/compendium/deities/monitor-demigods/ydajisk|Ydajisk]]
 - **Price**: 1 gp
 - **Damage**: 1d10 B
 - **Bulk**: 2

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/secrets-of-the-unlit-star-game-masters-guide
@@ -7,7 +6,7 @@ tags:
 - trait/poison
 - equipment/level/5
 aliases: ["Poisonous Dagger"]
-aon_id: "equipment-4354"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4354"
 source: "Secrets of the Unlit Star Game Master's Guide"
 ---
 

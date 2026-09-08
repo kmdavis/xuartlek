@@ -7,7 +7,6 @@ cssclasses:
 tags:
   - srd/pf2e/dark-archives-remastered
 source: "Dark Archives (Remastered)"
-aon_id: 3492
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3492"
 citation: "Dark Archives (Remastered) pg. 55"
 ---

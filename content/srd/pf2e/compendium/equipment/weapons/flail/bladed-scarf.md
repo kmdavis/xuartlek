@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -11,7 +10,7 @@ tags:
 - trait/uncommon
 - weapon/level/0
 aliases: ["Bladed Scarf"]
-aon_id: "weapon-273"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=273"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -20,7 +19,7 @@ source: "Treasure Vault (Remastered)"
 `Disarm`  `Finesse`  `Reach`  `Sweep`  `Trip`  `Uncommon`
 
 - **PFS Note**: Characters from Tian Xia or Saga Lands have access to this option
-- **Favored Weapon**: Ashava, Sivanah, The Resplendent Court
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/empyreal-lords/ashava|Ashava]], [[srd/pf2e/compendium/deities/other-gods/sivanah|Sivanah]], The Resplendent Court
 - **Price**: 3 gp
 - **Damage**: 1d6 S
 - **Bulk**: 1

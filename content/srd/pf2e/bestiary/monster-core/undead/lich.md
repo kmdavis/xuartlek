@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Lich"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Lich"
 level: 12
 source: "Monster Core"
-aon_id: "creature-3082"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3082"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [0, 4, 0, 6, 4, 3]
 abilities_top:
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/consumables/invisibility-potion|_invisibility potion_]], [[srd/pf2e/compendium/spells/rank-6/teleport|_scroll of teleport_]], [[srd/pf2e/compendium/equipment/staves/staff-of-fire-major|_greater staff of fire_]]"
+    desc: "[[srd/pf2e/compendium/equipment/consumables/invisibility-potion|_invisibility potion_]], [[srd/pf2e/compendium/spells/rank-6/teleport|_scroll of teleport_]], [[srd/pf2e/compendium/equipment/staves/staff-of-fire|_greater staff of fire_]]"
 ac: 31
 armorclass:
   - name: "AC"

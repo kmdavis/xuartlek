@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-sidebar
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -9,7 +8,7 @@ entries: 10
 
 # Sidebars: Dark Archives (Remastered)
 
-## Alter Egos in Golarion  *Sidebar*
+## Alter Egos in Golarion
 
 - **Parent page**: [[srd/pf2e/compendium/character/archetypes/alter-ego|Alter Ego]]
 
@@ -17,7 +16,7 @@ While some alter egos work independently as freelancers, they're especially popu
 
 *Source: Dark Archives (Remastered) p. 126*
 
-## Binary Mindscape Statistics  *Sidebar*
+## Binary Mindscape Statistics
 
 - **Parent page**: [[srd/pf2e/books/dark-archives-remastered/psychic-duels/index|Psychic Duels]]
 
@@ -35,7 +34,7 @@ Psychic duels take place in a binary mindscape, which is much like a very simple
 
 *Source: Dark Archives (Remastered) p. 200*
 
-## Cards and Astrology  *Sidebar*
+## Cards and Astrology
 
 - **Parent page**: [[srd/pf2e/compendium/character/classes/thaumaturge|Thaumaturge]]
 
@@ -49,7 +48,7 @@ The thaumaturge class draws inspiration from symbolism pertaining to both real-w
 
 *Source: Dark Archives (Remastered) p. 31*
 
-## Cryptid Side Effects  *Sidebar*
+## Cryptid Side Effects
 
 - **Parent page**: [[srd/pf2e/compendium/equipment/alchemical-items/baleblood-draft|Baleblood Draft]]
 
@@ -60,15 +59,15 @@ Your shadow appears to be that of a monstrous, winged fiend. It sometimes claws 
 
 *Source: Dark Archives (Remastered) p. 62*
 
-## Final Usurpation  *Sidebar*
+## Final Usurpation
 
-- **Parent page**: [[srd/pf2e/compendium/character/ancestries/reflection|Reflection]]
+- **Parent page**: [[srd/pf2e/compendium/character/versatile-heritages/reflection|Reflection]]
 
 If your progenitor is deceased, you might be able to take over their life. It might require a special ritual and other activities taking 1 week, as you take over your progenitor's lodgings, activities, relationships, and so on. Once you finish, provided no creature has successfully identified you as an impostor, the memories of everyone who knew or interacted with your progenitor are altered, so they forget your progenitor's usual personality and behavior in favor of yours, and you no longer risk discovery for acting out of character for them. You belong now.
 
 *Source: Dark Archives (Remastered) p. 119*
 
-## Imagery of a Psychic Duel  *Sidebar*
+## Imagery of a Psychic Duel
 
 - **Parent page**: [[srd/pf2e/books/dark-archives-remastered/psychic-duels/index|Psychic Duels]]
 
@@ -90,7 +89,7 @@ Upon entering the psychic duel, a creature's psychic avatar appears in the minds
 
 *Source: Dark Archives (Remastered) p. 200*
 
-## Iriis  *Sidebar*
+## Iriis
 
 - **Parent page**: [[srd/pf2e/compendium/spells/rank-8/summon-irii|Summon Irii]]
 
@@ -98,7 +97,7 @@ These denizens of the [[srd/pf2e/compendium/gm/planes#Dimension of Time|Dimensio
 
 *Source: Dark Archives (Remastered) p. 182*
 
-## Key Terms  *Sidebar*
+## Key Terms
 
 - **Parent page**: [[srd/pf2e/compendium/character/classes/psychic|Psychic]]
 
@@ -114,7 +113,7 @@ You'll see the following key terms in many psychic class features.
 
 *Source: Dark Archives (Remastered) p. 9*
 
-## Key Terms  *Sidebar*
+## Key Terms
 
 - **Parent page**: [[srd/pf2e/compendium/character/classes/thaumaturge|Thaumaturge]]
 
@@ -126,7 +125,7 @@ You'll see the following key terms in many thaumaturge class features.
 
 *Source: Dark Archives (Remastered) p. 31*
 
-## Manifestations  *Sidebar*
+## Manifestations
 
 - **Parent page**: [[srd/pf2e/compendium/character/archetypes/curse-maelstrom|Curse Maelstrom]]
 

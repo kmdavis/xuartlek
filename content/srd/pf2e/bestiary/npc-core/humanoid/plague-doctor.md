@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Plague Doctor"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Plague Doctor"
 level: 5
 source: "NPC Core"
-aon_id: "creature-3484"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3484"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [0, 1, 4, 2, 4, 2]
 abilities_top:
   - name: "Items"
-    desc: "Crossbow (10 bolts), [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit-expanded|Healer's Toolkit]], _[[srd/pf2e/compendium/equipment/consumables/healing-potion-major|minor potion of healing]]_ (4), Staff, studded leather"
+    desc: "Crossbow (10 bolts), [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit|Healer's Toolkit]], _[[srd/pf2e/compendium/equipment/consumables/healing-potion|minor potion of healing]]_ (4), Staff, studded leather"
 ac: 20
 armorclass:
   - name: "AC"

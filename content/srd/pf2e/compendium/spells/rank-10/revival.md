@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/positive
 - spell/level/10
 aliases: ["Revival"]
-aon_id: "spell-1654"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1654"
 source: "Player Core"
 ---
 

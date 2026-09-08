@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/teleportation
 - spell/level/1
 aliases: ["Thoughtful Gift"]
-aon_id: "spell-2037"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2037"
 source: "Player Core 2"
 ---
 

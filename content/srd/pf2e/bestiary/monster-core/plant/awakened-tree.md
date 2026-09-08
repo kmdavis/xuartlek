@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Awakened Tree"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Awakened Tree"
 level: 6
 source: "Monster Core"
-aon_id: "creature-2830"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2830"
 ---
 

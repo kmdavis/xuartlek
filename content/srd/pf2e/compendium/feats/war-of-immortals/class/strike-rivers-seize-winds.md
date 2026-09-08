@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
 - trait/exemplar
 - feat/level/16
 aliases: ["Strike Rivers, Seize Winds"]
-aon_id: "feat-7187"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7187"
 source: "War of Immortals"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Hellknight Cavalry Brigade"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Hellknight Cavalry Brigade"
 level: 8
 source: "NPC Core"
-aon_id: "creature-3530"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3530"
 ---
 

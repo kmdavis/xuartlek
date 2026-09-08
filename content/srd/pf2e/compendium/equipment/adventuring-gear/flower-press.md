@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 - equipment/level/0
 aliases: ["Flower Press"]
-aon_id: "equipment-3247"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3247"
 source: "Howl of the Wild"
 ---
 

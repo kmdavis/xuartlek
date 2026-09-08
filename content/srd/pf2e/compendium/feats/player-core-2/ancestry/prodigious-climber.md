@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/tripkee
 - feat/level/5
 aliases: ["Prodigious Climber"]
-aon_id: "feat-5702"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5702"
 source: "Player Core 2"
 ---
 

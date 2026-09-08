@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Ancient Mirage Dragon"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Ancient Mirage Dragon"
 level: 18
 source: "Monster Core"
-aon_id: "creature-2952"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2952"
 ---
 

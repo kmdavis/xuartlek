@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Arrester Squadron"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Arrester Squadron"
 level: 8
 source: "NPC Core"
-aon_id: "creature-3564"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3564"
 ---
 

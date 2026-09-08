@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/staff
 - equipment/level/8
 aliases: ["Boreal Staff"]
-aon_id: "equipment-2246"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2246"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -55,7 +54,7 @@ This is a _+2 striking frost staff_.
 
 ---
 
-This is a _+3 greater striking [[srd/pf2e/compendium/equipment/runes/frost-greater|frost]] staff_. The additional cold damage from the activation ignores cold resistance. 
+This is a _+3 greater striking [[srd/pf2e/compendium/equipment/runes/frost|frost]] staff_. The additional cold damage from the activation ignores cold resistance. 
 **6th** _howling blizzard_**7th** _ frigid flurry_, _howling blizzard_
 
 *Source: Treasure Vault (Remastered) p. 131*

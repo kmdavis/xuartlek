@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Guildmaster"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Guildmaster"
 level: 8
 source: "NPC Core"
-aon_id: "creature-3414"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3414"
 ---
 
@@ -38,7 +36,7 @@ abilities_top:
   - name: "Craft Specialist"
     desc: "For encounters involving matters of crafting or architecture, the guildmaster is a 12th-level challenge."
   - name: "Items"
-    desc: "Artisan's Tools, construction schematics, guildmaster's uniform (functions as [[srd/pf2e/compendium/equipment/armor#Hide Armor|hide armor]]), _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/hammer/light-hammer|light hammer]]_, tax ledgers"
+    desc: "Artisan's Tools, construction schematics, guildmaster's uniform (functions as [[srd/pf2e/compendium/equipment/armor#Hide Armor|hide armor]]), _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/hammer/light-hammer|light hammer]]_, tax ledgers"
 ac: 26
 armorclass:
   - name: "AC"

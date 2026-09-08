@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Immortal Trickster"
 tags:
@@ -14,7 +13,6 @@ statblock: inline
 name: "Immortal Trickster"
 level: 11
 source: "War of Immortals"
-aon_id: "creature-3405"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3405"
 ---
 

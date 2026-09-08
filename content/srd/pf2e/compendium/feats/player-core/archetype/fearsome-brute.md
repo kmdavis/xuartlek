@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/fighter
 - feat/level/10
 aliases: ["Fearsome Brute"]
-aon_id: "feat-4826"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4826"
 source: "Player Core"
 ---
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/gunslinger
 - feat/level/10
 aliases: ["Trick Shot"]
-aon_id: "feat-3188"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3188"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -14,7 +13,7 @@ source: "Guns & Gears (Remastered)"
 
 `Gunslinger`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/bullet-dancer|Bullet Dancer]] (Level 12), [[srd/pf2e/compendium/character/archetypes/pistol-phenom|Pistol Phenom]] (Level 12), [[srd/pf2e/compendium/character/archetypes/unexpected-sharpshooter|Unexpected Sharpshooter]] (Level 10), [[srd/pf2e/compendium/character/archetypes/bullet-dancer|Bullet Dancer]] (Level 12), [[srd/pf2e/compendium/character/archetypes/pistol-phenom|Pistol Phenom]] (Level 12), [[srd/pf2e/compendium/character/archetypes/unexpected-sharpshooter|Unexpected Sharpshooter]] (Level 10)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/bullet-dancer|Bullet Dancer]] (Level 12), [[srd/pf2e/compendium/character/archetypes/pistol-phenom|Pistol Phenom]] (Level 12), [[srd/pf2e/compendium/character/archetypes/unexpected-sharpshooter|Unexpected Sharpshooter]] (Level 10)
 - **Requirements**: You're wielding a loaded crossbow or firearm.
 
 You shoot not at your foe but at an object nearby. Make a Strike with your firearm against an AC equal to an easy DC for your level. On a success, instead of hitting your foe, your attack hits an object behind or to the side of your target, creating one of the following effects. The GM might determine that a different AC is appropriate or that a particular effect isn't a valid option, such as using the explosive barrel option when there's no such object on the battlefield. The GM should inform you if a Trick Shot is feasible before you spend your actions, since your trained eye can easily recognize loose or volatile objects. 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
 - trait/magical
 - equipment/level/10
 aliases: ["Wyvern Nafir"]
-aon_id: "equipment-3952"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3952"
 source: "Battlecry!"
 ---
 

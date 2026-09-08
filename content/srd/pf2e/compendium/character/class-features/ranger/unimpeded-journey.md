@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class-feature
 tags:
 - compendium/src/pf2e/player-core
 - class-feature/level/11
 aliases: ["Unimpeded Journey"]
-aon_id: "class-feature-731"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=36"
 source: "Player Core"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/rare
 - equipment/level/15
 aliases: ["Animate Dreamer"]
-aon_id: "equipment-1177"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1177"
 source: "Guns & Gears (Remastered)"
 ---
 

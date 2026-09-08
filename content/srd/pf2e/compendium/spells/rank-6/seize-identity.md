@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -12,7 +11,7 @@ tags:
 - trait/visual
 - spell/level/6
 aliases: ["Seize Identity"]
-aon_id: "spell-2161"
+aon_url: "https://2e.aonprd.com/MythicSpells.aspx?ID=2161"
 source: "War of Immortals"
 ---
 

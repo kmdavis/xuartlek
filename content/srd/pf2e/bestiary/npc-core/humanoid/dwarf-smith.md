@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Dwarf Smith"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Dwarf Smith"
 level: 0
 source: "NPC Core"
-aon_id: "creature-3626"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3626"
 ---
 
@@ -40,7 +38,7 @@ abilities_top:
   - name: "Temper Armament"
     desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/downtime|downtime]]) The smith spends 1 day tempering a single suit of metallic armor, metallic shield, or metallic weapon. Tempering armor or a shield increases its Hardness by 1. Tempering a weapon grants the weapon a +1 circumstance bonus to damage rolls. Regardless of the item, the tempering remains for 3 days, after which item is temporarily immune to further tempering for 1 week as the technique would otherwise damage it."
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit-sterling|Artisan's Toolkit]] (blacksmithing), Clan Dagger, leather apron (functions as [[srd/pf2e/compendium/equipment/armor#Padded Armor|padded armor]]), [[srd/pf2e/compendium/equipment/weapons/hammer/light-hammer|Light Hammer]]"
+    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit|Artisan's Toolkit]] (blacksmithing), Clan Dagger, leather apron (functions as [[srd/pf2e/compendium/equipment/armor#Padded Armor|padded armor]]), [[srd/pf2e/compendium/equipment/weapons/hammer/light-hammer|Light Hammer]]"
 ac: 14
 armorclass:
   - name: "AC"

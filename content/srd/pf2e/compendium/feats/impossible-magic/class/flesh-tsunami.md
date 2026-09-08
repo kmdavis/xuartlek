@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/necromancer
 - feat/level/16
 aliases: ["Flesh Tsunami"]
-aon_id: "feat-9155"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9155"
 source: "Impossible Magic"
 ---
 

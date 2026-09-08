@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/rare
 - vehicle/level/10
 aliases: ["Speedster"]
-aon_id: "vehicle-31"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=31"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -14,7 +13,7 @@ source: "Guns & Gears (Remastered)"
 
 `Rare`
 
-- **Price**: 2,900 gp
+- **Price**: 2, 900 gp
 
 A speedster is a light streamlined hybrid clockwork and steam-powered alchemical chassis roughly the shape of a horse or other creature built for speed. Speedsters are built to maintain a rapid pace that can become even faster for brief periods of time by releasing stored up steam pressure for an extra burst of speed.
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -9,7 +8,7 @@ tags:
 - trait/teleportation
 - feat/level/10
 aliases: ["Spectral Advance"]
-aon_id: "feat-5911"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5911"
 source: "Player Core 2"
 ---
 

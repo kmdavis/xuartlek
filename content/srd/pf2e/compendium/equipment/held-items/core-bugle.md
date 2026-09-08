@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
 - trait/magical
 - equipment/level/12
 aliases: ["Core Bugle"]
-aon_id: "equipment-3931"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3931"
 source: "Battlecry!"
 ---
 
@@ -14,7 +13,7 @@ source: "Battlecry!"
 
 `Magical`
 
-- **Price**: 1,800 gp
+- **Price**: 1, 800 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
 

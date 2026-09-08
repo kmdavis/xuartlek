@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class-feature
 tags:
 - compendium/src/pf2e/player-core
 - class-feature/level/11
 aliases: ["Fighter Expertise"]
-aon_id: "class-feature-705"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=35"
 source: "Player Core"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - equipment/level/10
 aliases: ["Smoldering Armor"]
-aon_id: "equipment-1852"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1852"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -19,9 +18,9 @@ source: "Treasure Vault (Remastered)"
 - **Price**: 975 gp
 - **Usage**: worn armor
 - **Bulk**: 2
-- **Base Armor**: [[srd/pf2e/compendium/equipment/armor#Niyaháat|Niyaháat]]
+- **Base Armor**: Niyaháat
 
-This _+1 resilient fire-resistant [[srd/pf2e/compendium/equipment/armor#Niyaháat|niyaháat]]_ is often created to mark the passage of an Erutaki warrior into adulthood, plates salvaged from the exploded remains of a [[srd/pf2e/bestiary/monster-core/elemental/firewyrm|firewyrm]] elemental, with larger pieces protecting the chest, shoulders, and head. As you fight, the armor glows red hot.
+This _+1 resilient fire-resistant niyaháat_ is often created to mark the passage of an Erutaki warrior into adulthood, plates salvaged from the exploded remains of a [[srd/pf2e/bestiary/monster-core/elemental/firewyrm|firewyrm]] elemental, with larger pieces protecting the chest, shoulders, and head. As you fight, the armor glows red hot.
 
 **Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** The armor casts _fire shield_ on you.
 

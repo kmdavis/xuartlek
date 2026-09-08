@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/magical
 - equipment/level/2
 aliases: ["Boots of the Secret Blade"]
-aon_id: "equipment-3960"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3960"
 source: "Battlecry!"
 ---
 
@@ -32,7 +31,7 @@ You pride yourself on being well prepared with weaponry for any situation. Your 
 
 ---
 
-When you Draw Secret Blade, you draw a _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 striking]] dagger_.
+When you Draw Secret Blade, you draw a _[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 striking]] dagger_.
 
 ### Major Boots of the Secret Blade
 

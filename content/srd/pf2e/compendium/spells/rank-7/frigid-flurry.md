@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -9,7 +8,7 @@ tags:
 - trait/water
 - spell/level/7
 aliases: ["Frigid Flurry"]
-aon_id: "spell-2713"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2713"
 source: "Impossible Magic"
 ---
 
@@ -18,7 +17,7 @@ source: "Impossible Magic"
 `Cold`  `Concentrate`  `Manipulate`  `Water`
 
 - **Traditions**: Arcane, Primal
-- **Deity**: Thremyr
+- **Deity**: [[srd/pf2e/compendium/deities/giant-gods/thremyr|Thremyr]]
 - **Area**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Line|line]] up to 120 feet
 - **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex
 

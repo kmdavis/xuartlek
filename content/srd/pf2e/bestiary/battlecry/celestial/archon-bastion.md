@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Archon Bastion"
 tags:
@@ -14,7 +13,6 @@ statblock: inline
 name: "Archon Bastion"
 level: 16
 source: "Battlecry!"
-aon_id: "creature-3903"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3903"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
@@ -9,7 +8,7 @@ tags:
 - trait/rare
 - equipment/level/12
 aliases: ["Swift Standard"]
-aon_id: "equipment-3917"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3917"
 source: "Battlecry!"
 ---
 

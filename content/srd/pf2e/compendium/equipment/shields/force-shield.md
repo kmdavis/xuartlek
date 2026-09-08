@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - equipment/level/9
 aliases: ["Force Shield"]
-aon_id: "equipment-2820"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2820"
 source: "GM Core"
 ---
 

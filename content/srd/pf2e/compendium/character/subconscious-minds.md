@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-subconscious-mind
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -9,7 +8,7 @@ entries: 4
 
 # Subconscious Minds
 
-## Emotional Acceptance  *Psychic Subconscious Mind*
+## Emotional Acceptance
 
 The mind's truths come not in learned words or mathematical formulas but in deeper feelings and sensations. Emotions unlock the door to your power—you might consider your heart the source of your strength, or you might find that the infinite complexity felt in a moment expresses your power more efficiently than any string of mystic words ever could.
 
@@ -21,7 +20,7 @@ The mind's truths come not in learned words or mathematical formulas but in deep
 
 *Source: Dark Archives (Remastered) p. 15*
 
-## Gathered Lore  *Psychic Subconscious Mind*
+## Gathered Lore
 
 Many psychics are self-taught, frantically improvising how to best control their abilities before their power overwhelms them. Not you. Tutored by a mentor or classically trained at a facility for psychic development, you've learned techniques and teachings for best harnessing the mind, cataloging each expression of psychic power with a specific teaching, anecdote, or phrase.
 
@@ -33,7 +32,7 @@ Many psychics are self-taught, frantically improvising how to best control their
 
 *Source: Dark Archives (Remastered) p. 15*
 
-## Precise Discipline  *Psychic Subconscious Mind*
+## Precise Discipline
 
 Determine intended outcome. Align thoughts. Identify and resolve distractions. Manifest. Intentional focus is the key to unleashing your abilities, whether that's because your power naturally tends to precise, discrete effects, or because you've adopted strict discipline to ensure your mind can change the world only when you intend it to.
 
@@ -45,7 +44,7 @@ Determine intended outcome. Align thoughts. Identify and resolve distractions. M
 
 *Source: Dark Archives (Remastered) p. 16*
 
-## Wandering Reverie  *Psychic Subconscious Mind*
+## Wandering Reverie
 
 The subconscious is by definition buried below the surface. Thus, only by stripping away the clamor and interference of everyday thought can you bring this more fundamental part of your mind to bear. Whether through sleep, self-hypnosis, or special exercises to empty your mind, you've found a way to access a deeper, more chaotic state of free association that better channels your psychic power.
 

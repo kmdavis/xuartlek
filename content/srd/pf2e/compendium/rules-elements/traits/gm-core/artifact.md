@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/gm-core
 - trait/artifact
 aliases: ["Artifact"]
-aon_id: "trait-537"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=537"
 source: "GM Core"
 ---
 

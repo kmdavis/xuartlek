@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Peerless Healer"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Peerless Healer"
 level: 15
 source: "NPC Core"
-aon_id: "creature-3487"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3487"
 ---
 
@@ -38,7 +36,7 @@ abilities_top:
   - name: "Medical Specialist"
     desc: "The peerless healer is a 17th-level challenge for contests of medicine."
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/resilient-major|resilient]] [[srd/pf2e/compendium/equipment/armor#Breastplate|breastplate]]_, [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit-expanded|expanded healer's toolkit]], _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/staves/staff-of-healing-true|greater staff of healing]]_"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/resilient|resilient]] [[srd/pf2e/compendium/equipment/armor#Breastplate|breastplate]]_, [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit|expanded healer's toolkit]], _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/staves/staff-of-healing|greater staff of healing]]_"
 ac: 35
 armorclass:
   - name: "AC"

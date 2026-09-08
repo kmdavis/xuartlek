@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/mental
 - spell/level/7
 aliases: ["Warp Mind"]
-aon_id: "spell-1754"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1754"
 source: "Player Core"
 ---
 
@@ -19,8 +18,8 @@ source: "Player Core"
 `Concentrate`  `Emotion`  `Incapacitation`  `Manipulate`  `Mental`
 
 - **Traditions**: Arcane, Occult
-- **Bloodlines**: Aberrant, Hag
-- **Deities**: Conqueror Worm, Isph-Aun-Vuln, Laivatiniel, Nethys, Nyarlathotep (The Faceless Sphinx), Nyuo-Ogh, Xhamen-Dor, Zeaki
+- **Bloodlines**: [[srd/pf2e/compendium/character/bloodlines#Aberrant|Aberrant]], [[srd/pf2e/compendium/character/bloodlines#Hag|Hag]]
+- **Deities**: Conqueror Worm, [[srd/pf2e/compendium/deities/qlippoth-lords/isph-aun-vuln|Isph-Aun-Vuln]], [[srd/pf2e/compendium/deities/daemon-harbingers/laivatiniel|Laivatiniel]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/nethys|Nethys]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-the-faceless-sphinx|Nyarlathotep (The Faceless Sphinx)]], [[srd/pf2e/compendium/deities/qlippoth-lords/nyuo-ogh|Nyuo-Ogh]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/xhamen-dor|Xhamen-Dor]], Zeaki
 - **Range**: 120 feet
 - **Target**: 1 creature
 - **Defense**: Will

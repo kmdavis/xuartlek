@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/emotion
 aliases: ["Emotion"]
-aon_id: "trait-590"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=590"
 source: "Player Core"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -7,7 +6,7 @@ tags:
 - trait/water
 - equipment/level/14
 aliases: ["Faydhaan's Dallah"]
-aon_id: "equipment-2627"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2627"
 source: "Rage of Elements"
 ---
 
@@ -15,7 +14,7 @@ source: "Rage of Elements"
 
 `Magical`  `Water`
 
-- **Price**: 4,250 gp
+- **Price**: 4, 250 gp
 - **Usage**: held in 1 hand
 - **Bulk**: 1
 

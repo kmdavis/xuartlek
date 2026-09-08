@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
 - trait/magical
 - equipment/level/3
 aliases: ["Maestro's Instrument"]
-aon_id: "equipment-3026"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3026"
 source: "GM Core"
 ---
 

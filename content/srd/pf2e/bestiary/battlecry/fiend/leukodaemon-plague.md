@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Leukodaemon Plague"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Leukodaemon Plague"
 level: 14
 source: "Battlecry!"
-aon_id: "creature-3925"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3925"
 ---
 

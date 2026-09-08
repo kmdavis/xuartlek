@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -10,7 +9,7 @@ tags:
 - trait/rare
 - equipment/level/20
 aliases: ["Achaekek's Kiss"]
-aon_id: "equipment-1988"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1988"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -18,7 +17,7 @@ source: "Treasure Vault (Remastered)"
 
 `Alchemical`  `Consumable`  `Injury`  `Poison`  `Rare`
 
-- **Price**: 13,000 gp
+- **Price**: 13, 000 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
 - **Access**: member of the Red Mantis assassins

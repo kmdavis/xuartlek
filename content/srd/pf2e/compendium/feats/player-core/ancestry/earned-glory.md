@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/half-elf
 - feat/level/1
 aliases: ["Earned Glory"]
-aon_id: "feat-4567"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4567"
 source: "Player Core"
 ---
 

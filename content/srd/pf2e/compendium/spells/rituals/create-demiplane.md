@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -8,7 +7,7 @@ tags:
 - trait/teleportation
 - ritual/level/8
 aliases: ["Create Demiplane"]
-aon_id: "ritual-191"
+aon_url: "https://2e.aonprd.com/MythicRituals.aspx?ID=191"
 source: "War of Immortals"
 ---
 

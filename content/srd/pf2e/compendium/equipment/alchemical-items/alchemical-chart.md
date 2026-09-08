@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
 - trait/alchemical
 - equipment/level/4
 aliases: ["Alchemical Chart"]
-aon_id: "equipment-1970"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1970"
 source: "Treasure Vault (Remastered)"
 ---
 

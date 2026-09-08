@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Kobold Earth Diver"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Kobold Earth Diver"
 level: 4
 source: "NPC Core"
-aon_id: "creature-3680"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3680"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [4, 3, 0, 1, 2, 0]
 abilities_top:
   - name: "Items"
-    desc: "Crossbow (20 bolts), [[srd/pf2e/compendium/equipment/adventuring-gear/map-weather-map|Map]] (depicting landmarks above and below ground in 1 square mile), Leather Armor, Pick"
+    desc: "Crossbow (20 bolts), [[srd/pf2e/compendium/equipment/adventuring-gear/map|Map]] (depicting landmarks above and below ground in 1 square mile), Leather Armor, Pick"
 ac: 20
 armorclass:
   - name: "AC"

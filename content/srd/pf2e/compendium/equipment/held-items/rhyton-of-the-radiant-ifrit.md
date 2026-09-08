@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -7,7 +6,7 @@ tags:
 - trait/magical
 - equipment/level/14
 aliases: ["Rhyton of the Radiant Ifrit"]
-aon_id: "equipment-2607"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2607"
 source: "Rage of Elements"
 ---
 
@@ -15,7 +14,7 @@ source: "Rage of Elements"
 
 `Fire`  `Magical`
 
-- **Price**: 4,200 gp
+- **Price**: 4, 200 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
 

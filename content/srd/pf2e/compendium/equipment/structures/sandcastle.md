@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - equipment/level/11
 aliases: ["Sandcastle"]
-aon_id: "equipment-2595"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2595"
 source: "Rage of Elements"
 ---
 
@@ -17,7 +16,7 @@ source: "Rage of Elements"
 
 `Earth`  `Magical`  `Structure`  `Uncommon`
 
-- **Price**: 1,250 gp
+- **Price**: 1, 250 gp
 - **Bulk**: L inactivated
 
 A _sandcastle_ comes in a cylindrical, waterproof satchel that contains densely packed fine sand. The sand's color depends on where it was collected when the item was made. This sand can be shaped and magically activated to create a fortification made of hard-packed sand. It can survive most ordinary weather, but a _sandcastle_ has little resilience against water. It collapses if activated on water or if the structure is caught in a deluge or heavy rainfall. Each 10-foot-by-10-foot section of the wall has AC 10, Hardness 10, and 40 Hit Points. It's immune to critical hits and precision damage, and it has weakness to water 15. If destroyed, a section of the _sandcastle_ becomes a pile of sand, or wet sand if it was destroyed by water. This sand is difficult terrain, which lasts for the remaining duration of the activation. It's easy to make handholds and footholds in the sand walls, so the DC to climb the walls is 15.

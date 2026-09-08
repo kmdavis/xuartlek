@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-archetype
 tags:
 - compendium/src/pf2e/battlecry
 - archetype/level/2
 aliases: ["Guerrilla"]
-aon_id: "archetype-327"
+aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=327"
 source: "Battlecry!"
 ---
 

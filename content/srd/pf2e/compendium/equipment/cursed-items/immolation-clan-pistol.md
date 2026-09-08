@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/rare
 - equipment/level/10
 aliases: ["Immolation Clan Pistol"]
-aon_id: "equipment-1175"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1175"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -26,7 +25,7 @@ This charred and blackened _+2 striking [[srd/pf2e/compendium/feats/guns-gears-r
 
  An _immolation clan pistol_ fuses with you when you first fire it. While you're fused with the _immolation clan pistol_, the pained spirit haunts your dreams, forcing you to relive its death each night. If you fired the _immolation clan pistol_ that day, you are unharmed by these dreams. If you didn't fire the _immolation clan pistol_ that day, but still possess it, you awaken fatigued. If you no longer possess the _immolation clan pistol_, the spirit of its dwarven smith is enraged by your neglect; you awaken fatigued and aflame, taking 2d6 persistent fire damage.
 
- Regardless, these nightmares possess clues to the spirit's life. If you take the _immolation clan pistol_ to the site of its creation and repair it with tools belonging to the tormented spirit, you might be able to break the curse. If the spirit is set free, this weapon becomes a _+2 greater striking flaming [[srd/pf2e/compendium/equipment/weapons/firearm/hand-cannon|clan pistol]]_ with no other abilities or curses.
+ Regardless, these nightmares possess clues to the spirit's life. If you take the _immolation clan pistol_ to the site of its creation and repair it with tools belonging to the tormented spirit, you might be able to break the curse. If the spirit is set free, this weapon becomes a _+2 greater striking flaming clan pistol_ with no other abilities or curses.
 
 **Activate** ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** You allow yourself to become partially possessed by the immolated spirit bound to the clan pistol. For 1 minute, you look like a flaming corpse. During this time, you gain a +2 status bonus to [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] checks and the immolation clan pistol becomes a _+2 striking flaming clan pistol_.
 

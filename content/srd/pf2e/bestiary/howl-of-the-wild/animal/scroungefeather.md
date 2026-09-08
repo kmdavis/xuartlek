@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Scroungefeather"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Scroungefeather"
 level: 5
 source: "Howl of the Wild"
-aon_id: "creature-3304"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3304"
 ---
 

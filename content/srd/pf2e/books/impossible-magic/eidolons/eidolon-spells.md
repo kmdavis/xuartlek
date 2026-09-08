@@ -7,7 +7,6 @@ cssclasses:
 tags:
   - srd/pf2e/impossible-magic
 source: "Impossible Magic"
-aon_id: 3686
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3686"
 citation: "Impossible Magic pg. 70"
 ---

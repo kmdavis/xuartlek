@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -7,7 +6,7 @@ tags:
 - trait/metal
 - equipment/level/7
 aliases: ["Morphing Weapon"]
-aon_id: "equipment-2615"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2615"
 source: "Rage of Elements"
 ---
 

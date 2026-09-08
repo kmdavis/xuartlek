@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class-feature
 tags:
 - compendium/src/pf2e/battlecry
 - class-feature/level/1
 aliases: ["Initial Proficiencies"]
-aon_id: "class-feature-1113"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=67"
 source: "Battlecry!"
 ---
 

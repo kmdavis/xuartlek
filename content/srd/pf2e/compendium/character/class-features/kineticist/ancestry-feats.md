@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class-feature
 tags:
 - compendium/src/pf2e/rage-of-elements
 - class-feature/level/5
 aliases: ["Ancestry Feats"]
-aon_id: "class-feature-605"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=23"
 source: "Rage of Elements"
 ---
 

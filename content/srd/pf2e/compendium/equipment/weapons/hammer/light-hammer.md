@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/thrown
 - weapon/level/0
 aliases: ["Light Hammer"]
-aon_id: "weapon-384"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=384"
 source: "Player Core"
 ---
 
@@ -15,7 +14,7 @@ source: "Player Core"
 
 `Agile`  `Thrown`
 
-- **Favored Weapon**: Amaznen, Brigh, Droskar, Gaasham, Grundinnar, Keepers of the Hearth, Kols, Nivi Rhombodazzle, Pillars of Knowledge, Ssila’meshnik, Yrmidar
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/azlanti-pantheon/amaznen|Amaznen]], [[srd/pf2e/compendium/deities/other-gods/brigh|Brigh]], [[srd/pf2e/compendium/deities/dwarven-gods/droskar|Droskar]], Gaasham, [[srd/pf2e/compendium/deities/dead-or-missing-deities/grundinnar|Grundinnar]], Keepers of the Hearth, [[srd/pf2e/compendium/deities/dwarven-gods/kols|Kols]], [[srd/pf2e/compendium/deities/other-gods/nivi-rhombodazzle|Nivi Rhombodazzle]], Pillars of Knowledge, [[srd/pf2e/compendium/deities/monitor-demigods/ssilameshnik|Ssila’meshnik]], [[srd/pf2e/compendium/deities/giant-gods/yrmidar|Yrmidar]]
 - **Price**: 3 sp
 - **Damage**: 1d6 B
 - **Bulk**: L

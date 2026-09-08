@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/rare
 - vehicle/level/2
 aliases: ["Steam Cart"]
-aon_id: "vehicle-21"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=21"
 source: "Guns & Gears (Remastered)"
 ---
 

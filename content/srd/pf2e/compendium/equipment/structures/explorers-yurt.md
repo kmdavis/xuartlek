@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -7,7 +6,7 @@ tags:
 - trait/structure
 - equipment/level/10
 aliases: ["Explorer's Yurt"]
-aon_id: "equipment-3022"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3022"
 source: "GM Core"
 ---
 

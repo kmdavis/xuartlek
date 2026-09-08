@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - equipment/level/13
 aliases: ["False Death Vial"]
-aon_id: "equipment-2106"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2106"
 source: "Treasure Vault (Remastered)"
 ---
 

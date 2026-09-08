@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/rare
 - spell/level/1
 aliases: ["Frost's Touch"]
-aon_id: "spell-1274"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1274"
 source: "Treasure Vault (Remastered)"
 ---
 

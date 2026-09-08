@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - equipment/level/17
 aliases: ["Voyager's Pack"]
-aon_id: "equipment-3115"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3115"
 source: "GM Core"
 ---
 
@@ -16,7 +15,7 @@ source: "GM Core"
 
 `Invested`  `Magical`  `Uncommon`
 
-- **Price**: 14,800 gp
+- **Price**: 14, 800 gp
 - **Usage**: worn backpack
 
 This leather rucksack has icons burned into it, and every time it's taken to a plane it hasn't been to before, a new icon representing that plane scorches into the surface. The pack grants you a +3 bonus to Survival checks. It also enables you to see the magical traces of creatures' passage, allowing you to Track a creature that has teleported. The GM sets the DC of this check, usually using the spell DC or the level of the teleportation's caster. This lets you find the location of the creature's destination, and you can use that destination when casting teleport or activating the pack, even though you don't know what it looks like.

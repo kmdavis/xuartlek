@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/infused
 aliases: ["Infused"]
-aon_id: "trait-797"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=797"
 source: "Player Core 2"
 ---
 

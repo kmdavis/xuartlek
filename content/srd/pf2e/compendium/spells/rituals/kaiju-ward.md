@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -7,7 +6,7 @@ tags:
 - trait/rare
 - ritual/level/6
 aliases: ["Kaiju Ward"]
-aon_id: "ritual-195"
+aon_url: "https://2e.aonprd.com/MythicRituals.aspx?ID=195"
 source: "War of Immortals"
 ---
 
@@ -18,7 +17,7 @@ source: "War of Immortals"
 - **Cast**: 8 hours
 - **Secondary Casters**: 4
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] (mythic)
-- **Secondary Checks**: Engineering Lore , Kaiju Lore, Survival , Warfare Lore
+- **Secondary Checks**: Engineering Lore, Kaiju Lore, Survival, Warfare Lore
 - **Range**: touch
 - **Target(s)**: 1 physical structure
 - **Duration**: 14 days

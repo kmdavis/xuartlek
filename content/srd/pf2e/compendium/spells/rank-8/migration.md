@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/polymorph
 - spell/level/8
 aliases: ["Migration"]
-aon_id: "spell-1600"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1600"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Polymorph`
 
 - **Tradition**: Primal
-- **Deities**: Isis, Pazuzu, Zeaki
+- **Deities**: [[srd/pf2e/compendium/deities/dead-or-missing-deities/isis|Isis]], [[srd/pf2e/compendium/deities/demon-lords/pazuzu|Pazuzu]], Zeaki
 - **Cast**: 10 minutes
 - **Range**: 20 feet
 - **Target**: you and up to 5 willing creatures

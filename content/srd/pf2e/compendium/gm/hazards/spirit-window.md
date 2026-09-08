@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 - trait/haunt
 - hazard/level/20
 aliases: ["Spirit Window"]
-aon_id: "hazard-637"
+aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=637"
 source: "Dark Archives (Remastered)"
 ---
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/magus
 - feat/level/4
 aliases: ["Emergency Targe"]
-aon_id: "feat-9054"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9054"
 source: "Impossible Magic"
 ---
 
@@ -16,7 +15,7 @@ source: "Impossible Magic"
 
 - **Prerequisites**: sparkling targe hybrid study
 - **Trigger**: An enemy you’re aware of hits you with a Strike or a spell attack, or you fail a save against an enemy’s spell.
-- **Requirements**: You are wielding a shield or have the [[srd/pf2e/compendium/spells/cantrips/shield|_shield_]] spell prepared.
+- **Requirements**: You are wielding a [[srd/pf2e/compendium/character/implements/shield|shield]] or have the [[srd/pf2e/compendium/spells/cantrips/shield|_shield_]] spell prepared.
 
 You immediately [[srd/pf2e/compendium/rules-elements/actions/player-core#Raise a Shield|Raise a Shield]] or cast [[srd/pf2e/compendium/spells/cantrips/shield|_shield_]]. The circumstance bonus applies to your defenses when determining the outcome of the triggering attack or spell.
 

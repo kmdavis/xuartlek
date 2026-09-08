@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-skill
 tags:
 - compendium/src/pf2e/player-core
 aliases: ["Athletics"]
-aon_id: "skill-36"
+aon_url: "https://2e.aonprd.com/Skills.aspx?ID=36"
 source: "Player Core"
 ---
 
@@ -25,21 +24,21 @@ Category
 Consumable
 Note
 
-[[srd/pf2e/compendium/equipment/spellhearts/beastmasters-sigil-major|Beastmaster's Sigil]]
+[[srd/pf2e/compendium/equipment/spellhearts/beastmasters-sigil|Beastmaster's Sigil]]
 +1
 0
 Spellhearts
 No
 Item bonus to Athletic checks to Trip
 
-[[srd/pf2e/compendium/equipment/worn-items/medal-of-phoenixs-fire|Medal of Gorilla’s Might]]
+[[srd/pf2e/compendium/equipment/worn-items/magical-medals|Medal of Gorilla’s Might]]
 +1
 3
 Worn Items
 No
 Item bonus to Athletics checks to Climb, Force Open, High Jump, and Long Jump.
 
-[[srd/pf2e/compendium/equipment/adventuring-gear/crowbar-levered|Crowbar (Levered)]]
+[[srd/pf2e/compendium/equipment/adventuring-gear/crowbar|Crowbar (Levered)]]
 +1
 3
 Adventuring Gear
@@ -60,7 +59,7 @@ Other Worn Items
 No
 Item bonus to Athletics Check to Climb, Grapple, and Reposition.
 
-[[srd/pf2e/compendium/equipment/worn-items/greater-sailors-collar|Sailor’s Collar]]
+[[srd/pf2e/compendium/equipment/worn-items/sailors-collar|Sailor’s Collar]]
 +1
 4
 Worn Items
@@ -109,7 +108,7 @@ Alchemical Bombs
 No
 Item bonus to Athletic checks to Force Open
 
-[[srd/pf2e/compendium/equipment/alchemical-items/bestial-mutagen-major|Bestial Mutagen (Lesser)]]
+[[srd/pf2e/compendium/equipment/alchemical-items/bestial-mutagen|Bestial Mutagen (Lesser)]]
 +1
 1
 Alchemical Elixirs
@@ -171,13 +170,13 @@ Item bonus to Athletics checks to High Jump and Long Jump when activated
 Other Worn Items
 No
 
-[[srd/pf2e/compendium/equipment/worn-items/sash-of-prowess-greater|Sash of Prowess]]
+[[srd/pf2e/compendium/equipment/worn-items/sash-of-prowess|Sash of Prowess]]
 +2
 10
 Worn Items
 No
 
-[[srd/pf2e/compendium/equipment/worn-items/greater-sailors-collar|Greater Sailor’s Collar]]
+[[srd/pf2e/compendium/equipment/worn-items/sailors-collar|Greater Sailor’s Collar]]
 +2
 10
 Worn Items
@@ -205,7 +204,7 @@ Clan Dagger Filigrees
 No
 Item bonus to Athletics checks
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal]]
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal]]
 +2
 11
 Worn Items
@@ -219,28 +218,28 @@ Worn Items
 No
 Item bonus to Swim
 
-[[srd/pf2e/compendium/equipment/worn-items/major-stampede-medallion|Stampede Medallion]]
+[[srd/pf2e/compendium/equipment/worn-items/stampede-medallion|Stampede Medallion]]
 +2
 12
 Worn Items
 No
 Item bonus to Athletics checks to Shove or Trip.
 
-[[srd/pf2e/compendium/equipment/worn-items/major-stampede-medallion|Greater Stampede Medallion]]
+[[srd/pf2e/compendium/equipment/worn-items/stampede-medallion|Greater Stampede Medallion]]
 +2
 15
 Worn Items
 No
 Item bonus to Athletics checks to Shove or Trip.
 
-[[srd/pf2e/compendium/equipment/alchemical-items/bestial-mutagen-major|Bestial Mutagen (Moderate)]]
+[[srd/pf2e/compendium/equipment/alchemical-items/bestial-mutagen|Bestial Mutagen (Moderate)]]
 +2
 3
 Alchemical Elixirs
 Yes
 Item bonus to Athletics checks 
 
-[[srd/pf2e/compendium/equipment/worn-items/sash-of-prowess-greater|Sash of Prowess (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/sash-of-prowess|Sash of Prowess (Greater)]]
 +3
 17
 Worn Items
@@ -253,7 +252,7 @@ Apex Items
 No
 Item bonus to Perception checks to Athletics
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal (Greater)]]
 +3
 18
 Worn Items
@@ -281,7 +280,7 @@ Apex Items
 No
 Item bonus to Athletics.
 
-[[srd/pf2e/compendium/equipment/worn-items/major-stampede-medallion|Major Stampede Medallion]]
+[[srd/pf2e/compendium/equipment/worn-items/stampede-medallion|Major Stampede Medallion]]
 +3
 18
 Worn Items
@@ -295,7 +294,7 @@ Apex Items
 No
 item bonus to Athletics checks
 
-[[srd/pf2e/compendium/equipment/alchemical-items/bestial-mutagen-major|Bestial Mutagen (Greater)]]
+[[srd/pf2e/compendium/equipment/alchemical-items/bestial-mutagen|Bestial Mutagen (Greater)]]
 +3
 11
 Alchemical Elixirs
@@ -309,7 +308,7 @@ Alchemical Poisons
 Yes
 item bonus to Athletics checks and Fortitude saves for 1 hour if applied to an elixir or potion.
 
-[[srd/pf2e/compendium/equipment/alchemical-items/bestial-mutagen-major|Bestial Mutagen (Major)]]
+[[srd/pf2e/compendium/equipment/alchemical-items/bestial-mutagen|Bestial Mutagen (Major)]]
 +4
 17
 Alchemical Elixirs

@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/npc-core
 aliases: ["Official"]
-aon_id: "creature-family-545"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=545"
 source: "NPC Core"
 ---
 

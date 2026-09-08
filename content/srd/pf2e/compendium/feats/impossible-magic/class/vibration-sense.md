@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/summoner
 - feat/level/4
 aliases: ["Vibration Sense"]
-aon_id: "feat-9243"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9243"
 source: "Impossible Magic"
 ---
 

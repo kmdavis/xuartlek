@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
 - trait/fatal-aim
 - weapon/level/1
 aliases: ["Sukgung"]
-aon_id: "weapon-341"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=341"
 source: "Treasure Vault (Remastered)"
 ---
 

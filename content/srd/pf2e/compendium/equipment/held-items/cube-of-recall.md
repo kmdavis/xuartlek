@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
 - trait/magical
 - equipment/level/19
 aliases: ["Cube of Recall"]
-aon_id: "equipment-2189"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2189"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -14,7 +13,7 @@ source: "Treasure Vault (Remastered)"
 
 `Magical`
 
-- **Price**: 40,000 gp
+- **Price**: 40, 000 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
 

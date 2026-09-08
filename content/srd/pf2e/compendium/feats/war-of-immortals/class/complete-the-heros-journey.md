@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -8,7 +7,7 @@ tags:
 - trait/transcendence
 - feat/level/14
 aliases: ["Complete the Hero's Journey"]
-aon_id: "feat-7180"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7180"
 source: "War of Immortals"
 ---
 

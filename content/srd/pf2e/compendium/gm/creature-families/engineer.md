@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/npc-core
 aliases: ["Engineer"]
-aon_id: "creature-family-536"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=536"
 source: "NPC Core"
 ---
 
@@ -26,7 +25,7 @@ Although relatively uncommon across much of Golarion, the frequently eccentric b
 
 ### Brigh
 
-On Golarion, science and magic coexist, and many engineers worship Brigh, the deity of clockwork, invention, and time. She's often invoked when an inventor needs inspiration or is on the clock and needs the next few hours to go slower. Often, engineers engrave small icons of Brigh's religious symbol—a mask in her likeness.
+On Golarion, science and magic coexist, and many engineers worship [[srd/pf2e/compendium/deities/other-gods/brigh|Brigh]], the deity of clockwork, invention, and time. She's often invoked when an inventor needs inspiration or is on the clock and needs the next few hours to go slower. Often, engineers engrave small icons of Brigh's religious symbol—a mask in her likeness.
 
 ### Crossover Ancestry NPCs
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/tengu
 - feat/level/1
 aliases: ["Tengu Weapon Familiarity"]
-aon_id: "feat-5679"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5679"
 source: "Player Core 2"
 ---
 

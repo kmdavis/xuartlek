@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Grand Inquisitor"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Grand Inquisitor"
 level: 15
 source: "NPC Core"
-aon_id: "creature-3568"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3568"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [5, 2, 2, 3, 5, 4]
 abilities_top:
   - name: "Items"
-    desc: "_+2 [[srd/pf2e/compendium/equipment/runes/resilient-major|resilient]] [[srd/pf2e/compendium/equipment/armor#Full Plate|full plate]]_, _+2 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/scimitar|scimitar]]_, _+2 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/knife/starknife|starknife]]_"
+    desc: "_+2 [[srd/pf2e/compendium/equipment/runes/resilient|resilient]] [[srd/pf2e/compendium/equipment/armor#Full Plate|full plate]]_, _+2 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/scimitar|scimitar]]_, _+2 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/knife/starknife|starknife]]_"
 ac: 38
 armorclass:
   - name: "AC"

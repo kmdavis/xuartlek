@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/mental
 - spell/level/8
 aliases: ["Uncontrollable Dance"]
-aon_id: "spell-1730"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1730"
 source: "Player Core"
 ---
 
@@ -18,8 +17,8 @@ source: "Player Core"
 `Concentrate`  `Incapacitation`  `Manipulate`  `Mental`
 
 - **Traditions**: Arcane, Occult
-- **Bloodlines**: Aberrant, Fey
-- **Deities**: Ashava, Hathor, Kofusachi, The Perplexing Jest
+- **Bloodlines**: [[srd/pf2e/compendium/character/bloodlines#Aberrant|Aberrant]], [[srd/pf2e/compendium/character/bloodlines#Fey|Fey]]
+- **Deities**: [[srd/pf2e/compendium/deities/empyreal-lords/ashava|Ashava]], Hathor, Kofusachi, The Perplexing Jest
 - **Range**: touch
 - **Target**: 1 creature
 - **Defense**: Will

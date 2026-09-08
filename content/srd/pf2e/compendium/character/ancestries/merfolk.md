@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ancestry
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -8,7 +7,7 @@ tags:
 - trait/merfolk
 - trait/uncommon
 aliases: ["Merfolk"]
-aon_id: "ancestry-74"
+aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=74"
 source: "Howl of the Wild"
 ---
 
@@ -42,7 +41,7 @@ Merfolk can be found in the corners of every ocean, but the largest concentratio
 
 In general, merfolk follow the morals and customs of their parents and the communities in which they were raised. These vary greatly throughout the world. For instance, some merfolk are expected to live harmoniously with nature, while others follow a rigid set of laws ordained by their ancestors. Many merfolk believe that acts of altruism raise a community as a whole, even if they don't immediately produce beneficial results for the one who performed the deed in the first place.
 
- Merfolk worship is, like their societies, diverse. Deities with control over water are placed in high regard, and most communities have a shrine to Gozreh or one of the Elemental Lords of Water: Kelizandri or Lysianassa. Abadar is a popular god in some larger merfolk settlements, and a version of Erastil—more associated with sharks than with stags—is worshipped in smaller villages.
+ Merfolk worship is, like their societies, diverse. Deities with control over water are placed in high regard, and most communities have a shrine to [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/gozreh|Gozreh]] or one of the Elemental Lords of Water: [[srd/pf2e/compendium/deities/elemental-lords/kelizandri|Kelizandri]] or [[srd/pf2e/compendium/deities/elemental-lords/lysianassa|Lysianassa]]. [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/abadar|Abadar]] is a popular god in some larger merfolk settlements, and a version of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/erastil|Erastil]]—more associated with sharks than with stags—is worshipped in smaller villages.
 
  **Popular Edicts** aid one's neighbor whenever possible, bring the beauty of music to the world, protect the seas from threats within and without
  **Popular Anathema** fight the current head-on, use magic to harm innocents or hoard wealth 

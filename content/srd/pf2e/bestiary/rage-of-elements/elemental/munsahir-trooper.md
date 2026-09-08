@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Munsahir Trooper"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Munsahir Trooper"
 level: 5
 source: "Rage of Elements"
-aon_id: "creature-2638"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2638"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [3, 1, 5, 2, 3, 1]
 abilities_top:
   - name: "Items"
-    desc: "breastplate, [[srd/pf2e/compendium/equipment/weapons/firearm/dueling-pistol|dueling pistol]] (20 rounds), warhammer"
+    desc: "breastplate, dueling pistol (20 rounds), warhammer"
 ac: 22
 armorclass:
   - name: "AC"

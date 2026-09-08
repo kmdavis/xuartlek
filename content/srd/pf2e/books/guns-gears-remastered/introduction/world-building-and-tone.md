@@ -7,7 +7,6 @@ cssclasses:
 tags:
   - srd/pf2e/guns-gears-remastered
 source: "Guns & Gears (Remastered)"
-aon_id: 1638
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=1638"
 citation: "Guns & Gears (Remastered) pg. 5"
 ---

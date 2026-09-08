@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - equipment/level/18
 aliases: ["Mask Of Allure"]
-aon_id: "equipment-5115"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5115"
 source: "Impossible Magic"
 ---
 
@@ -16,7 +15,7 @@ source: "Impossible Magic"
 
 `Apex`  `Invested`  `Magical`
 
-- **Price**: 24,000 gp
+- **Price**: 24, 000 gp
 - **Usage**: worn mask
 - **Bulk**: L
 

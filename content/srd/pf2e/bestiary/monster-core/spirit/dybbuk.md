@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Dybbuk"
 tags:
@@ -14,7 +13,6 @@ statblock: inline
 name: "Dybbuk"
 level: 15
 source: "Monster Core"
-aon_id: "creature-2967"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2967"
 ---
 

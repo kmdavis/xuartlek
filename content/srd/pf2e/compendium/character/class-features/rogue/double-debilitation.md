@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class-feature
 tags:
 - compendium/src/pf2e/player-core
 - class-feature/level/15
 aliases: ["Double Debilitation"]
-aon_id: "class-feature-762"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=37"
 source: "Player Core"
 ---
 

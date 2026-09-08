@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Rancorous Priesthood"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Rancorous Priesthood"
 level: 11
 source: "NPC Core"
-aon_id: "creature-3449"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3449"
 ---
 
@@ -60,7 +58,7 @@ abilities_bot:
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
-    desc: "The members of the mob wildly swing their weapons in a chaotic attack at each enemy in a 5-foot emanation with a DC 25 basic Reflex save. The damage depends on the number of actions. ⬻ 1d12+2 slashing damage ⬺ 2d12+9 slashing damage ⬽ 3d12+9 slashing damage Troops With Spells Though Rovagug's followers are the most common, other deities might have rancorous priesthoods. You can use these statistics to represent other devotee troops capable of casting spells by replacing the spells in the list, changing the domain spells, and altering the sanctification. Note that the spell slots are 1 below the maximum rank a spellcaster of their level could normally cast. Heightened lower-level spells can be a good fit, representing the combined effect of several lower-rank spells cast at the same time."
+    desc: "The members of the mob wildly swing their weapons in a chaotic attack at each enemy in a 5-foot emanation with a DC 25 basic Reflex save. The damage depends on the number of actions. ⬻ 1d12+2 slashing damage ⬺ 2d12+9 slashing damage ⬽ 3d12+9 slashing damage Troops With Spells Though [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/rovagug|Rovagug's]] followers are the most common, other deities might have rancorous priesthoods. You can use these statistics to represent other devotee troops capable of casting spells by replacing the spells in the list, changing the domain spells, and altering the sanctification. Note that the spell slots are 1 below the maximum rank a spellcaster of their level could normally cast. Heightened lower-level spells can be a good fit, representing the combined effect of several lower-rank spells cast at the same time."
 spellcasting:
   - name: "Divine Spontaneous Spells"
     desc: "DC 30, attack +22 - __Cantrips (6th)__ [[srd/pf2e/compendium/spells/cantrips/daze|Daze]], [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/divine-lance|Divine Lance]] - __5th__ [[srd/pf2e/compendium/spells/rank-5/divine-immolation|Divine Immolation]], [[srd/pf2e/compendium/spells/rank-2/noise-blast|Noise Blast]], [[srd/pf2e/compendium/spells/rank-5/shadow-blast|Shadow Blast]] (3 slots)"

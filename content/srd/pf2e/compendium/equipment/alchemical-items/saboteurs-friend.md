@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/poison
 - equipment/level/4
 aliases: ["Saboteur's Friend"]
-aon_id: "equipment-1928"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1928"
 source: "Treasure Vault (Remastered)"
 ---
 

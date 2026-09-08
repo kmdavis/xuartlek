@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -10,7 +9,7 @@ tags:
 - trait/negative
 - spell/level/4
 aliases: ["Whispers of the Void"]
-aon_id: "spell-2046"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2046"
 source: "Player Core 2"
 ---
 

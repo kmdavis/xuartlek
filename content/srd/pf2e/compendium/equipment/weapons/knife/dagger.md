@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/versatile
 - weapon/level/0
 aliases: ["Dagger"]
-aon_id: "weapon-358"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=358"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 
 `Agile`  `Finesse`  `Thrown`  `Versatile`
 
-- **Favored Weapon**: Alazhra, Alseta, Apep, Ardad Lili, Atropos, Chinostes (Nightwarden), Chinostes (Redeemer), Conqueror Worm, Corosbel, Cthulhu, Eritrice, Eyes That Watch, Fandarra, Gravelady's Guard, Gyronna, Kalekot, Kitumu, Lady Razor, Lao Shu Po, Lurlup, Naderi, Nocticula, Pharasma, Shadow Cabinet, Shax, Thamir, The Lantern King, The Last Breath, The Tides of Chaos, Urban Prosperity, Vildeis, Vulot, Ydersius, Yog-Sothoth, Yuelral
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/dead-or-missing-deities/alazhra|Alazhra]], [[srd/pf2e/compendium/deities/other-gods/alseta|Alseta]], Apep, [[srd/pf2e/compendium/deities/queens-of-the-night/ardad-lili|Ardad Lili]], [[srd/pf2e/compendium/deities/monitor-demigods/atropos|Atropos]], Chinostes (Nightwarden), Chinostes (Redeemer), Conqueror Worm, [[srd/pf2e/compendium/deities/daemon-harbingers/corosbel|Corosbel]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/cthulhu|Cthulhu]], [[srd/pf2e/compendium/deities/empyreal-lords/eritrice|Eritrice]], Eyes That Watch, [[srd/pf2e/compendium/deities/giant-gods/fandarra|Fandarra]], Gravelady's Guard, [[srd/pf2e/compendium/deities/dead-or-missing-deities/gyronna|Gyronna]], Kalekot, Kitumu, Lady Razor, Lao Shu Po, [[srd/pf2e/compendium/deities/goblin-gods/lurlup|Lurlup]], Naderi, [[srd/pf2e/compendium/deities/other-gods/nocticula|Nocticula]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma]], [[srd/pf2e/compendium/deities/covenants/shadow-cabinet|Shadow Cabinet]], [[srd/pf2e/compendium/deities/demon-lords/shax|Shax]], [[srd/pf2e/compendium/deities/other-gods/thamir|Thamir]], [[srd/pf2e/compendium/deities/eldest/the-lantern-king|The Lantern King]], The Last Breath, The Tides of Chaos, Urban Prosperity, [[srd/pf2e/compendium/deities/empyreal-lords/vildeis|Vildeis]], [[srd/pf2e/compendium/deities/demon-lords/vulot|Vulot]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/ydersius|Ydersius]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/yog-sothoth|Yog-Sothoth]], [[srd/pf2e/compendium/deities/elven-gods/yuelral|Yuelral]]
 - **Price**: 2 sp
 - **Damage**: 1d4 P
 - **Bulk**: L

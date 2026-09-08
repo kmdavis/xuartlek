@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -10,7 +9,7 @@ tags:
 - trait/stance
 - feat/level/14
 aliases: ["Assume Earth's Mantle"]
-aon_id: "feat-4233"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4233"
 source: "Rage of Elements"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -8,7 +7,7 @@ tags:
 - trait/metal
 - spell/level/4
 aliases: ["Rust Cloud"]
-aon_id: "spell-1377"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1377"
 source: "Rage of Elements"
 ---
 
@@ -17,7 +16,7 @@ source: "Rage of Elements"
 `Concentrate`  `Manipulate`  `Metal`
 
 - **Traditions**: Arcane, Primal
-- **Deity**: Ferrumnestra
+- **Deity**: [[srd/pf2e/compendium/deities/elemental-lords/ferrumnestra|Ferrumnestra]]
 - **Range**: 120 feet
 - **Area**: 20-foot burst
 - **Defense**: basic Fortitude

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/runesmith
 - feat/level/6
 aliases: ["Runic Reprisal"]
-aon_id: "feat-9189"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9189"
 source: "Impossible Magic"
 ---
 

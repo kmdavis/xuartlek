@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -11,7 +10,7 @@ tags:
 - trait/spellgun
 - equipment/level/2
 aliases: ["Moonlit Spellgun"]
-aon_id: "equipment-2121"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2121"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -23,7 +22,7 @@ source: "Treasure Vault (Remastered)"
 - **Bulk**: L
 - **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") Strike
 
-Elegant silver filigree contains the body of this ephemeral item, which is made of solid light. Its shape resembles a pistol, and it’s often carried by hunters of [[srd/pf2e/compendium/gm/creature-families/werecreature|werecreatures]] and [[srd/pf2e/compendium/gm/creature-families/vampire|vampires]]. You Activate the spellgun by aiming it at one creature and making your choice of a spell attack roll or a firearm attack roll against the target’s AC. This spellgun has a [[srd/pf2e/books/player-core/chapter-6-equipment/weapons#Range|range]] increment of 30 feet. The spellgun emits a silvery ray of pure moonlight that deals fire damage depending on its type. The spellgun’s damage is treated as [[srd/pf2e/compendium/equipment/materials/silver-object-high-grade|silver]] for the purposes of [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance|weaknesses, resistances, and the like]].
+Elegant silver filigree contains the body of this ephemeral item, which is made of solid light. Its shape resembles a pistol, and it’s often carried by hunters of [[srd/pf2e/compendium/gm/creature-families/werecreature|werecreatures]] and [[srd/pf2e/compendium/gm/creature-families/vampire|vampires]]. You Activate the spellgun by aiming it at one creature and making your choice of a spell attack roll or a firearm attack roll against the target’s AC. This spellgun has a [[srd/pf2e/books/player-core/chapter-6-equipment/weapons#Range|range]] increment of 30 feet. The spellgun emits a silvery ray of pure moonlight that deals fire damage depending on its type. The spellgun’s damage is treated as [[srd/pf2e/compendium/equipment/materials/silver|silver]] for the purposes of [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance|weaknesses, resistances, and the like]].
 
 **Critical Success** The target takes double damage and is [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] until the start of your next turn. If it has a weakness to silver or a resistance that can be bypassed by silver, it's also enfeebled 1 for 1 minute.
 

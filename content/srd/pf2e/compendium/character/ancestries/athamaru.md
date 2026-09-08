@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ancestry
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - trait/locathah
 aliases: ["Athamaru"]
-aon_id: "ancestry-71"
+aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=71"
 source: "Howl of the Wild"
 ---
 
@@ -45,7 +44,7 @@ The largest population of athamarus lives in the underwater nation of Xidao in T
 
 ### Alignment and Religion
 
-Due to their community-minded nature, athamarus tend to favor beliefs and philosophies that focus on connection and aiding others. They are also aware that they sometimes require protection from the dangers of the sea, so some athamarus take on the roles of staunch guardians or religious figures who plead for intercession from sympathetic gods. Worship within a single community tends to favor one deity, with multiple temples being rare. In the Inner Sea, athamaru settlements typically revere the nature god Gozreh to strengthen their bonds with their surroundings or Erastil for guidance on forming healthy communities. In Tian Xia, the Duke of Thunder Hei Feng's favor is sought as athamarus navigate fickle seasons and politics, while those athamarus who guard the seas against horrors from the deep pray to the triad war gods Srikalis, Sritaming, and Sribaril for unwavering strength.
+Due to their community-minded nature, athamarus tend to favor beliefs and philosophies that focus on connection and aiding others. They are also aware that they sometimes require protection from the dangers of the sea, so some athamarus take on the roles of staunch guardians or religious figures who plead for intercession from sympathetic gods. Worship within a single community tends to favor one deity, with multiple temples being rare. In the Inner Sea, athamaru settlements typically revere the nature god [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/gozreh|Gozreh]] to strengthen their bonds with their surroundings or [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/erastil|Erastil]] for guidance on forming healthy communities. In Tian Xia, the Duke of Thunder [[srd/pf2e/compendium/deities/tian-gods/hei-feng|Hei Feng's]] favor is sought as athamarus navigate fickle seasons and politics, while those athamarus who guard the seas against horrors from the deep pray to the triad war gods Srikalis, Sritaming, and Sribaril for unwavering strength.
 
  **Popular Edicts** seek out new experiences away from your place of birth, lead your community to a better future 
 **Popular Anathema** betray your community or otherwise knowingly do it harm

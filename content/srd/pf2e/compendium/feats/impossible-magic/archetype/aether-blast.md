@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -10,7 +9,7 @@ tags:
 - trait/manipulate
 - feat/level/4
 aliases: ["Aether Blast"]
-aon_id: "feat-9340"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9340"
 source: "Impossible Magic"
 ---
 

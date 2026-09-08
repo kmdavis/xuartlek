@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/archetype
 - feat/level/10
 aliases: ["Giant Snare"]
-aon_id: "feat-6417"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6417"
 source: "Player Core 2"
 ---
 

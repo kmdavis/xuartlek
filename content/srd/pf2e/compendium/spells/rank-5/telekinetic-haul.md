@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/5
 aliases: ["Telekinetic Haul"]
-aon_id: "spell-1716"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1716"
 source: "Player Core"
 ---
 
@@ -16,7 +15,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Good Neighbors, Nethys, Zipacna
+- **Deities**: [[srd/pf2e/compendium/deities/covenants/good-neighbors|Good Neighbors]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/nethys|Nethys]], Zipacna
 - **Range**: 120 feet
 - **Target**: 1 unattended object of up to 80 Bulk with no dimension longer than 20 feet
 - **Duration**: sustained up to 1 minute

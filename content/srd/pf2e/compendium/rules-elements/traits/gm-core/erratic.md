@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/gm-core
 - trait/erratic
 aliases: ["Erratic"]
-aon_id: "trait-592"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=592"
 source: "GM Core"
 ---
 

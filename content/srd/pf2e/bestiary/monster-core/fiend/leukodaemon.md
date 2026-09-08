@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Leukodaemon"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Leukodaemon"
 level: 9
 source: "Monster Core"
-aon_id: "creature-2893"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2893"
 ---
 
@@ -40,7 +38,7 @@ abilities_top:
   - name: "Plaguesense"
     desc: "A leukodaemon senses any creature with a [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], and they know the type and current stage of all diseases carried by any creature within range."
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/bow/composite-longbow|composite longbow]]_ (50 arrows)"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/bow/composite-longbow|composite longbow]]_ (50 arrows)"
 ac: 28
 armorclass:
   - name: "AC"

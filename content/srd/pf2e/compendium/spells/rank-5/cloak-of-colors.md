@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -8,7 +7,7 @@ tags:
 - trait/visual
 - spell/level/5
 aliases: ["Cloak of Colors"]
-aon_id: "spell-1977"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1977"
 source: "Player Core 2"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core 2"
 `Concentrate`  `Manipulate`  `Visual`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Chaldira, Falayna, Pulura, Sturovenen, The Resplendent Court, Thisamet, Turvu, Ussharassim
+- **Deities**: [[srd/pf2e/compendium/deities/other-gods/chaldira|Chaldira]], Falayna, [[srd/pf2e/compendium/deities/empyreal-lords/pulura|Pulura]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/sturovenen|Sturovenen]], The Resplendent Court, Thisamet, Turvu, [[srd/pf2e/compendium/deities/infernal-dukes/ussharassim|Ussharassim]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Duration**: 1 minute

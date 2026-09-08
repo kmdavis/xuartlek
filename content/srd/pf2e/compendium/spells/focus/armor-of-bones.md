@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - spell/level/3
 aliases: ["Armor of Bones"]
-aon_id: "spell-2073"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2073"
 source: "Player Core 2"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core 2"
 
 `Focus`  `Manipulate`  `Oracle`  `Uncommon`
 
-- **Mystery**: Bones
+- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Bones|Bones]]
 - **Duration**: 1 minute
 
 You ossify your physical form, mimicking the durability of bone. You gain resistance 3 to cold, electricity, fire, piercing, and slashing damage.

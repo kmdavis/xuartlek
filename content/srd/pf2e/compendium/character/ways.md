@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-way
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -9,7 +8,7 @@ entries: 5
 
 # Ways
 
-## Way of the Drifter  *Gunslinger Way*
+## Way of the Drifter
 
 You're a wanderer traveling from land to land with your gun and a melee weapon as company. Maybe you learned to fight with blade and pistol as a Shackles pirate, mastered the hand cannon and katana in Minkai, or practiced with a hatchet and clan pistol in Dongun Hold. You win battles by relying on mobility and flexible use of your weapons.
 
@@ -25,7 +24,7 @@ You're a wanderer traveling from land to land with your gun and a melee weapon a
 
 *Source: Guns & Gears (Remastered) p. 108*
 
-## Way of the Pistolero  *Gunslinger Way*
+## Way of the Pistolero
 
 Whether you're a professional duelist or a pistol-twirling entertainer, you have quick feet and quicker hands that never seem to let you down, and an equally sharp wit and tongue that jab your foes. You might leave a hand free or cultivate the ambidexterity for twin weapons. Either way, you stay close enough to your enemies to leverage your superior reflexes while leaving enough space to safely fire.
 
@@ -42,7 +41,7 @@ Whether you're a professional duelist or a pistol-twirling entertainer, you have
 
 *Source: Guns & Gears (Remastered) p. 109*
 
-## Way of the Sniper  *Gunslinger Way*
+## Way of the Sniper
 
 You practice a style of shooting that relies on unerring accuracy and perfect placement of your first shot. You keep hidden or at a distance, staying out of the fray and bringing unseen death to your foes.
 
@@ -58,7 +57,7 @@ You practice a style of shooting that relies on unerring accuracy and perfect pl
 
 *Source: Guns & Gears (Remastered) p. 109*
 
-## Way of the Spellshot  *Gunslinger Way*
+## Way of the Spellshot
 
 Prerequisites: Must be a [[srd/pf2e/compendium/character/classes/gunslinger|gunslinger]].
 
@@ -78,7 +77,7 @@ You must select [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/spel
 
 *Source: Guns & Gears (Remastered) p. 140*
 
-## Way of the Vanguard  *Gunslinger Way*
+## Way of the Vanguard
 
 You practice a unique combat style originated by dwarven siege engineers, using heavy weapons with wide attack areas to blast holes through enemy lines, clear an opening for your allies, and defend the conquered territory.
 

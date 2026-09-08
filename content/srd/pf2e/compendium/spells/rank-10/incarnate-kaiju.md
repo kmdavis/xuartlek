@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -9,7 +8,7 @@ tags:
 - trait/rare
 - spell/level/10
 aliases: ["Incarnate Kaiju"]
-aon_id: "spell-2741"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2741"
 source: "Impossible Magic"
 ---
 

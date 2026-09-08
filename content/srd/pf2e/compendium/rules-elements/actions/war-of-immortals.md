@@ -1,99 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-action
 tags:
 - compendium/src/pf2e/war-of-immortals
 aliases: ["Actions: War of Immortals"]
-entries: 38
+entries: 24
 ---
 
 # Actions: War of Immortals
 
-## (concentrate)
+## A Moment Unending
 
-**Activate—Survive Devastation** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Trigger** An enemy critically succeeds against you with a weapon or unarmed [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]]; **Effect** Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/index|Mythic Point]]; if the triggering Strike was made by a mythic creature, it’s a normal success instead. If it was made by a non-mythic creature, it’s a failure.
-
-*Source: War of Immortals p. 148*
-
-## (concentrate)
-
-**Activate—Defy Obliteration** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Trigger** You critically fail a saving throw; **Effect** Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/index|Mythic Point]]; if the triggering save was made due to an effect created by a mythic monster, hazard, or other effect, it’s a normal failure instead. If the save was made due to an effect that wasn’t mythic, it becomes a success.
-
-*Source: War of Immortals p. 149*
-
-## (concentrate)
-
-**Activate—Unstoppable Devastation** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Trigger** You roll the weapon damage dice for a [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] with this weapon and do not like the result; **Effect** Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/index|Mythic Point]] and reroll your weapon damage dice, taking the higher of the two results.
-
-*Source: War of Immortals p. 149*
-
-## (concentrate)
-
-**Activate—Unerring Blow** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Trigger** You roll an attack roll to Strike with this weapon and receive a critical failure; **Effect** Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/index|Mythic Point]] and reroll your attack roll with mythic proficiency, taking the higher of the two results.
-
-*Source: War of Immortals p. 149*
-
-## (concentrate, divine)
-
-**Activate—Holy Retribution** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]]) **Frequency** once per day; **Trigger** Your previous action was to use _Freedom’s Flame_ to [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] a foe you have witnessed use a compulsion or [[srd/pf2e/compendium/rules-elements/conditions#Controlled|control]] effect on an ally within the past hour; **Effect** Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/index|Mythic Point]]; your blow is empowered by the righteousness of Milani. The target’s [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Weakness|weakness]] is triggered again or, if the target doesn’t have a holy weakness, it takes 15 [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]] damage.
-
-*Source: War of Immortals p. 151*
-
-## (concentrate, healing, manipulate, occult)
-
-**Activate—Absorb Shadows** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]]) **Frequency** once per day; **Effect** You touch _Shadowpiercer_ to a [[srd/pf2e/compendium/rules-elements/traits/player-core/darkness|darkness]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/shadow|shadow]] effect to siphon its energy and bolster yourself. You gain a number of temporary Hit Points equal to four times the effect’s [[srd/pf2e/books/player-core/chapter-7-spells/counteracting|counteract]] rank. These temporary Hit Points last for 1 hour. In addition, if the effect is causing darkness, that darkness is automatically counteracted within 15 feet of you for as long as you have those temporary Hit Points. This doesn’t provide light—it merely restores the area to its natural illumination level.
-
-*Source: War of Immortals p. 152*
-
-## (concentrate, incarnate, manipulate)
-
-**Activate—Summon Dragon-Lotus Army** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/howl-of-the-wild/incarnate|incarnate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once every 20 years; **Effect** Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/index|Mythic Point]]; beating the drum summons a spectral army to an area you designate within 500 feet. The army takes its Arrive action when you finish playing. At the end of your next turn, the army [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Strides]] up to 60 feet and then takes its Depart action. The Dragon-Lotus Army follows your orders and attempts to not harm you and your allies when possible. The spectral force isn’t fully a creature. It can’t take any other actions, nor can it be targeted or harmed by [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strikes]], spells, or other effects unless they would be able to target or end a spell effect (such as [[srd/pf2e/compendium/spells/rank-2/dispel-magic|_dispel magic_]]). The army is Gargantuan, but it doesn’t block movement.
-
-**Arrive** ([[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sonic|sonic]]) _The Sound of Thunder_ The beating of the drum amplifies to become like the stomping of hundreds of booted feet. The Dragon-Lotus Army appears in perfect formation and gives a brief, staccato battle cry. All enemies in a 60-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] around the army take 16d10 sonic damage ([[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] DC 48 Fortitude save); each creature who fails its save is also [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 3 (frightened 4 on a critical failure). 
-
-**Depart** _Devastating Charge_ The army readies their motley collection of weapons and Strides forward up to 100 feet in a straight [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Line|line]]. Each creature it moves through takes 20d8 bludgeoning, piercing, or slashing damage (whichever would be most harmful at the GM’s discretion) with a basic DC 48 Reflex save. A creature who critically fails its save is also knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
-
-*Source: War of Immortals p. 150*
-
-## (concentrate, manipulate)
-
-**Activate—Break Free** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/index|Mythic Point]]; _Freedom’s Flame_ blazes with a rose-red light, creating a beacon of spiritual strength. Any creature within 120 feet that’s currently under a compulsion or [[srd/pf2e/compendium/rules-elements/conditions#Controlled|control]] effect can immediately attempt a new saving throw to break free of the effect, with a +3 status bonus.
-
-*Source: War of Immortals p. 151*
-
-## (concentrate, manipulate, primal)
-
-**Activate—Commune with Kaiju** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]) **Frequency** once per day; **Effect** Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/index|Mythic Point]]; you gain the effects of a 6th-rank [[srd/pf2e/compendium/spells/rank-4/telepathy|_telepathy_]] spell but can use it only to communicate with Gargantuan [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animals]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/beast|beasts]]. Most kaiju are [[srd/pf2e/compendium/rules-elements/conditions#Hostile|hostile]] toward you for wearing the Final Scalecloak, however, requiring great effort to calm them enough to have a conversation.
-
-*Source: War of Immortals p. 151*
-
-## (concentrate, manipulate, primal)
-
-**Activate—Embody the Storm** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]) **Frequency** once per hour; **Effect** Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/index|Mythic Point]]; a nimbus of crackling electricity surrounds you for 1 minute. You gain a +4 status bonus to AC against ranged projectiles that are at least partly made of metal. If a foe attempts to [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] you with an unarmed attack or melee attack with a weapon at least partly made of metal, that creature takes 3d10 [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] damage ([[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] DC 40 Reflex save).
-
-*Source: War of Immortals p. 151*
-
-## (concentrate, manipulate, primal)
-
-**Activate—Smoky Protections** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, manipulate, primal) **Cost** 1 Mythic Point; **Frequency** once per day; **Effect** For the next 10 minutes, smoke gathers around you buoying your steps and protecting you. For the duration of this effect, you gain a fly Speed equal to your land Speed and automatically hover in place, and you have [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealment]] from ranged attacks.
-
-*Source: War of Immortals p. 184*
-
-## (concentrate, occult)
-
-**Activate—Rebuff Gloom** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]]) **Frequency** You don’t currently have the [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] condition; **Trigger** You or an ally within 60 feet is targeted by a [[srd/pf2e/compendium/rules-elements/traits/player-core/darkness|darkness]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/shadow|shadow]] effect; **Effect** Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/index|Mythic Point]]; the spear drains your vitality to [[srd/pf2e/books/player-core/chapter-7-spells/counteracting|counteract]] the effect. You can attempt to counteract the effect (+46 modifier level, counteract rank 10). You can activate this effect without having a Mythic Point available but doing so makes you [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] 2.
-
-*Source: War of Immortals p. 152*
-
-## (downtime, manipulate)
-
-**Activate—Wondrous Forge** ([[srd/pf2e/compendium/rules-elements/traits/player-core/downtime|downtime]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Requirements** You have the ability to make a [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] check at mythic proficiency (such as that granted by the Artisan’s Calling); **Effect** After spending 2 days setting up the work (or 1 if you have the desired item’s formula) and supplying _Worldforge_ with adequate raw materials (as determined by the GM), you attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]] something upon it. The DC and final cost of the item is also determined by the GM. For each day you spend Crafting, you must expend a Mythic Point or your [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] condition increases by 1; this condition can’t be reduced until you have finished Crafting the item or you abandon the project. Each day spent Crafting upon the Worldforge counts as 10 days of normal Crafting time.
-
-If the value of your drained condition reaches 4, you must attempt a DC 46 Fortitude save or [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Death|die]]. If you fail this save or if you abandon the activity, what remains of your project shatters irrecoverably into a multitude of useless fragments.
-
-*Source: War of Immortals p. 152*
-
-## A Moment Unending  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Concentrate`  `Prediction`  `Transcendence`
 
@@ -101,7 +18,9 @@ You take in every movement around you, affording you unparalleled accuracy. Your
 
 *Source: War of Immortals p. 44*
 
-## Arrow Splits Arrow  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Arrow Splits Arrow
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Transcendence`
 
@@ -111,7 +30,9 @@ You repeat your motions exactly, your attack landing in the same location as you
 
 *Source: War of Immortals p. 47*
 
-## Bear Allies’ Burdens  *Action*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## Bear Allies’ Burdens
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 `Transcendence`
 
@@ -119,7 +40,9 @@ You move with a speed belying your strength, carrying your allies as easily as s
 
 *Source: War of Immortals p. 46*
 
-## Break Free  *Action*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## Break Free
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 `Transcendence`
 
@@ -127,7 +50,9 @@ You can attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Esca
 
 *Source: War of Immortals p. 43*
 
-## Captivating Charm  *Action*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## Captivating Charm
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 `Concentrate`  `Emotion`  `Mental`  `Transcendence`  `Visual`
 
@@ -135,7 +60,9 @@ You focus your attention on a creature within 30 feet, overwhelming its senses. 
 
 *Source: War of Immortals p. 44*
 
-## Crash against Me  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Crash against Me
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Transcendence`
 
@@ -143,7 +70,9 @@ Your skin becomes virtually unbreakable. Until the start of your next turn, you 
 
 *Source: War of Immortals p. 46*
 
-## Drink of my Foes  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Drink of my Foes
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Healing`  `Transcendence`  `Vitality`  `Positive`
 
@@ -153,7 +82,9 @@ Your blade glows as it absorbs your foe’s vitality. You regain Hit Points equa
 
 *Source: War of Immortals p. 43*
 
-## Embrace of Destiny  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Embrace of Destiny
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Mental`  `Spirit`  `Transcendence`
 
@@ -161,7 +92,9 @@ Choose an enemy within 20 feet of you. It must succeed at a Will save against yo
 
 *Source: War of Immortals p. 44*
 
-## Feed the Masses  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Feed the Masses
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Transcendence`
 
@@ -169,7 +102,9 @@ The _horn of plenty_ allows you to transfer the effects of potions and elixirs t
 
 *Source: War of Immortals p. 44*
 
-## Feral Swing  *Action*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## Feral Swing
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 `Spirit`  `Transcendence`
 
@@ -177,7 +112,9 @@ You lash out with both arms, rending all before you. Each creature in a 15-foot 
 
 *Source: War of Immortals p. 44*
 
-## Flowing Spirit Strike  *Action*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## Flowing Spirit Strike
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 `Spirit`  `Transcendence`
 
@@ -185,7 +122,9 @@ Make two Strikes with the gleaming blade, each against the same target and using
 
 *Source: War of Immortals p. 44*
 
-## Fracture Mountains  *Action*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## Fracture Mountains
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 `Spirit`  `Transcendence`
 
@@ -193,7 +132,9 @@ Your spirit is so dense it takes on tangible force. Make a melee Strike with the
 
 *Source: War of Immortals p. 46*
 
-## Giant-Felling Comet  *Action*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## Giant-Felling Comet
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 `Spirit`  `Transcendence`
 
@@ -201,7 +142,9 @@ You shoot the _starshot_, causing a detonation in a 5-foot [[srd/pf2e/books/play
 
 *Source: War of Immortals p. 46*
 
-## Harvest Blood  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Harvest Blood
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 - **Requirements**: Your last action was a successful piercing or slashing melee Strike against a creature that is not immune to bleed
 
@@ -209,7 +152,9 @@ You consume the blood lingering upon your weapon. You reduce the value of your d
 
 *Source: War of Immortals p. 60*
 
-## Liar’s Hidden Blade  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Liar’s Hidden Blade
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Spirit`  `Transcendence`
 
@@ -219,7 +164,9 @@ The shadow weapon you threw fades, the distraction covering your true intention 
 
 *Source: War of Immortals p. 45*
 
-## Marathon Dash  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Marathon Dash
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Transcendence`
 
@@ -227,7 +174,9 @@ Your feet carry you so quickly they leave a slipstream that speeds your allies o
 
 *Source: War of Immortals p. 46*
 
-## No Scar but This  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## No Scar but This
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Concentrate`  `Healing`  `Transcendence`  `Vitality`  `Positive`
 
@@ -235,7 +184,9 @@ Your wounds knit shut with hardly a scratch. You regain 1d8 Hit Points. At 3rd l
 
 *Source: War of Immortals p. 45*
 
-## One Moment till Glory  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## One Moment till Glory
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Concentrate`  `Emotion`  `Mental`  `Transcendence`
 
@@ -243,7 +194,9 @@ You rally your allies, carrying them from the brink of disaster to the verge of 
 
 *Source: War of Immortals p. 47*
 
-## Raise the Walls  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Raise the Walls
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Force`  `Transcendence`
 
@@ -251,7 +204,9 @@ You [[srd/pf2e/compendium/rules-elements/actions/player-core#Raise a Shield|Rais
 
 *Source: War of Immortals p. 45*
 
-## Reap the Field  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Reap the Field
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Transcendence`
 
@@ -261,7 +216,9 @@ Time seems to lag as you blur across the battlefield, deciding the fate of many 
 
 *Source: War of Immortals p. 45*
 
-## Rewrite Fate  *Action*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")
+## Rewrite Fate
+
+[ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")
 
 `Fortune`  `Mythic`  `Uncommon`
 
@@ -271,13 +228,9 @@ Destiny, fate, or some other force bends around you as your mythic power swells,
 
 *Source: War of Immortals p. 78*
 
-## Rip Guts! Rip Guts!
+## Shift Immanence
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") Rip Guts! Rip Guts!; **Cost** 1 Mythic Point; **Effect** You throw _Gut-Ripper_ in a line of any length up to 60 feet, then it returns to your hands. Each creature in the line takes 2d10 piercing damage with a DC 25 basic Fortitude save. If there's a creature at the end of the line, you instead make a melee Strike against it with the hook that deals an additional 2d10 persistent bleed damage. Each time a creature takes this bleed damage, you regain that many HP; this is a [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]] [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]] effect. This activation can't be used again for 1d4 rounds.
-
-*Source: War of Immortals p. 171*
-
-## Shift Immanence  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Divine`  `Exemplar`
 
@@ -289,17 +242,21 @@ You shift your power, filling one of your ikons with your divine spark. That iko
 
 *Source: War of Immortals p. 25*
 
-## Strike, Breathe, Rend  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Strike, Breathe, Rend
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Spirit`  `Transcendence`
 
 - **Requirements**: Your last action this turn was a successful Strike with the _noble branch
 
-You channel a rending pulse of energy down your weapon in the moment of contact. The target of the Strike takes spirit damage equal to the _noble branch’s_ weapon damage dice. This includes any extra dice from [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] runes, but not from special abilities, [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/armor-armaments#Property Runes|property runes]], or the like.
+You channel a rending pulse of energy down your weapon in the moment of contact. The target of the Strike takes spirit damage equal to the _noble branch’s_ weapon damage dice. This includes any extra dice from [[srd/pf2e/compendium/equipment/runes/striking|striking]] runes, but not from special abilities, [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/armor-armaments#Property Runes|property runes]], or the like.
 
 *Source: War of Immortals p. 45*
 
-## Survive the Wilds  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Survive the Wilds
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Aura`  `Manipulate`  `Transcendence`
 

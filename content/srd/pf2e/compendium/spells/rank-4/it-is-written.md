@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -9,7 +8,7 @@ tags:
 - trait/rare
 - spell/level/4
 aliases: ["It Is Written"]
-aon_id: "spell-2157"
+aon_url: "https://2e.aonprd.com/MythicSpells.aspx?ID=2157"
 source: "War of Immortals"
 ---
 

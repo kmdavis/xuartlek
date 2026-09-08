@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class-feature
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 - class-feature/level/7
 aliases: ["Expert Spellcaster"]
-aon_id: "class-feature-1154"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=68"
 source: "Dark Archives (Remastered)"
 ---
 

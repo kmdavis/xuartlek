@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -11,7 +10,7 @@ tags:
 - trait/witch
 - spell/level/1
 aliases: ["Stoke the Heart"]
-aon_id: "spell-1892"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1892"
 source: "Player Core"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core"
 
 `Cantrip`  `Concentrate`  `Emotion`  `Hex`  `Uncommon`  `Witch`
 
-- **Patron Theme**: Faith's Flamekeeper
+- **Patron Theme**: [[srd/pf2e/compendium/character/patrons#Faith's Flamekeeper|Faith's Flamekeeper]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Duration**: sustained up to 1 minute

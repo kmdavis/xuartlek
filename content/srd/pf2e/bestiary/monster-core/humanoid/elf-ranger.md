@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Elf Ranger"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Elf Ranger"
 level: 1
 source: "Monster Core"
-aon_id: "creature-2995"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=2995"
 ---
 

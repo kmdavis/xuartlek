@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -9,7 +8,7 @@ tags:
 - trait/thrall
 - feat/level/20
 aliases: ["Instant Army"]
-aon_id: "feat-9163"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9163"
 source: "Impossible Magic"
 ---
 

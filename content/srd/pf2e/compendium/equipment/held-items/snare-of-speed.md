@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
 - trait/magical
 - equipment/level/15
 aliases: ["Snare of Speed"]
-aon_id: "equipment-3947"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3947"
 source: "Battlecry!"
 ---
 
@@ -14,7 +13,7 @@ source: "Battlecry!"
 
 `Magical`
 
-- **Price**: 7,000 gp
+- **Price**: 7, 000 gp
 - **Usage**: held in 2 hands
 - **Bulk**: 1
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/unique
 - equipment/level/20
 aliases: ["Kaldemash's Lament"]
-aon_id: "equipment-1890"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1890"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -20,7 +19,7 @@ source: "Treasure Vault (Remastered)"
 
 Resembling little more than a simple iron pipe with a handle, _Kaldemash's Lament_ is one of the most well-known star guns in all of Arcadia. Legends state the Crowned Regent Kaldemash helped forge one of the first star guns millennia ago. While the star gun served Kaldemash as a powerful weapon, its most notable achievement was the accidental killing of one of Kaldemash's greatest friends. This death is what caused the regent to recognize the true destructive power of the star guns and led to him developing the Star Code, a set of rules of engagement and proper use of firearms still in use in Arcadia today. Although Kaldemash never named the weapon himself, all legends that mention the weapon refer to it as _Kaldemash's Lament_.
 
- The legendary weapon is a _+3 major striking [[srd/pf2e/compendium/equipment/runes/quickstrike|quickstrike]]_ advanced firearm with a range increment of 90 feet. It deals 4d6 force damage (with the _major striking_ rune included) and has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concealable|concealable]], [[srd/pf2e/compendium/rules-elements/traits/guns-gears-remastered/concussive|concussive]], and fatal d10 traits. You don't take a penalty when dealing nonlethal damage with the weapon. Like most star guns, _Kaldemash's Lament_ uses magic to function and doesn't require ammunition or [[srd/pf2e/compendium/equipment/alchemical-items/black-powder-keg|black powder]].
+ The legendary weapon is a _+3 major striking [[srd/pf2e/compendium/equipment/runes/quickstrike|quickstrike]]_ advanced firearm with a range increment of 90 feet. It deals 4d6 force damage (with the _major striking_ rune included) and has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concealable|concealable]], [[srd/pf2e/compendium/rules-elements/traits/guns-gears-remastered/concussive|concussive]], and fatal d10 traits. You don't take a penalty when dealing nonlethal damage with the weapon. Like most star guns, _Kaldemash's Lament_ uses magic to function and doesn't require ammunition or [[srd/pf2e/compendium/equipment/alchemical-items/black-powder|black powder]].
 
  If you use _Kaldemash's Lament_ as part of a duel in which all parties are in agreement on the terms, the gun's supernatural instincts help you make the quickest draw. You roll twice and take the higher result on your initiative roll for the duel; this is a [[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]] effect. In addition, you can draw _Kaldemash's Lament_ as a free action at the start of your turn during the duel. If you attempt to fire the star gun in bad faith at a dueling opponent once they have surrendered, been defeated, or the duel is over, _Kaldemash's Lament_ flies out of your hand and you can't pick it up, hold it, or wield it for 10 minutes.
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hybrid-study
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -9,7 +8,7 @@ entries: 7
 
 # Hybrid Studies
 
-## Inexorable Iron  *Magus Hybrid Study*
+## Inexorable Iron
 
 Once you begin along a path, nothing can stop you from reaching its end. You transform the mass of an enormous weapon into an unstoppable force to augment your own striking power or keep you standing on the battlefield.
 
@@ -25,7 +24,7 @@ Once you begin along a path, nothing can stop you from reaching its end. You tra
 
 *Source: Impossible Magic p. 13*
 
-## Laughing Shadow  *Magus Hybrid Study*
+## Laughing Shadow
 
 Magic is freeing, a means to your ends, and you can use it to go where you want, do as you please, and avoid the consequences. You are a laughing shadow of spell and blade, always one step ahead of your foes, always with a trick up your sleeve.
 
@@ -41,7 +40,7 @@ Magic is freeing, a means to your ends, and you can use it to go where you want,
 
 *Source: Impossible Magic p. 13*
 
-## Sparkling Targe  *Magus Hybrid Study*
+## Sparkling Targe
 
 You've studied the applications of magic, training yourself to perform not just offensive maneuvers but defensive tactics as well. When magic flows through you, your shield can block impossible things, even a dragon's breath or a [[srd/pf2e/compendium/spells/rank-1/force-barrage|_force barrage_]].
 
@@ -59,7 +58,7 @@ You've studied the applications of magic, training yourself to perform not just 
 
 *Source: Impossible Magic p. 13*
 
-## Starlit Span  *Magus Hybrid Study*
+## Starlit Span
 
 With magic, the sky's the limit, and you can't be bound by the confines of physical proximity. Your power reaches as far as your senses can perceive, transcending the space between you and your target even with spells that normally require direct physical contact.
 
@@ -77,7 +76,7 @@ With magic, the sky's the limit, and you can't be bound by the confines of physi
 
 *Source: Impossible Magic p. 13*
 
-## Twisting Tree  *Magus Hybrid Study*
+## Twisting Tree
 
 The staff is perhaps the simplest of weapons, but this simplicity belies its elegance and versatility. To you, a staff is casting implement and martial weapon alike—the foundation of a fighting style.
 
@@ -95,7 +94,7 @@ The staff is perhaps the simplest of weapons, but this simplicity belies its ele
 
 *Source: Impossible Magic p. 14*
 
-## Twofold Tine  *Magus Hybrid Study*
+## Twofold Tine
 
 Magic dances between the two weapons you wield with equally deadly grace. Fighting groups of enemies takes full advantage of your capabilities as you move from one foe to another.
 
@@ -111,7 +110,7 @@ Magic dances between the two weapons you wield with equally deadly grace. Fighti
 
 *Source: Impossible Magic p. 14*
 
-## Volatile Spark  *Magus Hybrid Study*
+## Volatile Spark
 
 Your crashing spells meet their match with booming gunshots in a magical fusillade. By modifying your shots with your magic, you create explosions and cut through defenses.
 

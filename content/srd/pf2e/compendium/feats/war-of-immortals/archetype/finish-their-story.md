@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
 - trait/mythic
 - feat/level/20
 aliases: ["Finish Their Story!"]
-aon_id: "feat-7390"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7390"
 source: "War of Immortals"
 ---
 

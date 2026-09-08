@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -9,7 +8,7 @@ tags:
 - trait/manipulate
 - spell/level/4
 aliases: ["Seal Fate"]
-aon_id: "spell-2024"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2024"
 source: "Player Core 2"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core 2"
 `Concentrate`  `Curse`  `Death`  `Manipulate`
 
 - **Traditions**: Arcane, Divine, Occult
-- **Bloodline**: Aesir
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Aesir|Aesir]]
 - **Range**: touch
 - **Target**: 1 living creature
 - **Defense**: Fortitude

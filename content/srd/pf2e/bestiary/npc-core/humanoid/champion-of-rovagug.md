@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Champion of Rovagug"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Champion of Rovagug"
 level: 5
 source: "NPC Core"
-aon_id: "creature-3613"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3613"
 ---
 
@@ -49,7 +47,7 @@ health:
     desc: "70"
 abilities_mid:
   - name: "Champion's Aura"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]]) 15 feet. Any follower of Rovagug in the aura knows the champion is a champion of Rovagug. Enemies in the aura take a –1 circumstance penalty to saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], and an enemy that ends its turn in the aura can't reduce the value of its [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] condition below 1. The aura can be suppressed or resumed with a single action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait, and ends if the champion falls [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]]) 15 feet. Any follower of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/rovagug|Rovagug]] in the aura knows the champion is a champion of Rovagug. Enemies in the aura take a –1 circumstance penalty to saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], and an enemy that ends its turn in the aura can't reduce the value of its [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] condition below 1. The aura can be suppressed or resumed with a single action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait, and ends if the champion falls [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]."
   - name: "Destructive Vengeance"
     desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]])"
   - name: "Trigger"
@@ -70,7 +68,7 @@ abilities_bot:
   - name: "Axe Swipe"
     desc: "⬺ The champion makes a melee Strike with a +1 circumstance bonus to the attack roll and compares the roll to the AC of up to two foes that are in reach and adjacent to each other. The champion rolls damage only once and applies it to each creature they hit. This counts as two attacks toward their multiple attack penalty."
   - name: "Fearsome Armament"
-    desc: "The champion grants their greataxe the [[srd/pf2e/compendium/equipment/runes/fearsome-greater|_fearsome_]] rune while they wield it. Other Grim Champions The most sinister champions of unholy gods are devoted to desecration or iniquity. This champion serves Rovagug, but Lamashtu, Urgathoa, and demon lords have similar champions. If you switch their deity, change their favored weapon (see the Deity table). If it's a one-handed weapon, reduce the champion's AC by 2, give them a [[srd/pf2e/compendium/equipment/shields#Steel Shield|steel shield]], and replace Axe Swipe with Defensive Advance, a 2-action activity that lets the champion [[srd/pf2e/compendium/rules-elements/actions/player-core#Raise a Shield|Raise their Shield]], Stride, and make a melee Strike."
+    desc: "The champion grants their greataxe the [[srd/pf2e/compendium/equipment/runes/fearsome|_fearsome_]] rune while they wield it. Other Grim Champions The most sinister champions of unholy gods are devoted to desecration or iniquity. This champion serves [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/rovagug|Rovagug]], but [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/lamashtu|Lamashtu]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/urgathoa|Urgathoa]], and demon lords have similar champions. If you switch their deity, change their favored weapon (see the Deity table). If it's a one-handed weapon, reduce the champion's AC by 2, give them a [[srd/pf2e/compendium/equipment/shields#Steel Shield|steel shield]], and replace Axe Swipe with Defensive Advance, a 2-action activity that lets the champion [[srd/pf2e/compendium/rules-elements/actions/player-core#Raise a Shield|Raise their Shield]], Stride, and make a melee Strike."
 sourcebook: "_NPC Core_, page 156."
 ```
 

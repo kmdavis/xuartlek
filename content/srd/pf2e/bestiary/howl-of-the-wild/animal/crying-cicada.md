@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Crying Cicada"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Crying Cicada"
 level: 3
 source: "Howl of the Wild"
-aon_id: "creature-3258"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3258"
 ---
 

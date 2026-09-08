@@ -7,7 +7,6 @@ cssclasses:
 tags:
   - srd/pf2e/gm-core
 source: "GM Core"
-aon_id: 3207
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3207"
 citation: "GM Core pg. 270"
 ---
@@ -20,7 +19,7 @@ This section includes magic items that you wear. Most of the items have the [[sr
 
 ## Apex Items
 
-When you [[srd/pf2e/compendium/rules-elements/actions/gm-core-co-tak#Invest an Item|Invest an Item]] that has the [[srd/pf2e/compendium/rules-elements/traits/gm-core/apex|apex]] trait, it improves one of your attributes, either increasing the attribute’s modifier by 1 or to a total of +4, whichever would give you a higher value. This gives you all the benefits of the new attribute modifier until the investiture ends. For example, in addition to increasing rolls you make using the attribute, increasing your Intelligence lets you become trained in an additional skill and learn a new language, and increasing your Constitution gives you more Hit Points.
+When you [[srd/pf2e/compendium/rules-elements/actions/gm-core#Invest an Item|Invest an Item]] that has the [[srd/pf2e/compendium/rules-elements/traits/gm-core/apex|apex]] trait, it improves one of your attributes, either increasing the attribute’s modifier by 1 or to a total of +4, whichever would give you a higher value. This gives you all the benefits of the new attribute modifier until the investiture ends. For example, in addition to increasing rolls you make using the attribute, increasing your Intelligence lets you become trained in an additional skill and learn a new language, and increasing your Constitution gives you more Hit Points.
 
 An apex item grants this benefit only the first time it’s invested within a 24-hour period, and you can benefit from only one apex item at a time. If you attempt to invest an apex item when you already have one invested, you don’t gain the attribute modifier increase, though you do gain any other effects of Investing the Item.
 
@@ -108,7 +107,7 @@ The casting must come from a spellcaster expending a spell slot. You can't make 
 
 ### Magic Wand
 
-The simplest form of wand contains a spell, with Price and level based on that spell. The name of a [[srd/pf2e/compendium/equipment/wands/magic-wand-9th-rank-spell|magic wand]] with a spell in it is simply “wand of,” followed by the spell’s name.
+The simplest form of wand contains a spell, with Price and level based on that spell. The name of a [[srd/pf2e/compendium/equipment/wands/magic-wand|magic wand]] with a spell in it is simply “wand of,” followed by the spell’s name.
 
 ### Specialty Wands
 

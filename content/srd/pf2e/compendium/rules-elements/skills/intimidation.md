@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-skill
 tags:
 - compendium/src/pf2e/player-core
 aliases: ["Intimidation"]
-aon_id: "skill-40"
+aon_url: "https://2e.aonprd.com/Skills.aspx?ID=40"
 source: "Player Core"
 ---
 
@@ -49,7 +48,7 @@ Other Worn Items
 No
 Item bonus to a check of the crafter's choice
 
-[[srd/pf2e/compendium/equipment/worn-items/greater-killers-belt|Killer’s Belt]]
+[[srd/pf2e/compendium/equipment/worn-items/killers-belt|Killer’s Belt]]
 +1
 4
 Worn Items
@@ -105,26 +104,26 @@ Other Worn Items
 No
 Coerce to convince others of the fairness or accuracy of your judgments.
 
-[[srd/pf2e/compendium/equipment/worn-items/crown-of-witchcraft-greater|Crown of Witchcraft]]
+[[srd/pf2e/compendium/equipment/worn-items/crown-of-witchcraft|Crown of Witchcraft]]
 +1
 10
 Worn Items
 No
 
-[[srd/pf2e/compendium/equipment/spellhearts/greater-silver-tongue|Silver Tongue]]
+[[srd/pf2e/compendium/equipment/spellhearts/silver-tongue|Silver Tongue]]
 +2
 8
 Spellhearts
 No
 Item bonus checks to Intimidation checks to Demoralize until the end of your turn. 
 
-[[srd/pf2e/compendium/equipment/worn-items/guise-of-the-smirking-devil-greater|Guise of the Smirking Devil]]
+[[srd/pf2e/compendium/equipment/worn-items/guise-of-the-smirking-devil|Guise of the Smirking Devil]]
 +2
 9
 Worn Items
 No
 
-[[srd/pf2e/compendium/equipment/worn-items/greater-killers-belt|Greater Killer’s Belt]]
+[[srd/pf2e/compendium/equipment/worn-items/killers-belt|Greater Killer’s Belt]]
 +2
 9
 Worn Items
@@ -138,7 +137,7 @@ Other Worn Items
 No
 Item bonus to Intimidation
 
-[[srd/pf2e/compendium/equipment/worn-items/entertainers-cincture-greater|Entertainer's Cincture]]
+[[srd/pf2e/compendium/equipment/worn-items/entertainers-cincture|Entertainer's Cincture]]
 +2
 10
 Worn Items
@@ -152,7 +151,7 @@ Clan Dagger Filigrees
 No
 Item bonus to Intimidation checks to Coerce
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal]]
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal]]
 +2
 11
 Worn Items
@@ -187,7 +186,7 @@ Other Worn Items
 No
 Item bonus to Intimidation checks
 
-[[srd/pf2e/compendium/equipment/worn-items/crown-of-witchcraft-greater|Crown of Witchcraft (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/crown-of-witchcraft|Crown of Witchcraft (Greater)]]
 +2
 18
 Worn Items
@@ -214,7 +213,7 @@ Apex Items
 No
 Item bonus to Intimidation checks
 
-[[srd/pf2e/compendium/equipment/worn-items/entertainers-cincture-greater|Entertainer's Cincture (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/entertainers-cincture|Entertainer's Cincture (Greater)]]
 +3
 17
 Worn Items
@@ -228,14 +227,14 @@ Held Items
 No
 item bonus to intimidation checks to influence the undead
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal (Greater)]]
 +3
 18
 Worn Items
 No
 Item bonus of the associated Deity's Divine Skill
 
-[[srd/pf2e/compendium/equipment/worn-items/guise-of-the-smirking-devil-greater|Guise of the Smirking Devil (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/guise-of-the-smirking-devil|Guise of the Smirking Devil (Greater)]]
 +3
 19
 Worn Items

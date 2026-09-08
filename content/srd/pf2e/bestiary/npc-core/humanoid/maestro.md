@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Maestro"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Maestro"
 level: 11
 source: "NPC Core"
-aon_id: "creature-3579"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3579"
 ---
 
@@ -40,7 +38,7 @@ abilities_top:
   - name: "Performing Specialist"
     desc: "For encounters involving acting, music, or storytelling, the maestro is a 15th-level challenge."
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/bow/composite-shortbow|composite shortbow]]_ (30 arrows), _+1 [[srd/pf2e/compendium/equipment/armor#Leather Armor|leather armor]]_, lyre (_[[srd/pf2e/compendium/equipment/held-items/maestros-instrument-greater|moderate maestro's instrument]]_), _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/rapier|rapier]]_"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/bow/composite-shortbow|composite shortbow]]_ (30 arrows), _+1 [[srd/pf2e/compendium/equipment/armor#Leather Armor|leather armor]]_, lyre (_[[srd/pf2e/compendium/equipment/held-items/maestros-instrument|moderate maestro's instrument]]_), _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/rapier|rapier]]_"
 ac: 30
 armorclass:
   - name: "AC"

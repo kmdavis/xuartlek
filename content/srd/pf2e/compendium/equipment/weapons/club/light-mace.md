@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/shove
 - weapon/level/0
 aliases: ["Light Mace"]
-aon_id: "weapon-360"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=360"
 source: "Player Core"
 ---
 
@@ -16,7 +15,7 @@ source: "Player Core"
 
 `Agile`  `Finesse`  `Shove`
 
-- **Favored Weapon**: Dalenydra, Erecura, Nephthys, Shyka, Wadjet
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/empyreal-lords/dalenydra|Dalenydra]], [[srd/pf2e/compendium/deities/other-gods/erecura|Erecura]], Nephthys, [[srd/pf2e/compendium/deities/eldest/shyka|Shyka]], Wadjet
 - **Price**: 4 sp
 - **Damage**: 1d4 B
 - **Bulk**: L
@@ -33,6 +32,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-Polarizing Mace, [[srd/pf2e/compendium/equipment/weapons/greater-sonic-tuning-mace|Sonic Tuning Mace]]
+Polarizing Mace, [[srd/pf2e/compendium/equipment/weapons/sonic-tuning-mace|Sonic Tuning Mace]]
 
 *Source: Player Core p. 277*

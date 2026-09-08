@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - equipment/level/11
 aliases: ["Alchemist's Haversack"]
-aon_id: "equipment-2305"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2305"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -16,11 +15,11 @@ source: "Treasure Vault (Remastered)"
 
 `Extradimensional`  `Invested`  `Magical`
 
-- **Price**: 1,400 gp
+- **Price**: 1, 400 gp
 - **Usage**: worn backpack
 - **Bulk**: 1
 
-An _alchemist’s haversack_ is a sturdy leather backpack with two compartments. The main section contains an extradimensional space equivalent to a [[srd/pf2e/compendium/equipment/held-items/spacious-pouch-type-iv|spacious pouch type II]], perfect for carrying bulkier alchemist equipment. A secondary partition can hold 2 Bulk of items, 1 of which doesn’t count against your Bulk limit. This second compartment can also be activated (see below).
+An _alchemist’s haversack_ is a sturdy leather backpack with two compartments. The main section contains an extradimensional space equivalent to a [[srd/pf2e/compendium/equipment/held-items/spacious-pouch|spacious pouch type II]], perfect for carrying bulkier alchemist equipment. A secondary partition can hold 2 Bulk of items, 1 of which doesn’t count against your Bulk limit. This second compartment can also be activated (see below).
 
 Two shoulder straps and a thick belt for the waist hold the haversack on the wearer securely. These straps have pouches and loops for keeping alchemical items handy. They also contain magically [[srd/pf2e/compendium/equipment/adventuring-gear/alchemists-toolkit|expanded alchemist’s toolkit]] that grants you a +2 item bonus to [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] checks to create alchemical items.
 

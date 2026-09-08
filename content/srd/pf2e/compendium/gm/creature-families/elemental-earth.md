@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core
 aliases: ["Elemental, Earth"]
-aon_id: "creature-family-409"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=409"
 source: "Monster Core"
 ---
 
@@ -30,7 +29,7 @@ The icewyrm is the most widely encountered elemental wyrm, but others exist as w
 
 ### Looting Earth Elementals
 
-Earth elementals sometimes have valuable gemstones or minerals incorporated into their bodies, and once they’re slain, these valuables can be scavenged as treasure. Gemstones, precious metals such as [[srd/pf2e/compendium/equipment/materials/silver-object-high-grade|silver]] or gold ore, or rarer materials such as [[srd/pf2e/compendium/equipment/materials/dawnsilver-object-high-grade|dawnsilver]] or [[srd/pf2e/compendium/equipment/materials/adamantine-object-high-grade|adamantine]] can be harvested from these creatures, although the more expensive finds tend to be incorporated into only the most powerful earth elementals.
+Earth elementals sometimes have valuable gemstones or minerals incorporated into their bodies, and once they’re slain, these valuables can be scavenged as treasure. Gemstones, precious metals such as [[srd/pf2e/compendium/equipment/materials/silver|silver]] or gold ore, or rarer materials such as [[srd/pf2e/compendium/equipment/materials/dawnsilver|dawnsilver]] or [[srd/pf2e/compendium/equipment/materials/adamantine|adamantine]] can be harvested from these creatures, although the more expensive finds tend to be incorporated into only the most powerful earth elementals.
 
 ### Elemental
 

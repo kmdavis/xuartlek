@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Ifrit"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Ifrit"
 level: 9
 source: "Monster Core"
-aon_id: "creature-3006"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3006"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [5, 3, 4, 1, 2, 4]
 abilities_top:
   - name: "Items"
-    desc: "Breastplate, _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/scimitar|scimitar]]_"
+    desc: "Breastplate, _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/scimitar|scimitar]]_"
 ac: 28
 armorclass:
   - name: "AC"
@@ -68,7 +66,7 @@ abilities_bot:
     desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|Arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|Fire]]) The ifrit grows flaming wings from their back. They gain a fly Speed of 35 feet for 1 minute. The flames also create an aura in a 5-foot emanation around the ifrit. Any creature that ends its turn in the aura takes 2d6 fire damage with a DC 25 basic Reflex save. Ifrit Shuyookhs Ifrit shuyookhs twist the phrasing of wishes to maximize suffering. A wisher for a thousand pounds of gemstones might have the gems delivered as a bone-crushing avalanche. Ifrit shuyookhs add the following innate spells: __7th__ [[srd/pf2e/compendium/spells/rank-7/volcanic-eruption|_volcanic eruption_]]; __5th__ [[srd/pf2e/compendium/spells/rank-3/fireball|_fireball_]] (at will)."
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 27, attack +19 - __Cantrips (5th)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/ignition|Ignition]] - __4th__ [[srd/pf2e/compendium/spells/rank-3/fireball|Fireball]], [[srd/pf2e/compendium/spells/rank-2/invisibility|Invisibility]] (×2) - __7th__ [[srd/pf2e/compendium/spells/rank-7/interplanar-teleport|Interplanar Teleport]] (to [[srd/pf2e/compendium/equipment/runes/astral-greater|Astral Plane]]; Elemental Planes; or [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]] only) - __Constant (5th)__ [[srd/pf2e/compendium/spells/rank-5/truespeech|Truespeech]]"
+    desc: "DC 27, attack +19 - __Cantrips (5th)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/ignition|Ignition]] - __4th__ [[srd/pf2e/compendium/spells/rank-3/fireball|Fireball]], [[srd/pf2e/compendium/spells/rank-2/invisibility|Invisibility]] (×2) - __7th__ [[srd/pf2e/compendium/spells/rank-7/interplanar-teleport|Interplanar Teleport]] (to [[srd/pf2e/compendium/equipment/runes/astral|Astral Plane]]; Elemental Planes; or [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]] only) - __Constant (5th)__ [[srd/pf2e/compendium/spells/rank-5/truespeech|Truespeech]]"
 sourcebook: "_Monster Core_, page 159."
 ```
 

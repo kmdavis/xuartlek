@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/runesmith
 - feat/level/10
 aliases: ["Prodigal Rune-Singer"]
-aon_id: "feat-9200"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9200"
 source: "Impossible Magic"
 ---
 

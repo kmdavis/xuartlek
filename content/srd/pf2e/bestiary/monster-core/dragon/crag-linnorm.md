@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Crag Linnorm"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Crag Linnorm"
 level: 14
 source: "Monster Core"
-aon_id: "creature-3083"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3083"
 ---
 
@@ -43,7 +41,7 @@ armorclass:
 hp: 270
 health:
   - name: "HP"
-    desc: "270 , regeneration 10 (deactivated by [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]]); __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Weaknesses__ cold iron 10"
+    desc: "270 , regeneration 10 (deactivated by [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]]); __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Weaknesses__ cold iron 10"
 abilities_mid:
   - name: "Curse of Fire"
     desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]) When a creature slays the crag linnorm, it must succeed at a DC 35 Will save or gain weakness to fire 15 with an unlimited duration."

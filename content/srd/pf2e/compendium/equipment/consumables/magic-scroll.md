@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -8,7 +7,7 @@ tags:
 - trait/scroll
 - equipment/level/1
 aliases: ["Magic Scroll"]
-aon_id: "equipment-2962"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2962"
 source: "GM Core"
 ---
 

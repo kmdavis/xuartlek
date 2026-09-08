@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/magus
 - feat/level/8
 aliases: ["Spell Swipe"]
-aon_id: "feat-9069"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9069"
 source: "Impossible Magic"
 ---
 

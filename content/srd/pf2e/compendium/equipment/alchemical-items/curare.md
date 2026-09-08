@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -10,7 +9,7 @@ tags:
 - trait/poison
 - equipment/level/8
 aliases: ["Curare"]
-aon_id: "equipment-1999"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1999"
 source: "Treasure Vault (Remastered)"
 ---
 

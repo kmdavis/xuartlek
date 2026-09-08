@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - feat/level/2
 aliases: ["Munitions Master Dedication"]
-aon_id: "feat-7958"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7958"
 source: "Battlecry!"
 ---
 
@@ -18,7 +17,7 @@ source: "Battlecry!"
 `Archetype`  `Class`  `Dedication`  `Uncommon`
 
 - **Archetype**: [[srd/pf2e/compendium/character/archetypes/munitions-master|Munitions Master]]
-- **Prerequisites**: light mortar innovation
+- **Prerequisites**: [[srd/pf2e/compendium/character/innovations#Light Mortar|light mortar innovation]]
 
 You have drilled enough with your light mortar to operate it with unrivaled efficiency. You gain the Engineer's Efficiency action. 
 

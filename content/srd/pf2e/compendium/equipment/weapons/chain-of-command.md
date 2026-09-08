@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - equipment/level/6
 aliases: ["Chain of Command"]
-aon_id: "equipment-3840"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3840"
 source: "Battlecry!"
 ---
 
@@ -20,7 +19,7 @@ source: "Battlecry!"
 - **Bulk**: 1
 - **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/flail/spiked-chain|Spiked Chain]]
 
-This _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/flail/spiked-chain|spiked chain]]_, strung with bloodied military insignia and other grisly trophies harvested from slain soldiers, is commonly used by [[srd/pf2e/compendium/character/ancestries/hobgoblin|hobgoblin]] commandants to motivate their troops. On a critical hit, the chain of command deals an additional 1d6 mental damage.
+This _[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/flail/spiked-chain|spiked chain]]_, strung with bloodied military insignia and other grisly trophies harvested from slain soldiers, is commonly used by [[srd/pf2e/compendium/character/ancestries/hobgoblin|hobgoblin]] commandants to motivate their troops. On a critical hit, the chain of command deals an additional 1d6 mental damage.
 
 **Activate—Mercy of the Commander** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Requirements** Your last action was a critical hit with the _chain of command_; **Effect** The _chain of command_ gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] trait for 1 minute.
 

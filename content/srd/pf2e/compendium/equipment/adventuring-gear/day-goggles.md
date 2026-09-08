@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/uncommon
 - equipment/level/2
 aliases: ["Day Goggles"]
-aon_id: "equipment-1146"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1146"
 source: "Guns & Gears (Remastered)"
 ---
 

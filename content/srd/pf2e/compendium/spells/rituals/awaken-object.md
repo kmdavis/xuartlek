@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - ritual/level/6
 aliases: ["Awaken Object"]
-aon_id: "ritual-245"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=245"
 source: "Impossible Magic"
 ---
 
@@ -19,7 +18,7 @@ source: "Impossible Magic"
 - **Cost**: crushed gems and spices worth 250 gp
 - **Secondary Casters**: 2
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] (expert) or [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (expert)
-- **Secondary Checks**: Crafting , Arcana or Occultism (whichever isn't used for the primary check)
+- **Secondary Checks**: Crafting, Arcana or Occultism (whichever isn't used for the primary check)
 - **Target(s)**: 1 non-magical inanimate object
 - **Duration**: unlimited
 

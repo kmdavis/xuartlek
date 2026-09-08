@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/hampering
 aliases: ["Hampering"]
-aon_id: "trait-806"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=806"
 source: "Player Core 2"
 ---
 

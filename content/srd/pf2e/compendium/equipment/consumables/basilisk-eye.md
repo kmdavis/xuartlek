@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -9,7 +8,7 @@ tags:
 - trait/visual
 - equipment/level/9
 aliases: ["Basilisk Eye"]
-aon_id: "equipment-2964"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2964"
 source: "GM Core"
 ---
 

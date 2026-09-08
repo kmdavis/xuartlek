@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Aolaz"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Aolaz"
 level: 18
 source: "Monster Core"
-aon_id: "creature-2826"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2826"
 ---
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/druid
 - feat/level/2
 aliases: ["Call of the Wild"]
-aon_id: "feat-4716"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4716"
 source: "Player Core"
 ---
 

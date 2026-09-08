@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/talisman
 - equipment/level/16
 aliases: ["Dragonclaw Scutcheon"]
-aon_id: "equipment-2101"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2101"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -16,7 +15,7 @@ source: "Treasure Vault (Remastered)"
 
 `Consumable`  `Magical`  `Talisman`
 
-- **Price**: 1,600 gp
+- **Price**: 1, 600 gp
 - **Usage**: affixed to a shield
 - **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 - **Trigger**: You would take damage of a type depending on the talisman’s [[srd/pf2e/compendium/gm/creature-families/dragon|dragon]] type.

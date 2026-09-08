@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - equipment/level/17
 aliases: ["Cloak of Swiftness"]
-aon_id: "equipment-3009"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3009"
 source: "GM Core"
 ---
 
@@ -16,7 +15,7 @@ source: "GM Core"
 
 `Apex`  `Invested`  `Magical`
 
-- **Price**: 15,000 gp
+- **Price**: 15, 000 gp
 - **Usage**: worn cloak
 
 This thin cloak is surprisingly light, as if clouds or the very wind were woven together to make the garment. The cloak grants you a +3 item bonus to Acrobatics checks. When you invest the cloak, you either increase your Dexterity modifier by 1 or increase it to +4, whichever would give you a higher value.

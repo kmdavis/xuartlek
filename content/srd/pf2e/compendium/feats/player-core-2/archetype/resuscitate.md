@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - feat/level/16
 aliases: ["Resuscitate"]
-aon_id: "feat-6377"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6377"
 source: "Player Core 2"
 ---
 

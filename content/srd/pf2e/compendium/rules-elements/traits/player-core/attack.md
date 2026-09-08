@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/attack
 aliases: ["Attack"]
-aon_id: "trait-540"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=540"
 source: "Player Core"
 ---
 

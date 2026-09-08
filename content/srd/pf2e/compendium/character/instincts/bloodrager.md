@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-instinct
 tags:
 - compendium/src/pf2e/war-of-immortals
 aliases: ["Bloodrager"]
-aon_id: "instinct-14"
+aon_url: "https://2e.aonprd.com/Instincts.aspx?ID=14"
 source: "War of Immortals"
 ---
 

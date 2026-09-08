@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Gang Leader"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Gang Leader"
 level: 7
 source: "NPC Core"
-aon_id: "creature-3618"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3618"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [4, 4, 2, 2, -1, 4]
 abilities_top:
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/alchemical-items/glue-bomb-major|moderate glue bomb]], lesser healing potion, _+1 [[srd/pf2e/compendium/equipment/weapons/sword/shortsword|shortsword]]_, Sling (10 bullets), studded leather"
+    desc: "[[srd/pf2e/compendium/equipment/alchemical-items/glue-bomb|moderate glue bomb]], lesser healing potion, _+1 [[srd/pf2e/compendium/equipment/weapons/sword/shortsword|shortsword]]_, Sling (10 bullets), studded leather"
 ac: 24
 armorclass:
   - name: "AC"

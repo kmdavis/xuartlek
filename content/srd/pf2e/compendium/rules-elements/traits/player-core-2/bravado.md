@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/bravado
 aliases: ["Bravado"]
-aon_id: "trait-801"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=801"
 source: "Player Core 2"
 ---
 

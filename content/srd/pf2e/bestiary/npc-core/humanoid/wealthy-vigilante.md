@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Wealthy Vigilante"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Wealthy Vigilante"
 level: 8
 source: "NPC Core"
-aon_id: "creature-3619"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3619"
 ---
 
@@ -40,9 +38,9 @@ abilities_top:
   - name: "Custom Gear"
     desc: "The wealthy vigilante's support team has spent years tailoring and tuning the vigilante's equipment. Anyone but the vigilante attempting to use the items takes the same drawbacks they would if they were [[srd/pf2e/books/player-core/chapter-6-equipment/shoddy-items|shoddy items]]. These peculiarities make the items have no value if sold."
   - name: "Talisman Prepper"
-    desc: "The vigilante goes on patrol with six talismans of 6th level or lower. The typical set includes a [[srd/pf2e/compendium/equipment/consumables/fear-gem|_fear gem_]] and [[srd/pf2e/compendium/equipment/consumables/emerald-grasshopper-greater|_emerald grasshopper_]] affixed, with a [[srd/pf2e/compendium/equipment/consumables/dragon-turtle-scale-greater|_dragon turtle scale_]], [[srd/pf2e/compendium/equipment/consumables/effervescent-ampoule|_effervescent ampoule_]], [[srd/pf2e/compendium/equipment/consumables/feather-step-stone|_feather step stone_]], and [[srd/pf2e/compendium/equipment/consumables/iron-cube|_iron cube_]] in storage."
+    desc: "The vigilante goes on patrol with six talismans of 6th level or lower. The typical set includes a [[srd/pf2e/compendium/equipment/consumables/fear-gem|_fear gem_]] and [[srd/pf2e/compendium/equipment/consumables/emerald-grasshopper|_emerald grasshopper_]] affixed, with a [[srd/pf2e/compendium/equipment/consumables/dragon-turtle-scale|_dragon turtle scale_]], [[srd/pf2e/compendium/equipment/consumables/effervescent-ampoule|_effervescent ampoule_]], [[srd/pf2e/compendium/equipment/consumables/feather-step-stone|_feather step stone_]], and [[srd/pf2e/compendium/equipment/consumables/iron-cube|_iron cube_]] in storage."
   - name: "Items"
-    desc: "_crimefighting pouches_ (function as [[srd/pf2e/compendium/equipment/worn-items/sleeves-of-storage-greater|_sleeves of storage_]]), _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/firearm/flintlock-musket-weapon-521|flintlock musket]]_ (10 rounds), [[srd/pf2e/compendium/equipment/worn-items/lifting-belt|_lifting belt_]], _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/longsword|longsword]]_, [[srd/pf2e/compendium/equipment/consumables/healing-potion-major|_moderate healing potion_]], Studded Leather Armor"
+    desc: "_crimefighting pouches_ (function as [[srd/pf2e/compendium/equipment/worn-items/sleeves-of-storage|_sleeves of storage_]]), _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/firearm/flintlock-musket|flintlock musket]]_ (10 rounds), [[srd/pf2e/compendium/equipment/worn-items/lifting-belt|_lifting belt_]], _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/longsword|longsword]]_, [[srd/pf2e/compendium/equipment/consumables/healing-potion|_moderate healing potion_]], Studded Leather Armor"
 ac: 27
 armorclass:
   - name: "AC"
@@ -59,7 +57,7 @@ abilities_mid:
   - name: "Requirements"
     desc: "The wealthy vigilante has a hand free"
   - name: "Effect"
-    desc: "As soon as one of their talismans burns out, the wealthy vigilante pulls another from their _crimefighting pouches_ and deftly [[srd/pf2e/compendium/rules-elements/actions/gm-core-co-tak#Affix a Talisman|Affixes]] it to replace the used talisman."
+    desc: "As soon as one of their talismans burns out, the wealthy vigilante pulls another from their _crimefighting pouches_ and deftly [[srd/pf2e/compendium/rules-elements/actions/gm-core#Affix a Talisman|Affixes]] it to replace the used talisman."
 speed: "25 feet"
 attacks:
   - name: "Melee"

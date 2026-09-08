@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Adult Cinder Dragon"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Adult Cinder Dragon"
 level: 14
 source: "Monster Core 2"
-aon_id: "creature-4346"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4346"
 ---
 

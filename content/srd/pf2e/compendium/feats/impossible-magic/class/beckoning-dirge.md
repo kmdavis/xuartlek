@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/occult
 - feat/level/16
 aliases: ["Beckoning Dirge"]
-aon_id: "feat-9152"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9152"
 source: "Impossible Magic"
 ---
 

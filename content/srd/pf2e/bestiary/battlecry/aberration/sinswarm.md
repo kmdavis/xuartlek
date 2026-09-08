@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Sinswarm"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Sinswarm"
 level: 9
 source: "Battlecry!"
-aon_id: "creature-3937"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3937"
 ---
 

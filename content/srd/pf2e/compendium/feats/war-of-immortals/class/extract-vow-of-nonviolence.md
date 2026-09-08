@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -8,7 +7,7 @@ tags:
 - trait/exemplar
 - feat/level/12
 aliases: ["Extract Vow of Nonviolence"]
-aon_id: "feat-7177"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7177"
 source: "War of Immortals"
 ---
 

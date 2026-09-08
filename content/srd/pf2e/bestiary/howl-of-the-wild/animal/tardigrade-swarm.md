@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Tardigrade Swarm"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Tardigrade Swarm"
 level: 12
 source: "Howl of the Wild"
-aon_id: "creature-3317"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3317"
 ---
 

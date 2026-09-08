@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/polymorph
 - spell/level/2
 aliases: ["Enlarge"]
-aon_id: "spell-1514"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1514"
 source: "Player Core"
 ---
 
@@ -17,8 +16,8 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Polymorph`
 
 - **Traditions**: Arcane, Primal
-- **Bloodline**: Demonic
-- **Deities**: Balumbdar, Baphomet, Belech, Dolok Darkfur, Gorum, Iomedae, Keepers of the Hearth, Kostchtchie, Kurgess, Musagani, Rovagug, The Laborer's Bastion, Vineshvakhi
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Demonic|Demonic]]
+- **Deities**: Balumbdar, [[srd/pf2e/compendium/deities/demon-lords/baphomet|Baphomet]], Belech, [[srd/pf2e/compendium/deities/sarkorian-gods/dolok-darkfur|Dolok Darkfur]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/gorum|Gorum]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/iomedae|Iomedae]], Keepers of the Hearth, Kostchtchie, [[srd/pf2e/compendium/deities/other-gods/kurgess|Kurgess]], Musagani, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/rovagug|Rovagug]], The Laborer's Bastion, [[srd/pf2e/compendium/deities/vudrani-gods/vineshvakhi|Vineshvakhi]]
 - **Range**: 30 feet
 - **Target**: 1 willing creature
 - **Duration**: 5 minutes

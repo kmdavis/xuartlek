@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-adjustment
 tags:
 - compendium/src/pf2e/npc-core
 aliases: ["Kholo"]
-aon_id: "creature-adjustment-48"
+aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=48"
 source: "NPC Core"
 ---
 

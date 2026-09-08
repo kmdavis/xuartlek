@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/staff
 - equipment/level/16
 aliases: ["Fiddle of the Maestro"]
-aon_id: "equipment-2268"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2268"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -17,7 +16,7 @@ source: "Treasure Vault (Remastered)"
 
 `Coda`  `Occult`  `Rare`  `Staff`
 
-- **Price**: 10,000 gp
+- **Price**: 10, 000 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
 

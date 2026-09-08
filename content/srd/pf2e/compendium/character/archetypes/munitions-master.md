@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-archetype
 tags:
 - compendium/src/pf2e/battlecry
 - trait/uncommon
 - archetype/level/2
 aliases: ["Munitions Master"]
-aon_id: "archetype-329"
+aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=329"
 source: "Battlecry!"
 ---
 
@@ -39,7 +38,7 @@ When you use this ability, the [[srd/pf2e/books/player-core/chapter-8-playing-th
 #### Revolutionary Innovation
 
  When choosing a revolutionary innovation, choose from the following revolutionary light mortar modifications. As usual, you can choose an initial or breakthrough light mortar modification instead if you prefer. 
-**Enhanced Damage**As the revolutionary weapon modification of the same name.**Impossible Alloy** As the revolutionary weapon modification of the same name, except that the alloy is embedded in your ammunition on launch.**Precise Blast** You have such precise control over your light mortar that you can wrap the blast of impact around your allies without harming them. When you Launch, you can select a number of squares up to your Intelligence modifier to exclude from the blast area.
+**Enhanced Damage**As the [[srd/pf2e/compendium/character/innovations#Weapon|revolutionary weapon modification]] of the same name.**Impossible Alloy** As the [[srd/pf2e/compendium/character/innovations#Weapon|revolutionary weapon modification]] of the same name, except that the alloy is embedded in your ammunition on launch.**Precise Blast** You have such precise control over your light mortar that you can wrap the blast of impact around your allies without harming them. When you Launch, you can select a number of squares up to your Intelligence modifier to exclude from the blast area.
 
 #### Additional Feats
 

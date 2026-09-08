@@ -1,17 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/gm-core
 - vehicle/level/9
 aliases: ["Sailing Ship"]
-aon_id: "vehicle-79"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=79"
 source: "GM Core"
 ---
 
 # Sailing Ship  *Vehicle 9*
 
-- **Price**: 2,000 gp
+- **Price**: 2, 000 gp
 
 **Space** 75 feet long, 20 feet wide, 25 feet high
 

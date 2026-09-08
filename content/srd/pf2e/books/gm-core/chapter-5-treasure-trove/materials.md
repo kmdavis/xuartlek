@@ -7,7 +7,6 @@ cssclasses:
 tags:
   - srd/pf2e/gm-core
 source: "GM Core"
-aon_id: 3188
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3188"
 citation: "GM Core pg. 252"
 ---
@@ -22,7 +21,7 @@ Most materials are metals; they can be used to make metal weapons and armor. The
 
 A material's Price depends on how hard it is to work, its scarcity, and its purity; most items made with precious materials use an alloy, blend, or coating rather than using the material in its purest form. The three grades of purity for precious materials are low grade, standard grade, and high grade. Regardless of a precious material's purity, an item made from it gains the full effects of the precious material, but creating higher-level items and more powerful magic runes with precious material requires greater purity.
 
-Some precious materials are available only at certain grades. For instance, [[srd/pf2e/compendium/equipment/materials/adamantine-object-high-grade|adamantine]] can't be low grade, and [[srd/pf2e/compendium/equipment/materials/orichalcum-object-high-grade|orichalcum]] must be high grade. Items made of materials with a lower grade than expected for the item's level, or of a higher grade than necessary, will mention the precious material's grade.
+Some precious materials are available only at certain grades. For instance, [[srd/pf2e/compendium/equipment/materials/adamantine|adamantine]] can't be low grade, and [[srd/pf2e/compendium/equipment/materials/orichalcum|orichalcum]] must be high grade. Items made of materials with a lower grade than expected for the item's level, or of a higher grade than necessary, will mention the precious material's grade.
 
 ## Material Statistics
 

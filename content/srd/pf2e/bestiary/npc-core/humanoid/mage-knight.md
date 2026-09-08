@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Mage Knight"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Mage Knight"
 level: 10
 source: "NPC Core"
-aon_id: "creature-3531"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3531"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [5, 1, 2, 4, 3, 0]
 abilities_top:
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/armor#Full Plate|full plate]]_, _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/club/mace|mace]]_, spellbook, Steel Shield (Hardness 5, HP 20, BT 10)"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/armor#Full Plate|full plate]]_, _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/club/mace|mace]]_, spellbook, Steel Shield (Hardness 5, HP 20, BT 10)"
 ac: 29
 armorclass:
   - name: "AC"

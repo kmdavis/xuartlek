@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/4
 aliases: ["Wall of Fire"]
-aon_id: "spell-1748"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1748"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Fire`  `Manipulate`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Chavazvug, Light of the Everlasting Flame, Sarenrae, Sekhmet, Uirch, Walkena, Ymeri
+- **Deities**: [[srd/pf2e/compendium/deities/qlippoth-lords/chavazvug|Chavazvug]], [[srd/pf2e/compendium/deities/covenants/light-of-the-everlasting-flame|Light of the Everlasting Flame]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/sarenrae|Sarenrae]], Sekhmet, [[srd/pf2e/compendium/deities/orc-gods/uirch|Uirch]], Walkena, [[srd/pf2e/compendium/deities/elemental-lords/ymeri|Ymeri]]
 - **Range**: 120 feet
 - **Duration**: 1 minute
 

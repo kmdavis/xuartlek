@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/player-core-2
@@ -9,7 +8,7 @@ tags:
 - trait/trap
 - equipment/level/16
 aliases: ["Hail of Arrows Snare"]
-aon_id: "equipment-3373"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3373"
 source: "Player Core 2"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core 2"
 
 `Consumable`  `Mechanical`  `Snare`  `Trap`
 
-- **Price**: 1,500 gp
+- **Price**: 1, 500 gp
 
 When a creature enters the snare's square, it releases hundreds upon hundreds of carefully prepared arrows, blanketing a 20-foot radius around the snare's square with massive arrow fire that deals 18d6 piercing damage. Creatures in the area must attempt a DC 37 basic Reflex save.
 

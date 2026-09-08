@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
 - trait/fatal
 - weapon/level/0
 aliases: ["Falcata"]
-aon_id: "weapon-282"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=282"
 source: "Treasure Vault (Remastered)"
 ---
 

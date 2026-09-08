@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/poison
 - equipment/level/5
 aliases: ["Blister Ammunition"]
-aon_id: "equipment-1896"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1896"
 source: "Treasure Vault (Remastered)"
 ---
 

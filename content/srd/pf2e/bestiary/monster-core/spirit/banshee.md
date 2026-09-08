@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Banshee"
 tags:
@@ -14,7 +13,6 @@ statblock: inline
 name: "Banshee"
 level: 17
 source: "Monster Core"
-aon_id: "creature-2845"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2845"
 ---
 

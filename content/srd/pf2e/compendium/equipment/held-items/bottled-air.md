@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -7,7 +6,7 @@ tags:
 - trait/magical
 - equipment/level/7
 aliases: ["Bottled Air"]
-aon_id: "equipment-3017"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3017"
 source: "GM Core"
 ---
 

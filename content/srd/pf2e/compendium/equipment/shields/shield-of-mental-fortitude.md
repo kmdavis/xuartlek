@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/magical
 - equipment/level/10
 aliases: ["Shield Of Mental Fortitude"]
-aon_id: "equipment-5004"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5004"
 source: "Impossible Magic"
 ---
 
@@ -14,7 +13,7 @@ source: "Impossible Magic"
 
 `Magical`
 
-- **Price**: 1,000 gp
+- **Price**: 1, 000 gp
 - **Usage**: strapped to 1 hand
 - **Bulk**: L
 - **Base Shield**: [[srd/pf2e/compendium/equipment/shields#Buckler|Buckler]]

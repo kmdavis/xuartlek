@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -9,7 +8,7 @@ tags:
 - trait/wood
 - spell/level/1
 aliases: ["Flourishing Flora"]
-aon_id: "spell-1401"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1401"
 source: "Rage of Elements"
 ---
 
@@ -18,7 +17,7 @@ source: "Rage of Elements"
 `Concentrate`  `Manipulate`  `Plant`  `Wood`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Blooms of the Spreading Weald, Khepri, Zibik
+- **Deities**: [[srd/pf2e/compendium/deities/covenants/blooms-of-the-spreading-weald|Blooms of the Spreading Weald]], Khepri, Zibik
 - **Range**: 30 feet
 - **Area**: 5-foot burst
 - **Defense**: basic Reflex

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 - trait/reflection
 - feat/level/17
 aliases: ["Reflect Foe"]
-aon_id: "feat-8447"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8447"
 source: "Dark Archives (Remastered)"
 ---
 

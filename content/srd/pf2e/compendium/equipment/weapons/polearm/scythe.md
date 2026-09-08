@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/trip
 - weapon/level/0
 aliases: ["Scythe"]
-aon_id: "weapon-394"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=394"
 source: "Player Core"
 ---
 
@@ -15,7 +14,7 @@ source: "Player Core"
 
 `Deadly`  `Trip`
 
-- **Favored Weapon**: Aonaurious, Apollyon, Immaculate Growth, Jaidi, Magdh, Urgathoa, Vermilion Mother, Vonymos, Zibik
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/qlippoth-lords/aonaurious|Aonaurious]], [[srd/pf2e/compendium/deities/apocalypse-riders/apollyon|Apollyon]], [[srd/pf2e/compendium/deities/sarkorian-covenants/immaculate-growth|Immaculate Growth]], [[srd/pf2e/compendium/deities/azlanti-pantheon/jaidi|Jaidi]], [[srd/pf2e/compendium/deities/eldest/magdh|Magdh]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/urgathoa|Urgathoa]], Vermilion Mother, [[srd/pf2e/compendium/deities/monitor-demigods/vonymos|Vonymos]], Zibik
 - **Price**: 2 gp
 - **Damage**: 1d10 S
 - **Bulk**: 2

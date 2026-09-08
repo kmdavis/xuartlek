@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/6
 aliases: ["Petrify"]
-aon_id: "spell-1628"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1628"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Earth`  `Manipulate`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Ayrzul, Dispater, Stag Mother of the Forest of Stones
+- **Deities**: [[srd/pf2e/compendium/deities/elemental-lords/ayrzul|Ayrzul]], [[srd/pf2e/compendium/deities/archdevils/dispater|Dispater]], [[srd/pf2e/compendium/deities/sarkorian-gods/stag-mother-of-the-forest-of-stones|Stag Mother of the Forest of Stones]]
 - **Range**: 120 feet
 - **Target**: 1 creature made of organic material
 - **Defense**: Fortitude

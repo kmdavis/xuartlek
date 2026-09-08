@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/rare
 - equipment/level/18
 aliases: ["Cloning Potion"]
-aon_id: "equipment-2080"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2080"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -17,7 +16,7 @@ source: "Treasure Vault (Remastered)"
 
 `Consumable`  `Magical`  `Potion`  `Rare`
 
-- **Price**: 5,000 gp
+- **Price**: 5, 000 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
 - **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])

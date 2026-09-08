@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/player-core-2
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - equipment/level/5
 aliases: ["Mariner's Splint"]
-aon_id: "equipment-3274"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3274"
 source: "Player Core 2"
 ---
 

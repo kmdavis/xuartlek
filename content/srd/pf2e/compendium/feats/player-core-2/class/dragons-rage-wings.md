@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -8,7 +7,7 @@ tags:
 - trait/rage
 - feat/level/12
 aliases: ["Dragon's Rage Wings"]
-aon_id: "feat-5854"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5854"
 source: "Player Core 2"
 ---
 
@@ -16,7 +15,7 @@ source: "Player Core 2"
 
 `Barbarian`  `Morph`  `Rage`
 
-- **Prerequisites**: dragon instinct
+- **Prerequisites**: [[srd/pf2e/compendium/character/instincts/dragon|dragon instinct]]
 
 You sprout dragon wings from your back of the same color as your chosen dragon. While you are raging, you gain a fly Speed equal to your land Speed. If you are flying when your rage ends, you start to fall, but your transformation doesn't revert until the last moment, so you take no damage from the fall and land standing up. This action gains the trait of your dragon instinct's tradition.
 

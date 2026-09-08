@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/trip
 - weapon/level/0
 aliases: ["Whip"]
-aon_id: "weapon-404"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=404"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 
 `Disarm`  `Finesse`  `Nonlethal`  `Reach`  `Trip`
 
-- **Favored Weapon**: Aakriti, Abraxas, [[srd/pf2e/compendium/character/deities#Ahriman|Ahriman]], Calistria, Dahak, Gendowyn, Gogunta, Lissala, Lissala, Matravash, Moloch, Ozranvial, Ragadahn, Ranginori, Selket
+- **Favored Weapon**: Aakriti, [[srd/pf2e/compendium/deities/demon-lords/abraxas|Abraxas]], [[srd/pf2e/compendium/deities/other-gods/ahriman|Ahriman]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/calistria|Calistria]], Dahak, Gendowyn, [[srd/pf2e/compendium/deities/demon-lords/gogunta|Gogunta]], [[srd/pf2e/compendium/deities/azlanti-pantheon/lissala|Lissala]], [[srd/pf2e/compendium/deities/azlanti-pantheon/lissala-deity-565|Lissala]], [[srd/pf2e/compendium/deities/vudrani-gods/matravash|Matravash]], Moloch, [[srd/pf2e/compendium/deities/sakhil-tormentors/ozranvial|Ozranvial]], [[srd/pf2e/compendium/deities/eldest/ragadahn|Ragadahn]], [[srd/pf2e/compendium/deities/elemental-lords/ranginori|Ranginori]], Selket
 - **Price**: 1 sp
 - **Damage**: 1d4 S
 - **Bulk**: 1

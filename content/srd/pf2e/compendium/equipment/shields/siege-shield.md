@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - equipment/level/3
 aliases: ["Siege Shield"]
-aon_id: "equipment-3830"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3830"
 source: "Battlecry!"
 ---
 

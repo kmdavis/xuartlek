@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -7,7 +6,7 @@ tags:
 - trait/magical
 - equipment/level/10
 aliases: ["Shadow Signet"]
-aon_id: "equipment-3108"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3108"
 source: "GM Core"
 ---
 
@@ -15,7 +14,7 @@ source: "GM Core"
 
 `Invested`  `Magical`
 
-- **Price**: 1,000 gp
+- **Price**: 1, 000 gp
 - **Usage**: worn
 
 This obsidian ring allows you to partially warp your spells through the Netherworld, allowing them to strike directly at a target's body. 

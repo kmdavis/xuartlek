@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/summoner
 aliases: ["Summoner"]
-aon_id: "trait-954"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=954"
 source: "Impossible Magic"
 ---
 

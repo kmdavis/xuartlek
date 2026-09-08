@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -8,7 +7,7 @@ tags:
 - trait/rage
 - feat/level/10
 aliases: ["Hematocritical"]
-aon_id: "feat-7244"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7244"
 source: "War of Immortals"
 ---
 

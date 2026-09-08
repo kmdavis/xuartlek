@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
 - trait/rare
 - equipment/level/17
 aliases: ["Orichalcum Shield"]
-aon_id: "equipment-2816"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2816"
 source: "GM Core"
 ---
 
@@ -15,7 +14,7 @@ source: "GM Core"
 `Rare`
 
 - **Usage**: varies by shield
-- **Base Material**: [[srd/pf2e/compendium/equipment/materials/orichalcum-object-high-grade|Orichalcum]]
+- **Base Material**: [[srd/pf2e/compendium/equipment/materials/orichalcum|Orichalcum]]
 
 Orichalcum shields' time-bending properties are particularly useful for keeping them intact. The first time each day an orichalcum shield would be destroyed, it's instead left with 1 Hit Point and the broken condition.
 

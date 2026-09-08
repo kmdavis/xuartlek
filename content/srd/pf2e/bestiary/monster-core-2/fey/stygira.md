@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Stygira"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Stygira"
 level: 7
 source: "Monster Core 2"
-aon_id: "creature-4569"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4569"
 ---
 
@@ -40,7 +38,7 @@ abilities_top:
   - name: "Gemsight"
     desc: "As long as the stygira holds a gemstone, they can see through the gem with darkvision and the effects of [[srd/pf2e/compendium/spells/rank-6/truesight|_truesight_]]. A stygira is blind when they aren't holding a gem in a hand."
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/materials/stone-object-low-grade|gemstone]] (worth 25 gp)"
+    desc: "[[srd/pf2e/compendium/equipment/materials/stone|gemstone]] (worth 25 gp)"
 ac: 25
 armorclass:
   - name: "AC"
@@ -48,7 +46,7 @@ armorclass:
 hp: 80
 health:
   - name: "HP"
-    desc: "80; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/conditions#Petrified|petrified]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]]; __Resistances__ physical 10 (except [[srd/pf2e/compendium/equipment/materials/adamantine-object-high-grade|adamantine]])"
+    desc: "80; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/conditions#Petrified|petrified]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]]; __Resistances__ physical 10 (except [[srd/pf2e/compendium/equipment/materials/adamantine|adamantine]])"
 abilities_mid:
   - name: "Light Sickness"
     desc: "A stygira in an area of [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Bright Light|bright light]] is [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1."

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - equipment/level/8
 aliases: ["Adamantine"]
-aon_id: "equipment-2915"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2915"
 source: "GM Core"
 ---
 
@@ -23,11 +22,11 @@ Mined from rocks that fell from the heavens, adamantine is one of the hardest me
 
 #### Material Uses
 
-[[srd/pf2e/compendium/equipment/armor/adamantine-armor-high-grade|Adamantine Armor]]
+[[srd/pf2e/compendium/equipment/armor/adamantine-armor|Adamantine Armor]]
 
-[[srd/pf2e/compendium/equipment/shields/adamantine-shield-high-grade|Adamantine Shield]]
+[[srd/pf2e/compendium/equipment/shields/adamantine-shield|Adamantine Shield]]
 
-[[srd/pf2e/compendium/equipment/weapons/adamantine-weapon-high-grade|Adamantine Weapon]]
+[[srd/pf2e/compendium/equipment/weapons/adamantine-weapon|Adamantine Weapon]]
 
 ### Adamantine Chunk
 

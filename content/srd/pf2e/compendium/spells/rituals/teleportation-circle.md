@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - ritual/level/7
 aliases: ["Teleportation Circle"]
-aon_id: "ritual-155"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=155"
 source: "Player Core 2"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core 2"
 - **Cost**: rare incense, precious metals, and purified chalk worth 500 gp
 - **Secondary Casters**: 2
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] or [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (master)
-- **Secondary Checks**: Crafting , Survival
+- **Secondary Checks**: Crafting, Survival
 - **Range**: 20 feet
 - **Duration**: 1 day
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/sorcerer
 - feat/level/1
 aliases: ["Tap Into Blood"]
-aon_id: "feat-6090"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6090"
 source: "Player Core 2"
 ---
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
 - trait/archetype
 - feat/level/6
 aliases: ["Advanced Glory"]
-aon_id: "feat-7229"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7229"
 source: "War of Immortals"
 ---
 

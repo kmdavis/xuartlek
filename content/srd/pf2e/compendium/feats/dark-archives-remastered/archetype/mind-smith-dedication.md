@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/dedication
 - feat/level/2
 aliases: ["Mind Smith Dedication"]
-aon_id: "feat-8504"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8504"
 source: "Dark Archives (Remastered)"
 ---
 

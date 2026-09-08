@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -8,7 +7,7 @@ tags:
 - trait/primal
 - feat/level/8
 aliases: ["Feral Mending"]
-aon_id: "feat-5500"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5500"
 source: "Howl of the Wild"
 ---
 

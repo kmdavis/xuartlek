@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/npc-core
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - weapon/level/0
 aliases: ["Dragon-Mouth Pistol"]
-aon_id: "weapon-519"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=519"
 source: "NPC Core"
 ---
 

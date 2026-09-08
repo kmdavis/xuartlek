@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 - trait/druid
 - feat/level/16
 aliases: ["Too Much to Swallow"]
-aon_id: "feat-5408"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5408"
 source: "Howl of the Wild"
 ---
 

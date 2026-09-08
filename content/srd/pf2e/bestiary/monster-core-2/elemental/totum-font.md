@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Totum Font"
 tags:
@@ -16,7 +15,6 @@ statblock: inline
 name: "Totum Font"
 level: 15
 source: "Monster Core 2"
-aon_id: "creature-4586"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4586"
 ---
 
@@ -46,7 +44,7 @@ skills:
 abilityMods: [6, 3, 4, 8, 3, 3]
 abilities_top:
   - name: "Items"
-    desc: "_[[srd/pf2e/compendium/equipment/runes/reinforcing-rune-supreme|moderate]] [[srd/pf2e/compendium/equipment/shields/sturdy-shield-supreme|sturdy shield]]_ (Hardness 13^ HP 104^ BT 52)"
+    desc: "_[[srd/pf2e/compendium/equipment/runes/reinforcing-rune|moderate]] [[srd/pf2e/compendium/equipment/shields/sturdy-shield|sturdy shield]]_ (Hardness 13^ HP 104^ BT 52)"
 ac: 35
 armorclass:
   - name: "AC"

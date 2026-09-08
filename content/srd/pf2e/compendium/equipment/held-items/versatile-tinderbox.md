@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -7,7 +6,7 @@ tags:
 - trait/wood
 - equipment/level/1
 aliases: ["Versatile Tinderbox"]
-aon_id: "equipment-2651"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2651"
 source: "Rage of Elements"
 ---
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/investigator
 - feat/level/1
 aliases: ["Underworld Investigator"]
-aon_id: "feat-5939"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5939"
 source: "Player Core 2"
 ---
 

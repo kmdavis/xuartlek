@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-skill
 tags:
 - compendium/src/pf2e/player-core
 aliases: ["Thievery"]
-aon_id: "skill-50"
+aon_url: "https://2e.aonprd.com/Skills.aspx?ID=50"
 source: "Player Core"
 ---
 
@@ -21,13 +20,13 @@ Category
 Consumable
 Note
 
-[[srd/pf2e/compendium/equipment/worn-items/charlatans-gloves-greater|Charlatan's Gloves]]
+[[srd/pf2e/compendium/equipment/worn-items/charlatans-gloves|Charlatan's Gloves]]
 +1
 3
 Worn Items
 No
 
-[[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit-infiltrator-picks|Thieves' Toolkit (Infiltrator)]]
+[[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit|Thieves' Toolkit (Infiltrator)]]
 +1
 3
 Adventuring Gear
@@ -61,7 +60,7 @@ Other Worn Items
 No
 to Palm an Object
 
-[[srd/pf2e/compendium/equipment/alchemical-items/quicksilver-mutagen-major|Quicksilver Mutagen]]
+[[srd/pf2e/compendium/equipment/alchemical-items/quicksilver-mutagen|Quicksilver Mutagen]]
 +1
 0
 Alchemical Elixirs
@@ -73,7 +72,7 @@ Shacklebreaker
 Other Worn Items
 No
 
-[[srd/pf2e/compendium/equipment/worn-items/charlatans-gloves-greater|Charlatan's Gloves (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/charlatans-gloves|Charlatan's Gloves (Greater)]]
 +2
 9
 Worn Items
@@ -86,34 +85,34 @@ Worn Items
 No
 Item bonus to Disable a Device and Pick a Lock
 
-[[srd/pf2e/compendium/equipment/worn-items/ring-of-maniacal-devices-greater|Ring of Maniacal Devices]]
+[[srd/pf2e/compendium/equipment/worn-items/ring-of-maniacal-devices|Ring of Maniacal Devices]]
 +2
 11
 Worn Items
 No
 Thievery checks to Disable a Device and to Pick a Lock
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal]]
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal]]
 +2
 11
 Worn Items
 No
 Item bonus of the associated Deity's Divine Skill
 
-[[srd/pf2e/compendium/equipment/alchemical-items/quicksilver-mutagen-major|Quicksilver Mutagen]]
+[[srd/pf2e/compendium/equipment/alchemical-items/quicksilver-mutagen|Quicksilver Mutagen]]
 +2
 0
 Alchemical Elixirs
 Yes
 
-[[srd/pf2e/compendium/equipment/worn-items/ring-of-maniacal-devices-greater|Ring of Maniacal Devices (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/ring-of-maniacal-devices|Ring of Maniacal Devices (Greater)]]
 +3
 18
 Worn Items
 No
 Thievery checks to Disable a Device and to Pick a Lock
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal (Greater)]]
 +3
 18
 Worn Items
@@ -127,13 +126,13 @@ Worn Items
 No
 Item bonus to Disable a Device and Pick a Lock
 
-[[srd/pf2e/compendium/equipment/alchemical-items/quicksilver-mutagen-major|Quicksilver Mutagen]]
+[[srd/pf2e/compendium/equipment/alchemical-items/quicksilver-mutagen|Quicksilver Mutagen]]
 +3
 0
 Alchemical Elixirs
 Yes
 
-[[srd/pf2e/compendium/equipment/alchemical-items/quicksilver-mutagen-major|Quicksilver Mutagen]]
+[[srd/pf2e/compendium/equipment/alchemical-items/quicksilver-mutagen|Quicksilver Mutagen]]
 +4
 0
 Alchemical Elixirs

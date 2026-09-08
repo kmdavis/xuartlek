@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/primal
 - equipment/level/5
 aliases: ["Chaos Collar"]
-aon_id: "equipment-4112"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4112"
 source: "Dark Archives (Remastered)"
 ---
 

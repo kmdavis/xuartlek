@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/cleric
 - feat/level/14
 aliases: ["Deity's Protection"]
-aon_id: "feat-4687"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4687"
 source: "Player Core"
 ---
 

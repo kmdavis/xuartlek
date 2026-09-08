@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
 - trait/nephilim
 - feat/level/17
 aliases: ["Pandemonium Eruption"]
-aon_id: "feat-7218"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7218"
 source: "War of Immortals"
 ---
 

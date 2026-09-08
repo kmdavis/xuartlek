@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/wood
 - spell/level/2
 aliases: ["Entangling Flora"]
-aon_id: "spell-1515"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1515"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Plant`  `Wood`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: [[srd/pf2e/compendium/character/deities#Green Man|Green Man]], Immaculate Growth, Kzininn, Nhimbaloth, Sicva
+- **Deities**: [[srd/pf2e/compendium/deities/green-man-faiths/green-man|Green Man]], [[srd/pf2e/compendium/deities/sarkorian-covenants/immaculate-growth|Immaculate Growth]], Kzininn, [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nhimbaloth|Nhimbaloth]], [[srd/pf2e/compendium/deities/azlanti-pantheon/sicva|Sicva]]
 - **Range**: 120 feet
 - **Area**: all squares in a 20-foot burst
 - **Duration**: 1 minute

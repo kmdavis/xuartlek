@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/rogue
 - feat/level/8
 aliases: ["Blind-Fight"]
-aon_id: "feat-4809"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4809"
 source: "Player Core"
 ---
 

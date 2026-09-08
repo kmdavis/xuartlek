@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/monk
 - weapon/level/0
 aliases: ["Knuckle Duster"]
-aon_id: "weapon-185"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=185"
 source: "Guns & Gears (Remastered)"
 ---
 

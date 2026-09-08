@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/unique
 - equipment/level/4
 aliases: ["Inventor's Chair"]
-aon_id: "equipment-2407"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2407"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -18,7 +17,7 @@ source: "Treasure Vault (Remastered)"
 
 - **Bulk**: 3
 
-Initially crafted by a gifted inventor who no longer had the use of their legs, the _inventor's chair_ is a [[srd/pf2e/compendium/equipment/assistive-items/travelers-chair-equipment-1356|traveler's chair]]. It's a marvel of engineering, utilizing clockwork mechanisms to maneuver about. The chair comes equipped with wheel blades, and portions of its frame contain sterling artisan's tools. The _inventor's chair_ might be a family heirloom or a gift from someone who inherited it. It could instead sit unused in its inventor's abandoned estate, awaiting another user.
+Initially crafted by a gifted inventor who no longer had the use of their legs, the _inventor's chair_ is a traveler's chair. It's a marvel of engineering, utilizing clockwork mechanisms to maneuver about. The chair comes equipped with wheel blades, and portions of its frame contain sterling artisan's tools. The _inventor's chair_ might be a family heirloom or a gift from someone who inherited it. It could instead sit unused in its inventor's abandoned estate, awaiting another user.
 
 ---
 

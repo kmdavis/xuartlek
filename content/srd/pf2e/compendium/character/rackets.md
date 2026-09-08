@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-racket
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ entries: 5
 
 # Rackets
 
-## Avenger  *Rogue Racket*
+## Avenger
 
 This Racket can be taken by [[srd/pf2e/compendium/character/archetypes/avenger|Avengers]].
 
@@ -24,7 +23,7 @@ You’re trained in your deity’s divine skill and medium armor; if you’re al
 
 *Source: War of Immortals p. 58*
 
-## Mastermind  *Rogue Racket*
+## Mastermind
 
 _**PFS Note** For the purposes of abilities like the mastermind rogue racket, a character is considered to have successfully identified a creature when they succeed or critically succeed at a Recall Knowledge check, regardless of what information they gain._
 
@@ -36,7 +35,7 @@ You rely on your intellect to craft intricate schemes, planning 10 steps ahead w
 
 *Source: Player Core p. 166*
 
-## Ruffian  *Rogue Racket*
+## Ruffian
 
 You prefer the direct approach: strong-arming or intimidation. You might be an enforcer for organized crime, a highway bandit, or a noble who bullies others with threats of your family's power. 
 You use whatever tools you have at hand to get the job done. You can deal sneak attack damage with any weapon, not just the weapons listed in the sneak attack class feature. This benefit doesn't apply to a simple weapon with a damage die greater than d8 or a martial or advanced weapon with a damage die greater than d6. (Apply any abilities that alter the damage die size first.) Critical hits you make with these weapons gain the weapon's critical specialization benefit if the target is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to you. 
@@ -45,7 +44,7 @@ You use whatever tools you have at hand to get the job done. You can deal sneak 
 
 *Source: Player Core p. 166*
 
-## Scoundrel  *Rogue Racket*
+## Scoundrel
 
 You use fast-talking, flattery, and a silver tongue to avoid danger and escape tricky situations. You might be a grifter or con artist, or you might use your skills in certain reputable professions, like a barrister or diplomat
 
@@ -55,7 +54,7 @@ You use fast-talking, flattery, and a silver tongue to avoid danger and escape t
 
 *Source: Player Core p. 166*
 
-## Thief  *Rogue Racket*
+## Thief
 
 Nothing beats the thrill of taking something that belongs to someone else, especially if you can do so completely unnoticed. You might be a pickpocket working the streets, a cat burglar sneaking through windows, or even a consultant, testing clients’ vaults for openings.
 

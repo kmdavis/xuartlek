@@ -7,7 +7,6 @@ cssclasses:
 tags:
   - srd/pf2e/player-core
 source: "Player Core"
-aon_id: 2009
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2009"
 citation: "Player Core pg. 12"
 ---
@@ -16,7 +15,7 @@ citation: "Player Core pg. 12"
 
 <sup>PC1 p. 12</sup>
 
-The following example is presented to give you a better idea of how the game of Pathfinder is played. In this adventure, Erik is the GM. Luis is playing Valeros, a daring [[srd/pf2e/compendium/character/ancestries/human|human]] [[srd/pf2e/compendium/character/classes/fighter|fighter]]; Shay is playing Merisiel, a deadly [[srd/pf2e/compendium/character/ancestries/elf|elven]] [[srd/pf2e/compendium/character/classes/rogue|rogue]], and Jessica is taking on the role of Kyra, Merisiel's wife and a compassionate human [[srd/pf2e/compendium/character/classes/cleric|cleric]] of Sarenrae. The group has chosen to investigate disappearances in a local mine.
+The following example is presented to give you a better idea of how the game of Pathfinder is played. In this adventure, Erik is the GM. Luis is playing Valeros, a daring [[srd/pf2e/compendium/character/ancestries/human|human]] [[srd/pf2e/compendium/character/classes/fighter|fighter]]; Shay is playing Merisiel, a deadly [[srd/pf2e/compendium/character/ancestries/elf|elven]] [[srd/pf2e/compendium/character/classes/rogue|rogue]], and Jessica is taking on the role of Kyra, Merisiel's wife and a compassionate human [[srd/pf2e/compendium/character/classes/cleric|cleric]] of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/sarenrae|Sarenrae]]. The group has chosen to investigate disappearances in a local mine.
 
 Erik: The entrance to the mine is a simple iron ladder leading down into the darkness of a reinforced shaft. The sound of creaking metal echoes from below.
 
@@ -39,7 +38,7 @@ Erik rolls a d20 behind his GM screen, hidden from the players' view, and gets a
 **Valeros (Luis):** I have a +3 [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]]. I'll call out to her.
 **Erik:** What do you say?
 **Valeros (Luis):** "Hello friend! Don't be scared, we're here to help!" I rolled a 15 on my Diplomacy check.
-**Erik:** Okay! The kobold seems startled, but then runs to you for safety. "Oh! Thank Torag you're here!"
+**Erik:** Okay! The kobold seems startled, but then runs to you for safety. "Oh! Thank [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/torag|Torag]] you're here!"
 **Merisiel (Shay):** Torag? She ought to thank us, or at least Sarenrae.
 **Kyra (Jessica):** That's sweet, but you don't need to scold her for my sake.
 **Valeros (Luis):** I ask the kobold who they are and what happened here.

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Political Upstart"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Political Upstart"
 level: 0
 source: "NPC Core"
-aon_id: "creature-3505"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3505"
 ---
 

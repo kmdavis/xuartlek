@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Adult Resurrection Dragon"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Adult Resurrection Dragon"
 level: 12
 source: "Monster Core 2"
-aon_id: "creature-4361"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4361"
 ---
 

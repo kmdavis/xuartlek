@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/rare
 - feat/level/10
 aliases: ["Greater Awakened Power"]
-aon_id: "feat-8025"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8025"
 source: "Dark Archives (Remastered)"
 ---
 

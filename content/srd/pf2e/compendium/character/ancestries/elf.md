@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ancestry
 tags:
 - compendium/src/pf2e/player-core
 - trait/elf
 - trait/humanoid
 aliases: ["Elf"]
-aon_id: "ancestry-60"
+aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=60"
 source: "Player Core"
 ---
 
@@ -38,7 +37,7 @@ The inborn patience and intellectual curiosity of elves make them excellent sage
 
 ### Alignment and Religion
 
-Elves are often emotional and capricious, yet they hold high ideals close to their hearts. They prefer deities who share their love of all things mystic and artistic. Desna and Shelyn are particular favorites, the former for her sense of wonder and the latter for her appreciation of artistry. Calistria is the most notorious of elven deities, as she represents many of the elven ideals taken to the extreme.
+Elves are often emotional and capricious, yet they hold high ideals close to their hearts. They prefer deities who share their love of all things mystic and artistic. [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/desna|Desna]] and [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/shelyn|Shelyn]] are particular favorites, the former for her sense of wonder and the latter for her appreciation of artistry. [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/calistria|Calistria]] is the most notorious of elven deities, as she represents many of the elven ideals taken to the extreme.
 
  **Popular Edicts** find beauty in nature and art, explore things others would keep hidden, demonstrate superiority to your rival
  **Popular Anathema** abandon your own path, force another creature to do something

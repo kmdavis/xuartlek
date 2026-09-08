@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Pilgrim of Irori"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Pilgrim of Irori"
 level: -1
 source: "NPC Core"
-aon_id: "creature-3437"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3437"
 ---
 
@@ -40,7 +38,7 @@ abilities_top:
   - name: "Path of the Faithful"
     desc: "The pilgrim can use their [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] modifier instead of their [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] modifier to [[srd/pf2e/compendium/rules-elements/actions/player-core#Gather Information|Gather Information]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]] as long as the pilgrim includes their religious teachings."
   - name: "Items"
-    desc: "Explorer's Clothing, [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol-silver|religious symbol]] of Irori, walking stick (functions as a [[srd/pf2e/compendium/equipment/weapons/club/staff|staff]])"
+    desc: "Explorer's Clothing, [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol|religious symbol]] of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/irori|Irori]], walking stick (functions as a [[srd/pf2e/compendium/equipment/weapons/club/staff|staff]])"
 ac: 14
 armorclass:
   - name: "AC"

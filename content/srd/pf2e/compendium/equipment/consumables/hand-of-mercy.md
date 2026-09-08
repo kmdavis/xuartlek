@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
@@ -8,7 +7,7 @@ tags:
 - trait/whetstone
 - equipment/level/2
 aliases: ["Hand of Mercy"]
-aon_id: "equipment-3884"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3884"
 source: "Battlecry!"
 ---
 

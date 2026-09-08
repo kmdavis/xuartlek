@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Dvorovoi"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Dvorovoi"
 level: 3
 source: "Monster Core 2"
-aon_id: "creature-4442"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4442"
 ---
 
@@ -42,7 +40,7 @@ armorclass:
 hp: 44
 health:
   - name: "HP"
-    desc: "44; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 5"
+    desc: "44; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 5"
 abilities_mid:
   - name: "Shy"
     desc: "Dvorovoi is naturally [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]] while within sight of their bound home. The dvorovoi can become visible, or even selectively visible— allowing some people to see them."

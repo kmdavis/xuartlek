@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Rekhep"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Rekhep"
 level: 10
 source: "Monster Core"
-aon_id: "creature-2835"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2835"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [5, 1, 7, 2, 3, 3]
 abilities_top:
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/spear/lance|lance]]_"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/spear/lance|lance]]_"
 ac: 31
 armorclass:
   - name: "AC"

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Bleachling Survivor"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Bleachling Survivor"
 level: 2
 source: "NPC Core"
-aon_id: "creature-3636"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3636"
 ---
 

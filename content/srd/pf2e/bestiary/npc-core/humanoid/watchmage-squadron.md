@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Watchmage Squadron"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Watchmage Squadron"
 level: 10
 source: "NPC Core"
-aon_id: "creature-3567"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3567"
 ---
 

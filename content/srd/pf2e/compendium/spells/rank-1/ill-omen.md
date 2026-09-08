@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/misfortune
 - spell/level/1
 aliases: ["Ill Omen"]
-aon_id: "spell-1566"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1566"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Concentrate`  `Curse`  `Manipulate`  `Misfortune`
 
 - **Tradition**: Occult
-- **Deities**: [[srd/pf2e/compendium/character/deities#Ahriman|Ahriman]], Azathoth, Bifrons, Chamiaholom, Dammar, Fortune's Fate, Gyronna, Imot, Lubaiko, Mestama, Sifkesh, The Tides of Chaos, Zeaki, Zyphus
+- **Deities**: [[srd/pf2e/compendium/deities/other-gods/ahriman|Ahriman]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/azathoth|Azathoth]], [[srd/pf2e/compendium/deities/infernal-dukes/bifrons|Bifrons]], [[srd/pf2e/compendium/deities/sakhil-tormentors/chamiaholom|Chamiaholom]], [[srd/pf2e/compendium/deities/monitor-demigods/dammar|Dammar]], [[srd/pf2e/compendium/deities/pantheons/fortunes-fate|Fortune's Fate]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/gyronna|Gyronna]], Imot, Lubaiko, [[srd/pf2e/compendium/deities/dead-or-missing-deities/mestama|Mestama]], [[srd/pf2e/compendium/deities/demon-lords/sifkesh|Sifkesh]], The Tides of Chaos, Zeaki, [[srd/pf2e/compendium/deities/other-gods/zyphus|Zyphus]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will

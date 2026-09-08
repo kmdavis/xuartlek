@@ -1,17 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/gm-core
 - vehicle/level/8
 aliases: ["Longship"]
-aon_id: "vehicle-76"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=76"
 source: "GM Core"
 ---
 
 # Longship  *Vehicle 8*
 
-- **Price**: 1,500 gp
+- **Price**: 1, 500 gp
 
 **Space** 65 feet long, 15 feet wide, 25 feet high
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/ratfolk
 - feat/level/13
 aliases: ["Shinstabber"]
-aon_id: "feat-5668"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5668"
 source: "Player Core 2"
 ---
 

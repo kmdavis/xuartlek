@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -10,7 +9,7 @@ tags:
 - trait/negative
 - equipment/level/1
 aliases: ["Oil of Unlife"]
-aon_id: "equipment-2938"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2938"
 source: "GM Core"
 ---
 

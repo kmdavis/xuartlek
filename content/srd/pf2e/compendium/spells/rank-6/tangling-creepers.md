@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/wood
 - spell/level/6
 aliases: ["Tangling Creepers"]
-aon_id: "spell-1714"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1714"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Plant`  `Wood`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: [[srd/pf2e/compendium/character/deities#Green Man|Green Man]], Immaculate Growth, Kagia, Osiris, Telvrys, Treerazer, Yuelral, Zibik
+- **Deities**: [[srd/pf2e/compendium/deities/green-man-faiths/green-man|Green Man]], [[srd/pf2e/compendium/deities/sarkorian-covenants/immaculate-growth|Immaculate Growth]], [[srd/pf2e/compendium/deities/sarkorian-gods/kagia|Kagia]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/osiris|Osiris]], Telvrys, [[srd/pf2e/compendium/deities/demon-lords/treerazer|Treerazer]], [[srd/pf2e/compendium/deities/elven-gods/yuelral|Yuelral]], Zibik
 - **Range**: 500 feet
 - **Area**: 40-foot burst
 - **Duration**: 10 minutes

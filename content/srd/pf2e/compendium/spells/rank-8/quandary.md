@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/teleportation
 - spell/level/8
 aliases: ["Quandary"]
-aon_id: "spell-1644"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1644"
 source: "Player Core"
 ---
 
@@ -18,8 +17,8 @@ source: "Player Core"
 `Concentrate`  `Extradimensional`  `Manipulate`  `Teleportation`
 
 - **Traditions**: Arcane, Occult
-- **Bloodlines**: Hag, Imperial
-- **Deities**: Abrogail, Baphomet, Brixori, Essence Dancers, Nethys, Tolte Coatl
+- **Bloodlines**: [[srd/pf2e/compendium/character/bloodlines#Hag|Hag]], [[srd/pf2e/compendium/character/bloodlines#Imperial|Imperial]]
+- **Deities**: Abrogail, [[srd/pf2e/compendium/deities/demon-lords/baphomet|Baphomet]], Brixori, Essence Dancers, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/nethys|Nethys]], [[srd/pf2e/compendium/deities/coatl-tribunal/tolte-coatl|Tolte Coatl]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Duration**: sustained

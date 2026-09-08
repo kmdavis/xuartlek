@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/uncommon
 - ritual/level/1
 aliases: ["Elemental Sentinel"]
-aon_id: "ritual-252"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=252"
 source: "Impossible Magic"
 ---
 

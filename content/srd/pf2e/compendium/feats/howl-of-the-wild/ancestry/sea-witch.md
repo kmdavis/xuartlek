@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 - trait/merfolk
 - feat/level/13
 aliases: ["Sea Witch"]
-aon_id: "feat-5358"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5358"
 source: "Howl of the Wild"
 ---
 

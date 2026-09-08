@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/manipulate
 - spell/level/5
 aliases: ["Howling Blizzard"]
-aon_id: "spell-1559"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1559"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Air`  `Cold`  `Concentrate`  `Manipulate`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Alglenweis, Kostchtchie, Sithhud, Umarik, Weight of the World
+- **Deities**: [[srd/pf2e/compendium/deities/sarkorian-gods/alglenweis|Alglenweis]], Kostchtchie, [[srd/pf2e/compendium/deities/demon-lords/sithhud|Sithhud]], Umarik, [[srd/pf2e/compendium/deities/pantheons/weight-of-the-world|Weight of the World]]
 - **Area**: varies
 - **Defense**: basic Reflex
 

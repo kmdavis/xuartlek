@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/gunslinger
 - feat/level/1
 aliases: ["Cover Fire"]
-aon_id: "feat-3155"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3155"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -14,7 +13,7 @@ source: "Guns & Gears (Remastered)"
 
 `Gunslinger`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/sniping-duo|Sniping Duo]] (Level 4), [[srd/pf2e/compendium/character/archetypes/sniping-duo|Sniping Duo]] (Level 4)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/sniping-duo|Sniping Duo]] (Level 4)
 - **Frequency**: once per round
 - **Requirements**: You're wielding a loaded firearm or crossbow.
 

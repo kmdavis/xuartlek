@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/runesmith
 - feat/level/18
 aliases: ["Living Lexicon"]
-aon_id: "feat-9215"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9215"
 source: "Impossible Magic"
 ---
 
@@ -14,6 +13,6 @@ source: "Impossible Magic"
 
 `Runesmith`
 
-Your knowledge of runes knows no bounds. You add an additional rune to your runic repertoire of any level. Additionally, each day during your [[srd/pf2e/books/gm-core/chapter-1-running-the-game/running-exploration#Daily Preparations|daily preparations]], you can swap any one rune in your runic repertoire with another rune of the same level.
+Your knowledge of runes knows no bounds. You add an [[srd/pf2e/compendium/character/runesmith-runes|additional rune]] to your runic repertoire of any level. Additionally, each day during your [[srd/pf2e/books/gm-core/chapter-1-running-the-game/running-exploration#Daily Preparations|daily preparations]], you can swap any one rune in your runic repertoire with another rune of the same level.
 
 *Source: Impossible Magic p. 53*

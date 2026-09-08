@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Fire Wisp"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Fire Wisp"
 level: 0
 source: "Monster Core 2"
-aon_id: "creature-4396"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4396"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/fortune
 - feat/level/14
 aliases: ["Premonition of Clarity"]
-aon_id: "feat-4691"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4691"
 source: "Player Core"
 ---
 
@@ -15,7 +14,7 @@ source: "Player Core"
 
 `Cleric`  `Fortune`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/seneschal|Seneschal]] (Level 16), Mortal Herald (Level 16)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/seneschal|Seneschal]] (Level 16), [[srd/pf2e/compendium/character/archetypes/mortal-herald|Mortal Herald]] (Level 16)
 - **Frequency**: once per hour
 - **Trigger**: You fail a saving throw against a mental effect
 

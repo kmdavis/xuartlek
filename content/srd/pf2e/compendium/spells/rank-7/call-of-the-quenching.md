@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -10,7 +9,7 @@ tags:
 - trait/water
 - spell/level/7
 aliases: ["Call of the Quenching"]
-aon_id: "spell-2870"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2870"
 source: "Impossible Magic"
 ---
 
@@ -19,7 +18,7 @@ source: "Impossible Magic"
 `Concentrate`  `Impossible`  `Manipulate`  `Unique`  `Water`
 
 - **Tradition**: Primal
-- **Cost**: a conch from the Plane of Water worth 1,000 gp × the spell’s rank
+- **Cost**: a conch from the Plane of Water worth 1, 000 gp × the spell’s rank
 - **Area**: 1-mile [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]] centered on you
 - **Defense**: Reflex
 - **Duration**: 1 minute

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -10,7 +9,7 @@ tags:
 - trait/uncommon
 - hazard/level/14
 aliases: ["Malevolent Mannequins"]
-aon_id: "hazard-97"
+aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=97"
 source: "Guns & Gears (Remastered)"
 ---
 

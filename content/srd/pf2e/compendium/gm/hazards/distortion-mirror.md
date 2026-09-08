@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/trap
 - hazard/level/14
 aliases: ["Distortion Mirror"]
-aon_id: "hazard-635"
+aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=635"
 source: "Dark Archives (Remastered)"
 ---
 

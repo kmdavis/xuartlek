@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core
 aliases: ["Coatl"]
-aon_id: "creature-family-382"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=382"
 source: "Monster Core"
 ---
 
@@ -18,7 +17,7 @@ These sacred feathered serpents tirelessly serve the powers of knowledge and jus
 
 ### Coatl Deities
 
-Most good gods make use of coatls as their agents. There are three coatl deities, however, whose words take precedence over others’ in the hearts of coatls. These are Cihua Coatl, the dualistic god of childbirth, protection, and warfare; Pahti Coatl, the goddess of retribution, investigation, and rehabilitation; and Tolte Coatl, the god of knowledge, memories, and migration. See Pathfinder Lost Omens Divine Mysteries for more information on the Coatl Tribunal.
+Most good gods make use of coatls as their agents. There are three coatl deities, however, whose words take precedence over others’ in the hearts of coatls. These are [[srd/pf2e/compendium/deities/coatl-tribunal/cihua-coatl|Cihua Coatl]], the dualistic god of childbirth, protection, and warfare; [[srd/pf2e/compendium/deities/coatl-tribunal/pahti-coatl|Pahti Coatl]], the goddess of retribution, investigation, and rehabilitation; and [[srd/pf2e/compendium/deities/coatl-tribunal/tolte-coatl|Tolte Coatl]], the god of knowledge, memories, and migration. See Pathfinder Lost Omens Divine Mysteries for more information on the Coatl Tribunal.
 
 ### Coatls and Sahkils
 

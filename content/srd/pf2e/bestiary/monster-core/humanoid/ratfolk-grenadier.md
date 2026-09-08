@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Ratfolk Grenadier"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Ratfolk Grenadier"
 level: 4
 source: "Monster Core"
-aon_id: "creature-3164"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3164"
 ---
 

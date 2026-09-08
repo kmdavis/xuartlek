@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/mental
 - spell/level/2
 aliases: ["Laughing Fit"]
-aon_id: "spell-1583"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1583"
 source: "Player Core"
 ---
 
@@ -18,8 +17,8 @@ source: "Player Core"
 `Concentrate`  `Emotion`  `Manipulate`  `Mental`
 
 - **Traditions**: Arcane, Occult
-- **Bloodline**: Fey
-- **Deities**: Bes, Chaldira, Cong, Kofusachi, The Lantern King, The Perplexing Jest, Upion and Warrik
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Fey|Fey]]
+- **Deities**: Bes, [[srd/pf2e/compendium/deities/other-gods/chaldira|Chaldira]], [[srd/pf2e/compendium/deities/goblin-gods/cong|Cong]], Kofusachi, [[srd/pf2e/compendium/deities/eldest/the-lantern-king|The Lantern King]], The Perplexing Jest, Upion and Warrik
 - **Range**: 30 feet
 - **Target**: 1 living creature
 - **Defense**: Will

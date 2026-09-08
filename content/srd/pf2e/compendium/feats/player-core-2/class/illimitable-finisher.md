@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -8,7 +7,7 @@ tags:
 - trait/swashbuckler
 - feat/level/20
 aliases: ["Illimitable Finisher"]
-aon_id: "feat-6181"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6181"
 source: "Player Core 2"
 ---
 

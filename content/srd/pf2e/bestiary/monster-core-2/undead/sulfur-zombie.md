@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Sulfur Zombie"
 tags:
@@ -14,7 +13,6 @@ statblock: inline
 name: "Sulfur Zombie"
 level: 6
 source: "Monster Core 2"
-aon_id: "creature-4621"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4621"
 ---
 

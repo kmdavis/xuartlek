@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
 tags:
 - compendium/src/pf2e/gm-core
@@ -9,7 +8,7 @@ tags:
 - trait/trap
 - hazard/level/6
 aliases: ["Wheel of Misery"]
-aon_id: "hazard-496"
+aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=496"
 source: "GM Core"
 ---
 

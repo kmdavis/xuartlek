@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 - trait/archetype
 - feat/level/8
 aliases: ["Malleable Mental Forge"]
-aon_id: "feat-8510"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8510"
 source: "Dark Archives (Remastered)"
 ---
 

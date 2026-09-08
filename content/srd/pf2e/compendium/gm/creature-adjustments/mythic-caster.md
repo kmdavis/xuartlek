@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-adjustment
 tags:
 - compendium/src/pf2e/war-of-immortals
 aliases: ["Mythic Caster"]
-aon_id: "creature-adjustment-33"
+aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=33"
 source: "War of Immortals"
 ---
 

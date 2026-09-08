@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/air
 aliases: ["Air"]
-aon_id: "trait-527"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=527"
 source: "Player Core"
 ---
 

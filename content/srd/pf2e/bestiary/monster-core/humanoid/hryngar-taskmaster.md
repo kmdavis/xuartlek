@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Hryngar Taskmaster"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Hryngar Taskmaster"
 level: 2
 source: "Monster Core"
-aon_id: "creature-3063"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3063"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/6
 aliases: ["Wall of Force"]
-aon_id: "spell-1749"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1749"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Force`  `Manipulate`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Acavna, Casandalee, Emmeton Galardaria, Gravelady's Guard, Grundinnar, Isis, Nethys, The Spirit Wall, Upion and Warrik
+- **Deities**: [[srd/pf2e/compendium/deities/azlanti-pantheon/acavna|Acavna]], [[srd/pf2e/compendium/deities/other-gods/casandalee|Casandalee]], [[srd/pf2e/compendium/deities/other-gods/emmeton-galardaria|Emmeton Galardaria]], Gravelady's Guard, [[srd/pf2e/compendium/deities/dead-or-missing-deities/grundinnar|Grundinnar]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/isis|Isis]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/nethys|Nethys]], [[srd/pf2e/compendium/deities/sarkorian-covenants/the-spirit-wall|The Spirit Wall]], Upion and Warrik
 - **Range**: 30 feet
 - **Duration**: 1 minute
 

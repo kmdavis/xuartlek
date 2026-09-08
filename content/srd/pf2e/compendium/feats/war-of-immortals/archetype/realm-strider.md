@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
 - trait/mythic
 - feat/level/16
 aliases: ["Realm Strider"]
-aon_id: "feat-7325"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7325"
 source: "War of Immortals"
 ---
 

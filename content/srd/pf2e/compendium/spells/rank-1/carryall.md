@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/1
 aliases: ["Carryall"]
-aon_id: "spell-1972"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1972"
 source: "Player Core 2"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core 2"
 `Concentrate`  `Force`  `Manipulate`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Casandalee, Horus
+- **Deities**: [[srd/pf2e/compendium/deities/other-gods/casandalee|Casandalee]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/horus|Horus]]
 - **Duration**: 8 hours
 
 A small platform of magical force materializes adjacent to you to carry cargo. It is [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]] or has a ghostly appearance, is 2 feet in diameter, and follows 5 feet behind you, floating just above the ground. It holds up to 5 Bulk of objects (if they can fit on it). Any objects atop the platform fall to the ground when the spell ends. You can Sustain the spell to move the platform up to 30 feet along the ground, to make it stay in place, or to have it return to you and resume following you.

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Vanth Guardian Flock"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Vanth Guardian Flock"
 level: 13
 source: "Battlecry!"
-aon_id: "creature-3939"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3939"
 ---
 

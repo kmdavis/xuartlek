@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Verex-That-Was"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Verex-That-Was"
 level: 24
 source: "War of Immortals"
-aon_id: "creature-3409"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3409"
 ---
 
@@ -43,7 +41,7 @@ armorclass:
 hp: 550
 health:
   - name: "HP"
-    desc: "550 , regeneration 30 (deactivated by sloughstone weapons); __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]], [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], mythic immunity, [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] 25, [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 25, physical 20 (except [[srd/pf2e/compendium/equipment/materials/sloughstone-object-high-grade|sloughstone]] and holy); __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 20"
+    desc: "550 , regeneration 30 (deactivated by sloughstone weapons); __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]], [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], mythic immunity, [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] 25, [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 25, physical 20 (except [[srd/pf2e/compendium/equipment/materials/sloughstone|sloughstone]] and holy); __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 20"
 abilities_mid:
   - name: "Frightful Presence"
     desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) 150 feet, DC 45"
@@ -89,7 +87,7 @@ abilities_bot:
   - name: "Swallow Whole"
     desc: "⬻ Huge, 4d10+10 bludgeoning, Rupture 50"
   - name: "War Cry of Destruction"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/sonic|Sonic]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|Unholy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|Void]]) Verex-That-Was unleashes a terrible howl in a 60-foot-cone, dealing 12d6 sonic damage and 12d6 void damage to all creatures (DC 45 basic Fortitude save). The damage bypasses up to 25 Hardness of materials other than [[srd/pf2e/compendium/equipment/materials/sloughstone-object-high-grade|sloughstone]]. Creatures in the area with the [[srd/pf2e/compendium/rules-elements/traits/player-core/orc|orc]] trait can use a reaction to roar in defiance of their corrupted god, granting themselves a +2 circumstance bonus on the saving throw but extending the area of the war cry to also include a 30-foot emanation centered on themself; orc creatures also automatically howl in their death throes if they are reduced to 0 Hit Points by this ability. This area can extend as long as orc creatures remain within the area and choose to roar, but creatures within multiple overlapping areas of effect must attempt only one save. Verex-That-Was cannot loose another War Cry of Destruction for 1d4 rounds."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/sonic|Sonic]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|Unholy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|Void]]) Verex-That-Was unleashes a terrible howl in a 60-foot-cone, dealing 12d6 sonic damage and 12d6 void damage to all creatures (DC 45 basic Fortitude save). The damage bypasses up to 25 Hardness of materials other than [[srd/pf2e/compendium/equipment/materials/sloughstone|sloughstone]]. Creatures in the area with the [[srd/pf2e/compendium/rules-elements/traits/player-core/orc|orc]] trait can use a reaction to roar in defiance of their corrupted god, granting themselves a +2 circumstance bonus on the saving throw but extending the area of the war cry to also include a 30-foot emanation centered on themself; orc creatures also automatically howl in their death throes if they are reduced to 0 Hit Points by this ability. This area can extend as long as orc creatures remain within the area and choose to roar, but creatures within multiple overlapping areas of effect must attempt only one save. Verex-That-Was cannot loose another War Cry of Destruction for 1d4 rounds."
 sourcebook: "_War of Immortals_, page 207."
 ```
 

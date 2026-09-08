@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-disease
 tags:
 - compendium/src/pf2e/gm-core
@@ -10,7 +9,7 @@ entries: 15
 
 # Diseases
 
-## Blightburn Sickness  *Disease 15*
+## Blightburn Sickness
 
 `Disease`  `Uncommon`
 
@@ -35,7 +34,7 @@ Caused by exposure to blightburn crystal, blightburn sickness burns and dissolve
 
 *Source: Treasure Vault (Remastered) p. 45*
 
-## Blinding Sickness  *Disease 7*
+## Blinding Sickness
 
 `Disease`
 
@@ -59,7 +58,7 @@ Endemic to jungles of the Mwangi Expanse, blinding sickness is transmitted by di
 
 *Source: GM Core p. 89*
 
-## Bog Rot  *Disease 0*
+## Bog Rot
 
 `Disease`
 
@@ -78,7 +77,7 @@ Sometimes called bog foot, bog rot is caused by having waterlogged feet for an e
 
 *Source: GM Core p. 88*
 
-## Bonechill  *Disease 5*
+## Bonechill
 
 `Disease`  `Primal`
 
@@ -99,7 +98,7 @@ If you are [[srd/pf2e/compendium/rules-elements/conditions#Wounded|wounded]] and
 
 *Source: GM Core p. 88*
 
-## Brain Worms  *Disease 11*
+## Brain Worms
 
 `Disease`  `Virulent`
 
@@ -124,7 +123,7 @@ Scholars suspect these brain parasites have an otherworldly or extraplanar origi
 
 *Source: GM Core p. 89*
 
-## Bubonic Plague  *Disease 3*
+## Bubonic Plague
 
 `Disease`
 
@@ -143,7 +142,7 @@ This widespread illness can sweep through entire communities, leaving few unaffe
 
 *Source: GM Core p. 88*
 
-## Choking Death  *Disease 6*
+## Choking Death
 
 `Disease`
 
@@ -164,7 +163,7 @@ This disease is capable of wiping out nations or even entire continents. A few p
 
 *Source: GM Core p. 88*
 
-## Crimson Ooze  *Disease 15*
+## Crimson Ooze
 
 `Disease`  `Virulent`
 
@@ -186,7 +185,7 @@ This devastating fungus infects your hand and can be cured by amputating the lim
 
 *Source: GM Core p. 89*
 
-## Malaria  *Disease 2*
+## Malaria
 
 `Disease`
 
@@ -209,7 +208,7 @@ A pernicious disease spread by bloodsucking insects, malaria sometimes enters lo
 
 *Source: GM Core p. 88*
 
-## Nightmare Fever  *Disease 8*
+## Nightmare Fever
 
 `Disease`  `Occult`
 
@@ -227,7 +226,7 @@ Thought to be caused by a divine curse, nightmare fever inflicts you with terrib
 
 *Source: GM Core p. 89*
 
-## Scarlet Fever  *Disease 1*
+## Scarlet Fever
 
 `Disease`
 
@@ -248,7 +247,7 @@ The relatively simple sore throat caused by this disease leads many victims to i
 
 *Source: GM Core p. 88*
 
-## Scarlet Leprosy  *Disease 4*
+## Scarlet Leprosy
 
 `Disease`  `Virulent`
 
@@ -267,7 +266,7 @@ Scarlet leprosy is widely feared for its devastating effects, crushing bones and
 
 *Source: GM Core p. 88*
 
-## Sewer Haze  *Disease 7*
+## Sewer Haze
 
 `Disease`  `Virulent`
 
@@ -286,7 +285,7 @@ Many healers and alchemists suspect that sewer haze has a supernatural origin, b
 
 *Source: GM Core p. 89*
 
-## Tetanus  *Disease 1*
+## Tetanus
 
 `Disease`
 
@@ -307,7 +306,7 @@ An infection introduced through open wounds, tetanus can produce stiffness, musc
 
 *Source: GM Core p. 88*
 
-## Tuberculosis  *Disease 1*
+## Tuberculosis
 
 `Disease`
 

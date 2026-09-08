@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Lizardfolk Scout"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Lizardfolk Scout"
 level: 1
 source: "Monster Core"
-aon_id: "creature-3091"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3091"
 ---
 
@@ -38,7 +36,7 @@ abilities_top:
   - name: "Deep Breath"
     desc: "A lizardfolk scout can hold their breath for 15 minutes."
   - name: "Items"
-    desc: "Blowgun (10 darts), 1 of which is coated with [[srd/pf2e/compendium/equipment/alchemical-items/giant-centipede-venom|giant centipede venom]])"
+    desc: "Blowgun (10 darts), 1 of which is coated with giant centipede venom)"
 ac: 17
 armorclass:
   - name: "AC"

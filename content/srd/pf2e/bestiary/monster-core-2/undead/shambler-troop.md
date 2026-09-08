@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Shambler Troop"
 tags:
@@ -14,7 +13,6 @@ statblock: inline
 name: "Shambler Troop"
 level: 4
 source: "Monster Core 2"
-aon_id: "creature-4620"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4620"
 ---
 

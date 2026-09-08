@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Juggernaut"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Juggernaut"
 level: 13
 source: "NPC Core"
-aon_id: "creature-3465"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3465"
 ---
 
@@ -42,7 +40,7 @@ abilities_top:
   - name: "Power Source"
     desc: "Juggernaut armor requires a power source built into the armor—such as a steam boiler, Stasian coil, or alchemical reservoir. This determines a damage type—cold, electricity, fire, or poison—for certain abilities."
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit-sterling|Artisan's Toolkit]] (blacksmithing), juggernaut armor, [[srd/pf2e/compendium/equipment/adventuring-gear/repair-toolkit-superb|Repair Toolkit]]"
+    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit|Artisan's Toolkit]] (blacksmithing), juggernaut armor, [[srd/pf2e/compendium/equipment/adventuring-gear/repair-toolkit|Repair Toolkit]]"
 ac: 33
 armorclass:
   - name: "AC"

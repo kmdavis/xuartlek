@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/bard
 - feat/level/1
 aliases: ["Lingering Composition"]
-aon_id: "feat-4575"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4575"
 source: "Player Core"
 ---
 

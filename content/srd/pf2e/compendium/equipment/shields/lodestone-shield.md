@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
 - trait/magical
 - equipment/level/11
 aliases: ["Lodestone Shield"]
-aon_id: "equipment-2824"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2824"
 source: "GM Core"
 ---
 
@@ -14,7 +13,7 @@ source: "GM Core"
 
 `Magical`
 
-- **Price**: 1,350 gp
+- **Price**: 1, 350 gp
 - **Usage**: held in 1 hand
 - **Bulk**: 1
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/champion
 - feat/level/1
 aliases: ["Desperate Prayer"]
-aon_id: "feat-5884"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5884"
 source: "Player Core 2"
 ---
 
@@ -21,6 +20,6 @@ You call out to your deity in a plea for their aid. You gain 1 Focus Point, whic
 
 ### Desperate Prayer leads to...
 
-Retributive Focus
+[[srd/pf2e/compendium/feats/divine-mysteries/class/retributive-focus|Retributive Focus]]
 
 *Source: Player Core 2 p. 93*

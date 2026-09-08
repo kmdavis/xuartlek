@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
 - trait/rare
 - equipment/level/18
 aliases: ["Orichalcum Weapon"]
-aon_id: "equipment-2859"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2859"
 source: "GM Core"
 ---
 
@@ -16,7 +15,7 @@ source: "GM Core"
 
 - **Usage**: varies by weapon
 - **Bulk**: varies by weapon
-- **Base Material**: [[srd/pf2e/compendium/equipment/materials/orichalcum-object-high-grade|Orichalcum]]
+- **Base Material**: [[srd/pf2e/compendium/equipment/materials/orichalcum|Orichalcum]]
 
 Orichalcum weapons can have four magic property runes instead of three. Due to orichalcum's temporal properties, etching the quickstrike weapon property rune onto an orichalcum weapon costs half the normal Price (though transferring the rune to a weapon made of another material requires you to first pay the remaining Price and then pay the cost to transfer).
 

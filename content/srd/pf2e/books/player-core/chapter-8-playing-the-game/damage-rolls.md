@@ -7,7 +7,6 @@ cssclasses:
 tags:
   - srd/pf2e/player-core
 source: "Player Core"
-aon_id: 2301
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2301"
 citation: "Player Core pg. 406"
 ---
@@ -49,11 +48,11 @@ If the combined penalties on an attack would reduce the damage to 0 or below, yo
 
 ### Adding Damage Dice
 
-Each weapon lists the damage die used for its damage roll. A standard weapon deals one die of damage, but a magical *[[srd/pf2e/compendium/equipment/runes/striking-major|striking rune]]* can increase the number of dice rolled, as can some special actions and spells. These additional dice use the same die size as the weapon or unarmed attack's normal damage die.
+Each weapon lists the damage die used for its damage roll. A standard weapon deals one die of damage, but a magical *[[srd/pf2e/compendium/equipment/runes/striking|striking rune]]* can increase the number of dice rolled, as can some special actions and spells. These additional dice use the same die size as the weapon or unarmed attack's normal damage die.
 
 ### Counting Damage Dice
 
-Effects based on a weapon's number of damage dice include only the weapon's damage die plus any extra dice from a *[[srd/pf2e/compendium/equipment/runes/striking-major|striking rune]]*. They don't count extra dice from abilities, critical specialization effects, property runes, weapon traits, or the like.
+Effects based on a weapon's number of damage dice include only the weapon's damage die plus any extra dice from a *[[srd/pf2e/compendium/equipment/runes/striking|striking rune]]*. They don't count extra dice from abilities, critical specialization effects, property runes, weapon traits, or the like.
 
 ### Increasing Die Size
 
@@ -117,7 +116,7 @@ Once you've calculated how much damage you deal, you'll need to determine the da
 >
 > ## Precious Materials
 >
-> While not their own damage category, precious materials can modify damage to penetrate a creature's resistances or take advantage of its weaknesses. For instance, [[srd/pf2e/compendium/equipment/materials/silver-object-high-grade|silver]] weapons are particularly effective against [[srd/pf2e/compendium/rules-elements/traits/gm-core/werecreature|werecreatures]] and bypass the resistances to physical damage that most [[srd/pf2e/compendium/rules-elements/traits/player-core/devil|devils]] have.
+> While not their own damage category, precious materials can modify damage to penetrate a creature's resistances or take advantage of its weaknesses. For instance, [[srd/pf2e/compendium/equipment/materials/silver|silver]] weapons are particularly effective against [[srd/pf2e/compendium/rules-elements/traits/gm-core/werecreature|werecreatures]] and bypass the resistances to physical damage that most [[srd/pf2e/compendium/rules-elements/traits/player-core/devil|devils]] have.
 
 ## Step 3: Apply Immunities, Weaknesses, and Resistances
 

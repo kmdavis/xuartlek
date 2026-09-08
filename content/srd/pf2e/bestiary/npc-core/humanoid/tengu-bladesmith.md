@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Tengu Bladesmith"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Tengu Bladesmith"
 level: 6
 source: "NPC Core"
-aon_id: "creature-3672"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3672"
 ---
 

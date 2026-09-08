@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/rage-of-elements
 - trait/overflow
 aliases: ["Overflow"]
-aon_id: "trait-506"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=506"
 source: "Rage of Elements"
 ---
 

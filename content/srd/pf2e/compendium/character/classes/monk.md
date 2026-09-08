@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class
 tags:
 - compendium/src/pf2e/player-core-2
 aliases: ["Monk"]
-aon_id: "class-60"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=60"
 source: "Player Core 2"
 ---
 
@@ -128,7 +127,7 @@ You move like the wind. You gain a +10-foot status bonus to your Speed whenever 
 
 #### Mystic Strikes
 
-Focusing your will into your physical attacks imbues them with mystical energy. Your unarmed attacks become magical, allowing them to get past resistances to non-magical attacks. However, you still need an item such as [[srd/pf2e/compendium/equipment/worn-items/handwraps-of-mighty-blows-3-major-striking|handwraps of mighty blows]] to gain an item bonus to attack rolls or increase your attacks' weapon damage dice.
+Focusing your will into your physical attacks imbues them with mystical energy. Your unarmed attacks become magical, allowing them to get past resistances to non-magical attacks. However, you still need an item such as [[srd/pf2e/compendium/equipment/worn-items/handwraps-of-mighty-blows|handwraps of mighty blows]] to gain an item bonus to attack rolls or increase your attacks' weapon damage dice.
 
 #### Skill Increases
 

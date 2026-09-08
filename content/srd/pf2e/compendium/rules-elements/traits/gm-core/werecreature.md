@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/gm-core
 - trait/werecreature
 aliases: ["Werecreature"]
-aon_id: "trait-733"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=733"
 source: "GM Core"
 ---
 

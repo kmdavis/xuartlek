@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ancestry
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/kobold
 - trait/uncommon
 aliases: ["Kobold"]
-aon_id: "ancestry-80"
+aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=80"
 source: "Player Core 2"
 ---
 
@@ -37,7 +36,7 @@ Kobolds have an ingrained cautiousness that keeps them alive. They're secretive 
 
 All but the most iconoclastic kobolds have a natural respect for hierarchies and rules, relying on their ancestral social strategies for survival.
 
- Organized religion feels natural for most kobolds. They're often drawn to deities related to their benefactors, such as Asmodeus if the benefactor is a devil, or dragon deities like Apsu and Dahak if the benefactor is a dragon. Kobolds also often find themselves drawn to cults, particularly those with powerful magical creatures as figureheads.
+ Organized religion feels natural for most kobolds. They're often drawn to deities related to their benefactors, such as [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/asmodeus|Asmodeus]] if the benefactor is a devil, or dragon deities like Apsu and Dahak if the benefactor is a dragon. Kobolds also often find themselves drawn to cults, particularly those with powerful magical creatures as figureheads.
 
  **Popular Edicts** find your place in any power structure, take pride in your allies' strength, win with your wits
  **Popular Anathema** face a threat alone, throw caution to the wind

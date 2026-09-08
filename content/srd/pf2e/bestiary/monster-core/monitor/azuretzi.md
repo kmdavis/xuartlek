@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Azuretzi"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Azuretzi"
 level: 5
 source: "Monster Core"
-aon_id: "creature-3145"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3145"
 ---
 

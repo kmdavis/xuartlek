@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/mental
 - spell/level/1
 aliases: ["Soothe"]
-aon_id: "spell-1678"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1678"
 source: "Player Core"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core"
 `Concentrate`  `Emotion`  `Healing`  `Manipulate`  `Mental`
 
 - **Tradition**: Occult
-- **Deities**: Aesocar, Ashava, Atreia, Bolka, Dalenydra, Immonhiel, Isis, Kofusachi, Korada, Mother Vulture, Mrtyu, Myr, Naderi, Oathos, Osiris, Phi Deva, Qi Zhong, Selket, The Lost Prince, The Offering Plate, Tlehar, Touch of the Sun, Tsukiyo, Wards of the Pharaoh
+- **Deities**: [[srd/pf2e/compendium/deities/azlanti-pantheon/aesocar|Aesocar]], [[srd/pf2e/compendium/deities/empyreal-lords/ashava|Ashava]], [[srd/pf2e/compendium/deities/elemental-lords/atreia|Atreia]], [[srd/pf2e/compendium/deities/dwarven-gods/bolka|Bolka]], [[srd/pf2e/compendium/deities/empyreal-lords/dalenydra|Dalenydra]], Immonhiel, [[srd/pf2e/compendium/deities/dead-or-missing-deities/isis|Isis]], Kofusachi, [[srd/pf2e/compendium/deities/empyreal-lords/korada|Korada]], [[srd/pf2e/compendium/deities/monitor-demigods/mother-vulture|Mother Vulture]], [[srd/pf2e/compendium/deities/monitor-demigods/mrtyu|Mrtyu]], [[srd/pf2e/compendium/deities/azlanti-pantheon/myr|Myr]], Naderi, Oathos, [[srd/pf2e/compendium/deities/dead-or-missing-deities/osiris|Osiris]], Phi Deva, Qi Zhong, Selket, [[srd/pf2e/compendium/deities/eldest/the-lost-prince|The Lost Prince]], The Offering Plate, Tlehar, Touch of the Sun, [[srd/pf2e/compendium/deities/tian-gods/tsukiyo|Tsukiyo]], Wards of the Pharaoh
 - **Range**: 30 feet
 - **Target**: 1 willing creature
 - **Duration**: 1 minute

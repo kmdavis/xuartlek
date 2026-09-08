@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -8,7 +7,7 @@ tags:
 - trait/mythic
 - feat/level/14
 aliases: ["Aegis for the Innocent"]
-aon_id: "feat-7332"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7332"
 source: "War of Immortals"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - siege-weapon/level/9
 aliases: ["Heavy Bombard"]
-aon_id: "siege-weapon-17"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=17"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -15,7 +14,7 @@ source: "Guns & Gears (Remastered)"
 
 `Mounted`  `Uncommon`
 
-- **Price**: 1,400 gp
+- **Price**: 1, 400 gp
 - **Ammunition**: large stone spheres (8 gp, 16 Bulk)
 
 **Usage** mounted (black powder)

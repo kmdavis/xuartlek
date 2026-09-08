@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -9,7 +8,7 @@ tags:
 - trait/water
 - spell/level/6
 aliases: ["Frost Pillar"]
-aon_id: "spell-1389"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1389"
 source: "Rage of Elements"
 ---
 

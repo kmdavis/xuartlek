@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
 - trait/versatile
 - weapon/level/0
 aliases: ["Morningstar"]
-aon_id: "weapon-363"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=363"
 source: "Player Core"
 ---
 
@@ -14,7 +13,7 @@ source: "Player Core"
 
 `Versatile`
 
-- **Favored Weapon**: Ayrzul, Milani, Pavnuri, Reshmit of the Heavy Voice, Talons of the Godclaw, The Godclaw, Tlehar
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/elemental-lords/ayrzul|Ayrzul]], [[srd/pf2e/compendium/deities/other-gods/milani|Milani]], [[srd/pf2e/compendium/deities/daemon-harbingers/pavnuri|Pavnuri]], Reshmit of the Heavy Voice, [[srd/pf2e/compendium/deities/pantheons/talons-of-the-godclaw|Talons of the Godclaw]], The Godclaw, Tlehar
 - **Price**: 1 gp
 - **Damage**: 1d6 B
 - **Bulk**: 1
@@ -31,6 +30,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/greater-belkzen-deadsmasher|Belkzen Deadsmasher]], Boughshatter, [[srd/pf2e/compendium/equipment/artifacts/freedoms-flame|Freedom's Flame]], Thorn Brush, Vampire-Fang Morningstar
+[[srd/pf2e/compendium/equipment/weapons/belkzen-deadsmasher|Belkzen Deadsmasher]], Boughshatter, [[srd/pf2e/compendium/equipment/artifacts/freedoms-flame|Freedom's Flame]], Thorn Brush, Vampire-Fang Morningstar
 
 *Source: Player Core p. 277*

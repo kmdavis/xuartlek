@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -9,7 +8,7 @@ tags:
 - trait/sonic
 - spell/level/2
 aliases: ["Sonata Span"]
-aon_id: "spell-2818"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2818"
 source: "Impossible Magic"
 ---
 

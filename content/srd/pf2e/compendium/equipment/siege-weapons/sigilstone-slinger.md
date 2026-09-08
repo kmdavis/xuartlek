@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/battlecry
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - siege-weapon/level/14
 aliases: ["Sigilstone Slinger"]
-aon_id: "siege-weapon-61"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=61"
 source: "Battlecry!"
 ---
 
@@ -16,7 +15,7 @@ source: "Battlecry!"
 
 `Magical`  `Mounted`  `Uncommon`
 
-- **Price**: 8,000 gp
+- **Price**: 8, 000 gp
 - **Ammunition**: haunted _sigilstones_ (10 gp, 4 Bulk)
 
 **Usage** mounted

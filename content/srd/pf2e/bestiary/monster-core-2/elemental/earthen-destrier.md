@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Earthen Destrier"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Earthen Destrier"
 level: 4
 source: "Monster Core 2"
-aon_id: "creature-4383"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4383"
 ---
 

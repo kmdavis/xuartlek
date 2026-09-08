@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Nosferatu Thrall"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Nosferatu Thrall"
 level: 8
 source: "Monster Core 2"
-aon_id: "creature-4601"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4601"
 ---
 
@@ -40,7 +38,7 @@ skills:
 abilityMods: [4, 3, 2, 2, 2, 1]
 abilities_top:
   - name: "Items"
-    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/club/greatclub|greatclub]]_"
+    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/club/greatclub|greatclub]]_"
 ac: 26
 armorclass:
   - name: "AC"

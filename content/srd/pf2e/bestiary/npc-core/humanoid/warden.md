@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Warden"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Warden"
 level: 6
 source: "NPC Core"
-aon_id: "creature-3562"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3562"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [4, 2, 3, 1, 2, 1]
 abilities_top:
   - name: "Items"
-    desc: "Backpack, Bastard Sword, Bedroll, Compass, _+1 [[srd/pf2e/compendium/equipment/weapons/bow/composite-longbow|composite longbow]]_ (10 arrows), Flint and Steel, [[srd/pf2e/compendium/equipment/adventuring-gear/map-weather-map|maps]], pup tent, Scale Mail"
+    desc: "Backpack, Bastard Sword, Bedroll, Compass, _+1 [[srd/pf2e/compendium/equipment/weapons/bow/composite-longbow|composite longbow]]_ (10 arrows), Flint and Steel, [[srd/pf2e/compendium/equipment/adventuring-gear/map|maps]], pup tent, Scale Mail"
 ac: 24
 armorclass:
   - name: "AC"

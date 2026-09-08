@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Einherji"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Einherji"
 level: 10
 source: "Monster Core 2"
-aon_id: "creature-4016"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4016"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [7, 4, 6, 0, 1, 3]
 abilities_top:
   - name: "Items"
-    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 striking]] [[srd/pf2e/compendium/equipment/runes/returning|returning]] [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]]_, _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/sword/longsword|longsword]]_, [[srd/pf2e/compendium/equipment/shields/duskwood-tower-shield-high-grade|standard-grade duskwood shield]] (Hardness 5, HP 20, BT 10)"
+    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 striking]] [[srd/pf2e/compendium/equipment/runes/returning|returning]] [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]]_, _[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/sword/longsword|longsword]]_, [[srd/pf2e/compendium/equipment/shields/duskwood-shield|standard-grade duskwood shield]] (Hardness 5, HP 20, BT 10)"
 ac: 30
 armorclass:
   - name: "AC"
@@ -66,7 +64,7 @@ abilities_bot:
   - name: "Instant Repair"
     desc: "⬻ The einherji [[srd/pf2e/compendium/rules-elements/actions/player-core#Repair|Repairs]] their shield. They can't use this ability if the shield is destroyed."
   - name: "Jotun Slayer"
-    desc: "The einherji has a +4 circumstance bonus to damage rolls made against [[srd/pf2e/compendium/rules-elements/traits/player-core/giant|giants]] and creatures that are at least two sizes larger than the einherji. The Final Battle Regardless of the deity they serve, all einherjar follow certain beliefs and mythologies. They assert that, in the final days of existence, Pharasma will judge the last soul and spark the beginning of a new existence. Einherjar believe they will be among the last souls left prior to this event, fighting alongside their gods against the forces of entropy. To einherjar, victory in this war—defined as thorough mutual destruction—is the only way to ensure a proper transition into the new existence."
+    desc: "The einherji has a +4 circumstance bonus to damage rolls made against [[srd/pf2e/compendium/rules-elements/traits/player-core/giant|giants]] and creatures that are at least two sizes larger than the einherji. The Final Battle Regardless of the deity they serve, all einherjar follow certain beliefs and mythologies. They assert that, in the final days of existence, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma]] will judge the last soul and spark the beginning of a new existence. Einherjar believe they will be among the last souls left prior to this event, fighting alongside their gods against the forces of entropy. To einherjar, victory in this war—defined as thorough mutual destruction—is the only way to ensure a proper transition into the new existence."
 sourcebook: "_Monster Core 2_, page 14."
 ```
 

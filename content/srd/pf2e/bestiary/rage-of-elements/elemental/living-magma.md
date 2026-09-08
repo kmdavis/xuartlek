@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Living Magma"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Living Magma"
 level: 13
 source: "Rage of Elements"
-aon_id: "creature-2635"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2635"
 ---
 

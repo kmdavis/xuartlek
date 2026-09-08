@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Bandit Gang"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Bandit Gang"
 level: 7
 source: "NPC Core"
-aon_id: "creature-3432"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3432"
 ---
 

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/monster-core
 - trait/vampire
 aliases: ["Vampire"]
-aon_id: "trait-778"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=778"
 source: "Monster Core"
 ---
 

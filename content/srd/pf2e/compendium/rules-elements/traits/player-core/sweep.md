@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/sweep
 aliases: ["Sweep"]
-aon_id: "trait-708"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=708"
 source: "Player Core"
 ---
 

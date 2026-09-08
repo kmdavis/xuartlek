@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/ranger
 - feat/level/6
 aliases: ["Swift Tracker"]
-aon_id: "feat-4882"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4882"
 source: "Player Core"
 ---
 

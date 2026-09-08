@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/halfling
 - feat/level/1
 aliases: ["Watchful Halfling"]
-aon_id: "feat-4464"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4464"
 source: "Player Core"
 ---
 

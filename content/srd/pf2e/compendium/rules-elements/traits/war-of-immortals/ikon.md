@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/war-of-immortals
 - trait/ikon
 aliases: ["Ikon"]
-aon_id: "trait-840"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=840"
 source: "War of Immortals"
 ---
 

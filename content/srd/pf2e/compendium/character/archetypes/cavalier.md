@@ -1,18 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-archetype
 tags:
 - compendium/src/pf2e/player-core-2
 - archetype/level/2
 aliases: ["Cavalier"]
-aon_id: "archetype-244"
+aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=244"
 source: "Player Core 2"
 ---
 
 # Cavalier  *Archetype 2*
 
-- **PFS Note**: Cavaliers can pledge to any organization with published edicts and anathema. This includes the Pathfinder Society, whose updated edicts & anathema are as follows:_ 
-- **Edicts**: explore important sites, report and record your discoveries, and cooperate with fellow Pathfinders_ 
+- **PFS Note**: Cavaliers can pledge to any organization with published edicts and anathema. This includes the Pathfinder Society, whose updated edicts & anathema are as follows:_
+- **Edicts**: explore important sites, report and record your discoveries, and cooperate with fellow Pathfinders_
 - **Anathema**: fail to explore, report and cooperate; betray your fellow agents_ You are a skilled and dedicated warrior on the battlefield who specializes in fighting astride a powerful animal companion that serves as your mount. You and your mount are an unparalleled team, moving with shared intent to become a powerful force in combat. You might wield a banner in the name of an order of which you're a member, a liege to whom you've sworn your service, or an ideal you uphold. Or you might fight solely to further enrich your own prestige, reputation, and coffers. Traditionally, cavaliers are envisioned riding atop majestic or fearsome horses, but in reality, all kinds of animals can serve this honorable role, from riding dogs to dinosaurs. What's important is not the type of mount but the connection between the cavalier and their companion. This bond is their true strength.
 
 #### Cavalier Pledges

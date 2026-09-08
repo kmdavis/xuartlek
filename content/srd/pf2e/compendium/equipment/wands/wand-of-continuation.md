@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -7,7 +6,7 @@ tags:
 - trait/wand
 - equipment/level/5
 aliases: ["Wand of Continuation"]
-aon_id: "equipment-3051"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3051"
 source: "GM Core"
 ---
 

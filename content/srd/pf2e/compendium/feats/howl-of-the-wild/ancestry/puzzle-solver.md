@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 - trait/minotaur
 - feat/level/5
 aliases: ["Puzzle Solver"]
-aon_id: "feat-5373"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5373"
 source: "Howl of the Wild"
 ---
 

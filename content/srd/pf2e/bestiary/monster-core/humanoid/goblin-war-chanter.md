@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Goblin War Chanter"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Goblin War Chanter"
 level: 1
 source: "Monster Core"
-aon_id: "creature-3027"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3027"
 ---
 

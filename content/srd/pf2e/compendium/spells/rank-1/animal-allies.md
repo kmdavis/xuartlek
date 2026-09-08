@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/1
 aliases: ["Animal Allies"]
-aon_id: "spell-2630"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2630"
 source: "Impossible Magic"
 ---
 
@@ -16,7 +15,7 @@ source: "Impossible Magic"
 `Concentrate`  `Manipulate`
 
 - **Tradition**: Primal
-- **Deities**: Tjasse, Tresmalvos, Yig
+- **Deities**: [[srd/pf2e/compendium/deities/giant-gods/tjasse|Tjasse]], [[srd/pf2e/compendium/deities/daemon-harbingers/tresmalvos|Tresmalvos]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/yig|Yig]]
 - **Area**: 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]]
 - **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/witch
 - feat/level/4
 aliases: ["Rites of Convocation"]
-aon_id: "feat-4999"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4999"
 source: "Player Core"
 ---
 

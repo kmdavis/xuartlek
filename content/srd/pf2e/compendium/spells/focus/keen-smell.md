@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -11,7 +10,7 @@ tags:
 - trait/uncommon
 - spell/level/1
 aliases: ["Keen Smell"]
-aon_id: "spell-1929"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1929"
 source: "Howl of the Wild"
 ---
 

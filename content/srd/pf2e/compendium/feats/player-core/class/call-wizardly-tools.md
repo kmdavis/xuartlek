@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/wizard
 - feat/level/4
 aliases: ["Call Wizardly Tools"]
-aon_id: "feat-5029"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5029"
 source: "Player Core"
 ---
 

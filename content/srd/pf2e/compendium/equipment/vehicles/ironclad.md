@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/battlecry
 - trait/uncommon
 - vehicle/level/20
 aliases: ["Ironclad"]
-aon_id: "vehicle-112"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=112"
 source: "Battlecry!"
 ---
 
@@ -14,7 +13,7 @@ source: "Battlecry!"
 
 `Uncommon`
 
-- **Price**: 220,000 gp
+- **Price**: 220, 000 gp
 
 This heavy gunboat features solid hardwood timbers covered with thick iron plates riveted together to protect the portions of the vessel above the waterline. These timbers slope inboard at an angle to reduce the effectiveness of siege projectiles and cannon shots. The vessel is powered by a twin pair of propellers spun by steam from boilers that are magically fired, yielding glowing blue smoke through its twin pair of smokestacks. Ironclads are so formidable that a single one has been known to blockade an entire port by itself against more traditional wooden ships.
 

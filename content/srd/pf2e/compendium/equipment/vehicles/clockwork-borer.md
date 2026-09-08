@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/rare
 - vehicle/level/9
 aliases: ["Clockwork Borer"]
-aon_id: "vehicle-30"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=30"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -14,7 +13,7 @@ source: "Guns & Gears (Remastered)"
 
 `Rare`
 
-- **Price**: 2,100 gp
+- **Price**: 2, 100 gp
 
 A clockwork borer is essentially a huge adamantine drill attached to a large wheeled carriage. The clockwork gears within move the borer itself and spin the drill, allowing it to burrow through loose material quickly and even through solid stone at a slower rate.
 

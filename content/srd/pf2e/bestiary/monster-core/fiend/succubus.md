@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Succubus"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Succubus"
 level: 7
 source: "Monster Core"
-aon_id: "creature-2897"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2897"
 ---
 

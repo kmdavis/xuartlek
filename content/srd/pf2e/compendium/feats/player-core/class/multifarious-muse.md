@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/bard
 - feat/level/2
 aliases: ["Multifarious Muse"]
-aon_id: "feat-4585"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4585"
 source: "Player Core"
 ---
 

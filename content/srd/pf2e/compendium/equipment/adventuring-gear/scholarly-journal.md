@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/player-core
 - trait/uncommon
 - equipment/level/3
 aliases: ["Scholarly Journal"]
-aon_id: "equipment-2763"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2763"
 source: "Player Core"
 ---
 

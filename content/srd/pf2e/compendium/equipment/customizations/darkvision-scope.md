@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/magical
 - equipment/level/5
 aliases: ["Darkvision Scope"]
-aon_id: "equipment-1212"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1212"
 source: "Guns & Gears (Remastered)"
 ---
 

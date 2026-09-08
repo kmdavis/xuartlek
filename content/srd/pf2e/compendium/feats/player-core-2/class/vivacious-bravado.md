@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/swashbuckler
 - feat/level/8
 aliases: ["Vivacious Bravado"]
-aon_id: "feat-6161"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6161"
 source: "Player Core 2"
 ---
 

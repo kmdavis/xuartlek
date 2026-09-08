@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/illusion
 aliases: ["Illusion"]
-aon_id: "trait-629"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=629"
 source: "Player Core"
 ---
 

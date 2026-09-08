@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Enchanting Ritualist"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Enchanting Ritualist"
 level: 18
 source: "NPC Core"
-aon_id: "creature-3545"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3545"
 ---
 
@@ -40,7 +38,7 @@ abilities_top:
   - name: "Ritual Caster"
     desc: "the enchanting ritualist gains a +2 circumstance to skill checks for rituals"
   - name: "Items"
-    desc: "_+2 [[srd/pf2e/compendium/equipment/runes/striking-major|greater striking]] [[srd/pf2e/compendium/equipment/weapons/club/club|club]]_, _[[srd/pf2e/compendium/equipment/worn-items/bands-of-force-major|greater bands of force]]_, ornate ritual book"
+    desc: "_+2 [[srd/pf2e/compendium/equipment/runes/striking|greater striking]] [[srd/pf2e/compendium/equipment/weapons/club/club|club]]_, _[[srd/pf2e/compendium/equipment/worn-items/bands-of-force|greater bands of force]]_, ornate ritual book"
 ac: 40
 armorclass:
   - name: "AC"

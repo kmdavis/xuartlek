@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
 - trait/magical
 - equipment/level/7
 aliases: ["Flurrying"]
-aon_id: "equipment-1867"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1867"
 source: "Treasure Vault (Remastered)"
 ---
 

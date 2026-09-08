@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Yeti"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Yeti"
 level: 5
 source: "Monster Core"
-aon_id: "creature-3247"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3247"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/negative
 - spell/level/3
 aliases: ["Vampiric Feast"]
-aon_id: "spell-1736"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1736"
 source: "Player Core"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core"
 `Concentrate`  `Death`  `Manipulate`  `Void`  `Negative`
 
 - **Traditions**: Arcane, Divine, Occult
-- **Bloodline**: Aberrant
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Aberrant|Aberrant]]
 - **Range**: touch
 - **Target**: 1 living creature
 - **Defense**: basic Fortitude

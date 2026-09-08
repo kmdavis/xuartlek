@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -9,7 +8,7 @@ tags:
 - trait/visual
 - ritual/level/6
 aliases: ["Sky Signs"]
-aon_id: "ritual-102"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=102"
 source: "Rage of Elements"
 ---
 
@@ -21,7 +20,7 @@ source: "Rage of Elements"
 - **Cost**: lenses and fine mineral dusts worth 300 gp total
 - **Secondary Casters**: 2
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (master)
-- **Secondary Checks**: Crafting , Diplomacy
+- **Secondary Checks**: Crafting, Diplomacy
 - **Duration**: 8 hours
 
 You emblazon a message across the sky itself. Casting the ritual requires choosing a set of symbols for the message you want to send, which you can convey with an atmospheric phenomenon of your choice. Common choices include carefully shaped clouds during the day and auroras at night. Some cultures—such as the many denizens of the [[srd/pf2e/compendium/gm/planes#Plane of Air|Plane of Air]] and star-gazing iruxis—develop complex symbology to communicate clearly using _sky signs_.

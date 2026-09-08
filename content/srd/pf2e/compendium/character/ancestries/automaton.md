@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ancestry
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/construct
 - trait/rare
 aliases: ["Automaton"]
-aon_id: "ancestry-48"
+aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=48"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -41,7 +40,7 @@ Due to the disparate fates of automatons, many of them lead solitary lives. Ther
 
 ### Alignment and Religion
 
-The people of the Jistka Imperium saw the aeons of [[srd/pf2e/compendium/gm/planes#Axis|Axis]] as ideal beings whose behavior was worthy of emulation. Since many automatons contain Jistkan souls, many automatons maintain a philosophy of order and attempt to avoid disrupting societies around them. Few automatons act particularly benevolent or maliciously, though the independence and isolation common among automatons occasionally leads to kind or cruel individuals. Automatons tend to worship gods of technology or magic like Brigh and Nethys, or various monitor demigods. Worship of Irori and Pharasma are somewhat common among automatons as well. Pharasmin automatons likely learn how to release their souls from their cores, and often choose to do so. Though they are ancient beings from long before the time of Casandalee, a small number of automatons have recognized the new artificial goddess as a kindred spirit.
+The people of the Jistka Imperium saw the aeons of [[srd/pf2e/compendium/gm/planes#Axis|Axis]] as ideal beings whose behavior was worthy of emulation. Since many automatons contain Jistkan souls, many automatons maintain a philosophy of order and attempt to avoid disrupting societies around them. Few automatons act particularly benevolent or maliciously, though the independence and isolation common among automatons occasionally leads to kind or cruel individuals. Automatons tend to worship gods of technology or magic like [[srd/pf2e/compendium/deities/other-gods/brigh|Brigh]] and [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/nethys|Nethys]], or various monitor demigods. Worship of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/irori|Irori]] and [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma]] are somewhat common among automatons as well. Pharasmin automatons likely learn how to release their souls from their cores, and often choose to do so. Though they are ancient beings from long before the time of [[srd/pf2e/compendium/deities/other-gods/casandalee|Casandalee]], a small number of automatons have recognized the new artificial goddess as a kindred spirit.
 
 **Popular Edicts** dedicate yourself to your body’s purpose, help other automatons find release from their bodies when asked, minimize others’ sightings of you, travel to other planes 
 
@@ -73,7 +72,7 @@ An automaton typically keeps the name they had before their transformation into 
 
 #### Versatile Heritages
 
- Since automatons have artificial bodies, they don’t manifest the features of versatile heritages, even if the soul within their core did so in life. As a result, most automatons don’t have a versatile heritage. However, players who are interested in taking a versatile heritage are encouraged to speak with their GM to best determine an explanation for the versatile heritage. Since an automaton core draws on planar energy, there is a chance that said energy manifests in a versatile heritage, such as a [[srd/pf2e/compendium/character/ancestries/nephilim|nephilim]] automaton with an overabundance of energy from the [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/the-planes#Outer Sphere Planes|Outer Planes]]. Alternatively, a powerful soul might still be able to manifest the features of their heritage they had prior to transfer to an automaton body. An automaton with a versatile heritage will have minimal physical changes if any, though the color of energy that courses through their core and the rest of their body might change to properly represent the versatile heritage.
+ Since automatons have artificial bodies, they don’t manifest the features of versatile heritages, even if the soul within their core did so in life. As a result, most automatons don’t have a versatile heritage. However, players who are interested in taking a versatile heritage are encouraged to speak with their GM to best determine an explanation for the versatile heritage. Since an automaton core draws on planar energy, there is a chance that said energy manifests in a versatile heritage, such as a [[srd/pf2e/compendium/character/versatile-heritages/nephilim|nephilim]] automaton with an overabundance of energy from the [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/the-planes#Outer Sphere Planes|Outer Planes]]. Alternatively, a powerful soul might still be able to manifest the features of their heritage they had prior to transfer to an automaton body. An automaton with a versatile heritage will have minimal physical changes if any, though the color of energy that courses through their core and the rest of their body might change to properly represent the versatile heritage.
 
 ### Automaton Mechanics
 

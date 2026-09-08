@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/staff
 - equipment/level/6
 aliases: ["Fey Staff"]
-aon_id: "equipment-5165-4663"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5165"
 source: "Impossible Magic"
 ---
 
@@ -48,4 +47,4 @@ Vines twine around this wooden staff, carved with silhouettes of [[srd/pf2e/best
 
 **5th** [[srd/pf2e/compendium/spells/rank-5/incarnate-faerie-revelers|_incarnate faerie revelers_]], _summon fey_, [[srd/pf2e/compendium/spells/rank-5/tree-of-life-and-death|_tree of life and death_]]**6th** _summon fey_, [[srd/pf2e/compendium/spells/rank-6/tree-of-seasons|_tree of seasons_]]
 
-*Source: Impossible Magic p. 239*
+*Source: Impossible Magic p. 238*

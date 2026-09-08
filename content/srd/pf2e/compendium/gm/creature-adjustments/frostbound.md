@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-adjustment
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 aliases: ["Frostbound"]
-aon_id: "creature-adjustment-25"
+aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=25"
 source: "Howl of the Wild"
 ---
 

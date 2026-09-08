@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 - trait/psychic
 - feat/level/1
 aliases: ["Ancestral Mind"]
-aon_id: "feat-8310"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8310"
 source: "Dark Archives (Remastered)"
 ---
 

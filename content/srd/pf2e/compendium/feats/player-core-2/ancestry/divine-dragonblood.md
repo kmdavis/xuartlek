@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/lineage
 - feat/level/1
 aliases: ["Divine Dragonblood"]
-aon_id: "feat-5727"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5727"
 source: "Player Core 2"
 ---
 

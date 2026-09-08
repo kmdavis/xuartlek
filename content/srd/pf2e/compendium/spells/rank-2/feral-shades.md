@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -9,7 +8,7 @@ tags:
 - trait/negative
 - spell/level/2
 aliases: ["Feral Shades"]
-aon_id: "spell-2700"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2700"
 source: "Impossible Magic"
 ---
 
@@ -18,7 +17,7 @@ source: "Impossible Magic"
 `Concentrate`  `Manipulate`  `Void`  `Negative`
 
 - **Traditions**: Occult, Primal
-- **Deities**: Jezelda, Orcus, The Pale Horse
+- **Deities**: [[srd/pf2e/compendium/deities/demon-lords/jezelda|Jezelda]], Orcus, [[srd/pf2e/compendium/deities/monitor-demigods/the-pale-horse|The Pale Horse]]
 - **Area**: 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Cone|cone]]
 - **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Fortitude
 

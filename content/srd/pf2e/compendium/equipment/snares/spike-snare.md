@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/player-core-2
@@ -9,7 +8,7 @@ tags:
 - trait/trap
 - equipment/level/1
 aliases: ["Spike Snare"]
-aon_id: "equipment-3385"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3385"
 source: "Player Core 2"
 ---
 
@@ -19,6 +18,6 @@ source: "Player Core 2"
 
 - **Price**: 3 gp
 
-This basic snare consists of hidden spikes that rely on a creature's momentum to lacerate or potentially impale it as it enters the snare's square, dealing 2d8 piercing damage. The creature must attempt a DC 17 [[srd/pf2e/compendium/rules-elements/actions/howl-of-the-wild|basic]] Reflex saving throw.
+This basic snare consists of hidden spikes that rely on a creature's momentum to lacerate or potentially impale it as it enters the snare's square, dealing 2d8 piercing damage. The creature must attempt a DC 17 basic Reflex saving throw.
 
 *Source: Player Core 2 p. 300*

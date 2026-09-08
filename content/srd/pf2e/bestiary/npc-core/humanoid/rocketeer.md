@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Rocketeer"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Rocketeer"
 level: 6
 source: "NPC Core"
-aon_id: "creature-3463"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3463"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [2, 4, 2, 2, 2, 0]
 abilities_top:
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit-sterling|Artisan's Toolkit]] (rocketry), flight suit (functions as [[srd/pf2e/compendium/equipment/armor#Leather Armor|leather armor]]), heavy wrench (functions as a [[srd/pf2e/compendium/equipment/weapons/club/mace|mace]]), moderate alchemist's fire (4), _+1 slide pistol_ (20 rounds)"
+    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit|Artisan's Toolkit]] (rocketry), flight suit (functions as [[srd/pf2e/compendium/equipment/armor#Leather Armor|leather armor]]), heavy wrench (functions as a [[srd/pf2e/compendium/equipment/weapons/club/mace|mace]]), moderate alchemist's fire (4), _+1 slide pistol_ (20 rounds)"
 ac: 23
 armorclass:
   - name: "AC"

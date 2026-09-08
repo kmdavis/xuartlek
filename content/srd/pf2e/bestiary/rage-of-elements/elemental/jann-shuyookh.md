@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Jann Shuyookh"
 tags:
@@ -18,7 +17,6 @@ statblock: inline
 name: "Jann Shuyookh"
 level: 9
 source: "Rage of Elements"
-aon_id: "creature-2688"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2688"
 ---
 

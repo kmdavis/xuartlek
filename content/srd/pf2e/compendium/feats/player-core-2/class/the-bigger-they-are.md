@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/swashbuckler
 - feat/level/12
 aliases: ["The Bigger They Are"]
-aon_id: "feat-6171"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6171"
 source: "Player Core 2"
 ---
 

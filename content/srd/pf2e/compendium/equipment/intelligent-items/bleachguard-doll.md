@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/rare
 - equipment/level/8
 aliases: ["Bleachguard Doll"]
-aon_id: "equipment-2393"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2393"
 source: "Treasure Vault (Remastered)"
 ---
 

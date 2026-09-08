@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -9,7 +8,7 @@ tags:
 - trait/rage
 - feat/level/6
 aliases: ["Giant's Stature"]
-aon_id: "feat-5828"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5828"
 source: "Player Core 2"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core 2"
 
 `Barbarian`  `Polymorph`  `Primal`  `Rage`
 
-- **Prerequisites**: Giant instinct
+- **Prerequisites**: [[srd/pf2e/compendium/character/instincts/giant|Giant instinct]]
 - **Requirements**: You are Medium or smaller.
 
 You grow to incredible size. You become Large, increasing your [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach]] by 5 feet and gaining the [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy 1]] condition until you stop raging. Your equipment grows with you.

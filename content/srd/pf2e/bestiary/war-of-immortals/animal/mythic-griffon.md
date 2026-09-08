@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Mythic Griffon"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Mythic Griffon"
 level: 4
 source: "War of Immortals"
-aon_id: "creature-3403"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3403"
 ---
 

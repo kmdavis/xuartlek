@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
 - trait/magical
 - equipment/level/6
 aliases: ["Ready"]
-aon_id: "equipment-2792"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2792"
 source: "GM Core"
 ---
 

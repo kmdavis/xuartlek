@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -10,7 +9,7 @@ tags:
 - trait/manipulate
 - spell/level/1
 aliases: ["Bullhorn"]
-aon_id: "spell-1971"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1971"
 source: "Player Core 2"
 ---
 

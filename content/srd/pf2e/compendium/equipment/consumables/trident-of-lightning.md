@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - equipment/level/9
 aliases: ["Trident of Lightning"]
-aon_id: "equipment-3005"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3005"
 source: "GM Core"
 ---
 

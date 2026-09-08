@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -7,7 +6,7 @@ tags:
 - trait/water
 - ritual/level/5
 aliases: ["Bountiful Oasis"]
-aon_id: "ritual-103"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=103"
 source: "Rage of Elements"
 ---
 
@@ -16,7 +15,7 @@ source: "Rage of Elements"
 `Uncommon`  `Water`
 
 - **Cast**: 1 day
-- **Cost**: 3 drops of fresh water taken from a naturally occurring lake within 1,000 miles of the ritual site
+- **Cost**: 3 drops of fresh water taken from a naturally occurring lake within 1, 000 miles of the ritual site
 - **Secondary Casters**: 1
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (expert)
 - **Secondary Checks**: Nature or Survival

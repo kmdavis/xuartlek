@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/nonlethal
 - spell/level/1
 aliases: ["Phantom Pain"]
-aon_id: "spell-1632"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1632"
 source: "Player Core"
 ---
 
@@ -19,9 +18,9 @@ source: "Player Core"
 `Concentrate`  `Illusion`  `Manipulate`  `Mental`  `Nonlethal`
 
 - **Tradition**: Occult
-- **Bloodline**: Aberrant
-- **Deities**: Camazotz, Diomazul, Doloras, Enkaar, Eyes That Watch, Grasping Iovett, Groetus, Husk, Lady Razor, Nergal, Otilaz, Reshmit of the Heavy Voice, Shax, Stag Mother of the Forest of Stones, Thalaphyrr, The Godclaw, The Pale Horse, Venkelvore, Vildeis, Zon-Kuthon
-- **Lesson**: Lesson of Vengeance
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Aberrant|Aberrant]]
+- **Deities**: Camazotz, [[srd/pf2e/compendium/deities/vudrani-gods/diomazul|Diomazul]], [[srd/pf2e/compendium/deities/queens-of-the-night/doloras|Doloras]], Enkaar, Eyes That Watch, Grasping Iovett, [[srd/pf2e/compendium/deities/other-gods/groetus|Groetus]], Husk, Lady Razor, [[srd/pf2e/compendium/deities/infernal-dukes/nergal|Nergal]], Otilaz, Reshmit of the Heavy Voice, [[srd/pf2e/compendium/deities/demon-lords/shax|Shax]], [[srd/pf2e/compendium/deities/sarkorian-gods/stag-mother-of-the-forest-of-stones|Stag Mother of the Forest of Stones]], Thalaphyrr, The Godclaw, [[srd/pf2e/compendium/deities/monitor-demigods/the-pale-horse|The Pale Horse]], [[srd/pf2e/compendium/deities/goblin-gods/venkelvore|Venkelvore]], [[srd/pf2e/compendium/deities/empyreal-lords/vildeis|Vildeis]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/zon-kuthon|Zon-Kuthon]]
+- **Lesson**: [[srd/pf2e/compendium/character/lessons#Lesson of Vengeance|Lesson of Vengeance]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/secret
 - feat/level/4
 aliases: ["Combat Reading"]
-aon_id: "feat-4588"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4588"
 source: "Player Core"
 ---
 

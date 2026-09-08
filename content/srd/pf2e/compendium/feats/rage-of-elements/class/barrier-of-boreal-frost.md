@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -12,7 +11,7 @@ tags:
 - trait/water
 - feat/level/14
 aliases: ["Barrier of Boreal Frost"]
-aon_id: "feat-4278"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4278"
 source: "Rage of Elements"
 ---
 

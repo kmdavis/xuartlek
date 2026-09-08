@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -10,7 +9,7 @@ tags:
 - trait/uncommon
 - equipment/level/7
 aliases: ["Fey Dragonet Liqueur"]
-aon_id: "equipment-2085"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2085"
 source: "Treasure Vault (Remastered)"
 ---
 

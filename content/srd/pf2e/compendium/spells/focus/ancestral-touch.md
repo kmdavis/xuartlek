@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -12,7 +11,7 @@ tags:
 - trait/uncommon
 - spell/level/1
 aliases: ["Ancestral Touch"]
-aon_id: "spell-2066"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2066"
 source: "Player Core 2"
 ---
 
@@ -20,7 +19,7 @@ source: "Player Core 2"
 
 `Emotion`  `Fear`  `Focus`  `Manipulate`  `Mental`  `Oracle`  `Uncommon`
 
-- **Mystery**: Ancestors
+- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Ancestors|Ancestors]]
 - **Range**: touch
 - **Target**: 1 living creature
 - **Defense**: Will

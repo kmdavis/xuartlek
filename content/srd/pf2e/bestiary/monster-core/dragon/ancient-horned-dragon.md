@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Ancient Horned Dragon"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Ancient Horned Dragon"
 level: 17
 source: "Monster Core"
-aon_id: "creature-2949"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2949"
 ---
 

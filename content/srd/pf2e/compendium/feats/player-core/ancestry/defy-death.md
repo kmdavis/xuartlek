@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/orc
 - feat/level/5
 aliases: ["Defy Death"]
-aon_id: "feat-4522"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4522"
 source: "Player Core"
 ---
 

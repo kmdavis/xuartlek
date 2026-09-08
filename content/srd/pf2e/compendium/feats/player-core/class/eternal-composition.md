@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/bard
 - feat/level/18
 aliases: ["Eternal Composition"]
-aon_id: "feat-4635"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4635"
 source: "Player Core"
 ---
 

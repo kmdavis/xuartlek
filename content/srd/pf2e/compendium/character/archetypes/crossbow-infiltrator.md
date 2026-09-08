@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-archetype
 tags:
 - compendium/src/pf2e/battlecry
 - archetype/level/2
 aliases: ["Crossbow Infiltrator"]
-aon_id: "archetype-325"
+aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=325"
 source: "Battlecry!"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -10,7 +9,7 @@ tags:
 - trait/versatile
 - weapon/level/0
 aliases: ["Dancer's Spear"]
-aon_id: "weapon-279"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=279"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -18,7 +17,7 @@ source: "Treasure Vault (Remastered)"
 
 `Backswing`  `Finesse`  `Reach`  `Sweep`  `Versatile`
 
-- **Favored Weapon**: Liisglan
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/monitor-demigods/liisglan|Liisglan]]
 - **Price**: 3 gp
 - **Damage**: 1d6 P
 - **Bulk**: 1

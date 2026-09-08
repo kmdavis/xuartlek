@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core
 aliases: ["Athamaru"]
-aon_id: "creature-family-366"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=366"
 source: "Monster Core"
 ---
 

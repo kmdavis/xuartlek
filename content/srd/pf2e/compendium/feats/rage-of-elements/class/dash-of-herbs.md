@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -13,7 +12,7 @@ tags:
 - trait/positive
 - feat/level/6
 aliases: ["Dash of Herbs"]
-aon_id: "feat-4287"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4287"
 source: "Rage of Elements"
 ---
 

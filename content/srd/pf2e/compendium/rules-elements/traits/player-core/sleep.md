@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/sleep
 aliases: ["Sleep"]
-aon_id: "trait-696"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=696"
 source: "Player Core"
 ---
 

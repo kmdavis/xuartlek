@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Fence"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Fence"
 level: 5
 source: "NPC Core"
-aon_id: "creature-3430"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3430"
 ---
 
@@ -38,7 +36,7 @@ abilities_top:
   - name: "Fence's Eye"
     desc: "Fences can use [[srd/pf2e/compendium/rules-elements/skills/lore|Underworld Lore]] to identify an item's value and [[srd/pf2e/compendium/rules-elements/actions/player-core#Identify Magic|Identify Magic]] on an item. They gain a +2 circumstance bonus to Underworld Lore checks when doing so, and to all Underworld Lore checks related to stolen items."
   - name: "Items"
-    desc: "Dagger (10), lesser darkvision elixir, Disguise Kit, Shortsword, [[srd/pf2e/compendium/equipment/alchemical-items/smoke-ball-greater|lesser smoke ball]] (2), [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit-infiltrator-picks|Thieves' Toolkit]]"
+    desc: "Dagger (10), lesser darkvision elixir, Disguise Kit, Shortsword, [[srd/pf2e/compendium/equipment/alchemical-items/smoke-ball|lesser smoke ball]] (2), [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit|Thieves' Toolkit]]"
 ac: 20
 armorclass:
   - name: "AC"

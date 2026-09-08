@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/monster-core-2
 - trait/suli
 aliases: ["Suli"]
-aon_id: "trait-885"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=885"
 source: "Monster Core 2"
 ---
 

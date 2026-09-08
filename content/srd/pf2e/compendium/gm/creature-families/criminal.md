@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/npc-core
 aliases: ["Criminal"]
-aon_id: "creature-family-533"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=533"
 source: "NPC Core"
 ---
 
@@ -46,7 +45,7 @@ Criminal organizations often find it easier to demand protection money from loca
 
 ### Sanctuary
 
-Adventurers or those they rescue might be able to find sanctuary in sacred places to buy time against pursuers or disappear from those hunting them. These institutions range from simple rural shrines to monasteries to larger estates. The churches of Asmodeus, Cayden Cailean, Iomedae, Irori, Sarenrae, and Shelyn are the most likely to grant sanctuary—though some of these ask much in exchange for their protections.
+Adventurers or those they rescue might be able to find sanctuary in sacred places to buy time against pursuers or disappear from those hunting them. These institutions range from simple rural shrines to monasteries to larger estates. The churches of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/asmodeus|Asmodeus]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/cayden-cailean|Cayden Cailean]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/iomedae|Iomedae]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/irori|Irori]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/sarenrae|Sarenrae]], and [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/shelyn|Shelyn]] are the most likely to grant sanctuary—though some of these ask much in exchange for their protections.
 
 ### Walking The Walk
 

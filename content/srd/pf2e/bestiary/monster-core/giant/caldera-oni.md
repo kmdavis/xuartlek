@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Caldera Oni"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Caldera Oni"
 level: 14
 source: "Monster Core"
-aon_id: "creature-3123"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3123"
 ---
 
@@ -40,7 +38,7 @@ skills:
 abilityMods: [8, 6, 6, 0, 6, 8]
 abilities_top:
   - name: "Items"
-    desc: "_+2 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/katana|katana]]_, _+1 [[srd/pf2e/compendium/equipment/runes/resilient-major|resilient]] [[srd/pf2e/compendium/equipment/armor#Breastplate|breastplate]]_"
+    desc: "_+2 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/katana|katana]]_, _+1 [[srd/pf2e/compendium/equipment/runes/resilient|resilient]] [[srd/pf2e/compendium/equipment/armor#Breastplate|breastplate]]_"
 ac: 35
 armorclass:
   - name: "AC"

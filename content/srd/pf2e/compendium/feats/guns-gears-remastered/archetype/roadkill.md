@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/archetype
 - feat/level/10
 aliases: ["Roadkill"]
-aon_id: "feat-3145"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3145"
 source: "Guns & Gears (Remastered)"
 ---
 

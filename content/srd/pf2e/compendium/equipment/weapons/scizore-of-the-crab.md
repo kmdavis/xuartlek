@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
 - trait/magical
 - equipment/level/5
 aliases: ["Scizore of the Crab"]
-aon_id: "equipment-1887"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1887"
 source: "Treasure Vault (Remastered)"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - equipment/level/18
 aliases: ["Titan's Standard"]
-aon_id: "equipment-3919"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3919"
 source: "Battlecry!"
 ---
 
@@ -16,7 +15,7 @@ source: "Battlecry!"
 
 `Aura`  `Magical`  `Uncommon`
 
-- **Price**: 24,000 gp
+- **Price**: 24, 000 gp
 - **Usage**: affixed or held in 1 hand
 - **Bulk**: L
 

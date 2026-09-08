@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/3
 aliases: ["Wanderer’s Guide"]
-aon_id: "spell-2043"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2043"
 source: "Player Core 2"
 ---
 

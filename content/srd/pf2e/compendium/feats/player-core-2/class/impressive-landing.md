@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/barbarian
 - feat/level/10
 aliases: ["Impressive Landing"]
-aon_id: "feat-5848"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5848"
 source: "Player Core 2"
 ---
 

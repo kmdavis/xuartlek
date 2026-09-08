@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 - trait/archetype
 - feat/level/8
 aliases: ["You Don't Smell Right"]
-aon_id: "feat-5502"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5502"
 source: "Howl of the Wild"
 ---
 

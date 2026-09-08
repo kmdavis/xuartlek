@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -8,7 +7,7 @@ tags:
 - trait/water
 - ritual/level/9
 aliases: ["Ocean's Roar"]
-aon_id: "ritual-196"
+aon_url: "https://2e.aonprd.com/MythicRituals.aspx?ID=196"
 source: "War of Immortals"
 ---
 
@@ -17,10 +16,10 @@ source: "War of Immortals"
 `Mythic`  `Rare`  `Water`
 
 - **Cast**: 1 day
-- **Cost**: 1 or more boats or ships worth a total of 10,000 gp
+- **Cost**: 1 or more boats or ships worth a total of 10, 000 gp
 - **Secondary Casters**: 3
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (mythic)
-- **Secondary Checks**: Diplomacy , Sailing Lore , Survival
+- **Secondary Checks**: Diplomacy, Sailing Lore, Survival
 - **Range**: 10 feet
 - **Target(s)**: body of water no larger than a 7-mile radius area
 - **Duration**: unlimited

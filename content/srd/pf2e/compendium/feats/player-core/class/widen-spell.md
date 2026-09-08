@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -13,7 +12,7 @@ tags:
 - trait/metamagic
 - feat/level/1
 aliases: ["Widen Spell"]
-aon_id: "feat-4715"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4715"
 source: "Player Core"
 ---
 

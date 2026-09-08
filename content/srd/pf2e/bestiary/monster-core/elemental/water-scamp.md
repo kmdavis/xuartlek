@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Water Scamp"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Water Scamp"
 level: 1
 source: "Monster Core"
-aon_id: "creature-2988"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2988"
 ---
 

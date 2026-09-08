@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -12,7 +11,7 @@ tags:
 - trait/positive
 - spell/level/1
 aliases: ["Life Link"]
-aon_id: "spell-2081"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2081"
 source: "Player Core 2"
 ---
 
@@ -20,7 +19,7 @@ source: "Player Core 2"
 
 `Focus`  `Healing`  `Manipulate`  `Oracle`  `Uncommon`  `Vitality`  `Positive`
 
-- **Mystery**: Life
+- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Life|Life]]
 - **Range**: 30 feet
 - **Target**: 1 creature other than you
 - **Duration**: 1 minute

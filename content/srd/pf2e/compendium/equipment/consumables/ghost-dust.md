@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -9,7 +8,7 @@ tags:
 - trait/talisman
 - equipment/level/16
 aliases: ["Ghost Dust"]
-aon_id: "equipment-2978"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2978"
 source: "GM Core"
 ---
 
@@ -17,7 +16,7 @@ source: "GM Core"
 
 `Consumable`  `Illusion`  `Occult`  `Talisman`
 
-- **Price**: 1,800 gp
+- **Price**: 1, 800 gp
 - **Usage**: affixed to armor
 - **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 - **Requirement**: You are trained in Stealth

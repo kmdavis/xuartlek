@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/wand
 - equipment/level/10
 aliases: ["Wand of Tormented Slumber"]
-aon_id: "equipment-2295"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2295"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -17,7 +16,7 @@ source: "Treasure Vault (Remastered)"
 
 `Magical`  `Mental`  `Sleep`  `Wand`
 
-- **Price**: 1,000 gp
+- **Price**: 1, 000 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
 

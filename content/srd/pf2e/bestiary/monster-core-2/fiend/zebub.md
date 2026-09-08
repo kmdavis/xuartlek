@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Zebub"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Zebub"
 level: 3
 source: "Monster Core 2"
-aon_id: "creature-4325"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4325"
 ---
 
@@ -43,7 +41,7 @@ armorclass:
 hp: 45
 health:
   - name: "HP"
-    desc: "45; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]; __Resistances__ physical 5 (except [[srd/pf2e/compendium/equipment/materials/silver-object-high-grade|silver]]), [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] 5­­; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 5"
+    desc: "45; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]; __Resistances__ physical 5 (except [[srd/pf2e/compendium/equipment/materials/silver|silver]]), [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] 5­­; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 5"
 speed: "15 feet, fly 50 feet"
 attacks:
   - name: "Melee"

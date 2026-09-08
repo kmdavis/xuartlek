@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/battlecry
@@ -11,7 +10,7 @@ tags:
 - trait/uncommon
 - spell/level/1
 aliases: ["Barbed Spear"]
-aon_id: "spell-2490"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2490"
 source: "Battlecry!"
 ---
 
@@ -19,7 +18,7 @@ source: "Battlecry!"
 
 `Attack`  `Concentrate`  `Focus`  `Manipulate`  `Sorcerer`  `Uncommon`
 
-- **Bloodline**: Aesir
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Aesir|Aesir]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: AC

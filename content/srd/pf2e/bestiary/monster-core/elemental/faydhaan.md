@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Faydhaan"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Faydhaan"
 level: 9
 source: "Monster Core"
-aon_id: "creature-3005"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3005"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [4, 5, 2, 1, 3, 5]
 abilities_top:
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/spear/trident|trident]]_"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/spear/trident|trident]]_"
 ac: 28
 armorclass:
   - name: "AC"
@@ -67,7 +65,7 @@ abilities_bot:
     desc: "⬻ The faydhaan makes a trident Strike, dealing an extra 2d6 persistent bleed damage on a hit (4d6 on a critical hit). Faydhaan Shuyookhs Faydhaan shuyookhs grant wishes in ways that please the most people possible. They add the following innate spells: __7th__ [[srd/pf2e/compendium/spells/rank-4/hydraulic-torrent|_hydraulic torrent_]], [[srd/pf2e/compendium/spells/rank-7/planar-palace|_planar palace_]], [[srd/pf2e/compendium/spells/rank-2/summon-elemental|_summon elemental_]]; __5th__ [[srd/pf2e/compendium/spells/rank-5/howling-blizzard|_howling blizzard_]] (at will), [[srd/pf2e/compendium/spells/rank-2/illusory-creature|_illusory creature_]] (×2), [[srd/pf2e/compendium/spells/rank-4/mirage|_mirage_]], [[srd/pf2e/compendium/spells/rank-5/truespeech|_truespeech_]] (at will); __4th__ [[srd/pf2e/compendium/spells/rank-2/invisibility|_invisibility_]] (×2), [[srd/pf2e/compendium/spells/rank-4/vapor-form|_vapor form_]]; __2nd__ [[srd/pf2e/compendium/spells/rank-1/create-water|_create water_]] (at will), [[srd/pf2e/compendium/spells/rank-2/invisibility|_invisibility_]] (at will), [[srd/pf2e/compendium/spells/rank-2/see-the-unseen|_see the unseen_]]."
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 24 - __Cantrips (5th)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]] - __2nd__ [[srd/pf2e/compendium/spells/rank-1/create-water|Create Water]] (at will), [[srd/pf2e/compendium/spells/rank-2/invisibility|Invisibility]] (×2), [[srd/pf2e/compendium/spells/rank-2/water-breathing|Water Breathing]] - __4th__ [[srd/pf2e/compendium/spells/rank-1/hydraulic-push|Hydraulic Push]] (at will) - __5th__ [[srd/pf2e/compendium/spells/rank-5/control-water|Control Water]] (at will), [[srd/pf2e/compendium/spells/rank-4/hydraulic-torrent|Hydraulic Torrent]], [[srd/pf2e/compendium/spells/rank-5/truespeech|Truespeech]] (at will) - __7th__ [[srd/pf2e/compendium/spells/rank-7/interplanar-teleport|Interplanar Teleport]] (to [[srd/pf2e/compendium/equipment/runes/astral-greater|Astral Plane]]; Elemental Planes; or [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]] only) - __Constant (5th)__ [[srd/pf2e/compendium/spells/rank-5/truespeech|Truespeech]]"
+    desc: "DC 24 - __Cantrips (5th)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]] - __2nd__ [[srd/pf2e/compendium/spells/rank-1/create-water|Create Water]] (at will), [[srd/pf2e/compendium/spells/rank-2/invisibility|Invisibility]] (×2), [[srd/pf2e/compendium/spells/rank-2/water-breathing|Water Breathing]] - __4th__ [[srd/pf2e/compendium/spells/rank-1/hydraulic-push|Hydraulic Push]] (at will) - __5th__ [[srd/pf2e/compendium/spells/rank-5/control-water|Control Water]] (at will), [[srd/pf2e/compendium/spells/rank-4/hydraulic-torrent|Hydraulic Torrent]], [[srd/pf2e/compendium/spells/rank-5/truespeech|Truespeech]] (at will) - __7th__ [[srd/pf2e/compendium/spells/rank-7/interplanar-teleport|Interplanar Teleport]] (to [[srd/pf2e/compendium/equipment/runes/astral|Astral Plane]]; Elemental Planes; or [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]] only) - __Constant (5th)__ [[srd/pf2e/compendium/spells/rank-5/truespeech|Truespeech]]"
 sourcebook: "_Monster Core_, page 158."
 ```
 

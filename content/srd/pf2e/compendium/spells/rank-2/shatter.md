@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/sonic
 - spell/level/2
 aliases: ["Shatter"]
-aon_id: "spell-1670"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1670"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Sonic`
 
 - **Traditions**: Occult, Primal
-- **Deities**: [[srd/pf2e/compendium/character/deities#Ahriman|Ahriman]], Hadregash, Zyphus
+- **Deities**: [[srd/pf2e/compendium/deities/other-gods/ahriman|Ahriman]], [[srd/pf2e/compendium/deities/goblin-gods/hadregash|Hadregash]], [[srd/pf2e/compendium/deities/other-gods/zyphus|Zyphus]]
 - **Range**: 30 feet
 - **Target**: 1 unattended object
 

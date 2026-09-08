@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Torchbearer"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Torchbearer"
 level: 0
 source: "NPC Core"
-aon_id: "creature-3466"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3466"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [2, 3, 1, 0, 1, 1]
 abilities_top:
   - name: "Items"
-    desc: "Climbing Kit, Dagger, Hand Crossbow (20 bolts), [[srd/pf2e/compendium/equipment/alchemical-items/matchstick|Matchstick]] (5), Torch (4)"
+    desc: "Climbing Kit, Dagger, Hand Crossbow (20 bolts), Matchstick (5), Torch (4)"
 ac: 15
 armorclass:
   - name: "AC"

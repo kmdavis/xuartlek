@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -7,7 +6,7 @@ tags:
 - trait/fortune
 - feat/level/12
 aliases: ["Know thy Doom"]
-aon_id: "feat-7265"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7265"
 source: "War of Immortals"
 ---
 

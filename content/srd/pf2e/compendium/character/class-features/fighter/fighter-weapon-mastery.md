@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class-feature
 tags:
 - compendium/src/pf2e/player-core
 - class-feature/level/5
 aliases: ["Fighter Weapon Mastery"]
-aon_id: "class-feature-699"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=35"
 source: "Player Core"
 ---
 

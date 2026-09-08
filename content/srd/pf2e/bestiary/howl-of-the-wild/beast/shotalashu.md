@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Shotalashu"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Shotalashu"
 level: 2
 source: "Howl of the Wild"
-aon_id: "creature-3309"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3309"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Troubadour"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Troubadour"
 level: 3
 source: "NPC Core"
-aon_id: "creature-3575"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3575"
 ---
 
@@ -38,7 +36,7 @@ abilities_top:
   - name: "Bardic Lore"
     desc: "The troubadour can [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]] on any subject with a +7 modifier."
   - name: "Items"
-    desc: "Leather Armor, [[srd/pf2e/compendium/equipment/adventuring-gear/musical-instrument-virtuoso-heavy|lute]], poetry book, Rapier"
+    desc: "Leather Armor, [[srd/pf2e/compendium/equipment/adventuring-gear/musical-instrument|lute]], poetry book, Rapier"
 ac: 18
 armorclass:
   - name: "AC"

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - equipment/level/12
 aliases: ["Immovable"]
-aon_id: "equipment-1832"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1832"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -15,7 +14,7 @@ source: "Treasure Vault (Remastered)"
 
 `Magical`  `Uncommon`
 
-- **Price**: 1,800 gp
+- **Price**: 1, 800 gp
 - **Usage**: etched onto armor
 
 This rune utilizes magical principles to manipulate gravity and turn you into an immovable object.

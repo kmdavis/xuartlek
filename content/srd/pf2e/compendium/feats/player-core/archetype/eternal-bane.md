@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/cleric
 - feat/level/16
 aliases: ["Eternal Bane"]
-aon_id: "feat-4693"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4693"
 source: "Player Core"
 ---
 
@@ -14,7 +13,7 @@ source: "Player Core"
 
 `Cleric`
 
-- **Archetype**: Mortal Herald (Level 18)
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/mortal-herald|Mortal Herald]] (Level 18)
 - **Prerequisites**: unholy
 
 Your life has made you a nexus for your deity’s vile power. You’re continuously surrounded by a bane spell, with a spell rank equal to half your level (rounded up). The radius is 15 feet, and you can’t increase it. You can Dismiss the spell; if you do, it returns automatically after 1 minute.

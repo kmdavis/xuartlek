@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - weapon/level/0
 aliases: ["Gnome Flickmace"]
-aon_id: "weapon-421"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=421"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 
 `Gnome`  `Reach`  `Sweep`  `Uncommon`
 
-- **Favored Weapon**: The Pandemonia
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/covenants/the-pandemonia|The Pandemonia]]
 - **Price**: 3 gp
 - **Damage**: 1d6 B
 - **Bulk**: 1

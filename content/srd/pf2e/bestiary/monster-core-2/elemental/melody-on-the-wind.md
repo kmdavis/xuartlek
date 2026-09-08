@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Melody On The Wind"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Melody On The Wind"
 level: 10
 source: "Monster Core 2"
-aon_id: "creature-4381"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4381"
 ---
 

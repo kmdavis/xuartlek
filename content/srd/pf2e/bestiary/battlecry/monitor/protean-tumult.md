@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Protean Tumult"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Protean Tumult"
 level: 12
 source: "Battlecry!"
-aon_id: "creature-3932"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3932"
 ---
 
@@ -61,7 +59,7 @@ abilities_bot:
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
-    desc: "The protean tumult chooses [[srd/pf2e/compendium/equipment/materials/adamantine-object-high-grade|adamantine]], [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]], or [[srd/pf2e/compendium/equipment/materials/silver-object-high-grade|silver]]; the damage dealt by its Claws, Jaws, and Tails is treated as that material for 1 minute or until it uses Chaos Strike again."
+    desc: "The protean tumult chooses [[srd/pf2e/compendium/equipment/materials/adamantine|adamantine]], [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]], or [[srd/pf2e/compendium/equipment/materials/silver|silver]]; the damage dealt by its Claws, Jaws, and Tails is treated as that material for 1 minute or until it uses Chaos Strike again."
   - name: "Chaos Flux"
     desc: "A protean tumult is less organized and more vicious than most troops. It can move into other creatures' spaces, and other creatures can move into its spaces. Its spaces are difficult terrain to non-protean creatures. A creature that willingly moves into a protean tumult's space takes 1d12+1 bludgeoning, piercing, or slashing damage (DC 29 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save); a creature takes this damage only once per round. __Claws, Jaws, and Tails__"
   - name: "Frequency"

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/humanoid
 aliases: ["Humanoid"]
-aon_id: "trait-628"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=628"
 source: "Player Core"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Skeletal Hulk"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Skeletal Hulk"
 level: 7
 source: "Monster Core"
-aon_id: "creature-3197"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3197"
 ---
 

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class-feature
 tags:
 - compendium/src/pf2e/impossible-magic
 - class-feature/level/1
 aliases: ["Conflux Spells"]
-aon_id: "class-feature-1262"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=74"
 source: "Impossible Magic"
 ---
 

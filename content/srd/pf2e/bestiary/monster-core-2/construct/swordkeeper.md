@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Swordkeeper"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Swordkeeper"
 level: 10
 source: "Monster Core 2"
-aon_id: "creature-4574"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4574"
 ---
 
@@ -39,7 +37,7 @@ abilities_top:
   - name: "Central Weapon"
     desc: "A swordkeeper's torso houses a single weapon of a level no higher than the swordkeeper. While the swordkeeper is operational, the chamber requires four successful DC 32 [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Disable a Device|Disable a Device]] to open; on a critical failure, magical backlash deals 6d6 force damage (DC 30 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save) to the creature attempting the check. If the swordkeeper is [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]], [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]], [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]], or [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]], both DCs are reduced by 2. If the weapon is removed, the swordkeeper's echoblades vanish."
   - name: "Items"
-    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 striking]] [[srd/pf2e/compendium/equipment/runes/vitalizing-greater|vitalizing]] [[srd/pf2e/compendium/equipment/weapons/sword/longsword|longsword]]_"
+    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 striking]] [[srd/pf2e/compendium/equipment/runes/vitalizing|vitalizing]] [[srd/pf2e/compendium/equipment/weapons/sword/longsword|longsword]]_"
 ac: 29
 armorclass:
   - name: "AC"

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/oil
 - equipment/level/17
 aliases: ["Flame Layer Balm"]
-aon_id: "equipment-5090"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5090"
 source: "Impossible Magic"
 ---
 
@@ -16,7 +15,7 @@ source: "Impossible Magic"
 
 `Consumable`  `Magical`  `Oil`
 
-- **Price**: 3,000 gp
+- **Price**: 3, 000 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
 - **Activate**: [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])

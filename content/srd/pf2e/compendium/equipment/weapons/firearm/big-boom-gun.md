@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -10,7 +9,7 @@ tags:
 - trait/uncommon
 - weapon/level/1
 aliases: ["Big Boom Gun"]
-aon_id: "weapon-226"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=226"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -31,7 +30,7 @@ source: "Guns & Gears (Remastered)"
 - **Group**: Firearm
 - **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/firearm/firearm-ammunition-10-rounds|Firearm Ammunition (10 rounds)]]
 
-Developed by a goblin weaponsmith who missed the ‘hand' part of ‘hand cannon', this comically-oversized gun has a heavily reinforced barrel and is loaded with a worrisome quantity of gunpowder. This [[srd/pf2e/compendium/equipment/weapons/firearm/hand-cannon|hand cannon]] is a martial weapon, instead of a simple weapon. It has the fatal d12 trait and a range increment of 20 feet. It also has the following modified critical failure condition:
+Developed by a goblin weaponsmith who missed the ‘hand' part of ‘hand cannon', this comically-oversized gun has a heavily reinforced barrel and is loaded with a worrisome quantity of gunpowder. This hand cannon is a martial weapon, instead of a simple weapon. It has the fatal d12 trait and a range increment of 20 feet. It also has the following modified critical failure condition:
 
  **Critical Failure** The attack misses, the weapon misfires, and you take 1d12 fire damage as it explodes in your face. 
 

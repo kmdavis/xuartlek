@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/visual
 - spell/level/1
 aliases: ["Face in the Crowd"]
-aon_id: "spell-1784"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1784"
 source: "Player Core"
 ---
 

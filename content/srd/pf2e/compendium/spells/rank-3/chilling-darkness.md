@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -11,7 +10,7 @@ tags:
 - trait/unholy
 - spell/level/3
 aliases: ["Chilling Darkness"]
-aon_id: "spell-1464"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1464"
 source: "Player Core"
 ---
 
@@ -20,7 +19,7 @@ source: "Player Core"
 `Attack`  `Cold`  `Concentrate`  `Darkness`  `Manipulate`  `Unholy`
 
 - **Tradition**: Divine
-- **Lesson**: Lesson of Shadow
+- **Lesson**: [[srd/pf2e/compendium/character/lessons#Lesson of Shadow|Lesson of Shadow]]
 - **Range**: 120 feet
 - **Target**: 1 creature
 - **Defense**: AC

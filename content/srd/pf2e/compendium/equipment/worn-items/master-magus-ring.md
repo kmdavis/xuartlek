@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/invested
 - equipment/level/11
 aliases: ["Master Magus Ring"]
-aon_id: "equipment-2327"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2327"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -16,7 +15,7 @@ source: "Treasure Vault (Remastered)"
 
 `Arcane`  `Focused`  `Invested`
 
-- **Price**: 1,250 gp
+- **Price**: 1, 250 gp
 - **Usage**: worn
 
 Elegant jewelry such as the _master magus ring_ adorns experienced magi. Each ring has a significant metal and symbol to represent a particular hybrid study, such as a heavy iron ring with an icon of a mountain for inexorable iron, or glittering silver with a shield-like emblem for sparkling targe. You gain a +2 item bonus to [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] checks.

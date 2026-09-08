@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - siege-weapon/level/10
 aliases: ["Trebuchet"]
-aon_id: "siege-weapon-9"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=9"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -15,7 +14,7 @@ source: "Guns & Gears (Remastered)"
 
 `Mounted`  `Uncommon`
 
-- **Price**: 2,000 gp
+- **Price**: 2, 000 gp
 - **Ammunition**: stones (0 gp, 6 Bulk)
 
 **Usage** mounted

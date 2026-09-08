@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -11,7 +10,7 @@ tags:
 - trait/uncommon
 - spell/level/5
 aliases: ["Dragon Wings"]
-aon_id: "spell-2104"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2104"
 source: "Player Core 2"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core 2"
 
 `Concentrate`  `Focus`  `Manipulate`  `Morph`  `Sorcerer`  `Uncommon`
 
-- **Bloodline**: Draconic
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Draconic|Draconic]]
 - **Duration**: 1 minute
 
 Leathery wings sprout from your back, giving you a fly Speed of 60 feet or your Speed, whichever is faster. If you're still flying when this spell's duration would end, you float to the ground, with the effects of [[srd/pf2e/compendium/spells/rank-1/gentle-landing|_gentle landing_]].

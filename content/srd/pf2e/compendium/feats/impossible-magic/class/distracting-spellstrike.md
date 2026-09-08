@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/magus
 - feat/level/4
 aliases: ["Distracting Spellstrike"]
-aon_id: "feat-9053"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9053"
 source: "Impossible Magic"
 ---
 

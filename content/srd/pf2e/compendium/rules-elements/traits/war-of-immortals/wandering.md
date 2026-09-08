@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/war-of-immortals
 - trait/wandering
 aliases: ["Wandering"]
-aon_id: "trait-843"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=843"
 source: "War of Immortals"
 ---
 

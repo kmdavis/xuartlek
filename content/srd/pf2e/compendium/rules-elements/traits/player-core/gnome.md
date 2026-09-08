@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/gnome
 aliases: ["Gnome"]
-aon_id: "trait-617"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=617"
 source: "Player Core"
 ---
 

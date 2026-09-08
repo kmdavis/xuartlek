@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core
 aliases: ["Hag"]
-aon_id: "creature-family-425"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=425"
 source: "Monster Core"
 ---
 
@@ -22,7 +21,7 @@ Hags are dangerous enough on their own, but when they gather in threes to form c
 
 ### Hags and Children
 
-Hags are known to replace infant humanoids with their own offspring. These children are [[srd/pf2e/compendium/character/ancestries/changeling|changelings]] and have the potential to become hags themselves. Though hags are based on the fantasy villains of fairy tales, they can also touch on the all-too-real behavior of abusive adults. Consider and discuss whether hags are right for your group and game before using them. Pathfinder is for everyone, and it's not weak or selfish to avoid traumatic memories in a game that's meant to be played for fun!
+Hags are known to replace infant humanoids with their own offspring. These children are [[srd/pf2e/compendium/character/versatile-heritages/changeling|changelings]] and have the potential to become hags themselves. Though hags are based on the fantasy villains of fairy tales, they can also touch on the all-too-real behavior of abusive adults. Consider and discuss whether hags are right for your group and game before using them. Pathfinder is for everyone, and it's not weak or selfish to avoid traumatic memories in a game that's meant to be played for fun!
 
 ### Other Hags
 
@@ -34,6 +33,6 @@ Hags don’t have to be the main threat of an adventure. Heroes must sometimes s
 
 ### The Nature of Hags
 
-No one is entirely certain what hags are or where they came from. That no known male hags exist has also puzzled occult scholars. Many believe hags are a type of [[srd/pf2e/compendium/rules-elements/languages#Fey|fey]], since most of their kind have an aversion to [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]]. Yet hags seem to have no origin in the [[srd/pf2e/compendium/gm/planes#First World|First World]] that researchers have found. Some tales claim that hags were once creatures who made a series of powerful bargains with [[srd/pf2e/compendium/gm/creature-families/devil|devils]]. Though they outsmarted the fiends, they were still eventually corrupted.
+No one is entirely certain what hags are or where they came from. That no known male hags exist has also puzzled occult scholars. Many believe hags are a type of [[srd/pf2e/compendium/rules-elements/languages#Fey|fey]], since most of their kind have an aversion to [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]]. Yet hags seem to have no origin in the [[srd/pf2e/compendium/gm/planes#First World|First World]] that researchers have found. Some tales claim that hags were once creatures who made a series of powerful bargains with [[srd/pf2e/compendium/gm/creature-families/devil|devils]]. Though they outsmarted the fiends, they were still eventually corrupted.
 
 *Source: Monster Core p. 188*

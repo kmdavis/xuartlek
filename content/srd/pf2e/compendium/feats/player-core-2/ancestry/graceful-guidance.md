@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/catfolk
 - feat/level/5
 aliases: ["Graceful Guidance"]
-aon_id: "feat-5551"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5551"
 source: "Player Core 2"
 ---
 

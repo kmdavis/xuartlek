@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -10,7 +9,7 @@ tags:
 - trait/water
 - feat/level/1
 aliases: ["Tidal Hands"]
-aon_id: "feat-4268"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4268"
 source: "Rage of Elements"
 ---
 

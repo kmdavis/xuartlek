@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -7,7 +6,7 @@ tags:
 - trait/shadow
 - equipment/level/5
 aliases: ["Shadow"]
-aon_id: "equipment-2793"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2793"
 source: "GM Core"
 ---
 

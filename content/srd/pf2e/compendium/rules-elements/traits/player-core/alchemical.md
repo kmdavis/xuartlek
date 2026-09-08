@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/alchemical
 aliases: ["Alchemical"]
-aon_id: "trait-528"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=528"
 source: "Player Core"
 ---
 

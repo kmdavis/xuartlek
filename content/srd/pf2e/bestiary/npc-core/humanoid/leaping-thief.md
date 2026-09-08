@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Leaping Thief"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Leaping Thief"
 level: 3
 source: "NPC Core"
-aon_id: "creature-3623"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3623"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [0, 4, 2, 1, 0, 3]
 abilities_top:
   - name: "Items"
-    desc: "Claw Blade, Leather Armor, [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit-infiltrator-picks|Thieves' Toolkit]]"
+    desc: "Claw Blade, Leather Armor, [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit|Thieves' Toolkit]]"
 ac: 20
 armorclass:
   - name: "AC"

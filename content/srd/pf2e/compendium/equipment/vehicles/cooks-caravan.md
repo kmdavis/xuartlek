@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/battlecry
 - trait/rare
 - vehicle/level/20
 aliases: ["Cook's Caravan"]
-aon_id: "vehicle-100"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=100"
 source: "Battlecry!"
 ---
 
@@ -14,7 +13,7 @@ source: "Battlecry!"
 
 `Rare`
 
-- **Price**: 270,000 gp
+- **Price**: 270, 000 gp
 
 An army travels on its stomach, and this wagon train is designed to keep that stomach full. Composed of five heavy wagons connected via a series of flexible corridors, this caravan carries provisions and provides dining services for troops. The lead and middle wagons contain full-service galleys while the second and fourth wagons are stocked to the brim with foodstuffs. The last wagon in the caravan contains a boiler and scullery services for cleaning kitchen utensils and dishes. On the roof of each wagon is an herb garden to ensure a fresh supply for all meals, and mounted beneath all wagons are water and beer storage. Each cook’s caravan carries enough supplies to feed its crew, passengers, 12 Large creatures, and 500 soldiers for a month before needing to be restocked.
 

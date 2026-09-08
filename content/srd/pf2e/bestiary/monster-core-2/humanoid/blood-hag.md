@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Blood Hag"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Blood Hag"
 level: 8
 source: "Monster Core 2"
-aon_id: "creature-4435"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4435"
 ---
 
@@ -48,7 +46,7 @@ armorclass:
 hp: 155
 health:
   - name: "HP"
-    desc: "155; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 10; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 10"
+    desc: "155; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 10; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 10"
 speed: "25 feet"
 attacks:
   - name: "Melee"

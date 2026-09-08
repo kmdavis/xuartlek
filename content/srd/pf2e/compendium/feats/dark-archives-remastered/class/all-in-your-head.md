@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/psychic
 - feat/level/18
 aliases: ["All in your Head"]
-aon_id: "feat-8346"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8346"
 source: "Dark Archives (Remastered)"
 ---
 

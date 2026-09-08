@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Dhampir Wizard"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Dhampir Wizard"
 level: 2
 source: "Monster Core"
-aon_id: "creature-2913"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=2913"
 ---
 

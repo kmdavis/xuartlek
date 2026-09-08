@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/player-core
 - trait/rare
 - ritual/level/10
 aliases: ["Wish"]
-aon_id: "ritual-125"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=125"
 source: "Player Core"
 ---
 
@@ -15,10 +14,10 @@ source: "Player Core"
 `Rare`
 
 - **Cast**: 1 day
-- **Cost**: fine ash, magically imbued pigments, and a gem in a marquise cut worth 100,000 gp in total
+- **Cost**: fine ash, magically imbued pigments, and a gem in a marquise cut worth 100, 000 gp in total
 - **Secondary Casters**: 2
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] (legendary), [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (legendary), [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (legendary), or [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] (legendary)
-- **Secondary Checks**: Crafting , Diplomacy
+- **Secondary Checks**: Crafting, Diplomacy
 - **Range**: 10 feet
 - **Target(s)**: 1 creature
 

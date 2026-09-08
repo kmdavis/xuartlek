@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
 tags:
 - compendium/src/pf2e/gm-core
@@ -7,7 +6,7 @@ tags:
 - trait/trap
 - hazard/level/1
 aliases: ["Poisoned Lock"]
-aon_id: "hazard-477"
+aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=477"
 source: "GM Core"
 ---
 

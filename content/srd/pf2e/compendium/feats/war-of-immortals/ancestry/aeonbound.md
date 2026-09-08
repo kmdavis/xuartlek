@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -7,7 +6,7 @@ tags:
 - trait/nephilim
 - feat/level/1
 aliases: ["Aeonbound"]
-aon_id: "feat-7195"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7195"
 source: "War of Immortals"
 ---
 
@@ -15,7 +14,7 @@ source: "War of Immortals"
 
 `Lineage`  `Nephilim`
 
-Your lineage is influenced or directly tied to the supernatural inhabitants of the Perfect City of Axis, a realm of pure and absolute order. This energy suffuses your body and helps it maintain coherency, resisting effects that would undermine your function or mar your otherwise orderly form. You and your allies can [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Wounds|Treat your Wounds]] without a [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit-expanded|healer's toolkit]]. Once per day, when someone rolls a failure or a critical failure on a check to Treat your Wounds, you can focus on your internal cohesion to increase the degree of success by one step.
+Your lineage is influenced or directly tied to the supernatural inhabitants of the Perfect City of Axis, a realm of pure and absolute order. This energy suffuses your body and helps it maintain coherency, resisting effects that would undermine your function or mar your otherwise orderly form. You and your allies can [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Wounds|Treat your Wounds]] without a [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit|healer's toolkit]]. Once per day, when someone rolls a failure or a critical failure on a check to Treat your Wounds, you can focus on your internal cohesion to increase the degree of success by one step.
 
 ### Aeonbound leads to...
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -12,7 +11,7 @@ tags:
 - trait/skill
 - feat/level/1
 aliases: ["Bon Mot"]
-aon_id: "feat-6466"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6466"
 source: "Player Core 2"
 ---
 

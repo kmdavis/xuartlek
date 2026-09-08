@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/combination
 - weapon/level/1
 aliases: ["Hammer Gun (Melee)"]
-aon_id: "weapon-219--melee"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=219"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -24,7 +23,7 @@ source: "Guns & Gears (Remastered)"
 - **Hands**: 2
 - **Category**: Martial
 
-This weapon, favored by dwarves and those who like smashing and shooting, takes the form of a stoutly built gun designed similarly to an [[srd/pf2e/compendium/equipment/weapons/firearm/arquebus|arquebus]] with a hammer head built into the muzzle, decreasing kickback but limiting range.
+This weapon, favored by dwarves and those who like smashing and shooting, takes the form of a stoutly built gun designed similarly to an arquebus with a hammer head built into the muzzle, decreasing kickback but limiting range.
 
 ### Melee
 

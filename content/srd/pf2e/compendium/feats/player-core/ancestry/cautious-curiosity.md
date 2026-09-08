@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/gnome
 - feat/level/9
 aliases: ["Cautious Curiosity"]
-aon_id: "feat-4432"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4432"
 source: "Player Core"
 ---
 

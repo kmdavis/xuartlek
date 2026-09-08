@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
@@ -8,7 +7,7 @@ tags:
 - trait/whetstone
 - equipment/level/3
 aliases: ["Ethereal Crescent"]
-aon_id: "equipment-3880"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3880"
 source: "Battlecry!"
 ---
 
@@ -32,6 +31,6 @@ This crescent-shaped shard of iridescent metal is strangely translucent, fading 
 
 ---
 
-A weapon under the effects of a _greater ethereal crescent_ gains the effects of an [[srd/pf2e/compendium/equipment/runes/astral-greater|astral]] rune for 1 minute. This does not count against the weapon’s normal maximum number of runes.
+A weapon under the effects of a _greater ethereal crescent_ gains the effects of an [[srd/pf2e/compendium/equipment/runes/astral|astral]] rune for 1 minute. This does not count against the weapon’s normal maximum number of runes.
 
 *Source: Battlecry! p. 135*

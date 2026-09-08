@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/mental
 - spell/level/5
 aliases: ["Dreaming Potential"]
-aon_id: "spell-1504"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1504"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Mental`
 
 - **Tradition**: Occult
-- **Deities**: Aegirran, Arshea, Bharnarol, Desna, Granduncle Taproot, Saloc, Shei, The Anointing of Kings, Tlehar
+- **Deities**: [[srd/pf2e/compendium/deities/giant-gods/aegirran|Aegirran]], [[srd/pf2e/compendium/deities/empyreal-lords/arshea|Arshea]], [[srd/pf2e/compendium/deities/empyreal-lords/bharnarol|Bharnarol]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/desna|Desna]], Granduncle Taproot, [[srd/pf2e/compendium/deities/monitor-demigods/saloc|Saloc]], Shei, The Anointing of Kings, Tlehar
 - **Cast**: 10 minutes
 - **Range**: touch
 - **Target**: 1 willing sleeping creature

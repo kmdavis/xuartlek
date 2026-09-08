@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/mechanical
 aliases: ["Mechanical"]
-aon_id: "trait-646"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=646"
 source: "Player Core"
 ---
 

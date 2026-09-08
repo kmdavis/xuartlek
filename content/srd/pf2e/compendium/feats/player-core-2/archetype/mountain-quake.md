@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/monk
 - feat/level/14
 aliases: ["Mountain Quake"]
-aon_id: "feat-6033"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6033"
 source: "Player Core 2"
 ---
 
@@ -14,7 +13,7 @@ source: "Player Core 2"
 
 `Monk`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/martial-artist|Martial Artist]] (Level 16), [[srd/pf2e/compendium/character/archetypes/martial-artist|Martial Artist]] (Level 16)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/martial-artist|Martial Artist]] (Level 16)
 - **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/mountain-stronghold|Mountain Stronghold]]
 - **Requirements**: You are in Mountain Stance.
 

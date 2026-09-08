@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/thaumaturge
 - feat/level/1
 aliases: ["Divine Disharmony"]
-aon_id: "feat-8355"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8355"
 source: "Dark Archives (Remastered)"
 ---
 

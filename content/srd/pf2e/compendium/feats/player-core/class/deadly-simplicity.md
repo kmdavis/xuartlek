@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/cleric
 - feat/level/1
 aliases: ["Deadly Simplicity"]
-aon_id: "feat-4642"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4642"
 source: "Player Core"
 ---
 

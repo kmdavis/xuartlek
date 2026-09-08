@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 - trait/aftermath
 aliases: ["Aftermath"]
-aon_id: "trait-896"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=896"
 source: "Dark Archives (Remastered)"
 ---
 

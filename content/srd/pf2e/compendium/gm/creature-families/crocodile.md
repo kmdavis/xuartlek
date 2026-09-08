@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core
 aliases: ["Crocodile"]
-aon_id: "creature-family-384"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=384"
 source: "Monster Core"
 ---
 

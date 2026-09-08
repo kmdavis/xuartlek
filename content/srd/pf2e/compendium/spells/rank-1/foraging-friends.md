@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/1
 aliases: ["Foraging Friends"]
-aon_id: "spell-1952"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1952"
 source: "Howl of the Wild"
 ---
 

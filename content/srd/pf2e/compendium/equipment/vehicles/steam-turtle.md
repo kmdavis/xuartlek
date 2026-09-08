@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/battlecry
 - trait/rare
 - vehicle/level/16
 aliases: ["Steam Turtle"]
-aon_id: "vehicle-115"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=115"
 source: "Battlecry!"
 ---
 
@@ -14,7 +13,7 @@ source: "Battlecry!"
 
 `Rare`
 
-- **Price**: 30,000 gp
+- **Price**: 30, 000 gp
 
 This heavily armored aquatic vehicle resembles a gargantuan sea turtle covered with steel plates. The steam turtle is designed for beach landings and assaults on port facilities. Once it disables enemy fortifications, it extends a long boarding gangplank for troops to disembark and deploy.
 

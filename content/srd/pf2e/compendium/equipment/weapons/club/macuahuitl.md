@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -9,7 +8,7 @@ tags:
 - trait/versatile
 - weapon/level/0
 aliases: ["Macuahuitl"]
-aon_id: "weapon-511"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=511"
 source: "War of Immortals"
 ---
 
@@ -17,7 +16,7 @@ source: "War of Immortals"
 
 `Backswing`  `Tearing`  `Uncommon`  `Versatile`
 
-- **Favored Weapon**: Ah Pook, Xiquiripat, Ytildos
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/other-gods/ah-pook|Ah Pook]], Xiquiripat, Ytildos
 - **Price**: 3 gp
 - **Damage**: 1d8 S
 - **Bulk**: 1

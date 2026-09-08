@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/forceful
 aliases: ["Forceful"]
-aon_id: "trait-611"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=611"
 source: "Player Core"
 ---
 

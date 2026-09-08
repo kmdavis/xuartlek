@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/visual
 - spell/level/1
 aliases: ["Illusory Object"]
-aon_id: "spell-1569"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1569"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Concentrate`  `Illusion`  `Manipulate`  `Visual`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Abadar, Phlegyas, Vapula
+- **Deities**: [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/abadar|Abadar]], [[srd/pf2e/compendium/deities/monitor-demigods/phlegyas|Phlegyas]], [[srd/pf2e/compendium/deities/infernal-dukes/vapula|Vapula]]
 - **Range**: 500 feet
 - **Area**: 20-foot burst
 - **Duration**: 10 minutes

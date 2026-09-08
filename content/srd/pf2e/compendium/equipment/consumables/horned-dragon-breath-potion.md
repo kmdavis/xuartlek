@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/secrets-of-the-unlit-star-game-masters-guide
@@ -9,7 +8,7 @@ tags:
 - trait/potion
 - equipment/level/5
 aliases: ["Horned Dragon Breath Potion"]
-aon_id: "equipment-4348"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4348"
 source: "Secrets of the Unlit Star Game Master's Guide"
 ---
 

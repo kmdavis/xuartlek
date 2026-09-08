@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/water
 - spell/level/5
 aliases: ["Wall of Ice"]
-aon_id: "spell-1750"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1750"
 source: "Player Core"
 ---
 

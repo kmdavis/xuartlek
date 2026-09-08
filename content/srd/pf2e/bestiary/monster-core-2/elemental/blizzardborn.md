@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Blizzardborn"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Blizzardborn"
 level: 6
 source: "Monster Core 2"
-aon_id: "creature-4392"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4392"
 ---
 

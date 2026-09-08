@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-adjustment
 tags:
 - compendium/src/pf2e/npc-core
 aliases: ["Tripkee"]
-aon_id: "creature-adjustment-55"
+aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=55"
 source: "NPC Core"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Nightmare"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Nightmare"
 level: 6
 source: "Monster Core"
-aon_id: "creature-3105"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3105"
 ---
 

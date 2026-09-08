@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
@@ -8,7 +7,7 @@ tags:
 - trait/unstable
 - feat/level/6
 aliases: ["Siege Celerity"]
-aon_id: "feat-7961"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7961"
 source: "Battlecry!"
 ---
 
@@ -20,6 +19,6 @@ source: "Battlecry!"
 - **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/munitions-master-dedication|Munitions Master Dedication]]
 - **Trigger**: Your turn begins.
 
-You push yourself and your light mortar beyond your limits. You are quickened for this turn. You can use the extra action to Load or Launch your light mortar. This doesn't allow you to bypass the normal limit of one Launch per round.
+You push yourself and your [[srd/pf2e/compendium/character/innovations#Light Mortar|light mortar]] beyond your limits. You are quickened for this turn. You can use the extra action to Load or Launch your light mortar. This doesn't allow you to bypass the normal limit of one Launch per round.
 
 *Source: Battlecry! p. 65*

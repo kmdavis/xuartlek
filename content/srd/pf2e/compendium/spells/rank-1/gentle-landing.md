@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/concentrate
 - spell/level/1
 aliases: ["Gentle Landing"]
-aon_id: "spell-1542"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1542"
 source: "Player Core"
 ---
 
@@ -16,8 +15,8 @@ source: "Player Core"
 `Air`  `Concentrate`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Adanye, Andoletta, Ma’at, Malthus, Ylimancha
-- **Patron Theme**: Whisper of Wings
+- **Deities**: Adanye, [[srd/pf2e/compendium/deities/empyreal-lords/andoletta|Andoletta]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/maat|Ma’at]], [[srd/pf2e/compendium/deities/infernal-dukes/malthus|Malthus]], [[srd/pf2e/compendium/deities/empyreal-lords/ylimancha|Ylimancha]]
+- **Patron Theme**: [[srd/pf2e/compendium/character/patrons#Whisper of Wings|Whisper of Wings]]
 - **Trigger**: A creature within range is falling
 - **Range**: 60 feet
 - **Target**: 1 falling creature

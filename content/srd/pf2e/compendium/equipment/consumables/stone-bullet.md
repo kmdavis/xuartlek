@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -7,7 +6,7 @@ tags:
 - trait/magical
 - equipment/level/15
 aliases: ["Stone Bullet"]
-aon_id: "equipment-2928"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2928"
 source: "GM Core"
 ---
 
@@ -15,7 +14,7 @@ source: "GM Core"
 
 `Consumable`  `Magical`
 
-- **Price**: 1,300 gp
+- **Price**: 1, 300 gp
 - **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/sling/sling-bullets|sling bullet]]
 - **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 

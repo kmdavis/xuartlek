@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/mental
 - spell/level/2
 aliases: ["Paranoia"]
-aon_id: "spell-1623"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1623"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Concentrate`  `Illusion`  `Manipulate`  `Mental`
 
 - **Tradition**: Occult
-- **Deities**: Gyronna, Imot, Ongalte, Ulon
+- **Deities**: [[srd/pf2e/compendium/deities/dead-or-missing-deities/gyronna|Gyronna]], Imot, Ongalte, [[srd/pf2e/compendium/deities/azlanti-pantheon/ulon|Ulon]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will

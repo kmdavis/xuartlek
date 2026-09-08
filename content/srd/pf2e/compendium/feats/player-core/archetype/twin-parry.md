@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/ranger
 - feat/level/4
 aliases: ["Twin Parry"]
-aon_id: "feat-4796"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4796"
 source: "Player Core"
 ---
 
@@ -15,7 +14,7 @@ source: "Player Core"
 
 `Fighter`  `Ranger`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/dual-weapon-warrior|Dual-Weapon Warrior]] (Level 6), [[srd/pf2e/compendium/character/archetypes/dual-weapon-warrior|Dual-Weapon Warrior]] (Level 6), [[srd/pf2e/compendium/character/archetypes/avenger|Avenger]] (Level 6)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/dual-weapon-warrior|Dual-Weapon Warrior]] (Level 6), [[srd/pf2e/compendium/character/archetypes/avenger|Avenger]] (Level 6)
 - **Requirements**: You are wielding two melee weapons, one in each hand
 
 You use your two weapons to parry attacks. You gain a +1 circumstance bonus to AC until the start of your next turn, or a +2 circumstance bonus if either weapon has the parry trait. You lose this circumstance bonus if you no longer meet this feat’s requirement.

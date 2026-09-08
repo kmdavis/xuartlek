@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
 - trait/archetype
 - feat/level/4
 aliases: ["Rising Blood Magic"]
-aon_id: "feat-7241"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7241"
 source: "War of Immortals"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/3
 aliases: ["Sand Form"]
-aon_id: "spell-1340"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1340"
 source: "Rage of Elements"
 ---
 

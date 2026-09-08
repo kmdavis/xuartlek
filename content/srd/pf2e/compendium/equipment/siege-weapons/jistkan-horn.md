@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - siege-weapon/level/13
 aliases: ["Jistkan Horn"]
-aon_id: "siege-weapon-55"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=55"
 source: "Battlecry!"
 ---
 
@@ -15,8 +14,8 @@ source: "Battlecry!"
 
 `Mounted`  `Uncommon`
 
-- **Price**: 6,000 gp
-- **Ammunition**: [[srd/pf2e/compendium/equipment/alchemical-items/blasting-stone-major|moderate blasting stone]] (10 gp, L Bulk)
+- **Price**: 6, 000 gp
+- **Ammunition**: [[srd/pf2e/compendium/equipment/alchemical-items/blasting-stone|moderate blasting stone]] (10 gp, L Bulk)
 
 **Usage** mounted
 

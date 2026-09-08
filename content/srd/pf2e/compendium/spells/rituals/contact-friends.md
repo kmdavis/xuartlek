@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 - trait/uncommon
 - ritual/level/3
 aliases: ["Contact Friends"]
-aon_id: "ritual-226"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=226"
 source: "Dark Archives (Remastered)"
 ---
 

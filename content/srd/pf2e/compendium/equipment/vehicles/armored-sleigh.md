@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/battlecry
 - trait/uncommon
 - vehicle/level/17
 aliases: ["Armored Sleigh"]
-aon_id: "vehicle-97"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=97"
 source: "Battlecry!"
 ---
 
@@ -14,7 +13,7 @@ source: "Battlecry!"
 
 `Uncommon`
 
-- **Price**: 45,000 gp
+- **Price**: 45, 000 gp
 
 Designed to traverse frozen climates, armored sleighs are constructed from heavy oaken timbers covered with iron. These massive vehicles can readily traverse frozen and snow-covered ground while protecting the pilot and crew from the cold.
 

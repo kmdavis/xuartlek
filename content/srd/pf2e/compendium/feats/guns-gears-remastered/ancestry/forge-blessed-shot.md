@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - feat/level/17
 aliases: ["Forge-Blessed Shot"]
-aon_id: "feat-3292"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3292"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -17,7 +16,7 @@ source: "Guns & Gears (Remastered)"
 `Divine`  `Dwarf`  `Uncommon`
 
 - **Frequency**: once per day
-- **Prerequisites**: worshipper of Torag or Angradd
+- **Prerequisites**: worshipper of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/torag|Torag]] or [[srd/pf2e/compendium/deities/dwarven-gods/angradd|Angradd]]
 - **Access**: You are from Dongun Hold or Alkenstar.
 - **Trigger**: You attempt a ranged Strike.
 

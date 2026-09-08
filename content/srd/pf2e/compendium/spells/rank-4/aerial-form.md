@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/polymorph
 - spell/level/4
 aliases: ["Aerial Form"]
-aon_id: "spell-1437"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1437"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Polymorph`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Andoletta, Horus, Mother Vulture, Nephthys, Pazuzu, Ranginori, Tanagaar, Tjasse, Uvuko, Ylimancha
+- **Deities**: [[srd/pf2e/compendium/deities/empyreal-lords/andoletta|Andoletta]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/horus|Horus]], [[srd/pf2e/compendium/deities/monitor-demigods/mother-vulture|Mother Vulture]], Nephthys, [[srd/pf2e/compendium/deities/demon-lords/pazuzu|Pazuzu]], [[srd/pf2e/compendium/deities/elemental-lords/ranginori|Ranginori]], Tanagaar, [[srd/pf2e/compendium/deities/giant-gods/tjasse|Tjasse]], Uvuko, [[srd/pf2e/compendium/deities/empyreal-lords/ylimancha|Ylimancha]]
 - **Duration**: 1 minute
 
 You harness your mastery of the sky to reshape your body into a Medium flying animal battle form. When you Cast this Spell, choose a listed battle form. You can decide the specific type of animal (such as an owl or eagle for bird), but this has no effect on the form's Size or statistics. While in this form, you gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animal]] trait. You can Dismiss the spell.

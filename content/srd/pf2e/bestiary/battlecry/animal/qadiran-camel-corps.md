@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Qadiran Camel Corps"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Qadiran Camel Corps"
 level: 6
 source: "Battlecry!"
-aon_id: "creature-3933"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3933"
 ---
 

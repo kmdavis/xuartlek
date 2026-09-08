@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/poison
 - feat/level/13
 aliases: ["Cloak of Poison"]
-aon_id: "feat-4509"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4509"
 source: "Player Core"
 ---
 

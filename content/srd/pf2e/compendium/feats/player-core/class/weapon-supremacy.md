@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/fighter
 - feat/level/20
 aliases: ["Weapon Supremacy"]
-aon_id: "feat-4859"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4859"
 source: "Player Core"
 ---
 

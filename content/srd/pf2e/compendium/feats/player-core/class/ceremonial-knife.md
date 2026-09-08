@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/witch
 - feat/level/6
 aliases: ["Ceremonial Knife"]
-aon_id: "feat-5001"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5001"
 source: "Player Core"
 ---
 

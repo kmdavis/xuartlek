@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/3
 aliases: ["Bind Undead"]
-aon_id: "spell-1449"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1449"
 source: "Player Core"
 ---
 
@@ -16,7 +15,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`
 
 - **Traditions**: Arcane, Divine, Occult
-- **Bloodline**: Undead
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Undead|Undead]]
 - **Range**: 30 feet
 - **Target**: 1 mindless undead creature with a level no greater than bind undead ’s spell rank
 - **Duration**: 1 day

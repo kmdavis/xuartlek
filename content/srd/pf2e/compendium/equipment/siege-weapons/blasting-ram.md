@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - siege-weapon/level/7
 aliases: ["Blasting Ram"]
-aon_id: "siege-weapon-11"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=11"
 source: "Guns & Gears (Remastered)"
 ---
 

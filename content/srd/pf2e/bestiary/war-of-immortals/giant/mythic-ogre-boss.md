@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Mythic Ogre Boss"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Mythic Ogre Boss"
 level: 7
 source: "War of Immortals"
-aon_id: "creature-3401"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3401"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Mix Coatl"
 tags:
@@ -14,7 +13,6 @@ statblock: inline
 name: "Mix Coatl"
 level: 8
 source: "Monster Core 2"
-aon_id: "creature-4298"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4298"
 ---
 

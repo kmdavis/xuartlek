@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Ghostly Mob"
 tags:
@@ -15,7 +14,6 @@ statblock: inline
 name: "Ghostly Mob"
 level: 8
 source: "Monster Core 2"
-aon_id: "creature-4407"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4407"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Dero Strangler"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Dero Strangler"
 level: 3
 source: "Monster Core"
-aon_id: "creature-2903"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2903"
 ---
 
@@ -53,7 +51,7 @@ attacks:
   - name: "Melee"
     desc: "⬻ spiked chain +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/disarm|Disarm]], [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|Trip]]) __Damage__ 1d8+6 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ hand crossbow +10 (range increment 60 feet, reload 1) __Damage__ 1d6+2 piercing plus [[srd/pf2e/compendium/equipment/alchemical-items/lethargy-poison|lethargy poison]]"
+    desc: "⬻ hand crossbow +10 (range increment 60 feet, reload 1) __Damage__ 1d6+2 piercing plus lethargy poison"
 abilities_bot:
   - name: "Dero Medicine"
     desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/healing|Healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]])"

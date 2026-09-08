@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -9,7 +8,7 @@ tags:
 - trait/magical
 - equipment/level/4
 aliases: ["Compound Eyes"]
-aon_id: "equipment-3181"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3181"
 source: "Howl of the Wild"
 ---
 

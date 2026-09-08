@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
-- compendium/src/pf2e/gm-core
+- compendium/src/pf2e/player-core-2
 - trait/alchemical
 - trait/consumable
 - trait/injury
 - trait/poison
 - equipment/level/8
 aliases: ["Wyvern Poison"]
-aon_id: "equipment-2909"
-source: "GM Core"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3350"
+source: "Player Core 2"
 ---
 
 # Wyvern Poison  *Item 8*
@@ -22,7 +21,8 @@ source: "GM Core"
 - **Bulk**: L
 - **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-Properly harvested and preserved, the poison from a wyvern's sting is effective and direct.
- **Saving Throw** DC 26 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 3d6 poison damage (1 round); **Stage 2** 3d8 poison damage (1 round); **Stage 3** 3d10 poison damage (1 round)
+Properly harvested, distilled, and preserved, the poison from a wyvern's sting is effective and direct. 
 
-*Source: GM Core p. 250*
+**Saving Throw** DC 26 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 3d6 poison damage (1 round); **Stage 2** 3d8 poison damage (1 round); **Stage 3** 3d10 poison damage (1 round)
+
+*Source: Player Core 2 p. 294*

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/runesmith
 - feat/level/2
 aliases: ["Fortifying Knock"]
-aon_id: "feat-9177"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9177"
 source: "Impossible Magic"
 ---
 

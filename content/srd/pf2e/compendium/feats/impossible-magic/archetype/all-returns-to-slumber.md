@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -9,7 +8,7 @@ tags:
 - trait/sleep
 - feat/level/6
 aliases: ["All Returns to Slumber"]
-aon_id: "feat-9379"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9379"
 source: "Impossible Magic"
 ---
 

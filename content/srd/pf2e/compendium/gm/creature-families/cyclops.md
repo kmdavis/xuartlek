@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core
 aliases: ["Cyclops"]
-aon_id: "creature-family-385"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=385"
 source: "Monster Core"
 ---
 

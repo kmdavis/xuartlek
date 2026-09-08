@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/magus
 - feat/level/16
 aliases: ["Dispelling Spellstrike"]
-aon_id: "feat-9086"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9086"
 source: "Impossible Magic"
 ---
 

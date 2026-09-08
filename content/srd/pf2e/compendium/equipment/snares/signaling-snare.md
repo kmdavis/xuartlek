@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/player-core-2
@@ -9,7 +8,7 @@ tags:
 - trait/trap
 - equipment/level/1
 aliases: ["Signaling Snare"]
-aon_id: "equipment-3383"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3383"
 source: "Player Core 2"
 ---
 

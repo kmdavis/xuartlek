@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Smith"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Smith"
 level: 3
 source: "NPC Core"
-aon_id: "creature-3413"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3413"
 ---
 
@@ -38,7 +36,7 @@ abilities_top:
   - name: "Smithing Specialist"
     desc: "For encounters involving smithing or other crafting tasks, the smith is a 6th-level challenge."
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit-sterling|Artisan's Toolkit]], leather apron (functions as [[srd/pf2e/compendium/equipment/armor#Padded Armor|padded armor]]), light hammer"
+    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit|Artisan's Toolkit]], leather apron (functions as [[srd/pf2e/compendium/equipment/armor#Padded Armor|padded armor]]), light hammer"
 ac: 17
 armorclass:
   - name: "AC"

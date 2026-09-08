@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/concentrate
 - feat/level/16
 aliases: ["Resounding Finale"]
-aon_id: "feat-4630"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4630"
 source: "Player Core"
 ---
 

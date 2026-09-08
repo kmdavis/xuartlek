@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class-feature
 tags:
 - compendium/src/pf2e/impossible-magic
 - class-feature/level/1
 aliases: ["Runes"]
-aon_id: "class-feature-1312"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=76"
 source: "Impossible Magic"
 ---
 
@@ -27,7 +26,7 @@ Through meticulous study, you have carved the knowledge of secret runes into you
 
 #### Runic Magic
 
- Runes are magical effects. Some runes have a specific tradition trait; for instance, the elemental ranshu, rune of thunder is a primal rune. If a rune has the [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]] trait, you can choose to replace the magical trait with a specific tradition trait, provided you're trained in the skill matching that tradition. For instance, you could create an arcane _pluuna, rune of illumination_ if you were trained in [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]]. 
+ Runes are magical effects. Some runes have a specific tradition trait; for instance, the elemental ranshu, rune of thunder is a primal rune. If a rune has the [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]] trait, you can choose to replace the magical trait with a specific tradition trait, provided you're trained in the skill matching that tradition. For instance, you could create an arcane [[srd/pf2e/compendium/character/runesmith-runes#Pluuna, Rune of Illumination|_pluuna, rune of illumination_]] if you were trained in [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]]. 
 
 Though runes aren't spells, some things that affect spells also affect runes. Abilities that restrict you from casting spells (such as being [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorphed]] into a battle form) or protect against spells (such as a spell that protects against other spells or a creature's bonus to saves against spells) also apply to tracing or invoking runes, though you can continue to benefit from the effects of a rune that's already applied.
 

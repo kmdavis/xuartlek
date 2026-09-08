@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ancestry
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/tengu
 - trait/uncommon
 aliases: ["Tengu"]
-aon_id: "ancestry-83"
+aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=83"
 source: "Player Core 2"
 ---
 
@@ -33,7 +32,7 @@ The greatest divide in tengu society is between tengu remaining in their ancestr
 
 ### Alignment and Religion
 
-Tengu often follow the faith of the region in which they were raised, though the tengu ancestral deity is the storm god Hei Feng. Before their diaspora, tengu practiced a syncretic faith that blended a polytheistic worship of the deities responsible for creating the natural world. As tengu folklore posits that tengu long ago descended from the night sky on shooting stars to rest upon Golarion's highest peaks, animist rites were practiced on mountains and other great natural features.
+Tengu often follow the faith of the region in which they were raised, though the tengu ancestral deity is the storm god [[srd/pf2e/compendium/deities/tian-gods/hei-feng|Hei Feng]]. Before their diaspora, tengu practiced a syncretic faith that blended a polytheistic worship of the deities responsible for creating the natural world. As tengu folklore posits that tengu long ago descended from the night sky on shooting stars to rest upon Golarion's highest peaks, animist rites were practiced on mountains and other great natural features.
 
  **Popular Edicts** protect tengu traditions, adopt the lessons of other cultures, seek out natural wonders
  **Popular Anathema** lose control of your emotions

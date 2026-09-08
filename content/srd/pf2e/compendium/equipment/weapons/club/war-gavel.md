@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -7,7 +6,7 @@ tags:
 - trait/versatile
 - weapon/level/0
 aliases: ["War Gavel"]
-aon_id: "weapon-507"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=507"
 source: "War of Immortals"
 ---
 
@@ -15,7 +14,7 @@ source: "War of Immortals"
 
 `Uncommon`  `Versatile`
 
-- **Favored Weapon**: Dolok Darkfur
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/sarkorian-gods/dolok-darkfur|Dolok Darkfur]]
 - **Price**: 2 sp
 - **Damage**: 1d6 B
 - **Bulk**: 1

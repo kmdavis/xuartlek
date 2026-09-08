@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/inventor
 - feat/level/16
 aliases: ["Just the Thing!"]
-aon_id: "feat-3082"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3082"
 source: "Guns & Gears (Remastered)"
 ---
 

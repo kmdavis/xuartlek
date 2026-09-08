@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Shade"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Shade"
 level: 1
 source: "Monster Core 2"
-aon_id: "creature-4541"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4541"
 ---
 
@@ -87,7 +85,7 @@ attacks:
   - name: "Melee"
     desc: "⬻ fist +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/wood|wood]]) __Damage__ 1d8+2 bludgeoning __[[srd/pf2e/compendium/gm/planes#The Universe|Universe]] (The Remnants)__ These are among the rarest of shades; appearing as plain, bland versions of their mortal selves"
   - name: "Melee"
-    desc: "⬻ fist +7 __Damage__ 1d8+2 bludgeoning First World Shades A soul sent to the [[srd/pf2e/compendium/gm/planes#First World|First World]] doesn't become a shade. Rather, they immediately reincarnate into a [[srd/pf2e/compendium/rules-elements/traits/player-core/fey|fey]] creature whose temperament and role match their mortal personalities. This process tends to leave souls who incarnate into the First World with slightly more memories than most shades, yet still not enough that they remember who they once were. Other Shades Each plane (save the Void) has its own category of shade, but not every plane present in the Pathfinder setting is listed here. Certainly, planes of your own design aren't represented! You can use the wide range of types and descriptions here as inspiration for creating new shades: each needs a name, appearance, language, additional ability, and attack. For instance, Desna maintains a demiplane called Cynosure that straddles [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]] and [[srd/pf2e/compendium/gm/planes#Elysium|Elysium]]. Shades here are known as the chosen dreamers and appear as idealized, glowing versions of their mortal selves; they speak [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]], are immune to [[srd/pf2e/compendium/rules-elements/conditions#Confused|confusion]] and [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]], and deal bludgeoning damage with their fists."
+    desc: "⬻ fist +7 __Damage__ 1d8+2 bludgeoning First World Shades A soul sent to the [[srd/pf2e/compendium/gm/planes#First World|First World]] doesn't become a shade. Rather, they immediately reincarnate into a [[srd/pf2e/compendium/rules-elements/traits/player-core/fey|fey]] creature whose temperament and role match their mortal personalities. This process tends to leave souls who incarnate into the First World with slightly more memories than most shades, yet still not enough that they remember who they once were. Other Shades Each plane (save the Void) has its own category of shade, but not every plane present in the Pathfinder setting is listed here. Certainly, planes of your own design aren't represented! You can use the wide range of types and descriptions here as inspiration for creating new shades: each needs a name, appearance, language, additional ability, and attack. For instance, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/desna|Desna]] maintains a demiplane called Cynosure that straddles [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]] and [[srd/pf2e/compendium/gm/planes#Elysium|Elysium]]. Shades here are known as the chosen dreamers and appear as idealized, glowing versions of their mortal selves; they speak [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]], are immune to [[srd/pf2e/compendium/rules-elements/conditions#Confused|confusion]] and [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]], and deal bludgeoning damage with their fists."
 abilities_bot:
   - name: "Planar Incarnation"
     desc: "All shades are formed from and personify the nature of the plane on which they manifest, and their statistics are adjusted as summarized below. They also gain any trait associated with creatures from their plane."

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/oracle
 - feat/level/6
 aliases: ["Gifted Power"]
-aon_id: "feat-6064"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6064"
 source: "Player Core 2"
 ---
 

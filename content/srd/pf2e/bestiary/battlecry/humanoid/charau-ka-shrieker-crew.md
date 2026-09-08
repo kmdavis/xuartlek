@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Charau-Ka Shrieker Crew"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Charau-Ka Shrieker Crew"
 level: 8
 source: "Battlecry!"
-aon_id: "creature-3906"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3906"
 ---
 

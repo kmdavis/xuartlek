@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Gancanagh"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Gancanagh"
 level: 4
 source: "Monster Core"
-aon_id: "creature-2841"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2841"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [1, 5, 3, 2, 1, 5]
 abilities_top:
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/weapons/silver-weapon-high-grade|silver]][[srd/pf2e/compendium/equipment/weapons/sword/rapier|rapier]], [[srd/pf2e/compendium/equipment/adventuring-gear/musical-instrument-virtuoso-heavy|silver virtuoso flute]]"
+    desc: "[[srd/pf2e/compendium/equipment/weapons/silver-weapon|silver]][[srd/pf2e/compendium/equipment/weapons/sword/rapier|rapier]], [[srd/pf2e/compendium/equipment/adventuring-gear/musical-instrument|silver virtuoso flute]]"
 ac: 21
 armorclass:
   - name: "AC"

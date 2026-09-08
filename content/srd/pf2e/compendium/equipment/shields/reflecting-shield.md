@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - equipment/level/18
 aliases: ["Reflecting Shield"]
-aon_id: "equipment-2825"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2825"
 source: "GM Core"
 ---
 
@@ -15,7 +14,7 @@ source: "GM Core"
 
 `Magical`  `Uncommon`
 
-- **Price**: 18,000 gp
+- **Price**: 18, 000 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
 - **Base Shield**: [[srd/pf2e/compendium/equipment/shields#Buckler|Buckler]]

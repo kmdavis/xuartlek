@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/monster-core
@@ -9,7 +8,7 @@ tags:
 - trait/negative
 - equipment/level/12
 aliases: ["Soul Cage"]
-aon_id: "equipment-4347"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4347"
 source: "Monster Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Monster Core"
 
 `Arcane`  `Rare`  `Void`  `Negative`
 
-- **Price**: 1,600 gp
+- **Price**: 1, 600 gp
 - **Usage**: held in 1 hand
 
 This item is crafted by a spellcaster who wishes to become a lich. When a lich is destroyed, their soul flees to the _soul cage_. The soul cage then rebuilds the lich's undead body over the course of 1d10 days. Afterward, the lich manifests next to the _soul cage_, fully healed and in a new body (therefore, they lack any equipment they had on their old body). A lich's soul cage must be destroyed to prevent a lich from returning.

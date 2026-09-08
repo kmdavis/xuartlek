@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/swashbuckler
 - feat/level/2
 aliases: ["Brandishing Draw"]
-aon_id: "feat-6137"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6137"
 source: "Player Core 2"
 ---
 

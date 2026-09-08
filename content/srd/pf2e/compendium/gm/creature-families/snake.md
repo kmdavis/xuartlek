@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core
 aliases: ["Snake"]
-aon_id: "creature-family-473"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=473"
 source: "Monster Core"
 ---
 
@@ -26,6 +25,6 @@ Snakeskin's distinctive pattern and wide variety of applications make it a sough
 
 ### Snakes in Mythology
 
-Snakes appear frequently and prominently in the myths and legends of many cultures throughout the Inner Sea region. In Ancient Osirion, snakes were revered and associated both with the serpent god Apep and the goddess Wadjet, the Green Empress. Perhaps the best-known example of snakes in Golarion's legends are the [[srd/pf2e/compendium/gm/creature-families/serpentfolk|serpentfolk]], serpentine humanoids who ruled vast swaths of the world in prehistoric times and worshiped a foul snake deity called Ydersius.
+Snakes appear frequently and prominently in the myths and legends of many cultures throughout the Inner Sea region. In Ancient Osirion, snakes were revered and associated both with the serpent god Apep and the goddess Wadjet, the Green Empress. Perhaps the best-known example of snakes in Golarion's legends are the [[srd/pf2e/compendium/gm/creature-families/serpentfolk|serpentfolk]], serpentine humanoids who ruled vast swaths of the world in prehistoric times and worshiped a foul snake deity called [[srd/pf2e/compendium/deities/dead-or-missing-deities/ydersius|Ydersius]].
 
 *Source: Monster Core p. 316*

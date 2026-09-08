@@ -1,20 +1,20 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-mystery
 tags:
 - compendium/src/pf2e/dark-archives-remastered
+- compendium/src/pf2e/divine-mysteries
 - compendium/src/pf2e/player-core-2
 aliases: ["Mysteries"]
-entries: 10
+entries: 12
 ---
 
 # Mysteries
 
-## Ancestors  *Oracle Mystery*
+## Ancestors
 
 _**PFS Note** Any deities or character options which grant the _dreaming potential_ spell instead grant _illusory scene_._
 
-The voices of generations past speak to you, and you hear their words. You might resent the constant interruption, or you might revere the spirits of those who came before. Perhaps you hail from a culture with strong ancestral traditions, such as the Shoanti Skoan-Quah (Skull Clan), a traditional [[srd/pf2e/compendium/character/ancestries/dwarf|dwarven]] community that worships Torag’s family pantheon, or a group that reveres Erastil or Pharasma. You might commune with powerful [[srd/pf2e/compendium/rules-elements/traits/gm-core/psychopomp|psychopomps]] who shepherd souls to the afterlife, with the [[srd/pf2e/compendium/gm/planes#Boneyard|River of Souls]] itself, or with those spirits who have become trapped outside of the great cycle of spiritual rebirth. You learn from their whispers and the fragments of their memories, but opening your mind to their knowledge and experience also allows them to meddle in your worldly affairs.
+The voices of generations past speak to you, and you hear their words. You might resent the constant interruption, or you might revere the spirits of those who came before. Perhaps you hail from a culture with strong ancestral traditions, such as the Shoanti Skoan-Quah (Skull Clan), a traditional [[srd/pf2e/compendium/character/ancestries/dwarf|dwarven]] community that worships [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/torag|Torag’s]] family pantheon, or a group that reveres [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/erastil|Erastil]] or [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma]]. You might commune with powerful [[srd/pf2e/compendium/rules-elements/traits/gm-core/psychopomp|psychopomps]] who shepherd souls to the afterlife, with the [[srd/pf2e/compendium/gm/planes#Boneyard|River of Souls]] itself, or with those spirits who have become trapped outside of the great cycle of spiritual rebirth. You learn from their whispers and the fragments of their memories, but opening your mind to their knowledge and experience also allows them to meddle in your worldly affairs.
 
 **Mystery Skill**
 [[srd/pf2e/compendium/rules-elements/skills/society|Society]]
@@ -31,7 +31,7 @@ The voices of generations past speak to you, and you hear their words. You might
 
 **Greater Revelation Spell** [[srd/pf2e/compendium/spells/focus/ancestral-form|Ancestral Form]]
 
-**Related Domains** [[srd/pf2e/compendium/character/domains#Death|Death]], Duty, [[srd/pf2e/compendium/character/domains#Family|Family]], Soul
+**Related Domains** [[srd/pf2e/compendium/character/domains#Death|Death]], [[srd/pf2e/compendium/character/domains#Duty|Duty]], [[srd/pf2e/compendium/character/domains#Family|Family]], [[srd/pf2e/compendium/character/domains#Soul|Soul]]
 
 **Oracle Feat** [[srd/pf2e/compendium/feats/player-core-2/class/whispers-of-weakness|Whispers of Weakness]]
 
@@ -41,9 +41,48 @@ The ancestral spirits you commune with haunt you and meddle with your belongings
 
 *Source: Player Core 2 p. 135*
 
-## Battle  *Oracle Mystery*
+## Ash
 
-Warlike forces fill you with physical might and tactical knowledge, aiming to have you uphold the glory of combat, fight to improve the world, prepare against the necessity of conflict, or endure the inevitability of war. You might draw upon deities such as Gorum, Iomedae, Rovagug, the Horseman of War Szuriel, the Queen of the Night Eiseth, the Vudrani god Diomazul, and others, or you might find power in the unending conflict between the armies of [[srd/pf2e/compendium/gm/planes#Heaven|Heaven]] and [[srd/pf2e/compendium/gm/planes#Hell|Hell]], the Elemental Planes, the Outer Gods, or even the collective spirits of those who fought in wars over the ages.
+You see all things in the world as fleeting and temporary, waiting to be purified into their base essence: the ash left behind after a burning fire. While you understand fire as a necessary part of this process, you see it mostly as a tool to achieve final purity, not the true goal. You have much in common with oracles with the [[srd/pf2e/compendium/character/mysteries#Flames|flames]] mystery, but you may consider them to be shortsighted, or at best, simply lacking in understanding of the truths that their burning fires impart.
+
+You might see ash as the only true representation of the impermanent nature of life and its pointless existence. Alternatively, you may see the benefit ash can have on soils and farmlands as part of a larger cycle of death and rebirth. Perhaps you see the [[srd/pf2e/bestiary/monster-core/beast/phoenix|phoenix]], with its life cycle of being reduced to ash and reborn, as a sacred creature that has achieved a higher state of being and is worthy of imitation, or perhaps you see it as a tragic creature that can never reach the goal of perfection. If you follow a deity, you might follow gods of fire like [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/sarenrae|Sarenrae]], those who burn impurities to ash such as [[srd/pf2e/compendium/deities/other-gods/brigh|Brigh]] or [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/torag|Torag]], or those who strive to burn all things to ash, such as the archdevil Moloch or the demon lord Flauros.
+
+**Mystery Skill**
+[[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
+
+**Granted Spells**
+- **Cantrip** [[srd/pf2e/compendium/spells/cantrips/ignition|Ignition]]
+- **1st** [[srd/pf2e/compendium/spells/rank-1/breathe-fire|Breathe Fire]]
+- **2nd** [[srd/pf2e/compendium/spells/rank-2/mist|Mist]]
+- **6th** [[srd/pf2e/compendium/spells/rank-6/disintegrate|Disintegrate]]
+
+**Initial Revelation Spell** Ashen Wind
+
+**Advanced Revelation Spell** Incendiary Ashes
+
+**Greater Revelation Spell** Ash Form
+
+**Related Domains** [[srd/pf2e/compendium/character/domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/domains#Dust|Dust]], [[srd/pf2e/compendium/character/domains#Fire|Fire]], [[srd/pf2e/compendium/character/domains#Nothingness|Nothingness]]
+
+**Oracle Feat** [[srd/pf2e/compendium/feats/player-core-2/class/whispers-of-weakness|Whispers of Weakness]]
+
+### Curse Of Creeping Ashes
+
+Your body is slowly being consumed by the fires of your internal power, purifying you with each passing day. You are occasionally wracked with dry, wheezing coughs, and wherever you go you leave behind a fine trace of ash that falls from your body. 
+
+**Cursebound 1** You gain [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Weakness|weakness]] 2 to fire damage. Any [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance|immunity or resistance]] you have to [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] is suppressed. 
+
+**Cursebound 2** Swirling ash imposes a -2 circumstance penalty to ranged attack rolls you make.
+
+**Cursebound 3** Your weakness to fire damage is equal to 5 + your level.
+
+**Cursebound 4** You take a –10-foot status penalty to all your Speeds as your limbs begin to crumble like ash.
+
+*Source: Divine Mysteries p. 284*
+
+## Battle
+
+Warlike forces fill you with physical might and tactical knowledge, aiming to have you uphold the glory of combat, fight to improve the world, prepare against the necessity of conflict, or endure the inevitability of war. You might draw upon deities such as [[srd/pf2e/compendium/deities/dead-or-missing-deities/gorum|Gorum]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/iomedae|Iomedae]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/rovagug|Rovagug]], the Horseman of War Szuriel, the Queen of the Night Eiseth, the Vudrani god Diomazul, and others, or you might find power in the unending conflict between the armies of [[srd/pf2e/compendium/gm/planes#Heaven|Heaven]] and [[srd/pf2e/compendium/gm/planes#Hell|Hell]], the Elemental Planes, the Outer Gods, or even the collective spirits of those who fought in wars over the ages.
 
 **Mystery Skill**
 [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
@@ -78,9 +117,48 @@ You thrive in the thick of battle, but your mystery’s sheer focus on the physi
 
 *Source: Player Core 2 p. 135*
 
-## Bones  *Oracle Mystery*
+## Blight
 
-Your mystery imparts an understanding of death and undeath in all their macabre complexity. You might have had a brush with death yourself—maybe even dying and returning to life—or carry the touch of undeath in your blood. If you commune with deities, you might speak with guardians of death like Pharasma and the [[srd/pf2e/compendium/gm/creature-families/psychopomp|psychopomp ushers]] (the most powerful among creatures that guide souls through the afterlife); a bringer of death like the Mantis God Achaekek or the Horseman of the Apocalypse Charon; or a herald of undeath such as Urgathoa.
+A spring bud will wither, a mighty oak will crash to the forest floor, and a callow youth will grow into maturity, then decline into old age. You know none of these things are cause for alarm or sadness. Decay is an essential part of nature’s cycle, as the old pass away to make room for, or to nourish, the new. After all, the flower must fall for the seed to grow, and the toppled tree not only makes room for new saplings to flourish, but also forms a home for many types of flora, fauna, and fungi. Disease, poison, and rot—these are all tools to dispose of creatures that have come to the end of their usefulness that rest in your hands. You might wield them to bring an end to lingering suffering or to spread contagion over once-thriving lands. Well-meaning doctors, persistent healers, or zealous adventurers may try to stand in your way, but blight will spread in the end. 
+
+If you follow a deity, you might work toward the sinister ends of Rider of Disease [[srd/pf2e/compendium/deities/apocalypse-riders/apollyon|Apollyon]], the demon lord Cyth- V’sug, or the parasitic [[srd/pf2e/compendium/deities/other-gods/ghlaunder|Ghlaunder]]. You might find allies among followers of [[srd/pf2e/compendium/deities/other-gods/groetus|Groetus]] or the cults of the Outer Gods. If you see your calling as part of the cycle of existence, you might venerate monitor demigods such as [[srd/pf2e/compendium/deities/monitor-demigods/mother-vulture|Mother Vulture]] or commune with nature.
+
+**Mystery Skill**
+[[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
+
+**Granted Spells**
+- **Cantrip** [[srd/pf2e/compendium/spells/cantrips/caustic-blast|Caustic Blast]]
+- **1st** [[srd/pf2e/compendium/spells/rank-1/noxious-vapors|Noxious Vapors]]
+- **2nd** [[srd/pf2e/compendium/spells/rank-2/fungal-infestation|Fungal Infestation]]
+- **5th** [[srd/pf2e/compendium/spells/rank-5/toxic-cloud|Toxic Cloud]]
+
+**Initial Revelation Spell** [[srd/pf2e/compendium/spells/focus/ulcerous-canker|Ulcerous Canker]]
+
+**Advanced Revelation Spell** [[srd/pf2e/compendium/spells/focus/purging-toxins|Purging Toxins]]
+
+**Greater Revelation Spell** [[srd/pf2e/compendium/spells/focus/accelerated-decomposition|Accelerated Decomposition]]
+
+**Related Domains** [[srd/pf2e/compendium/character/domains#Death|Death]], [[srd/pf2e/compendium/character/domains#Decay|Decay]], [[srd/pf2e/compendium/character/domains#Disorientation|Disorientation]], [[srd/pf2e/compendium/character/domains#Plague|Plague]]
+
+**Oracle Feat** [[srd/pf2e/compendium/feats/player-core-2/class/whispers-of-weakness|Whispers of Weakness]]
+
+### Curse Of Inevitable Rot
+
+Your magic is a constant reminder that all creatures will eventually submit to the ravages of time and the environment. You are suffused with an aura of decay. Leaves wilt and insects fall out of the sky as you pass, silverware tarnishes in your hands, and the dregs of wine turn to vinegar in your goblet. 
+
+**Cursebound 1** You gain [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Weakness|weakness]] 2 to [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] damage. 
+
+**Cursebound 2** You take a –1 status penalty to saving throws against [[srd/pf2e/books/gm-core/chapter-2-building-games/afflictions#Diseases|diseases]] and poisons. In addition, anyone attempting to [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Disease|Treat your Disease]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Poison|Poison]], or [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Wounds|Wounds]] takes a –1 status penalty to the associated skill check. 
+
+**Cursebound 3** Your weakness to acid and poison damage increases to twice your level. 
+
+**Cursebound 4** Your status penalty to saving throws against diseases and poisons and the status penalty for anyone attempting to Treat your Disease, Poison, or Wounds increases to –2.
+
+*Source: Divine Mysteries p. 285*
+
+## Bones
+
+Your mystery imparts an understanding of death and undeath in all their macabre complexity. You might have had a brush with death yourself—maybe even dying and returning to life—or carry the touch of undeath in your blood. If you commune with deities, you might speak with guardians of death like [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma]] and the [[srd/pf2e/compendium/gm/creature-families/psychopomp|psychopomp ushers]] (the most powerful among creatures that guide souls through the afterlife); a bringer of death like the Mantis God Achaekek or the Horseman of the Apocalypse Charon; or a herald of undeath such as [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/urgathoa|Urgathoa]].
 
 **Mystery Skill**
 [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]]
@@ -97,7 +175,7 @@ Your mystery imparts an understanding of death and undeath in all their macabre 
 
 **Greater Revelation Spell** [[srd/pf2e/compendium/spells/focus/claim-undead|Claim Undead]]
 
-**Related Domains** [[srd/pf2e/compendium/character/domains#Death|Death]], Decay, [[srd/pf2e/compendium/character/domains#Undeath|Undeath]], Vigil
+**Related Domains** [[srd/pf2e/compendium/character/domains#Death|Death]], [[srd/pf2e/compendium/character/domains#Decay|Decay]], [[srd/pf2e/compendium/character/domains#Undeath|Undeath]], [[srd/pf2e/compendium/character/domains#Vigil|Vigil]]
 
 **Oracle Feat** [[srd/pf2e/compendium/feats/player-core-2/class/nudge-the-scales|Nudge the Scales]]
 
@@ -115,9 +193,9 @@ Your body is slowly decaying even though you are alive, and using your powers fu
 
 *Source: Player Core 2 p. 135*
 
-## Cosmos  *Oracle Mystery*
+## Cosmos
 
-Celestial bodies great and small exert influence on you, giving you sublime cosmic power. Perhaps you see the glittering stars as a divine blessing, or perhaps you feel drawn to the infinitely dark spaces between. You might uphold deities like Desna, Sarenrae, or the deific lovers Shizuru and Tsukiyo who represent the sun and the moon— or you might draw power from dark entities from beyond the stars, like certain Outer Gods, or destructive gods of the night like Zon-Kuthon or the rat goddess Lao Shu Po.
+Celestial bodies great and small exert influence on you, giving you sublime cosmic power. Perhaps you see the glittering stars as a divine blessing, or perhaps you feel drawn to the infinitely dark spaces between. You might uphold deities like [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/desna|Desna]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/sarenrae|Sarenrae]], or the deific lovers [[srd/pf2e/compendium/deities/tian-gods/shizuru|Shizuru]] and [[srd/pf2e/compendium/deities/tian-gods/tsukiyo|Tsukiyo]] who represent the sun and the moon— or you might draw power from dark entities from beyond the stars, like certain Outer Gods, or destructive gods of the night like [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/zon-kuthon|Zon-Kuthon]] or the rat goddess Lao Shu Po.
 
 **Mystery Skill**
 [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
@@ -134,7 +212,7 @@ Celestial bodies great and small exert influence on you, giving you sublime cosm
 
 **Greater Revelation Spell** [[srd/pf2e/compendium/spells/focus/moonlight-bridge|Moonlight Bridge]]
 
-**Related Domains** [[srd/pf2e/compendium/character/domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/domains#Moon|Moon]], Star, Nothingness
+**Related Domains** [[srd/pf2e/compendium/character/domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/domains#Moon|Moon]], [[srd/pf2e/compendium/character/domains#Star|Star]], [[srd/pf2e/compendium/character/domains#Nothingness|Nothingness]]
 
 **Oracle Feat** [[srd/pf2e/compendium/feats/player-core-2/class/oracular-warning|Oracular Warning]]
 
@@ -144,9 +222,9 @@ Your body is drawn toward the heavens, making you lighter and less substantial t
 
 *Source: Player Core 2 p. 136*
 
-## Flames  *Oracle Mystery*
+## Flames
 
-Fire lives at the center of the world, the center of the sun, and the center of civilization. You might revere this elemental force, siphon power from the [[srd/pf2e/compendium/gm/planes#Plane of Fire|Elemental Plane of Fire]], or venerate a collection of deities such as Asmodeus, Sarenrae, the Tian goddess of disasters and volcanoes Lady Nanbyo, or the elemental lord of fire Ymeri.
+Fire lives at the center of the world, the center of the sun, and the center of civilization. You might revere this elemental force, siphon power from the [[srd/pf2e/compendium/gm/planes#Plane of Fire|Elemental Plane of Fire]], or venerate a collection of deities such as [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/asmodeus|Asmodeus]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/sarenrae|Sarenrae]], the Tian goddess of disasters and volcanoes Lady Nanbyo, or the elemental lord of fire [[srd/pf2e/compendium/deities/elemental-lords/ymeri|Ymeri]].
 
 **Mystery Skill**
 [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]]
@@ -163,7 +241,7 @@ Fire lives at the center of the world, the center of the sun, and the center of 
 
 **Greater Revelation Spell** [[srd/pf2e/compendium/spells/focus/flaming-fusillade|Flaming Fusillade]]
 
-**Related Domains** Dust, [[srd/pf2e/compendium/character/domains#Fire|Fire]], Star, [[srd/pf2e/compendium/character/domains#Sun|Sun]]
+**Related Domains** [[srd/pf2e/compendium/character/domains#Dust|Dust]], [[srd/pf2e/compendium/character/domains#Fire|Fire]], [[srd/pf2e/compendium/character/domains#Star|Star]], [[srd/pf2e/compendium/character/domains#Sun|Sun]]
 
 **Oracle Feat** [[srd/pf2e/compendium/feats/player-core-2/class/foretell-harm|Foretell Harm]]
 
@@ -173,9 +251,9 @@ Fires flare noticeably (though not dangerously) in your presence, you occasional
 
 *Source: Player Core 2 p. 136*
 
-## Life  *Oracle Mystery*
+## Life
 
-The never-ending flow of life force within living beings is palpable to you. You might uphold the sanctity of life, or perhaps you seek to undermine it. You might draw power from the collective vitality of the world’s living creatures, hold some connection to [[srd/pf2e/compendium/gm/planes#Creation's Forge|Creation’s Forge]], or revere a collection of deities including Irori, Pharasma, Sarenrae, and the god of medicine Qi Zhong.
+The never-ending flow of life force within living beings is palpable to you. You might uphold the sanctity of life, or perhaps you seek to undermine it. You might draw power from the collective vitality of the world’s living creatures, hold some connection to [[srd/pf2e/compendium/gm/planes#Creation's Forge|Creation’s Forge]], or revere a collection of deities including [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/irori|Irori]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/sarenrae|Sarenrae]], and the god of medicine Qi Zhong.
 
 **Mystery Skill**
 [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]]
@@ -192,7 +270,7 @@ The never-ending flow of life force within living beings is palpable to you. You
 
 **Greater Revelation Spell** [[srd/pf2e/compendium/spells/focus/life-giving-form|Life-Giving Form]]
 
-**Related Domains** [[srd/pf2e/compendium/character/domains#Death|Death]], [[srd/pf2e/compendium/character/domains#Healing|Healing]], [[srd/pf2e/compendium/character/domains#Pain|Pain]], Soul
+**Related Domains** [[srd/pf2e/compendium/character/domains#Death|Death]], [[srd/pf2e/compendium/character/domains#Healing|Healing]], [[srd/pf2e/compendium/character/domains#Pain|Pain]], [[srd/pf2e/compendium/character/domains#Soul|Soul]]
 
 **Oracle Feat** [[srd/pf2e/compendium/feats/player-core-2/class/nudge-the-scales|Nudge the Scales]]
 
@@ -202,9 +280,9 @@ Life energy flows outward from you and connects you to all living things, but yo
 
 *Source: Player Core 2 p. 137*
 
-## Lore  *Oracle Mystery*
+## Lore
 
-Knowledge and information come freely to you. You might use this lore to gain power or perhaps to understand the divine mysteries of the multiverse. You might have a conduit to the fabled Akashic Record, maintain a subtle telepathic connection to the collective subconscious of all living creatures, or follow in the footsteps of deities such as Abadar, Irori, Nethys, Irori’s scholarly nephew Gruhastha, the fey triune goddess of fate Magdh, or the aeon god figure known as the Monad.
+Knowledge and information come freely to you. You might use this lore to gain power or perhaps to understand the divine mysteries of the multiverse. You might have a conduit to the fabled Akashic Record, maintain a subtle telepathic connection to the collective subconscious of all living creatures, or follow in the footsteps of deities such as [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/abadar|Abadar]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/irori|Irori]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/nethys|Nethys]], Irori’s scholarly nephew [[srd/pf2e/compendium/deities/other-gods/gruhastha|Gruhastha]], the fey triune goddess of fate [[srd/pf2e/compendium/deities/eldest/magdh|Magdh]], or the aeon god figure known as the Monad.
 
 **Mystery Skill**
 [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
@@ -232,9 +310,9 @@ You have a link to true divine knowledge, but your mortal mind struggles to proc
 
 *Source: Player Core 2 p. 137*
 
-## Tempest  *Oracle Mystery*
+## Tempest
 
-The fury of the wind and waves pounds in your heart, whether your power flows from natural storms, a conduit to the elemental Planes of [[srd/pf2e/compendium/gm/planes#Plane of Air|Air]] and [[srd/pf2e/compendium/gm/planes#Plane of Water|Water]], or through reverence of deities such as Gozreh, the tengu god of storms Hei Feng, the pirate queen Besmara, or the elemental lords of air and water.
+The fury of the wind and waves pounds in your heart, whether your power flows from natural storms, a conduit to the elemental Planes of [[srd/pf2e/compendium/gm/planes#Plane of Air|Air]] and [[srd/pf2e/compendium/gm/planes#Plane of Water|Water]], or through reverence of deities such as [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/gozreh|Gozreh]], the tengu god of storms [[srd/pf2e/compendium/deities/tian-gods/hei-feng|Hei Feng]], the pirate queen Besmara, or the elemental lords of air and water.
 
 **Mystery Skill**
 [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
@@ -251,7 +329,7 @@ The fury of the wind and waves pounds in your heart, whether your power flows fr
 
 **Greater Revelation Spell** [[srd/pf2e/compendium/spells/focus/tempest-form|Tempest Form]]
 
-**Related Domains** [[srd/pf2e/compendium/character/domains#Air|Air]], Cold, Lightning, [[srd/pf2e/compendium/character/domains#Water|Water]]
+**Related Domains** [[srd/pf2e/compendium/character/domains#Air|Air]], [[srd/pf2e/compendium/character/domains#Cold|Cold]], [[srd/pf2e/compendium/character/domains#Lightning|Lightning]], [[srd/pf2e/compendium/character/domains#Water|Water]]
 
 **Oracle Feat** [[srd/pf2e/compendium/feats/player-core-2/class/foretell-harm|Foretell Harm]]
 
@@ -269,9 +347,9 @@ The weather seems to always oppose you in ways large and small. Even when you ar
 
 *Source: Player Core 2 p. 137*
 
-## Time  *Oracle Mystery*
+## Time
 
-Whether by accident, fate, or purposeful meddling, you exist slightly outside of time. While initially unmoored by moments, the countless march of milliseconds builds up to drift you further and further out of sync with your natural timeline, often in contradictory directions. You might view this as a blessing, perhaps as a sign you’re somehow beyond mortality or you can’t be contained within reality’s limitations, or you might view it as a cruel curse that causes your life to slip by adrift even as you gain power over time. Many oracles of time are without faith and either come to rely upon their own instincts to survive or turn to strange rituals and forbidden magic in attempts to break free of time’s grasp. Those oracles who worship deities most often venerate Pharasma, goddess of fate who sees all possible futures for all who ever lived, or Alseta, goddess of transitions and the passage through time.
+Whether by accident, fate, or purposeful meddling, you exist slightly outside of time. While initially unmoored by moments, the countless march of milliseconds builds up to drift you further and further out of sync with your natural timeline, often in contradictory directions. You might view this as a blessing, perhaps as a sign you’re somehow beyond mortality or you can’t be contained within reality’s limitations, or you might view it as a cruel curse that causes your life to slip by adrift even as you gain power over time. Many oracles of time are without faith and either come to rely upon their own instincts to survive or turn to strange rituals and forbidden magic in attempts to break free of time’s grasp. Those oracles who worship deities most often venerate [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma]], goddess of fate who sees all possible futures for all who ever lived, or [[srd/pf2e/compendium/deities/other-gods/alseta|Alseta]], goddess of transitions and the passage through time.
 
 **Mystery Skill**
 [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
@@ -288,7 +366,7 @@ Whether by accident, fate, or purposeful meddling, you exist slightly outside of
 
 **Greater Revelation Spell** Manifold Lives
 
-**Related Domains** Change, [[srd/pf2e/compendium/character/domains#Fate|Fate]], Nothingness, Time
+**Related Domains** [[srd/pf2e/compendium/character/domains#Change|Change]], [[srd/pf2e/compendium/character/domains#Fate|Fate]], [[srd/pf2e/compendium/character/domains#Nothingness|Nothingness]], [[srd/pf2e/compendium/character/domains#Time|Time]]
 
 **Oracle Feat** [[srd/pf2e/compendium/feats/player-core-2/class/oracular-warning|Oracular Warning]]
 
@@ -296,9 +374,9 @@ Whether by accident, fate, or purposeful meddling, you exist slightly outside of
 
 Time passes differently for you than for everyone else. You experience fluxes that might manifest as minor day-to-day changes in your apparent age, such as a gray lock of hair or a disappearing wrinkle, or as occasional ghostly temporal afterimages that slightly trail your movement. As you become more affected by your curse, time’s passage becomes more disjointed for you, making it difficult for you to react to the quick actions of others. You take a status penalty to your AC against attacks made against you from reactions or free actions and a status penalty to saving throws against effects that would make you [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]] or [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] equal to your cursebound value.
 
-*Source: Dark Archives (Remastered) p. 188*
+*Source: Divine Mysteries p. 286*
 
-## Time  *Oracle Mystery*
+## Time
 
 While initially unmoored by moments, the countless march of milliseconds builds up to drift you further and further out of sync with your natural timeline, often in contradictory directions. You might view this as a blessing, perhaps as a sign you're somehow beyond mortality or you can't be contained within reality's limitations, or you might view it as a cruel curse that causes your life to slip by adrift even as you gain power over time. Many oracles of time are without faith and either come to rely upon their own instincts to survive or turn to strange rituals and forbidden magic in attempts to break free of time's grasp. Those oracles who worship deities most often venerate Pharasma, goddess of fate who sees all possible futures for all who ever lived, or Alseta, goddess of transitions and the passage through time.
 
@@ -317,7 +395,7 @@ While initially unmoored by moments, the countless march of milliseconds builds 
 
 **Greater Revelation Spell** Manifold Lives
 
-**Related Domains** Change, [[srd/pf2e/compendium/character/domains#Fate|Fate]], Nothingness, Time
+**Related Domains** [[srd/pf2e/compendium/character/domains#Change|Change]], [[srd/pf2e/compendium/character/domains#Fate|Fate]], [[srd/pf2e/compendium/character/domains#Nothingness|Nothingness]], [[srd/pf2e/compendium/character/domains#Time|Time]]
 
 **Oracle Feat** [[srd/pf2e/compendium/feats/dark-archives-remastered/class/trance-of-celerity|Trance of Celerity]]
 

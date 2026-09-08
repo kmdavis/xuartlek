@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/ranger
 - feat/level/18
 aliases: ["Shadow Hunter"]
-aon_id: "feat-4911"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4911"
 source: "Player Core"
 ---
 

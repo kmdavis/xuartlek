@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -14,7 +13,7 @@ tags:
 - trait/positive
 - feat/level/6
 aliases: ["Torrent in the Blood"]
-aon_id: "feat-4273"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4273"
 source: "Rage of Elements"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/spellheart
 - equipment/level/10
 aliases: ["Judgement Thurible"]
-aon_id: "equipment-2232"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2232"
 source: "Treasure Vault (Remastered)"
 ---
 

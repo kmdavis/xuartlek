@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -9,7 +8,7 @@ tags:
 - trait/mental
 - spell/level/1
 aliases: ["Déjà Vu"]
-aon_id: "spell-1986"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1986"
 source: "Player Core 2"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core 2"
 `Concentrate`  `Incapacitation`  `Manipulate`  `Mental`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Bergelmir, Brixori, Yhidothrus
+- **Deities**: [[srd/pf2e/compendium/deities/giant-gods/bergelmir|Bergelmir]], Brixori, [[srd/pf2e/compendium/deities/demon-lords/yhidothrus|Yhidothrus]]
 - **Patron Theme**: Cobyslarni
 - **Range**: 100 feet
 - **Target**: 1 creature

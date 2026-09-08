@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Ether Spider"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Ether Spider"
 level: 5
 source: "Monster Core 2"
-aon_id: "creature-4398"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4398"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/investigator
 - feat/level/12
 aliases: ["Surgical Shock"]
-aon_id: "feat-5967"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5967"
 source: "Player Core 2"
 ---
 
@@ -15,7 +14,7 @@ source: "Player Core 2"
 
 `Attack`  `Investigator`
 
-- **Prerequisites**: forensic medicine methodology
+- **Prerequisites**: [[srd/pf2e/compendium/character/methodologies#Forensic Medicine|forensic medicine methodology]]
 
 With a few well-placed jabs with your fist or weapon, you render your opponent disoriented or ungainly. Attempt a [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] check against the Fortitude DC of a target within your reach. The result of your check determines the severity of the condition you inflict.
 

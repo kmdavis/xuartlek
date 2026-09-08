@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core
 aliases: ["Caligni"]
-aon_id: "creature-family-375"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=375"
 source: "Monster Core"
 ---
 
@@ -18,7 +17,7 @@ Calignis lurk in subterranean cities, with each caligni growing into a specific 
 
 ### Caligni Faiths
 
-Some calignis have abandoned their traditional faith in favor of more active deities; evil individuals favor Norgorber or Zon-Kuthon, while the less malevolent might follow Nocticula or Pharasma. Perhaps unexpectedly, Desna also has a small caligni following, particularly among those who frequently travel.
+Some calignis have abandoned their traditional faith in favor of more active deities; evil individuals favor [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/norgorber|Norgorber]] or [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/zon-kuthon|Zon-Kuthon]], while the less malevolent might follow [[srd/pf2e/compendium/deities/other-gods/nocticula|Nocticula]] or [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma]]. Perhaps unexpectedly, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/desna|Desna]] also has a small caligni following, particularly among those who frequently travel.
 
 ### Darkening Poison
 

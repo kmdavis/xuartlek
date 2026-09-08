@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/spirit
 - spell/level/5
 aliases: ["Divine Immolation"]
-aon_id: "spell-1496"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1496"
 source: "Player Core"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core"
 `Concentrate`  `Fire`  `Manipulate`  `Sanctified`  `Spirit`
 
 - **Tradition**: Divine
-- **Bloodline**: Angelic
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Angelic|Angelic]]
 - **Range**: 120 feet
 - **Area**: 20-foot burst
 - **Defense**: Reflex

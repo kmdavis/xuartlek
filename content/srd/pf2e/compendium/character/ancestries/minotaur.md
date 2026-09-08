@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ancestry
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -8,7 +7,7 @@ tags:
 - trait/minotaur
 - trait/uncommon
 aliases: ["Minotaur"]
-aon_id: "ancestry-75"
+aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=75"
 source: "Howl of the Wild"
 ---
 
@@ -42,7 +41,7 @@ Minotaurs typically reside within insular, subterranean communal enclaves. They 
 
 Long traditions of isolation have resulted in most minotaurs taking an evenhanded approach to events. Many tend toward an unbiased outlook that allows for adaptation. Those who have poor interactions with other humanoids, particularly those met with violence or intolerance, might choose to recede into a chosen lair, ruin, or fortification that they guard fiercely, which sadly perpetuates the tales of brutal minotaurs.
 
- Minotaurs raised by their own people tend to avoid association with deities of any stripe—little surprise given their creation legend. Divine beings are thought of as petty and uncaring, if not by intent then by the sheer magnitude of their power. Many minotaurs adopt logical or spiritual philosophies as a way of reconciling their existence. Mysteries are puzzles yet unanswered, ones that can be explained with careful thought and study. When minotaurs decide to follow deities, they're primarily drawn to those concerned with self-improvement and self-control, like Irori and Nethys.
+ Minotaurs raised by their own people tend to avoid association with deities of any stripe—little surprise given their creation legend. Divine beings are thought of as petty and uncaring, if not by intent then by the sheer magnitude of their power. Many minotaurs adopt logical or spiritual philosophies as a way of reconciling their existence. Mysteries are puzzles yet unanswered, ones that can be explained with careful thought and study. When minotaurs decide to follow deities, they're primarily drawn to those concerned with self-improvement and self-control, like [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/irori|Irori]] and [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/nethys|Nethys]].
 
  **Popular Edicts** construct architecture of lasting beauty, seek out ever more perplexing puzzles, hone one's prowess
  **Popular Anathema** leave fate to godly hands rather than mortal initiative, pass up the chance to investigate a mystery

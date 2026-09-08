@@ -7,7 +7,6 @@ cssclasses:
 tags:
   - srd/pf2e/player-core
 source: "Player Core"
-aon_id: 2204
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2204"
 citation: "Player Core pg. 287"
 ---
@@ -203,7 +202,7 @@ If you want to quickly decide how to spend your starting money when playing a cl
 **Armor** [[srd/pf2e/compendium/equipment/armor#Studded Leather Armor|studded leather armor]]
 **Weapons** [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]], [[srd/pf2e/compendium/equipment/weapons/sling/sling|sling with 20 bullets]]
 **Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/adventurers-pack|adventurer's pack]], [[srd/pf2e/compendium/equipment/adventuring-gear/alchemists-toolkit|alchemist's toolkit]], [[srd/pf2e/compendium/equipment/adventuring-gear/caltrops|caltrops (2 sets)]]
-**Options** [[srd/pf2e/compendium/equipment/adventuring-gear/repair-toolkit-superb|repair toolkit]] (2 gp)
+**Options** [[srd/pf2e/compendium/equipment/adventuring-gear/repair-toolkit|repair toolkit]] (2 gp)
 
 ### Barbarian Kit
 
@@ -220,7 +219,7 @@ If you want to quickly decide how to spend your starting money when playing a cl
 **Price** 7 gp, 5 sp, 2 cp; **Bulk** 4 Bulk, 4 light; **Money Left Over** 7 gp, 4 sp, 8 cp
 **Armor** [[srd/pf2e/compendium/equipment/armor#Studded Leather Armor|studded leather armor]]
 **Weapons** [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]], [[srd/pf2e/compendium/equipment/weapons/sword/rapier|rapier]], [[srd/pf2e/compendium/equipment/weapons/sling/sling|sling with 20 bullets]]
-**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/adventurers-pack|adventurer's pack]], [[srd/pf2e/compendium/equipment/adventuring-gear/musical-instrument-virtuoso-heavy|musical instrument (handheld)]]
+**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/adventurers-pack|adventurer's pack]], [[srd/pf2e/compendium/equipment/adventuring-gear/musical-instrument|musical instrument (handheld)]]
 
 ### Champion Kit
 
@@ -228,7 +227,7 @@ If you want to quickly decide how to spend your starting money when playing a cl
 **Price** 8 gp, 7 sp; **Bulk** 3 Bulk, 7 light; **Money Left Over** 6 gp, 3 sp
 **Armor** [[srd/pf2e/compendium/equipment/armor#Chain Mail|chain mail]]
 **Weapons** [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]], [[srd/pf2e/compendium/equipment/weapons/dart/javelin|javelins (4)]]
-**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/adventurers-pack|adventurer's pack]], [[srd/pf2e/compendium/equipment/adventuring-gear/crowbar-levered|crowbar]], [[srd/pf2e/compendium/equipment/adventuring-gear/grappling-hook|grappling hook]]
+**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/adventurers-pack|adventurer's pack]], [[srd/pf2e/compendium/equipment/adventuring-gear/crowbar|crowbar]], [[srd/pf2e/compendium/equipment/adventuring-gear/grappling-hook|grappling hook]]
 **Options** [[srd/pf2e/compendium/equipment/shields#Steel Shield|steel shield]] (2 gp), your deity's favored weapon (see your deities entry; use the Price listed in the weapon's entry)
 
 ### Cleric Kit
@@ -236,8 +235,8 @@ If you want to quickly decide how to spend your starting money when playing a cl
 **Source** Player Core pg. 268
 **Price** 1 gp, 7 sp; **Bulk** 1 Bulk, 2 light; **Money Left Over** 13 gp, 3 sp
 **Armor** [[srd/pf2e/compendium/equipment/armor#Explorer's Clothing|explorer's clothing]]
-**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/adventurers-pack|adventurer's pack]], [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol-silver|religious symbol (wooden)]]
-**Options** your deity's favored weapon (see your deities entry; use the Price listed in the weapon's entry), [[srd/pf2e/compendium/equipment/armor#Chain Mail|chain mail]] (6 gp), [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit-expanded|healer's toolkit]] (5 gp)
+**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/adventurers-pack|adventurer's pack]], [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol|religious symbol (wooden)]]
+**Options** your deity's favored weapon (see your deities entry; use the Price listed in the weapon's entry), [[srd/pf2e/compendium/equipment/armor#Chain Mail|chain mail]] (6 gp), [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit|healer's toolkit]] (5 gp)
 
 ### Druid Kit
 
@@ -246,7 +245,7 @@ If you want to quickly decide how to spend your starting money when playing a cl
 **Armor** [[srd/pf2e/compendium/equipment/armor#Hide Armor|hide armor]]
 **Weapons** [[srd/pf2e/compendium/equipment/weapons/dart/javelin|4 javelins]], [[srd/pf2e/compendium/equipment/weapons/spear/spear|spear]]
 **Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/adventurers-pack|adventurer's pack]], [[srd/pf2e/compendium/equipment/adventuring-gear/primal-symbol|primal symbol]]
-**Options** [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit-expanded|healer's toolkit]] (5 gp)
+**Options** [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit|healer's toolkit]] (5 gp)
 
 ### Fighter Kit
 
@@ -263,8 +262,8 @@ If you want to quickly decide how to spend your starting money when playing a cl
 **Price** 9 gp, 2 sp; **Bulk** 3 Bulk, 5 light; **Money Left Over** 5 gp, 8 sp
 **Armor** [[srd/pf2e/compendium/equipment/armor#Studded Leather Armor|studded leather armor]]
 **Weapons** [[srd/pf2e/compendium/equipment/weapons/crossbow/crossbow|crossbow with 20 bolts]], [[srd/pf2e/compendium/equipment/weapons/club/sap|sap]], [[srd/pf2e/compendium/equipment/weapons/sword/shortsword|shortsword]]
-**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/adventurers-pack|adventurer's pack]], [[srd/pf2e/compendium/equipment/adventuring-gear/crowbar-levered|crowbar]]
-**Options** [[srd/pf2e/compendium/equipment/adventuring-gear/alchemists-toolkit|alchemist’s toolkit]] (3 gp), simple [[srd/pf2e/compendium/equipment/adventuring-gear/manacles-superior|manacles]] (3 gp), [[srd/pf2e/compendium/equipment/adventuring-gear/writing-set-extra-ink-and-paper|writing set]] (1 gp)
+**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/adventurers-pack|adventurer's pack]], [[srd/pf2e/compendium/equipment/adventuring-gear/crowbar|crowbar]]
+**Options** [[srd/pf2e/compendium/equipment/adventuring-gear/alchemists-toolkit|alchemist’s toolkit]] (3 gp), simple [[srd/pf2e/compendium/equipment/adventuring-gear/manacles|manacles]] (3 gp), [[srd/pf2e/compendium/equipment/adventuring-gear/writing-set|writing set]] (1 gp)
 
 ### Monk Kit
 
@@ -272,7 +271,7 @@ If you want to quickly decide how to spend your starting money when playing a cl
 **Price** 5 gp, 3 sp; **Bulk** 3 Bulk, 3 light; **Money Left Over** 9 gp, 7 sp
 **Armor** [[srd/pf2e/compendium/equipment/armor#Explorer's Clothing|explorer's clothing]]
 **Weapons** [[srd/pf2e/compendium/equipment/weapons/dart/dart|darts (10)]]
-**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/adventurers-pack|adventurer's pack]], [[srd/pf2e/compendium/equipment/adventuring-gear/climbing-kit-extreme|climbing kit]], [[srd/pf2e/compendium/equipment/adventuring-gear/grappling-hook|grappling hook]], [[srd/pf2e/compendium/equipment/alchemical-items/smoke-ball-greater|smoke ball (lesser)]]
+**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/adventurers-pack|adventurer's pack]], [[srd/pf2e/compendium/equipment/adventuring-gear/climbing-kit|climbing kit]], [[srd/pf2e/compendium/equipment/adventuring-gear/grappling-hook|grappling hook]], [[srd/pf2e/compendium/equipment/alchemical-items/smoke-ball|smoke ball (lesser)]]
 **Options** [[srd/pf2e/compendium/equipment/weapons/club/staff|staff]] (0 gp), [[srd/pf2e/compendium/equipment/weapons/spear/longspear|longspear]] (5 sp)
 
 ### Oracle Kit
@@ -282,7 +281,7 @@ If you want to quickly decide how to spend your starting money when playing a cl
 **Armor** [[srd/pf2e/compendium/equipment/armor#Studded Leather Armor|studded leather armor]]
 **Weapons** [[srd/pf2e/compendium/equipment/weapons/club/mace|mace]], [[srd/pf2e/compendium/equipment/weapons/sling/sling|sling with 20 bullets]]
 **Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/adventurers-pack|adventurer's pack]]
-**Options** [[srd/pf2e/compendium/equipment/shields#Steel Shield|steel shield]] (2 gp), [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit-expanded|healer’s toolkit]] (5 gp)
+**Options** [[srd/pf2e/compendium/equipment/shields#Steel Shield|steel shield]] (2 gp), [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit|healer’s toolkit]] (5 gp)
 
 ### Ranger Kit
 
@@ -300,7 +299,7 @@ If you want to quickly decide how to spend your starting money when playing a cl
 **Armor** [[srd/pf2e/compendium/equipment/armor#Leather Armor|leather armor]]
 **Weapons** [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]], [[srd/pf2e/compendium/equipment/weapons/sword/rapier|rapier]]
 **Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/adventurers-pack|adventurer's pack]]
-**Options** [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit-infiltrator-picks|thieves' toolkit (3 gp)]]
+**Options** [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit|thieves' toolkit (3 gp)]]
 
 ### Sorcerer Kit
 
@@ -318,7 +317,7 @@ If you want to quickly decide how to spend your starting money when playing a cl
 **Armor** [[srd/pf2e/compendium/equipment/armor#Leather Armor|leather armor]]
 **Weapons** [[srd/pf2e/compendium/equipment/weapons/crossbow/hand-crossbow|hand crossbow with 20 bolts]], [[srd/pf2e/compendium/equipment/weapons/sword/rapier|rapier]]
 **Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/adventurers-pack|adventurer's pack]]
-**Options** [[srd/pf2e/compendium/equipment/shields#Buckler|buckler]] (1 gp), [[srd/pf2e/compendium/equipment/adventuring-gear/dueling-cape|dueling cape]] (5 sp), fine [[srd/pf2e/compendium/equipment/adventuring-gear/clothing-desert|clothing]] (2 gp), [[srd/pf2e/compendium/equipment/adventuring-gear/grappling-hook|grappling hook]] (1 sp), [[srd/pf2e/compendium/equipment/weapons/knife/main-gauche|main-gauche]] (5 sp)
+**Options** [[srd/pf2e/compendium/equipment/shields#Buckler|buckler]] (1 gp), [[srd/pf2e/compendium/equipment/adventuring-gear/dueling-cape|dueling cape]] (5 sp), fine [[srd/pf2e/compendium/equipment/adventuring-gear/clothing|clothing]] (2 gp), [[srd/pf2e/compendium/equipment/adventuring-gear/grappling-hook|grappling hook]] (1 sp), [[srd/pf2e/compendium/equipment/weapons/knife/main-gauche|main-gauche]] (5 sp)
 
 ### Witch Kit
 
@@ -327,7 +326,7 @@ If you want to quickly decide how to spend your starting money when playing a cl
 **Armor** [[srd/pf2e/compendium/equipment/armor#Explorer's Clothing|explorer's clothing]]
 **Weapons** [[srd/pf2e/compendium/equipment/weapons/knife/sickle|sickle]], [[srd/pf2e/compendium/equipment/weapons/sling/sling|sling with 20 bullets]], [[srd/pf2e/compendium/equipment/weapons/club/staff|staff]]
 **Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/adventurers-pack|adventurer's pack]]
-**Options** [[srd/pf2e/compendium/equipment/adventuring-gear/cookware|cookware]] (1 gp), [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit-expanded|healer's toolkit]] (5 gp)
+**Options** [[srd/pf2e/compendium/equipment/adventuring-gear/cookware|cookware]] (1 gp), [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit|healer's toolkit]] (5 gp)
 
 ### Wizard Kit
 
@@ -335,5 +334,5 @@ If you want to quickly decide how to spend your starting money when playing a cl
 **Price** 2 gp, 6 sp; **Bulk** 2 Bulk, 2 light; **Money Left Over** 12 gp, 4 sp
 **Armor** [[srd/pf2e/compendium/equipment/armor#Explorer's Clothing|explorer's clothing]]
 **Weapons** [[srd/pf2e/compendium/equipment/weapons/club/staff|staff]]
-**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/adventurers-pack|adventurer's pack]], [[srd/pf2e/compendium/equipment/adventuring-gear/writing-set-extra-ink-and-paper|writing set]]
+**Gear** [[srd/pf2e/compendium/equipment/adventuring-gear/adventurers-pack|adventurer's pack]], [[srd/pf2e/compendium/equipment/adventuring-gear/writing-set|writing set]]
 **Options** [[srd/pf2e/compendium/equipment/weapons/crossbow/crossbow|crossbow]] with 20 [[srd/pf2e/compendium/equipment/weapons/crossbow/bolts|bolts]] (3 gp, 2 sp)

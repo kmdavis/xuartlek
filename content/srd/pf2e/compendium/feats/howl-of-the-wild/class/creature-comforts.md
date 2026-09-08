@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -7,7 +6,7 @@ tags:
 - trait/druid
 - feat/level/4
 aliases: ["Creature Comforts"]
-aon_id: "feat-5400"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5400"
 source: "Howl of the Wild"
 ---
 

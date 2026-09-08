@@ -7,7 +7,6 @@ cssclasses:
 tags:
   - srd/pf2e/war-of-immortals-alternate-mythic-rules
 source: "War of Immortals Alternate Mythic Rules"
-aon_id: 3343
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3343"
 citation: "War of Immortals Alternate Mythic Rules pg. 2"
 ---

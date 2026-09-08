@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -9,7 +8,7 @@ tags:
 - trait/mental
 - equipment/level/5
 aliases: ["Fearsome"]
-aon_id: "equipment-2837"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2837"
 source: "GM Core"
 ---
 

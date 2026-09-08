@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/gm-core
 - trait/uncommon
 - vehicle/level/0
 aliases: ["Glider"]
-aon_id: "vehicle-58"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=58"
 source: "GM Core"
 ---
 

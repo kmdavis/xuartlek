@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/tandem
 aliases: ["Tandem"]
-aon_id: "trait-960"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=960"
 source: "Impossible Magic"
 ---
 

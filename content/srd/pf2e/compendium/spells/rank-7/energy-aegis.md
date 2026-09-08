@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/7
 aliases: ["Energy Aegis"]
-aon_id: "spell-1512"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1512"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 
 - **Traditions**: Arcane, Divine, Occult, Primal
 - **Spell Lists**: Elemental
-- **Bloodline**: Elemental
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Elemental|Elemental]]
 - **Cast**: 1 minute
 - **Range**: touch
 - **Target**: 1 creature

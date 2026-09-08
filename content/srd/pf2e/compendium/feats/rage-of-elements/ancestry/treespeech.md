@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/rage-of-elements
 - trait/ardande
 - feat/level/5
 aliases: ["Treespeech"]
-aon_id: "feat-4318"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4318"
 source: "Rage of Elements"
 ---
 

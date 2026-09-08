@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/gm-core
 - trait/shade
 - trait/petitioner
 aliases: ["Shade"]
-aon_id: "trait-692"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=692"
 source: "GM Core"
 ---
 

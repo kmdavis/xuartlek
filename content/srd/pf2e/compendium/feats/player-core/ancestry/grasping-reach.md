@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/leshy
 - feat/level/1
 aliases: ["Grasping Reach"]
-aon_id: "feat-4493"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4493"
 source: "Player Core"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/guardian
 - feat/level/14
 aliases: ["Blanket Defense"]
-aon_id: "feat-7873"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7873"
 source: "Battlecry!"
 ---
 

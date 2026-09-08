@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-sidebar
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -9,7 +8,7 @@ entries: 28
 
 # Sidebars: Guns & Gears (Remastered)
 
-## Attached Customization Options  *Sidebar*
+## Attached Customization Options
 
 - **Parent page**: [[srd/pf2e/books/guns-gears-remastered/guns-equipment/customization-options|Customization Options]]
 
@@ -17,7 +16,7 @@ This section introduces two new types of item that can be attached to a firearm:
 
 *Source: Guns & Gears (Remastered) p. 179*
 
-## Automaton Origins  *Sidebar*
+## Automaton Origins
 
 - **Parent page**: [[srd/pf2e/compendium/character/ancestries/automaton|Automaton]]
 
@@ -27,7 +26,7 @@ The method of creating automatons as the Artificer Conclave did millennia ago ha
 
 *Source: Guns & Gears (Remastered) p. 36*
 
-## Building Siege Weapons  *Sidebar*
+## Building Siege Weapons
 
 - **Parent page**: [[srd/pf2e/books/guns-gears-remastered/gears-equipment/siege-weapons|Siege Weapons]]
 
@@ -35,7 +34,7 @@ Just like other items, building a siege weapon requires using the Craft activity
 
 *Source: Guns & Gears (Remastered) p. 72*
 
-## Chain Shot  *Sidebar*
+## Chain Shot
 
 - **Parent page**: [[srd/pf2e/books/guns-gears-remastered/guns-equipment/black-powder-siege-weapons|Black Powder Siege Weapons]]
 
@@ -45,7 +44,7 @@ A special type of ammunition for siege weapons, chain shot is built to demolish 
 
 *Source: Guns & Gears (Remastered) p. 172*
 
-## Choosing a Spotter  *Sidebar*
+## Choosing a Spotter
 
 - **Parent page**: [[srd/pf2e/compendium/character/archetypes/sniping-duo|Sniping Duo]]
 
@@ -55,15 +54,15 @@ The most important aspect when choosing a spotter for the sniping duo archetype 
 
 *Source: Guns & Gears (Remastered) p. 138*
 
-## Choosing Your Beast Gun  *Sidebar*
+## Choosing Your Beast Gun
 
 - **Parent page**: [[srd/pf2e/compendium/character/archetypes/beast-gunner|Beast Gunner]]
 
-A beast gunner's bond with their beast gun is deep and mystical, so if you hope to be a successful beast gunner, it's important to choose a beast gun that suits your temperament, magic, and combat style. For example, if you favor strength and intimidation, a [[srd/pf2e/compendium/equipment/weapons/screech-shooter-major|_screech shooter_]] is the right choice for you, whereas a [[srd/pf2e/compendium/equipment/weapons/spider-gun-major|_spider gun_]] might be optimal if you prefer a more careful style of setting up the battlefield in advance. Similarly, a [[srd/pf2e/compendium/equipment/weapons/tentacle-cannon-major|_tentacle cannon_]] is slow and methodical and can hold an enemy in place at close range, while a [[srd/pf2e/compendium/equipment/weapons/drake-rifle|_drake rifle_]] is energetic and mobile and can be used to attack from a great distance. Each beast gun has a personality and magical abilities that attract people who value them. For this reason, some experienced beast gunners say the weapon chooses you.
+A beast gunner's bond with their beast gun is deep and mystical, so if you hope to be a successful beast gunner, it's important to choose a beast gun that suits your temperament, magic, and combat style. For example, if you favor strength and intimidation, a [[srd/pf2e/compendium/equipment/weapons/screech-shooter|_screech shooter_]] is the right choice for you, whereas a [[srd/pf2e/compendium/equipment/weapons/spider-gun|_spider gun_]] might be optimal if you prefer a more careful style of setting up the battlefield in advance. Similarly, a [[srd/pf2e/compendium/equipment/weapons/tentacle-cannon|_tentacle cannon_]] is slow and methodical and can hold an enemy in place at close range, while a [[srd/pf2e/compendium/equipment/weapons/drake-rifle|_drake rifle_]] is energetic and mobile and can be used to attack from a great distance. Each beast gun has a personality and magical abilities that attract people who value them. For this reason, some experienced beast gunners say the weapon chooses you.
 
 *Source: Guns & Gears (Remastered) p. 130*
 
-## Describing Your Fireworks Display  *Sidebar*
+## Describing Your Fireworks Display
 
 - **Parent page**: [[srd/pf2e/compendium/character/archetypes/firework-technician|Firework Technician]]
 
@@ -71,7 +70,7 @@ As a firework technician, the exact visuals of your character's special abilitie
 
 *Source: Guns & Gears (Remastered) p. 134*
 
-## Disabling Siege Weapons  *Sidebar*
+## Disabling Siege Weapons
 
 - **Parent page**: [[srd/pf2e/books/guns-gears-remastered/gears-equipment/siege-weapons|Siege Weapons]]
 
@@ -79,7 +78,7 @@ Disable a Device can be used to deactivate most siege weapons that have complex 
 
 *Source: Guns & Gears (Remastered) p. 72*
 
-## Disassembling and Reassembling  *Sidebar*
+## Disassembling and Reassembling
 
 - **Parent page**: [[srd/pf2e/books/guns-gears-remastered/gears-equipment/siege-weapons|Siege Weapons]]
 
@@ -87,7 +86,7 @@ A mounted siege weapon without a Speed must be disassembled to be moved, then re
 
 *Source: Guns & Gears (Remastered) p. 72*
 
-## Enhancements  *Sidebar*
+## Enhancements
 
 - **Parent page**: [[srd/pf2e/compendium/character/ancestries/automaton|Automaton]]
 
@@ -95,7 +94,7 @@ Automatons are built to receive enhancements and modifications to their bodies. 
 
 *Source: Guns & Gears (Remastered) p. 36*
 
-## Firearms and Access  *Sidebar*
+## Firearms and Access
 
 - **Parent page**: [[srd/pf2e/books/guns-gears-remastered/guns-equipment/index|Guns Equipment]]
 
@@ -103,7 +102,7 @@ In the world of Golarion, firearms and black powder weaponry remain largely limi
 
 *Source: Guns & Gears (Remastered) p. 146*
 
-## Integrated Firearms  *Sidebar*
+## Integrated Firearms
 
 - **Parent page**: [[srd/pf2e/books/guns-gears-remastered/guns-equipment/fantasy-firearms#Rare and Unique Firearms|Rare and Unique Firearms]]
 
@@ -111,7 +110,7 @@ In addition to the many rare and unique weapons presented here, there exists a s
 
 *Source: Guns & Gears (Remastered) p. 160*
 
-## Interacting to Reload  *Sidebar*
+## Interacting to Reload
 
 - **Parent page**: [[srd/pf2e/compendium/character/classes/gunslinger|Gunslinger]]
 
@@ -119,7 +118,7 @@ The slinger's reload action from each gunslinger way, as well as many feats, giv
 
 *Source: Guns & Gears (Remastered) p. 105*
 
-## Key Terms  *Sidebar*
+## Key Terms
 
 - **Parent page**: [[srd/pf2e/compendium/character/classes/inventor|Inventor]]
 
@@ -135,7 +134,7 @@ The slinger's reload action from each gunslinger way, as well as many feats, giv
 
 *Source: Guns & Gears (Remastered) p. 15*
 
-## Key Terms  *Sidebar*
+## Key Terms
 
 - **Parent page**: [[srd/pf2e/compendium/character/classes/gunslinger|Gunslinger]]
 
@@ -149,7 +148,7 @@ You'll see the following key terms in a number of gunslinger abilities.
 
 *Source: Guns & Gears (Remastered) p. 105*
 
-## Leading with a Cannon  *Sidebar*
+## Leading with a Cannon
 
 - **Parent page**: [[srd/pf2e/compendium/character/archetypes/artillerist|Artillerist]]
 
@@ -163,7 +162,7 @@ A proper artillerist is more than an engineer, though their skills in that field
 
 *Source: Guns & Gears (Remastered) p. 128*
 
-## Misfires  *Sidebar*
+## Misfires
 
 - **Parent page**: [[srd/pf2e/books/guns-gears-remastered/guns-equipment/classic-firearms|Classic Firearms]]
 
@@ -173,7 +172,7 @@ Firearms that are improperly maintained or subjected to unusual strain can misfi
 
 *Source: Guns & Gears (Remastered) p. 150*
 
-## Overwatch Training  *Sidebar*
+## Overwatch Training
 
 - **Parent page**: [[srd/pf2e/compendium/character/archetypes/overwatch|Overwatch]]
 
@@ -183,7 +182,7 @@ Not just anyone can train to become their party's overwatch. A keen and incisive
 
 *Source: Guns & Gears (Remastered) p. 50*
 
-## Prosthetics in Golarion  *Sidebar*
+## Prosthetics in Golarion
 
 - **Parent page**: [[srd/pf2e/compendium/character/archetypes/sterling-dynamo|Sterling Dynamo]]
 
@@ -191,7 +190,7 @@ Prosthetics in Golarion don't require membership in an archetype or special orga
 
 *Source: Guns & Gears (Remastered) p. 52*
 
-## Siege Weapons vs. Normal Weapons  *Sidebar*
+## Siege Weapons vs. Normal Weapons
 
 - **Parent page**: [[srd/pf2e/books/guns-gears-remastered/gears-equipment/siege-weapons|Siege Weapons]]
 
@@ -201,7 +200,7 @@ Many of the benefits that apply to standard weapons— daggers, bows, battleaxes
 
 *Source: Guns & Gears (Remastered) p. 72*
 
-## Skilled or Lucky  *Sidebar*
+## Skilled or Lucky
 
 - **Parent page**: [[srd/pf2e/compendium/character/archetypes/unexpected-sharpshooter|Unexpected Sharpshooter]]
 
@@ -213,7 +212,7 @@ Part of the fun of roleplaying an unexpected sharpshooter is the ambiguity and m
 
 *Source: Guns & Gears (Remastered) p. 142*
 
-## Unions  *Sidebar*
+## Unions
 
 - **Parent page**: [[srd/pf2e/compendium/character/archetypes/vehicle-mechanic|Vehicle Mechanic]]
 
@@ -221,7 +220,7 @@ Vehicle mechanics typically ply their trade to those who need to keep their vehi
 
 *Source: Guns & Gears (Remastered) p. 56*
 
-## Using Vehicles  *Sidebar*
+## Using Vehicles
 
 - **Parent page**: [[srd/pf2e/compendium/character/archetypes/trick-driver|Trick Driver]]
 
@@ -229,7 +228,7 @@ While many of the options in this book are [[srd/pf2e/compendium/rules-elements/
 
 *Source: Guns & Gears (Remastered) p. 55*
 
-## Using Vehicles  *Sidebar*
+## Using Vehicles
 
 - **Parent page**: [[srd/pf2e/compendium/character/archetypes/vehicle-mechanic|Vehicle Mechanic]]
 
@@ -237,27 +236,27 @@ The vehicle mechanic plays best in a campaign where the PCs adventure together i
 
 *Source: Guns & Gears (Remastered) p. 56*
 
-## Variations on a Theme  *Sidebar*
+## Variations on a Theme
 
 - **Parent page**: [[srd/pf2e/books/guns-gears-remastered/gears-characters/gears-character-options|Gears Character Options]]
 
 The [[srd/pf2e/compendium/character/classes/inventor|inventor]] class, [[srd/pf2e/compendium/character/ancestries/automaton|automaton]] ancestry, new backgrounds, and other elements located in this book give players ways to embody different aesthetics that infuse mechanical concepts or fantastic science into their character designs. The degree to which you combine these elements is something that can help you impact the development of your character and the tone and feel of your game in a variety of ways.
 
- An automaton character with a Pathfinder _Core Rulebook_ class like [[srd/pf2e/compendium/character/classes/fighter|fighter]] or [[srd/pf2e/compendium/character/classes/monk|monk]] can be an interesting twist on a classic idea. An automaton inventor with the [[srd/pf2e/compendium/character/backgrounds#Disciple of the Gear|Disciple of the Gear]] background who multiclasses as a [[srd/pf2e/compendium/character/classes/cleric|cleric]] of Brigh, goddess of invention, can be the focal point of an entire campaign arc themed around the spread of technology and the search to understand the mortal soul. A [[srd/pf2e/compendium/character/ancestries/gnome|gnome]] [[srd/pf2e/compendium/character/archetypes/vehicle-mechanic|vehicle mechanic]] who maintains and makes improvements upon a single vehicle can serve as an unusual character whose existence begs the question of the prevalence of technology throughout the world, or as an established member of a robust mechanics' guild that creates and maintains a small fleet of vehicles used for a particular purpose by a city or civilization.
+ An automaton character with a Pathfinder _Core Rulebook_ class like [[srd/pf2e/compendium/character/classes/fighter|fighter]] or [[srd/pf2e/compendium/character/classes/monk|monk]] can be an interesting twist on a classic idea. An automaton inventor with the [[srd/pf2e/compendium/character/backgrounds#Disciple of the Gear|Disciple of the Gear]] background who multiclasses as a [[srd/pf2e/compendium/character/classes/cleric|cleric]] of [[srd/pf2e/compendium/deities/other-gods/brigh|Brigh]], goddess of invention, can be the focal point of an entire campaign arc themed around the spread of technology and the search to understand the mortal soul. A [[srd/pf2e/compendium/character/ancestries/gnome|gnome]] [[srd/pf2e/compendium/character/archetypes/vehicle-mechanic|vehicle mechanic]] who maintains and makes improvements upon a single vehicle can serve as an unusual character whose existence begs the question of the prevalence of technology throughout the world, or as an established member of a robust mechanics' guild that creates and maintains a small fleet of vehicles used for a particular purpose by a city or civilization.
 
  The way that you combine the elements presented in this section can enable you to tell a vast array of different stories. The extent to which magic and technology coexist in your fantasy setting is up to you. Players and GMs should work together to discover how their respective ideas can influence each other as they explore how much influence technology has on the world, as well as discuss methods they might employ as the campaign unfolds to demonstrate its importance, or lack thereof.
 
 *Source: Guns & Gears (Remastered) p. 36*
 
-## Versatile Heritages  *Sidebar*
+## Versatile Heritages
 
 - **Parent page**: [[srd/pf2e/compendium/character/ancestries/automaton|Automaton]]
 
-Since automatons have artificial bodies, they don’t manifest the features of versatile heritages, even if the soul within their core did so in life. As a result, most automatons don’t have a versatile heritage. However, players who are interested in taking a versatile heritage are encouraged to speak with their GM to best determine an explanation for the versatile heritage. Since an automaton core draws on planar energy, there is a chance that said energy manifests in a versatile heritage, such as a [[srd/pf2e/compendium/character/ancestries/nephilim|nephilim]] automaton with an overabundance of energy from the [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/the-planes#Outer Sphere Planes|Outer Planes]]. Alternatively, a powerful soul might still be able to manifest the features of their heritage they had prior to transfer to an automaton body. An automaton with a versatile heritage will have minimal physical changes if any, though the color of energy that courses through their core and the rest of their body might change to properly represent the versatile heritage.
+Since automatons have artificial bodies, they don’t manifest the features of versatile heritages, even if the soul within their core did so in life. As a result, most automatons don’t have a versatile heritage. However, players who are interested in taking a versatile heritage are encouraged to speak with their GM to best determine an explanation for the versatile heritage. Since an automaton core draws on planar energy, there is a chance that said energy manifests in a versatile heritage, such as a [[srd/pf2e/compendium/character/versatile-heritages/nephilim|nephilim]] automaton with an overabundance of energy from the [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/the-planes#Outer Sphere Planes|Outer Planes]]. Alternatively, a powerful soul might still be able to manifest the features of their heritage they had prior to transfer to an automaton body. An automaton with a versatile heritage will have minimal physical changes if any, though the color of energy that courses through their core and the rest of their body might change to properly represent the versatile heritage.
 
 *Source: Guns & Gears (Remastered) p. 36*
 
-## What Makes a Phenom?  *Sidebar*
+## What Makes a Phenom?
 
 - **Parent page**: [[srd/pf2e/compendium/character/archetypes/pistol-phenom|Pistol Phenom]]
 
@@ -267,7 +266,7 @@ Many gunslingers can learn how to twirl a pistol or intimidate a foe, but it's n
 
 *Source: Guns & Gears (Remastered) p. 136*
 
-## Why No Gun Proficiency  *Sidebar*
+## Why No Gun Proficiency
 
 - **Parent page**: [[srd/pf2e/books/guns-gears-remastered/guns-characters/index|Guns Characters]]
 

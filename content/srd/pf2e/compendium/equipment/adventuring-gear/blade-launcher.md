@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/uncommon
 - equipment/level/1
 aliases: ["Blade Launcher"]
-aon_id: "equipment-1096"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1096"
 source: "Guns & Gears (Remastered)"
 ---
 

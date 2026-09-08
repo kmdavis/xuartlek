@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core-2
 aliases: ["Mosquito"]
-aon_id: "creature-family-610"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=610"
 source: "Monster Core 2"
 ---
 

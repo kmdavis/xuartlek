@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
 - trait/magical
 - equipment/level/14
 aliases: ["Ghost Ammunition"]
-aon_id: "equipment-2924"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2924"
 source: "GM Core"
 ---
 

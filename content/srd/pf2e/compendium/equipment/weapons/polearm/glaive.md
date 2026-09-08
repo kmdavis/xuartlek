@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/reach
 - weapon/level/0
 aliases: ["Glaive"]
-aon_id: "weapon-375"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=375"
 source: "Player Core"
 ---
 
@@ -16,7 +15,7 @@ source: "Player Core"
 
 `Deadly`  `Forceful`  `Reach`
 
-- **Favored Weapon**: Baphomet, Faith in the Fallen, Shelyn, The Lady of the North Star
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/demon-lords/baphomet|Baphomet]], [[srd/pf2e/compendium/deities/covenants/faith-in-the-fallen|Faith in the Fallen]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/shelyn|Shelyn]], The Lady of the North Star
 - **Price**: 1 gp
 - **Damage**: 1d8 S
 - **Bulk**: 2

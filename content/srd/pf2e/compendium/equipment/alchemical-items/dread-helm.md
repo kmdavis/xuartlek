@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -10,7 +9,7 @@ tags:
 - trait/mental
 - equipment/level/4
 aliases: ["Dread Helm"]
-aon_id: "equipment-1976"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1976"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -22,7 +21,7 @@ source: "Treasure Vault (Remastered)"
 - **Usage**: worn headwear
 - **Bulk**: L
 
-The faceplate of a dread helm has a fierce visage that magnifies the effects of fear. Concealed within is a reservoir that can hold a single [[srd/pf2e/compendium/equipment/alchemical-items/dread-ampoule-major|dread ampoule]], which takes 3 Interact actions to install.
+The faceplate of a dread helm has a fierce visage that magnifies the effects of fear. Concealed within is a reservoir that can hold a single [[srd/pf2e/compendium/equipment/alchemical-items/dread-ampoule|dread ampoule]], which takes 3 Interact actions to install.
 
 **Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Requirements** A dread ampoule is installed in the helm; **Effect** The dread ampoule atomizes, creating a fear‑inducing mist that hangs around your face for 3 rounds. The mist grants an item bonus to [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] checks equal to the dread ampoule’s item bonus. The mist also deals mental damage equal to the dread ampoule’s splash damage to all creatures within a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] other than you. The activation uses up the dread ampoule, and the helm can’t be activated again until a new one is installed.
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -12,7 +11,7 @@ tags:
 - trait/uncommon
 - spell/level/5
 aliases: ["Contagious Idea"]
-aon_id: "spell-2558"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2558"
 source: "Dark Archives (Remastered)"
 ---
 

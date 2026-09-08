@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Painted Stag"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Painted Stag"
 level: 9
 source: "Rage of Elements"
-aon_id: "creature-2678"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2678"
 ---
 

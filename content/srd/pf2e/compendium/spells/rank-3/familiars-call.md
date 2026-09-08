@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/teleportation
 - spell/level/3
 aliases: ["Familiar's Call"]
-aon_id: "spell-2696"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2696"
 source: "Impossible Magic"
 ---
 

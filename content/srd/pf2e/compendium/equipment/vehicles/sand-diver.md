@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/uncommon
 - vehicle/level/3
 aliases: ["Sand Diver"]
-aon_id: "vehicle-23"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=23"
 source: "Guns & Gears (Remastered)"
 ---
 

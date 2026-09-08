@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/rare
 - equipment/level/18
 aliases: ["Spectacles of Piercing Sight"]
-aon_id: "equipment-2317"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2317"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -16,7 +15,7 @@ source: "Treasure Vault (Remastered)"
 
 `Invested`  `Magical`  `Rare`
 
-- **Price**: 24,000 gp
+- **Price**: 24, 000 gp
 - **Usage**: worn eyepiece
 
 With lenses set in a silver frame, _spectacles of piercing_ sight grant you a +3 item bonus to visual Perception checks.

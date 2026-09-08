@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Skymetal Striker"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Skymetal Striker"
 level: 7
 source: "Rage of Elements"
-aon_id: "creature-2650"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2650"
 ---
 

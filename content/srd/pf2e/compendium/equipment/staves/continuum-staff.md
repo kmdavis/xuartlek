@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - equipment/level/16
 aliases: ["Continuum Staff"]
-aon_id: "equipment-5162"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5162"
 source: "Impossible Magic"
 ---
 
@@ -16,7 +15,7 @@ source: "Impossible Magic"
 
 `Magical`  `Staff`  `Uncommon`
 
-- **Price**: 9,500 gp
+- **Price**: 9, 500 gp
 - **Usage**: held in 1 hand
 - **Bulk**: 1
 

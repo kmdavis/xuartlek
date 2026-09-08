@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - siege-weapon/level/1
 aliases: ["Teekdoon"]
-aon_id: "siege-weapon-32"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=32"
 source: "Howl of the Wild"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Phoenix"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Phoenix"
 level: 15
 source: "Monster Core"
-aon_id: "creature-3137"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3137"
 ---
 
@@ -63,7 +61,7 @@ abilities_bot:
   - name: "Primal Inante Spells"
     desc: "DC 39 - __Cantrips (8th)__ [[srd/pf2e/compendium/spells/cantrips/light|Light]] - __6th__ [[srd/pf2e/compendium/spells/rank-2/cleanse-affliction|Cleanse Affliction]] (x3) - __7th__ [[srd/pf2e/compendium/spells/rank-2/dispel-magic|Dispel Magic]] (at will) - __8th__ [[srd/pf2e/compendium/spells/rank-2/cleanse-affliction|Cleanse Affliction]], [[srd/pf2e/compendium/spells/rank-2/dispel-magic|Dispel Magic]] (x3), [[srd/pf2e/compendium/spells/rank-5/divine-immolation|Divine Immolation]], [[srd/pf2e/compendium/spells/rank-2/everlight|Everlight]] (at will), [[srd/pf2e/compendium/spells/rank-1/heal|Heal]] (x3), [[srd/pf2e/compendium/spells/rank-4/wall-of-fire|Wall of Fire]] (x3) - __Constant (6th)__ [[srd/pf2e/compendium/spells/rank-2/see-the-unseen|See the Unseen]] - __Constant (8th)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]]"
   - name: "Flaming Strafe"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/fire|Fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]) The phoenix blazes with superheated flame and [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Flies]] up to their Speed. They deal 6d6 fire damage to each creature within 20 feet of each square they move through (DC 37 basic Reflex save). Servants of Sarenrae While phoenixes are not denizens of the Outer Planes, they have long been associated with the goddess Sarenrae. Indeed, many phoenixes view the Dawnflower as their patron and subscribe to her mission of redeeming those who have fallen to evil."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/fire|Fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]) The phoenix blazes with superheated flame and [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Flies]] up to their Speed. They deal 6d6 fire damage to each creature within 20 feet of each square they move through (DC 37 basic Reflex save). Servants of Sarenrae While phoenixes are not denizens of the Outer Planes, they have long been associated with the goddess [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/sarenrae|Sarenrae]]. Indeed, many phoenixes view the Dawnflower as their patron and subscribe to her mission of redeeming those who have fallen to evil."
 sourcebook: "_Monster Core_, page 264."
 ```
 

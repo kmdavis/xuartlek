@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -10,7 +9,7 @@ tags:
 - trait/visual
 - equipment/level/11
 aliases: ["Look-me-not"]
-aon_id: "equipment-5105"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5105"
 source: "Impossible Magic"
 ---
 

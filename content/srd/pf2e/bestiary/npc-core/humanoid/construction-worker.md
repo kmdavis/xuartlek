@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Construction Worker"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Construction Worker"
 level: 2
 source: "NPC Core"
-aon_id: "creature-3498"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3498"
 ---
 
@@ -38,7 +36,7 @@ abilities_top:
   - name: "Specialty Contractor"
     desc: "For encounters involving architecture or construction, the construction worker is a 6th-level challenge."
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit-sterling|Artisan's Toolkit]], bricks (4), Chalk, safety gear (functions as [[srd/pf2e/compendium/equipment/armor#Leather Armor|leather armor]]), sledgehammer (functions as a [[srd/pf2e/compendium/equipment/weapons/hammer/maul|maul]])"
+    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit|Artisan's Toolkit]], bricks (4), Chalk, safety gear (functions as [[srd/pf2e/compendium/equipment/armor#Leather Armor|leather armor]]), sledgehammer (functions as a [[srd/pf2e/compendium/equipment/weapons/hammer/maul|maul]])"
 ac: 17
 armorclass:
   - name: "AC"

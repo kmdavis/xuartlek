@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/3
 aliases: ["Ghostly Weapon"]
-aon_id: "spell-1544"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1544"
 source: "Player Core"
 ---
 
@@ -16,7 +15,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Atreia, Falayna, Gravelady's Guard, Minderhal, Pharasma, The Pale Horse, Zjar-Tovan
+- **Deities**: [[srd/pf2e/compendium/deities/elemental-lords/atreia|Atreia]], Falayna, Gravelady's Guard, [[srd/pf2e/compendium/deities/giant-gods/minderhal|Minderhal]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma]], [[srd/pf2e/compendium/deities/monitor-demigods/the-pale-horse|The Pale Horse]], [[srd/pf2e/compendium/deities/other-gods/zjar-tovan|Zjar-Tovan]]
 - **Range**: touch
 - **Target**: 1 weapon that is either unattended or wielded by you or a willing ally
 - **Duration**: 5 minutes

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -12,7 +11,7 @@ tags:
 - trait/visual
 - spell/level/5
 aliases: ["House of Imaginary Walls"]
-aon_id: "spell-1767"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1767"
 source: "Player Core"
 ---
 

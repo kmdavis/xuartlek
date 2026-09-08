@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/archetype
 - feat/level/14
 aliases: ["Devastating Manifestation"]
-aon_id: "feat-9354"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9354"
 source: "Impossible Magic"
 ---
 

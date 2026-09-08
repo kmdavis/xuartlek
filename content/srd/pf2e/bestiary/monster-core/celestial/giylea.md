@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Giylea"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Giylea"
 level: 16
 source: "Monster Core"
-aon_id: "creature-2836"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2836"
 ---
 

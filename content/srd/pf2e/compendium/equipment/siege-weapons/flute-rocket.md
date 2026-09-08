@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - siege-weapon/level/16
 aliases: ["Flute Rocket"]
-aon_id: "siege-weapon-53"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=53"
 source: "Battlecry!"
 ---
 
@@ -15,7 +14,7 @@ source: "Battlecry!"
 
 `Mounted`  `Uncommon`
 
-- **Price**: 16,000 gp
+- **Price**: 16, 000 gp
 - **Ammunition**: rocket (20 gp, L Bulk)
 
 **Usage** mounted (black powder)

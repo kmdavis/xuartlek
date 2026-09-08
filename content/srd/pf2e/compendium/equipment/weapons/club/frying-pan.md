@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/halfling
 - weapon/level/0
 aliases: ["Frying Pan"]
-aon_id: "weapon-286"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=286"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -15,7 +14,7 @@ source: "Treasure Vault (Remastered)"
 
 `Fatal`  `Halfling`
 
-- **Favored Weapon**: Cong, Emmeton Galardaria
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/goblin-gods/cong|Cong]], [[srd/pf2e/compendium/deities/other-gods/emmeton-galardaria|Emmeton Galardaria]]
 - **Price**: 1 sp
 - **Damage**: 1d4 B
 - **Bulk**: L

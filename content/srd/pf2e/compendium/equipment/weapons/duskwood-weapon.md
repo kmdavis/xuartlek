@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
 - trait/uncommon
 - equipment/level/11
 aliases: ["Duskwood Weapon"]
-aon_id: "equipment-2858"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2858"
 source: "GM Core"
 ---
 
@@ -16,7 +15,7 @@ source: "GM Core"
 
 - **Usage**: varies by weapon
 - **Bulk**: varies by weapon
-- **Base Material**: [[srd/pf2e/compendium/equipment/materials/duskwood-object-high-grade|Duskwood]]
+- **Base Material**: [[srd/pf2e/compendium/equipment/materials/duskwood|Duskwood]]
 
 Duskwood weapons are as dark as ebony, with a slight purple tint. A duskwood weapon's Bulk is reduced by 1 (or to light Bulk if its normal Bulk is 1, with no effect on a weapon that normally has light Bulk).
 

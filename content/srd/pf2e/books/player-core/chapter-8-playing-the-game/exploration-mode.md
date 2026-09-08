@@ -7,7 +7,6 @@ cssclasses:
 tags:
   - srd/pf2e/player-core
 source: "Player Core"
-aon_id: 2440
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2440"
 citation: "Player Core pg. 438"
 ---
@@ -142,10 +141,10 @@ You Seek meticulously for hidden doors, concealed hazards, and so on. You can us
 > **[[srd/pf2e/compendium/rules-elements/actions/player-core#Gather Information|Gather Information]]:** You use [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] to canvass the area to learn about a specific individual or topic.
 > **[[srd/pf2e/compendium/rules-elements/actions/player-core#Identify Alchemy|Identify Alchemy]]:** You use [[srd/pf2e/compendium/rules-elements/skills/crafting|Craft]] and [[srd/pf2e/compendium/equipment/adventuring-gear/alchemists-toolkit|alchemist's tools]] to identify an [[srd/pf2e/compendium/rules-elements/traits/player-core/alchemical|alchemical]] item.
 > **[[srd/pf2e/compendium/rules-elements/actions/player-core#Identify Magic|Identify Magic]]:** Using a variety of skills, you can learn about a magic item, location, or ongoing effect.
-> **[[srd/pf2e/compendium/rules-elements/actions/player-core#Impersonate|Impersonate]]:** You use [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] and usually a [[srd/pf2e/compendium/equipment/adventuring-gear/disguise-kit-elite-cosmetics|disguise kit]] to create a disguise.
+> **[[srd/pf2e/compendium/rules-elements/actions/player-core#Impersonate|Impersonate]]:** You use [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] and usually a [[srd/pf2e/compendium/equipment/adventuring-gear/disguise-kit|disguise kit]] to create a disguise.
 > **[[srd/pf2e/compendium/rules-elements/actions/player-core#Learn a Spell|Learn a Spell]]:** You use the skill corresponding to the spell's tradition to gain access to a new spell.
 > **[[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]]:** You use Diplomacy to make a good impression on someone (page 239).
-> **[[srd/pf2e/compendium/rules-elements/actions/player-core#Repair|Repair]]:** With a [[srd/pf2e/compendium/equipment/adventuring-gear/repair-toolkit-superb|repair kit]] and the Crafting skill, you fix a damaged item.
+> **[[srd/pf2e/compendium/rules-elements/actions/player-core#Repair|Repair]]:** With a [[srd/pf2e/compendium/equipment/adventuring-gear/repair-toolkit|repair kit]] and the Crafting skill, you fix a damaged item.
 > **[[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Direction|Sense Direction]]:** You use Survival to get a sense of where you are or determine cardinal directions.
 > **[[srd/pf2e/compendium/rules-elements/actions/player-core#Squeeze|Squeeze]]:** Using [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]], you squeeze though very tight spaces.
 > **[[srd/pf2e/compendium/rules-elements/actions/player-core#Track|Track]]:** You use Survival to follow tracks.
@@ -160,4 +159,4 @@ After you rest, you make your [[srd/pf2e/books/gm-core/chapter-1-running-the-gam
 - Spellcasters regain spell slots, and prepared spellcasters choose spells to have available that day.
 - Focus Points, abilities that refresh during preparations, and abilities that can be used only a certain number of times per day, including magic item uses, are reset.
 - You don armor and equip weapons and other gear.
-- You [[srd/pf2e/compendium/rules-elements/actions/gm-core-co-tak#Invest an Item|invest]] up to 10 worn magic items to gain their benefits for the day.
+- You [[srd/pf2e/compendium/rules-elements/actions/gm-core#Invest an Item|invest]] up to 10 worn magic items to gain their benefits for the day.

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - equipment/level/9
 aliases: ["Chimera Flail"]
-aon_id: "equipment-3205"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3205"
 source: "Howl of the Wild"
 ---
 
@@ -20,7 +19,7 @@ source: "Howl of the Wild"
 - **Bulk**: 2
 - **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/flail/war-flail|War Flail]]
 
-The three spiked heads of this _[[srd/pf2e/compendium/equipment/runes/weapon-potency-3|+1]] [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/flail/war-flail|war flail]]_ are fashioned to resemble the heads of a chimera. Preserved fragments of bone from the creature are fused with the metal of each head, replacing the typical weight at the end of the chain. Each head has been shrunk and preserved for use. You can have only one head slotted at a time and can use only the ability of the currently slotted head, while the other two hang off the pommel. Switching between heads requires an [[srd/pf2e/compendium/rules-elements/actions/player-core#Interact|Interact]] action. 
+The three spiked heads of this _[[srd/pf2e/compendium/equipment/runes/weapon-potency|+1]] [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/flail/war-flail|war flail]]_ are fashioned to resemble the heads of a chimera. Preserved fragments of bone from the creature are fused with the metal of each head, replacing the typical weight at the end of the chain. Each head has been shrunk and preserved for use. You can have only one head slotted at a time and can use only the ability of the currently slotted head, while the other two hang off the pommel. Switching between heads requires an [[srd/pf2e/compendium/rules-elements/actions/player-core#Interact|Interact]] action. 
 
  
 

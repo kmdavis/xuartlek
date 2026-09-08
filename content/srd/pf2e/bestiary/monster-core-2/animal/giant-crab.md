@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Giant Crab"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Giant Crab"
 level: 2
 source: "Monster Core 2"
-aon_id: "creature-4302"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4302"
 ---
 

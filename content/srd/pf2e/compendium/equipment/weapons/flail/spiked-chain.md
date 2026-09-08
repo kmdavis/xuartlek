@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - weapon/level/0
 aliases: ["Spiked Chain"]
-aon_id: "weapon-417"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=417"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Disarm`  `Finesse`  `Trip`  `Uncommon`
 
 - **PFS Note**: All Pathfinder agents have access to this weapon
-- **Favored Weapon**: Enkaar, Kzininn, Luhar, Nergal, Velgaas, Vorasha, Yhidothrus, Zon-Kuthon
+- **Favored Weapon**: Enkaar, Kzininn, Luhar, [[srd/pf2e/compendium/deities/infernal-dukes/nergal|Nergal]], [[srd/pf2e/compendium/deities/sakhil-tormentors/velgaas|Velgaas]], [[srd/pf2e/compendium/deities/daemon-harbingers/vorasha|Vorasha]], [[srd/pf2e/compendium/deities/demon-lords/yhidothrus|Yhidothrus]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/zon-kuthon|Zon-Kuthon]]
 - **Price**: 3 gp
 - **Damage**: 1d8 S
 - **Bulk**: 1

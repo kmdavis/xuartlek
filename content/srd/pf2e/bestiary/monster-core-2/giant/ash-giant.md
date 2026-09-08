@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Ash Giant"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Ash Giant"
 level: 11
 source: "Monster Core 2"
-aon_id: "creature-4410"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4410"
 ---
 
@@ -38,7 +36,7 @@ abilities_top:
   - name: "Vermin Empathy"
     desc: "The ash giant can ask questions of, receive answers from, and use the Diplomacy skill with insects, arachnids, and similar creatures."
   - name: "Items"
-    desc: "piggy clod (6), _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/flail/war-flail|war flail]]_"
+    desc: "piggy clod (6), _[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/flail/war-flail|war flail]]_"
 ac: 30
 armorclass:
   - name: "AC"

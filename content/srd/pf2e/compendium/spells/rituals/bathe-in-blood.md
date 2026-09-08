@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/rare
 - ritual/level/8
 aliases: ["Bathe In Blood"]
-aon_id: "ritual-246"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=246"
 source: "Impossible Magic"
 ---
 
@@ -15,10 +14,10 @@ source: "Impossible Magic"
 `Rare`
 
 - **Cast**: 1 day
-- **Cost**: alchemical herbs and components worth a total of 1,000 gp × the target’s level
+- **Cost**: alchemical herbs and components worth a total of 1, 000 gp × the target’s level
 - **Secondary Casters**: 2
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (expert)
-- **Secondary Checks**: Religion , Society
+- **Secondary Checks**: Religion, Society
 - **Range**: 20 feet
 - **Target(s)**: 1 living creature of a level no greater than double the bathe in blood ritual's rank
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/kobold
 - feat/level/1
 aliases: ["Snare Setter"]
-aon_id: "feat-5617"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5617"
 source: "Player Core 2"
 ---
 

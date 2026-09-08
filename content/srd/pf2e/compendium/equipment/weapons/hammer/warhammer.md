@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
 - trait/shove
 - weapon/level/0
 aliases: ["Warhammer"]
-aon_id: "weapon-403"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=403"
 source: "Player Core"
 ---
 
@@ -14,7 +13,7 @@ source: "Player Core"
 
 `Shove`
 
-- **Favored Weapon**: Azathoth, Grask Uldeth, Kerkamoth, Kostchtchie, Lady Nanbyo, Magrim, Minderhal, Shapes of the Fading Luster, Stone's Blood, The Laborer's Bastion, Torag, Trudd
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/azathoth|Azathoth]], [[srd/pf2e/compendium/deities/orc-gods/grask-uldeth|Grask Uldeth]], Kerkamoth, Kostchtchie, Lady Nanbyo, [[srd/pf2e/compendium/deities/dwarven-gods/magrim|Magrim]], [[srd/pf2e/compendium/deities/giant-gods/minderhal|Minderhal]], [[srd/pf2e/compendium/deities/covenants/shapes-of-the-fading-luster|Shapes of the Fading Luster]], [[srd/pf2e/compendium/deities/pantheons/stones-blood|Stone's Blood]], The Laborer's Bastion, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/torag|Torag]], [[srd/pf2e/compendium/deities/dwarven-gods/trudd|Trudd]]
 - **Price**: 1 gp
 - **Damage**: 1d8 B
 - **Bulk**: 1

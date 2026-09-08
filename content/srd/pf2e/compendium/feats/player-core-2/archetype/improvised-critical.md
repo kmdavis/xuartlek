@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/archetype
 - feat/level/8
 aliases: ["Improvised Critical"]
-aon_id: "feat-6443"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6443"
 source: "Player Core 2"
 ---
 

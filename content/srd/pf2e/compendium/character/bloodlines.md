@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-bloodline
 tags:
 - compendium/src/pf2e/battlecry
@@ -10,7 +9,7 @@ entries: 11
 
 # Bloodlines
 
-## Aberrant  *Sorcerer Bloodline*
+## Aberrant
 
 Something ancient and unknowable speaks to you from beyond the stars or below the earth.
 
@@ -43,7 +42,7 @@ An ominous pall spills from your mind. Either one target takes a –1 status pen
 
 *Source: Player Core 2 p. 149*
 
-## Aesir  *Sorcerer Bloodline*
+## Aesir
 
 One of your ancestors was touched by an aesir, and now the ringing of steel against steel and the constant call to battle echo through your blood.
 
@@ -76,7 +75,7 @@ You bring down a bolt of lightning to damage a foe or energize yourself. Either 
 
 *Source: Battlecry! p. 71*
 
-## Angelic  *Sorcerer Bloodline*
+## Angelic
 
 One of your forebears hailed from a celestial realm, or your ancestors' devotion led to their lineage being blessed.
 
@@ -109,7 +108,7 @@ You project a warming aura that protects you or one target, granting a +1 status
 
 *Source: Player Core 2 p. 150*
 
-## Demonic  *Sorcerer Bloodline*
+## Demonic
 
 Demons debase all they touch. One of your ancestors fell victim to their corruption, and you're burdened by that sin.
 
@@ -142,7 +141,7 @@ You mentally broadcast brief glimpses into the darkest desires of the mind. Eith
 
 *Source: Player Core 2 p. 150*
 
-## Diabolic  *Sorcerer Bloodline*
+## Diabolic
 
 Devils are evil with a silver tongue, and one of your ancestors dallied in darkness or made an infernal pact.
 
@@ -175,7 +174,7 @@ Your tongue becomes laced with the fires of Hell, and you can either lash out at
 
 *Source: Player Core 2 p. 150*
 
-## Draconic  *Sorcerer Bloodline*
+## Draconic
 
 The blood of dragons flows through your veins. These beasts are both fearsome in combat and skilled at magic.
 
@@ -226,7 +225,7 @@ Because the wyrmblessed and draconic bloodlines have similar origins, they count
 
 *Source: Player Core 2 p. 150*
 
-## Elemental  *Sorcerer Bloodline*
+## Elemental
 
 An elemental influence has imbued your blood with primal fury. You are granted different sorcerous gift spells and damage type from blood magic depending on which element affected your bloodline (see Elemental Influences below).
 
@@ -264,7 +263,7 @@ At 1st level, choose the type of elemental that influenced your bloodline: air, 
 
 *Source: Player Core 2 p. 151*
 
-## Fey  *Sorcerer Bloodline*
+## Fey
 
 Fey whimsy or a tryst in a moonlit grove put the bewitching magic of the First World into your family's bloodline.
 
@@ -297,7 +296,7 @@ Colorful fey ribbons dance around you. Either you gain a +2 status bonus to Perf
 
 *Source: Player Core 2 p. 151*
 
-## Hag  *Sorcerer Bloodline*
+## Hag
 
 A hag cursed your family long ago, or you are a descendant of a hag or changeling, and their magic infests your blood and soul.
 
@@ -330,7 +329,7 @@ Malice and acrimony take physical form around you. You deal 4 mental damage per 
 
 *Source: Player Core 2 p. 152*
 
-## Imperial  *Sorcerer Bloodline*
+## Imperial
 
 One of your ancestors was a mortal who mastered magic.
 
@@ -363,7 +362,7 @@ Raw magic emanates from every cell in your body, protecting you. Until the start
 
 *Source: Player Core 2 p. 152*
 
-## Undead  *Sorcerer Bloodline*
+## Undead
 
 The touch of undeath runs through your blood. Your family tree might contain powerful undead, like a vampire.
 

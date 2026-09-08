@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/prediction
 - feat/level/1
 aliases: ["Premonition of Avoidance"]
-aon_id: "feat-4647"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4647"
 source: "Player Core"
 ---
 

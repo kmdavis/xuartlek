@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/water
 - equipment/level/9
 aliases: ["Anointed Waterskin"]
-aon_id: "equipment-5139"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5139"
 source: "Impossible Magic"
 ---
 

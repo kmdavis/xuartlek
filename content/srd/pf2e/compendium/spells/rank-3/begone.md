@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/concentrate
 - spell/level/3
 aliases: ["Begone"]
-aon_id: "spell-2635"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2635"
 source: "Impossible Magic"
 ---
 

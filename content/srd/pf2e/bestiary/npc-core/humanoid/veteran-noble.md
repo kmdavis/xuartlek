@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Veteran Noble"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Veteran Noble"
 level: 6
 source: "NPC Core"
-aon_id: "creature-3422"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3422"
 ---
 

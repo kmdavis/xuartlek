@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/magical
 - equipment/level/16
 aliases: ["Misleading"]
-aon_id: "equipment-1834"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1834"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -15,7 +14,7 @@ source: "Treasure Vault (Remastered)"
 
 `Illusion`  `Magical`
 
-- **Price**: 8,000 gp
+- **Price**: 8, 000 gp
 - **Usage**: etched onto light armor
 
 This rune attempts to obfuscate your location through illusory trickery. When you're [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]], the DC of the flat check to target you with an effect is 6 instead of 5.

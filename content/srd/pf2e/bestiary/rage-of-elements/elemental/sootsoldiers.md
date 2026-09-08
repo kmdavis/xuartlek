@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Sootsoldiers"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Sootsoldiers"
 level: 10
 source: "Rage of Elements"
-aon_id: "creature-2639"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2639"
 ---
 
@@ -61,7 +59,7 @@ abilities_bot:
   - name: "Effect"
     desc: "The sootsoldiers reach to constrain each enemy in a 5-foot emanation in their fiery clutches (DC 26 basic Reflex save). The damage and additional effects depend on the number of actions. ⬻ 2d8 fire damage ⬺ 3d8+7 fire damage plus [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] ⬽ 4d8+7 fire damage plus grabbed"
   - name: "Seething Flash"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/fire|Fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]) The sootsoldiers reignite and rush across the battlefield, Forming Up and Striding twice. At the end of this movement, a wave of flame and heat pours off the sootsoldiers, dealing 4d8 fire damage to other creatures in a 10-foot emanation, with a DC 29 basic Reflex save. A creature that critically fails its save is also knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]. The Radiant Host Sootsoldiers who serve the other Lord of Fire, the Lambent King Atreia, are covered in glowing embers instead of black char. In place of ashen smoke's normal effects, any creature in the area must attempt a DC 29 Reflex save. On a failure, for 1 minute that creature is [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] and its invisibility is negated."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/fire|Fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]) The sootsoldiers reignite and rush across the battlefield, Forming Up and Striding twice. At the end of this movement, a wave of flame and heat pours off the sootsoldiers, dealing 4d8 fire damage to other creatures in a 10-foot emanation, with a DC 29 basic Reflex save. A creature that critically fails its save is also knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]. The Radiant Host Sootsoldiers who serve the other Lord of Fire, the Lambent King [[srd/pf2e/compendium/deities/elemental-lords/atreia|Atreia]], are covered in glowing embers instead of black char. In place of ashen smoke's normal effects, any creature in the area must attempt a DC 29 Reflex save. On a failure, for 1 minute that creature is [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] and its invisibility is negated."
 sourcebook: "_Rage of Elements_, page 133."
 ```
 

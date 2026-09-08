@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -8,7 +7,7 @@ tags:
 - trait/visual
 - equipment/level/3
 aliases: ["Dancing Scarf"]
-aon_id: "equipment-3074"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3074"
 source: "GM Core"
 ---
 

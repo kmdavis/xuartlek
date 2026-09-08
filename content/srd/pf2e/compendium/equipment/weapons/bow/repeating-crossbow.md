@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - weapon/level/1
 aliases: ["Repeating Crossbow"]
-aon_id: "weapon-176"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=176"
 source: "Guns & Gears (Remastered)"
 ---
 

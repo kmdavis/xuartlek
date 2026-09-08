@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-archetype
 tags:
 - compendium/src/pf2e/war-of-immortals
 aliases: ["Archfiend"]
-aon_id: "archetype-288"
+aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=288"
 source: "War of Immortals"
 ---
 

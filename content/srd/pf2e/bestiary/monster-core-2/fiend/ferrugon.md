@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Ferrugon"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Ferrugon"
 level: 12
 source: "Monster Core 2"
-aon_id: "creature-4328"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4328"
 ---
 
@@ -43,7 +41,7 @@ armorclass:
 hp: 190
 health:
   - name: "HP"
-    desc: "190; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]; __Resistances__ physical 10 (except [[srd/pf2e/compendium/equipment/materials/silver-object-high-grade|silver]]); __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 10"
+    desc: "190; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]; __Resistances__ physical 10 (except [[srd/pf2e/compendium/equipment/materials/silver|silver]]); __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 10"
 abilities_mid:
   - name: "Metallic"
     desc: "A ferrugon is a metallic creature and thus affected by effects such as the circumstance penalty inflicted by [[srd/pf2e/compendium/spells/rank-1/thunderstrike|_thunderstrike_]]."
@@ -75,7 +73,7 @@ abilities_bot:
   - name: "Stage 4"
     desc: "death"
   - name: "Sunder Objects"
-    desc: "When a ferrugon damages an item or structure, they deal an additional 2d8 damage to that item or structure. Makers Of Rust A ferrugon’s [[srd/pf2e/compendium/spells/rank-6/petrify|_petrify_]] and [[srd/pf2e/compendium/spells/rank-5/wall-of-stone|_wall of stone_]] [[srd/pf2e/books/gm-core/chapter-2-building-games/building-creatures#Innate Spells|innate spells]] result in rusted iron objects instead of stone. Since this iron is rusted and flawed, it shares the same physical statistics as the [[srd/pf2e/compendium/equipment/materials/stone-object-low-grade|stone]] created by the spells and is too low-quality to serve as a source for forging metal objects."
+    desc: "When a ferrugon damages an item or structure, they deal an additional 2d8 damage to that item or structure. Makers Of Rust A ferrugon’s [[srd/pf2e/compendium/spells/rank-6/petrify|_petrify_]] and [[srd/pf2e/compendium/spells/rank-5/wall-of-stone|_wall of stone_]] [[srd/pf2e/books/gm-core/chapter-2-building-games/building-creatures#Innate Spells|innate spells]] result in rusted iron objects instead of stone. Since this iron is rusted and flawed, it shares the same physical statistics as the [[srd/pf2e/compendium/equipment/materials/stone|stone]] created by the spells and is too low-quality to serve as a source for forging metal objects."
 spellcasting:
   - name: "Divine Innate Spells"
     desc: "DC 32, attack +24 - __4th__ [[srd/pf2e/compendium/spells/rank-4/translocate|Translocate]] (at will), [[srd/pf2e/compendium/spells/rank-4/suggestion|Suggestion]] - __5th__ [[srd/pf2e/compendium/spells/rank-4/creation|Creation]], [[srd/pf2e/compendium/spells/rank-2/shatter|Shatter]], [[srd/pf2e/compendium/spells/rank-4/translocate|Translocate]], [[srd/pf2e/compendium/spells/rank-5/wall-of-stone|Wall of Stone]] (×3; wall is made of rusty iron; not stone) - __6th__ [[srd/pf2e/compendium/spells/rank-6/petrify|Petrify]] (target is transformed into rusty iron; not stone)"

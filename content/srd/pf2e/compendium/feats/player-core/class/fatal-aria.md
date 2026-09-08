@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/bard
 - feat/level/20
 aliases: ["Fatal Aria"]
-aon_id: "feat-4637"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4637"
 source: "Player Core"
 ---
 

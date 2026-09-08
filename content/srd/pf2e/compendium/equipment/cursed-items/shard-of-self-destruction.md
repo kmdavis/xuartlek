@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -8,7 +7,7 @@ tags:
 - trait/rare
 - equipment/level/5
 aliases: ["Shard of Self-Destruction"]
-aon_id: "equipment-3516"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3516"
 source: "War of Immortals"
 ---
 
@@ -20,7 +19,7 @@ source: "War of Immortals"
 - **Bulk**: L
 - **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/knife/dagger|Dagger]]
 
-This jagged shard of bone appears to be and functions as a _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]]_ with a sharp edge that is perpetually stained with blood. Whenever you critically hit with the weapon, you deal an additional 1d6 persistent bleed damage, but you also take 1d6 persistent bleed damage. You take a –2 penalty to the flat check to remove this bleed damage, and when you succeed at this flat check, you are exposed to Verex's ruin (see below) as the site of the injury grows red and inflamed, your blood vessels discoloring and swelling as if serrated knives were trying to push their way out.
+This jagged shard of bone appears to be and functions as a _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]]_ with a sharp edge that is perpetually stained with blood. Whenever you critically hit with the weapon, you deal an additional 1d6 persistent bleed damage, but you also take 1d6 persistent bleed damage. You take a –2 penalty to the flat check to remove this bleed damage, and when you succeed at this flat check, you are exposed to Verex's ruin (see below) as the site of the injury grows red and inflamed, your blood vessels discoloring and swelling as if serrated knives were trying to push their way out.
 
  Once the curse has activated for the first time, the weapon fuses to you; while you can sheathe the dagger outside of combat, it appears in your hand when a fight begins and you can't sheathe it as long as there is an enemy you can perceive.
 

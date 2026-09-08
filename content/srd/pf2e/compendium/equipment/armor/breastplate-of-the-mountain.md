@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - equipment/level/20
 aliases: ["Breastplate of the Mountain"]
-aon_id: "equipment-2137"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2137"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -16,7 +15,7 @@ source: "Treasure Vault (Remastered)"
 
 `Apex`  `Invested`  `Magical`
 
-- **Price**: 70,000 gp
+- **Price**: 70, 000 gp
 - **Usage**: worn armor
 - **Bulk**: 2
 - **Base Armor**: Breastplate

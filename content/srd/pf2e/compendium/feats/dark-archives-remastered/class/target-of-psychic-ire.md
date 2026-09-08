@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/psychic
 - feat/level/16
 aliases: ["Target of Psychic Ire"]
-aon_id: "feat-8344"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8344"
 source: "Dark Archives (Remastered)"
 ---
 

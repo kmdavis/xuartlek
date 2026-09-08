@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/battlecry
@@ -9,7 +8,7 @@ tags:
 - trait/sonic
 - spell/level/6
 aliases: ["Explosive Barrage"]
-aon_id: "spell-2502"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2502"
 source: "Battlecry!"
 ---
 

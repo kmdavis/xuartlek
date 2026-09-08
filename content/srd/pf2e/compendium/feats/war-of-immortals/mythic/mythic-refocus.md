@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - feat/level/8
 aliases: ["Mythic Refocus"]
-aon_id: "feat-7293"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7293"
 source: "War of Immortals"
 ---
 

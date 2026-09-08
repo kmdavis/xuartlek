@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Priest of Sarenrae"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Priest of Sarenrae"
 level: 6
 source: "NPC Core"
-aon_id: "creature-3445"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3445"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [3, 3, 1, 0, 4, 2]
 abilities_top:
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/weapons/sword/scimitar|scimitar]]_, [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol-silver|religious symbol]] of Sarenrae"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/weapons/sword/scimitar|scimitar]]_, [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol|religious symbol]] of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/sarenrae|Sarenrae]]"
 ac: 21
 armorclass:
   - name: "AC"

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/divine
 - equipment/level/8
 aliases: ["Hundred-moth Caress"]
-aon_id: "equipment-5020"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5020"
 source: "Impossible Magic"
 ---
 
@@ -19,7 +18,7 @@ source: "Impossible Magic"
 - **Bulk**: 2
 - **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/polearm/scythe|Scythe]]
 
-This _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/polearm/scythe|scythe]]_’s handles are made from a dull gray wood of bone-like consistency, and when you slice with it, a fluttering gust of hundreds of moths’ wingbeats fills the air. If you’re a devotee of Urgathoa, you can use this scythe as a divine locus, and with every Strike, it exudes a pallid cloud of powdery dust. 
+This _[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/polearm/scythe|scythe]]_’s handles are made from a dull gray wood of bone-like consistency, and when you slice with it, a fluttering gust of hundreds of moths’ wingbeats fills the air. If you’re a devotee of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/urgathoa|Urgathoa]], you can use this scythe as a divine locus, and with every Strike, it exudes a pallid cloud of powdery dust. 
 
 **Activate—Pallid Reaping** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/spellshape|spellshape]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]) **Frequency** once per round; **Effect** You deal 1d10 void damage to yourself. This damage ignores all 
 

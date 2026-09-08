@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -10,7 +9,7 @@ tags:
 - trait/mental
 - spell/level/4
 aliases: ["Friends to Foes"]
-aon_id: "spell-2712"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2712"
 source: "Impossible Magic"
 ---
 

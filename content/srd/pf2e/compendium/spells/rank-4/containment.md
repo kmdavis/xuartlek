@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/4
 aliases: ["Containment"]
-aon_id: "spell-1981"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1981"
 source: "Player Core 2"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core 2"
 `Concentrate`  `Force`  `Manipulate`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Acavna, Dramindyr, Grundinnar, Korada, Lymnieris, Ma’at, Qi Zhong, The Last Breath, Urban Prosperity, Wards of the Pharaoh
+- **Deities**: [[srd/pf2e/compendium/deities/azlanti-pantheon/acavna|Acavna]], [[srd/pf2e/compendium/deities/monitor-demigods/dramindyr|Dramindyr]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/grundinnar|Grundinnar]], [[srd/pf2e/compendium/deities/empyreal-lords/korada|Korada]], Lymnieris, [[srd/pf2e/compendium/deities/dead-or-missing-deities/maat|Ma’at]], Qi Zhong, The Last Breath, Urban Prosperity, Wards of the Pharaoh
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Reflex

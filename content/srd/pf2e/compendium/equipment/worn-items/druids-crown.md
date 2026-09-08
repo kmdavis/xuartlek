@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/primal
 - equipment/level/6
 aliases: ["Druid's Crown"]
-aon_id: "equipment-2335"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2335"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -19,7 +18,7 @@ source: "Treasure Vault (Remastered)"
 - **Usage**: worn headwear
 - **Bulk**: L
 
-Made of materials scavenged from wild places, a _druid's crown_ can be rebuilt for a variety of benefits. The crown grants you a +1 item bonus to a skill, and can be activated to cast a spell, both depending on the material used to build the crown, as listed on the table below. If you invest and wear [[srd/pf2e/compendium/equipment/worn-items/living-mantle-greater|_living mantle_]] along with the crown, the crown's item bonus increases by 1 and its spell's DC rises to 27.
+Made of materials scavenged from wild places, a _druid's crown_ can be rebuilt for a variety of benefits. The crown grants you a +1 item bonus to a skill, and can be activated to cast a spell, both depending on the material used to build the crown, as listed on the table below. If you invest and wear [[srd/pf2e/compendium/equipment/worn-items/living-mantle|_living mantle_]] along with the crown, the crown's item bonus increases by 1 and its spell's DC rises to 27.
 
  You can invest this item only if you're a [[srd/pf2e/compendium/character/classes/druid|druid]]. When you do, as a 10-minute activity that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] trait, you can disassemble and rebuild the crown with different materials, changing its item bonus and spell accordingly. 
 

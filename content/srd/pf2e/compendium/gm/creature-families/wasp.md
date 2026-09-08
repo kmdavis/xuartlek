@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core
 aliases: ["Wasp"]
-aon_id: "creature-family-483"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=483"
 source: "Monster Core"
 ---
 
@@ -22,6 +21,6 @@ The poison of the giant wasp loses its potency soon after being harvested, but a
 
 ### Sacred Stingers
 
-Wasps are upheld as sacred among the priesthood of the elven deity Calistria, goddess of vengeance. Some priests of Calistria summon giant wasps or wasp swarms as servitors, while a few nurture giant wasps as pets, temple guardians, or companions. Followers of Calistria emulate the wasp's penchant for leaving stung victims alive to suffer over a long period—a fitting model for revenge.
+Wasps are upheld as sacred among the priesthood of the elven deity [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/calistria|Calistria]], goddess of vengeance. Some priests of Calistria summon giant wasps or wasp swarms as servitors, while a few nurture giant wasps as pets, temple guardians, or companions. Followers of Calistria emulate the wasp's penchant for leaving stung victims alive to suffer over a long period—a fitting model for revenge.
 
 *Source: Monster Core p. 343*

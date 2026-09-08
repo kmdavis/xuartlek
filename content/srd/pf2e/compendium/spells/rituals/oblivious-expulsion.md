@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - ritual/level/5
 aliases: ["Oblivious Expulsion"]
-aon_id: "ritual-227"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=227"
 source: "Dark Archives (Remastered)"
 ---
 
@@ -19,7 +18,7 @@ source: "Dark Archives (Remastered)"
 - **Cost**: incense worth a total value of 150 gp
 - **Secondary Casters**: 2
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (master) or [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] (master)
-- **Secondary Checks**: Deception , Society
+- **Secondary Checks**: Deception, Society
 - **Range**: 30 feet
 - **Target(s)**: 1 creature
 - **Duration**: unlimited

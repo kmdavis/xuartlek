@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -10,7 +9,7 @@ tags:
 - trait/uncommon
 - spell/level/3
 aliases: ["Access Lore"]
-aon_id: "spell-2085"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2085"
 source: "Player Core 2"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core 2"
 
 `Focus`  `Fortune`  `Manipulate`  `Oracle`  `Uncommon`
 
-- **Mystery**: Lore
+- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Lore|Lore]]
 - **Duration**: 1 minute
 
 You sift through the multiverse's divine knowledge, seeking out tidbits related to a particular subject. Choose one [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] skill. You temporarily gain the same proficiency rank in that Lore skill as your proficiency rank for your oracle spellcasting.

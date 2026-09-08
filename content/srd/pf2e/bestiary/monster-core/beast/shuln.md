@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Shuln"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Shuln"
 level: 12
 source: "Monster Core"
-aon_id: "creature-3191"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3191"
 ---
 
@@ -63,7 +61,7 @@ abilities_bot:
   - name: "Stage 3"
     desc: "4d6 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]] for 2d6 hours. Shuln saliva overcomes the inexorable ability."
   - name: "Unstoppable Burrow"
-    desc: "Shulns can burrow into solid rock and any metal with a hardness less than that of [[srd/pf2e/compendium/equipment/materials/adamantine-object-high-grade|adamantine]] as though it were soil or loose rubble, leaving a tunnel 10 feet in diameter. Stubbornness and Spit Adventurers who fear encounters with [[srd/pf2e/bestiary/monster-core/animal/cave-worm|cave worms]] might seek out a shuln and attempt to lure it along or magically compel it to aid in the fight to come, but the shuln's stubborn personality makes such efforts difficult and unreliable. More often, acquiring the shuln's saliva is an easier tactic, although the poison must be alchemically preserved if it is to be used as an injury poison, for this foul-smelling liquid breaks down quickly once it drools from the shuln's toothy maw."
+    desc: "Shulns can burrow into solid rock and any metal with a hardness less than that of [[srd/pf2e/compendium/equipment/materials/adamantine|adamantine]] as though it were soil or loose rubble, leaving a tunnel 10 feet in diameter. Stubbornness and Spit Adventurers who fear encounters with [[srd/pf2e/bestiary/monster-core/animal/cave-worm|cave worms]] might seek out a shuln and attempt to lure it along or magically compel it to aid in the fight to come, but the shuln's stubborn personality makes such efforts difficult and unreliable. More often, acquiring the shuln's saliva is an easier tactic, although the poison must be alchemically preserved if it is to be used as an injury poison, for this foul-smelling liquid breaks down quickly once it drools from the shuln's toothy maw."
 sourcebook: "_Monster Core_, page 309."
 ```
 

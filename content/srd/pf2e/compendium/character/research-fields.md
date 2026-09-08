@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-research-field
 tags:
 - compendium/src/pf2e/player-core-2
@@ -9,7 +8,7 @@ entries: 4
 
 # Research Fields
 
-## Bomber  *Alchemist Research Field*
+## Bomber
 
 You specialize in explosions and other violent reactions.
 
@@ -31,7 +30,7 @@ You have calculated all the angles to maximize a bomb’s splash. When you throw
 
 ### Advanced Vials
 
-You can mix special ingredients into your vials, such as magical dust or flakes of precious minerals. When you create a versatile vial, you can choose to have it treated as one special material of your choice, chosen from [[srd/pf2e/compendium/equipment/materials/adamantine-object-high-grade|adamantine]], [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]], and [[srd/pf2e/compendium/equipment/materials/dawnsilver-object-high-grade|dawnsilver]]. If you’re wearing or wielding an item of a different precious material when you make the vial, you can choose that material instead.
+You can mix special ingredients into your vials, such as magical dust or flakes of precious minerals. When you create a versatile vial, you can choose to have it treated as one special material of your choice, chosen from [[srd/pf2e/compendium/equipment/materials/adamantine|adamantine]], [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]], and [[srd/pf2e/compendium/equipment/materials/dawnsilver|dawnsilver]]. If you’re wearing or wielding an item of a different precious material when you make the vial, you can choose that material instead.
 
 ### Greater Field Discovery
 
@@ -39,13 +38,13 @@ You can increase the splash on your bombs to damage creatures within 10 feet, or
 
 *Source: Player Core 2 p. 61*
 
-## Chirurgeon  *Alchemist Research Field*
+## Chirurgeon
 
 You concentrate on healing others with alchemy.
 
 ### Formulas
 
-Two common 1st-level alchemical elixirs with the [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]] trait (like [[srd/pf2e/compendium/equipment/alchemical-items/antidote|lesser antidote]], [[srd/pf2e/compendium/equipment/alchemical-items/antiplague|lesser antiplague]], or [[srd/pf2e/compendium/equipment/alchemical-items/elixir-of-life|minor elixir of life]]).
+Two common 1st-level alchemical elixirs with the [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]] trait (like lesser antidote, lesser antiplague, or minor elixir of life).
 
 ### Field Benefit
 
@@ -69,7 +68,7 @@ When you use [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Quick Al
 
 *Source: Player Core 2 p. 61*
 
-## Mutagenist  *Alchemist Research Field*
+## Mutagenist
 
 You focus on bizarre mutagenic transformations that sacrifice one aspect of a creature’s physical or psychological being in order to strengthen another.
 
@@ -99,7 +98,7 @@ If you imbibe another mutagen while you are under the effects of a mutagen, you 
 
 *Source: Player Core 2 p. 61*
 
-## Toxicologist  *Alchemist Research Field*
+## Toxicologist
 
 You specialize in toxins and venoms of all types. 
 

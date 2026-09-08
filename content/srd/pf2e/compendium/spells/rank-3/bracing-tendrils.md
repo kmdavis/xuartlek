@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/3
 aliases: ["Bracing Tendrils"]
-aon_id: "spell-2567"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2567"
 source: "Dark Archives (Remastered)"
 ---
 

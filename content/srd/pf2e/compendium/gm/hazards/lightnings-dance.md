@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -10,7 +9,7 @@ tags:
 - trait/rare
 - hazard/level/11
 aliases: ["Lightning's Dance"]
-aon_id: "hazard-460"
+aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=460"
 source: "War of Immortals"
 ---
 

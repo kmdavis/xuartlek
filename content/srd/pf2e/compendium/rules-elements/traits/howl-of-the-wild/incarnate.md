@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 - trait/incarnate
 aliases: ["Incarnate"]
-aon_id: "trait-786"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=786"
 source: "Howl of the Wild"
 ---
 

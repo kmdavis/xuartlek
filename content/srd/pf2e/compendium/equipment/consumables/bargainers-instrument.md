@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/rare
 - equipment/level/15
 aliases: ["Bargainer's Instrument"]
-aon_id: "equipment-2116"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2116"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -16,7 +15,7 @@ source: "Treasure Vault (Remastered)"
 
 `Consumable`  `Magical`  `Rare`
 
-- **Price**: 1,000 gp
+- **Price**: 1, 000 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
 - **Activate**: 1 hour ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])

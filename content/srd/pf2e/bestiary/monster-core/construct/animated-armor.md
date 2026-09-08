@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Animated Armor"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Animated Armor"
 level: 2
 source: "Monster Core"
-aon_id: "creature-2819"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2819"
 ---
 

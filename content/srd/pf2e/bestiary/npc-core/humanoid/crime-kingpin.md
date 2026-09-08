@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Crime Kingpin"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Crime Kingpin"
 level: 12
 source: "NPC Core"
-aon_id: "creature-3435"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3435"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [3, 5, 3, 2, 2, 6]
 abilities_top:
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/crossbow/hand-crossbow|hand crossbow]]_ (10 bolts), _+1 [[srd/pf2e/compendium/equipment/armor#Leather Armor|leather armor]]_, [[srd/pf2e/compendium/equipment/consumables/potion-of-flying-greater|_potion of flying_]], [[srd/pf2e/compendium/equipment/consumables/healing-potion-major|_moderate potion of healing_]] (2), _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/rapier|rapier]]_"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/crossbow/hand-crossbow|hand crossbow]]_ (10 bolts), _+1 [[srd/pf2e/compendium/equipment/armor#Leather Armor|leather armor]]_, [[srd/pf2e/compendium/equipment/consumables/potion-of-flying|_potion of flying_]], [[srd/pf2e/compendium/equipment/consumables/healing-potion|_moderate potion of healing_]] (2), _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/rapier|rapier]]_"
 ac: 32
 armorclass:
   - name: "AC"

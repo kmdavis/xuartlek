@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Soulbound Doll"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Soulbound Doll"
 level: 2
 source: "Monster Core"
-aon_id: "creature-3204"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3204"
 ---
 

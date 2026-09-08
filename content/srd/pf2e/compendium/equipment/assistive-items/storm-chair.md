@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/rare
 - equipment/level/14
 aliases: ["Storm Chair"]
-aon_id: "equipment-1164"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1164"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -16,7 +15,7 @@ source: "Guns & Gears (Remastered)"
 
 `Electricity`  `Magical`  `Rare`
 
-- **Price**: 4,400 gp
+- **Price**: 4, 400 gp
 - **Bulk**: 3
 
 This traveler's chair uses magic and Stasian technology, storing up power in its Stasian coils to arc lightning through your foes and grant brief spurts of flight.

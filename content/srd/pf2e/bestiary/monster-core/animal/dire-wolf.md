@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Dire Wolf"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Dire Wolf"
 level: 3
 source: "Monster Core"
-aon_id: "creature-3242"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3242"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - equipment/level/11
 aliases: ["Robe of Stone"]
-aon_id: "equipment-2593"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2593"
 source: "Rage of Elements"
 ---
 
@@ -17,7 +16,7 @@ source: "Rage of Elements"
 
 `Earth`  `Invested`  `Magical`  `Uncommon`
 
-- **Price**: 1,400 gp
+- **Price**: 1, 400 gp
 - **Usage**: worn garment
 - **Bulk**: L
 

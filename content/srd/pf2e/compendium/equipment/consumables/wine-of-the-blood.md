@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -10,7 +9,7 @@ tags:
 - trait/rare
 - equipment/level/5
 aliases: ["Wine of the Blood"]
-aon_id: "equipment-4134"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4134"
 source: "Dark Archives (Remastered)"
 ---
 

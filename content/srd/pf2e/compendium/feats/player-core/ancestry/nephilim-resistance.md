@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/nephilim
 - feat/level/5
 aliases: ["Nephilim Resistance"]
-aon_id: "feat-4555"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4555"
 source: "Player Core"
 ---
 

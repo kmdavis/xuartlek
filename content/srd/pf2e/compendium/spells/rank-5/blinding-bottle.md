@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/battlecry
@@ -8,7 +7,7 @@ tags:
 - trait/poison
 - spell/level/5
 aliases: ["Blinding Bottle"]
-aon_id: "spell-2493"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2493"
 source: "Battlecry!"
 ---
 

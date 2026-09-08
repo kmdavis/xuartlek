@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/9
 aliases: ["Incarnate Draconic Legion"]
-aon_id: "spell-2739"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2739"
 source: "Impossible Magic"
 ---
 

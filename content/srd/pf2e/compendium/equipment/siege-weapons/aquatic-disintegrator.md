@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -8,7 +7,7 @@ tags:
 - trait/rare
 - siege-weapon/level/15
 aliases: ["Aquatic Disintegrator"]
-aon_id: "siege-weapon-22"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=22"
 source: "Howl of the Wild"
 ---
 
@@ -16,8 +15,8 @@ source: "Howl of the Wild"
 
 `Alchemical`  `Mounted`  `Rare`
 
-- **Price**: 12,500 gp
-- **Ammunition**: seasplinter capsule (1,200 gp, 4 Bulk)
+- **Price**: 12, 500 gp
+- **Ammunition**: seasplinter capsule (1, 200 gp, 4 Bulk)
 
 **Usage** mounted (black powder)
 

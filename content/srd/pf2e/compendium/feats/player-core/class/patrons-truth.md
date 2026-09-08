@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/witch
 - feat/level/20
 aliases: ["Patron's Truth"]
-aon_id: "feat-5022"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5022"
 source: "Player Core"
 ---
 

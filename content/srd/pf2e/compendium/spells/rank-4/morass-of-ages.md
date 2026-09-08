@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/4
 aliases: ["Morass of Ages"]
-aon_id: "spell-2603"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2603"
 source: "Dark Archives (Remastered)"
 ---
 
@@ -17,7 +16,7 @@ source: "Dark Archives (Remastered)"
 `Aura`  `Concentrate`  `Manipulate`
 
 - **Traditions**: Arcane, Occult
-- **Deity**: Yhidothrus
+- **Deity**: [[srd/pf2e/compendium/deities/demon-lords/yhidothrus|Yhidothrus]]
 - **Area**: 5-foot emanation
 - **Duration**: sustained up to 1 minute
 

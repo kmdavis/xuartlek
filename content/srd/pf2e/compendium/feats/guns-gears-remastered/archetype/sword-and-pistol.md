@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/gunslinger
 - feat/level/1
 aliases: ["Sword and Pistol"]
-aon_id: "feat-3159"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3159"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -14,7 +13,7 @@ source: "Guns & Gears (Remastered)"
 
 `Gunslinger`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/pistol-phenom|Pistol Phenom]] (Level 4), [[srd/pf2e/compendium/character/archetypes/pistol-phenom|Pistol Phenom]] (Level 4)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/pistol-phenom|Pistol Phenom]] (Level 4)
 
 You're comfortable wielding a firearm or crossbow in one hand and a melee weapon in the other, combining melee attacks with shots from the firearm. When you make a successful ranged Strike against an enemy within your reach with your one-handed firearm or one-handed crossbow, that enemy is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] against your next melee attack with a one-handed melee weapon.
 

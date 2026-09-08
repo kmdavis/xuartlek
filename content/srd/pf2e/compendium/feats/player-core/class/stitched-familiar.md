@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/witch
 - feat/level/8
 aliases: ["Stitched Familiar"]
-aon_id: "feat-5007"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5007"
 source: "Player Core"
 ---
 

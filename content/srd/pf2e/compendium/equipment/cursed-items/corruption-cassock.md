@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -12,7 +11,7 @@ tags:
 - trait/unholy
 - equipment/level/11
 aliases: ["Corruption Cassock"]
-aon_id: "equipment-2376"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2376"
 source: "Treasure Vault (Remastered)"
 ---
 

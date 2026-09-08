@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -8,7 +7,7 @@ tags:
 - trait/occult
 - equipment/level/13
 aliases: ["Hellfire Boots"]
-aon_id: "equipment-3088"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3088"
 source: "GM Core"
 ---
 
@@ -16,7 +15,7 @@ source: "GM Core"
 
 `Fire`  `Invested`  `Occult`
 
-- **Price**: 3,000 gp
+- **Price**: 3, 000 gp
 - **Usage**: worn shoes
 - **Bulk**: 1
 

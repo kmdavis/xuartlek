@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/vehicular
 - weapon/level/0
 aliases: ["Battle Saddle"]
-aon_id: "weapon-271"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=271"
 source: "Treasure Vault (Remastered)"
 ---
 

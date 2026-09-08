@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Rusalka"
 tags:
@@ -13,7 +12,6 @@ name: "Rusalka"
 level: 12
 source: "Monster Core 2"
 other_sources: "Pathfinder #147: Tomorrow Must Burn"
-aon_id: "creature-4531"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4531"
 ---
 
@@ -44,7 +42,7 @@ armorclass:
 hp: 230
 health:
   - name: "HP"
-    desc: "230; __Resistances__ fire 10; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 15"
+    desc: "230; __Resistances__ fire 10; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 15"
 abilities_mid:
   - name: "Blurred Form"
     desc: "A rusalka is [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] while underwater."

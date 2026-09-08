@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-grim-fascination
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -9,7 +8,7 @@ entries: 4
 
 # Grim Fascinations
 
-## Blood  *Necromancer Grim Fascination*
+## Blood
 
 Blood necromancers, also known as sanguimancers, manipulate their own blood and the flowing blood of their enemies. Your thralls often resemble vampiric spawn or constructs of hardened blood.
 
@@ -19,7 +18,7 @@ Blood necromancers, also known as sanguimancers, manipulate their own blood and 
 
 *Source: Impossible Magic p. 30*
 
-## Bone  *Necromancer Grim Fascination*
+## Bone
 
 Bone necromancers, also known as osteomancers, craft what they desire from the skeletons of the dead or simply create new skeletons by expanding and shaping small bone pieces.
 
@@ -29,7 +28,7 @@ Bone necromancers, also known as osteomancers, craft what they desire from the s
 
 *Source: Impossible Magic p. 30*
 
-## Flesh  *Necromancer Grim Fascination*
+## Flesh
 
 Flesh necromancers, also known as caromancers, are experts at the destruction, production, and manipulation of flesh and muscles. Your thralls generally take on the form of zombies and other creatures of dead flesh.
 
@@ -39,7 +38,7 @@ Flesh necromancers, also known as caromancers, are experts at the destruction, p
 
 *Source: Impossible Magic p. 30*
 
-## Spirit  *Necromancer Grim Fascination*
+## Spirit
 
 Spirit necromancers, also known as vitamancers, seek the secrets of the soul and play with the eternal energies of the living and dead. Your thralls often resemble ghosts and spirits.
 

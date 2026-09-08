@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Wolf Pack"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Wolf Pack"
 level: 6
 source: "Battlecry!"
-aon_id: "creature-3943"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3943"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -11,7 +10,7 @@ tags:
 - trait/manipulate
 - spell/level/3
 aliases: ["Holy Light"]
-aon_id: "spell-1557"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1557"
 source: "Player Core"
 ---
 
@@ -20,7 +19,7 @@ source: "Player Core"
 `Attack`  `Concentrate`  `Fire`  `Holy`  `Light`  `Manipulate`
 
 - **Traditions**: Divine, Primal
-- **Bloodline**: Angelic
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Angelic|Angelic]]
 - **Range**: 120 feet
 - **Target**: 1 creature
 - **Defense**: AC

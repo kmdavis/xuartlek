@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/magical
 - equipment/level/10
 aliases: ["Infesting Shot"]
-aon_id: "equipment-3872"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3872"
 source: "Battlecry!"
 ---
 
@@ -16,7 +15,7 @@ source: "Battlecry!"
 `Consumable`  `Magical`
 
 - **Price**: 200 gp
-- **Ammunition**: stones (trebuchet)
+- **Ammunition**: stones ([[srd/pf2e/compendium/equipment/siege-weapons/trebuchet|trebuchet]])
 
 This stone is riddled with holes and cracks large enough to allow insects or other small vermin to pass through. After it’s Launched, two [[srd/pf2e/bestiary/monster-core/animal/army-ant-swarm|army ant swarms]] crawl out of the stone into spaces adjacent to the stone. The swarms are agitated and attack the closest non-ant creatures.
 

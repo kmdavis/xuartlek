@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/rare
 - ritual/level/5
 aliases: ["Construct Mindscape"]
-aon_id: "ritual-231"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=231"
 source: "Dark Archives (Remastered)"
 ---
 

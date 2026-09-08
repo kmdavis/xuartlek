@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/druid
 - feat/level/10
 aliases: ["Side by Side (Druid)"]
-aon_id: "feat-4747"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4747"
 source: "Player Core"
 ---
 
@@ -14,7 +13,7 @@ source: "Player Core"
 
 `Druid`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/beastmaster|Beastmaster]] (Level 14), [[srd/pf2e/compendium/character/archetypes/beastmaster|Beastmaster]] (Level 14)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/beastmaster|Beastmaster]] (Level 14)
 - **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/animal-companion|Animal Companion]]
 
 You and your animal companion fight in tandem, distracting your foes and keeping them off balance. Whenever you and your animal companion are adjacent to the same foe, you are both flanking that foe with each other, regardless of your actual positions.

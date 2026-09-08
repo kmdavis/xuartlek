@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Wooly Wrangler"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Wooly Wrangler"
 level: 8
 source: "NPC Core"
-aon_id: "creature-3477"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3477"
 ---
 
@@ -38,7 +36,7 @@ abilities_top:
   - name: "In Balance"
     desc: "Whenever the woolly wrangler rolls a success on a [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]] check using [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] or [[srd/pf2e/compendium/rules-elements/skills/lore|Mountain Lore]], they get a critical success instead."
   - name: "Items"
-    desc: "animal treats, _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/club/greatclub|greatclub]]_, Leather Armor, Whip"
+    desc: "animal treats, _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/club/greatclub|greatclub]]_, Leather Armor, Whip"
 ac: 26
 armorclass:
   - name: "AC"

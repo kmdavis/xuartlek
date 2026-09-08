@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/stance
 - feat/level/16
 aliases: ["Twinned Defense (Fighter)"]
-aon_id: "feat-4853"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4853"
 source: "Player Core"
 ---
 
@@ -15,7 +14,7 @@ source: "Player Core"
 
 `Fighter`  `Stance`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/dual-weapon-warrior|Dual-Weapon Warrior]] (Level 18), [[srd/pf2e/compendium/character/archetypes/dual-weapon-warrior|Dual-Weapon Warrior]] (Level 18)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/dual-weapon-warrior|Dual-Weapon Warrior]] (Level 18)
 - **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/twin-parry|Twin Parry]]
 - **Requirements**: You are wielding two melee weapons, one in each hand
 

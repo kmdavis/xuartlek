@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-archetype
 tags:
 - compendium/src/pf2e/war-of-immortals
 aliases: ["Godling"]
-aon_id: "archetype-293"
+aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=293"
 source: "War of Immortals"
 ---
 

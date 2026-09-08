@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/water
 - feat/level/14
 aliases: ["Sink and Swim"]
-aon_id: "feat-8413"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8413"
 source: "Dark Archives (Remastered)"
 ---
 

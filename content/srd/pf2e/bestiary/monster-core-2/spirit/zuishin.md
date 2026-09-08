@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Zuishin"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Zuishin"
 level: 10
 source: "Monster Core 2"
-aon_id: "creature-4455"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4455"
 ---
 
@@ -38,7 +36,7 @@ abilities_top:
   - name: "Ward"
     desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]]) Every kami is bound to a ward: a specific animal, plant, object, or location. A kami can merge with or emerge from their ward as a single action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait. While merged, the kami can observe their surroundings with their usual senses as well as the senses of their ward, but can't move, communicate with, or control their ward. Additionally, a kami merged with their ward recovers Hit Points each minute as if they spent an entire day resting. A zuishin's ward is a specific gate, doorway, or shrine."
   - name: "Items"
-    desc: "_[[srd/pf2e/compendium/equipment/armor/magic-armor-3-major-resilient|+1]] [[srd/pf2e/compendium/equipment/armor#Breastplate|breastplate]]_, _[[srd/pf2e/compendium/equipment/runes/weapon-potency-3|+1]] [[srd/pf2e/compendium/equipment/weapons/bow/composite-longbow|composite longbow]]_, _[[srd/pf2e/compendium/equipment/runes/weapon-potency-3|+1]] [[srd/pf2e/compendium/equipment/weapons/sword/katana|katana]]_"
+    desc: "_[[srd/pf2e/compendium/equipment/armor/magic-armor|+1]] [[srd/pf2e/compendium/equipment/armor#Breastplate|breastplate]]_, _[[srd/pf2e/compendium/equipment/runes/weapon-potency|+1]] [[srd/pf2e/compendium/equipment/weapons/bow/composite-longbow|composite longbow]]_, _[[srd/pf2e/compendium/equipment/runes/weapon-potency|+1]] [[srd/pf2e/compendium/equipment/weapons/sword/katana|katana]]_"
 ac: 30
 armorclass:
   - name: "AC"
@@ -46,7 +44,7 @@ armorclass:
 hp: 180
 health:
   - name: "HP"
-    desc: "180; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 10"
+    desc: "180; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 10"
 abilities_mid:
   - name: "Reactive Strike"
     desc: "⬲"
@@ -60,7 +58,7 @@ abilities_bot:
   - name: "Healing Arrow"
     desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]]) The zuishin blesses an arrow with healing magic. They expend a [[srd/pf2e/compendium/spells/rank-5/breath-of-life|_breath of life_]], [[srd/pf2e/compendium/spells/rank-2/cleanse-affliction|_cleanse affliction_]], [[srd/pf2e/compendium/spells/rank-1/heal|_heal_]], or [[srd/pf2e/compendium/spells/rank-2/sure-footing|_sure footing_]] spell and make a _composite longbow_ [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] against an ally. A critical failure has no effect, but on any other result the ally is affected by the spell rather than taking damage from the Strike."
   - name: "Holy Weaponry"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]]) Any weapon becomes a _[[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/runes/holy|holy]] weapon_ while the zuishin wields it. A zuishin creates arrows out of nothing as part of their attacks with any bow they wield. Attracting A Kami Different cultures have different beliefs about the best way to attract a kami spirit, such as a zuishin. Societies that strive to preserve the natural world—like elven tree-cities and small villages that balance their own population with those of other local creatures—are the most likely to be graced by a kami’s presence."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]]) Any weapon becomes a _[[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/runes/holy|holy]] weapon_ while the zuishin wields it. A zuishin creates arrows out of nothing as part of their attacks with any bow they wield. Attracting A Kami Different cultures have different beliefs about the best way to attract a kami spirit, such as a zuishin. Societies that strive to preserve the natural world—like elven tree-cities and small villages that balance their own population with those of other local creatures—are the most likely to be graced by a kami’s presence."
 spellcasting:
   - name: "Divine Innate Spells"
     desc: "DC 29 - __3rd__ [[srd/pf2e/compendium/spells/rank-1/heal|Heal]] (×2), [[srd/pf2e/compendium/spells/rank-2/share-life|Share Life]] - __4th__ [[srd/pf2e/compendium/spells/rank-2/cleanse-affliction|Cleanse Affliction]], [[srd/pf2e/compendium/spells/rank-2/sure-footing|Sure Footing]] - __5th__ [[srd/pf2e/compendium/spells/rank-5/breath-of-life|Breath of Life]], [[srd/pf2e/compendium/spells/rank-2/dispel-magic|Dispel Magic]], [[srd/pf2e/compendium/spells/rank-1/heal|Heal]], [[srd/pf2e/compendium/spells/rank-4/translocate|Translocate]] (×3)"

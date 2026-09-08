@@ -1,141 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-action
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 aliases: ["Actions: Dark Archives (Remastered)"]
-entries: 35
+entries: 16
 ---
 
 # Actions: Dark Archives (Remastered)
 
-## (auditory, emotion, incapacitation, magical, manipulate, mental)
+## Amulet's Abeyance
 
-**Activate—Cannibal Call** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|incapacitation]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) **Frequency** once per hour; **Requirements** You're trained in Performance; **Effect** You blow the horn, creating a low growling sound. Creatures other than you in a 60-foot emanation must attempt a DC 30 Will save. Those who fail become overwhelmed with an animalistic rage and the urge to consume flesh for 1 round, or 1 minute on a critical failure. They indiscriminately attack the nearest target unaffected by the magic of the horn unless there are no such targets, at which point they set on each other. While affected, they gain a jaws unarmed attack that deals 1d8 piercing damage, deal an additional 2 damage with unarmed attacks, and lose the ability to use any weaponry. They also gain a +2 status bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] effects, can detect bleeding creatures and open wounds as an imprecise sense with a range of 30 feet, and gain a +10-foot status bonus to their Speed. Lastly, they take a –1 penalty to AC and are unable to use [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] actions other than Seeking. Creatures who critically succeed are temporarily immune for 24 hours.
-
-*Source: Dark Archives (Remastered) p. 115*
-
-## (concentrate)
-
-**Activate—Fair Trade** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** You deposit up to 30 gp of gems and coins in a separate pouch of the bottomless purse while thinking of a common consumable item costing that amount of money. You then upend the pouch. The item you imagined comes tumbling out into your hand.
-
-*Source: Dark Archives (Remastered) p. 164*
-
-## (concentrate)
-
-**Activate—Look Beyond** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** You look through the glass eye sealing your _bargained contract_. The contract casts [[srd/pf2e/compendium/spells/rank-2/see-the-unseen|_see the unseen_]] affecting you.
-
-*Source: Dark Archives (Remastered) p. 164*
-
-## (concentrate)
-
-**Activate—Iron Gut** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** You absorb any poisons with the key sealing your _bargained contract_. You're affected by a 5th-rank [[srd/pf2e/compendium/spells/rank-2/cleanse-affliction|_cleanse affliction_]] spell to remove a poison (counteract modifier +15).
-
-*Source: Dark Archives (Remastered) p. 165*
-
-## (concentrate)
-
-**Activate—Fix Focus** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Trigger** You start your turn [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] or [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]]; **Effect** A speck of ash from the vial sealing your _bargained contract_ appears out of nowhere on your tongue, bringing your senses into focus. You suppress the off-guard or confused condition until the start of your next turn. You can use this free action when you're confused, even though you normally can't take actions of your choice when confused.
-
-*Source: Dark Archives (Remastered) p. 165*
-
-## (concentrate)
-
-**Activate—Beguiling Presence** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** You exercise all of your charm on a creature, turning a chance meeting into an impromptu performance that commands attention. Attempt a single [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] check against the Perception DC of the creature. On a success, the creature is affected as though by a successful Deception check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Create a Diversion|Create a Diversion]]. The entity that holds your contract can influence this performance as well.
-
-*Source: Dark Archives (Remastered) p. 165*
-
-## (concentrate)
-
-**Activate—Taste Fluency** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** You place the stone sealing your _bargained contract_ in your mouth. For the next 10 minutes, you gain a +3 status bonus to skill checks using the skill you chose for your contract.
-
-*Source: Dark Archives (Remastered) p. 165*
-
-## (concentrate)
-
-**Activate—Spring of Life** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** You drink from the vial of water that seals your _bargained contract_. You gain the effects of a 9th-rank, 2-action [[srd/pf2e/compendium/spells/rank-1/heal|_heal_]] spell.
-
-*Source: Dark Archives (Remastered) p. 165*
-
-## (concentrate, manipulate)
-
-**Activate—Ring in the Quiet** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** The _silent bell_ creates an invisible wall surrounding a cube, 20 feet to a side, that prevents sound from passing into or from the cube for 10 minutes. The wall isn't solid and doesn't prevent anything but sound from passing through. Since the cube is invisible, creatures can still read lips and body language through the wall.
-
-*Source: Dark Archives (Remastered) p. 83*
-
-## (concentrate, manipulate)
-
-**Activate—Track Teleportation** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per minute; **Effect** You point the _compass of transpositional awareness_ at an extant [[srd/pf2e/compendium/rules-elements/traits/player-core/teleportation|teleportation]] effect (such as a magical portal) or the site of a teleportation effect that existed within the last 1 minute (such as the space where a creature just cast [[srd/pf2e/compendium/spells/rank-4/translocate|_translocate_]]). Attempt an Occultism check to determine to where the effect leads or led. The DC of this check is the effect's counteract DC. On a success, you know roughly the destination of the teleportation effect (for example “the Plane of Fire,” “north,” or “Avistan”). On a critical success, you ascertain the exact destination within mere feet for local effects (such as translocate) or within a few miles for long-range effects (such as [[srd/pf2e/compendium/spells/rank-6/teleport|_teleport_]], [[srd/pf2e/compendium/spells/rank-7/interplanar-teleport|_interplanar teleport_]], or interdimensional portals).
-
-*Source: Dark Archives (Remastered) p. 154*
-
-## (concentrate, manipulate)
-
-**Activate—Triangulate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** You use the _compass of transpositional awareness_ to triangulate your current coordinates and those of your intended destination using teleportation magic. For 1 minute, whenever you cast a teleportation spell that has a range, increase that spell's range by 30 feet. If the spell normally has a range of touch, extend its range to 30 feet.
-
-*Source: Dark Archives (Remastered) p. 154*
-
-## (concentrate, manipulate)
-
-**Activate—Spirit Carving** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]],[[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** You present the tablet to a [[srd/pf2e/compendium/gm/creature-families/ghost|ghost]] or lay it on a haunted site. The tablet's words resolve into a cryptic but accurate clue about the spirit's unfinished business. Upon reading the tablet's words, you're subject to a [[srd/pf2e/compendium/spells/rituals/geas|_geas_]] that requires you to right that wrong and lay the ghost to rest. If you die without completing the task, you become a ghost, cursed to remain until another recovers the tablet and discharges your duty.
-
-*Source: Dark Archives (Remastered) p. 161*
-
-## (fortune, manipulate, occult)
-
-**Activate—Luck of the Mascot** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]]) **Frequency** once per month; **Effect** You rub _Old Tillimaquin's_ bronzed claws for good luck before setting out on a task that might benefit the town. You can reroll a single failed saving throw within the next 24 hours, but you must take the second result, even if it's worse than your original result. Each person who rubs the claws can benefit only once per month, but there's no limit to how many people can draw on _Old Tillimaquin's_ luck.
-
-*Source: Dark Archives (Remastered) p. 63*
-
-## (manipulate)
-
-**Activate—Golden Goose** ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** You feed the goose the warm, still-bloody heart of any sapient, non-unholy creature who died within the past hour. The golden goose's eyes flare red as it chews the heart into pulp. Once the heart is destroyed, the goose lays a golden egg worth 50 gp, or 100 gp if you murdered the creature for no reason other than to feed the goose.
-
- After 12 such eggs are laid, the next time you activate the golden goose, it transmutes your heart to gold. This effect functions as [[srd/pf2e/compendium/spells/rank-6/petrify|_petrify_]], with a DC 30 Fortitude save to resist. If you become petrified, you turn to solid, transparent stone. Your heart becomes a golden egg worth 100 gp, which can be retrieved only by shattering your body. Whether or not you turn to stone, the golden goose dissipates with a honk into sulfurous smoke.
-
-*Source: Dark Archives (Remastered) p. 160*
-
-## (manipulate)
-
-**Activate—Fresh Face** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Requirements** You have used [[srd/pf2e/compendium/rules-elements/actions/player-core#Impersonate|Impersonate]] and molded your face into a different face.; **Effect** You peel your current face from your skin, revealing the true generic appearance from your _bargained contract_. This allows you to duck out of sight and remove the facial component of your disguise almost immediately, though clothing or other elements might still give you away.
-
-*Source: Dark Archives (Remastered) p. 164*
-
-## (manipulate, polymorph, primal)
-
-**Activate—Cryptid Shape** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorph]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]) **Frequency** once per day; **Effect** The cloak rises to envelop your head and body, reshaping your appearance into that of a locally feared cryptid. If there is no such figure in local lore, the cloak of the false foe instead alters your appearance into a form imagined by the crafter of the cloak. One choice that occurs with disturbing frequency is a gaunt figure with triple-jointed fingers; an eyeless, hairless head with a lamprey mouth in the center of its face; and stubby tentacles waving down its neck. The transformation also grants the effects of either a 3rd-rank [[srd/pf2e/compendium/spells/rank-2/humanoid-form|_humanoid form_]] spell that lasts for 1 hour if you turn into a Medium cryptid, or a 5th-rank humanoid form spell that lasts for 10 minutes if Kit you turn into a Large cryptid.
-
- While you're in cryptid form, any wounds left by your spells and Strikes appear to be the result of the cryptid's unarmed attacks and special abilities to a casual inspection. This doesn't alter the actual damage type inflicted or the effects of such attack. Someone closely studying the wounds can, with a successful DC 30 Medicine check, realize that magic has altered the appearance of the injuries.
-
-*Source: Dark Archives (Remastered) p. 62*
-
-## 1 hour (concentrate, manipulate)
-
-**Activate—Study Memory** 1 hour ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Requirements** You open the book while trying to learn information about any topic. _The Book of Lost Days_ permits you to view another's memory, which contains information about that subject commensurate to rolling a total of 40 to [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]] about the topic, with additional context provided on a success or critical success.
-
- The price for this knowledge is the memory of a day in your past, and the vitality of a day in your future. You lose the memory of that day completely, and the total of all the knowledge you learned on that date is added to the book's repository of information. The book, not you, chooses which memories are taken, preferring days with concentrated emotional resonance, and thus tends to steal significant life moments. This loss affects only your memories; it has no effect on your level, class, feats, or other character choices. Your natural lifespan is also shortened by 1 day. The loss of this life energy causes you to be drained 2. You can't reduce the drained condition for 2 days, after which you can recover normally from the condition.
-
- Creatures have occasionally managed to use the _Book of Lost Days_ not to gain others' knowledge but to wipe their minds clean of painful memories or deadly secrets. Their memories aren't destroyed but merely stored in the book, where someone else might later retrieve them.; **Effect** You aren't [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]]
-
-*Source: Dark Archives (Remastered) p. 160*
-
-## 1 minute (concentrate, manipulate)
-
-**Activate—Mirror, Mirror** 1 minute ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** You activate the _calamity glass_ and obtain a vision related to a likely action or event within the next 48 hours. The _calamity glass_ decides what vision to show, though if you think about a specific event, the vision is typically at least tangentially related.
-
- No matter what, the mirror shows only tragedies. The mirror's visions are accurate but misleading, as they depict tragedies that could be averted but in so doing might lead to greater suffering.
-
- For example, a _calamity glass_ might show a family starving as the result of harbor officials turning away a boatload of improperly documented grain. Without intervention, this future will come to pass. What the mirror didn't show is the grain was improperly labeled and carelessly stored, resulting in its contamination with poisonous mold capable of killing hundreds. Purifying and then distributing the grain would avert both the calamity glass's vision and the greater suffering its curse attempted to create.; **Effect** once per week
-
-*Source: Dark Archives (Remastered) p. 160*
-
-## 1 minute (manipulate)
-
-**Activate—Hide Message** ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** You tap the letters of your secret message one at a time, causing the letters to glow momentarily before fading to their standard ink color, and a symbol of your choice appears at the corner of the page. The next time someone taps the symbol with a writing instrument, the chosen letters glow again, revealing the secret message, and then the power of the parchment is spent.
-
-*Source: Dark Archives (Remastered) p. 82*
-
-## Amulet's Abeyance  *Action*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
+[<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
 
 `Magical`  `Manipulate`  `Thaumaturge`
 
@@ -146,7 +21,9 @@ You forcefully present your amulet to turn away harm. You or a target ally withi
 
 *Source: Dark Archives (Remastered) p. 36*
 
-## Calculate Threats  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Calculate Threats
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Mental`  `Psyche`  `Psychic`
 
@@ -154,7 +31,9 @@ Your subconscious automatically calculates vectors and forces when your mind is 
 
 *Source: Dark Archives (Remastered) p. 16*
 
-## Drink from the Chalice  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Drink from the Chalice
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Magical`  `Manipulate`  `Thaumaturge`
 
@@ -166,7 +45,9 @@ Sip A sip grants the drinker an amount of [[srd/pf2e/books/player-core/chapter-8
 
 *Source: Dark Archives (Remastered) p. 37*
 
-## Expel Maelstrom  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Expel Maelstrom
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Curse`  `Occult`
 
@@ -184,7 +65,9 @@ You expel the maelstrom from your body, sending the energy to reside in one unlu
 
 *Source: Dark Archives (Remastered) p. 168*
 
-## Exploit Vulnerability  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Exploit Vulnerability
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Esoterica`  `Manipulate`  `Thaumaturge`
 
@@ -203,7 +86,9 @@ You scour your experiences and learning to identify something that might repel y
 
 *Source: Dark Archives (Remastered) p. 32*
 
-## Fade into Daydreams  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Fade into Daydreams
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Illusion`  `Psyche`  `Psychic`
 
@@ -211,7 +96,9 @@ Your flights of imagination spill into the real world, causing you to become ind
 
 *Source: Dark Archives (Remastered) p. 16*
 
-## Fling Magic  *Action*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## Fling Magic
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 `Concentrate`  `Magical`  `Manipulate`  `Thaumaturge`
 
@@ -227,7 +114,9 @@ You fling magical energy at a target within 60 feet, dealing 3d4 damage, with a 
 
 *Source: Dark Archives (Remastered) p. 41*
 
-## Implements Interruption  *Action*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
+## Implements Interruption
+
+[<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
 
 `Magical`  `Thaumaturge`
 
@@ -238,7 +127,9 @@ Your weapon senses a moment of weakness and guides your hand to strike down a fo
 
 *Source: Dark Archives (Remastered) p. 41*
 
-## Intensify Vulnerability  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Intensify Vulnerability
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Concentrate`  `Esoterica`  `Magical`  `Thaumaturge`
 
@@ -249,7 +140,9 @@ You present your implement and esoterica again, intensifying their effects on th
 
 *Source: Dark Archives (Remastered) p. 35*
 
-## Mirror's Reflection  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Mirror's Reflection
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Illusion`  `Magical`  `Manipulate`  `Thaumaturge`
 
@@ -263,7 +156,9 @@ You reflect an illusory image of yourself into another unoccupied space within 1
 
 *Source: Dark Archives (Remastered) p. 39*
 
-## Psychic Defense  *Action*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
+## Psychic Defense
+
+[<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
 
 `Concentrate`  `Magical`
 
@@ -275,7 +170,9 @@ You gain the benefit matching your psychic center against the triggering manifes
 
 *Source: Dark Archives (Remastered) p. 201*
 
-## Recall the Teachings  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Recall the Teachings
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Occult`  `Psyche`  `Psychic`
 
@@ -283,7 +180,9 @@ The heightened power of your psyche lets you recall every lesson you've ever lea
 
 *Source: Dark Archives (Remastered) p. 15*
 
-## Recenter  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Recenter
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Concentrate`
 
@@ -293,7 +192,9 @@ You adopt the psychic center matching the emotion of your choice. If you were al
 
 *Source: Dark Archives (Remastered) p. 201*
 
-## Restore the Mind  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Restore the Mind
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Emotion`  `Healing`  `Mental`  `Psyche`  `Psychic`
 
@@ -302,7 +203,9 @@ The ally gains a +1 status bonus to saving throws against [[srd/pf2e/compendium/
 
 *Source: Dark Archives (Remastered) p. 15*
 
-## Ring Bell  *Action*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
+## Ring Bell
+
+[<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
 
 `Auditory`  `Magical`  `Manipulate`  `Sonic`  `Thaumaturge`
 
@@ -314,7 +217,9 @@ Your implement sings out abruptly, disrupting your foe. The piece played depends
 
 *Source: Dark Archives (Remastered) p. 37*
 
-## Unleash Psyche  *Action*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")
+## Unleash Psyche
+
+[ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")
 
 `Psychic`
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/force
 - spell/level/1
 aliases: ["Shield"]
-aon_id: "spell-1671"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1671"
 source: "Player Core"
 ---
 
@@ -18,8 +17,8 @@ source: "Player Core"
 
 - **Traditions**: Arcane, Divine, Occult
 - **Spell Lists**: Elemental
-- **Bloodlines**: Draconic, Aesir
-- **Mystery**: Battle
+- **Bloodlines**: [[srd/pf2e/compendium/character/bloodlines#Draconic|Draconic]], [[srd/pf2e/compendium/character/bloodlines#Aesir|Aesir]]
+- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Battle|Battle]]
 - **Duration**: until the start of your next turn
 
 You raise a magical shield of force. This counts as using the Raise a Shield action, giving you a +1 circumstance bonus to AC until the start of your next turn, but it doesn't require a hand to use.

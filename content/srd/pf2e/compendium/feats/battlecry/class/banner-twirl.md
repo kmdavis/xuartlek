@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - feat/level/4
 aliases: ["Banner Twirl"]
-aon_id: "feat-7803"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7803"
 source: "Battlecry!"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -10,7 +9,7 @@ tags:
 - trait/positive
 - spell/level/2
 aliases: ["Draw Blood"]
-aon_id: "spell-2682"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2682"
 source: "Impossible Magic"
 ---
 

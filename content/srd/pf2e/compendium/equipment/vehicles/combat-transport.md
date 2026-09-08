@@ -1,17 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/battlecry
 - vehicle/level/15
 aliases: ["Combat Transport"]
-aon_id: "vehicle-92"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=92"
 source: "Battlecry!"
 ---
 
 # Combat Transport  *Vehicle 15*
 
-- **Price**: 20,000 gp
+- **Price**: 20, 000 gp
 
 These massive vehicles incorporate multiple gas filled bladders and clockwork technology to quickly deploy troops in battle. With a large fuselage bracketed by equally large gas bladders, combat transports utilize both aft-mounted and bottommounted clockwork fans to move and hover.
 

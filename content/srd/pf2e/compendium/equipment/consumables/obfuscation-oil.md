@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -8,7 +7,7 @@ tags:
 - trait/oil
 - equipment/level/15
 aliases: ["Obfuscation Oil"]
-aon_id: "equipment-2932"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2932"
 source: "GM Core"
 ---
 
@@ -16,7 +15,7 @@ source: "GM Core"
 
 `Consumable`  `Magical`  `Oil`
 
-- **Price**: 1,200 gp
+- **Price**: 1, 200 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
 - **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])

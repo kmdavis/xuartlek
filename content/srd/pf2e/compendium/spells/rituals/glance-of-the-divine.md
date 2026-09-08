@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/uncommon
 - ritual/level/2
 aliases: ["Glance of the Divine"]
-aon_id: "ritual-254"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=254"
 source: "Impossible Magic"
 ---
 

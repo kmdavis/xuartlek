@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core
 aliases: ["Daemon"]
-aon_id: "creature-family-386"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=386"
 source: "Monster Core"
 ---
 
@@ -22,7 +21,7 @@ Denizens of the bleak and terrible plane of [[srd/pf2e/compendium/gm/planes#Abad
 
 ### Daemonic Divinities
 
-Numerous powerful and unique daemon demigods, known collectively as harbingers, rule over swaths of Abaddon. Above these demigods, though, are entities of even greater power—the four Apocalypse Riders. As the eons go on, the names and identities of specific Riders change. Currently, they consist of Apollyon (Rider of Pestilence), Charon (Rider of Death), Szuriel (Rider of War), and Trelmarixian (Rider of Famine). Of these, only Charon has never fallen to an upstart. Some hold that a “Fifth Rider” once ruled over the other four, while others maintain that the eternally eclipsed sun in the skies above Abaddon is all that remains of this long-dead god.
+Numerous powerful and unique daemon demigods, known collectively as harbingers, rule over swaths of Abaddon. Above these demigods, though, are entities of even greater power—the four Apocalypse Riders. As the eons go on, the names and identities of specific Riders change. Currently, they consist of [[srd/pf2e/compendium/deities/apocalypse-riders/apollyon|Apollyon]] (Rider of Pestilence), [[srd/pf2e/compendium/deities/apocalypse-riders/charon|Charon]] (Rider of Death), [[srd/pf2e/compendium/deities/apocalypse-riders/szuriel|Szuriel]] (Rider of War), and [[srd/pf2e/compendium/deities/apocalypse-riders/trelmarixian|Trelmarixian]] (Rider of Famine). Of these, only Charon has never fallen to an upstart. Some hold that a “Fifth Rider” once ruled over the other four, while others maintain that the eternally eclipsed sun in the skies above Abaddon is all that remains of this long-dead god.
 
 ### Other Daemons
 

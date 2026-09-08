@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Veiled Current"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Veiled Current"
 level: 8
 source: "Rage of Elements"
-aon_id: "creature-2618"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2618"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Deep One"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Deep One"
 level: 1
 source: "Monster Core 2"
-aon_id: "creature-4314"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4314"
 ---
 

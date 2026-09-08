@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -13,7 +12,7 @@ tags:
 - trait/positive
 - spell/level/4
 aliases: ["Vital Luminance"]
-aon_id: "spell-1837"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1837"
 source: "Player Core"
 ---
 

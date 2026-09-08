@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-archetype
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 - archetype/level/2
 aliases: ["Clawdancer"]
-aon_id: "archetype-221"
+aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=221"
 source: "Howl of the Wild"
 ---
 

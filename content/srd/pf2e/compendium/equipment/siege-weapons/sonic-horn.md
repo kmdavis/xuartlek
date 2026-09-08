@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - siege-weapon/level/10
 aliases: ["Sonic Horn"]
-aon_id: "siege-weapon-29"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=29"
 source: "Howl of the Wild"
 ---
 
@@ -17,7 +16,7 @@ source: "Howl of the Wild"
 
 `Magical`  `Mounted`  `Sonic`  `Uncommon`
 
-- **Price**: 2,000 gp
+- **Price**: 2, 000 gp
 - **Ammunition**: resonating orb (320 gp, 6 Bulk)
 
 **Usage** mounted

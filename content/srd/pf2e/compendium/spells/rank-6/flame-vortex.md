@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -9,7 +8,7 @@ tags:
 - trait/manipulate
 - spell/level/6
 aliases: ["Flame Vortex"]
-aon_id: "spell-2705"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2705"
 source: "Impossible Magic"
 ---
 
@@ -18,7 +17,7 @@ source: "Impossible Magic"
 `Air`  `Concentrate`  `Fire`  `Manipulate`
 
 - **Traditions**: Arcane, Primal
-- **Deity**: Talons of the Godclaw
+- **Deity**: [[srd/pf2e/compendium/deities/pantheons/talons-of-the-godclaw|Talons of the Godclaw]]
 - **Range**: 120 feet
 - **Area**: 5-foot radius, 40-foot tall cylinder
 - **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex

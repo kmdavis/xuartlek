@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/fortune
 - feat/level/12
 aliases: ["Lesson of Unified Elusion"]
-aon_id: "feat-7953"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7953"
 source: "Battlecry!"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Adult Rune Dragon"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Adult Rune Dragon"
 level: 14
 source: "Monster Core 2"
-aon_id: "creature-4364"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4364"
 ---
 

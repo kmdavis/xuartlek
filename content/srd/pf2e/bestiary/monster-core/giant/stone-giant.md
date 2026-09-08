@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Stone Giant"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Stone Giant"
 level: 8
 source: "Monster Core"
-aon_id: "creature-3012"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3012"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [6, 2, 4, 0, 4, 0]
 abilities_top:
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/club/greatclub|greatclub]]_"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/club/greatclub|greatclub]]_"
 ac: 27
 armorclass:
   - name: "AC"

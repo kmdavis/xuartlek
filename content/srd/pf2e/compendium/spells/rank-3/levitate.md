@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/3
 aliases: ["Levitate"]
-aon_id: "spell-1584"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1584"
 source: "Player Core"
 ---
 
@@ -17,8 +16,8 @@ source: "Player Core"
 
 - **Traditions**: Arcane, Occult
 - **Spell Lists**: Elemental
-- **Deity**: Nethys
-- **Lesson**: Lesson of the Flock
+- **Deity**: [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/nethys|Nethys]]
+- **Lesson**: [[srd/pf2e/compendium/character/lessons#Lesson of the Flock|Lesson of the Flock]]
 - **Range**: touch
 - **Target**: 1 unattended object or willing creature
 - **Duration**: 5 minutes

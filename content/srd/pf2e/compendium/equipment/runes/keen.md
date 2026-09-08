@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - equipment/level/13
 aliases: ["Keen"]
-aon_id: "equipment-2843"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2843"
 source: "GM Core"
 ---
 
@@ -15,7 +14,7 @@ source: "GM Core"
 
 `Magical`  `Uncommon`
 
-- **Price**: 3,000 gp
+- **Price**: 3, 000 gp
 - **Usage**: etched onto a piercing or slashing melee weapon
 
 The edges of a _keen_ weapon are preternaturally sharp. Attacks with this weapon are a critical hit on a 19 on the die as long as that result is a success. This property has no effect on a 19 if the result would be a failure.

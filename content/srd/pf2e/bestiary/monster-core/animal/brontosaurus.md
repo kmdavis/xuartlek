@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Brontosaurus"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Brontosaurus"
 level: 10
 source: "Monster Core"
-aon_id: "creature-2922"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2922"
 ---
 

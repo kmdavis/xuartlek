@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Bill-Band"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Bill-Band"
 level: 5
 source: "NPC Core"
-aon_id: "creature-3645"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3645"
 ---
 

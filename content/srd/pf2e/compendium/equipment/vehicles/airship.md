@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/gm-core
 - trait/rare
 - vehicle/level/12
 aliases: ["Airship"]
-aon_id: "vehicle-57"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=57"
 source: "GM Core"
 ---
 
@@ -14,7 +13,7 @@ source: "GM Core"
 
 `Rare`
 
-- **Price**: 6,000 gp
+- **Price**: 6, 000 gp
 
 **Space** 90 feet long, 30 feet wide, 60 feet high
 

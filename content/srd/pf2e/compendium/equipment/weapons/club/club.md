@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
 - trait/thrown
 - weapon/level/0
 aliases: ["Club"]
-aon_id: "weapon-357"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=357"
 source: "Player Core"
 ---
 
@@ -14,7 +13,7 @@ source: "Player Core"
 
 `Thrown`
 
-- **Favored Weapon**: Barzahk, [[srd/pf2e/compendium/character/deities#Green Man|Green Man]], Halcamora, Shumunue, Valani
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/monitor-demigods/barzahk|Barzahk]], [[srd/pf2e/compendium/deities/green-man-faiths/green-man|Green Man]], Halcamora, [[srd/pf2e/compendium/deities/elemental-lords/shumunue|Shumunue]], [[srd/pf2e/compendium/deities/empyreal-lords/valani|Valani]]
 - **Price**: —
 - **Damage**: 1d6 B
 - **Bulk**: 1

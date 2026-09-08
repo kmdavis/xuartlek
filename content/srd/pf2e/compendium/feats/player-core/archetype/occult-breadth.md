@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/archetype
 - feat/level/8
 aliases: ["Occult Breadth"]
-aon_id: "feat-5063"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5063"
 source: "Player Core"
 ---
 

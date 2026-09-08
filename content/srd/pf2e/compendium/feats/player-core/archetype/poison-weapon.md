@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/rogue
 - feat/level/4
 aliases: ["Poison Weapon"]
-aon_id: "feat-4933"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4933"
 source: "Player Core"
 ---
 
@@ -15,7 +14,7 @@ source: "Player Core"
 
 `Manipulate`  `Rogue`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/assassin|Assassin]] (Level 6), [[srd/pf2e/compendium/character/archetypes/poisoner|Poisoner]] (Level 6), Drow Shootist (Level 8), [[srd/pf2e/compendium/character/archetypes/assassin|Assassin]] (Level 6), [[srd/pf2e/compendium/character/archetypes/poisoner|Poisoner]] (Level 6), Red Mantis Assassin (Level 6)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/assassin|Assassin]] (Level 6), [[srd/pf2e/compendium/character/archetypes/poisoner|Poisoner]] (Level 6), Drow Shootist (Level 8), Red Mantis Assassin (Level 6)
 - **Requirements**: You are wielding a weapon.
 
 You apply a contact poison or injury poison to the required weapon; if you have a free hand, you can Interact to draw a poison as part of this action. This poison can be one of the simple injury poisons you can create due to this feat (see Special), or another contact or injury poison you’ve acquired (such as those in GM Core).

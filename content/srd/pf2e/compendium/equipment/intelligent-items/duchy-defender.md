@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/rare
 - equipment/level/13
 aliases: ["Duchy Defender"]
-aon_id: "equipment-1179"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1179"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -18,7 +17,7 @@ source: "Guns & Gears (Remastered)"
 
 - **Usage**: held in 2 hands
 - **Bulk**: 1
-- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/firearm/flintlock-musket|Flintlock Musket]]
+- **Base Weapon**: Flintlock Musket
 
 **Perception** +26; precise vision 60 feet, imprecise hearing 30 feet
 
@@ -32,7 +31,7 @@ source: "Guns & Gears (Remastered)"
 
 --- 
 
-Patriotic to the extreme, this _+2 flaming greater striking [[srd/pf2e/compendium/equipment/weapons/firearm/flintlock-musket|flintlock musket]]_ was among the first firearms forged in the Gunworks and was wielded by Ancil Alkenstar, founder of the Grand Duchy of Alkenstar. In Alkenstar's hands, the musket was used to defend the burgeoning Grand Duchy from outside threats, including mutants of the Mana Wastes, Nexian constructs, and [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]] from Geb. After Ancil's death, the weapon was passed down, per his own decree, not to his heirs but to the greatest defender of Alkenstar, as determined by the weapon's previous owner. Over time, the devotion and heroism of each successive wielder left a psychic imprint on the weapon, until it developed an intellect and drive of its own.
+Patriotic to the extreme, this _+2 flaming greater striking flintlock musket_ was among the first firearms forged in the Gunworks and was wielded by Ancil Alkenstar, founder of the Grand Duchy of Alkenstar. In Alkenstar's hands, the musket was used to defend the burgeoning Grand Duchy from outside threats, including mutants of the Mana Wastes, Nexian constructs, and [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]] from Geb. After Ancil's death, the weapon was passed down, per his own decree, not to his heirs but to the greatest defender of Alkenstar, as determined by the weapon's previous owner. Over time, the devotion and heroism of each successive wielder left a psychic imprint on the weapon, until it developed an intellect and drive of its own.
 
  A _duchy defender_ is a powerful weapon with a rigid personality. It follows the laws of Alkenstar to the letter, and fights in defense of its nation. If these two priorities ever clash, a _duchy defender_ prioritizes the protection of Alkenstar and its citizens over following the laws themselves, since laws can change, but the people will always need protecting.
 

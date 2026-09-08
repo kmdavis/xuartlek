@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Tiger"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Tiger"
 level: 4
 source: "Monster Core"
-aon_id: "creature-2867"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2867"
 ---
 

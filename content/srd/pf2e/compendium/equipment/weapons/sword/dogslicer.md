@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/uncommon
 - weapon/level/0
 aliases: ["Dogslicer"]
-aon_id: "weapon-405"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=405"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 
 `Agile`  `Backstabber`  `Finesse`  `Goblin`  `Uncommon`
 
-- **Favored Weapon**: Zarongel
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/goblin-gods/zarongel|Zarongel]]
 - **Price**: 1 sp
 - **Damage**: 1d6 S
 - **Bulk**: L

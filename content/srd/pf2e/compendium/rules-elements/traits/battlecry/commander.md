@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/battlecry
 - trait/commander
 aliases: ["Commander"]
-aon_id: "trait-855"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=855"
 source: "Battlecry!"
 ---
 

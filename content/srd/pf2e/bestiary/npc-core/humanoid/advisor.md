@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Advisor"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Advisor"
 level: 5
 source: "NPC Core"
-aon_id: "creature-3420"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3420"
 ---
 
@@ -38,7 +36,7 @@ abilities_top:
   - name: "Placate"
     desc: "An advisor is well versed in soothing agitated nobles. Their calming voice gives them a +2 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] and [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] checks when dealing with members of the nobility."
   - name: "Items"
-    desc: "Dagger (2), [[srd/pf2e/compendium/equipment/adventuring-gear/clothing-desert|fine clothes]], _[[srd/pf2e/compendium/equipment/consumables/healing-potion-major|minor healing potion]]_, [[srd/pf2e/compendium/equipment/adventuring-gear/musical-instrument-virtuoso-heavy|small harp]], Whip"
+    desc: "Dagger (2), [[srd/pf2e/compendium/equipment/adventuring-gear/clothing|fine clothes]], _[[srd/pf2e/compendium/equipment/consumables/healing-potion|minor healing potion]]_, [[srd/pf2e/compendium/equipment/adventuring-gear/musical-instrument|small harp]], Whip"
 ac: 21
 armorclass:
   - name: "AC"

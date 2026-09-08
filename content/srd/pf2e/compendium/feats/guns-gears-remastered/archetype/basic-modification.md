@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/archetype
 - feat/level/8
 aliases: ["Basic Modification"]
-aon_id: "feat-3117"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3117"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -17,6 +16,6 @@ source: "Guns & Gears (Remastered)"
 - **Archetype**: [[srd/pf2e/compendium/character/archetypes/inventor|Inventor]]
 - **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/inventor-dedication|Inventor Dedication]]
 
-You've learned to modify your innovation in order to enhance its capabilities beyond what an ordinary piece of equipment can accomplish. You gain a basic modification of your choice for your innovation. Your innovation must meet any requirements for the modification you choose, as normal.
+You've learned to modify your innovation in order to enhance its capabilities beyond what an ordinary piece of equipment can accomplish. You gain a basic modification of your choice for your [[srd/pf2e/compendium/character/innovations|innovation]]. Your innovation must meet any requirements for the modification you choose, as normal.
 
 *Source: Guns & Gears (Remastered) p. 49*

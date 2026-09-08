@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -7,7 +6,7 @@ tags:
 - trait/rare
 - equipment/level/15
 aliases: ["Alicorn Trigger"]
-aon_id: "equipment-3214"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3214"
 source: "Howl of the Wild"
 ---
 
@@ -15,12 +14,12 @@ source: "Howl of the Wild"
 
 `Magical`  `Rare`
 
-- **Price**: 6,500 gp
+- **Price**: 6, 500 gp
 - **Usage**: held in 1 hand
 - **Bulk**: 1
 - **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/firearm/jezail|Jezail]]
 
-This _+2 [[srd/pf2e/compendium/equipment/runes/striking-major|greater striking]] [[srd/pf2e/compendium/equipment/weapons/firearm/jezail|jezail]]_ features a preserved [[srd/pf2e/bestiary/howl-of-the-wild/beast/alicorn|alicorn]] horn mounted underneath the barrel. Such a horn is usually willingly granted by the creature at the end of its natural lifespan, but some wicked gunsmiths acquire the horn through violence.
+This _+2 [[srd/pf2e/compendium/equipment/runes/striking|greater striking]] [[srd/pf2e/compendium/equipment/weapons/firearm/jezail|jezail]]_ features a preserved [[srd/pf2e/bestiary/howl-of-the-wild/beast/alicorn|alicorn]] horn mounted underneath the barrel. Such a horn is usually willingly granted by the creature at the end of its natural lifespan, but some wicked gunsmiths acquire the horn through violence.
 
 **Activate—Glimmer Beam** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** The alicorn trigger unleashes a beam of radiant light in a 60-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Line|line]]. Creatures in the area of effect take 6d6 fire damage and must attempt a DC 33 Fortitude save.
 

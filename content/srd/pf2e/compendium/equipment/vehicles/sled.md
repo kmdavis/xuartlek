@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/gm-core
 - vehicle/level/0
 aliases: ["Sled"]
-aon_id: "vehicle-67"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=67"
 source: "GM Core"
 ---
 

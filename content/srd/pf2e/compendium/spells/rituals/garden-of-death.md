@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - ritual/level/4
 aliases: ["Garden of Death"]
-aon_id: "ritual-253"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=253"
 source: "Impossible Magic"
 ---
 

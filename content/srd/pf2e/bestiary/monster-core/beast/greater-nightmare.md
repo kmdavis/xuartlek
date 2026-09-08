@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Greater Nightmare"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Greater Nightmare"
 level: 11
 source: "Monster Core"
-aon_id: "creature-3106"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3106"
 ---
 

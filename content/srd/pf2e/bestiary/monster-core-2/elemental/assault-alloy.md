@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Assault Alloy"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Assault Alloy"
 level: 13
 source: "Monster Core 2"
-aon_id: "creature-4084"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4084"
 ---
 
@@ -59,7 +57,7 @@ attacks:
     desc: "⬻ metal needle +27 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|Arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], range increment 60 feet) __Damage__ 3d8+11 piercing plus idle transmutation"
 abilities_bot:
   - name: "Idle Transmutation"
-    desc: "An assault alloy has full alchemical control over the properties of their metal. Each time they make a metal needle Strike or [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/activating-items#Cast a Spell|Cast a Spell]] with the [[srd/pf2e/compendium/rules-elements/traits/player-core/metal|metal]] trait, they choose whether the metal they use is [[srd/pf2e/compendium/equipment/materials/adamantine-object-high-grade|adamantine]], [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]], [[srd/pf2e/compendium/equipment/materials/dawnsilver-object-high-grade|dawnsilver]], or any other solid precious metal."
+    desc: "An assault alloy has full alchemical control over the properties of their metal. Each time they make a metal needle Strike or [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/activating-items#Cast a Spell|Cast a Spell]] with the [[srd/pf2e/compendium/rules-elements/traits/player-core/metal|metal]] trait, they choose whether the metal they use is [[srd/pf2e/compendium/equipment/materials/adamantine|adamantine]], [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]], [[srd/pf2e/compendium/equipment/materials/dawnsilver|dawnsilver]], or any other solid precious metal."
   - name: "Metal Blink"
     desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/move|Move]])"
   - name: "Requirements"

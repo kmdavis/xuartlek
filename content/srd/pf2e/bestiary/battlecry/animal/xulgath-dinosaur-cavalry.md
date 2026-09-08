@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Xulgath Dinosaur Cavalry"
 tags:
@@ -14,7 +13,6 @@ statblock: inline
 name: "Xulgath Dinosaur Cavalry"
 level: 13
 source: "Battlecry!"
-aon_id: "creature-3945"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3945"
 ---
 

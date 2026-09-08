@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Agyra"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Agyra"
 level: 23
 source: "War of Immortals"
-aon_id: "creature-3406"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3406"
 ---
 

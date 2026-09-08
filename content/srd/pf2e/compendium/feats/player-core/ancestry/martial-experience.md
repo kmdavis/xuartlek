@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/elf
 - feat/level/5
 aliases: ["Martial Experience"]
-aon_id: "feat-4414"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4414"
 source: "Player Core"
 ---
 

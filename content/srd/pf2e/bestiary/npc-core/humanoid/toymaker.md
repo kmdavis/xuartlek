@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Toymaker"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Toymaker"
 level: 3
 source: "NPC Core"
-aon_id: "creature-3460"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3460"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [0, 3, 1, 3, 2, 2]
 abilities_top:
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit-sterling|Artisan's Toolkit]] (toymaking), Hand Crossbow (10 punchout bolts)"
+    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit|Artisan's Toolkit]] (toymaking), Hand Crossbow (10 punchout bolts)"
 ac: 18
 armorclass:
   - name: "AC"

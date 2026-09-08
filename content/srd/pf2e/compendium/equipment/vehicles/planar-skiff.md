@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -7,7 +6,7 @@ tags:
 - trait/rare
 - vehicle/level/15
 aliases: ["Planar Skiff"]
-aon_id: "vehicle-56"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=56"
 source: "Rage of Elements"
 ---
 
@@ -15,7 +14,7 @@ source: "Rage of Elements"
 
 `Magical`  `Rare`
 
-- **Price**: 19,500 gp
+- **Price**: 19, 500 gp
 
 A planar skiff is a flat-bottomed ship designed to travel the Great Beyond. A wide variety of skiffs course the planes, with designs incorporating their home planes' fashions and materials. Their magical sails allow them to catch planar currents, and their wards protect travelers as they move across planar boundaries. To allow travel to multiple planes, a _planar skiff_ can have multiple planar keys installed (including items like a _[[srd/pf2e/compendium/equipment/held-items/cipher-of-the-elemental-planes|cipher of the elemental planes]]_). Installing or removing one takes 10 minutes. A planar skiff is typically built with one planar key from its plane of manufacture and a second for a destination plane.
 

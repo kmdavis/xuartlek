@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/gm-core
 - trait/astral
 aliases: ["Astral"]
-aon_id: "trait-538"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=538"
 source: "GM Core"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/2
 aliases: ["Acid Grip"]
-aon_id: "spell-1436"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1436"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Acid`  `Concentrate`  `Manipulate`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Telvrys, The Devourer
+- **Deities**: Telvrys, [[srd/pf2e/compendium/deities/other-gods/the-devourer|The Devourer]]
 - **Range**: 120 feet
 - **Target**: 1 creature
 - **Defense**: Reflex

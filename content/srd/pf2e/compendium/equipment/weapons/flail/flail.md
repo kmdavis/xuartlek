@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/trip
 - weapon/level/0
 aliases: ["Flail"]
-aon_id: "weapon-374"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=374"
 source: "Player Core"
 ---
 
@@ -16,7 +15,7 @@ source: "Player Core"
 
 `Disarm`  `Sweep`  `Trip`
 
-- **Favored Weapon**: Aesocar, Anubis, Arshea, Daikitsu, Hadregash, Kabriri, Nhimbaloth, Osiris, The Offering Plate
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/azlanti-pantheon/aesocar|Aesocar]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/anubis|Anubis]], [[srd/pf2e/compendium/deities/empyreal-lords/arshea|Arshea]], Daikitsu, [[srd/pf2e/compendium/deities/goblin-gods/hadregash|Hadregash]], [[srd/pf2e/compendium/deities/demon-lords/kabriri|Kabriri]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nhimbaloth|Nhimbaloth]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/osiris|Osiris]], The Offering Plate
 - **Price**: 8 sp
 - **Damage**: 1d6 B
 - **Bulk**: 1

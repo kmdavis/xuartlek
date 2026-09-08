@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Jyoti"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Jyoti"
 level: 9
 source: "Monster Core 2"
-aon_id: "creature-4452"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4452"
 ---
 
@@ -40,7 +38,7 @@ skills:
 abilityMods: [3, 5, 4, 5, 6, 3]
 abilities_top:
   - name: "Items"
-    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/spear/longspear|longspear]]_"
+    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/spear/longspear|longspear]]_"
 ac: 28
 armorclass:
   - name: "AC"
@@ -64,7 +62,7 @@ abilities_bot:
   - name: "Breath of Burning Life"
     desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/fire|Fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]], [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]]) The jyoti breathes a blast of searing flame infused with vitality energy in a 40-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Cone|cone]] that deals 8d6 fire damage plus 4d6 vitality damage to creatures in the area (DC 28 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). The jyoti can't use Breath of Burning Life again for 1d4 rounds."
   - name: "Infuse Weapons"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]]) Any weapon a jyoti wields becomes a _[[srd/pf2e/compendium/equipment/runes/flaming-greater|flaming]] [[srd/pf2e/compendium/equipment/runes/ghost-touch|ghost touch]] weapon_ while the jyoti holds it. Crystal Vaults Jyotis make ideal guardians for artifacts too dangerous to be left where those hungry for power might seize them. Only they know what items of myth and legend, long thought lost or destroyed, lie within their crystal vaults. They're unreliable guardians of religious artifacts, however, which usually disgust them."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]]) Any weapon a jyoti wields becomes a _[[srd/pf2e/compendium/equipment/runes/flaming|flaming]] [[srd/pf2e/compendium/equipment/runes/ghost-touch|ghost touch]] weapon_ while the jyoti holds it. Crystal Vaults Jyotis make ideal guardians for artifacts too dangerous to be left where those hungry for power might seize them. Only they know what items of myth and legend, long thought lost or destroyed, lie within their crystal vaults. They're unreliable guardians of religious artifacts, however, which usually disgust them."
 spellcasting:
   - name: "Occult Innate Spells"
     desc: "DC 28, attack +20 - __Cantrips (5th)__ [[srd/pf2e/compendium/spells/cantrips/light|Light]], [[srd/pf2e/compendium/spells/cantrips/vitality-lash|Vitality Lash]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/cleanse-affliction|Cleanse Affliction]], [[srd/pf2e/compendium/spells/rank-2/clear-mind|Clear Mind]], [[srd/pf2e/compendium/spells/rank-2/sound-body|Sound Body]] - __3rd__ [[srd/pf2e/compendium/spells/rank-1/heal|Heal]] (×3) - __4th__ [[srd/pf2e/compendium/spells/rank-1/heal|Heal]], [[srd/pf2e/compendium/spells/rank-3/holy-light|Holy Light]], [[srd/pf2e/compendium/spells/rank-4/translocate|Translocate]] - __5th__ [[srd/pf2e/compendium/spells/rank-5/banishment|Banishment]], [[srd/pf2e/compendium/spells/rank-5/breath-of-life|Breath of Life]]"

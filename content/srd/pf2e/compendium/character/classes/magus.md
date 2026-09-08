@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class
 tags:
 - compendium/src/pf2e/impossible-magic
 aliases: ["Magus"]
-aon_id: "class-74"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=74"
 source: "Impossible Magic"
 ---
 

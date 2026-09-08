@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Dwarf General"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Dwarf General"
 level: 8
 source: "NPC Core"
-aon_id: "creature-3629"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3629"
 ---
 
@@ -42,7 +40,7 @@ abilities_top:
   - name: "Effect"
     desc: "The general unleashes a command to ready for combat. Each ally within 120 feet that can hear the general can either [[srd/pf2e/compendium/rules-elements/actions/player-core#Raise a Shield|Raise a Shield]] or Step as a free action when it rolls initiative."
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/weapons/crossbow/arbalest|Arbalest]] (10 bolts), Clan Dagger, Full Plate, Steel Shield (Hardness 5, HP 20, BT 10), _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/hammer/warhammer|warhammer]]_"
+    desc: "[[srd/pf2e/compendium/equipment/weapons/crossbow/arbalest|Arbalest]] (10 bolts), Clan Dagger, Full Plate, Steel Shield (Hardness 5, HP 20, BT 10), _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/hammer/warhammer|warhammer]]_"
 ac: 26
 armorclass:
   - name: "AC"

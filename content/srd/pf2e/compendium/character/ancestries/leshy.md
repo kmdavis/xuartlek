@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ancestry
 tags:
 - compendium/src/pf2e/player-core
 - trait/leshy
 - trait/plant
 aliases: ["Leshy"]
-aon_id: "ancestry-65"
+aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=65"
 source: "Player Core"
 ---
 
@@ -34,7 +33,7 @@ To most leshies, the concept of family is not a matter of birth, but rather dete
 
 ### Alignment and Religion
 
-Leshies' beliefs generally focus on the natural world. Those with a philosophical bent lean toward the Green Faith, and Gozreh is the most popular deity among faithful leshies. Some leshies also venerate green men, powerful spirits of nature.
+Leshies' beliefs generally focus on the natural world. Those with a philosophical bent lean toward the [[srd/pf2e/compendium/deities/faiths-philosophies/green-faith|Green Faith]], and [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/gozreh|Gozreh]] is the most popular deity among faithful leshies. Some leshies also venerate green men, powerful spirits of nature.
 
  **Popular Edicts** experience the physical world, form a family through loyalty and trust, protect parts of nature you embody
  **Popular Anathema** embrace unnatural magic or influences

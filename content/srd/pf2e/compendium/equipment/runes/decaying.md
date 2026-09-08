@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -8,7 +7,7 @@ tags:
 - trait/negative
 - equipment/level/8
 aliases: ["Decaying"]
-aon_id: "equipment-2835"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2835"
 source: "GM Core"
 ---
 

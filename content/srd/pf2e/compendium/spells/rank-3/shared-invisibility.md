@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -9,7 +8,7 @@ tags:
 - trait/subtle
 - spell/level/3
 aliases: ["Shared Invisibility"]
-aon_id: "spell-2025"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2025"
 source: "Player Core 2"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core 2"
 `Aura`  `Illusion`  `Manipulate`  `Subtle`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Luhar, Thamir
+- **Deities**: Luhar, [[srd/pf2e/compendium/deities/other-gods/thamir|Thamir]]
 - **Area**: 30-foot emanation
 - **Target**: you and up to 5 willing creatures
 - **Duration**: 10 minutes

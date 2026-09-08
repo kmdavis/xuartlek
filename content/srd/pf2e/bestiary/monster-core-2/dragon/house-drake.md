@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "House Drake"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "House Drake"
 level: 1
 source: "Monster Core 2"
-aon_id: "creature-4370"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4370"
 ---
 
@@ -55,7 +53,7 @@ abilities_bot:
   - name: "Silver Breath"
     desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|Arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) The house drake breathes a 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Cone|cone]] of silver mist. Each creature within the mist must succeed at a DC 16 Will save or become [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] 2 for 1 round. The house drake can't use Silver Breath again for 1d4 rounds."
   - name: "Silver Strike"
-    desc: "House drakes sharpen their jaws on silver ornamentation until they incorporate bits of silver in their teeth. Their jaws Strike counts as [[srd/pf2e/compendium/equipment/materials/silver-object-high-grade|silver]]. Ancient Tails Some of the oldest tales told among Varisian travelers speak of tiny dragons sent by Desna to comfort and aid her followers during a long-forgotten tyranny. With the recent rediscovery of the ancient Thassilonian empire, some suggest that these tales—and thus house drakes themselves—first appeared back in that distant age."
+    desc: "House drakes sharpen their jaws on silver ornamentation until they incorporate bits of silver in their teeth. Their jaws Strike counts as [[srd/pf2e/compendium/equipment/materials/silver|silver]]. Ancient Tails Some of the oldest tales told among Varisian travelers speak of tiny dragons sent by [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/desna|Desna]] to comfort and aid her followers during a long-forgotten tyranny. With the recent rediscovery of the ancient Thassilonian empire, some suggest that these tales—and thus house drakes themselves—first appeared back in that distant age."
 spellcasting:
   - name: "Arcane Innate Spells"
     desc: "DC 17 - __1st__ [[srd/pf2e/compendium/spells/rank-1/alarm|Alarm]], [[srd/pf2e/compendium/spells/rank-1/soothe|Soothe]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/mist|Mist]], [[srd/pf2e/compendium/spells/rank-2/see-the-unseen|See the Unseen]]"

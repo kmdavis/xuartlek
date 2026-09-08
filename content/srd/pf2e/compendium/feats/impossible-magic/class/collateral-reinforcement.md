@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/occult
 - feat/level/6
 aliases: ["Collateral Reinforcement"]
-aon_id: "feat-9117"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9117"
 source: "Impossible Magic"
 ---
 

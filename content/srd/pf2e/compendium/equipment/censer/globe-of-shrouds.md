@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -9,7 +8,7 @@ tags:
 - trait/revelation
 - equipment/level/8
 aliases: ["Globe of Shrouds"]
-aon_id: "equipment-2604"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2604"
 source: "Rage of Elements"
 ---
 

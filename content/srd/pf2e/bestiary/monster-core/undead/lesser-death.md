@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Lesser Death"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Lesser Death"
 level: 16
 source: "Monster Core"
-aon_id: "creature-3037"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3037"
 ---
 
@@ -68,7 +66,7 @@ attacks:
     desc: "⬻ keen scythe +32 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly 2d10]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|Trip]]) __Damage__ 3d10+14 slashing plus 1d12 void"
 abilities_bot:
   - name: "Infuse Weapon"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]]) Any scythe gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]] trait, can't be disarmed, and becomes a _+2 [[srd/pf2e/compendium/equipment/runes/striking-major|greater striking]] [[srd/pf2e/compendium/equipment/runes/keen|keen]] scythe_ while the lesser death wields it."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]]) Any scythe gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]] trait, can't be disarmed, and becomes a _+2 [[srd/pf2e/compendium/equipment/runes/striking|greater striking]] [[srd/pf2e/compendium/equipment/runes/keen|keen]] scythe_ while the lesser death wields it."
 spellcasting:
   - name: "Divine Innate Spells"
     desc: "DC 38 - __2nd__ [[srd/pf2e/compendium/spells/rank-2/see-the-unseen|See the Unseen]] - __Constant (6th)__ [[srd/pf2e/compendium/spells/rank-6/truesight|Truesight]]"

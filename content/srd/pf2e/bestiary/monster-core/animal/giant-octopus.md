@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Giant Octopus"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Giant Octopus"
 level: 8
 source: "Monster Core"
-aon_id: "creature-3115"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3115"
 ---
 

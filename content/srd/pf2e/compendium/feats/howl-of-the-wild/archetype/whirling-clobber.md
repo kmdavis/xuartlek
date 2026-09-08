@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -7,7 +6,7 @@ tags:
 - trait/attack
 - feat/level/16
 aliases: ["Whirling Clobber"]
-aon_id: "feat-5485"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5485"
 source: "Howl of the Wild"
 ---
 

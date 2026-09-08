@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Bogwid"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Bogwid"
 level: 5
 source: "Monster Core"
-aon_id: "creature-2859"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2859"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -12,7 +11,7 @@ tags:
 - trait/uncommon
 - spell/level/1
 aliases: ["Incendiary Aura"]
-aon_id: "spell-2078"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2078"
 source: "Player Core 2"
 ---
 
@@ -20,7 +19,7 @@ source: "Player Core 2"
 
 `Aura`  `Concentrate`  `Fire`  `Focus`  `Manipulate`  `Oracle`  `Uncommon`
 
-- **Mystery**: Flames
+- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Flames|Flames]]
 - **Area**: 10-foot emanation
 - **Duration**: 1 minute
 

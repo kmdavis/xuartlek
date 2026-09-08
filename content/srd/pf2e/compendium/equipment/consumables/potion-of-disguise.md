@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/player-core-2
@@ -10,7 +9,7 @@ tags:
 - trait/uncommon
 - equipment/level/5
 aliases: ["Potion of Disguise"]
-aon_id: "equipment-3402"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3402"
 source: "Player Core 2"
 ---
 

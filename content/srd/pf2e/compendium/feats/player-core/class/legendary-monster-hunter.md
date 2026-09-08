@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/ranger
 - feat/level/16
 aliases: ["Legendary Monster Hunter"]
-aon_id: "feat-4904"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4904"
 source: "Player Core"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/primal
 - feat/level/2
 aliases: ["Ursine Avenger Form"]
-aon_id: "feat-4086"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4086"
 source: "Treasure Vault (Remastered)"
 ---
 

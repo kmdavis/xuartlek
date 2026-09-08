@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/wood
 - spell/level/3
 aliases: ["Cozy Cabin"]
-aon_id: "spell-1474"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1474"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Wood`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Aminara, Elion, Emmeton Galardaria, Good Neighbors, Immonhiel, Malthus, The Offering Plate, The Spirit Wall, Uskyeria, Yelayne
+- **Deities**: Aminara, [[srd/pf2e/compendium/deities/azlanti-pantheon/elion|Elion]], [[srd/pf2e/compendium/deities/other-gods/emmeton-galardaria|Emmeton Galardaria]], [[srd/pf2e/compendium/deities/covenants/good-neighbors|Good Neighbors]], Immonhiel, [[srd/pf2e/compendium/deities/infernal-dukes/malthus|Malthus]], The Offering Plate, [[srd/pf2e/compendium/deities/sarkorian-covenants/the-spirit-wall|The Spirit Wall]], [[srd/pf2e/compendium/deities/empyreal-lords/uskyeria|Uskyeria]], Yelayne
 - **Cast**: 1 minute
 - **Range**: 30 feet
 - **Duration**: 12 hours

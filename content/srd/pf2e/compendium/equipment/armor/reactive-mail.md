@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/magical
 - equipment/level/5
 aliases: ["Reactive Mail"]
-aon_id: "equipment-3821"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3821"
 source: "Battlecry!"
 ---
 
@@ -33,7 +32,7 @@ Often heavily battle scared from use, this [[srd/pf2e/compendium/equipment/armor
 
 ---
 
-The armor is _[[srd/pf2e/compendium/equipment/armor/magic-armor-3-major-resilient|+1 resilient]] [[srd/pf2e/compendium/equipment/armor#Chain Mail|chain mail]]_. The damage increases to 5d8 and the DC increases to 28.
+The armor is _[[srd/pf2e/compendium/equipment/armor/magic-armor|+1 resilient]] [[srd/pf2e/compendium/equipment/armor#Chain Mail|chain mail]]_. The damage increases to 5d8 and the DC increases to 28.
 
 ### Major Reactive Mail
 

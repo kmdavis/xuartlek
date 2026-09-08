@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/wizard
 - feat/level/10
 aliases: ["Scroll Adept"]
-aon_id: "feat-5040"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5040"
 source: "Player Core"
 ---
 

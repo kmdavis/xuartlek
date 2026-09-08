@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -9,7 +8,7 @@ tags:
 - trait/rare
 - siege-weapon/level/5
 aliases: ["Marking Powder Cannon"]
-aon_id: "siege-weapon-27"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=27"
 source: "Howl of the Wild"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Catoblepas"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Catoblepas"
 level: 12
 source: "Monster Core 2"
-aon_id: "creature-4293"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4293"
 ---
 

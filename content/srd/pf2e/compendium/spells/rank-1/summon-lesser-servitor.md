@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -8,7 +7,7 @@ tags:
 - trait/summon
 - spell/level/1
 aliases: ["Summon Lesser Servitor"]
-aon_id: "spell-2034"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2034"
 source: "Player Core 2"
 ---
 
@@ -23,7 +22,7 @@ source: "Player Core 2"
 
 While deities jealously guard their most powerful servants from the summoning spells of those who aren't steeped in the faith, this spell allows you to conjure an inhabitant of the [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/the-planes#Outer Sphere Planes|Outer Sphere]] with or without the deity's permission. You summon a common [[srd/pf2e/compendium/rules-elements/traits/player-core/celestial|celestial]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fiend|fiend]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/monitor|monitor]] of level –1. You can choose to instead summon an [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animal]] of level –1 that hails from the Outer Sphere; you can choose for this animal to gain the celestial and [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] traits, the fiend and [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] traits, or the monitor trait.
 
-It's anathema to summon a servitor if it has a holy or unholy trait that isn't allowed for your deity's sanctification. For example, Sarenrae's sanctification is “can choose holy,” so you couldn't summon an unholy creature, and Pharasma's is “none,” so you couldn't summon a holy or unholy creature. The GM might determine that your deity restricts specific types of creatures further, making it anathema to summon them as well.
+It's anathema to summon a servitor if it has a holy or unholy trait that isn't allowed for your deity's sanctification. For example, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/sarenrae|Sarenrae's]] sanctification is “can choose holy,” so you couldn't summon an unholy creature, and [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma's]] is “none,” so you couldn't summon a holy or unholy creature. The GM might determine that your deity restricts specific types of creatures further, making it anathema to summon them as well.
 
 ---
 **Heightened (2nd)** The creature can be level 1 or lower.

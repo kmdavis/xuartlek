@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -10,7 +9,7 @@ tags:
 - trait/primal
 - feat/level/4
 aliases: ["Igneogenesis"]
-aon_id: "feat-4226"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4226"
 source: "Rage of Elements"
 ---
 

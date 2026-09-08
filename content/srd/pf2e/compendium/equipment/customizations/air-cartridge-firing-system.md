@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/uncommon
 - equipment/level/4
 aliases: ["Air Cartridge Firing System"]
-aon_id: "equipment-1220"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1220"
 source: "Guns & Gears (Remastered)"
 ---
 

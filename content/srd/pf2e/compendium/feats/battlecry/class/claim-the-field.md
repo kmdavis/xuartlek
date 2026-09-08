@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
 - trait/commander
 - feat/level/6
 aliases: ["Claim the Field"]
-aon_id: "feat-7809"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7809"
 source: "Battlecry!"
 ---
 

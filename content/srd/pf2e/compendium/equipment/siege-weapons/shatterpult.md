@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - siege-weapon/level/9
 aliases: ["Shatterpult"]
-aon_id: "siege-weapon-60"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=60"
 source: "Battlecry!"
 ---
 
@@ -15,7 +14,7 @@ source: "Battlecry!"
 
 `Mounted`  `Uncommon`
 
-- **Price**: 1,200 gp
+- **Price**: 1, 200 gp
 - **Ammunition**: shatterstones (2 gp, 4 Bulk)
 
 **Usage** mounted (black powder)

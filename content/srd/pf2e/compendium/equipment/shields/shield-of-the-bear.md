@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/magical
 - equipment/level/9
 aliases: ["Shield Of The Bear"]
-aon_id: "equipment-5005"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5005"
 source: "Impossible Magic"
 ---
 

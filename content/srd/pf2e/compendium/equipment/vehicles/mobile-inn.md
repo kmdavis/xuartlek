@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/rare
 - vehicle/level/8
 aliases: ["Mobile Inn"]
-aon_id: "vehicle-29"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=29"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -14,7 +13,7 @@ source: "Guns & Gears (Remastered)"
 
 `Rare`
 
-- **Price**: 1,500 gp
+- **Price**: 1, 500 gp
 
 A mobile inn is the next step up from an armored carriage, bringing the limited comforts of a simple (and cramped) inn stay to make long distance journeys more bearable for wealthy travelers. Essentially a tiny inn on wheels, powered by alchemical catalysts and a steam engine, the vehicle is equipped with a stove, storage cupboard, washbasin, table, two benches, and a compact sleeping loft large enough to accommodate four. It can be modified to accommodate a single passenger in significantly more comfort or to easily hold 5 passengers by stripping the accommodations.
 

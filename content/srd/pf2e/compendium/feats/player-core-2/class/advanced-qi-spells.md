@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/monk
 - feat/level/6
 aliases: ["Advanced Qi Spells"]
-aon_id: "feat-5998"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5998"
 source: "Player Core 2"
 ---
 

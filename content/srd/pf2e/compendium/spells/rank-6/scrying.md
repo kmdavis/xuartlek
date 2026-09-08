@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - spell/level/6
 aliases: ["Scrying"]
-aon_id: "spell-1662"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1662"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Scrying`  `Uncommon`
 
 - **Traditions**: Arcane, Occult
-- **Deity**: Magdh
+- **Deity**: [[srd/pf2e/compendium/deities/eldest/magdh|Magdh]]
 - **Cast**: 10 minutes
 - **Range**: planetary
 - **Target**: 1 creature

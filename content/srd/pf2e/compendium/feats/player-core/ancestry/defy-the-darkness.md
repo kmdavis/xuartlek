@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/dwarf
 - feat/level/5
 aliases: ["Defy the Darkness"]
-aon_id: "feat-4395"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4395"
 source: "Player Core"
 ---
 

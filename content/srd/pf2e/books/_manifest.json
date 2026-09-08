@@ -15,7 +15,8 @@
     "Battlecry!",
     "Dark Archives (Remastered)",
     "Impossible Magic",
-    "Secrets of the Unlit Star Game Master's Guide"
+    "Secrets of the Unlit Star Game Master's Guide",
+    "Divine Mysteries"
   ],
   "entries": [
     {
@@ -1259,6 +1260,12 @@
       "title": "Alternate Mythic Progression",
       "book": "War of Immortals Alternate Mythic Rules",
       "path": "war-of-immortals-alternate-mythic-rules/mythic-variant-rules/alternate-mythic-progression.md"
+    },
+    {
+      "aon_id": 3352,
+      "title": "Rules Elements",
+      "book": "Divine Mysteries",
+      "path": "divine-mysteries/rules-elements.md"
     },
     {
       "aon_id": 1587,

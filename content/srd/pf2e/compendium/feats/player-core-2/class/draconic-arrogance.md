@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/rage
 - feat/level/1
 aliases: ["Draconic Arrogance"]
-aon_id: "feat-5808"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5808"
 source: "Player Core 2"
 ---
 
@@ -15,7 +14,7 @@ source: "Player Core 2"
 
 `Barbarian`  `Rage`
 
-- **Prerequisites**: dragon instinct
+- **Prerequisites**: [[srd/pf2e/compendium/character/instincts/dragon|dragon instinct]]
 
 Few can sway you from your goals while the fury of combat fills you. While raging, you gain a +2 status bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]] effects.
 

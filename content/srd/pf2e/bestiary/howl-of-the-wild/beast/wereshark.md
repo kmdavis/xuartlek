@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Wereshark"
 tags:
@@ -14,7 +13,6 @@ statblock: inline
 name: "Wereshark"
 level: 4
 source: "Howl of the Wild"
-aon_id: "creature-3324"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3324"
 ---
 

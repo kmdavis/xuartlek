@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Denizen Of Leng"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Denizen Of Leng"
 level: 8
 source: "Monster Core 2"
-aon_id: "creature-4323"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4323"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [3, 3, 4, 6, 3, 5]
 abilities_top:
   - name: "Items"
-    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/knife/kukri|kukri]]_, Leng ruby worth 30 gp"
+    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/knife/kukri|kukri]]_, Leng ruby worth 30 gp"
 ac: 27
 armorclass:
   - name: "AC"

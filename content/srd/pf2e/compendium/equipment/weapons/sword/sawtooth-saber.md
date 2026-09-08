@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - weapon/level/0
 aliases: ["Sawtooth Saber"]
-aon_id: "weapon-423"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=423"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 
 `Agile`  `Finesse`  `Twin`  `Uncommon`
 
-- **Favored Weapon**: Achaekek
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/other-gods/achaekek|Achaekek]]
 - **Price**: 5 gp
 - **Damage**: 1d6 S
 - **Bulk**: L

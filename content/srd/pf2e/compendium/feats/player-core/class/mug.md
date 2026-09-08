@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/rogue
 - feat/level/4
 aliases: ["Mug"]
-aon_id: "feat-4932"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4932"
 source: "Player Core"
 ---
 

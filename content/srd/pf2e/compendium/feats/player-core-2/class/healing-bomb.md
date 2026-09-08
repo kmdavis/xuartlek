@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/alchemist
 - feat/level/4
 aliases: ["Healing Bomb"]
-aon_id: "feat-5773"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5773"
 source: "Player Core 2"
 ---
 
@@ -15,6 +14,6 @@ source: "Player Core 2"
 
 `Additive`  `Alchemist`
 
-You can add a foamy catalyst to an [[srd/pf2e/compendium/equipment/alchemical-items/elixir-of-life-true|elixir of life]] to turn it into a topical projectile. You can throw the elixir at a creature within 20 feet as an Interact action to heal that creature and those near it. The target is affected as though it drank the elixir, and each living creature adjacent to it regains HP from the bomb equal to the elixir's number of damage dice (3 HP for a lesser elixir of life, for example).
+You can add a foamy catalyst to an [[srd/pf2e/compendium/equipment/alchemical-items/elixir-of-life|elixir of life]] to turn it into a topical projectile. You can throw the elixir at a creature within 20 feet as an Interact action to heal that creature and those near it. The target is affected as though it drank the elixir, and each living creature adjacent to it regains HP from the bomb equal to the elixir's number of damage dice (3 HP for a lesser elixir of life, for example).
 
 *Source: Player Core 2 p. 64*

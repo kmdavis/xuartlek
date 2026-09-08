@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Tripkee Scout"
 tags:
@@ -12,7 +11,6 @@ name: "Tripkee Scout"
 level: 1
 source: "NPC Core"
 other_sources: "Monster Core 2"
-aon_id: "creature-3673"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3673"
 ---
 

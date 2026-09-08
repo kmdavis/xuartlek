@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/uncommon
 - ritual/level/5
 aliases: ["Astral Projection"]
-aon_id: "ritual-144"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=144"
 source: "Player Core 2"
 ---
 

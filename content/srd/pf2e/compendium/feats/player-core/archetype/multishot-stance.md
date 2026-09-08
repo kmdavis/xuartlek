@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/stance
 - feat/level/16
 aliases: ["Multishot Stance"]
-aon_id: "feat-4851"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4851"
 source: "Player Core"
 ---
 
@@ -15,7 +14,7 @@ source: "Player Core"
 
 `Fighter`  `Stance`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/archer|Archer]] (Level 18), [[srd/pf2e/compendium/character/archetypes/archer|Archer]] (Level 18)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/archer|Archer]] (Level 18)
 - **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/triple-shot|Triple Shot]]
 - **Requirements**: You are wielding a ranged weapon with reload 0
 

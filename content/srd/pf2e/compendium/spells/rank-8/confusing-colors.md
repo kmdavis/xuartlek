@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -10,7 +9,7 @@ tags:
 - trait/visual
 - spell/level/8
 aliases: ["Confusing Colors"]
-aon_id: "spell-1980"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1980"
 source: "Player Core 2"
 ---
 

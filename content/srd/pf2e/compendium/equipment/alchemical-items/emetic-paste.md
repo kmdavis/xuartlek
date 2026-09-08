@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/healing
 - equipment/level/2
 aliases: ["Emetic Paste"]
-aon_id: "equipment-1939"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1939"
 source: "Treasure Vault (Remastered)"
 ---
 

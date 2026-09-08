@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Aeolaeka"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Aeolaeka"
 level: 12
 source: "Monster Core"
-aon_id: "creature-2843"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2843"
 ---
 
@@ -40,7 +38,7 @@ skills:
 abilityMods: [6, 4, 7, 2, 5, 4]
 abilities_top:
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/hammer/warhammer|warhammer]]_"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/hammer/warhammer|warhammer]]_"
 ac: 33
 armorclass:
   - name: "AC"

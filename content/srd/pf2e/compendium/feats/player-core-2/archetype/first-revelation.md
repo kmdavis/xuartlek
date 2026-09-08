@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/archetype
 - feat/level/4
 aliases: ["First Revelation"]
-aon_id: "feat-6220"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6220"
 source: "Player Core 2"
 ---
 

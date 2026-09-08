@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 - trait/minotaur
 - feat/level/1
 aliases: ["Eye for Masonry"]
-aon_id: "feat-5363"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5363"
 source: "Howl of the Wild"
 ---
 

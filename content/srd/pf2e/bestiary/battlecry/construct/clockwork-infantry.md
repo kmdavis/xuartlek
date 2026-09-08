@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Clockwork Infantry"
 tags:
@@ -14,7 +13,6 @@ statblock: inline
 name: "Clockwork Infantry"
 level: 11
 source: "Battlecry!"
-aon_id: "creature-3907"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3907"
 ---
 
@@ -49,7 +47,7 @@ armorclass:
 hp: 195
 health:
   - name: "HP"
-    desc: "195 (4 segments); __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death effects]], [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]], [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]], [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], nonlethal attacks, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poisoned]], [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]; __Resistances__ physical 8 (except [[srd/pf2e/compendium/equipment/materials/adamantine-object-high-grade|adamantine]] or orichalcum); __Weaknesses__ area damage 10, [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] 10, splash damage 10, [[srd/pf2e/compendium/equipment/materials/orichalcum-object-high-grade|orichalcum]] 10"
+    desc: "195 (4 segments); __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death effects]], [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]], [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]], [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], nonlethal attacks, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poisoned]], [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]; __Resistances__ physical 8 (except [[srd/pf2e/compendium/equipment/materials/adamantine|adamantine]] or orichalcum); __Weaknesses__ area damage 10, [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] 10, splash damage 10, [[srd/pf2e/compendium/equipment/materials/orichalcum|orichalcum]] 10"
 abilities_mid:
   - name: "Reactive Sweep"
     desc: "⬲"

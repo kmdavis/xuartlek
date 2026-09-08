@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Young Fortune Dragon"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Young Fortune Dragon"
 level: 10
 source: "Monster Core"
-aon_id: "creature-2944"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2944"
 ---
 

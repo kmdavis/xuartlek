@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ancestry
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/tripkee
 - trait/uncommon
 aliases: ["Tripkee"]
-aon_id: "ancestry-84"
+aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=84"
 source: "Player Core 2"
 ---
 
@@ -33,7 +32,7 @@ Tripkees lead a sophisticated hunter-gatherer lifestyle within which they reshap
 
 ### Alignment and Religion
 
-Taught to wait, observe, and respect natural processes of life and death, many tripkees adopt patient attitudes. Those who take a more active role suppressing cruelty may join organizations that blend religion and philosophy, such as the tripkee fiend-keepers who absorb an unholy being into their soul to contain and eventually transform its villainy through their own virtuous acts. Nature deities like Gozreh or Erastil often earn tripkees' respect, yet communities usually prefer less prominent, more intimate divinities such as empyreal lords, psychopomp ushers, or the fey Eldest.
+Taught to wait, observe, and respect natural processes of life and death, many tripkees adopt patient attitudes. Those who take a more active role suppressing cruelty may join organizations that blend religion and philosophy, such as the tripkee fiend-keepers who absorb an unholy being into their soul to contain and eventually transform its villainy through their own virtuous acts. Nature deities like [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/gozreh|Gozreh]] or [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/erastil|Erastil]] often earn tripkees' respect, yet communities usually prefer less prominent, more intimate divinities such as empyreal lords, psychopomp ushers, or the fey Eldest.
 
  **Popular Edicts** improve your part of the world without causing harm to others, practice patience whenever possible
 **Popular Anathema** create architecture that supplants the natural world, take rash action that brings risk to your community

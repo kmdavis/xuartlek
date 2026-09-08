@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/teleportation
 - equipment/level/10
 aliases: ["Compass of Transpositional Awareness"]
-aon_id: "equipment-4137"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4137"
 source: "Dark Archives (Remastered)"
 ---
 

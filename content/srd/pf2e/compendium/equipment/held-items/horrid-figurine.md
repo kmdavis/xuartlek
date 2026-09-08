@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
 - trait/magical
 - equipment/level/8
 aliases: ["Horrid Figurine"]
-aon_id: "equipment-2192"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2192"
 source: "Treasure Vault (Remastered)"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/steam
 - equipment/level/15
 aliases: ["Steamflight Pack"]
-aon_id: "equipment-1157"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1157"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -17,7 +16,7 @@ source: "Guns & Gears (Remastered)"
 `Clockwork`  `Rare`  `Steam`
 
 - **PFS Note**: All Pathfinder Society agents have access to all uncommon clockwork items and gadgets from Chapters 1 and 2 of this book
-- **Price**: 6,000 gp
+- **Price**: 6, 000 gp
 - **Usage**: worn backpack
 - **Bulk**: 2
 - **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") Interact

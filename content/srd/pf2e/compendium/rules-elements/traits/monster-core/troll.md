@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/monster-core
 - trait/troll
 aliases: ["Troll"]
-aon_id: "trait-777"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=777"
 source: "Monster Core"
 ---
 

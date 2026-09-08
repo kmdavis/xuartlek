@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/rogue
 - feat/level/8
 aliases: ["Delay Trap"]
-aon_id: "feat-4950"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4950"
 source: "Player Core"
 ---
 
@@ -14,7 +13,7 @@ source: "Player Core"
 
 `Rogue`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/archaeologist|Archaeologist]] (Level 10), [[srd/pf2e/compendium/character/archetypes/archaeologist|Archaeologist]] (Level 10)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/archaeologist|Archaeologist]] (Level 10)
 - **Trigger**: A trap within your reach is triggered
 
 You try to jam the workings of a trap to delay its effects. Attempt a Thievery check to Disable a Device on the trap with the following results instead of the normal ones for the action.

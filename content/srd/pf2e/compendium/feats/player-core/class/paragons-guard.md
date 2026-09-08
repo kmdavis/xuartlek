@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/stance
 - feat/level/12
 aliases: ["Paragon's Guard"]
-aon_id: "feat-4839"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4839"
 source: "Player Core"
 ---
 

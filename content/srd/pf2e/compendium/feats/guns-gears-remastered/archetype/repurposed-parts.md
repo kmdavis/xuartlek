@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/archetype
 - feat/level/10
 aliases: ["Repurposed Parts"]
-aon_id: "feat-3138"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3138"
 source: "Guns & Gears (Remastered)"
 ---
 

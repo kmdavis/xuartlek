@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/thaumaturge
 - feat/level/16
 aliases: ["Sever Magic"]
-aon_id: "feat-8384"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8384"
 source: "Dark Archives (Remastered)"
 ---
 

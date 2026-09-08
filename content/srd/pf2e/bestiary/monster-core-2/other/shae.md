@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Shae"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Shae"
 level: 4
 source: "Monster Core 2"
-aon_id: "creature-4542"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4542"
 ---
 

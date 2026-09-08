@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - weapon/level/1
 aliases: ["Polytool"]
-aon_id: "weapon-100"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=300"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -17,15 +16,16 @@ source: "Treasure Vault (Remastered)"
 `Agile`  `Modular`  `Uncommon`
 
 - **PFS Note**: Characters from Numeria have access to the polytool
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/other-gods/casandalee|Casandalee]], [[srd/pf2e/compendium/deities/pantheons/wheels-of-innovation|Wheels of Innovation]]
 - **Price**: 10 gp
 - **Damage**: 1d6 modular
-- **Bulk**: 1
+- **Bulk**: L
 - **Hands**: 1
 - **Type**: Melee
 - **Category**: Martial
 - **Group**: Sword
 
-The polytool is a small metal rod with a number of simple tools folded inside. The user can extend a long ceramic blade, as well as an awl, a chisel, a file, flint and steel, a hook, an inkpen, a magnifying glass, pliers, scissors, and a small saw. The flint and steel can be used up to 10 times before needing to be replaced. Though inspired by advanced Numerian technology, the polytool is a simple enough feat of metalworking that any blacksmith could produce it— perfect for the goddess Casandalee to spread innovation farther than actual Numerian tech could reach.
+The polytool is a small metal rod with a number of simple tools folded inside. The user can extend a long ceramic blade, as well as an awl, chisel, file, flint and steel, hook, inkpen, magnifying glass, pliers, scissors, and a small saw. The flint and steel can be used up to 10 times before needing to be replaced. Though inspired by advanced Numerian technology, the polytool is a simple enough feat of metalworking that any blacksmith could produce it—perfect for the goddess [[srd/pf2e/compendium/deities/other-gods/casandalee|Casandalee]] to spread innovation farther than actual Numerian tech could reach.
 
 ### Critical Specialization Effects
 

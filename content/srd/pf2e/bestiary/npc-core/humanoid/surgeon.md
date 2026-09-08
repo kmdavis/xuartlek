@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Surgeon"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Surgeon"
 level: 2
 source: "NPC Core"
-aon_id: "creature-3482"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3482"
 ---
 
@@ -38,7 +36,7 @@ abilities_top:
   - name: "Medical Specialist"
     desc: "In medical matters, a surgeon is a 6th-level challenge. Doctor's Hand When the surgeon rolls a critical failure on a check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Disease|Treat Disease]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Poison|Treat Poison]], or [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Wounds|Treat Wounds]], they get a failure instead."
   - name: "Items"
-    desc: "bonesaw (functions as a [[srd/pf2e/compendium/equipment/weapons/sword/temple-sword|temple sword]]), [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit-expanded|Healer's Toolkit]], scalpel (3. functions as a [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]])"
+    desc: "bonesaw (functions as a [[srd/pf2e/compendium/equipment/weapons/sword/temple-sword|temple sword]]), [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit|Healer's Toolkit]], scalpel (3. functions as a [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]])"
 ac: 17
 armorclass:
   - name: "AC"

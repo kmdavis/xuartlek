@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/curse
 - spell/level/1
 aliases: ["Curse of Recoil"]
-aon_id: "spell-2498"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2498"
 source: "Battlecry!"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-lesson
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -11,7 +10,7 @@ entries: 15
 
 # Lessons
 
-## Lesson of Bargains  *Witch Lesson*
+## Lesson of Bargains
 
 - **Lesson Type**: Major
 
@@ -19,7 +18,7 @@ You gain the [[srd/pf2e/compendium/spells/focus/over-the-coals|Over the Coals]] 
 
 *Source: Dark Archives (Remastered) p. 159*
 
-## Lesson of Death  *Witch Lesson*
+## Lesson of Death
 
 - **Lesson Type**: Major
 
@@ -28,7 +27,7 @@ You gain the [[srd/pf2e/compendium/spells/focus/curse-of-death|Curse of Death]] 
 
 *Source: Player Core p. 185*
 
-## Lesson of Decay  *Witch Lesson*
+## Lesson of Decay
 
 - **Lesson Type**: Greater
 
@@ -37,7 +36,7 @@ You gain the [[srd/pf2e/compendium/spells/focus/mycological-malady|Mycological M
 
 *Source: Howl of the Wild p. 62*
 
-## Lesson of Dreams  *Witch Lesson*
+## Lesson of Dreams
 
 - **Lesson Type**: Basic
 
@@ -46,7 +45,7 @@ You gain the [[srd/pf2e/compendium/spells/focus/veil-of-dreams|Veil of Dreams]] 
 
 *Source: Player Core p. 185*
 
-## Lesson of Favors  *Witch Lesson*
+## Lesson of Favors
 
 - **Lesson Type**: Greater
 
@@ -54,7 +53,7 @@ You gain the [[srd/pf2e/compendium/spells/focus/return-the-favor|Return the Favo
 
 *Source: Dark Archives (Remastered) p. 159*
 
-## Lesson of Life  *Witch Lesson*
+## Lesson of Life
 
 - **Lesson Type**: Basic
 
@@ -63,7 +62,7 @@ You gain the [[srd/pf2e/compendium/spells/focus/life-boost|Life Boost]] hex, and
 
 *Source: Player Core p. 185*
 
-## Lesson of Mischief  *Witch Lesson*
+## Lesson of Mischief
 
 - **Lesson Type**: Greater
 
@@ -72,7 +71,7 @@ You gain the [[srd/pf2e/compendium/spells/focus/deceivers-cloak|Deceiver's Cloak
 
 *Source: Player Core p. 185*
 
-## Lesson of Protection  *Witch Lesson*
+## Lesson of Protection
 
 - **Lesson Type**: Basic
 
@@ -81,7 +80,7 @@ You gain the [[srd/pf2e/compendium/spells/focus/blood-ward|Blood Ward]] hex, and
 
 *Source: Player Core p. 185*
 
-## Lesson of Renewal  *Witch Lesson*
+## Lesson of Renewal
 
 - **Lesson Type**: Major
 
@@ -90,7 +89,7 @@ You gain the [[srd/pf2e/compendium/spells/focus/restorative-moment|Restorative M
 
 *Source: Player Core p. 185*
 
-## Lesson of Shadow  *Witch Lesson*
+## Lesson of Shadow
 
 - **Lesson Type**: Greater
 
@@ -99,7 +98,7 @@ You gain the [[srd/pf2e/compendium/spells/focus/malicious-shadow|Malicious Shado
 
 *Source: Player Core p. 185*
 
-## Lesson of Snow  *Witch Lesson*
+## Lesson of Snow
 
 - **Lesson Type**: Greater
 
@@ -108,7 +107,7 @@ You gain the [[srd/pf2e/compendium/spells/focus/personal-blizzard|Personal Blizz
 
 *Source: Player Core p. 185*
 
-## Lesson of the Elements  *Witch Lesson*
+## Lesson of the Elements
 
 - **Lesson Type**: Basic
 
@@ -117,7 +116,7 @@ You gain the [[srd/pf2e/compendium/spells/focus/elemental-betrayal|Elemental Bet
 
 *Source: Player Core p. 185*
 
-## Lesson of the Flock  *Witch Lesson*
+## Lesson of the Flock
 
 - **Lesson Type**: Greater
 
@@ -126,7 +125,7 @@ You gain the [[srd/pf2e/compendium/spells/focus/sheltering-wings|Sheltering Wing
 
 *Source: Howl of the Wild p. 62*
 
-## Lesson of the Shark  *Witch Lesson*
+## Lesson of the Shark
 
 - **Lesson Type**: Greater
 
@@ -135,7 +134,7 @@ You gain the [[srd/pf2e/compendium/spells/focus/blood-in-the-water|Blood in the 
 
 *Source: Howl of the Wild p. 62*
 
-## Lesson of Vengeance  *Witch Lesson*
+## Lesson of Vengeance
 
 - **Lesson Type**: Basic
 

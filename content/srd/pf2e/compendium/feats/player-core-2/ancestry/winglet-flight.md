@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/kobold
 - feat/level/9
 aliases: ["Winglet Flight"]
-aon_id: "feat-5627"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5627"
 source: "Player Core 2"
 ---
 

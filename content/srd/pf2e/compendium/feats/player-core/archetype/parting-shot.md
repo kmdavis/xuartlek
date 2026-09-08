@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/fighter
 - feat/level/4
 aliases: ["Parting Shot"]
-aon_id: "feat-4790"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4790"
 source: "Player Core"
 ---
 
@@ -14,7 +13,7 @@ source: "Player Core"
 
 `Fighter`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/archer|Archer]] (Level 6), [[srd/pf2e/compendium/character/archetypes/archer|Archer]] (Level 6)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/archer|Archer]] (Level 6)
 - **Requirements**: You are wielding a loaded ranged weapon or a ranged weapon with reload 0
 
 You jump back and make a quick shot that catches your opponent by surprise. You Step and then make a ranged Strike with the required weapon. Your target is off-guard against the attack.

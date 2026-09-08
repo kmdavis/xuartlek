@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-sidebar
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ entries: 98
 
 # Sidebars: Player Core
 
-## Action Icon Key  *Sidebar*
+## Action Icon Key
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/format-of-rules#Activities|Activities]]
 
@@ -21,7 +20,7 @@ entries: 98
 
 *Source: Player Core p. 15*
 
-## Adjusting the Setting  *Sidebar*
+## Adjusting the Setting
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/golarion-and-the-inner-sea#What Does My Character Know?|What Does My Character Know?]]
 
@@ -31,7 +30,7 @@ In fact, you don't have to use this setting! While the Pathfinder RPG rules do m
 
 *Source: Player Core p. 31*
 
-## Aid Details  *Sidebar*
+## Aid Details
 
 - **Parent page**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Aid|Aid]]
 
@@ -45,7 +44,7 @@ The following clarifications might be relevant when Aiding an ally.
 
 *Source: Player Core p. 416*
 
-## Alchemical and Magical Items  *Sidebar*
+## Alchemical and Magical Items
 
 - **Parent page**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]]
 
@@ -53,7 +52,7 @@ If you want to Craft alchemical items or magic items, you need to select the ski
 
 *Source: Player Core p. 237*
 
-## Alternate Ancestry Boosts  *Sidebar*
+## Alternate Ancestry Boosts
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/character-creation#Step 3: Select an Ancestry|Step 3: Select an Ancestry]]
 
@@ -61,7 +60,7 @@ The attribute boosts and flaws listed in each ancestry represent general trends 
 
 *Source: Player Core p. 23*
 
-## Attribute Modifier Overview  *Sidebar*
+## Attribute Modifier Overview
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/character-creation|Character Creation]]
 
@@ -89,7 +88,7 @@ Attribute flaws are not nearly as common in Pathfinder as attribute boosts. If y
 
 *Source: Player Core p. 17*
 
-## Avoiding Flanking  *Sidebar*
+## Avoiding Flanking
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Flanking|Flanking]]
 
@@ -103,7 +102,7 @@ Flanking is an excellent battle tactic that can cause the flanked creature to ge
 
 *Source: Player Core p. 425*
 
-## Being Stealthy  *Sidebar*
+## Being Stealthy
 
 - **Parent page**: [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
 
@@ -116,7 +115,7 @@ First, **Hide** behind something (either by taking advantage of cover or having 
 
 *Source: Player Core p. 244*
 
-## Broken  *Sidebar*
+## Broken
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage|Item Damage]]
 
@@ -128,7 +127,7 @@ If an effect makes an item broken automatically and the item has more HP than it
 
 *Source: Player Core p. 269*
 
-## Changing Attitudes  *Sidebar*
+## Changing Attitudes
 
 - **Parent page**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]]
 
@@ -137,7 +136,7 @@ Your influence on NPCs is measured with a set of attitudes that reflect how they
 
 *Source: Player Core p. 239*
 
-## Changing Attitudes  *Sidebar*
+## Changing Attitudes
 
 - **Parent page**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Coerce|Coerce]]
 
@@ -146,7 +145,7 @@ Your influence on NPCs is measured with a set of attitudes that reflect how they
 
 *Source: Player Core p. 240*
 
-## Character Sheet  *Sidebar*
+## Character Sheet
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/character-creation#Your Allies|Your Allies]]
 
@@ -154,7 +153,7 @@ Once you’ve developed your character’s concept, jot down a few sentences sum
 
 *Source: Player Core p. 22*
 
-## Character Sheet  *Sidebar*
+## Character Sheet
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/character-creation#Step 3: Select an Ancestry|Step 3: Select an Ancestry]]
 
@@ -162,7 +161,7 @@ Write your character’s ancestry and heritage in the appropriate space at the t
 
 *Source: Player Core p. 23*
 
-## Character Sheet  *Sidebar*
+## Character Sheet
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/character-creation#Step 4: Pick a Background|Step 4: Pick a Background]]
 
@@ -170,7 +169,7 @@ Record your character’s background in the space at the top of the first page o
 
 *Source: Player Core p. 23*
 
-## Character Sheet  *Sidebar*
+## Character Sheet
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/character-creation#Step 5: Choose a Class|Step 5: Choose a Class]]
 
@@ -178,7 +177,7 @@ Write your character’s class in the space at the top of the first page of your
 
 *Source: Player Core p. 24*
 
-## Character Sheet  *Sidebar*
+## Character Sheet
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/character-creation#Step 6: Finish Attribute Modifiers|Step 6: Finish Attribute Modifiers]]
 
@@ -186,7 +185,7 @@ Write your character’s starting attribute modifiers in the box provided for ea
 
 *Source: Player Core p. 24*
 
-## Character Sheet  *Sidebar*
+## Character Sheet
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/character-creation#Step 7: Record Class Details|Step 7: Record Class Details]]
 
@@ -194,7 +193,7 @@ Write your character’s total Hit Points on the first page of your character sh
 
 *Source: Player Core p. 24*
 
-## Character Sheet  *Sidebar*
+## Character Sheet
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/character-creation#Step 8: Buy Equipment|Step 8: Buy Equipment]]
 
@@ -202,7 +201,7 @@ Once you’ve spent your character’s starting wealth, calculate any remaining 
 
 *Source: Player Core p. 25*
 
-## Character Sheet  *Sidebar*
+## Character Sheet
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/character-creation#Skills|Skills]]
 
@@ -210,7 +209,7 @@ For Perception and saving throws, write your proficiency bonus and the appropria
 
 *Source: Player Core p. 26*
 
-## Commanded Animals  *Sidebar*
+## Commanded Animals
 
 - **Parent page**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Command an Animal|Command an Animal]]
 
@@ -222,16 +221,16 @@ The animal does what you commanded as soon as it can, usually as its first actio
 
 *Source: Player Core p. 242*
 
-## Common Lore Subcategories  *Sidebar*
+## Common Lore Subcategories
 
 - **Parent page**: [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]]
 
 You can learn any Lore skill your GM gives you permission to take. The following list covers a wide variety of common Lore topics appropriate for player characters in most campaigns. Backgrounds often grant you a Lore skill from this list. 
-Academia LoreAccounting LoreArchitecture LoreArt LoreAstronomy LoreCarpentry LoreCircus LoreDriving LoreEngineering LoreFarming LoreFishing LoreFortune-Telling LoreGames LoreGenealogy LoreGladiatorial LoreGuild LoreHeraldry LoreHerbalism LoreHunting LoreLabor LoreLegal LoreLibrary LoreLore about a specific deity (Abadar Lore, Iomedae Lore)Lore about a specific creature or narrow category of creatures (Demon Lore, Giant Lore, Vampire Lore)Lore about a specific plane other than [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]], or the plane in which the game is set if not the Universe ([[srd/pf2e/compendium/gm/planes#Astral Plane|Astral Plane]] Lore, [[srd/pf2e/compendium/gm/planes#Heaven|Heaven]] Lore, [[srd/pf2e/compendium/gm/planes#Outer Rifts|Outer Rifts]] Lore)Lore about a specific public organization (Hellknights Lore, Pathfinder Society Lore)Lore about a specific settlement (Absalom Lore, Magnimar Lore)Lore about a specific terrain (Mountain Lore, River Lore)Lore about a type of food or drink (Alcohol Lore, Baking Lore, Butchering Lore, Cooking Lore, Tea Lore)Mercantile LoreMidwifery LoreMilling LoreMining LorePiloting LoreSailing LoreScouting LoreScribing LoreStabling LoreTanning LoreTheater LoreUnderworld LoreWarfare Lore
+Academia LoreAccounting LoreArchitecture LoreArt LoreAstronomy LoreCarpentry LoreCircus LoreDriving LoreEngineering LoreFarming LoreFishing LoreFortune-Telling LoreGames LoreGenealogy LoreGladiatorial LoreGuild LoreHeraldry LoreHerbalism LoreHunting LoreLabor LoreLegal LoreLibrary LoreLore about a specific deity ([[srd/pf2e/compendium/deities/gods-of-the-inner-sea/abadar|Abadar]] Lore, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/iomedae|Iomedae]] Lore)Lore about a specific creature or narrow category of creatures (Demon Lore, Giant Lore, Vampire Lore)Lore about a specific plane other than [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]], or the plane in which the game is set if not the Universe ([[srd/pf2e/compendium/gm/planes#Astral Plane|Astral Plane]] Lore, [[srd/pf2e/compendium/gm/planes#Heaven|Heaven]] Lore, [[srd/pf2e/compendium/gm/planes#Outer Rifts|Outer Rifts]] Lore)Lore about a specific public organization (Hellknights Lore, Pathfinder Society Lore)Lore about a specific settlement (Absalom Lore, Magnimar Lore)Lore about a specific terrain (Mountain Lore, River Lore)Lore about a type of food or drink (Alcohol Lore, Baking Lore, Butchering Lore, Cooking Lore, Tea Lore)Mercantile LoreMidwifery LoreMilling LoreMining LorePiloting LoreSailing LoreScouting LoreScribing LoreStabling LoreTanning LoreTheater LoreUnderworld LoreWarfare Lore
 
 *Source: Player Core p. 240*
 
-## Conditions  *Sidebar*
+## Conditions
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/effects|Effects]]
 
@@ -282,7 +281,7 @@ Some effects apply conditions to a creature or item. These change your state of 
 
 *Source: Player Core p. 426*
 
-## Conditions Related to Dying  *Sidebar*
+## Conditions Related to Dying
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Dying|Dying]]
 
@@ -311,7 +310,7 @@ Your doomed value decreases by 1 each time you get a full night's rest.
 
 *Source: Player Core p. 411*
 
-## Consumables and Ammunition  *Sidebar*
+## Consumables and Ammunition
 
 - **Parent page**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]]
 
@@ -319,7 +318,7 @@ You can Craft items with the [[srd/pf2e/compendium/rules-elements/traits/player-
 
 *Source: Player Core p. 237*
 
-## Cost of Living  *Sidebar*
+## Cost of Living
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/downtime-mode#Shopping and Crafting|Shopping and Crafting]]
 
@@ -327,7 +326,7 @@ You might need to pay your [[srd/pf2e/books/player-core/chapter-6-equipment/gear
 
 *Source: Player Core p. 441*
 
-## Crafting Example  *Sidebar*
+## Crafting Example
 
 - **Parent page**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]]
 
@@ -341,7 +340,7 @@ Ezren is a 5th-level wizard and an expert in [[srd/pf2e/compendium/rules-element
 
 *Source: Player Core p. 237*
 
-## Damage Dice  *Sidebar*
+## Damage Dice
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-6-equipment/weapons#Damage|Damage]]
 
@@ -359,7 +358,7 @@ When an effect calls on you to increase the size of your weapon damage dice, ins
 
 *Source: Player Core p. 276*
 
-## Damage Types  *Sidebar*
+## Damage Types
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/damage-rolls#Step 2: Damage Type|Step 2: Damage Type]]
 
@@ -403,11 +402,11 @@ Some creatures are immune to precision damage, regardless of the damage type; th
 
 ### Precious Materials
 
-While not their own damage category, precious materials can modify damage to penetrate a creature's resistances or take advantage of its weaknesses. For instance, [[srd/pf2e/compendium/equipment/materials/silver-object-high-grade|silver]] weapons are particularly effective against [[srd/pf2e/compendium/rules-elements/traits/gm-core/werecreature|werecreatures]] and bypass the resistances to physical damage that most [[srd/pf2e/compendium/rules-elements/traits/player-core/devil|devils]] have.
+While not their own damage category, precious materials can modify damage to penetrate a creature's resistances or take advantage of its weaknesses. For instance, [[srd/pf2e/compendium/equipment/materials/silver|silver]] weapons are particularly effective against [[srd/pf2e/compendium/rules-elements/traits/gm-core/werecreature|werecreatures]] and bypass the resistances to physical damage that most [[srd/pf2e/compendium/rules-elements/traits/player-core/devil|devils]] have.
 
 *Source: Player Core p. 407*
 
-## Damaging Armor  *Sidebar*
+## Damaging Armor
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-6-equipment/armor#Armor Statistics|Armor Statistics]]
 
@@ -419,7 +418,7 @@ Your armor’s statistics are based on the material it’s predominantly made fr
 
 *Source: Player Core p. 271*
 
-## Death and Dying Rules  *Sidebar*
+## Death and Dying Rules
 
 - **Parent page**: [[srd/pf2e/books/player-core/conditions-appendix/index|Conditions Appendix]]
 
@@ -429,7 +428,7 @@ You immediately move your initiative position to directly before the creature or
 
 *Source: Player Core p. 442*
 
-## Detecting with Other Senses  *Sidebar*
+## Detecting with Other Senses
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Senses|Senses]]
 
@@ -442,7 +441,7 @@ In some cases, rolling a Dexterity-based Stealth skill check to Sneak doesn't ma
 
 *Source: Player Core p. 432*
 
-## Dice  *Sidebar*
+## Dice
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/what-is-a-roleplaying-game#Tools of Play|Tools of Play]]
 
@@ -450,7 +449,7 @@ Pathfinder requires a set of polyhedral dice. Each die has a different number of
 
 *Source: Player Core p. 6*
 
-## Domains  *Sidebar*
+## Domains
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/religion#Deities|Deities]]
 
@@ -458,7 +457,7 @@ Clerics and some other devotees can gain domain spells from their deities. The f
 
 *Source: Player Core p. 35*
 
-## Encumbered  *Sidebar*
+## Encumbered
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-6-equipment/bulk#Bulk Limits|Bulk Limits]]
 
@@ -466,7 +465,7 @@ You are carrying more weight than you can manage. While you’re encumbered, you
 
 *Source: Player Core p. 269*
 
-## Examining Forgeries  *Sidebar*
+## Examining Forgeries
 
 - **Parent page**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Create Forgery|Create Forgery]]
 
@@ -474,7 +473,7 @@ A creature on the lookout for forgeries, even one who was fooled on a passive gl
 
 *Source: Player Core p. 244*
 
-## Extra Preparation  *Sidebar*
+## Extra Preparation
 
 - **Parent page**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Earn Income|Earn Income]]
 
@@ -488,7 +487,7 @@ When Earning Income, you might be able to spend days of downtime to prepare for 
 
 *Source: Player Core p. 228*
 
-## Falling  *Sidebar*
+## Falling
 
 - **Parent page**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Maneuver in Flight|Maneuver in Flight]]
 
@@ -496,7 +495,7 @@ When you fall more than 5 feet, you take falling damage when you land, which is 
 
 *Source: Player Core p. 233*
 
-## Falling  *Sidebar*
+## Falling
 
 - **Parent page**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Climb|Climb]]
 
@@ -504,7 +503,7 @@ When you fall more than 5 feet, you take falling damage when you land, which is 
 
 *Source: Player Core p. 234*
 
-## Flat Checks  *Sidebar*
+## Flat Checks
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks|Checks]]
 
@@ -514,7 +513,7 @@ If more than one flat check would ever cause or prevent the same thing, just rol
 
 *Source: Player Core p. 400*
 
-## Forced Movement  *Sidebar*
+## Forced Movement
 
 - **Parent page**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Reposition|Reposition]]
 
@@ -522,7 +521,7 @@ Reposition and Shove force a creature to move. When an effect forces you to move
 
 *Source: Player Core p. 235*
 
-## Forced Movement  *Sidebar*
+## Forced Movement
 
 - **Parent page**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shove]]
 
@@ -530,7 +529,7 @@ Reposition and Shove force a creature to move. When an effect forces you to move
 
 *Source: Player Core p. 235*
 
-## Formulas  *Sidebar*
+## Formulas
 
 - **Parent page**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]]
 
@@ -538,7 +537,7 @@ A written formula for an item helps you create it with less difficulty. This has
 
 *Source: Player Core p. 237*
 
-## Fortune and Misfortune  *Sidebar*
+## Fortune and Misfortune
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Step 1: Roll D20|Step 1: Roll D20]]
 
@@ -550,7 +549,7 @@ If both a fortune effect and a misfortune effect would apply to the same roll, t
 
 *Source: Player Core p. 400*
 
-## Gaining and Losing Actions  *Sidebar*
+## Gaining and Losing Actions
 
 - **Parent page**: [[srd/pf2e/books/player-core/conditions-appendix/index|Conditions Appendix]]
 
@@ -560,7 +559,7 @@ Some conditions prevent you from taking a certain subset of actions, typically r
 
 *Source: Player Core p. 442*
 
-## Game Conventions  *Sidebar*
+## Game Conventions
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/rules-overview|Rules Overview]]
 
@@ -592,7 +591,7 @@ Sometimes a rule could be interpreted multiple ways. If one version is too good 
 
 *Source: Player Core p. 398*
 
-## Groups of Conditions  *Sidebar*
+## Groups of Conditions
 
 - **Parent page**: [[srd/pf2e/books/player-core/conditions-appendix/index|Conditions Appendix]]
 
@@ -606,7 +605,7 @@ Some conditions exist relative to one another or share a similar theme. It can b
 
 *Source: Player Core p. 442*
 
-## Heroic Recovery  *Sidebar*
+## Heroic Recovery
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Dying|Dying]]
 
@@ -614,7 +613,7 @@ If you have at least 1 Hero Point (page 413), you can spend all of your remainin
 
 *Source: Player Core p. 411*
 
-## Improving Skills  *Sidebar*
+## Improving Skills
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-4-skills/skill-actions|Skill Actions]]
 
@@ -630,7 +629,7 @@ Skill feats are a type of general feat that often grant you a new way to use a s
 
 *Source: Player Core p. 225*
 
-## In-Depth Action Rules  *Sidebar*
+## In-Depth Action Rules
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/actions|Actions]]
 
@@ -650,7 +649,7 @@ Using an activity is not the same as using any of its subordinate actions. For e
 
 *Source: Player Core p. 414*
 
-## Key Terms  *Sidebar*
+## Key Terms
 
 - **Parent page**: [[srd/pf2e/compendium/character/classes/bard|Bard]]
 
@@ -662,7 +661,7 @@ You'll see the following key terms in many bard class features.
 
 *Source: Player Core p. 94*
 
-## Key Terms  *Sidebar*
+## Key Terms
 
 - **Parent page**: [[srd/pf2e/compendium/character/classes/cleric|Cleric]]
 
@@ -676,7 +675,7 @@ You'll see the following term in many cleric class features.
 
 *Source: Player Core p. 108*
 
-## Key Terms  *Sidebar*
+## Key Terms
 
 - **Parent page**: [[srd/pf2e/compendium/character/classes/druid|Druid]]
 
@@ -686,7 +685,7 @@ You'll see the following key term in many druid class features.
 
 *Source: Player Core p. 122*
 
-## Key Terms  *Sidebar*
+## Key Terms
 
 - **Parent page**: [[srd/pf2e/compendium/character/classes/fighter|Fighter]]
 
@@ -694,14 +693,14 @@ Below are some key terms in many fighter class features.
 
 **[[srd/pf2e/compendium/rules-elements/traits/player-core/flourish|Flourish]]:** Actions with the flourish trait are special techniques that require too much exertion for you to perform frequently. You can use only one action with the flourish trait per round.
 
-**[[srd/pf2e/compendium/rules-elements/traits/player-core/press|Press]]:** Actions with this trait allow you to follow up earlier attacks. An action with the press trait can be used only if you are currently affected by a multiple attack penalty. You can't use a press action when it's not your turn, even if you use the [[srd/pf2e/compendium/equipment/runes/ready-greater|Ready]] activity.
+**[[srd/pf2e/compendium/rules-elements/traits/player-core/press|Press]]:** Actions with this trait allow you to follow up earlier attacks. An action with the press trait can be used only if you are currently affected by a multiple attack penalty. You can't use a press action when it's not your turn, even if you use the [[srd/pf2e/compendium/equipment/runes/ready|Ready]] activity.
 Some actions with the press trait also grant an effect on a failure. The effects that are added on a failure don't apply on a critical failure. If your press action succeeds, you can choose to apply the failure effect instead. (For example, you may wish to do this when an attack deals no damage due to resistance.)
 
 **[[srd/pf2e/compendium/rules-elements/traits/player-core/stance|Stance]]:** A stance is a general combat strategy that you enter by using an action with the stance trait, and you remain in for some time. A stance lasts until you get knocked out, until its requirements (if any) are violated, until the encounter ends, or until you use a stance action again, whichever comes first. After you take an action with the stance trait, you can't take another one for 1 round. You can enter or be in a stance only in encounter mode. You can Dismiss a stance.
 
 *Source: Player Core p. 136*
 
-## Key Terms  *Sidebar*
+## Key Terms
 
 - **Parent page**: [[srd/pf2e/compendium/character/classes/ranger|Ranger]]
 
@@ -709,7 +708,7 @@ You'll see these key terms in many ranger class features.
 
  **Flourish**: Actions with the flourish trait are special techniques that require too much exertion for you to perform frequently. You can use only one action with the flourish trait per round.
 
-**Press**: Actions with this trait allow you to follow up earlier attacks. An action with the press trait can be used only if you are currently affected by a multiple attack penalty. You can't use a press action when it's not your turn, even if you use the [[srd/pf2e/compendium/equipment/runes/ready-greater|Ready]] activity.
+**Press**: Actions with this trait allow you to follow up earlier attacks. An action with the press trait can be used only if you are currently affected by a multiple attack penalty. You can't use a press action when it's not your turn, even if you use the [[srd/pf2e/compendium/equipment/runes/ready|Ready]] activity.
  Some actions with the press trait also grant an effect on a failure. The effects that are added on a failure don't apply on a critical failure. If your press action succeeds, you can choose to apply the failure effect instead. (For example, you may wish to do this when an attack deals no damage due to resistance.)
 
 **Warden Spells:** Your relationship with the world around you extends from the physical to the magical. Certain feats grant you warden spells, which are a type of focus spell. It costs 1 Focus Point to cast a focus spell. When you gain your first warden spell, you also gain a focus pool of 1 Focus Point. You refill your focus pool during your daily preparations, and you regain 1 Focus Point by spending 10 minutes using the [[srd/pf2e/compendium/rules-elements/actions/player-core#Refocus|Refocus]] activity to commune with nature.
@@ -718,7 +717,7 @@ You'll see these key terms in many ranger class features.
 
 *Source: Player Core p. 152*
 
-## Key Terms  *Sidebar*
+## Key Terms
 
 - **Parent page**: [[srd/pf2e/compendium/character/classes/rogue|Rogue]]
 
@@ -732,7 +731,7 @@ Below are some key terms in many rogue class features.
 
 *Source: Player Core p. 164*
 
-## Key Terms  *Sidebar*
+## Key Terms
 
 - **Parent page**: [[srd/pf2e/compendium/character/classes/witch|Witch]]
 
@@ -744,7 +743,7 @@ You'll see these key terms in many witch class features.
 
 *Source: Player Core p. 178*
 
-## Key Terms  *Sidebar*
+## Key Terms
 
 - **Parent page**: [[srd/pf2e/compendium/character/classes/wizard|Wizard]]
 
@@ -754,7 +753,7 @@ You'll see the following key term in many wizard abilities.
 
 *Source: Player Core p. 192*
 
-## Leap  *Sidebar*
+## Leap
 
 - **Parent page**: [[srd/pf2e/compendium/rules-elements/actions/player-core#High Jump|High Jump]]
 
@@ -764,7 +763,7 @@ The Leap basic action is used for High Jump and Long Jump. A **horizontal** Leap
 
 *Source: Player Core p. 235*
 
-## Leap  *Sidebar*
+## Leap
 
 - **Parent page**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Long Jump|Long Jump]]
 
@@ -774,7 +773,7 @@ The Leap basic action is used for High Jump and Long Jump. A **horizontal** Leap
 
 *Source: Player Core p. 235*
 
-## Leveling-up Checklist  *Sidebar*
+## Leveling-up Checklist
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/leveling-up|Leveling Up]]
 
@@ -784,7 +783,7 @@ Increase your level by 1 and subtract 1,000 XP from your XP total.Increase your 
 
 *Source: Player Core p. 29*
 
-## Magical Traditions  *Sidebar*
+## Magical Traditions
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-7-spells/index|Chapter 7: Spells]]
 
@@ -812,7 +811,7 @@ An instinctual connection to and faith in the world, the cycle of day and night,
 
 *Source: Player Core p. 297*
 
-## Magical Traditions and Skills  *Sidebar*
+## Magical Traditions and Skills
 
 - **Parent page**: Identify Magic
 
@@ -824,7 +823,7 @@ Each magical tradition has a corresponding skill, as shown on the table below. Y
 
 *Source: Player Core p. 230*
 
-## Materials  *Sidebar*
+## Materials
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-6-equipment/armor#Armor Statistics|Armor Statistics]]
 
@@ -834,7 +833,7 @@ Some armor, shields, and weapons are instead made of precious materials. These o
 
 *Source: Player Core p. 271*
 
-## Monster Core Dragons  *Sidebar*
+## Monster Core Dragons
 
 - **Parent page**: [[srd/pf2e/compendium/spells/rank-6/dragon-form|Dragon Form]]
 
@@ -885,7 +884,7 @@ WishArcaneClimbCone of mentalWill
 
 *Source: Player Core p. 326*
 
-## Multiple Attacks with Athletics  *Sidebar*
+## Multiple Attacks with Athletics
 
 - **Parent page**: [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
 
@@ -893,7 +892,7 @@ Several Athletics actions have the [[srd/pf2e/compendium/rules-elements/traits/p
 
 *Source: Player Core p. 234*
 
-## Optional: Voluntary Flaws  *Sidebar*
+## Optional: Voluntary Flaws
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/character-creation#Step 3: Select an Ancestry|Step 3: Select an Ancestry]]
 
@@ -901,7 +900,7 @@ Sometimes, it’s fun to play a character with a major flaw regardless of your a
 
 *Source: Player Core p. 23*
 
-## Other Spell Traits  *Sidebar*
+## Other Spell Traits
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-7-spells/reading-spells|Reading Spells]]
 
@@ -941,7 +940,7 @@ If a creature engages with an illusion in a way that would prove it's not what i
 
 *Source: Player Core p. 303*
 
-## Overview  *Sidebar*
+## Overview
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/character-creation|Character Creation]]
 
@@ -953,7 +952,7 @@ A character's background also affects their attribute modifiers, though there's 
 
 *Source: Player Core p. 17*
 
-## Pathfinder Society  *Sidebar*
+## Pathfinder Society
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/golarion-and-the-inner-sea#What Does My Character Know?|What Does My Character Know?]]
 
@@ -961,7 +960,7 @@ A prominent group of adventurers, explorers, and chronicle-keepers, the Pathfind
 
 *Source: Player Core p. 31*
 
-## Persistent Damage Rules  *Sidebar*
+## Persistent Damage Rules
 
 - **Parent page**: [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|Persistent Damage]]
 
@@ -987,7 +986,7 @@ You can be simultaneously affected by multiple persistent damage conditions so l
 
 *Source: Player Core p. 445*
 
-## Pet Feat Abilities  *Sidebar*
+## Pet Feat Abilities
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-3-classes/companions#Familiar Abilities|Familiar Abilities]]
 
@@ -997,7 +996,7 @@ The following abilities you can choose from the Pet general feat (page 259) are 
 
 *Source: Player Core p. 212*
 
-## Quick Equipment Packages  *Sidebar*
+## Quick Equipment Packages
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-6-equipment/index|Chapter 6: Equipment]]
 
@@ -1005,7 +1004,7 @@ If you want to quickly decide how to spend your starting money on what your clas
 
 *Source: Player Core p. 267*
 
-## Reactions to Movement  *Sidebar*
+## Reactions to Movement
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Tactical Movement|Tactical Movement]]
 
@@ -1015,11 +1014,11 @@ Some actions, such as Step, specifically state they don't trigger reactions or f
 
 *Source: Player Core p. 421*
 
-## Recall Knowledge Questions  *Sidebar*
+## Recall Knowledge Questions
 
 - **Parent page**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]]
 
-When encountering a subject for the first time, your first question will likely be a basic “What is it?”, which the GM can answer with a name and basic description like, “That's an ogre, a tough and cruel giant” or “This is the symbol of Urgathoa, a goddess of disease, gluttony, and undeath.” If you already know this base level of detail on the subject, the list below includes some reasonable questions. The GM determines what other questions to allow. Usually this is simple as long as you stick to one question. Any question must be about something observable in the game world, not the abstract numbers of the rules. The GM might tell you a lumbering monster's Reflex save is its weakest—translating a concept your character could understand using the game term for clarity—but wouldn't reveal the exact Reflex modifier. The GM can find more guidance in _[[srd/pf2e/books/gm-core/chapter-1-running-the-game/difficulty-classes#Recall Knowledge|GM Core]]_.
+When encountering a subject for the first time, your first question will likely be a basic “What is it?”, which the GM can answer with a name and basic description like, “That's an ogre, a tough and cruel giant” or “This is the symbol of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/urgathoa|Urgathoa]], a goddess of disease, gluttony, and undeath.” If you already know this base level of detail on the subject, the list below includes some reasonable questions. The GM determines what other questions to allow. Usually this is simple as long as you stick to one question. Any question must be about something observable in the game world, not the abstract numbers of the rules. The GM might tell you a lumbering monster's Reflex save is its weakest—translating a concept your character could understand using the game term for clarity—but wouldn't reveal the exact Reflex modifier. The GM can find more guidance in _[[srd/pf2e/books/gm-core/chapter-1-running-the-game/difficulty-classes#Recall Knowledge|GM Core]]_.
 
  **Creatures**: “Can it be reasoned with?” “What environments does it live in?” “What's its most notable offensive ability?” “Is it highly vulnerable or resistant to anything?” “Are any of its defenses weak?”
 
@@ -1033,7 +1032,7 @@ When encountering a subject for the first time, your first question will likely 
 
 *Source: Player Core p. 231*
 
-## Recall Knowledge Skills  *Sidebar*
+## Recall Knowledge Skills
 
 - **Parent page**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]]
 
@@ -1044,7 +1043,7 @@ The following skills can be used to Recall Knowledge about the listed topics. So
 
 *Source: Player Core p. 231*
 
-## Redundant Conditions  *Sidebar*
+## Redundant Conditions
 
 - **Parent page**: [[srd/pf2e/books/player-core/conditions-appendix/index|Conditions Appendix]]
 
@@ -1060,7 +1059,7 @@ Conditions with different values are considered different conditions. If you're 
 
 *Source: Player Core p. 442*
 
-## Riding Animal Companions  *Sidebar*
+## Riding Animal Companions
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-3-classes/companions#Companion Types|Companion Types]]
 
@@ -1068,7 +1067,7 @@ You or an ally can ride your animal companion as long as it is at least one size
 
 *Source: Player Core p. 206*
 
-## Sanctification  *Sidebar*
+## Sanctification
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/religion#Deities|Deities]]
 
@@ -1078,7 +1077,7 @@ Spells and other effects can also have these traits, making them more powerful a
 
 *Source: Player Core p. 35*
 
-## Secret Checks  *Sidebar*
+## Secret Checks
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks|Checks]]
 
@@ -1088,7 +1087,7 @@ The GM can choose to make any check secret, even if it's not usually rolled secr
 
 *Source: Player Core p. 400*
 
-## Skill Downtime Activities  *Sidebar*
+## Skill Downtime Activities
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/downtime-mode#Shopping and Crafting|Shopping and Crafting]]
 
@@ -1102,7 +1101,7 @@ The GM can choose to make any check secret, even if it's not usually rolled secr
 
 *Source: Player Core p. 441*
 
-## Skill Exploration Activities  *Sidebar*
+## Skill Exploration Activities
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/exploration-mode#Exploration Activities|Exploration Activities]]
 
@@ -1115,10 +1114,10 @@ The GM can choose to make any check secret, even if it's not usually rolled secr
 **[[srd/pf2e/compendium/rules-elements/actions/player-core#Gather Information|Gather Information]]:** You use [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] to canvass the area to learn about a specific individual or topic.
 **[[srd/pf2e/compendium/rules-elements/actions/player-core#Identify Alchemy|Identify Alchemy]]:** You use [[srd/pf2e/compendium/rules-elements/skills/crafting|Craft]] and [[srd/pf2e/compendium/equipment/adventuring-gear/alchemists-toolkit|alchemist's tools]] to identify an [[srd/pf2e/compendium/rules-elements/traits/player-core/alchemical|alchemical]] item.
 **[[srd/pf2e/compendium/rules-elements/actions/player-core#Identify Magic|Identify Magic]]:** Using a variety of skills, you can learn about a magic item, location, or ongoing effect.
-**[[srd/pf2e/compendium/rules-elements/actions/player-core#Impersonate|Impersonate]]:** You use [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] and usually a [[srd/pf2e/compendium/equipment/adventuring-gear/disguise-kit-elite-cosmetics|disguise kit]] to create a disguise.
+**[[srd/pf2e/compendium/rules-elements/actions/player-core#Impersonate|Impersonate]]:** You use [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] and usually a [[srd/pf2e/compendium/equipment/adventuring-gear/disguise-kit|disguise kit]] to create a disguise.
 **[[srd/pf2e/compendium/rules-elements/actions/player-core#Learn a Spell|Learn a Spell]]:** You use the skill corresponding to the spell's tradition to gain access to a new spell.
 **[[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]]:** You use Diplomacy to make a good impression on someone (page 239).
-**[[srd/pf2e/compendium/rules-elements/actions/player-core#Repair|Repair]]:** With a [[srd/pf2e/compendium/equipment/adventuring-gear/repair-toolkit-superb|repair kit]] and the Crafting skill, you fix a damaged item.
+**[[srd/pf2e/compendium/rules-elements/actions/player-core#Repair|Repair]]:** With a [[srd/pf2e/compendium/equipment/adventuring-gear/repair-toolkit|repair kit]] and the Crafting skill, you fix a damaged item.
 **[[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Direction|Sense Direction]]:** You use Survival to get a sense of where you are or determine cardinal directions.
 **[[srd/pf2e/compendium/rules-elements/actions/player-core#Squeeze|Squeeze]]:** Using [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]], you squeeze though very tight spaces.
 **[[srd/pf2e/compendium/rules-elements/actions/player-core#Track|Track]]:** You use Survival to follow tracks.
@@ -1126,7 +1125,7 @@ The GM can choose to make any check secret, even if it's not usually rolled secr
 
 *Source: Player Core p. 438*
 
-## Speaking  *Sidebar*
+## Speaking
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/actions#Basic Actions|Basic Actions]]
 
@@ -1134,7 +1133,7 @@ As long as you can act, you can also speak. You don't need to spend any type of 
 
 *Source: Player Core p. 416*
 
-## Spells and Spellcasting  *Sidebar*
+## Spells and Spellcasting
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/character-creation#Step 9: Calculate Modifiers|Step 9: Calculate Modifiers]]
 
@@ -1142,7 +1141,7 @@ Many characters can learn a few cantrips or focus spells, but the bard, cleric, 
 
 *Source: Player Core p. 25*
 
-## Spellshape  *Sidebar*
+## Spellshape
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-7-spells/ranges-areas-and-targets|Ranges, Areas, and Targets]]
 
@@ -1150,7 +1149,7 @@ Many spellcasters can gain access to spellshape actions, typically by selecting 
 
 *Source: Player Core p. 300*
 
-## Strike Statistics  *Sidebar*
+## Strike Statistics
 
 - **Parent page**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]]
 
@@ -1158,7 +1157,7 @@ See [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Attack Rolls|
 
 *Source: Player Core p. 418*
 
-## Subtle Spells  *Sidebar*
+## Subtle Spells
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-7-spells/ranges-areas-and-targets|Ranges, Areas, and Targets]]
 
@@ -1166,7 +1165,7 @@ A spell with the subtle trait can be cast without incantations and doesn't have 
 
 *Source: Player Core p. 300*
 
-## Targeting Companions  *Sidebar*
+## Targeting Companions
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-3-classes/companions#Familiar Abilities|Familiar Abilities]]
 
@@ -1176,7 +1175,7 @@ If the spell would affect an ability the creature doesn't have, the spell doesn'
 
 *Source: Player Core p. 212*
 
-## The First Rule  *Sidebar*
+## The First Rule
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/index|Chapter 1: Introduction]]
 
@@ -1184,7 +1183,7 @@ The first rule of Pathfinder is that this game is yours. Use it to tell the stor
 
 *Source: Player Core p. 5*
 
-## The Four Essences  *Sidebar*
+## The Four Essences
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-7-spells/index|Chapter 7: Spells]]
 
@@ -1208,7 +1207,7 @@ Also called heart, faith, instinct, or vital essence, life represents the animat
 
 *Source: Player Core p. 297*
 
-## The Six Attribute Modifiers  *Sidebar*
+## The Six Attribute Modifiers
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/character-creation|Character Creation]]
 
@@ -1244,7 +1243,7 @@ Charisma measures your character's personal magnetism and strength of personalit
 
 *Source: Player Core p. 17*
 
-## The World as a Participant  *Sidebar*
+## The World as a Participant
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/basics-of-play#Creating a Narrative|Creating a Narrative]]
 
@@ -1252,7 +1251,7 @@ Aside from characters and monsters, the world of Pathfinder itself can be a forc
 
 *Source: Player Core p. 7*
 
-## Three-Dimensional Combat  *Sidebar*
+## Three-Dimensional Combat
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/encounter-mode#Aerial Combat|Aerial Combat]]
 
@@ -1264,7 +1263,7 @@ As with ground-based movement, moving diagonally up or down in 3-D space require
 
 *Source: Player Core p. 437*
 
-## Tiny Creatures and Flanking  *Sidebar*
+## Tiny Creatures and Flanking
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Flanking|Flanking]]
 
@@ -1274,7 +1273,7 @@ The GM might allow Tiny creatures to flank other Tiny creatures if they're all i
 
 *Source: Player Core p. 425*
 
-## Tracking Initiative  *Sidebar*
+## Tracking Initiative
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/encounter-mode#Step 1: Start Your Turn|Step 1: Start Your Turn]]
 
@@ -1288,7 +1287,7 @@ Any method used to track the initiative order needs to be flexible because the o
 
 *Source: Player Core p. 435*
 
-## Unobservable Stealth  *Sidebar*
+## Unobservable Stealth
 
 - **Parent page**: [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
 
@@ -1296,7 +1295,7 @@ In some cases, it can be impossible for a creature to fully observe you. Typical
 
 *Source: Player Core p. 244*
 
-## Wheelchair Rules  *Sidebar*
+## Wheelchair Rules
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-6-equipment/gear#Assistive Items|Assistive Items]]
 
@@ -1314,9 +1313,9 @@ Each wheelchair operates in the following ways.
 
 *Source: Player Core p. 293*
 
-## Wheelchair Rules  *Sidebar*
+## Wheelchair Rules
 
-- **Parent page**: [[srd/pf2e/compendium/equipment/assistive-items/wheelchair-land-delvers-chair|Wheelchair]]
+- **Parent page**: [[srd/pf2e/compendium/equipment/assistive-items/wheelchair|Wheelchair]]
 
 Each wheelchair operates in the following ways.
 
@@ -1334,7 +1333,7 @@ Each wheelchair operates in the following ways.
 
 *Source: Player Core p. 293*
 
-## Writing Down Statistics  *Sidebar*
+## Writing Down Statistics
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Spell Attack Rolls|Spell Attack Rolls]]
 

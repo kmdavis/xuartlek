@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -11,7 +10,7 @@ tags:
 - trait/positive
 - spell/level/4
 aliases: ["Soothing Spring"]
-aon_id: "spell-2820"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2820"
 source: "Impossible Magic"
 ---
 

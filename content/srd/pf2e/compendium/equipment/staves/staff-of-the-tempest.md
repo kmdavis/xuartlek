@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/staff
 - equipment/level/6
 aliases: ["Staff of the Tempest"]
-aon_id: "equipment-3423"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3423"
 source: "Player Core 2"
 ---
 

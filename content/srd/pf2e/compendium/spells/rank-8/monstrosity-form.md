@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/polymorph
 - spell/level/8
 aliases: ["Monstrosity Form"]
-aon_id: "spell-1608"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1608"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Polymorph`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Apep, Hadregash, Iapholi, Oaur-Ooung, Vorasha
+- **Deities**: Apep, [[srd/pf2e/compendium/deities/goblin-gods/hadregash|Hadregash]], Iapholi, [[srd/pf2e/compendium/deities/qlippoth-lords/oaur-ooung|Oaur-Ooung]], [[srd/pf2e/compendium/deities/daemon-harbingers/vorasha|Vorasha]]
 - **Duration**: 1 minute
 
 You transform into the shape of a legendary monster, assuming a Huge battle form. When you Cast this Spell, choose phoenix, cave worm, or sea serpent. While in this form, you gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/beast|beast]] trait (for phoenix) or the [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animal]] trait (for cave worm or sea serpent). You can Dismiss the spell.

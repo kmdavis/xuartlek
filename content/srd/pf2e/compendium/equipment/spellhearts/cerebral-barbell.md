@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/spellheart
 - equipment/level/3
 aliases: ["Cerebral Barbell"]
-aon_id: "equipment-5148"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5148"
 source: "Impossible Magic"
 ---
 

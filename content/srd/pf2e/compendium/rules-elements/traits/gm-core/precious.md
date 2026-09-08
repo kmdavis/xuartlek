@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/gm-core
 - trait/precious
 aliases: ["Precious"]
-aon_id: "trait-673"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=673"
 source: "GM Core"
 ---
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/archetype
 - feat/level/10
 aliases: ["Goblin Jubilee Display"]
-aon_id: "feat-8532"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8532"
 source: "Guns & Gears (Remastered)"
 ---
 

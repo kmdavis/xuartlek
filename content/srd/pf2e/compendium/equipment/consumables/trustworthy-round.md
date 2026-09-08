@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/magical
 - equipment/level/3
 aliases: ["Trustworthy Round"]
-aon_id: "equipment-1199"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1199"
 source: "Guns & Gears (Remastered)"
 ---
 

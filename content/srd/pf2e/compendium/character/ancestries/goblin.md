@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ancestry
 tags:
 - compendium/src/pf2e/player-core
 - trait/goblin
 - trait/humanoid
 aliases: ["Goblin"]
-aon_id: "ancestry-62"
+aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=62"
 source: "Player Core"
 ---
 
@@ -36,7 +35,7 @@ Goblins tend to flock to strong leaders, forming small tribes. These tribes rare
 
 ### Alignment and Religion
 
-Even the most well-intentioned goblins have trouble following the rules, meaning goblin adventurers are often unsure whether they're on the right side of the law. Organized worship likewise confounds goblins, and most of them would rather pick their own deities, choosing powerful monsters, natural wonders, or anything else they find fascinating— sometimes even attributing deific status to fellow goblins of note. Goblins who spend time around people of other ancestries might adopt some of their beliefs, though, and many goblin adventurers adopt the worship of Cayden Cailean.
+Even the most well-intentioned goblins have trouble following the rules, meaning goblin adventurers are often unsure whether they're on the right side of the law. Organized worship likewise confounds goblins, and most of them would rather pick their own deities, choosing powerful monsters, natural wonders, or anything else they find fascinating— sometimes even attributing deific status to fellow goblins of note. Goblins who spend time around people of other ancestries might adopt some of their beliefs, though, and many goblin adventurers adopt the worship of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/cayden-cailean|Cayden Cailean]].
 
  **Popular Edicts** invent songs for every occasion, turn trash into your treasures, solve problems with fire
  **Popular Anathema** trust a dog or horse, learn to read

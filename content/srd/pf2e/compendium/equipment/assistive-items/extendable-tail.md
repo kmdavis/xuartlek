@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
 - trait/mechanical
 - equipment/level/3
 aliases: ["Extendable Tail"]
-aon_id: "equipment-2163"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2163"
 source: "Treasure Vault (Remastered)"
 ---
 

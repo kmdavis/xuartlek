@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/summoner
 - feat/level/8
 aliases: ["Boost Summons"]
-aon_id: "feat-9251"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9251"
 source: "Impossible Magic"
 ---
 

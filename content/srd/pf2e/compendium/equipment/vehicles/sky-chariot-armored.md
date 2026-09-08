@@ -1,17 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/battlecry
 - vehicle/level/14
 aliases: ["Sky Chariot, Armored"]
-aon_id: "vehicle-96"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=96"
 source: "Battlecry!"
 ---
 
 # Sky Chariot, Armored  *Vehicle 14*
 
-- **Price**: 12,000 gp
+- **Price**: 12, 000 gp
 
 This open-air vehicle is constructed similar to a sleigh, with four wheels in the place of runners and a set of sweeping wings extending from its sides. The wooden body of the vehicle is armored to protect the occupants, who can fire handheld weapons over the gunwales to gain cover from ranged attacks.
 

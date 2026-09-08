@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/player-core-2
@@ -9,7 +8,7 @@ tags:
 - trait/negative
 - equipment/level/12
 aliases: ["Incense of Distilled Death"]
-aon_id: "equipment-3414"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3414"
 source: "Player Core 2"
 ---
 

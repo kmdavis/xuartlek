@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 aliases: ["Galvanoscale"]
-aon_id: "creature-family-495"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=495"
 source: "Howl of the Wild"
 ---
 

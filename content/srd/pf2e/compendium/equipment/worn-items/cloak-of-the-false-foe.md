@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/primal
 - equipment/level/12
 aliases: ["Cloak of the False Foe"]
-aon_id: "equipment-4114"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4114"
 source: "Dark Archives (Remastered)"
 ---
 
@@ -15,7 +14,7 @@ source: "Dark Archives (Remastered)"
 
 `Invested`  `Primal`
 
-- **Price**: 1,850 gp
+- **Price**: 1, 850 gp
 - **Usage**: worn cloak
 - **Bulk**: L
 

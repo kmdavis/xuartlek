@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/polymorph
 - spell/level/1
 aliases: ["Pest Form"]
-aon_id: "spell-1626"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1626"
 source: "Player Core"
 ---
 
@@ -17,8 +16,8 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Polymorph`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Bastet, Daikitsu, Grandmother Spider, Sigek, Ydersius, Zevgavizeb
-- **Patron Theme**: Mosquito Witch
+- **Deities**: Bastet, Daikitsu, [[srd/pf2e/compendium/deities/other-gods/grandmother-spider|Grandmother Spider]], Sigek, [[srd/pf2e/compendium/deities/dead-or-missing-deities/ydersius|Ydersius]], [[srd/pf2e/compendium/deities/demon-lords/zevgavizeb|Zevgavizeb]]
+- **Patron Theme**: [[srd/pf2e/compendium/character/patrons#Mosquito Witch|Mosquito Witch]]
 - **Duration**: 10 minutes
 
 You transform into the battle form of a Tiny animal, such as

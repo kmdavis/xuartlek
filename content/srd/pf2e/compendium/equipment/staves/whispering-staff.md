@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/staff
 - equipment/level/20
 aliases: ["Whispering Staff"]
-aon_id: "equipment-2146"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2146"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -17,11 +16,11 @@ source: "Treasure Vault (Remastered)"
 
 `Apex`  `Invested`  `Magical`  `Staff`
 
-- **Price**: 70,000 gp
+- **Price**: 70, 000 gp
 - **Usage**: held in 1 hand
 - **Bulk**: 1
 
-This gnarled wooden staff is carved with humanoid faces in various emotional states. When the staff is activated, the faces begin to whisper a variety of languages in sibilant tones, creating what seems to be nonsense to all but the staff's wielder or those they choose to affect. The staff functions as a [[srd/pf2e/compendium/equipment/staves/staff-of-the-unblinking-eye-major|_major staff of the unblinking eye_]]. While using the staff, you gain a +3 item bonus to Decipher Writing, Identify Magic, and Recall Knowledge checks, regardless of the skill. When you invest the staff, you either increase your Intelligence modifier by 1 or increase it to +4, whichever would give you a higher value. You must select the skills and languages the first time you invest the item, and whenever you invest the same _whispering staff_, you get the same skills and languages you chose the first time.
+This gnarled wooden staff is carved with humanoid faces in various emotional states. When the staff is activated, the faces begin to whisper a variety of languages in sibilant tones, creating what seems to be nonsense to all but the staff's wielder or those they choose to affect. The staff functions as a [[srd/pf2e/compendium/equipment/staves/staff-of-the-unblinking-eye|_major staff of the unblinking eye_]]. While using the staff, you gain a +3 item bonus to Decipher Writing, Identify Magic, and Recall Knowledge checks, regardless of the skill. When you invest the staff, you either increase your Intelligence modifier by 1 or increase it to +4, whichever would give you a higher value. You must select the skills and languages the first time you invest the item, and whenever you invest the same _whispering staff_, you get the same skills and languages you chose the first time.
 
 **Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) **Frequency** once per round; **Effect** Through the staff's strange whispering, you gain a glimpse into the mind and desires of one creature you can see within 30 feet. Until the end of your next turn, that creature is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to you and takes a –2 circumstance penalty to saving throws against your spells.
 

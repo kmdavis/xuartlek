@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Unrisen"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Unrisen"
 level: 11
 source: "Monster Core 2"
-aon_id: "creature-4598"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4598"
 ---
 
@@ -69,7 +67,7 @@ abilities_bot:
   - name: "Requirements"
     desc: "The unrisen has a living creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]]"
   - name: "Effect"
-    desc: "The unrisen attempts to destroy its victim's life force so it shares in the unrisen's fate. The creature must succeed at a DC 30 Fortitude save or become [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]] 1. While the curse lasts, the creature regains only half as many HP from effects with both the [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]] traits; if it dies, any attempt to raise it from the dead causes it to return as an unrisen. The curse ends automatically if the creature's doomed value is reduced to 0. Unrisen Salts An unrisen's essential salts, formed from its remaining distilled life essence, can be used for spells and rituals such as create undead or resurrect, replacing 600 gp worth of gemstones. The existence of these essential salts doesn't damage the soul of the unrisen's source creature, but devout Pharasmins still frown on their use."
+    desc: "The unrisen attempts to destroy its victim's life force so it shares in the unrisen's fate. The creature must succeed at a DC 30 Fortitude save or become [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]] 1. While the curse lasts, the creature regains only half as many HP from effects with both the [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]] traits; if it dies, any attempt to raise it from the dead causes it to return as an unrisen. The curse ends automatically if the creature's doomed value is reduced to 0. Unrisen Salts An unrisen's essential salts, formed from its remaining distilled life essence, can be used for spells and rituals such as create undead or resurrect, replacing 600 gp worth of gemstones. The existence of these essential salts doesn't damage the soul of the unrisen's source creature, but devout [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasmins]] still frown on their use."
 sourcebook: "_Monster Core 2_, page 335."
 ```
 

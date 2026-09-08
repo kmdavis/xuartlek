@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Larabay"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Larabay"
 level: 11
 source: "Monster Core 2"
-aon_id: "creature-4460"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4460"
 ---
 
@@ -34,7 +32,7 @@ skills:
 abilityMods: [2, 6, 3, 4, 4, 7]
 abilities_top:
   - name: "Items"
-    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/sword/rapier|rapier]]_"
+    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/sword/rapier|rapier]]_"
 ac: 30
 armorclass:
   - name: "AC"
@@ -42,7 +40,7 @@ armorclass:
 hp: 175
 health:
   - name: "HP"
-    desc: "175; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 10"
+    desc: "175; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 10"
 speed: "30 feet, fly 35 feet"
 attacks:
   - name: "Melee"

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - equipment/level/18
 aliases: ["Archivist's Gaze"]
-aon_id: "equipment-5113"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5113"
 source: "Impossible Magic"
 ---
 
@@ -16,7 +15,7 @@ source: "Impossible Magic"
 
 `Apex`  `Invested`  `Magical`
 
-- **Price**: 24,000 gp
+- **Price**: 24, 000 gp
 - **Usage**: worn eyepiece
 
 This strange contraption slides over your eyes, supernaturally sharpening your mind. While peering through it, you can feel some entity whispering to you, telling all sorts of things about the subject of your gaze. You gain a +3 item bonus to [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (though some entities might grant a bonus to a different skill, as determined by your GM). In addition, when you employ an exploration tactic other than [[srd/pf2e/compendium/rules-elements/actions/player-core#Investigate|Investigating]], you also gain the benefits of Investigating unless you choose not to. When you invest the spectacles, you either increase your Intelligence modifier by 1 or increase it to +4, whichever would give you the higher value. This gives you additional trained skills and languages, as normal for increasing your Intelligence modifier. You must select skills and languages the first time you invest the item, and whenever you invest the same _archivist’s gaze_, you get the same skills and languages you picked the first time. 

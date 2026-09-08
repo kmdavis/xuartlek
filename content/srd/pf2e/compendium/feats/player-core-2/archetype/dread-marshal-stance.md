@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/stance
 - feat/level/4
 aliases: ["Dread Marshal Stance"]
-aon_id: "feat-6352"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6352"
 source: "Player Core 2"
 ---
 
@@ -20,7 +19,7 @@ source: "Player Core 2"
 
 Putting on a grim face for the battle ahead, you encourage your allies to strike fear into their foes with vicious attacks. When you use this action, attempt an [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] check. The DC is usually an easy DC of your level, but the GM can assign a different DC based on the circumstances. The effect depends on the result of your check.
 
-**Success** Your marshal’s aura grants you and your allies in the aura a +1 status bonus to damage rolls. When you or an ally in the aura critically hit an enemy with a [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]], that enemy is [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1. If you’re wielding a weapon that has more than one damage die (typically due to a [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] rune), you can have the status bonus equal the weapon’s number of damage dice instead of +1.
+**Success** Your marshal’s aura grants you and your allies in the aura a +1 status bonus to damage rolls. When you or an ally in the aura critically hit an enemy with a [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]], that enemy is [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1. If you’re wielding a weapon that has more than one damage die (typically due to a [[srd/pf2e/compendium/equipment/runes/striking|striking]] rune), you can have the status bonus equal the weapon’s number of damage dice instead of +1.
 
 **Failure** You fail to enter the stance.
 

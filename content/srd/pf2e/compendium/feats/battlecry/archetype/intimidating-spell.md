@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
@@ -11,7 +10,7 @@ tags:
 - trait/metamagic
 - feat/level/6
 aliases: ["Intimidating Spell"]
-aon_id: "feat-7981"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7981"
 source: "Battlecry!"
 ---
 
@@ -22,6 +21,6 @@ source: "Battlecry!"
 - **Archetype**: [[srd/pf2e/compendium/character/archetypes/war-mage|War Mage]]
 - **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/war-mage-dedication|War Mage Dedication]]
 
-The devastation wrought by your large-scale spells is particularly terrifying. If the next action you use is to [[srd/pf2e/compendium/rules-elements/actions/treasure-vault-remastered-co-the#Cast a Spell|Cast a Spell]] that deals damage in an area, any target who fails their saving throw is also [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1 (or frightened 2 on a critical failure).
+The devastation wrought by your large-scale spells is particularly terrifying. If the next action you use is to Cast a Spell that deals damage in an area, any target who fails their saving throw is also [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1 (or frightened 2 on a critical failure).
 
 *Source: Battlecry! p. 69*

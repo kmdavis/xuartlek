@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
 - trait/archetype
 - feat/level/18
 aliases: ["Exultant Blood Magic"]
-aon_id: "feat-7246"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7246"
 source: "War of Immortals"
 ---
 

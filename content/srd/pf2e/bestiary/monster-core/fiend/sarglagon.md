@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Sarglagon"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Sarglagon"
 level: 8
 source: "Monster Core"
-aon_id: "creature-2908"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2908"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Deluded Mob"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Deluded Mob"
 level: 4
 source: "NPC Core"
-aon_id: "creature-3611"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3611"
 ---
 

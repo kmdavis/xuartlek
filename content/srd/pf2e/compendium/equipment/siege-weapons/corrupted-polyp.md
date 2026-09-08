@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/battlecry
@@ -8,7 +7,7 @@ tags:
 - trait/rare
 - siege-weapon/level/19
 aliases: ["Corrupted Polyp"]
-aon_id: "siege-weapon-46"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=46"
 source: "Battlecry!"
 ---
 
@@ -16,7 +15,7 @@ source: "Battlecry!"
 
 `Magical`  `Mounted`  `Rare`
 
-- **Price**: 64,000 gp
+- **Price**: 64, 000 gp
 - **Ammunition**: organic matter (0 gp, 15 Bulk)
 
 **Usage** mounted

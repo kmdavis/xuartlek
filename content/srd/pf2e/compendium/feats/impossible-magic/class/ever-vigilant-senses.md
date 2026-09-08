@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/summoner
 - feat/level/16
 aliases: ["Ever-Vigilant Senses"]
-aon_id: "feat-9277"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9277"
 source: "Impossible Magic"
 ---
 

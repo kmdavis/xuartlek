@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -10,7 +9,7 @@ tags:
 - trait/uncommon
 - equipment/level/13
 aliases: ["Gorgon's Breath"]
-aon_id: "equipment-2004"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2004"
 source: "Treasure Vault (Remastered)"
 ---
 

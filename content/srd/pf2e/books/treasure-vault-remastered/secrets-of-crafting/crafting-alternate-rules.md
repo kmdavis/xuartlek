@@ -7,7 +7,6 @@ cssclasses:
 tags:
   - srd/pf2e/treasure-vault-remastered
 source: "Treasure Vault (Remastered)"
-aon_id: 1955
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=1955"
 citation: "Treasure Vault (Remastered) pg. 158"
 ---
@@ -149,7 +148,7 @@ This variant simplifies the problem by giving the players another option for ite
 
 When breaking down an item, you have a choice on how to proceed. You can immediately use the components to create an item with a similar theme to the one that you deconstructed, or you can save the components for use in any one item created later. If you create a similar item, such as deconstructing a magic weapon in order to create a different but similar type of magic weapon, you can harvest more of the components and residual magic for the new item, giving you more in return than you might otherwise get by simply harvesting the best parts of an item.
 
-The GM determines whether the new item is similar enough to warrant this benefit, but the new item should be similar in ability or in general theme. For example, deconstructing a [[srd/pf2e/compendium/equipment/worn-items/crown-of-intellect|crown of intellect]] to create a [[srd/pf2e/compendium/equipment/worn-items/headwrap-of-wisdom|headwrap of wisdom]] certainly qualifies, as does deconstructing a [[srd/pf2e/compendium/equipment/held-items/maestros-instrument-greater|moderate maestro’s instrument]] to create a [[srd/pf2e/compendium/equipment/held-items/horn-of-exorcism|horn of exorcism]]. Items of the same general type might qualify, but only if their abilities are thematically similar.
+The GM determines whether the new item is similar enough to warrant this benefit, but the new item should be similar in ability or in general theme. For example, deconstructing a [[srd/pf2e/compendium/equipment/worn-items/crown-of-intellect|crown of intellect]] to create a [[srd/pf2e/compendium/equipment/worn-items/headwrap-of-wisdom|headwrap of wisdom]] certainly qualifies, as does deconstructing a [[srd/pf2e/compendium/equipment/held-items/maestros-instrument|moderate maestro’s instrument]] to create a [[srd/pf2e/compendium/equipment/held-items/horn-of-exorcism|horn of exorcism]]. Items of the same general type might qualify, but only if their abilities are thematically similar.
 
 Generic components can be saved for later, but they can't be combined with other components from another deconstructed item. If excess value remains after making a new item, that value is lost, as the remaining parts are just the leftover bits, with the best parts being used for the new creation. The deconstructed item has the same Bulk as the original. GMs might want to put an expiration date on deconstructed items to prevent too many of them from piling up in character inventories, but unless players are breaking down items all the time, it shouldn't be a problem.
 

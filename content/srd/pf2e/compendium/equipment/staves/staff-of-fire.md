@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -7,7 +6,7 @@ tags:
 - trait/staff
 - equipment/level/3
 aliases: ["Staff of Fire"]
-aon_id: "equipment-3041"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3041"
 source: "GM Core"
 ---
 

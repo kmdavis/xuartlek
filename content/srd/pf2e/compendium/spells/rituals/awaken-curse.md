@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - ritual/level/8
 aliases: ["Awaken Curse"]
-aon_id: "ritual-188"
+aon_url: "https://2e.aonprd.com/MythicRituals.aspx?ID=188"
 source: "War of Immortals"
 ---
 
@@ -18,7 +17,7 @@ source: "War of Immortals"
 - **Cast**: 1 Day
 - **Secondary Casters**: 2
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] (mythic) or [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (mythic)
-- **Secondary Checks**: Arcana, Medicine , or Occultism
+- **Secondary Checks**: Arcana, Medicine, or Occultism
 - **Range**: 1 mile
 - **Target(s)**: 1 curse
 - **Duration**: unlimited

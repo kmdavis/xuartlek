@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/necromancer
 - feat/level/4
 aliases: ["Mobile Thralls"]
-aon_id: "feat-9109"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9109"
 source: "Impossible Magic"
 ---
 

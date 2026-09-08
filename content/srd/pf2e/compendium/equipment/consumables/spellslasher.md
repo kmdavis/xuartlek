@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
@@ -8,7 +7,7 @@ tags:
 - trait/whetstone
 - equipment/level/15
 aliases: ["Spellslasher"]
-aon_id: "equipment-3895"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3895"
 source: "Battlecry!"
 ---
 
@@ -16,7 +15,7 @@ source: "Battlecry!"
 
 `Consumable`  `Magical`  `Whetstone`
 
-- **Price**: 1,200 gp
+- **Price**: 1, 200 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
 - **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])

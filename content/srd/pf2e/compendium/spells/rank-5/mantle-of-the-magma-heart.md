@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -9,7 +8,7 @@ tags:
 - trait/morph
 - spell/level/5
 aliases: ["Mantle of the Magma Heart"]
-aon_id: "spell-2765"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2765"
 source: "Impossible Magic"
 ---
 
@@ -18,7 +17,7 @@ source: "Impossible Magic"
 `Concentrate`  `Fire`  `Manipulate`  `Morph`
 
 - **Traditions**: Arcane, Primal
-- **Deity**: Mahja Firehair
+- **Deity**: [[srd/pf2e/compendium/deities/orc-gods/mahja-firehair|Mahja Firehair]]
 - **Duration**: 1 minute
 
 You surround yourself in a mantle of blazing fire magic, and your skin and anything you’re wearing morphs into burning hot lava. The air around you swelters with heat, and tiny sparks of flame dance behind you as you pass. Upon Casting this Spell, pick two of the options below. You can Sustain this spell once per round to change one of your chosen abilities to a different option.

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -12,7 +11,7 @@ tags:
 - trait/wizard
 - feat/level/2
 aliases: ["Enhanced Familiar"]
-aon_id: "feat-4717"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4717"
 source: "Player Core"
 ---
 
@@ -20,8 +19,8 @@ source: "Player Core"
 
 `Animist`  `Druid`  `Magus`  `Sorcerer`  `Thaumaturge`  `Witch`  `Wizard`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/familiar-master|Familiar Master]] (Level 4), [[srd/pf2e/compendium/character/archetypes/elementalist|Elementalist]] (Level 6), Shadowcaster (Level 6), [[srd/pf2e/compendium/character/archetypes/elementalist|Elementalist]] (Level 6), [[srd/pf2e/compendium/character/archetypes/familiar-master|Familiar Master]] (Level 4), Rivethun Emissary (Level 6)
-- **Prerequisites**: a familiar
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/familiar-master|Familiar Master]] (Level 4), [[srd/pf2e/compendium/character/archetypes/elementalist|Elementalist]] (Level 6), Shadowcaster (Level 6), [[srd/pf2e/compendium/character/archetypes/rivethun-emissary|Rivethun Emissary]] (Level 6)
+- **Prerequisites**: a [[srd/pf2e/compendium/character/familiar-abilities|familiar]]
 
 You infuse your familiar with additional primal energy, increasing its abilities. You can select four familiar or master abilities each day, instead of two.
 

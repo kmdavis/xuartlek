@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/necromancer
 - feat/level/10
 aliases: ["Blossoming Gore"]
-aon_id: "feat-9130"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9130"
 source: "Impossible Magic"
 ---
 

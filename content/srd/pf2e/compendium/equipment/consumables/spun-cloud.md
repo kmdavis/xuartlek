@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -9,7 +8,7 @@ tags:
 - trait/magical
 - equipment/level/2
 aliases: ["Spun Cloud"]
-aon_id: "equipment-2585"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2585"
 source: "Rage of Elements"
 ---
 

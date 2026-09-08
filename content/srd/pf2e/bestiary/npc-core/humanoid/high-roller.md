@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "High Roller"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "High Roller"
 level: 11
 source: "NPC Core"
-aon_id: "creature-3511"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3511"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [1, 5, 0, 2, 3, 5]
 abilities_top:
   - name: "Items"
-    desc: "Playing Cards (54-card deck), [[srd/pf2e/compendium/equipment/held-items/predictable-silver-piece|_predictable silver piece_]], _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/rapier|rapier]]_"
+    desc: "Playing Cards (54-card deck), [[srd/pf2e/compendium/equipment/held-items/predictable-silver-piece|_predictable silver piece_]], _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/rapier|rapier]]_"
 ac: 30
 armorclass:
   - name: "AC"

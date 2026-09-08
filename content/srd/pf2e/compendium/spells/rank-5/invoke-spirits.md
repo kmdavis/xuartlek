@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -12,7 +11,7 @@ tags:
 - trait/negative
 - spell/level/5
 aliases: ["Invoke Spirits"]
-aon_id: "spell-1578"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1578"
 source: "Player Core"
 ---
 
@@ -21,7 +20,7 @@ source: "Player Core"
 `Concentrate`  `Emotion`  `Fear`  `Manipulate`  `Mental`  `Void`  `Negative`
 
 - **Traditions**: Arcane, Divine, Occult
-- **Bloodlines**: Undead, Aesir
+- **Bloodlines**: [[srd/pf2e/compendium/character/bloodlines#Undead|Undead]], [[srd/pf2e/compendium/character/bloodlines#Aesir|Aesir]]
 - **Range**: 120 feet
 - **Area**: 10-foot burst
 - **Defense**: Will

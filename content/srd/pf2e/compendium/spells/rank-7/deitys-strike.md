@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -11,7 +10,7 @@ tags:
 - trait/spirit
 - spell/level/7
 aliases: ["Deity's Strike"]
-aon_id: "spell-2673"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2673"
 source: "Impossible Magic"
 ---
 

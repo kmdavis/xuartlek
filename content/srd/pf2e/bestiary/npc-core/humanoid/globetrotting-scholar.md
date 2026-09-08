@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Globetrotting Scholar"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Globetrotting Scholar"
 level: 13
 source: "NPC Core"
-aon_id: "creature-3595"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3595"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [3, 4, 3, 3, 1, 3]
 abilities_top:
   - name: "Items"
-    desc: "Climbing Kit, _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/runes/frost-greater|frost]] [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]]_, _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/firearm/flintlock-pistol-weapon-522|flintlock pistol]]_, _+1 [[srd/pf2e/compendium/equipment/runes/resilient-major|resilient]] [[srd/pf2e/compendium/equipment/armor#Leather Armor|leather armor]]_, notebook filled with sketches of wild animals and ancient ruins, [[srd/pf2e/compendium/equipment/adventuring-gear/writing-set-extra-ink-and-paper|writing kit]]"
+    desc: "Climbing Kit, _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/runes/frost|frost]] [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]]_, _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/firearm/flintlock-pistol|flintlock pistol]]_, _+1 [[srd/pf2e/compendium/equipment/runes/resilient|resilient]] [[srd/pf2e/compendium/equipment/armor#Leather Armor|leather armor]]_, notebook filled with sketches of wild animals and ancient ruins, [[srd/pf2e/compendium/equipment/adventuring-gear/writing-set|writing kit]]"
 ac: 33
 armorclass:
   - name: "AC"

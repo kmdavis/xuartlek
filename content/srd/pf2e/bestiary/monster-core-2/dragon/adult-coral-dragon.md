@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Adult Coral Dragon"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Adult Coral Dragon"
 level: 12
 source: "Monster Core 2"
-aon_id: "creature-4349"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4349"
 ---
 

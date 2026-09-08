@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Vaspercham"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Vaspercham"
 level: 17
 source: "Monster Core 2"
-aon_id: "creature-4605"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4605"
 ---
 
@@ -65,7 +63,7 @@ abilities_bot:
   - name: "Mindwarping Tide"
     desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]]) The vaspercham releases an effusion of noxious water from its shell. Creatures within a 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] must save against the vaspercham's hallucinatory brine."
   - name: "Whipping Tentacles"
-    desc: "⬺ The vaspercham makes four tentacle Strikes, each against a different target. These attacks count toward the vaspercham's multiple attack penalty, but the multiple attack penalty doesn't increase until after the vaspercham makes all of their attacks. Forbidden Armor After a devastating battle with a vaspercham, many legendary heroes have tried to forge armor or weapons from the sea beast’s magical shell, but all have failed thanks to the powerful curse that suffuses the opaline material. If one were able to dispel the curse of a vaspercham’s shell—or somehow twist the curse to their own benefit—they would be able to craft an incredible suit of _[[srd/pf2e/compendium/equipment/armor/magic-armor-3-major-resilient|+2]] [[srd/pf2e/compendium/equipment/runes/antimagic|antimagic]] [[srd/pf2e/compendium/equipment/armor/magic-armor-3-major-resilient|greater resilient]] plate mail_."
+    desc: "⬺ The vaspercham makes four tentacle Strikes, each against a different target. These attacks count toward the vaspercham's multiple attack penalty, but the multiple attack penalty doesn't increase until after the vaspercham makes all of their attacks. Forbidden Armor After a devastating battle with a vaspercham, many legendary heroes have tried to forge armor or weapons from the sea beast’s magical shell, but all have failed thanks to the powerful curse that suffuses the opaline material. If one were able to dispel the curse of a vaspercham’s shell—or somehow twist the curse to their own benefit—they would be able to craft an incredible suit of _[[srd/pf2e/compendium/equipment/armor/magic-armor|+2]] [[srd/pf2e/compendium/equipment/runes/antimagic|antimagic]] [[srd/pf2e/compendium/equipment/armor/magic-armor|greater resilient]] plate mail_."
 spellcasting:
   - name: "Arcane Innate Spells"
     desc: "DC 41 - __5th__ [[srd/pf2e/compendium/spells/rank-5/control-water|Control Water]] (at will) - __6th__ [[srd/pf2e/compendium/spells/rank-6/spellwrack|Spellwrack]] (×3) - __7th__ [[srd/pf2e/compendium/spells/rank-7/regenerate|Regenerate]] - __8th__ [[srd/pf2e/compendium/spells/rank-3/lightning-bolt|Lightning Bolt]] - __9th__ [[srd/pf2e/compendium/spells/rank-4/dispelling-globe|Dispelling Globe]], [[srd/pf2e/compendium/spells/rank-5/howling-blizzard|Howling Blizzard]] - __Constant (7th)__ [[srd/pf2e/compendium/spells/rank-2/see-the-unseen|See the Unseen]]"

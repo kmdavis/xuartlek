@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Gambling Companion"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Gambling Companion"
 level: 3
 source: "NPC Core"
-aon_id: "creature-3670"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3670"
 ---
 

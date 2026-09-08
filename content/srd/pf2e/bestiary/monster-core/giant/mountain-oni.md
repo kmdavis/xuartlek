@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Mountain Oni"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Mountain Oni"
 level: 8
 source: "Monster Core"
-aon_id: "creature-3121"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3121"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [6, 3, 4, 0, 3, 4]
 abilities_top:
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/club/tetsubo|tetsubo]]_"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] tetsubo_"
 ac: 26
 armorclass:
   - name: "AC"
@@ -62,7 +60,7 @@ abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|Polymorph]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]) The mountain oni can take on the appearance of any Medium or Large [[srd/pf2e/compendium/rules-elements/traits/player-core/humanoid|humanoid]] creature. This doesn't change their Speed or their attack and damage bonuses with their Strikes but might change the damage type their Strikes deal (typically to bludgeoning)."
   - name: "Thundering Iron"
-    desc: "⬺ The oni lifts their tetsubo and brings it down in a deafening peal. They make a tetsubo Strike. On a success, the target takes an additional 1d10 sonic damage. Each creature in a 10-foot emanation around the target, other than the oni, take this damage as well and is pushed 5 feet away from the target. Tetsubo A mountain oni wields a [[srd/pf2e/compendium/equipment/weapons/club/tetsubo|tetsubo]], which appears in _Lost Omens Tian Xia Character Guide_. This [[srd/pf2e/compendium/rules-elements/traits/player-core/uncommon|uncommon]] martial weapon costs 3 gp, deals 1d10 bludgeoning damage, has 3 Bulk, and require two hands to use. Tetsubo are in the club weapon group and have the [[srd/pf2e/compendium/rules-elements/traits/treasure-vault-remastered/razing|razing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/shove|shove]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|sweep]] traits. The razing trait means that whenever the weapon damages an object, the object takes an amount of additional damage equal to double the number of weapon damage dice."
+    desc: "⬺ The oni lifts their tetsubo and brings it down in a deafening peal. They make a tetsubo Strike. On a success, the target takes an additional 1d10 sonic damage. Each creature in a 10-foot emanation around the target, other than the oni, take this damage as well and is pushed 5 feet away from the target. Tetsubo A mountain oni wields a tetsubo, which appears in _Lost Omens Tian Xia Character Guide_. This [[srd/pf2e/compendium/rules-elements/traits/player-core/uncommon|uncommon]] martial weapon costs 3 gp, deals 1d10 bludgeoning damage, has 3 Bulk, and require two hands to use. Tetsubo are in the club weapon group and have the [[srd/pf2e/compendium/rules-elements/traits/treasure-vault-remastered/razing|razing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/shove|shove]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|sweep]] traits. The razing trait means that whenever the weapon damages an object, the object takes an amount of additional damage equal to double the number of weapon damage dice."
 spellcasting:
   - name: "Primal Innate Spells"
     desc: "DC 25 - __2nd__ [[srd/pf2e/compendium/spells/rank-2/invisibility|Invisibility]] (at will; self only)"

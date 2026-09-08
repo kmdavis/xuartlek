@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Jotunborn Sage"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Jotunborn Sage"
 level: 2
 source: "Monster Core 2"
-aon_id: "creature-4451"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4451"
 ---
 

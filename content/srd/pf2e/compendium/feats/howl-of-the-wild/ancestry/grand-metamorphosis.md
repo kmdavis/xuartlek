@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 - trait/surki
 - feat/level/9
 aliases: ["Grand Metamorphosis"]
-aon_id: "feat-5393"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5393"
 source: "Howl of the Wild"
 ---
 

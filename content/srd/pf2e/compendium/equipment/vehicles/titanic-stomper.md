@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/rare
 - vehicle/level/15
 aliases: ["Titanic Stomper"]
-aon_id: "vehicle-34"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=34"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -14,7 +13,7 @@ source: "Guns & Gears (Remastered)"
 
 `Rare`
 
-- **Price**: 19,000 gp
+- **Price**: 19, 000 gp
 
 Among the most dangerous vehicles created in Ustalav with a mix of magic and the new Stasian technology, a titanic stomper is shaped like a long sinuous lizard or behir with carefully placed Stasian coils and eight big stomping legs. Titanic stompers were meant to devastate the armies of the [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]]. Only two exist, making them almost unique, and the means to create more have been stymied, as some of the crucial inventors were killed in the process of attempting to design a follow-up technology, a smaller but more powerful suit of mechanized armor called the Grobelarch that ultimately went berserk and killed its creators.
 

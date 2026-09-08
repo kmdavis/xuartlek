@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/barbarian
 - feat/level/8
 aliases: ["Invulnerable Rager"]
-aon_id: "feat-5841"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5841"
 source: "Player Core 2"
 ---
 

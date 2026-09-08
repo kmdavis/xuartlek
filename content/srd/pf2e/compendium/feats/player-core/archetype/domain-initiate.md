@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/cleric
 - feat/level/1
 aliases: ["Domain Initiate"]
-aon_id: "feat-4644"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4644"
 source: "Player Core"
 ---
 
@@ -16,7 +15,7 @@ source: "Player Core"
 
 - **Archetypes**: Soul Warden (Level 4), [[srd/pf2e/compendium/character/archetypes/vindicator|Vindicator]] (Level 1)
 
-Your deity bestows a special spell related to their powers. Select one domain—a subject of particular interest to you within your religion—from your deity’s list. You gain an initial domain spell for that domain, a spell unique to the domain and not available to other clerics. 
+Your deity bestows a special spell related to their powers. Select one [[srd/pf2e/compendium/character/domains|domain]]—a subject of particular interest to you within your religion—from your deity’s list. You gain an initial domain spell for that domain, a spell unique to the domain and not available to other clerics. 
 
 Domain spells are a type of focus spell. It costs 1 Focus Point to cast a focus spell, and you start with a focus pool of 1 Focus Point. You refill your focus pool during your daily preparations, and you can regain 1 Focus Point by spending 10 minutes using the Refocus activity to pray to your deity or do service toward their causes.
 

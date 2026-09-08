@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -10,7 +9,7 @@ tags:
 - trait/water
 - equipment/level/6
 aliases: ["Octopus Potion"]
-aon_id: "equipment-2630"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2630"
 source: "Rage of Elements"
 ---
 

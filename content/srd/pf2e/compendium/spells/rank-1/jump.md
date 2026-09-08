@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/move
 - spell/level/1
 aliases: ["Jump"]
-aon_id: "spell-1580"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1580"
 source: "Player Core"
 ---
 
@@ -16,7 +15,7 @@ source: "Player Core"
 `Manipulate`  `Move`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Arshea, Chinostes (Nightwarden), Chinostes (Redeemer), Faith in the Fallen, Gogunta, Irori, Jin Li, Kabriri, Sun Wukong, The Divine Dare
+- **Deities**: [[srd/pf2e/compendium/deities/empyreal-lords/arshea|Arshea]], Chinostes (Nightwarden), Chinostes (Redeemer), [[srd/pf2e/compendium/deities/covenants/faith-in-the-fallen|Faith in the Fallen]], [[srd/pf2e/compendium/deities/demon-lords/gogunta|Gogunta]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/irori|Irori]], Jin Li, [[srd/pf2e/compendium/deities/demon-lords/kabriri|Kabriri]], Sun Wukong, The Divine Dare
 
 Your legs surge with strength, ready to leap high and far. You jump 30 feet in any direction without touching the ground. You must land on a space of solid ground within 30 feet of you, or else you fall after using your next action.
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
 - trait/deadly
 - weapon/level/0
 aliases: ["Shortbow"]
-aon_id: "weapon-437"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=437"
 source: "Player Core"
 ---
 
@@ -14,7 +13,7 @@ source: "Player Core"
 
 `Deadly`
 
-- **Favored Weapon**: Alocer, General Susumu, Gruhastha, Iggeret, Neith, Phi Deva, Sovyrian Conclave, Vavaalrav
+- **Favored Weapon**: Alocer, General Susumu, [[srd/pf2e/compendium/deities/other-gods/gruhastha|Gruhastha]], [[srd/pf2e/compendium/deities/sakhil-tormentors/iggeret|Iggeret]], Neith, Phi Deva, [[srd/pf2e/compendium/deities/pantheons/sovyrian-conclave|Sovyrian Conclave]], [[srd/pf2e/compendium/deities/monitor-demigods/vavaalrav|Vavaalrav]]
 - **Price**: 3 gp
 - **Damage**: 1d6 P
 - **Bulk**: 1

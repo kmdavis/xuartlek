@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -8,7 +7,7 @@ tags:
 - trait/dedication
 - feat/level/2
 aliases: ["Bloodrager Dedication"]
-aon_id: "feat-7239"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7239"
 source: "War of Immortals"
 ---
 
@@ -17,7 +16,7 @@ source: "War of Immortals"
 `Archetype`  `Class`  `Dedication`
 
 - **Archetype**: [[srd/pf2e/compendium/character/archetypes/bloodrager|Bloodrager]]
-- **Prerequisites**: Bloodrager
+- **Prerequisites**: [[srd/pf2e/compendium/character/instincts/bloodrager|Bloodrager]]
 
 Drinking powerful blood has awakened magical potential within you. You gain a spell repertoire with two cantrips of your choice, from either the arcane or divine spell list. You choose these cantrips from the common spells for your tradition or from other spells you have access to on that tradition’s spell list. At least one cantrip must require a spell attack roll. You’re trained in spell attack modifier and spell DC. Your key spellcasting attribute for these spells is Charisma. Spells in your repertoire gain the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/rage|rage]] trait while you are [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Rage|raging]], and when you [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a Spell]] from your repertoire, you become [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] 1 (or increase the value of your drained condition by 1); you can reduce the value of this condition only by Harvesting Blood. 
 

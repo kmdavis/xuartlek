@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/battlecry
@@ -9,7 +8,7 @@ tags:
 - trait/manipulate
 - spell/level/8
 aliases: ["Holy Host"]
-aon_id: "spell-2508"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2508"
 source: "Battlecry!"
 ---
 

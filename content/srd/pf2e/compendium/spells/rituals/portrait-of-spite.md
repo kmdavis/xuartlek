@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - ritual/level/5
 aliases: ["Portrait of Spite"]
-aon_id: "ritual-262"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=262"
 source: "Impossible Magic"
 ---
 
@@ -19,7 +18,7 @@ source: "Impossible Magic"
 - **Cost**: art supplies worth at least 100 gp × the target’s level and at least one pint of blood from the target
 - **Secondary Casters**: 3
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] or [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] (master)
-- **Secondary Checks**: Crafting , Occultism or Religion (whichever isn't used for the primary check)
+- **Secondary Checks**: Crafting, Occultism or Religion (whichever isn't used for the primary check)
 - **Target(s)**: 1 living creature
 - **Duration**: 1 year
 

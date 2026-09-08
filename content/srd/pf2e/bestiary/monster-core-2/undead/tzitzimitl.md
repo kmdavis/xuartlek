@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Tzitzimitl"
 tags:
@@ -14,7 +13,6 @@ name: "Tzitzimitl"
 level: 19
 source: "Monster Core 2"
 other_sources: "Pathfinder #150: Broken Promises"
-aon_id: "creature-4597"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4597"
 ---
 

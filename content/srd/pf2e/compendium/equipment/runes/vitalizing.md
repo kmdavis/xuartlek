@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
 - trait/magical
 - equipment/level/5
 aliases: ["Vitalizing"]
-aon_id: "equipment-2852"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2852"
 source: "GM Core"
 ---
 

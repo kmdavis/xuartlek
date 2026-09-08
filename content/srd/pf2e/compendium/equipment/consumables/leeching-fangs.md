@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
@@ -9,7 +8,7 @@ tags:
 - trait/whetstone
 - equipment/level/12
 aliases: ["Leeching Fangs"]
-aon_id: "equipment-3886"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3886"
 source: "Battlecry!"
 ---
 

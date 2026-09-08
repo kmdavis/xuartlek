@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -9,7 +8,7 @@ tags:
 - trait/mental
 - feat/level/6
 aliases: ["Bestial Protection"]
-aon_id: "feat-5424"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5424"
 source: "Howl of the Wild"
 ---
 

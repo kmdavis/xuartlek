@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - siege-weapon/level/13
 aliases: ["Alchemical Springald"]
-aon_id: "siege-weapon-10"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=10"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -15,7 +14,7 @@ source: "Guns & Gears (Remastered)"
 
 `Mounted`  `Uncommon`
 
-- **Price**: 6,000 gp
+- **Price**: 6, 000 gp
 - **Ammunition**: bomb arrows (100 gp, 2 Bulk)
 
 **Usage** mounted (black powder)

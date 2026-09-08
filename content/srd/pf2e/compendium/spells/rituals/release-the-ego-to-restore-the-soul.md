@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -12,7 +11,7 @@ tags:
 - trait/positive
 - ritual/level/2
 aliases: ["Release the Ego to Restore the Soul"]
-aon_id: "ritual-263"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=263"
 source: "Impossible Magic"
 ---
 

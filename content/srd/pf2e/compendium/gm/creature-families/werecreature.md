@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core
 aliases: ["Werecreature"]
-aon_id: "creature-family-484"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=484"
 source: "Monster Core"
 ---
 
@@ -21,7 +20,7 @@ Batkin Guard (Creature 1), Werebat Warrior (Creature 3), [[srd/pf2e/bestiary/mon
 You can either create a werecreature using the [[srd/pf2e/books/gm-core/chapter-2-building-games/building-creatures|creature-building rules]] from _GM Core_ (similar to the creatures in this section), or you can turn an existing, living humanoid into a werecreature by completing the following steps. The latter is an excellent choice for a recurring NPC who becomes a werecreature during a campaign. These changes reflect a werecreature in its hybrid form.
 
  Increase the creature's level by 1 and change its statistics as follows. 
-It gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/beast|beast]] and [[srd/pf2e/compendium/gm/creature-families/werecreature|werecreature]] traits.Increase its size by one category if the animal is a larger size than the base humanoid.Increase its AC, attack bonuses, DCs, saving throws, and skill modifiers by 1.Increase its damage with Strikes and other offensive abilities by 1. If the werecreature is limited in how often it can use an ability (such as magical breath), increase the damage by 2 instead.Increase its HP by the amount shown on the table. This HP increase is more than typical in order to compensate for the creature's weakness to [[srd/pf2e/compendium/equipment/materials/silver-object-high-grade|silver]].The creature gains weakness to silver as shown on the table. 
+It gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/beast|beast]] and [[srd/pf2e/compendium/gm/creature-families/werecreature|werecreature]] traits.Increase its size by one category if the animal is a larger size than the base humanoid.Increase its AC, attack bonuses, DCs, saving throws, and skill modifiers by 1.Increase its damage with Strikes and other offensive abilities by 1. If the werecreature is limited in how often it can use an ability (such as magical breath), increase the damage by 2 instead.Increase its HP by the amount shown on the table. This HP increase is more than typical in order to compensate for the creature's weakness to [[srd/pf2e/compendium/equipment/materials/silver|silver]].The creature gains weakness to silver as shown on the table. 
 **Starting Level** **HP Increase** **Weakness to Silver** 4 or lower +25 5 5–7 +35 7 8–14 +50 10 15+ +75 15 
 
 ### Werecreature Abilities

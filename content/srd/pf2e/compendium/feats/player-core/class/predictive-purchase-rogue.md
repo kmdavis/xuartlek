@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/rogue
 - feat/level/8
 aliases: ["Predictive Purchase (Rogue)"]
-aon_id: "feat-4955"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4955"
 source: "Player Core"
 ---
 

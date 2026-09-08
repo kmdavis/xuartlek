@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Poltergeist"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Poltergeist"
 level: 5
 source: "Monster Core"
-aon_id: "creature-3142"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3142"
 ---
 

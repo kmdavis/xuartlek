@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -8,7 +7,7 @@ tags:
 - trait/rage
 - feat/level/6
 aliases: ["Dragon's Rage Breath"]
-aon_id: "feat-5827"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5827"
 source: "Player Core 2"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core 2"
 `Barbarian`  `Concentrate`  `Rage`
 
 - **Frequency**: once per 10 minutes
-- **Prerequisites**: dragon instinct
+- **Prerequisites**: [[srd/pf2e/compendium/character/instincts/dragon|dragon instinct]]
 
 You breathe deeply and exhale powerful energy in a 30-foot cone, dealing 1d6 damage per level to each creature in the area with a basic Reflex save against your class DC. The damage type matches your instinct's dragon breath, and this action gains the trait of your dragon instinct's tradition.
 

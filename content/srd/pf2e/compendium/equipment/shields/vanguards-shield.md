@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - equipment/level/13
 aliases: ["Vanguard's Shield"]
-aon_id: "equipment-3835"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3835"
 source: "Battlecry!"
 ---
 
@@ -15,11 +14,11 @@ source: "Battlecry!"
 
 `Magical`  `Uncommon`
 
-- **Price**: 3,000 gp
+- **Price**: 3, 000 gp
 - **Usage**: held in 1 hand
 - **Bulk**: 3
 
-This _[[srd/pf2e/compendium/equipment/runes/reinforcing-rune-supreme|moderate reinforced]] [[srd/pf2e/compendium/equipment/shields/duskwood-tower-shield-high-grade|standard-grade duskwood tower shield]]_ (Hardness 8, HP 84, BT 42) is slightly wider than standard. Designed for bodyguards, it grants the user a small burst of speed to save themself and others from harm.
+This _[[srd/pf2e/compendium/equipment/runes/reinforcing-rune|moderate reinforced]] [[srd/pf2e/compendium/equipment/shields/duskwood-shield|standard-grade duskwood tower shield]]_ (Hardness 8, HP 84, BT 42) is slightly wider than standard. Designed for bodyguards, it grants the user a small burst of speed to save themself and others from harm.
 
 **Activate—By Your Side** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ; **Trigger** An effect within 15 feet would deal damage in an area and require a saving throw; **Requirements** Your [[srd/pf2e/compendium/rules-elements/actions/player-core#Raise a Shield|shield is raised]]; **Effect** You [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]] up to 15 feet and grant yourself and creatures adjacent to you after the movement a +2 circumstance bonus to the saving throw against the triggering effect.
 

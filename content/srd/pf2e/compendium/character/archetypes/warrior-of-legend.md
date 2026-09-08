@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-archetype
 tags:
 - compendium/src/pf2e/war-of-immortals
 - trait/uncommon
 - archetype/level/2
 aliases: ["Warrior Of Legend"]
-aon_id: "archetype-286"
+aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=286"
 source: "War of Immortals"
 ---
 

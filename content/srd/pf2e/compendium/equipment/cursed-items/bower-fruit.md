@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/rare
 - equipment/level/13
 aliases: ["Bower Fruit"]
-aon_id: "equipment-2375"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2375"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -21,7 +20,7 @@ source: "Treasure Vault (Remastered)"
 - **Bulk**: L
 - **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-_Bower fruit_ got its name from its association with the Green Mother, a fey Eldest with a fondness for plants and manipulation, whose domain is known as the Hanging Bower. She uses these cursed fruits to keep mortals in her thrall, but it's unknown whether she created them or simply popularized their use.
+_Bower fruit_ got its name from its association with [[srd/pf2e/compendium/deities/eldest/the-green-mother|the Green Mother]], a fey Eldest with a fondness for plants and manipulation, whose domain is known as the Hanging Bower. She uses these cursed fruits to keep mortals in her thrall, but it's unknown whether she created them or simply popularized their use.
 
  A _bower fruit_ condemns a non-fey who tastes it to never again be satisfied with the fare found in the mundane [[srd/pf2e/compendium/gm/planes#The Universe|Universe]]. Any fruit can be cursed in this manner, but stone fruits such as peaches, plums, mangoes, and lychees are most common. Upon activating a bower fruit by eating it, you’re afflicted with the curse of decadence. You can’t recover from stage 1 of the curse naturally, even if you succeed at the save to do so. 
 

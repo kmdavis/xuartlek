@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -12,7 +11,7 @@ tags:
 - trait/water
 - feat/level/6
 aliases: ["Rising Hurricane"]
-aon_id: "feat-4307"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4307"
 source: "Rage of Elements"
 ---
 

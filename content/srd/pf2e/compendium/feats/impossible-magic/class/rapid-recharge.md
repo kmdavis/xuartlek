@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/magus
 - feat/level/10
 aliases: ["Rapid Recharge"]
-aon_id: "feat-9077"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9077"
 source: "Impossible Magic"
 ---
 

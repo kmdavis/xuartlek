@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-skill
 tags:
 - compendium/src/pf2e/player-core
 aliases: ["Diplomacy"]
-aon_id: "skill-39"
+aon_url: "https://2e.aonprd.com/Skills.aspx?ID=39"
 source: "Player Core"
 ---
 
@@ -75,7 +74,7 @@ Other Worn Items
 No
 Item bonus to a check of the crafter's choice
 
-[[srd/pf2e/compendium/equipment/worn-items/greater-medics-armband|Medic’s Armband]]
+[[srd/pf2e/compendium/equipment/worn-items/medics-armband|Medic’s Armband]]
 +1
 4
 Worn Items
@@ -96,7 +95,7 @@ Clan Dagger Filigrees
 No
 Item bonus to Diplomacy checks to Request
 
-[[srd/pf2e/compendium/equipment/runes/major-convincing|Convincing]]
+[[srd/pf2e/compendium/equipment/runes/convincing|Convincing]]
 +1
 5
 Armor Property Runes
@@ -166,7 +165,7 @@ Other Consumables
 Yes
 Make and Impression or Request
 
-[[srd/pf2e/compendium/equipment/armor/warleaders-bulwark-greater|Warleader's Bulwark]]
+[[srd/pf2e/compendium/equipment/armor/warleaders-bulwark|Warleader's Bulwark]]
 +2
 0
 Armor
@@ -179,7 +178,7 @@ Other Worn Items
 No
 item bonus to Diplomacy checks to Make an Impression
 
-[[srd/pf2e/compendium/equipment/runes/major-convincing|Greater Convincing]]
+[[srd/pf2e/compendium/equipment/runes/convincing|Greater Convincing]]
 +2
 8
 Armor Property Runes
@@ -193,7 +192,7 @@ Held Items
 No
 item bonus to Diplomacy checks against intelligent undead
 
-[[srd/pf2e/compendium/equipment/worn-items/entertainers-cincture-greater|Entertainer's Cincture]]
+[[srd/pf2e/compendium/equipment/worn-items/entertainers-cincture|Entertainer's Cincture]]
 +2
 10
 Worn Items
@@ -214,7 +213,7 @@ Clan Dagger Filigrees
 No
 Item bonus to Diplomacy checks to Request
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal]]
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal]]
 +2
 11
 Worn Items
@@ -249,14 +248,14 @@ Apex Items
 No
 Item bonus while wearing the mask.
 
-[[srd/pf2e/compendium/equipment/consumables/conrasu-coin-bythos|Conrasu Coin (Arbiter)]]
+[[srd/pf2e/compendium/equipment/consumables/conrasu-coin|Conrasu Coin (Arbiter)]]
 +2
 3
 Talismans
 Yes
 increases to a +3 circumstance bonus to Make an Impression on a creature with the aeon trait.
 
-[[srd/pf2e/compendium/equipment/runes/major-convincing|Major Convincing]]
+[[srd/pf2e/compendium/equipment/runes/convincing|Major Convincing]]
 +3
 16
 Armor Property Runes
@@ -270,7 +269,7 @@ Apex Items
 No
 Item bonus to Diplomacy checks
 
-[[srd/pf2e/compendium/equipment/worn-items/entertainers-cincture-greater|Entertainer's Cincture (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/entertainers-cincture|Entertainer's Cincture (Greater)]]
 +3
 17
 Worn Items
@@ -284,7 +283,7 @@ Specific Magic Armor
 No
 Item bonus to Make an Impression and to Make Requests of creatures who are within your aura.
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal (Greater)]]
 +3
 18
 Worn Items

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
 - trait/animist
 - feat/level/14
 aliases: ["Cardinal Guardians"]
-aon_id: "feat-7145"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7145"
 source: "War of Immortals"
 ---
 

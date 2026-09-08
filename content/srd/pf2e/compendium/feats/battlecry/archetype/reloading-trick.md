@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - feat/level/6
 aliases: ["Reloading Trick"]
-aon_id: "feat-7917"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7917"
 source: "Battlecry!"
 ---
 
@@ -18,7 +17,7 @@ source: "Battlecry!"
 
 - **Archetype**: [[srd/pf2e/compendium/character/archetypes/crossbow-infiltrator|Crossbow Infiltrator]]
 - **Prerequisites**: [[srd/pf2e/compendium/feats/battlecry/archetype/crossbow-infiltrator-dedication|Crossbow Infiltrator Dedication]]
-- **Requirements**: You're wielding an unloaded [[srd/pf2e/compendium/equipment/weapons/crossbow/hand-crossbow|hand crossbow]] or an unloaded [[srd/pf2e/compendium/equipment/weapons/crossbow/gauntlet-bow-weapon-538|gauntlet bow]].
+- **Requirements**: You're wielding an unloaded [[srd/pf2e/compendium/equipment/weapons/crossbow/hand-crossbow|hand crossbow]] or an unloaded [[srd/pf2e/compendium/equipment/weapons/crossbow/gauntlet-bow|gauntlet bow]].
 
 You can fire off a single shot even when it seems like you are unprepared. You Interact to reload your hand crossbow or gauntlet bow and attempt a ranged Strike with it.
 

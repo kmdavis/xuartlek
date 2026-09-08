@@ -1,24 +1,34 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
 - trait/invested
 - trait/magical
-- trait/transmutation
 - trait/uncommon
-- equipment/level/0
+- equipment/level/4
 aliases: ["Rhinoceros Mask"]
-aon_id: "equipment-965"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2352"
 source: "Treasure Vault (Remastered)"
 ---
 
-# Rhinoceros Mask  *Item 0*
+# Rhinoceros Mask  *Item 4+*
 
-`Invested`  `Magical`  `Transmutation`  `Uncommon`
+`Invested`  `Magical`  `Uncommon`
 
 - **Usage**: worn mask
 
-Covered with thick armor and bearing a thicker horn, this face mask grants you increased momentum. If you Stride at least 10 feet, your next melee Strike before the end of your turn ignores the Hardness of objects with a Hardness of 5 or less. If the object has more than Hardness 5, the mask grants no benefit.
+Covered with thick armor and bearing a thicker horn, a _rhinoceros mask_ grants you increased momentum. If you Stride at least 10 feet, your next melee Strike before the end of your turn ignores the Hardness of objects with a Hardness of 5 or less. If the object has more than Hardness 5, the mask grants no benefit.
+
+### Rhinoceros Mask
+
+**Price** 90 gp
+
+### Rhinoceros Mask (Greater)
+
+**Price** 425 gp
+
+---
+
+Your melee Strikes ignore the Hardness of objects with a Hardness of 10 or less.
 
 *Source: Treasure Vault (Remastered) p. 155*

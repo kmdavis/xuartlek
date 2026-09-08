@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Sniper"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Sniper"
 level: 5
 source: "NPC Core"
-aon_id: "creature-3525"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3525"
 ---
 
@@ -38,7 +36,7 @@ abilities_top:
   - name: "Silencer"
     desc: "A silencer is an uncommon item worth 1 sp. It has light Bulk and can be attached to a firearm in 1 minute; the sniper typically already has one attached before going into combat. The first time a shot is fired through it, the silencer is consumed and reduces the report to a quiet noise. A silencer doesn't work on [[srd/pf2e/compendium/rules-elements/traits/npc-core/scatter|scatter]] firearms."
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/weapons/firearm/arquebus|Arquebus]] (20 cartridges), Dagger, [[srd/pf2e/compendium/equipment/consumables/silencer|Silencer]] (4)"
+    desc: "Arquebus (20 cartridges), Dagger, [[srd/pf2e/compendium/equipment/consumables/silencer|Silencer]] (4)"
 ac: 21
 armorclass:
   - name: "AC"
@@ -65,7 +63,7 @@ abilities_bot:
   - name: "Sniper's Edge"
     desc: "The sniper's ranged Strikes deal 2d6 extra precision damage to [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creatures."
   - name: "Surprise Attack"
-    desc: "All enemy creatures that have not yet acted in combat are [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to the sniper. Outfitting A Sniper The weapons and armor of a sniper vary depending on how they wish to get the job done. Though this one uses an [[srd/pf2e/compendium/equipment/weapons/firearm/arquebus-weapon-518|arquebus]], many snipers choose to use [[srd/pf2e/compendium/equipment/weapons/bow/longbow|longbows]] if gunpowder isn't an option or if they prefer more subtle means of killing. Snipers usually forgo wearing the colors of their company in favor of hues that best match their surroundings. They usually only carry a small insignia for identification purposes, and their position is usually on a need-to-know basis."
+    desc: "All enemy creatures that have not yet acted in combat are [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to the sniper. Outfitting A Sniper The weapons and armor of a sniper vary depending on how they wish to get the job done. Though this one uses an [[srd/pf2e/compendium/equipment/weapons/firearm/arquebus|arquebus]], many snipers choose to use [[srd/pf2e/compendium/equipment/weapons/bow/longbow|longbows]] if gunpowder isn't an option or if they prefer more subtle means of killing. Snipers usually forgo wearing the colors of their company in favor of hues that best match their surroundings. They usually only carry a small insignia for identification purposes, and their position is usually on a need-to-know basis."
 sourcebook: "_NPC Core_, page 90."
 ```
 

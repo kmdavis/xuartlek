@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/dragonblood
 - feat/level/17
 aliases: ["Lingering Breath"]
-aon_id: "feat-5746"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5746"
 source: "Player Core 2"
 ---
 

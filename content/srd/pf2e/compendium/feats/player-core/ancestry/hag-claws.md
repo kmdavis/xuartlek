@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/changeling
 - feat/level/1
 aliases: ["Hag Claws"]
-aon_id: "feat-4535"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4535"
 source: "Player Core"
 ---
 

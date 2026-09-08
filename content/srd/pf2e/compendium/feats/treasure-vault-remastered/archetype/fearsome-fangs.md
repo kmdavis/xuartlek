@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
 - trait/archetype
 - feat/level/16
 aliases: ["Fearsome Fangs"]
-aon_id: "feat-4093"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4093"
 source: "Treasure Vault (Remastered)"
 ---
 

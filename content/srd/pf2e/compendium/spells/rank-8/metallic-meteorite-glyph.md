@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/metal
 - spell/level/8
 aliases: ["Metallic Meteorite Glyph"]
-aon_id: "spell-2768"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2768"
 source: "Impossible Magic"
 ---
 

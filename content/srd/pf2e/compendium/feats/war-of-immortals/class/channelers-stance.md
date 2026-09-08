@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -7,7 +6,7 @@ tags:
 - trait/stance
 - feat/level/1
 aliases: ["Channeler's Stance"]
-aon_id: "feat-7434"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7434"
 source: "War of Immortals"
 ---
 

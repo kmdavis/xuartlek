@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/battlecry
 - trait/rare
 - vehicle/level/16
 aliases: ["Battle Dirigible"]
-aon_id: "vehicle-90"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=90"
 source: "Battlecry!"
 ---
 
@@ -14,7 +13,7 @@ source: "Battlecry!"
 
 `Rare`
 
-- **Price**: 30,000 gp
+- **Price**: 30, 000 gp
 
 These heavily armored rigid airships are carried aloft by a series of massive gasbags carried within the framework of their hull, protected from damage by a hide and metal skin. Used to control the battlefield from the air, these airships carry both their own armaments as well as one or more gliders mounted on rails for quick deployment along the sides and top.
 

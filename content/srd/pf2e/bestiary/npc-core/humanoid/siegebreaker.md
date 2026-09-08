@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Siegebreaker"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Siegebreaker"
 level: 14
 source: "NPC Core"
-aon_id: "creature-3520"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3520"
 ---
 
@@ -38,7 +36,7 @@ abilities_top:
   - name: "Alchemical Grenades"
     desc: "A siegebreaker carries 15 alchemical grenades that deal either acid, cold, or fire damage plus 10 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent damage]] and 10 [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage of the same type (typically five of each damage type). They replenish these grenades each day."
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/alchemists-toolkit|Alchemist's Toolkit]], formula book, _+2 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/club/light-mace|light mace]]_, _+1 [[srd/pf2e/compendium/equipment/runes/resilient-major|resilient]] [[srd/pf2e/compendium/equipment/armor#Leather Armor|leather armor]]_"
+    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/alchemists-toolkit|Alchemist's Toolkit]], formula book, _+2 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/club/light-mace|light mace]]_, _+1 [[srd/pf2e/compendium/equipment/runes/resilient|resilient]] [[srd/pf2e/compendium/equipment/armor#Leather Armor|leather armor]]_"
 ac: 34
 armorclass:
   - name: "AC"

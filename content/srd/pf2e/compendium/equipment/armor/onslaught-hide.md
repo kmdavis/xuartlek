@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/magical
 - equipment/level/9
 aliases: ["Onslaught Hide"]
-aon_id: "equipment-3275"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3275"
 source: "Player Core 2"
 ---
 
@@ -20,6 +19,6 @@ source: "Player Core 2"
 - **Bulk**: 2
 - **Base Armor**: [[srd/pf2e/compendium/equipment/armor#Hide Armor|Hide Armor]]
 
-This _+1 [[srd/pf2e/compendium/equipment/runes/resilient-major|resilient]] [[srd/pf2e/compendium/equipment/armor#Hide Armor|hide armor]]_ is decorated with the horns of many slain beasts. It has an armor check penalty of –1 instead of –2. When you use the [[srd/pf2e/compendium/feats/player-core/class/sudden-charge|Sudden Charge]] class feat while wearing this armor, your [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] deals an additional 1d8 damage.
+This _+1 [[srd/pf2e/compendium/equipment/runes/resilient|resilient]] [[srd/pf2e/compendium/equipment/armor#Hide Armor|hide armor]]_ is decorated with the horns of many slain beasts. It has an armor check penalty of –1 instead of –2. When you use the [[srd/pf2e/compendium/feats/player-core/class/sudden-charge|Sudden Charge]] class feat while wearing this armor, your [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] deals an additional 1d8 damage.
 
 *Source: Player Core 2 p. 278*

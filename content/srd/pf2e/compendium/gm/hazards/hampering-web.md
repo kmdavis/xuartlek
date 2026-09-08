@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
 tags:
 - compendium/src/pf2e/gm-core
 - trait/environmental
 - hazard/level/1
 aliases: ["Hampering Web"]
-aon_id: "hazard-473"
+aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=473"
 source: "GM Core"
 ---
 

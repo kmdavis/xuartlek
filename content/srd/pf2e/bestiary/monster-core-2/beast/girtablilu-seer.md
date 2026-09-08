@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Girtablilu Seer"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Girtablilu Seer"
 level: 12
 source: "Monster Core 2"
-aon_id: "creature-4414"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4414"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [6, 5, 6, 3, 7, 3]
 abilities_top:
   - name: "Items"
-    desc: "_[[srd/pf2e/compendium/equipment/armor/magic-armor-3-major-resilient|+1 resilient]] [[srd/pf2e/compendium/equipment/armor#Hide Armor|hide armor]]_"
+    desc: "_[[srd/pf2e/compendium/equipment/armor/magic-armor|+1 resilient]] [[srd/pf2e/compendium/equipment/armor#Hide Armor|hide armor]]_"
 ac: 33
 armorclass:
   - name: "AC"

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 - trait/thaumaturge
 - feat/level/20
 aliases: ["Wonder Worker"]
-aon_id: "feat-8390"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8390"
 source: "Dark Archives (Remastered)"
 ---
 

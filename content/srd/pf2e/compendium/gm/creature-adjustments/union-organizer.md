@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-adjustment
 tags:
 - compendium/src/pf2e/npc-core
 aliases: ["Union Organizer"]
-aon_id: "creature-adjustment-35"
+aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=35"
 source: "NPC Core"
 ---
 

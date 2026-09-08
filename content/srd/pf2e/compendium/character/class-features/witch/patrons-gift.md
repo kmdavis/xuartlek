@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class-feature
 tags:
 - compendium/src/pf2e/player-core
 - class-feature/level/19
 aliases: ["Patron's Gift"]
-aon_id: "class-feature-789"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=38"
 source: "Player Core"
 ---
 

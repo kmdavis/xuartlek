@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/tattoo
 - equipment/level/9
 aliases: ["Nemesis Name"]
-aon_id: "equipment-2213"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2213"
 source: "Treasure Vault (Remastered)"
 ---
 

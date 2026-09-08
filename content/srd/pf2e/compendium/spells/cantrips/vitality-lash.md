@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/positive
 - spell/level/1
 aliases: ["Vitality Lash"]
-aon_id: "spell-1744"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1744"
 source: "Player Core"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core"
 `Cantrip`  `Concentrate`  `Manipulate`  `Vitality`  `Positive`
 
 - **Traditions**: Divine, Primal
-- **Mystery**: Life
+- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Life|Life]]
 - **Range**: 30 feet
 - **Target**: 1 creature that is undead or otherwise has void healing
 - **Defense**: basic Fortitude

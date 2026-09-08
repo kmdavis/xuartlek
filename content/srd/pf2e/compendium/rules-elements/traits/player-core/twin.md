@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/twin
 aliases: ["Twin"]
-aon_id: "trait-717"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=717"
 source: "Player Core"
 ---
 

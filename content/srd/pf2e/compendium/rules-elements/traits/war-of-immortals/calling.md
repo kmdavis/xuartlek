@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/war-of-immortals
 - trait/calling
 aliases: ["Calling"]
-aon_id: "trait-834"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=834"
 source: "War of Immortals"
 ---
 

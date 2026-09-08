@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/monster-core
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - weapon/level/0
 aliases: ["Ogre Hook"]
-aon_id: "weapon-495"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=495"
 source: "Monster Core"
 ---
 

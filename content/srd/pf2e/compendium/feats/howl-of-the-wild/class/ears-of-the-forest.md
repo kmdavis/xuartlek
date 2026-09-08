@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 - trait/bard
 - feat/level/8
 aliases: ["Ears of the Forest"]
-aon_id: "feat-5418"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5418"
 source: "Howl of the Wild"
 ---
 
@@ -14,7 +13,7 @@ source: "Howl of the Wild"
 
 `Bard`
 
-- **Prerequisites**: zoophonia muse
+- **Prerequisites**: [[srd/pf2e/compendium/character/muses#Zoophonia|zoophonia muse]]
 
 Beyond relying on your own senses, you keep an ear open for nearby creatures for help in exploring your surroundings. When you [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]], if there are any willing [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animals]] in the selected area, you can borrow their senses. Doing so lets you Seek with scent and tremorsense as imprecise senses, along with any other senses appropriate to the animals in the area, at the GM's discretion.
 

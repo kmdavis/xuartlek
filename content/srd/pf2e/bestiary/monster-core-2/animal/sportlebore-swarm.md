@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Sportlebore Swarm"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Sportlebore Swarm"
 level: 7
 source: "Monster Core 2"
-aon_id: "creature-4566"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4566"
 ---
 

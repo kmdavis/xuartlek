@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/mental
 - spell/level/4
 aliases: ["Nightmare"]
-aon_id: "spell-1615"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1615"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Concentrate`  `Illusion`  `Manipulate`  `Mental`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Alazhra, Corosbel, Cthulhu, Lamashtu, [[srd/pf2e/compendium/character/deities#Nyarlathotep (Haunter in the Dark)|Nyarlathotep (Haunter in the Dark)]]
+- **Deities**: [[srd/pf2e/compendium/deities/dead-or-missing-deities/alazhra|Alazhra]], [[srd/pf2e/compendium/deities/daemon-harbingers/corosbel|Corosbel]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/cthulhu|Cthulhu]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/lamashtu|Lamashtu]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-haunter-in-the-dark|Nyarlathotep (Haunter in the Dark)]]
 - **Cast**: 10 minutes
 - **Range**: planetary
 - **Target**: 1 creature you know by name

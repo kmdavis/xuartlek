@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Interrogator"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Interrogator"
 level: 6
 source: "NPC Core"
-aon_id: "creature-3615"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3615"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [4, 3, 1, 0, 2, 2]
 abilities_top:
   - name: "Items"
-    desc: "Dart (5), [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit-expanded|Healer's Toolkit]], leather apron (functions as [[srd/pf2e/compendium/equipment/armor#Leather Armor|leather armor]]), _+1 [[srd/pf2e/compendium/equipment/weapons/knife/war-razor-weapon-307|war razor]]_"
+    desc: "Dart (5), [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit|Healer's Toolkit]], leather apron (functions as [[srd/pf2e/compendium/equipment/armor#Leather Armor|leather armor]]), _+1 [[srd/pf2e/compendium/equipment/weapons/knife/war-razor|war razor]]_"
 ac: 22
 armorclass:
   - name: "AC"

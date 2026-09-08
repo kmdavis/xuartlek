@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-eidolon
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/eidolon
 - trait/ooze
 aliases: ["Ooze"]
-aon_id: "eidolon-23"
+aon_url: "https://2e.aonprd.com/Eidolons.aspx?ID=23"
 source: "Impossible Magic"
 ---
 

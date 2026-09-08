@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/rare
 - equipment/level/6
 aliases: ["Arboreal's Revenge"]
-aon_id: "equipment-1174"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1174"
 source: "Guns & Gears (Remastered)"
 ---
 

@@ -1,15 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-methodology
 tags:
+- compendium/src/pf2e/divine-mysteries
 - compendium/src/pf2e/player-core-2
 aliases: ["Methodologies"]
-entries: 4
+entries: 5
 ---
 
 # Methodologies
 
-## Alchemical Sciences  *Investigator Methodology*
+## Alchemical Sciences
 
 Your methodology emphasizes chemical and alchemical analysis, collecting information from unusual particles and fluids found on the scene. You possess enough alchemical know-how to whip up a few tinctures to help you with your cases.
 
@@ -21,7 +21,7 @@ You gain the Quick Tincture action, which you can use to turn one of these vials
 
 *Source: Player Core 2 p. 103*
 
-## Empiricism  *Investigator Methodology*
+## Empiricism
 
 Everything comes down to data. Calculating statistics, running numbers, and using inductive reasoning allows you to determine the most likely outcome of any scenario, and anything out of place draws your keen attention.
 
@@ -29,7 +29,15 @@ You are trained in one Intelligence-based skill of your choice. You gain the [[s
 
 *Source: Player Core 2 p. 104*
 
-## Forensic Medicine  *Investigator Methodology*
+## Esoterica
+
+This methodology can be taken by [[srd/pf2e/compendium/character/archetypes/palatine-detective|Palatine Detectives]]
+
+You become trained in Occultism or Religion, and you gain the [[srd/pf2e/compendium/feats/player-core/skill/quick-identification|Quick Identification]] skill feat. In addition, choose one common cantrip from the divine spell list and one common cantrip from the occult spell list. You can cast those spells as innate spells at will. You become trained in the spell attack modifier and spell DCs statistics. Intelligence is your spellcasting attribute.
+
+*Source: Divine Mysteries p. 288*
+
+## Forensic Medicine
 
 You’ve learned that in most cases, especially murders, criminals tend to leave more evidence of the crime on the body than they’d like to believe. Information from bruising, bone fractures, blood spatters, and even the life cycle of carrion insects can provide valuable clues that help reconstruct the scene.
 
@@ -37,7 +45,7 @@ You’re trained in [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicin
 
 *Source: Player Core 2 p. 104*
 
-## Interrogation  *Investigator Methodology*
+## Interrogation
 
 People can’t help but trust you, whether through your inherent likableness or your firm insistence on sticking to the truth. You have a way about you that gets others talking, and you’ve developed interrogative techniques to help you get to the truth of your investigations.
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Werewolf"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Werewolf"
 level: 3
 source: "Monster Core"
-aon_id: "creature-3236"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3236"
 ---
 

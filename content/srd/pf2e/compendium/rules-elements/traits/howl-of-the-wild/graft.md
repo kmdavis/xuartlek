@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 - trait/graft
 aliases: ["Graft"]
-aon_id: "trait-790"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=790"
 source: "Howl of the Wild"
 ---
 

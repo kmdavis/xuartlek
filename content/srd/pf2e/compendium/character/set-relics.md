@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-set-relic
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -9,7 +8,7 @@ entries: 7
 
 # Set Relics
 
-## Agathion Raiment  *Set Relic*
+## Agathion Raiment
 
 `Holy`  `Relic`
 
@@ -19,7 +18,7 @@ An _agathion raiment_ aids its wearer in finding diplomatic solutions to conflic
 
 ---
 
-**Set Items**: Flask of Fellowship (level 2), [[srd/pf2e/compendium/equipment/worn-items/aeon-stone-sprouting|Aeon Stone (Envisioning)]] (level 8), Messenger's Ring (level 9), [[srd/pf2e/compendium/equipment/armor/holy-chain|Holy Chain]] (level 13), [[srd/pf2e/compendium/equipment/worn-items/headwrap-of-wisdom|Headwrap of Wisdom]] (level 17)
+**Set Items**: Flask of Fellowship (level 2), [[srd/pf2e/compendium/equipment/worn-items/aeon-stone|Aeon Stone (Envisioning)]] (level 8), Messenger's Ring (level 9), [[srd/pf2e/compendium/equipment/armor/holy-chain|Holy Chain]] (level 13), [[srd/pf2e/compendium/equipment/worn-items/headwrap-of-wisdom|Headwrap of Wisdom]] (level 17)
 
 ---
 
@@ -38,7 +37,7 @@ _Two Items_: Word of faith restores 1d10 Hit Points per relic level and reduces 
 
 *Source: Treasure Vault (Remastered) p. 201*
 
-## Archmage's Regalia  *Set Relic*
+## Archmage's Regalia
 
 `Relic`
 
@@ -48,7 +47,7 @@ Many wizards have enhanced their spellcasting capabilities with an _archmage's r
 
 ---
 
-**Set Items**: [[srd/pf2e/compendium/equipment/worn-items/mages-hat-greater|Mage's Hat]] (level 3), Endless Grimoire (level 6), [[srd/pf2e/compendium/equipment/worn-items/accolade-robe-greater|Accolade Robe]] (level 10), [[srd/pf2e/compendium/equipment/worn-items/bands-of-force-major|Bands of Force (Greater)]] (level 14), [[srd/pf2e/compendium/equipment/staves/major-staff-of-arcane-might|Greater Staff of Arcane Might]] (level 16)
+**Set Items**: [[srd/pf2e/compendium/equipment/worn-items/mages-hat|Mage's Hat]] (level 3), Endless Grimoire (level 6), [[srd/pf2e/compendium/equipment/worn-items/accolade-robe|Accolade Robe]] (level 10), [[srd/pf2e/compendium/equipment/worn-items/bands-of-force|Bands of Force (Greater)]] (level 14), [[srd/pf2e/compendium/equipment/staves/staff-of-arcane-might|Greater Staff of Arcane Might]] (level 16)
 
 ---
 
@@ -67,7 +66,7 @@ _Two Items:_ The repository of knowledge gift grants you one additional Lore ski
 
 *Source: Treasure Vault (Remastered) p. 201*
 
-## Duelist's Blazon  *Set Relic*
+## Duelist's Blazon
 
 `Relic`
 
@@ -77,7 +76,7 @@ A _duelist's blazon_ set relic was once used by a legendary swordmaster, absorbi
 
 ---
 
-**Set Items**: +1 rapier (level 2), [[srd/pf2e/compendium/equipment/worn-items/bravery-baldric-stone|Bravery Baldric (Fleet)]] (level 5), [[srd/pf2e/compendium/equipment/worn-items/winged-sandals|Winged Sandals]] (level 10), Invisible Chain Shirt (level 13), Mercurial Mantle (level 18)
+**Set Items**: +1 rapier (level 2), [[srd/pf2e/compendium/equipment/worn-items/bravery-baldric|Bravery Baldric (Fleet)]] (level 5), [[srd/pf2e/compendium/equipment/worn-items/winged-sandals|Winged Sandals]] (level 10), Invisible Chain Shirt (level 13), Mercurial Mantle (level 18)
 
 ---
 
@@ -96,7 +95,7 @@ _Two Items_: You can use dominant emotion at will._Three Items_: You can use wha
 
 *Source: Treasure Vault (Remastered) p. 202*
 
-## Infiltration Garb  *Set Relic*
+## Infiltration Garb
 
 `Relic`
 
@@ -106,7 +105,7 @@ Several notable assassins, thieves, and others who work from the shadows have us
 
 ---
 
-**Set Items**: [[srd/pf2e/compendium/equipment/worn-items/masquerade-scarf-greater|Masquerade Scarf]] (level 2), [[srd/pf2e/compendium/equipment/worn-items/obsidian-goggles-major|Obsidian Goggles]] (level 5), [[srd/pf2e/compendium/equipment/worn-items/clandestine-cloak-greater|Clandestine Cloak (Greater)]] (level 10), Boots of Bounding (Greater) (level 14), Ring of Maniacal Devices (Greater) (level 18)
+**Set Items**: [[srd/pf2e/compendium/equipment/worn-items/masquerade-scarf|Masquerade Scarf]] (level 2), [[srd/pf2e/compendium/equipment/worn-items/obsidian-goggles|Obsidian Goggles]] (level 5), [[srd/pf2e/compendium/equipment/worn-items/clandestine-cloak|Clandestine Cloak (Greater)]] (level 10), Boots of Bounding (Greater) (level 14), Ring of Maniacal Devices (Greater) (level 18)
 
 ---
 
@@ -125,17 +124,17 @@ _Two Items_: The relic set grants you a +1 status bonus to [[srd/pf2e/compendium
 
 *Source: Treasure Vault (Remastered) p. 202*
 
-## Monk's Attire  *Set Relic*
+## Monk's Attire
 
 `Relic`
 
 - **Aspects**: Emotion (dedication) and Life
 
-According to tales, some of the first monks to assemble the austere _monk's attire_ were servants of Irori. This deity is a symbol of devotion and self-discovery through one's understanding of body, mind, and soul. _Monk's attire_ resonates with Irori's dedication, focusing on the highest gain from minimal acquisition, eschewing material objects. Legend holds Irori did so, and that some famous _monk's attire_ sets include a scrap of Irori's original possessions. Other monastic orders have similar traditions of minimal personal effects, with an emphasis on spiritual focus, practicality, and self-defense.
+According to tales, some of the first monks to assemble the austere _monk's attire_ were servants of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/irori|Irori]]. This deity is a symbol of devotion and self-discovery through one's understanding of body, mind, and soul. _Monk's attire_ resonates with Irori's dedication, focusing on the highest gain from minimal acquisition, eschewing material objects. Legend holds Irori did so, and that some famous _monk's attire_ sets include a scrap of Irori's original possessions. Other monastic orders have similar traditions of minimal personal effects, with an emphasis on spiritual focus, practicality, and self-defense.
 
 ---
 
-**Set Items**: Handwraps of Mighty Blows (+1) (level 2), [[srd/pf2e/compendium/equipment/armor/magic-armor-3-major-resilient|+1 explorer's clothing]] (level 5) or [[srd/pf2e/compendium/equipment/worn-items/bands-of-force-major|Bands of Force]] (level 8), [[srd/pf2e/compendium/equipment/worn-items/mask-of-uncanny-breath|Mask of Uncanny Breath]] (level 11) or [[srd/pf2e/compendium/equipment/worn-items/mala-beads-of-foresight|Mala Beads of Foresight]] (level 11)
+**Set Items**: Handwraps of Mighty Blows (+1) (level 2), [[srd/pf2e/compendium/equipment/armor/magic-armor|+1 explorer's clothing]] (level 5) or [[srd/pf2e/compendium/equipment/worn-items/bands-of-force|Bands of Force]] (level 8), [[srd/pf2e/compendium/equipment/worn-items/mask-of-uncanny-breath|Mask of Uncanny Breath]] (level 11) or [[srd/pf2e/compendium/equipment/worn-items/mala-beads-of-foresight|Mala Beads of Foresight]] (level 11)
 
 ---
 
@@ -154,7 +153,7 @@ _Two Items_: The item bonus from overflowing life equals the relic's level._Thre
 
 *Source: Treasure Vault (Remastered) p. 202*
 
-## Pharasma's Command  *Set Relic*
+## Pharasma's Command
 
 `Relic`
 
@@ -164,7 +163,7 @@ Pharasma's devoted followers vow to seek out and destroy [[srd/pf2e/compendium/r
 
 ---
 
-**Set Items**: [[srd/pf2e/compendium/equipment/runes/weapon-potency-3|+1 dagger]] (level 2), [[srd/pf2e/compendium/equipment/worn-items/symbol-of-conflict-major|Symbol of Conflict]] (level 4), [[srd/pf2e/compendium/equipment/wands/wand-of-overflowing-life-8th-rank-spell|Wand of Overflowing Life (3rd-Rank Spell)]] (level 9), [[srd/pf2e/compendium/equipment/worn-items/devoted-vestments|Devoted Vestments]] (level 11) or [[srd/pf2e/compendium/equipment/worn-items/cloister-robe-major|Cloister Robe (Greater)]] (level 15), [[srd/pf2e/compendium/equipment/staves/staff-of-healing-true|Staff of Healing (True)]] (level 16)
+**Set Items**: [[srd/pf2e/compendium/equipment/runes/weapon-potency|+1 dagger]] (level 2), [[srd/pf2e/compendium/equipment/worn-items/symbol-of-conflict|Symbol of Conflict]] (level 4), [[srd/pf2e/compendium/equipment/wands/wand-of-overflowing-life|Wand of Overflowing Life (3rd-Rank Spell)]] (level 9), [[srd/pf2e/compendium/equipment/worn-items/devoted-vestments|Devoted Vestments]] (level 11) or [[srd/pf2e/compendium/equipment/worn-items/cloister-robe|Cloister Robe (Greater)]] (level 15), [[srd/pf2e/compendium/equipment/staves/staff-of-healing|Staff of Healing (True)]] (level 16)
 
 ---
 
@@ -183,7 +182,7 @@ _Two Items_: Healing wave increases to 1d6 per relic level._Three Items_: You ca
 
 *Source: Treasure Vault (Remastered) p. 202*
 
-## Seer's Array  *Set Relic*
+## Seer's Array
 
 `Relic`
 
@@ -193,7 +192,7 @@ Diviners through the ages have employed a variety of tools to glimpse the future
 
 ---
 
-**Set Items**: Pendant of the Occult (level 3), [[srd/pf2e/compendium/equipment/staves/staff-of-the-unblinking-eye-major|Staff of the Unblinking Eye]] (level 6), [[srd/pf2e/compendium/equipment/worn-items/clarity-goggles-greater|Clarity Goggles (Lesser)]] (level 8), [[srd/pf2e/compendium/equipment/held-items/crystal-ball-obsidian|Crystal Ball (Clear Quartz)]] (level 14), [[srd/pf2e/compendium/equipment/worn-items/amulet-of-the-third-eye|Amulet of the Third Eye]] (level 17)
+**Set Items**: Pendant of the Occult (level 3), [[srd/pf2e/compendium/equipment/staves/staff-of-the-unblinking-eye|Staff of the Unblinking Eye]] (level 6), [[srd/pf2e/compendium/equipment/worn-items/clarity-goggles|Clarity Goggles (Lesser)]] (level 8), [[srd/pf2e/compendium/equipment/held-items/crystal-ball|Crystal Ball (Clear Quartz)]] (level 14), [[srd/pf2e/compendium/equipment/worn-items/amulet-of-the-third-eye|Amulet of the Third Eye]] (level 17)
 
 ---
 

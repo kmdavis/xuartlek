@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -8,7 +7,7 @@ tags:
 - trait/tengu
 - feat/level/5
 aliases: ["Eat Fortune"]
-aon_id: "feat-5681"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5681"
 source: "Player Core 2"
 ---
 

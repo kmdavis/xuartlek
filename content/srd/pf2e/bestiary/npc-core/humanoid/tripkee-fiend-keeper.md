@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Tripkee Fiend Keeper"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Tripkee Fiend Keeper"
 level: 7
 source: "NPC Core"
-aon_id: "creature-3675"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3675"
 ---
 

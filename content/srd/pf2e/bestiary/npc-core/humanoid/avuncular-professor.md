@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Avuncular Professor"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Avuncular Professor"
 level: 5
 source: "NPC Core"
-aon_id: "creature-3592"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3592"
 ---
 
@@ -40,7 +38,7 @@ abilities_top:
   - name: "Duelist of Wits"
     desc: "The avuncular professor may cultivate the appearance of an unworldly academic, but they know how to stick the rhetorical knife in. Once per hour, if the avuncular professor succeeds at a [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] or [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] check, they can choose to roll a [[srd/pf2e/compendium/rules-elements/skills/society|Society]] or [[srd/pf2e/compendium/rules-elements/skills/lore|Academia Lore]] check at the same DC—if they succeed on the second check, the initial success is upgraded to a critical success, though if they fail the second check, their initial success also turns into a failure."
   - name: "Items"
-    desc: "copy of a book that they wrote, fine clothes, [[srd/pf2e/compendium/equipment/assistive-items/cane|sword cane]], [[srd/pf2e/compendium/equipment/adventuring-gear/writing-set-extra-ink-and-paper|writing kit]]"
+    desc: "copy of a book that they wrote, fine clothes, [[srd/pf2e/compendium/equipment/assistive-items/cane|sword cane]], [[srd/pf2e/compendium/equipment/adventuring-gear/writing-set|writing kit]]"
 ac: 21
 armorclass:
   - name: "AC"

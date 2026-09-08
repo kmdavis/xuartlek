@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/4
 aliases: ["Fire Shield"]
-aon_id: "spell-1529"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1529"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Fire`  `Manipulate`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Atreia, Chohar, Folgrit, Iomedae, Milani, Ragathiel, Smiad, Sorrow's Sword, The Godclaw, Zelishkar
+- **Deities**: [[srd/pf2e/compendium/deities/elemental-lords/atreia|Atreia]], Chohar, [[srd/pf2e/compendium/deities/dwarven-gods/folgrit|Folgrit]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/iomedae|Iomedae]], [[srd/pf2e/compendium/deities/other-gods/milani|Milani]], [[srd/pf2e/compendium/deities/empyreal-lords/ragathiel|Ragathiel]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/smiad|Smiad]], Sorrow's Sword, The Godclaw, [[srd/pf2e/compendium/deities/daemon-harbingers/zelishkar|Zelishkar]]
 - **Duration**: 1 minute
 
 You create a hovering shield made of fire. As long as the shield persists, its heat grants you cold resistance 5 and makes you immune to mild and severe environmental cold. You can Raise a Shield with the fire shield as a normal shield to gain a +1 circumstance bonus to AC. You can use the Shield Block reaction with the fire shield, which has Hardness 10, is immune to fire, and has 40 HP (with no Broken Threshold), and its Hardness is halved against effects that have the [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]] trait. If you Shield Block a melee attack that is either an unarmed attack or made by an adjacent attacker, the attacker takes 2d6 fire damage.

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/rage-of-elements
 - trait/kineticist
 - feat/level/2
 aliases: ["Kinetic Activation"]
-aon_id: "feat-4187"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4187"
 source: "Rage of Elements"
 ---
 

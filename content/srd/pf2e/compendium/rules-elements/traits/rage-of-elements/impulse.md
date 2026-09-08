@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/rage-of-elements
 - trait/impulse
 aliases: ["Impulse"]
-aon_id: "trait-502"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=502"
 source: "Rage of Elements"
 ---
 

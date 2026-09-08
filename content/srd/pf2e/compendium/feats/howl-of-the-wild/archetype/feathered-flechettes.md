@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 - trait/archetype
 - feat/level/8
 aliases: ["Feathered Flechettes"]
-aon_id: "feat-5532"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5532"
 source: "Howl of the Wild"
 ---
 
@@ -18,6 +17,6 @@ source: "Howl of the Wild"
 - **Frequency**: once per hour
 - **Prerequisites**: [[srd/pf2e/compendium/feats/howl-of-the-wild/archetype/winged-warrior-dedication|Winged Warrior Dedication]]
 
-Unfurling your wings in a quick snap, you send feathers scattering in all directions. Creatures in a 15-foot emanation take 6d6 slashing damage (basic Reflex save against your class DC). This increases to 10d6 if your unarmed attacks have a [[srd/pf2e/compendium/equipment/runes/striking-major|_greater striking_]] rune, such as by etching it onto [[srd/pf2e/compendium/equipment/worn-items/handwraps-of-mighty-blows-3-major-striking|_handwraps of mighty blows_]], and 16d6 if they have a _major striking_ rune.
+Unfurling your wings in a quick snap, you send feathers scattering in all directions. Creatures in a 15-foot emanation take 6d6 slashing damage (basic Reflex save against your class DC). This increases to 10d6 if your unarmed attacks have a [[srd/pf2e/compendium/equipment/runes/striking|_greater striking_]] rune, such as by etching it onto [[srd/pf2e/compendium/equipment/worn-items/handwraps-of-mighty-blows|_handwraps of mighty blows_]], and 16d6 if they have a _major striking_ rune.
 
 *Source: Howl of the Wild p. 83*

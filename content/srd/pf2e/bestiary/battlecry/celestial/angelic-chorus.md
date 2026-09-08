@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Angelic Chorus"
 tags:
@@ -14,7 +13,6 @@ statblock: inline
 name: "Angelic Chorus"
 level: 12
 source: "Battlecry!"
-aon_id: "creature-3898"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3898"
 ---
 

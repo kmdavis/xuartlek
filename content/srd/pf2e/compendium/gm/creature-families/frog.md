@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 aliases: ["Frog"]
-aon_id: "creature-family-494"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=494"
 source: "Howl of the Wild"
 ---
 

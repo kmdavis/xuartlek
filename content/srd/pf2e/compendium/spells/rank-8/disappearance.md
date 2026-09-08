@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/subtle
 - spell/level/8
 aliases: ["Disappearance"]
-aon_id: "spell-1490"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1490"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Illusion`  `Manipulate`  `Subtle`
 
 - **Traditions**: Arcane, Occult
-- **Deity**: Nyarlathotep (The Veiled Voice)
+- **Deity**: [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-the-veiled-voice|Nyarlathotep (The Veiled Voice)]]
 - **Range**: touch
 - **Target**: 1 target
 - **Duration**: 10 minutes

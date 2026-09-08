@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/gm-core
 - vehicle/level/3
 aliases: ["Chariot, Heavy"]
-aon_id: "vehicle-65"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=65"
 source: "GM Core"
 ---
 

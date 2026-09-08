@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/mental
 - feat/level/17
 aliases: ["Heroic Presence"]
-aon_id: "feat-4492"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4492"
 source: "Player Core"
 ---
 

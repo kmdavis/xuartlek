@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - equipment/level/17
 aliases: ["Headwrap of Wisdom"]
-aon_id: "equipment-3011"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3011"
 source: "GM Core"
 ---
 
@@ -16,7 +15,7 @@ source: "GM Core"
 
 `Apex`  `Invested`  `Magical`
 
-- **Price**: 15,000 gp
+- **Price**: 15, 000 gp
 - **Usage**: worn circlet
 
 This simple scarf is designed for wrapping around the head and comes with a gemmed pin for decoration. When you invest the headwrap, you either increase your Wisdom modifier by 1 or increase it to +4, whichever would give you a higher value. 

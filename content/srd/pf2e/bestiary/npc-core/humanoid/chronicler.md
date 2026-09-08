@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Chronicler"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Chronicler"
 level: 3
 source: "NPC Core"
-aon_id: "creature-3470"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3470"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [2, 2, 1, 3, 4, 0]
 abilities_top:
   - name: "Items"
-    desc: "Crossbow (20 bolts), Dagger, journal, Leather Armor, [[srd/pf2e/compendium/equipment/adventuring-gear/map-weather-map|maps]], [[srd/pf2e/compendium/spells/rank-2/acid-grip|_scroll of acid grip_]], [[srd/pf2e/compendium/spells/rank-1/heal|_scroll of heal_]], Staff"
+    desc: "Crossbow (20 bolts), Dagger, journal, Leather Armor, [[srd/pf2e/compendium/equipment/adventuring-gear/map|maps]], [[srd/pf2e/compendium/spells/rank-2/acid-grip|_scroll of acid grip_]], [[srd/pf2e/compendium/spells/rank-1/heal|_scroll of heal_]], Staff"
 ac: 18
 armorclass:
   - name: "AC"

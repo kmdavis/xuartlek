@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
 - trait/adjusted
 aliases: ["Adjusted"]
-aon_id: "trait-468"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=468"
 source: "Treasure Vault (Remastered)"
 ---
 

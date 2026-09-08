@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Nagaji Soldier"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Nagaji Soldier"
 level: 2
 source: "Monster Core 2"
-aon_id: "creature-4486"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4486"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [4, 1, 3, -1, 2, 1]
 abilities_top:
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/weapons/sword/khopesh-weapon-476|Khopesh]], [[srd/pf2e/compendium/equipment/armor#Leather Armor|Leather Armor]], [[srd/pf2e/compendium/equipment/weapons/bow/longbow|Longbow]] (with 20 arrows)"
+    desc: "Khopesh, [[srd/pf2e/compendium/equipment/armor#Leather Armor|Leather Armor]], [[srd/pf2e/compendium/equipment/weapons/bow/longbow|Longbow]] (with 20 arrows)"
 ac: 18
 armorclass:
   - name: "AC"

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/stance
 - feat/level/1
 aliases: ["Wolf Stance"]
-aon_id: "feat-5984"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5984"
 source: "Player Core 2"
 ---
 
@@ -15,7 +14,7 @@ source: "Player Core 2"
 
 `Monk`  `Stance`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/martial-artist|Martial Artist]] (Level 4), [[srd/pf2e/compendium/character/archetypes/wild-mimic|Wild Mimic]] (Level 4), [[srd/pf2e/compendium/character/archetypes/martial-artist|Martial Artist]] (Level 4)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/martial-artist|Martial Artist]] (Level 4), [[srd/pf2e/compendium/character/archetypes/wild-mimic|Wild Mimic]] (Level 4)
 - **Requirements**: You are unarmored.
 
 You enter the stance of a wolf, low to the ground with your hands held like fangs. You can make wolf jaw unarmed attacks. These deal 1d8 piercing damage; are in the brawling group; and have the [[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/backstabber|backstabber]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] traits.

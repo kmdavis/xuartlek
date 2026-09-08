@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/archetype
 - feat/level/12
 aliases: ["Expert Hedge Mage Spellcasting"]
-aon_id: "feat-9335"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9335"
 source: "Impossible Magic"
 ---
 

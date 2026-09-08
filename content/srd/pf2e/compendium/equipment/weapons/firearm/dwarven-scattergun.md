@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -10,7 +9,7 @@ tags:
 - trait/uncommon
 - weapon/level/1
 aliases: ["Dwarven Scattergun"]
-aon_id: "weapon-207"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=207"
 source: "Guns & Gears (Remastered)"
 ---
 

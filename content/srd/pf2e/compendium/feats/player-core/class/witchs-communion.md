@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/witch
 - feat/level/10
 aliases: ["Witch's Communion"]
-aon_id: "feat-5011"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5011"
 source: "Player Core"
 ---
 

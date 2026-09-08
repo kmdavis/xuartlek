@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
 - trait/archetype
 - feat/level/8
 aliases: ["Silence the Profane (Avenger)"]
-aon_id: "feat-7234"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7234"
 source: "War of Immortals"
 ---
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
 - trait/thrown
 - weapon/level/0
 aliases: ["Javelin"]
-aon_id: "weapon-429"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=429"
 source: "Player Core"
 ---
 
@@ -14,7 +13,7 @@ source: "Player Core"
 
 `Thrown`
 
-- **Favored Weapon**: Camazotz, Kurgess, Weight of the World
+- **Favored Weapon**: Camazotz, [[srd/pf2e/compendium/deities/other-gods/kurgess|Kurgess]], [[srd/pf2e/compendium/deities/pantheons/weight-of-the-world|Weight of the World]]
 - **Price**: 1 sp
 - **Damage**: 1d6 P
 - **Bulk**: L

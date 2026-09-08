@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Farmer"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Farmer"
 level: 0
 source: "NPC Core"
-aon_id: "creature-3492"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3492"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - ritual/level/2
 aliases: ["Inveigle"]
-aon_id: "ritual-150"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=150"
 source: "Player Core 2"
 ---
 

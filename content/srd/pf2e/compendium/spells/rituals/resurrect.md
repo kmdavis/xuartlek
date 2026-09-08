@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - ritual/level/5
 aliases: ["Resurrect"]
-aon_id: "ritual-123"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=123"
 source: "Player Core"
 ---
 
@@ -20,11 +19,11 @@ source: "Player Core"
 - **Cost**: gemstones worth a total value of 75 gp × the target’s level
 - **Secondary Casters**: 2
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] (expert)
-- **Secondary Checks**: Medicine , Society
+- **Secondary Checks**: Medicine, Society
 - **Range**: 10 feet
 - **Target(s)**: 1 dead creature of up to 10th level
 
-You attempt to call forth the target's soul and return it to its body. This requires the target's body to be present and relatively intact. The target must have died within the past year. If Pharasma has decided that the target's time has come or the target doesn't wish to return, this ritual automatically fails, but you discover this after the successful Religion check and can end the ritual without paying the cost.
+You attempt to call forth the target's soul and return it to its body. This requires the target's body to be present and relatively intact. The target must have died within the past year. If [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma]] has decided that the target's time has come or the target doesn't wish to return, this ritual automatically fails, but you discover this after the successful Religion check and can end the ritual without paying the cost.
 
 **Critical Success** You resurrect the target. They return to life with full Hit Points and the same spells prepared and points in their pools they had when they died, and still suffering from any long-term debilitations of the old body. The target meets an agent of their deity during the resurrection who inspires them, granting them a +1 status bonus to attack rolls, Perception, saving throws, and skill checks for 1 week. The target is also permanently changed in some way by their time in the afterlife, such as gaining a slight personality shift, a streak of white in the hair, or a strange new birthmark.
 

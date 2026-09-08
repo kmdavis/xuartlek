@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -8,7 +7,7 @@ tags:
 - trait/mental
 - spell/level/3
 aliases: ["Animal Vision"]
-aon_id: "spell-1963"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1963"
 source: "Player Core 2"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core 2"
 `Concentrate`  `Manipulate`  `Mental`
 
 - **Tradition**: Primal
-- **Deities**: Baekho, Bastet, Isis, Ketephys, Tanagaar
+- **Deities**: Baekho, Bastet, [[srd/pf2e/compendium/deities/dead-or-missing-deities/isis|Isis]], [[srd/pf2e/compendium/deities/elven-gods/ketephys|Ketephys]], Tanagaar
 - **Cast**: 1 minute
 - **Range**: 120 Feet
 - **Target**: 1 animal

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
-- compendium/src/pf2e/gm-core
+- compendium/src/pf2e/player-core-2
 - trait/alchemical
 - trait/consumable
 - trait/contact
 - trait/poison
 - equipment/level/11
 aliases: ["Blightburn Resin"]
-aon_id: "equipment-2894"
-source: "GM Core"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3326"
+source: "Player Core 2"
 ---
 
 # Blightburn Resin  *Item 11*
@@ -22,7 +21,8 @@ source: "GM Core"
 - **Bulk**: L
 - **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-This tacky, hardened sap is harvested from trees infected by fungal blights and exposed to open flames.
- **Saving Throw** DC 30 Fortitude; **Onset** 1 minute; **Maximum Duration** 6 rounds; **Stage 1** 6d6 poison damage (1 round); **Stage 2** 7d6 poison damage (1 round); **Stage 3** 9d6 poison damage (1 round)
+This tacky, hardened sap is harvested from trees infected by fungal blights and exposed to open flames. 
 
-*Source: GM Core p. 248*
+**Saving Throw** DC 30 Fortitude; **Onset** 1 minute; **Maximum Duration** 6 rounds; **Stage 1** 6d6 poison damage (1 round); **Stage 2** 7d6 poison damage (1 round); **Stage 3** 9d6 poison damage (1 round)
+
+*Source: Player Core 2 p. 291*

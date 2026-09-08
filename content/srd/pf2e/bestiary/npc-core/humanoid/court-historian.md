@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Court Historian"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Court Historian"
 level: -1
 source: "NPC Core"
-aon_id: "creature-3415"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3415"
 ---
 
@@ -40,7 +38,7 @@ abilities_top:
   - name: "Records Don't Lie"
     desc: "The court historian has a Perception DC of 25 against [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] checks asserting false current or historical events."
   - name: "Items"
-    desc: "court record, [[srd/pf2e/compendium/equipment/adventuring-gear/clothing-desert|fine clothing]], inkwell, Writing Set"
+    desc: "court record, [[srd/pf2e/compendium/equipment/adventuring-gear/clothing|fine clothing]], inkwell, Writing Set"
 ac: 13
 armorclass:
   - name: "AC"

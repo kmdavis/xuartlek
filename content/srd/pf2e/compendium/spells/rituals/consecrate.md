@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - ritual/level/2
 aliases: ["Consecrate"]
-aon_id: "ritual-115"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=115"
 source: "Player Core"
 ---
 
@@ -19,12 +18,12 @@ source: "Player Core"
 - **Cost**: rare incense and offerings worth a total value of 20 gp × the spell rank
 - **Secondary Casters**: 2, must be worshippers of your religion
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]
-- **Secondary Checks**: Crafting , Performance
+- **Secondary Checks**: Crafting, Performance
 - **Area**: 40-foot-radius burst around an immobile altar, shrine, or fixture of your deity
 - **Range**: 40 feet
 - **Duration**: 1 year
 
-You consecrate a site to your deity, chanting praises and creating a sacred space. While within the area, worshippers of your deity gain a +1 status bonus to attack rolls, skill checks, saving throws, and Perception checks, and creatures anathema to your deity (such as [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]] for Pharasma or Sarenrae) take a –1 status penalty to those rolls. If your deity's divine sanctification allows you to choose [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]], you can choose to make the consecrated site holy or unholy as well. If the deity's sanctification must be holy or unholy, you must make the site match that sanctification. Strikes made by worshippers of your deity within the area gain the site's sanctification trait, if any.
+You consecrate a site to your deity, chanting praises and creating a sacred space. While within the area, worshippers of your deity gain a +1 status bonus to attack rolls, skill checks, saving throws, and Perception checks, and creatures anathema to your deity (such as [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]] for [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma]] or [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/sarenrae|Sarenrae]]) take a –1 status penalty to those rolls. If your deity's divine sanctification allows you to choose [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]], you can choose to make the consecrated site holy or unholy as well. If the deity's sanctification must be holy or unholy, you must make the site match that sanctification. Strikes made by worshippers of your deity within the area gain the site's sanctification trait, if any.
 
 **Critical Success** The consecration succeeds, and it either lasts for 10 years instead of 1 or covers an area with twice the radius. Occasionally, with your deity's favor, this might produce an even more amazing effect, such as a permanently consecrated area or the effect covering an entire cathedral.
 

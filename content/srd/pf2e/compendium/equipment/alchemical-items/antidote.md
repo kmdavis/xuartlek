@@ -1,19 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
-- compendium/src/pf2e/gm-core
+- compendium/src/pf2e/player-core-2
 - trait/alchemical
 - trait/consumable
 - trait/elixir
 - trait/healing
-- equipment/level/0
+- equipment/level/1
 aliases: ["Antidote"]
-aon_id: "equipment-2879"
-source: "GM Core"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3296"
+source: "Player Core 2"
 ---
 
-# Antidote  *Item 0*
+# Antidote  *Item 1+*
 
 `Alchemical`  `Consumable`  `Elixir`  `Healing`
 
@@ -23,4 +22,44 @@ source: "GM Core"
 
 An antidote protects you against toxins. Upon drinking an antidote, you gain an item bonus to Fortitude saving throws against poisons for 6 hours.
 
-*Source: GM Core p. 246*
+### Antidote (Lesser)
+
+**Price** 3 gp
+
+**Bulk** L
+
+---
+
+You gain a +2 item bonus.
+
+### Antidote (Moderate)
+
+**Price** 35 gp
+
+**Bulk** L
+
+---
+
+You gain a +3 item bonus.
+
+### Antidote (Greater)
+
+**Price** 160 gp
+
+**Bulk** L
+
+---
+
+You gain a +4 item bonus.
+
+### Antidote (Major)
+
+**Price** 675 gp
+
+**Bulk** L
+
+---
+
+You gain a +4 item bonus, and when you drink the antidote, you can immediately attempt a save against one poison of 14th level or lower affecting you. If you succeed, the poison is neutralized.
+
+*Source: Player Core 2 p. 286*

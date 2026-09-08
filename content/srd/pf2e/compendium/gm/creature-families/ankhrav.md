@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core
 aliases: ["Ankhrav"]
-aon_id: "creature-family-361"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=361"
 source: "Monster Core"
 ---
 

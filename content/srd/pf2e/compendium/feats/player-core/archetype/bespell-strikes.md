@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/wizard
 - feat/level/4
 aliases: ["Bespell Strikes"]
-aon_id: "feat-5028"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5028"
 source: "Player Core"
 ---
 
@@ -16,7 +15,7 @@ source: "Player Core"
 
 `Oracle`  `Sorcerer`  `Wizard`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/bloodrager|Bloodrager]] (Level 8), Battle Harbinger (Level 6)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/bloodrager|Bloodrager]] (Level 8), [[srd/pf2e/compendium/character/archetypes/battle-harbinger|Battle Harbinger]] (Level 6)
 - **Frequency**: once per turn
 - **Requirements**: Your most recent action was to cast a non-cantrip spell
 

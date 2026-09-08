@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/manipulate
 - spell/level/1
 aliases: ["Electric Arc"]
-aon_id: "spell-1509"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1509"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Cantrip`  `Concentrate`  `Electricity`  `Manipulate`
 
 - **Traditions**: Arcane, Primal
-- **Mystery**: Tempest
+- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Tempest|Tempest]]
 - **Range**: 30 feet
 - **Target**: 1 or 2 creatures
 - **Defense**: basic Reflex

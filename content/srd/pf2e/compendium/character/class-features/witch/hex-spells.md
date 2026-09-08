@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class-feature
 tags:
 - compendium/src/pf2e/player-core
 - class-feature/level/1
 aliases: ["Hex Spells"]
-aon_id: "class-feature-773"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=38"
 source: "Player Core"
 ---
 
@@ -23,6 +22,6 @@ As a favored agent of your patron, you can invoke their power for a more direct 
 
 Hex cantrips are special hexes that don't cost Focus Points, so you can cast them as often as you like, though you can still use only one hex each turn. Hex cantrips are in addition to the cantrips you choose with witch spellcasting and aren't counted toward your prepared cantrips.
 
- You gain a hex cantrip determined by your choice of patron.
+ You gain a hex cantrip determined by your choice of [[srd/pf2e/compendium/character/patrons|patron]].
 
 *Source: Player Core p. 178*

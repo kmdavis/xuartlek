@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Giant Anaconda"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Giant Anaconda"
 level: 8
 source: "Monster Core"
-aon_id: "creature-3203"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3203"
 ---
 

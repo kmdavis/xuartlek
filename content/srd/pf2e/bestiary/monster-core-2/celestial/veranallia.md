@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Veranallia"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Veranallia"
 level: 20
 source: "Monster Core 2"
-aon_id: "creature-4096"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4096"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [8, 6, 8, 6, 10, 8]
 abilities_top:
   - name: "Items"
-    desc: "_+3 [[srd/pf2e/compendium/equipment/runes/striking-major|greater striking]] [[srd/pf2e/compendium/equipment/weapons/knife/sickle|sickle]]_"
+    desc: "_+3 [[srd/pf2e/compendium/equipment/runes/striking|greater striking]] [[srd/pf2e/compendium/equipment/weapons/knife/sickle|sickle]]_"
 ac: 45
 armorclass:
   - name: "AC"
@@ -65,7 +63,7 @@ abilities_bot:
   - name: "Frequency"
     desc: "once per day"
   - name: "Effect"
-    desc: "The veranallia spends a minute to encase a creature that has been dead for no longer than a year and a day in a cocoon. After 24 hours, the creature is restored to life and the cocoon explodes in a shower of colorful blossoms. If the veranallia chooses, Rebirth can change the creature's ancestry or heritage, typically into a [[srd/pf2e/compendium/character/ancestries/nephilim|nephilim]]. Primordial Veranallia In the deepest reaches of [[srd/pf2e/compendium/gm/planes#Elysium|Elysium]], the eldest of veranallias roam. These beings concern themselves with transformations that take place over the course of millennia, as well as changes in the climates of entire worlds. Primordial veranallias have an array of unique powers that can affect the area for many miles around them, from turning deserts into glass to triggering earthquakes."
+    desc: "The veranallia spends a minute to encase a creature that has been dead for no longer than a year and a day in a cocoon. After 24 hours, the creature is restored to life and the cocoon explodes in a shower of colorful blossoms. If the veranallia chooses, Rebirth can change the creature's ancestry or heritage, typically into a [[srd/pf2e/compendium/character/versatile-heritages/nephilim|nephilim]]. Primordial Veranallia In the deepest reaches of [[srd/pf2e/compendium/gm/planes#Elysium|Elysium]], the eldest of veranallias roam. These beings concern themselves with transformations that take place over the course of millennia, as well as changes in the climates of entire worlds. Primordial veranallias have an array of unique powers that can affect the area for many miles around them, from turning deserts into glass to triggering earthquakes."
 spellcasting:
   - name: "Divine Innate Spells"
     desc: "DC 42, attack +34 - __6th__ [[srd/pf2e/compendium/spells/rank-6/cursed-metamorphosis|Cursed Metamorphosis]] (at will), [[srd/pf2e/compendium/spells/rank-6/tangling-creepers|Tangling Creepers]] (at will) - __8th__ [[srd/pf2e/compendium/spells/rank-8/arctic-rift|Arctic Rift]] (at will), [[srd/pf2e/compendium/spells/rank-7/sunburst|Sunburst]] (at will) - __10th__ [[srd/pf2e/compendium/spells/rank-10/cataclysm|Cataclysm]], [[srd/pf2e/compendium/spells/rank-10/manifestation|Manifestation]] (once per year), [[srd/pf2e/compendium/spells/rank-10/revival|Revival]], [[srd/pf2e/compendium/spells/rank-9/natures-enmity|Nature’s Enmity]], [[srd/pf2e/compendium/spells/rank-5/natures-pathway|Nature's Pathway]] (at will), [[srd/pf2e/compendium/spells/rank-7/regenerate|Regenerate]], [[srd/pf2e/compendium/spells/rank-9/wrathful-storm|Wrathful Storm]] - __Constant (9th)__ [[srd/pf2e/compendium/spells/rank-2/environmental-endurance|Environmental Endurance]], [[srd/pf2e/compendium/spells/rank-2/speak-with-animals|Speak with Animals]], [[srd/pf2e/compendium/spells/rank-3/speak-with-plants|Speak with Plants]], [[srd/pf2e/compendium/spells/rank-5/truespeech|Truespeech]]"

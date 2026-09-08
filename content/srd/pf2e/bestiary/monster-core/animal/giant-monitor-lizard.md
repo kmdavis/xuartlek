@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Giant Monitor Lizard"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Giant Monitor Lizard"
 level: 2
 source: "Monster Core"
-aon_id: "creature-3088"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3088"
 ---
 

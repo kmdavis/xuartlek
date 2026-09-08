@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -11,7 +10,7 @@ tags:
 - trait/visual
 - equipment/level/11
 aliases: ["Talespinner's Lyre"]
-aon_id: "equipment-2127"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2127"
 source: "Treasure Vault (Remastered)"
 ---
 

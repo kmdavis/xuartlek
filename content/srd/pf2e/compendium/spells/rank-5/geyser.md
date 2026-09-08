@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -9,7 +8,7 @@ tags:
 - trait/water
 - spell/level/5
 aliases: ["Geyser"]
-aon_id: "spell-2717"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2717"
 source: "Impossible Magic"
 ---
 
@@ -18,7 +17,7 @@ source: "Impossible Magic"
 `Concentrate`  `Fire`  `Manipulate`  `Water`
 
 - **Traditions**: Arcane, Primal
-- **Deity**: Izuyaku
+- **Deity**: [[srd/pf2e/compendium/deities/other-gods/izuyaku|Izuyaku]]
 - **Range**: 500 feet
 - **Area**: 10-foot radius, 50-foot-tall cylinder
 - **Defense**: Reflex

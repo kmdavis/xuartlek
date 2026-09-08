@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -8,7 +7,7 @@ tags:
 - trait/invested
 - equipment/level/11
 aliases: ["Devoted Vestments"]
-aon_id: "equipment-3077"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3077"
 source: "GM Core"
 ---
 
@@ -16,7 +15,7 @@ source: "GM Core"
 
 `Divine`  `Focused`  `Invested`
 
-- **Price**: 1,250 gp
+- **Price**: 1, 250 gp
 - **Usage**: worn garment
 - **Bulk**: L
 

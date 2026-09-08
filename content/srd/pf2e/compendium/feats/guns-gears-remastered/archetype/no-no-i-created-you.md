@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/inventor
 - feat/level/1
 aliases: ["No! No! I Created You!"]
-aon_id: "feat-3047"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3047"
 source: "Guns & Gears (Remastered)"
 ---
 

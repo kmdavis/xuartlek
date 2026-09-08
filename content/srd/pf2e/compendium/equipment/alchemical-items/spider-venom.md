@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
-- compendium/src/pf2e/gm-core
+- compendium/src/pf2e/player-core-2
 - trait/alchemical
 - trait/consumable
 - trait/injury
 - trait/poison
 - equipment/level/5
 aliases: ["Spider Venom"]
-aon_id: "equipment-2906"
-source: "GM Core"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3346"
+source: "Player Core 2"
 ---
 
 # Spider Venom  *Item 5*
@@ -22,7 +21,8 @@ source: "GM Core"
 - **Bulk**: L
 - **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-This venom erodes its target's defenses, aiding the spider in securing prey.
-**Saving Throw** DC 22 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d10 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1 (1 round); **Stage 2** 1d12 poison damage, [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] 1, and [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 2 (1 round); **Stage 3** 2d6 poison damage, clumsy 2, and sickened 3 (1 round)
+This spider venom erodes a target's defenses. 
 
-*Source: GM Core p. 250*
+**Saving Throw** DC 22 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d10 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1 (1 round); **Stage 2** 1d12 poison damage, [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] 1, and sickened 2 (1 round); **Stage 3** 2d6 poison damage, clumsy 2, and sickened 3 (1 round)
+
+*Source: Player Core 2 p. 294*

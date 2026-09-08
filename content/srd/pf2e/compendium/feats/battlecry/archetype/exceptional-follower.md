@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
 - trait/archetype
 - feat/level/14
 aliases: ["Exceptional Follower"]
-aon_id: "feat-8002"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8002"
 source: "Battlecry!"
 ---
 

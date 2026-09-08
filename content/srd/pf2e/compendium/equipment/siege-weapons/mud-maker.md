@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/battlecry
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - siege-weapon/level/13
 aliases: ["Mud Maker"]
-aon_id: "siege-weapon-56"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=56"
 source: "Battlecry!"
 ---
 
@@ -16,7 +15,7 @@ source: "Battlecry!"
 
 `Magical`  `Mounted`  `Uncommon`
 
-- **Price**: 6,000 gp
+- **Price**: 6, 000 gp
 - **Ammunition**: transmutation disks (10 gp, L Bulk)
 
 **Usage** mounted

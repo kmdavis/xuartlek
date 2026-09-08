@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-skill-general-action
 tags:
 - compendium/src/pf2e/player-core
 aliases: ["Learn a Spell"]
-aon_id: "skill-general-action-23"
+aon_url: "https://2e.aonprd.com/Skills.aspx?ID=23&General=true"
 source: "Player Core"
 ---
 

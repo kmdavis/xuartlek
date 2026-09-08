@@ -1,27 +1,25 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
-- trait/evocation
 - trait/invested
+- trait/light
 - trait/magical
-- trait/unique
 - equipment/level/1
 aliases: ["Candlecap"]
-aon_id: "equipment-1503"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2332"
 source: "Treasure Vault (Remastered)"
 ---
 
 # Candlecap  *Item 1*
 
-`Evocation`  `Invested`  `Magical`  `Unique`
+`Invested`  `Light`  `Magical`
 
 - **Price**: 12 gp
-- **Usage**: worn headgear
+- **Usage**: worn headwear
 
-The crown of this stitched leather cap is sewn in the shape of a small bowl. Fixed inside the bowl is a melted nub of wax with a small black wick.
+The crown of a _candlecap_ is stitched leather sewn in the shape of a small bowl. Fixed inside the bowl is a melted nub of wax with a small black wick.
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") Interact; **Effect** You shake your head, and the candle wick ignites. The _candlecap_ sheds dim light in a 20-foot radius. The candle doesn't require oxygen and can't be smothered or quenched. Activating the _candlecap_ again douses the light.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** You shake your head, and the candle wick ignites. The _candlecap_ sheds dim light in a 20-foot radius. The candle doesn't require oxygen and can't be smothered or quenched. Activating the _candlecap_ again douses the light.
 
 *Source: Treasure Vault (Remastered) p. 151*

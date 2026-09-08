@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -8,7 +7,7 @@ tags:
 - trait/talos
 - feat/level/17
 aliases: ["Metallic Skin"]
-aon_id: "feat-4332"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4332"
 source: "Rage of Elements"
 ---
 

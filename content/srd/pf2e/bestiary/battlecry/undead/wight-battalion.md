@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Wight Battalion"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Wight Battalion"
 level: 9
 source: "Battlecry!"
-aon_id: "creature-3942"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3942"
 ---
 

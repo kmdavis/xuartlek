@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/magus
 - feat/level/4
 aliases: ["Exploding Bullet"]
-aon_id: "feat-9055"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9055"
 source: "Impossible Magic"
 ---
 

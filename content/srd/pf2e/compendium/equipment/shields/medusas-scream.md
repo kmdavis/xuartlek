@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/magical
 - equipment/level/13
 aliases: ["Medusa's Scream"]
-aon_id: "equipment-3280"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3280"
 source: "Player Core 2"
 ---
 

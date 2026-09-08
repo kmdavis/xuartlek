@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
 - trait/exemplar
 - feat/level/20
 aliases: ["Reach for Immortality"]
-aon_id: "feat-7193"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7193"
 source: "War of Immortals"
 ---
 

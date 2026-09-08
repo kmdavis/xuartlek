@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 - trait/minotaur
 - feat/level/5
 aliases: ["Beast of Burden"]
-aon_id: "feat-5370"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5370"
 source: "Howl of the Wild"
 ---
 

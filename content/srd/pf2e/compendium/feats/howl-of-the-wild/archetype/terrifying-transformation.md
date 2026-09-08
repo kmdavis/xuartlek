@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -7,7 +6,7 @@ tags:
 - trait/visual
 - feat/level/8
 aliases: ["Terrifying Transformation"]
-aon_id: "feat-5501"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5501"
 source: "Howl of the Wild"
 ---
 

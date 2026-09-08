@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
 - trait/guardian
 - feat/level/20
 aliases: ["Great Shield Mastery"]
-aon_id: "feat-7884"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7884"
 source: "Battlecry!"
 ---
 

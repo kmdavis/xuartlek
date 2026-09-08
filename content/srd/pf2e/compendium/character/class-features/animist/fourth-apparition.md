@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class-feature
 tags:
 - compendium/src/pf2e/war-of-immortals
 - class-feature/level/15
 aliases: ["Fourth Apparition"]
-aon_id: "class-feature-1053"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=64"
 source: "War of Immortals"
 ---
 

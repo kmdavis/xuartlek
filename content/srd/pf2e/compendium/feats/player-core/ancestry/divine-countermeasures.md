@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/nephilim
 - feat/level/9
 aliases: ["Divine Countermeasures"]
-aon_id: "feat-4559"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4559"
 source: "Player Core"
 ---
 

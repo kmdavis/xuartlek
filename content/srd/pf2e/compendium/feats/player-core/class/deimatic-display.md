@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/druid
 - feat/level/8
 aliases: ["Deimatic Display"]
-aon_id: "feat-4733"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4733"
 source: "Player Core"
 ---
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
 - trait/jotunborn
 - feat/level/9
 aliases: ["Iivlar's Deflection"]
-aon_id: "feat-7782"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7782"
 source: "Battlecry!"
 ---
 

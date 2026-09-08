@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - siege-weapon/level/5
 aliases: ["Pheromone Sprayer"]
-aon_id: "siege-weapon-28"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=28"
 source: "Howl of the Wild"
 ---
 
@@ -17,7 +16,7 @@ source: "Howl of the Wild"
 `Alchemical`  `Mounted`  `Uncommon`
 
 - **Price**: 350 gp
-- **Ammunition**: concentrated pheromone tank (30 gp, 1 Bulk), water tank (5 sp, 1 Bulk)
+- **Ammunition**: concentrated pheromone tank (30 gp, 1 Bulk), water tank (5 sp
 
 **Usage** mounted
 
@@ -47,7 +46,7 @@ source: "Howl of the Wild"
 
 ---
 
-Pheromone sprayers are used to fire mass amounts of alchemical [[srd/pf2e/compendium/equipment/alchemical-items/animal-pheromones-greater|animal pheromones]] in a more weaponized form to allow researchers an easy way to influence otherwise dangerous creatures. Like animal pheromones, the ammunition for this siege weapon must be crafted for a specific kind of animal. A pheromone sprayer consists of two large tanks mounted atop a narrow, cannon-like barrel. One of the tanks contains concentrated alchemical pheromones, while the other tank is loaded with water, which is used to dilute the pheromones to produce different effects upon launch. 
+Pheromone sprayers are used to fire mass amounts of alchemical [[srd/pf2e/compendium/equipment/alchemical-items/animal-pheromones|animal pheromones]] in a more weaponized form to allow researchers an easy way to influence otherwise dangerous creatures. Like animal pheromones, the ammunition for this siege weapon must be crafted for a specific kind of animal. A pheromone sprayer consists of two large tanks mounted atop a narrow, cannon-like barrel. One of the tanks contains concentrated alchemical pheromones, while the other tank is loaded with water, which is used to dilute the pheromones to produce different effects upon launch. 
 
 **Aim** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") rotate 45° 
 

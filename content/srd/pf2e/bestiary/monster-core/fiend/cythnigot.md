@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Cythnigot"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Cythnigot"
 level: 1
 source: "Monster Core"
-aon_id: "creature-3154"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3154"
 ---
 

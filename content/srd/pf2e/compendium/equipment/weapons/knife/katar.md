@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - weapon/level/0
 aliases: ["Katar"]
-aon_id: "weapon-369"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=369"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Agile`  `Deadly`  `Monk`  `Uncommon`
 
 - **PFS Note**: Characters from Tian Xia, Vudra, or Impossible Lands have access to this option
-- **Favored Weapon**: Atreia, Mestama, Nyarlathotep (The Faceless Sphinx), Yig
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/elemental-lords/atreia|Atreia]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/mestama|Mestama]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-the-faceless-sphinx|Nyarlathotep (The Faceless Sphinx)]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/yig|Yig]]
 - **Price**: 3 sp
 - **Damage**: 1d4 P
 - **Bulk**: L

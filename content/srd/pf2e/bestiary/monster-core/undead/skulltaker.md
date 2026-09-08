@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Skulltaker"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Skulltaker"
 level: 18
 source: "Monster Core"
-aon_id: "creature-3198"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3198"
 ---
 

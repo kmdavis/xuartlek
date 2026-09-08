@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -8,7 +7,7 @@ tags:
 - trait/talisman
 - equipment/level/1
 aliases: ["Potency Crystal"]
-aon_id: "equipment-2989"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2989"
 source: "GM Core"
 ---
 

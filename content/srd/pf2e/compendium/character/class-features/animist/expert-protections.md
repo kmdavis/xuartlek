@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class-feature
 tags:
 - compendium/src/pf2e/war-of-immortals
 - class-feature/level/11
 aliases: ["Expert Protections"]
-aon_id: "class-feature-1049"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=64"
 source: "War of Immortals"
 ---
 

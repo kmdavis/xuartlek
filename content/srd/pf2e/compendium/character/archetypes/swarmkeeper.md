@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-archetype
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 - trait/uncommon
 - archetype/level/2
 aliases: ["Swarmkeeper"]
-aon_id: "archetype-223"
+aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=223"
 source: "Howl of the Wild"
 ---
 

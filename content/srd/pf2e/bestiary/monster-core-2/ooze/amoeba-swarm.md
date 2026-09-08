@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Amoeba Swarm"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Amoeba Swarm"
 level: 1
 source: "Monster Core 2"
-aon_id: "creature-4495"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4495"
 ---
 

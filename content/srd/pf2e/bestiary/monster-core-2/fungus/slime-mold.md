@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Slime Mold"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Slime Mold"
 level: 2
 source: "Monster Core 2"
-aon_id: "creature-4497"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4497"
 ---
 
@@ -68,7 +66,7 @@ abilities_bot:
   - name: "Stage 5"
     desc: "drained 2 plus [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]] (no [[srd/pf2e/books/player-core/chapter-1-introduction/character-creation#Perception|Perception]] check to wake up) (1 day)"
   - name: "Stage 6"
-    desc: "dead, and the body erupts to release a new slime mold Slime Mold Fungi The particularly foul environments in which slime molds dwell are conducive to the growth of extremely potent and dangerous mushrooms and other fungi. A dead slime mold can be a source of enough materials to produce a few doses of [[srd/pf2e/compendium/equipment/alchemical-items/deathcap-powder-equipment-3331|deathcap powder]] or other types of poison. Some creatures, such as deros or those with inherent immunity to [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], cultivate slime molds to harvest these materials."
+    desc: "dead, and the body erupts to release a new slime mold Slime Mold Fungi The particularly foul environments in which slime molds dwell are conducive to the growth of extremely potent and dangerous mushrooms and other fungi. A dead slime mold can be a source of enough materials to produce a few doses of [[srd/pf2e/compendium/equipment/alchemical-items/deathcap-powder|deathcap powder]] or other types of poison. Some creatures, such as deros or those with inherent immunity to [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], cultivate slime molds to harvest these materials."
 sourcebook: "_Monster Core 2_, page 241."
 ```
 

@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core-2
 aliases: ["Velstrac"]
-aon_id: "creature-family-565"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=565"
 source: "Monster Core 2"
 ---
 
@@ -40,6 +39,6 @@ The most powerful velstracs are unique divinities known collectively as velstrac
 
 ### Velstracs on Golarion
 
-Velstracs are most often encountered in the shadowy realm of Nidal, where the state worship of Zon-Kuthon is rigidly enforced. Indeed, many velstracs are created from the souls of Joyful Things, devotees of Zon-Kuthon who have had their limbs amputated to focus their minds on the veneration of pain, sacrifice, and torment.
+Velstracs are most often encountered in the shadowy realm of Nidal, where the state worship of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/zon-kuthon|Zon-Kuthon]] is rigidly enforced. Indeed, many velstracs are created from the souls of Joyful Things, devotees of Zon-Kuthon who have had their limbs amputated to focus their minds on the veneration of pain, sacrifice, and torment.
 
 *Source: Monster Core 2 p. 344*

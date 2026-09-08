@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Garadasura"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Garadasura"
 level: 11
 source: "Monster Core 2"
-aon_id: "creature-4087"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4087"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [6, 3, 6, 0, 2, 4]
 abilities_top:
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/scimitar|scimitar]]_ (2), Breastplate"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/scimitar|scimitar]]_ (2), Breastplate"
 ac: 30
 armorclass:
   - name: "AC"

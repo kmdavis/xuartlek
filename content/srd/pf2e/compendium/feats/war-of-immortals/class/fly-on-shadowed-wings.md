@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -7,7 +6,7 @@ tags:
 - trait/apparition
 - feat/level/10
 aliases: ["Fly on Shadowed Wings"]
-aon_id: "feat-7140"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7140"
 source: "War of Immortals"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/spirit
 - spell/level/1
 aliases: ["Spirit Link"]
-aon_id: "spell-1686"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1686"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Concentrate`  `Healing`  `Manipulate`  `Spirit`
 
 - **Traditions**: Divine, Occult
-- **Lesson**: Lesson of Life
+- **Lesson**: [[srd/pf2e/compendium/character/lessons#Lesson of Life|Lesson of Life]]
 - **Range**: 30 feet
 - **Target**: 1 willing creature
 - **Duration**: 10 minutes

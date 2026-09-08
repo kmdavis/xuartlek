@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - spell/level/1
 aliases: ["Ancestral Memories"]
-aon_id: "spell-2114"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2114"
 source: "Player Core 2"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core 2"
 
 `Concentrate`  `Focus`  `Sorcerer`  `Uncommon`
 
-- **Bloodline**: Imperial
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Imperial|Imperial]]
 
 The memories of long-dead spellcasters grant you their knowledge, making your spells more formidable. You gain either a +1 status bonus to the next spell attack roll you attempt before the end of your turn or an enemy within 60 feet takes a –1 status penalty to the next saving throw they attempt against a spell you cast before the end of your turn.
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Jabali"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Jabali"
 level: 7
 source: "Monster Core"
-aon_id: "creature-3004"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3004"
 ---
 
@@ -60,7 +58,7 @@ abilities_bot:
     desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|Arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/earth|Earth]]) When the jabali Pushes a creature into a stone barrier, the surface grips it with fingers of stone. The target must succeed at a DC 22 Reflex save or become [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] by the surface ([[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]] DC 28). Jabali Shuyookhs Jabali shuyookhs fulfill wishes as straightforwardly as possible. They add the following innate spells: __8th__ [[srd/pf2e/compendium/spells/rank-8/earthquake|_earthquake_]]; __6th__ [[srd/pf2e/compendium/spells/rank-4/mountain-resilience|_mountain resilience_]] (at will; self only), [[srd/pf2e/compendium/spells/rank-6/petrify|_petrify_]]; __5th__ [[srd/pf2e/compendium/spells/rank-1/illusory-disguise|_illusory disguise_]]."
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 24 - __Cantrips (4th)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]] - __4th__ [[srd/pf2e/compendium/spells/rank-4/shape-stone|Shape Stone]] (at will) - __5th__ [[srd/pf2e/compendium/spells/rank-5/wall-of-stone|Wall of Stone]] - __7th__ [[srd/pf2e/compendium/spells/rank-7/interplanar-teleport|Interplanar Teleport]] (to [[srd/pf2e/compendium/equipment/runes/astral-greater|Astral Plane]]; Elemental Planes; or [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]] only) - __Constant (5th)__ [[srd/pf2e/compendium/spells/rank-5/truespeech|Truespeech]]"
+    desc: "DC 24 - __Cantrips (4th)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]] - __4th__ [[srd/pf2e/compendium/spells/rank-4/shape-stone|Shape Stone]] (at will) - __5th__ [[srd/pf2e/compendium/spells/rank-5/wall-of-stone|Wall of Stone]] - __7th__ [[srd/pf2e/compendium/spells/rank-7/interplanar-teleport|Interplanar Teleport]] (to [[srd/pf2e/compendium/equipment/runes/astral|Astral Plane]]; Elemental Planes; or [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]] only) - __Constant (5th)__ [[srd/pf2e/compendium/spells/rank-5/truespeech|Truespeech]]"
 sourcebook: "_Monster Core_, page 158."
 ```
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Grisantian Lion"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Grisantian Lion"
 level: 12
 source: "Monster Core 2"
-aon_id: "creature-4427"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4427"
 ---
 

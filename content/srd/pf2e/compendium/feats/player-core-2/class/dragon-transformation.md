@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -10,7 +9,7 @@ tags:
 - trait/rage
 - feat/level/16
 aliases: ["Dragon Transformation"]
-aon_id: "feat-5869"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5869"
 source: "Player Core 2"
 ---
 

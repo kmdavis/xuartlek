@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -10,7 +9,7 @@ tags:
 - trait/positive
 - spell/level/7
 aliases: ["Lifewood Cage"]
-aon_id: "spell-2006"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2006"
 source: "Player Core 2"
 ---
 

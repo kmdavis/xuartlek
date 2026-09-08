@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-archetype
 tags:
 - compendium/src/pf2e/battlecry
 - trait/uncommon
 - archetype/level/2
 aliases: ["War Mage"]
-aon_id: "archetype-331"
+aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=331"
 source: "Battlecry!"
 ---
 
@@ -26,7 +25,7 @@ You gain the [[srd/pf2e/compendium/feats/player-core/general/shield-block|Shield
 
 You gain the war magic class feature at 1st level. 
 
-You must choose the school of battle magic as your arcane school. 
+You must choose the [[srd/pf2e/compendium/character/arcane-schools#School of Battle Magic|school of battle magic]] as your arcane school. 
 
 You have familiarity with martial weapons, treating them as simple weapons for the purposes of proficiency. 
 

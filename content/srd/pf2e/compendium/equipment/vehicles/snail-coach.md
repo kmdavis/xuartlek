@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/uncommon
 - vehicle/level/7
 aliases: ["Snail Coach"]
-aon_id: "vehicle-28"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=28"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -14,7 +13,7 @@ source: "Guns & Gears (Remastered)"
 
 `Uncommon`
 
-- **Price**: 1,000 gp
+- **Price**: 1, 000 gp
 
 Shaped like its animal namesake, a snail coach is a trolley powered by a combination of magic and alchemical adhesives, with a hard outer shell to protect itself from attacks. The adhesive trail both allows it to climb and leaves a hindrance for pursuing foes.
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -9,7 +8,7 @@ tags:
 - trait/rare
 - equipment/level/12
 aliases: ["Immaculate Instrument"]
-aon_id: "equipment-3514"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3514"
 source: "War of Immortals"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -12,7 +11,7 @@ tags:
 - trait/wood
 - feat/level/12
 aliases: ["Hedge Maze"]
-aon_id: "feat-4291"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4291"
 source: "Rage of Elements"
 ---
 

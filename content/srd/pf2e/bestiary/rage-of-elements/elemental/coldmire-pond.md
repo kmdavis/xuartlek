@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Coldmire Pond"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Coldmire Pond"
 level: 8
 source: "Rage of Elements"
-aon_id: "creature-2660"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2660"
 ---
 

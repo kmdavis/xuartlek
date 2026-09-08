@@ -7,7 +7,6 @@ cssclasses:
 tags:
   - srd/pf2e/gm-core
 source: "GM Core"
-aon_id: 3227
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3227"
 citation: "GM Core pg. 298"
 ---
@@ -88,7 +87,7 @@ Gems are naturally occurring minerals, typically in a crystalline form, or, in a
 
 These pieces of artwork have listed Prices, but might be more valuable to a collector or someone with a personal connection. Consider whether the PCs could discover this information and secure a greater reward. For instance, a dwarven crown might be worth 1,000 gp for its exquisite crafting, but even more to the dwarves who lost the crown of their first queen long ago.
 
-On the other hand, the materials used to make an art object, such as the paint and the canvas of a painting, are worth far less than the finished object. Some art objects on the following tables include [[srd/pf2e/compendium/rules-elements/traits/player-core/uncommon|uncommon]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/rare|rare]] [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/materials#Precious Materials|precious materials]], though usually not in large enough amounts for other crafting purposes. If you're rolling randomly and don't want to give out an uncommon or rare material, roll again or modify the description (for instance, you might change a [[srd/pf2e/compendium/equipment/materials/dawnsilver-object-high-grade|dawnsilver]] crown to a gold crown).
+On the other hand, the materials used to make an art object, such as the paint and the canvas of a painting, are worth far less than the finished object. Some art objects on the following tables include [[srd/pf2e/compendium/rules-elements/traits/player-core/uncommon|uncommon]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/rare|rare]] [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/materials#Precious Materials|precious materials]], though usually not in large enough amounts for other crafting purposes. If you're rolling randomly and don't want to give out an uncommon or rare material, roll again or modify the description (for instance, you might change a [[srd/pf2e/compendium/equipment/materials/dawnsilver|dawnsilver]] crown to a gold crown).
 
 ## Table 2-24: Sample Art Objects
 

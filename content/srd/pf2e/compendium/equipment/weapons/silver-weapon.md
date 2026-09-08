@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
 - equipment/level/2
 aliases: ["Silver Weapon"]
-aon_id: "equipment-2860"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2860"
 source: "GM Core"
 ---
 
@@ -13,7 +12,7 @@ source: "GM Core"
 
 - **Usage**: varies by weapon
 - **Bulk**: varies by weapon
-- **Base Material**: [[srd/pf2e/compendium/equipment/materials/silver-object-high-grade|Silver]]
+- **Base Material**: [[srd/pf2e/compendium/equipment/materials/silver|Silver]]
 
 Silver weapons deal additional damage to creatures with weakness to silver, like werewolves, and ignore the resistances of some other creatures, like devils.
 

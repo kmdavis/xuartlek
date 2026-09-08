@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class-feature
 tags:
 - compendium/src/pf2e/player-core-2
 - class-feature/level/5
 aliases: ["Ancestry Feats"]
-aon_id: "class-feature-880"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=58"
 source: "Player Core 2"
 ---
 

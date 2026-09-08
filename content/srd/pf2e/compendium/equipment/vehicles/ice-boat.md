@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/battlecry
 - vehicle/level/6
 aliases: ["Ice Boat"]
-aon_id: "vehicle-111"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=111"
 source: "Battlecry!"
 ---
 

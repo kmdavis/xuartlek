@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/ethereal
 aliases: ["Ethereal"]
-aon_id: "trait-593"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=593"
 source: "Player Core"
 ---
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/monk
 - feat/level/4
 aliases: ["Guarded Movement"]
-aon_id: "feat-5994"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5994"
 source: "Player Core 2"
 ---
 

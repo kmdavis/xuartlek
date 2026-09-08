@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -9,7 +8,7 @@ tags:
 - trait/stance
 - feat/level/4
 aliases: ["Haft Striker Stance"]
-aon_id: "feat-7237"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7237"
 source: "War of Immortals"
 ---
 

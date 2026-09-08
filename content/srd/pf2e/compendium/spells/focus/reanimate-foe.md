@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -10,7 +9,7 @@ tags:
 - trait/uncommon
 - spell/level/9
 aliases: ["Reanimate Foe"]
-aon_id: "spell-2905"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2905"
 source: "Impossible Magic"
 ---
 

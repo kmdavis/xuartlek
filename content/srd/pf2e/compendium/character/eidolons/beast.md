@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-eidolon
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/beast
 - trait/eidolon
 aliases: ["Beast"]
-aon_id: "eidolon-17"
+aon_url: "https://2e.aonprd.com/Eidolons.aspx?ID=17"
 source: "Impossible Magic"
 ---
 

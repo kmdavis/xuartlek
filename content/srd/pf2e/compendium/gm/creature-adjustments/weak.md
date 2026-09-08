@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-adjustment
 tags:
 - compendium/src/pf2e/monster-core
 aliases: ["Weak"]
-aon_id: "creature-adjustment-23"
+aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=23"
 source: "Monster Core"
 ---
 

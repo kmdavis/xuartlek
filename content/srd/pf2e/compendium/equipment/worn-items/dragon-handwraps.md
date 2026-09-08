@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - equipment/level/20
 aliases: ["Dragon Handwraps"]
-aon_id: "equipment-2138"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2138"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -16,7 +15,7 @@ source: "Treasure Vault (Remastered)"
 
 `Apex`  `Invested`  `Magical`
 
-- **Price**: 80,000 gp
+- **Price**: 80, 000 gp
 - **Usage**: worn gloves
 - **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/brawling/fist|Fist]]
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Thanatotic Titan"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Thanatotic Titan"
 level: 22
 source: "Monster Core 2"
-aon_id: "creature-4582"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4582"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [10, 4, 9, 8, 6, 8]
 abilities_top:
   - name: "Items"
-    desc: "_[[srd/pf2e/compendium/equipment/armor/magic-armor-3-major-resilient|+2 greater resilient]] [[srd/pf2e/compendium/equipment/armor#Full Plate|full plate]]_, _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+3 greater striking]] [[srd/pf2e/compendium/equipment/weapons/polearm/halberd|halberd]]_"
+    desc: "_[[srd/pf2e/compendium/equipment/armor/magic-armor|+2 greater resilient]] [[srd/pf2e/compendium/equipment/armor#Full Plate|full plate]]_, _[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+3 greater striking]] [[srd/pf2e/compendium/equipment/weapons/polearm/halberd|halberd]]_"
 ac: 46
 armorclass:
   - name: "AC"

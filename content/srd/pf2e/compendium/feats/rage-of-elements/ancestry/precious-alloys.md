@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/rage-of-elements
 - trait/talos
 - feat/level/5
 aliases: ["Precious Alloys"]
-aon_id: "feat-4329"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4329"
 source: "Rage of Elements"
 ---
 

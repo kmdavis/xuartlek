@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Rust Scarab"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Rust Scarab"
 level: 5
 source: "Rage of Elements"
-aon_id: "creature-2648"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2648"
 ---
 

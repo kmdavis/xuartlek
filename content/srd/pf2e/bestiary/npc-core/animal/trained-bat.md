@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Trained Bat"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Trained Bat"
 level: 4
 source: "NPC Core"
-aon_id: "creature-3676"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3676"
 ---
 

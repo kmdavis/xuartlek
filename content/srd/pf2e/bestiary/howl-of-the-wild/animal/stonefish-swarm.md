@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Stonefish Swarm"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Stonefish Swarm"
 level: 2
 source: "Howl of the Wild"
-aon_id: "creature-3275"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3275"
 ---
 

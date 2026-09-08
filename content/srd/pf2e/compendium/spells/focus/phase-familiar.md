@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/witch
 - spell/level/1
 aliases: ["Phase Familiar"]
-aon_id: "spell-1884"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1884"
 source: "Player Core"
 ---
 

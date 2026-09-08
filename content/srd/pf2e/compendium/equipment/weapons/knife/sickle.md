@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/trip
 - weapon/level/0
 aliases: ["Sickle"]
-aon_id: "weapon-364"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=364"
 source: "Player Core"
 ---
 
@@ -16,7 +15,7 @@ source: "Player Core"
 
 `Agile`  `Finesse`  `Trip`
 
-- **Favored Weapon**: Areshkagal, Atrogine, Bharnarol, Green Faith, Hearth and Harvest, Kagia, Mother Vulture, Pahti Coatl, Rhan-Tegoth, Shei, Sicva, The Green Mother, Thoth, Verilorn, Zogmugot
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/demon-lords/areshkagal|Areshkagal]], [[srd/pf2e/compendium/deities/other-gods/atrogine|Atrogine]], [[srd/pf2e/compendium/deities/empyreal-lords/bharnarol|Bharnarol]], [[srd/pf2e/compendium/deities/faiths-philosophies/green-faith|Green Faith]], Hearth and Harvest, [[srd/pf2e/compendium/deities/sarkorian-gods/kagia|Kagia]], [[srd/pf2e/compendium/deities/monitor-demigods/mother-vulture|Mother Vulture]], [[srd/pf2e/compendium/deities/coatl-tribunal/pahti-coatl|Pahti Coatl]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/rhan-tegoth|Rhan-Tegoth]], Shei, [[srd/pf2e/compendium/deities/azlanti-pantheon/sicva|Sicva]], [[srd/pf2e/compendium/deities/eldest/the-green-mother|The Green Mother]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/thoth|Thoth]], [[srd/pf2e/compendium/deities/elemental-lords/verilorn|Verilorn]], [[srd/pf2e/compendium/deities/goblin-gods/zogmugot|Zogmugot]]
 - **Price**: 2 sp
 - **Damage**: 1d4 S
 - **Bulk**: L

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -10,7 +9,7 @@ tags:
 - trait/splash
 - equipment/level/12
 aliases: ["Shatterstone"]
-aon_id: "equipment-1905"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1905"
 source: "Treasure Vault (Remastered)"
 ---
 

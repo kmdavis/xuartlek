@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/ranger
 - feat/level/20
 aliases: ["To the Ends of the Earth"]
-aon_id: "feat-4913"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4913"
 source: "Player Core"
 ---
 

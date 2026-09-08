@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
 - trait/archetype
 - feat/level/12
 aliases: ["Expert Snowcasting"]
-aon_id: "feat-4101"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4101"
 source: "Treasure Vault (Remastered)"
 ---
 

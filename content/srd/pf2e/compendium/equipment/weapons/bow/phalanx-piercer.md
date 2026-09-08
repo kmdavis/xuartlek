@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -10,7 +9,7 @@ tags:
 - trait/volley
 - weapon/level/1
 aliases: ["Phalanx Piercer"]
-aon_id: "weapon-337"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=337"
 source: "Treasure Vault (Remastered)"
 ---
 

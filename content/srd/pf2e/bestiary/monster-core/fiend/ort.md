@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Ort"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Ort"
 level: 0
 source: "Monster Core"
-aon_id: "creature-2905"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2905"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/sonic
 - equipment/level/11
 aliases: ["Resonating Ammunition"]
-aon_id: "equipment-5040"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5040"
 source: "Impossible Magic"
 ---
 

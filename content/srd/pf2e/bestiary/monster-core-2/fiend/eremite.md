@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Eremite"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Eremite"
 level: 20
 source: "Monster Core 2"
-aon_id: "creature-4611"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4611"
 ---
 
@@ -46,7 +44,7 @@ armorclass:
 hp: 375
 health:
   - name: "HP"
-    desc: "375 , regeneration 25 (deactivated by [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] or [[srd/pf2e/compendium/equipment/materials/silver-object-high-grade|silver]]); __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Immunity to Nonlethal|nonlethal]]; __Weaknesses__ holy 20, silver 20"
+    desc: "375 , regeneration 25 (deactivated by [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] or [[srd/pf2e/compendium/equipment/materials/silver|silver]]); __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Immunity to Nonlethal|nonlethal]]; __Weaknesses__ holy 20, silver 20"
 abilities_mid:
   - name: "Ignore Pain"
     desc: "An eremite's actions can't be [[srd/pf2e/books/player-core/chapter-7-spells/casting-spells#Disrupted and Lost Spells|disrupted]] due to damage or Strikes (such as [[srd/pf2e/compendium/rules-elements/actions/player-core#Reactive Strike|Reactive Strike]])."

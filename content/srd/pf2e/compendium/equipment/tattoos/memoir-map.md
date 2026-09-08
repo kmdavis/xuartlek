@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/tattoo
 - equipment/level/1
 aliases: ["Memoir Map"]
-aon_id: "equipment-2210"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2210"
 source: "Treasure Vault (Remastered)"
 ---
 

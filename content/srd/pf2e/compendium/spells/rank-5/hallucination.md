@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/subtle
 - spell/level/5
 aliases: ["Hallucination"]
-aon_id: "spell-1551"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1551"
 source: "Player Core"
 ---
 
@@ -19,8 +18,8 @@ source: "Player Core"
 `Illusion`  `Incapacitation`  `Manipulate`  `Mental`  `Subtle`
 
 - **Traditions**: Arcane, Occult
-- **Bloodline**: Fey
-- **Deities**: Cayden Cailean, Dachzerul, Hastur, Seramaydiel, Tsukiyo
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Fey|Fey]]
+- **Deities**: [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/cayden-cailean|Cayden Cailean]], [[srd/pf2e/compendium/deities/sakhil-tormentors/dachzerul|Dachzerul]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/hastur|Hastur]], [[srd/pf2e/compendium/deities/empyreal-lords/seramaydiel|Seramaydiel]], [[srd/pf2e/compendium/deities/tian-gods/tsukiyo|Tsukiyo]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Duration**: 1 hour

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -10,7 +9,7 @@ tags:
 - trait/rare
 - equipment/level/16
 aliases: ["Curious Teardrop"]
-aon_id: "equipment-2612"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2612"
 source: "Rage of Elements"
 ---
 
@@ -34,7 +33,7 @@ source: "Rage of Elements"
 
 A _curious teardrop_, despite being a sphere of liquid metal, hangs like an earring on a golden finding. The intelligent droplet is a spirited chatterbox, always observing and taking mental notes; however, it's easily overwhelmed by new sights, which often reduce it to a sobbing mess. Occasionally, the _curious teardrop_ enters a stage of melancholy over the fragility of all matter, requiring immense reassurance to pull it out of its nihilism.
 
- The tear prefers not to talk about its past, though it claims to be an actual tear separated from its “parent.” Clerics of Laudinmio maintain that the elemental lord is the only being capable of shedding a perfect, sapient tear of metal.
+ The tear prefers not to talk about its past, though it claims to be an actual tear separated from its “parent.” Clerics of [[srd/pf2e/compendium/deities/elemental-lords/laudinmio|Laudinmio]] maintain that the elemental lord is the only being capable of shedding a perfect, sapient tear of metal.
 
 **Activate—Request a Spell** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** You ask for the _curious teardrop's_ assistance. It casts _curse of lost time_, [[srd/pf2e/compendium/spells/rank-8/ferrous-form|_ferrous form_]], or 7th-rank _elemental form_ (metal elemental only), depending on your request.
 

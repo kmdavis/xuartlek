@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/2
 aliases: ["Floating Flame"]
-aon_id: "spell-1533"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1533"
 source: "Player Core"
 ---
 
@@ -17,8 +16,8 @@ source: "Player Core"
 `Concentrate`  `Fire`  `Manipulate`
 
 - **Traditions**: Arcane, Primal
-- **Bloodline**: Diabolic
-- **Deities**: Khepri, Lubaiko, Nurgal, Pharimia, Ra, The Path of the Heavens
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Diabolic|Diabolic]]
+- **Deities**: Khepri, Lubaiko, [[srd/pf2e/compendium/deities/demon-lords/nurgal|Nurgal]], Pharimia, [[srd/pf2e/compendium/deities/dead-or-missing-deities/ra|Ra]], The Path of the Heavens
 - **Range**: 30 feet
 - **Area**: 1 5-foot square
 - **Defense**: Reflex

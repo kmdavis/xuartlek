@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/player-core
 - equipment/level/3
 aliases: ["Detective's Kit"]
-aon_id: "equipment-2719"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2719"
 source: "Player Core"
 ---
 

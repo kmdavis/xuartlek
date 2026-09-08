@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/lizardfolk
 - feat/level/9
 aliases: ["Hone Claws"]
-aon_id: "feat-5644"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5644"
 source: "Player Core 2"
 ---
 

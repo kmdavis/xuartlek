@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/2
 aliases: ["Blood Runs Cold"]
-aon_id: "spell-2643"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2643"
 source: "Impossible Magic"
 ---
 

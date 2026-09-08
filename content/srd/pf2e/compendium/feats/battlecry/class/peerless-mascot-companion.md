@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
 - trait/commander
 - feat/level/16
 aliases: ["Peerless Mascot Companion"]
-aon_id: "feat-7825"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7825"
 source: "Battlecry!"
 ---
 

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 - equipment/level/0
 aliases: ["Catch Pole"]
-aon_id: "equipment-3245"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3245"
 source: "Howl of the Wild"
 ---
 

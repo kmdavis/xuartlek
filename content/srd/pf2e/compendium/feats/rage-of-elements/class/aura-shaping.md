@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/rage-of-elements
 - trait/kineticist
 - feat/level/10
 aliases: ["Aura Shaping"]
-aon_id: "feat-4196"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4196"
 source: "Rage of Elements"
 ---
 

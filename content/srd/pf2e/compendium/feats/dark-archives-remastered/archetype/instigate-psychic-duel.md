@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -10,7 +9,7 @@ tags:
 - trait/occult
 - feat/level/12
 aliases: ["Instigate Psychic Duel"]
-aon_id: "feat-8503"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8503"
 source: "Dark Archives (Remastered)"
 ---
 

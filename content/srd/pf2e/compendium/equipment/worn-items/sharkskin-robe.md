@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -8,7 +7,7 @@ tags:
 - trait/water
 - equipment/level/12
 aliases: ["Sharkskin Robe"]
-aon_id: "equipment-2631"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2631"
 source: "Rage of Elements"
 ---
 
@@ -16,7 +15,7 @@ source: "Rage of Elements"
 
 `Invested`  `Magical`  `Water`
 
-- **Price**: 1,900 gp
+- **Price**: 1, 900 gp
 - **Usage**: worn clothing
 - **Bulk**: 1
 

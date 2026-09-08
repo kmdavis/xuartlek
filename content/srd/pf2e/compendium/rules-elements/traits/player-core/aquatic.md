@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/aquatic
 aliases: ["Aquatic"]
-aon_id: "trait-533"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=533"
 source: "Player Core"
 ---
 

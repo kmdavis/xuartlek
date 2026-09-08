@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/rogue
 - feat/level/16
 aliases: ["Blank Slate"]
-aon_id: "feat-4979"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4979"
 source: "Player Core"
 ---
 

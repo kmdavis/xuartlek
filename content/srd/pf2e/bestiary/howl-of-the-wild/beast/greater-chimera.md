@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Greater Chimera"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Greater Chimera"
 level: 13
 source: "Howl of the Wild"
-aon_id: "creature-3257"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3257"
 ---
 

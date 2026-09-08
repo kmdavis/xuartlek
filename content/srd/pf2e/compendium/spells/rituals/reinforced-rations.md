@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/battlecry
 - trait/uncommon
 - ritual/level/4
 aliases: ["Reinforced Rations"]
-aon_id: "ritual-213"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=213"
 source: "Battlecry!"
 ---
 

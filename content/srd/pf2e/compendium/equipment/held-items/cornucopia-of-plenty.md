@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - equipment/level/3
 aliases: ["Cornucopia of Plenty"]
-aon_id: "equipment-3932"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3932"
 source: "Battlecry!"
 ---
 

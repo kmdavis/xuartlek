@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -9,7 +8,7 @@ tags:
 - trait/polymorph
 - spell/level/8
 aliases: ["Ferrous Form"]
-aon_id: "spell-1369"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1369"
 source: "Rage of Elements"
 ---
 
@@ -18,7 +17,7 @@ source: "Rage of Elements"
 `Concentrate`  `Manipulate`  `Metal`  `Polymorph`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Ptah, Shapes of the Fading Luster
+- **Deities**: Ptah, [[srd/pf2e/compendium/deities/covenants/shapes-of-the-fading-luster|Shapes of the Fading Luster]]
 - **Duration**: 1 hour
 
 Your body transforms entirely into flexible iron. You gain resistance 10 to physical damage, except adamantine. You're immune to [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]], [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] attacks, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]], [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]; any of those conditions you had when the spell is cast are suspended until the spell ends, then return with their remaining duration when the spell ends. While made of iron, you're subject to rusting effects like the [[srd/pf2e/compendium/spells/rank-4/rust-cloud|_rust cloud_]] spell.

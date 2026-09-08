@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Mage For Hire"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Mage For Hire"
 level: 3
 source: "NPC Core"
-aon_id: "creature-3514"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3514"
 ---
 
@@ -40,7 +38,7 @@ skills:
 abilityMods: [0, 2, 1, 4, 1, 1]
 abilities_top:
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/consumables/invisibility-potion|_invisibility potion_]], spellbook, Staff, [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit-infiltrator-picks|Thieves' Toolkit]]"
+    desc: "[[srd/pf2e/compendium/equipment/consumables/invisibility-potion|_invisibility potion_]], spellbook, Staff, [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit|Thieves' Toolkit]]"
 ac: 17
 armorclass:
   - name: "AC"

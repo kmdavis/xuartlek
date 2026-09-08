@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - ritual/level/6
 aliases: ["Commune"]
-aon_id: "ritual-114"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=114"
 source: "Player Core"
 ---
 

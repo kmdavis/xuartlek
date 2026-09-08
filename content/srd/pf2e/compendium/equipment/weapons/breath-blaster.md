@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - equipment/level/8
 aliases: ["Breath Blaster"]
-aon_id: "equipment-1165"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1165"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -18,7 +17,7 @@ source: "Guns & Gears (Remastered)"
 - **Usage**: held in 2 hands
 - **Bulk**: 2
 
-A _breath blaster_ is a _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/firearm/blunderbuss|blunderbuss]]_ most commonly crafted from the trachea of a dragon, though other creatures with breath attacks or the ability to spit energy are occasionally used. The implementation of the dragon’s trachea allows the firearm to unleash a torrent of pure energy in the form of gouts of flame or bolts of electricity. A _breath blaster’s_ Strikes deal either [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]], [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]], [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] damage, depending on the dragon type or other creature from which it was made, though it can otherwise be used like a normal blunderbuss. A _breath blaster_ also can be activated to fire a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Line|line]] of energy in a 30-foot line or 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Cone|cone]], chosen when it’s created and typically corresponding to the shape of the breath attack used by the type of dragon or creature from which the _breath blaster_ was created.
+A _breath blaster_ is a _[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/firearm/blunderbuss|blunderbuss]]_ most commonly crafted from the trachea of a dragon, though other creatures with breath attacks or the ability to spit energy are occasionally used. The implementation of the dragon’s trachea allows the firearm to unleash a torrent of pure energy in the form of gouts of flame or bolts of electricity. A _breath blaster’s_ Strikes deal either [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]], [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]], [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] damage, depending on the dragon type or other creature from which it was made, though it can otherwise be used like a normal blunderbuss. A _breath blaster_ also can be activated to fire a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Line|line]] of energy in a 30-foot line or 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Cone|cone]], chosen when it’s created and typically corresponding to the shape of the breath attack used by the type of dragon or creature from which the _breath blaster_ was created.
 
 In theory, the foundational techniques required to create a _breath blaster_ would allow for other damage types, but such _breath blasters_ would require the trachea from the correct dragon or creature type and additional creation techniques, making such a _breath blaster_ rare rather than uncommon.
 

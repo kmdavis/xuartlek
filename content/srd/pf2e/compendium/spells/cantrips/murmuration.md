@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -11,7 +10,7 @@ tags:
 - trait/witch
 - spell/level/1
 aliases: ["Murmuration"]
-aon_id: "spell-1940"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1940"
 source: "Howl of the Wild"
 ---
 
@@ -19,7 +18,7 @@ source: "Howl of the Wild"
 
 `Cantrip`  `Concentrate`  `Hex`  `Sonic`  `Uncommon`  `Witch`
 
-- **Patron Theme**: Whisper of Wings
+- **Patron Theme**: [[srd/pf2e/compendium/character/patrons#Whisper of Wings|Whisper of Wings]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will

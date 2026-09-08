@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/shadow
 - spell/level/5
 aliases: ["Slither"]
-aon_id: "spell-1676"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1676"
 source: "Player Core"
 ---
 
@@ -17,8 +16,8 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Shadow`
 
 - **Traditions**: Arcane, Occult
-- **Bloodline**: Aberrant
-- **Deities**: Abraxas, Etaris, Gogunta, Shivaska, Yog-Sothoth
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Aberrant|Aberrant]]
+- **Deities**: [[srd/pf2e/compendium/deities/demon-lords/abraxas|Abraxas]], Etaris, [[srd/pf2e/compendium/deities/demon-lords/gogunta|Gogunta]], [[srd/pf2e/compendium/deities/demon-lords/shivaska|Shivaska]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/yog-sothoth|Yog-Sothoth]]
 - **Range**: 120 feet
 - **Area**: 20-foot burst
 - **Defense**: Reflex

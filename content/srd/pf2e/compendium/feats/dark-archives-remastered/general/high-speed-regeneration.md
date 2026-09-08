@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/rare
 - feat/level/6
 aliases: ["High-Speed Regeneration"]
-aon_id: "feat-8040"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8040"
 source: "Dark Archives (Remastered)"
 ---
 
@@ -19,6 +18,6 @@ source: "Dark Archives (Remastered)"
 
 - **Trigger**: Your turn begins
 
-Your wounds knit together with barely a thought. You regain Hit Points equal to double your level. When you gain this deviation, the GM secretly selects one type of energy damage or precious material, such as [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] or [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]]. When you take damage of that type, your wound smokes until the end of your next turn, preventing you from using High-Speed Regeneration.
+Your wounds knit together with barely a thought. You regain Hit Points equal to double your level. When you gain this deviation, the GM secretly selects one type of energy damage or precious material, such as [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] or [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]]. When you take damage of that type, your wound smokes until the end of your next turn, preventing you from using High-Speed Regeneration.
 
 *Source: Dark Archives (Remastered) p. 101*

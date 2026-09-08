@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/spellheart
 - equipment/level/7
 aliases: ["Enigma Mirror"]
-aon_id: "equipment-2229"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2229"
 source: "Treasure Vault (Remastered)"
 ---
 

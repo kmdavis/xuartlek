@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
@@ -8,7 +7,7 @@ tags:
 - trait/whetstone
 - equipment/level/8
 aliases: ["Valorous Coin"]
-aon_id: "equipment-3898"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3898"
 source: "Battlecry!"
 ---
 

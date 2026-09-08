@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Noble"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Noble"
 level: 3
 source: "NPC Core"
-aon_id: "creature-3418"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3418"
 ---
 
@@ -38,7 +36,7 @@ abilities_top:
   - name: "Lip Reader"
     desc: "After years of sticking their nose where it doesn't belong, the noble has learned to read lips from afar. If they're trying to read lips in an encounter or attempting a difficult feat of lip reading, they are [[srd/pf2e/compendium/rules-elements/conditions#Fascinated|fascinated]] and [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]], and might need to succeed at a [[srd/pf2e/compendium/rules-elements/skills/society|Society]] check with a DC determined by the GM."
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/clothing-desert|fashionable fine clothes]], [[srd/pf2e/compendium/equipment/adventuring-gear/loaded-dice|Loaded Dice]], Rapier, silver flask, signet ring"
+    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/clothing|fashionable fine clothes]], [[srd/pf2e/compendium/equipment/adventuring-gear/loaded-dice|Loaded Dice]], Rapier, silver flask, signet ring"
 ac: 18
 armorclass:
   - name: "AC"

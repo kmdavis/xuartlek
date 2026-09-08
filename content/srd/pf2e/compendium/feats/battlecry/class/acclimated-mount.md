@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
 - trait/champion
 - feat/level/4
 aliases: ["Acclimated Mount"]
-aon_id: "feat-7991"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7991"
 source: "Battlecry!"
 ---
 

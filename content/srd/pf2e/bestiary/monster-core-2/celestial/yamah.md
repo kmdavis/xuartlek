@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Yamah"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Yamah"
 level: 5
 source: "Monster Core 2"
-aon_id: "creature-4093"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4093"
 ---
 
@@ -70,7 +68,7 @@ abilities_bot:
   - name: "Sneak Attack"
     desc: "The yamah's Strikes deal an extra 1d6 precision damage to [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creatures."
   - name: "Starstrike"
-    desc: "Any non-magical [[srd/pf2e/compendium/equipment/weapons/knife/starknife|starknife]] becomes a _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/runes/returning|returning]] weapon_ while a yamah wields it."
+    desc: "Any non-magical [[srd/pf2e/compendium/equipment/weapons/knife/starknife|starknife]] becomes a _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/runes/returning|returning]] weapon_ while a yamah wields it."
   - name: "Steal Magic"
     desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]]) The yamah makes a melee spell attack against a creature under the effects of a spell; a yamah automatically succeeds with this attack against a willing creature. On a success, the yamah's divine touch attempts to counteract the spell (counteract rank 3, counteract modifier +16). A successful counteract siphons the magical energy into one of the gems on its _forceful quartz bracelet_, recharging it. Yamah Bracelets Each yamah wears a personalized bracelet, embedded with quartz gems that reflect the cosmos. These are empowered by unseen magic, recharging when the yamah has 8 hours of rest. These bracelets have a unique divine connection to their respective yamah, and the bracelets only function for that yamah. On occasion, a yamah will gift the bracelet to a mortal, more as a symbol of trust and a sign that the individual is protected than an attempt to share power."
 spellcasting:

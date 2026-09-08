@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/magus
 - feat/level/6
 aliases: ["Spell Crash"]
-aon_id: "feat-9064"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9064"
 source: "Impossible Magic"
 ---
 

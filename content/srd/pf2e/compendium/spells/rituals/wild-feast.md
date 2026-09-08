@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -7,7 +6,7 @@ tags:
 - trait/rare
 - ritual/level/4
 aliases: ["Wild Feast"]
-aon_id: "ritual-199"
+aon_url: "https://2e.aonprd.com/MythicRituals.aspx?ID=199"
 source: "War of Immortals"
 ---
 
@@ -18,7 +17,7 @@ source: "War of Immortals"
 - **Cast**: 8 hours
 - **Secondary Casters**: 2
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (mythic)
-- **Secondary Checks**: Diplomacy , Survival
+- **Secondary Checks**: Diplomacy, Survival
 - **Area**: 500-foot radius centered on you
 - **Duration**: 3 days
 

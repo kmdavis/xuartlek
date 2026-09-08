@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - feat/level/1
 aliases: ["Plant Banner"]
-aon_id: "feat-7796"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7796"
 source: "Battlecry!"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -10,7 +9,7 @@ tags:
 - trait/uncommon
 - spell/level/5
 aliases: ["Fire's Pathway"]
-aon_id: "spell-1354"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1354"
 source: "Rage of Elements"
 ---
 

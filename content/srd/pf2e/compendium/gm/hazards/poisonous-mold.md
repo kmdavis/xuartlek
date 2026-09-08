@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
 tags:
 - compendium/src/pf2e/gm-core
@@ -7,7 +6,7 @@ tags:
 - trait/fungus
 - hazard/level/2
 aliases: ["Poisonous Mold"]
-aon_id: "hazard-478"
+aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=478"
 source: "GM Core"
 ---
 

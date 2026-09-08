@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/polymorph
 - spell/level/5
 aliases: ["Aberrant Form"]
-aon_id: "spell-2627"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2627"
 source: "Impossible Magic"
 ---
 
@@ -17,7 +16,7 @@ source: "Impossible Magic"
 `Concentrate`  `Manipulate`  `Polymorph`
 
 - **Tradition**: Occult
-- **Deity**: Haggakal
+- **Deity**: [[srd/pf2e/compendium/deities/giant-gods/haggakal|Haggakal]]
 - **Duration**: 1 minute
 
 Channeling the power of vile otherworldly entities into your body, you take a new grotesque form, allowing you to wade into the battlefield while spreading pain and terror in your wake. You transform yourself into a Large aberration. You must have enough space to expand into, or the spell is lost. When you Cast this Spell, choose chuul, gogiteth, gug, or ofalth. While in this form, you gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/aberration|aberration]] trait. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Dismiss|Dismiss]] the spell.

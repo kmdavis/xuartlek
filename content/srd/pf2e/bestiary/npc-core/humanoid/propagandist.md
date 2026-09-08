@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Propagandist"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Propagandist"
 level: 3
 source: "NPC Core"
-aon_id: "creature-3610"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3610"
 ---
 
@@ -38,7 +36,7 @@ abilities_top:
   - name: "Nuanced Spin"
     desc: "The propagandist phrases everything loosely and vaguely enough that, though it's always misleading, none of it is false. The propagandist can use [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] instead of [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] to [[srd/pf2e/compendium/rules-elements/actions/player-core#Create a Diversion|Create a Diversion]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Feint|Feint]], and instead of [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] to [[srd/pf2e/compendium/rules-elements/actions/player-core#Coerce|Coerce]]. A creature attempting to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Motive|Sense Motive]] against the propagandist gets a result one degree of success worse than they rolled."
   - name: "Items"
-    desc: "Dagger (3), [[srd/pf2e/compendium/equipment/adventuring-gear/musical-instrument-virtuoso-heavy|lute]], Shortsword, Writing Set"
+    desc: "Dagger (3), [[srd/pf2e/compendium/equipment/adventuring-gear/musical-instrument|lute]], Shortsword, Writing Set"
 ac: 17
 armorclass:
   - name: "AC"

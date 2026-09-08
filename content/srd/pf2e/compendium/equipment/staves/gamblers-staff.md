@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - equipment/level/12
 aliases: ["Gambler's Staff"]
-aon_id: "equipment-2251"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2251"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -16,7 +15,7 @@ source: "Treasure Vault (Remastered)"
 
 `Magical`  `Staff`  `Uncommon`
 
-- **Price**: 2,000 gp
+- **Price**: 2, 000 gp
 - **Usage**: held in 1 hand
 - **Bulk**: 1
 

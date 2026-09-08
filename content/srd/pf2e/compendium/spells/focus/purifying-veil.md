@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -13,7 +12,7 @@ tags:
 - trait/focus
 - spell/level/4
 aliases: ["Purifying Veil"]
-aon_id: "spell-2590"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2590"
 source: "Dark Archives (Remastered)"
 ---
 

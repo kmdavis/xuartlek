@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
 - trait/capacity
 - weapon/level/0
 aliases: ["Rotary Bow"]
-aon_id: "weapon-338"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=338"
 source: "Treasure Vault (Remastered)"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -8,7 +7,7 @@ tags:
 - trait/metal
 - spell/level/1
 aliases: ["Fold Metal"]
-aon_id: "spell-1371"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1371"
 source: "Rage of Elements"
 ---
 
@@ -18,7 +17,7 @@ source: "Rage of Elements"
 
 - **PFS Note**: For the purposes of the fold metal spell in Pathfinder Society play, objects which are part of a structure (such as a door, or a lock on a window) are not considered "unattended."
 - **Tradition**: Arcane
-- **Deities**: Inna, Laudinmio, Shapes of the Fading Luster
+- **Deities**: [[srd/pf2e/compendium/deities/monitor-demigods/inna|Inna]], [[srd/pf2e/compendium/deities/elemental-lords/laudinmio|Laudinmio]], [[srd/pf2e/compendium/deities/covenants/shapes-of-the-fading-luster|Shapes of the Fading Luster]]
 - **Range**: touch
 - **Target**: 1 unattended metallic object up to 5 Bulk
 - **Duration**: 10 minutes

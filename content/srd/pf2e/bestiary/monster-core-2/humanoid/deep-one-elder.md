@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Deep One Elder"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Deep One Elder"
 level: 14
 source: "Monster Core 2"
-aon_id: "creature-4316"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4316"
 ---
 

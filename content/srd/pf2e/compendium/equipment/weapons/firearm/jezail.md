@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - weapon/level/1
 aliases: ["Jezail"]
-aon_id: "weapon-203"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=203"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -29,7 +28,7 @@ source: "Guns & Gears (Remastered)"
 - **Group**: Firearm
 - **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/firearm/firearm-ammunition-10-rounds|Firearm Ammunition (10 rounds)]]
 
-Jezails are simple, efficient long guns developed in Casmaron that typically feature a custom stock and a flintlock firing mechanism. Though lacking the range and stopping power of an [[srd/pf2e/compendium/equipment/weapons/firearm/arquebus|arquebus]] or the raw force of a [[srd/pf2e/compendium/equipment/weapons/firearm/harmona-gun|harmona gun]], the jezail is an elegant, well-balanced weapon suitable for a variety of combat situations. It's even possible to tuck it under one arm to fire a less accurate attack that uses only one hand.
+Jezails are simple, efficient long guns developed in Casmaron that typically feature a custom stock and a flintlock firing mechanism. Though lacking the range and stopping power of an arquebus or the raw force of a [[srd/pf2e/compendium/equipment/weapons/firearm/harmona-gun|harmona gun]], the jezail is an elegant, well-balanced weapon suitable for a variety of combat situations. It's even possible to tuck it under one arm to fire a less accurate attack that uses only one hand.
 
 ### Critical Specialization Effects
 

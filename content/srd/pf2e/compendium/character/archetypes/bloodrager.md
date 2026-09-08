@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-archetype
 tags:
 - compendium/src/pf2e/war-of-immortals
 - archetype/level/2
 aliases: ["Bloodrager"]
-aon_id: "archetype-283"
+aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=283"
 source: "War of Immortals"
 ---
 

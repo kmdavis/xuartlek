@@ -1,17 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-archetype
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - archetype/level/2
 aliases: ["Sniping Duo"]
-aon_id: "archetype-121"
+aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=121"
 source: "Guns & Gears (Remastered)"
 ---
 
 # Sniping Duo  *Archetype 2*
 
-- **PFS Note**: Characters with the Sniping Duo archetype may choose their sniping partner at the beginning of the scenario without spending Downtime to retrain the option._ Skilled shooters who don't let their egos get in the way of their efficacy are likely to say that sniping is a two-person job. Taking down a target without giving away your position or giving the opponent a window for reprisal is difficult work that requires teamwork and coordination, as well as a tight-knit bond and shared perspective. Sniping duos live and die by the credo “two heads are better than one,” focusing their skills and strategies toward deadly efficiency. Whether your spotter and partner is a fellow ranged combatant or a melee enthusiast, you've learned how to use the openings they provide to devastating effect.
+- **PFS Note**: Characters with the Sniping Duo archetype may choose their sniping partner at the beginning of the scenario without spending Downtime to retrain the option._ Skilled shooters who don't let their egos get in the way of their efficacy are likely to say that sniping is a two-person job. Taking down a target without giving away your position or giving the opponent a window for reprisal is difficult work that requires teamwork and coordination, as well as a tight-knit bond and shared perspective. Sniping duos live and die by the credo “two heads are better than one, ” focusing their skills and strategies toward deadly efficiency. Whether your spotter and partner is a fellow ranged combatant or a melee enthusiast, you've learned how to use the openings they provide to devastating effect.
 
 ### Choosing a Spotter
 

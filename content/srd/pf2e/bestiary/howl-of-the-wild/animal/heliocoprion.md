@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Heliocoprion"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Heliocoprion"
 level: 10
 source: "Howl of the Wild"
-aon_id: "creature-3308"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3308"
 ---
 

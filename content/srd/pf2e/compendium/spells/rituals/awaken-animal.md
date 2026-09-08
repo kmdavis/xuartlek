@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - ritual/level/6
 aliases: ["Awaken Animal"]
-aon_id: "ritual-109"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=109"
 source: "Player Core"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core"
 - **Cost**: herbs, 1/5 the value on Creature Creation Rituals
 - **Secondary Casters**: 3
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (master)
-- **Secondary Checks**: Lore (any), Society , Survival
+- **Secondary Checks**: Lore (any), Society, Survival
 - **Range**: 10 feet
 - **Target(s)**: 1 animal of up to the level on the table
 

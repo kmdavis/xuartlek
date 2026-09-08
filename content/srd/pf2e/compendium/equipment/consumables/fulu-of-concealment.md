@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -9,7 +8,7 @@ tags:
 - trait/magical
 - equipment/level/6
 aliases: ["Fulu Of Concealment"]
-aon_id: "equipment-5073"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5073"
 source: "Impossible Magic"
 ---
 

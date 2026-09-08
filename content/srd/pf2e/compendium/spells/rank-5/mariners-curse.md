@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/5
 aliases: ["Mariner's Curse"]
-aon_id: "spell-1593"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1593"
 source: "Player Core"
 ---
 
@@ -17,8 +16,8 @@ source: "Player Core"
 `Concentrate`  `Curse`  `Manipulate`
 
 - **Traditions**: Arcane, Occult, Primal
-- **Bloodline**: Hag
-- **Deities**: Besmara, Deshto
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Hag|Hag]]
+- **Deities**: [[srd/pf2e/compendium/deities/other-gods/besmara|Besmara]], Deshto
 - **Range**: touch
 - **Target**: 1 creature
 - **Defense**: Will

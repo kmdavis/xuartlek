@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -10,7 +9,7 @@ tags:
 - trait/spirit
 - feat/level/1
 aliases: ["Nudge the Scales"]
-aon_id: "feat-6055"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6055"
 source: "Player Core 2"
 ---
 

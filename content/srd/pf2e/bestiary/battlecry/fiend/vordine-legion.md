@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Vordine Legion"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Vordine Legion"
 level: 10
 source: "Battlecry!"
-aon_id: "creature-3941"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3941"
 ---
 
@@ -45,7 +43,7 @@ armorclass:
 hp: 180
 health:
   - name: "HP"
-    desc: "180 (4 segments); __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]; __Resistances__ physical 10 (except [[srd/pf2e/compendium/equipment/materials/silver-object-high-grade|silver]]), [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] 10; __Weaknesses__ area damage 10, [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 10, splash damage 10"
+    desc: "180 (4 segments); __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]; __Resistances__ physical 10 (except [[srd/pf2e/compendium/equipment/materials/silver|silver]]), [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] 10; __Weaknesses__ area damage 10, [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 10, splash damage 10"
 abilities_mid:
   - name: "Reactive Attack"
     desc: "⬲"

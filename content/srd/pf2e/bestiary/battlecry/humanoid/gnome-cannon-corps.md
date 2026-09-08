@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Gnome Cannon Corps"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Gnome Cannon Corps"
 level: 7
 source: "Battlecry!"
-aon_id: "creature-3919"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3919"
 ---
 

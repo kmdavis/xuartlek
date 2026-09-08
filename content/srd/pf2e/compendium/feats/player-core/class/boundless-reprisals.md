@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/guardian
 - feat/level/20
 aliases: ["Boundless Reprisals"]
-aon_id: "feat-4857"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4857"
 source: "Player Core"
 ---
 

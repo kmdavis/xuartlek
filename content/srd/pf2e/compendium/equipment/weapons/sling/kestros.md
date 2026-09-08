@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - weapon/level/0
 aliases: ["Kestros"]
-aon_id: "weapon-513"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=513"
 source: "War of Immortals"
 ---
 

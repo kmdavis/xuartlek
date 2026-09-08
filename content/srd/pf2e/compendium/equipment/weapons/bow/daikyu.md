@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core-2
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - weapon/level/0
 aliases: ["Daikyu"]
-aon_id: "weapon-472"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=472"
 source: "Player Core 2"
 ---
 

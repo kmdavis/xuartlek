@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - equipment/level/9
 aliases: ["Ghostly Portal Paint"]
-aon_id: "equipment-5091"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5091"
 source: "Impossible Magic"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/negative
 - spell/level/7
 aliases: ["Execute"]
-aon_id: "spell-1519"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1519"
 source: "Player Core"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core"
 `Concentrate`  `Death`  `Manipulate`  `Void`  `Negative`
 
 - **Traditions**: Divine, Primal
-- **Bloodlines**: Undead, Aesir
+- **Bloodlines**: [[srd/pf2e/compendium/character/bloodlines#Undead|Undead]], [[srd/pf2e/compendium/character/bloodlines#Aesir|Aesir]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: basic Fortitude

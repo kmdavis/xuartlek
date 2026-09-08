@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Kodama"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Kodama"
 level: 5
 source: "Monster Core 2"
-aon_id: "creature-4454"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4454"
 ---
 
@@ -48,7 +46,7 @@ armorclass:
 hp: 95
 health:
   - name: "HP"
-    desc: "95; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] 5; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 5 Distracting Gaze (aura, divine, visual) 30 feet. When a creature ends its turn in the aura, it must attempt a DC 21 Will save. The kodama can activate or deactivate this aura by using a single action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait."
+    desc: "95; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] 5; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 5 Distracting Gaze (aura, divine, visual) 30 feet. When a creature ends its turn in the aura, it must attempt a DC 21 Will save. The kodama can activate or deactivate this aura by using a single action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait."
 abilities_mid:
   - name: "Success"
     desc: "The creature is unaffected."

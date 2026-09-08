@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/3
 aliases: ["Earthbind"]
-aon_id: "spell-1506"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1506"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Earth`  `Manipulate`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Doloras, Jukha, Torag, Treasures of the Eternal Delve
+- **Deities**: [[srd/pf2e/compendium/deities/queens-of-the-night/doloras|Doloras]], [[srd/pf2e/compendium/deities/orc-gods/jukha|Jukha]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/torag|Torag]], [[srd/pf2e/compendium/deities/covenants/treasures-of-the-eternal-delve|Treasures of the Eternal Delve]]
 - **Range**: 120 feet
 - **Target**: 1 flying creature
 - **Defense**: Fortitude

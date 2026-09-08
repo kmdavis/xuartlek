@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
 tags:
 - compendium/src/pf2e/gm-core
 - trait/haunt
 - hazard/level/6
 aliases: ["Ghostly Choir"]
-aon_id: "hazard-470"
+aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=470"
 source: "GM Core"
 ---
 

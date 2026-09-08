@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - equipment/level/8
 aliases: ["Harrow Spellcards"]
-aon_id: "equipment-2178"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2178"
 source: "Treasure Vault (Remastered)"
 ---
 

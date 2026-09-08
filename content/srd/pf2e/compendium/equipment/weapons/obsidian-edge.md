@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - equipment/level/6
 aliases: ["Obsidian Edge"]
-aon_id: "equipment-2606"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2606"
 source: "Rage of Elements"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - equipment/level/13
 aliases: ["Spell Reservoir"]
-aon_id: "equipment-2849"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2849"
 source: "GM Core"
 ---
 
@@ -15,7 +14,7 @@ source: "GM Core"
 
 `Magical`  `Uncommon`
 
-- **Price**: 2,700 gp
+- **Price**: 2, 700 gp
 - **Usage**: etched onto a melee weapon
 
 A _spell reservoir_ rune creates a pool of eldritch energy within the etched weapon. A spellcaster can spend 1 minute to cast a spell of 3rd rank or lower into the weapon. The spell must require 2 actions or fewer to cast and must be able to target a creature other than the caster. The spell has no immediate effect—it is instead stored for later.

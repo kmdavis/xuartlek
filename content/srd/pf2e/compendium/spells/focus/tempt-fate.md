@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/uncommon
 - spell/level/4
 aliases: ["Tempt Fate"]
-aon_id: "spell-1803"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1803"
 source: "Player Core"
 ---
 

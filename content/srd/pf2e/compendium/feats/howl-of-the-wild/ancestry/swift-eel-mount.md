@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -7,7 +6,7 @@ tags:
 - trait/locathah
 - feat/level/13
 aliases: ["Swift Eel Mount"]
-aon_id: "feat-5293"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5293"
 source: "Howl of the Wild"
 ---
 

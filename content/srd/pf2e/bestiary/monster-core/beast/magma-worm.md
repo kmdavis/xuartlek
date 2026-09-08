@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Magma Worm"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Magma Worm"
 level: 18
 source: "Monster Core"
-aon_id: "creature-2873"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2873"
 ---
 

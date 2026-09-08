@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - equipment/level/9
 aliases: ["Lucky Draw Bandolier"]
-aon_id: "equipment-1211"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1211"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -28,7 +27,7 @@ When the card transforms into ammunition, it transforms into a firearm round or 
 
 ## Lucky Draw Bandolier
 
-**d6****Ability (Suit)****Ammunition**1Strength (Hammer)[[srd/pf2e/compendium/equipment/consumables/meteor-shot-major|_Meteor shot_]]2Dexterity (Key)_Storm arrow_3Constitution (Shield)_Corrosive ammunition_4Intelligence (Book)_Explosive ammunition_5Wisdom (Star)_Terrifying ammunition6Charisma (Crown)[[srd/pf2e/compendium/equipment/consumables/fairy-bullet|_Fairy bullet_]]
+**d6****Ability (Suit)****Ammunition**1Strength (Hammer)[[srd/pf2e/compendium/equipment/consumables/meteor-shot|_Meteor shot_]]2Dexterity (Key)_Storm arrow_3Constitution (Shield)_Corrosive ammunition_4Intelligence (Book)_Explosive ammunition_5Wisdom (Star)_Terrifying ammunition6Charisma (Crown)[[srd/pf2e/compendium/equipment/consumables/fairy-bullet|_Fairy bullet_]]
 
 ### Lucky Draw Bandolier
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/rage-of-elements
 - trait/ardande
 - feat/level/1
 aliases: ["Grove-Harbored"]
-aon_id: "feat-4312"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4312"
 source: "Rage of Elements"
 ---
 

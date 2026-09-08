@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -9,7 +8,7 @@ tags:
 - trait/subtle
 - spell/level/1
 aliases: ["Tremor Signs"]
-aon_id: "spell-1342"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1342"
 source: "Rage of Elements"
 ---
 

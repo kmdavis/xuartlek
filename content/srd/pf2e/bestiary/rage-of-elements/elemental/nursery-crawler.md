@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Nursery Crawler"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Nursery Crawler"
 level: 3
 source: "Rage of Elements"
-aon_id: "creature-2672"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2672"
 ---
 

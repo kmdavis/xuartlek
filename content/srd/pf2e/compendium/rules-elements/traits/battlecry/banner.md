@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/battlecry
 - trait/banner
 aliases: ["Banner"]
-aon_id: "trait-856"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=856"
 source: "Battlecry!"
 ---
 

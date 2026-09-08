@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core
 aliases: ["Xulgath"]
-aon_id: "creature-family-486"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=486"
 source: "Monster Core"
 ---
 
@@ -22,7 +21,7 @@ Reptilian humanoids who live in the uppermost reaches of the Darklands, xulgaths
 
 ### Rudimentary Gear
 
-Xulgath society has sharply declined under [[srd/pf2e/compendium/gm/creature-families/demon|demon]] rule. They mostly rely on stone tools and weapons scavenged from the surface, which can replicate most simple and a few martial melee weapons, as well as simple thrown ranged weapons. An advanced clutch of xulgaths might be able to craft low-level magical talismans, such as a [[srd/pf2e/compendium/equipment/consumables/potency-crystal-major|_potency crystal_]] or a [[srd/pf2e/compendium/equipment/consumables/savior-spike|_savior spike_]].
+Xulgath society has sharply declined under [[srd/pf2e/compendium/gm/creature-families/demon|demon]] rule. They mostly rely on stone tools and weapons scavenged from the surface, which can replicate most simple and a few martial melee weapons, as well as simple thrown ranged weapons. An advanced clutch of xulgaths might be able to craft low-level magical talismans, such as a [[srd/pf2e/compendium/equipment/consumables/potency-crystal|_potency crystal_]] or a [[srd/pf2e/compendium/equipment/consumables/savior-spike|_savior spike_]].
 
 ### Xulgath Society
 

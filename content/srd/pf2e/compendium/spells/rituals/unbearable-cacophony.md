@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - ritual/level/7
 aliases: ["Unbearable Cacophony"]
-aon_id: "ritual-197"
+aon_url: "https://2e.aonprd.com/MythicRituals.aspx?ID=197"
 source: "War of Immortals"
 ---
 
@@ -20,7 +19,7 @@ source: "War of Immortals"
 - **Cost**: valuable crystals and tuning forks worth 300 gp
 - **Secondary Casters**: 2
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] (mythic)
-- **Secondary Checks**: Arcana , Nature
+- **Secondary Checks**: Arcana, Nature
 - **Area**: 1-mile radius circle centered on you
 - **Duration**: 3 days
 

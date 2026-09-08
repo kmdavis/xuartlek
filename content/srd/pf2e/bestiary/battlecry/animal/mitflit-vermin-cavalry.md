@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Mitflit Vermin Cavalry"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Mitflit Vermin Cavalry"
 level: 4
 source: "Battlecry!"
-aon_id: "creature-3927"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3927"
 ---
 
@@ -45,7 +43,7 @@ armorclass:
 hp: 60
 health:
   - name: "HP"
-    desc: "60 (4 segments); __Weaknesses__ area damage 5, [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 4, splash damage 5"
+    desc: "60 (4 segments); __Weaknesses__ area damage 5, [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 4, splash damage 5"
 abilities_mid:
   - name: "Troop Defenses"
     desc: ""

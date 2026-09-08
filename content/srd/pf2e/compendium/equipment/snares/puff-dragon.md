@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -12,7 +11,7 @@ tags:
 - trait/uncommon
 - equipment/level/9
 aliases: ["Puff Dragon"]
-aon_id: "equipment-1131"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1131"
 source: "Guns & Gears (Remastered)"
 ---
 

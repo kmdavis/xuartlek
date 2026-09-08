@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
 - trait/two-hand
 - weapon/level/0
 aliases: ["Bastard Sword"]
-aon_id: "weapon-370"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=370"
 source: "Player Core"
 ---
 
@@ -14,7 +13,7 @@ source: "Player Core"
 
 `Two-Hand`
 
-- **Favored Weapon**: Ragathiel, Sorrow's Sword
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/empyreal-lords/ragathiel|Ragathiel]], Sorrow's Sword
 - **Price**: 4 gp
 - **Damage**: 1d8 S
 - **Bulk**: 1
@@ -31,6 +30,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/artifacts/serithtial|Serithtial]], [[srd/pf2e/compendium/equipment/weapons/greater-talonstrike-blade|Talonstrike Blade]]
+[[srd/pf2e/compendium/equipment/artifacts/serithtial|Serithtial]], [[srd/pf2e/compendium/equipment/weapons/talonstrike-blade|Talonstrike Blade]]
 
 *Source: Player Core p. 278*

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - equipment/level/14
 aliases: ["Stargazer"]
-aon_id: "equipment-1880"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1880"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -17,7 +16,7 @@ source: "Treasure Vault (Remastered)"
 
 `Invested`  `Magical`  `Scrying`  `Uncommon`
 
-- **Price**: 6,500 gp
+- **Price**: 6, 500 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
 - **Base Weapon**: Club

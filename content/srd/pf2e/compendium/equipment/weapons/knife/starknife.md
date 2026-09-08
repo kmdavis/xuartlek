@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/versatile
 - weapon/level/0
 aliases: ["Starknife"]
-aon_id: "weapon-399"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=399"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 
 `Agile`  `Deadly`  `Finesse`  `Thrown`  `Versatile`
 
-- **Favored Weapon**: Black Butterfly, Brixori, Chohar, Cosmic Caravan, Desna, Ma’at, The Endless Road, The Path of the Heavens
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/empyreal-lords/black-butterfly|Black Butterfly]], Brixori, Chohar, [[srd/pf2e/compendium/deities/pantheons/cosmic-caravan|Cosmic Caravan]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/desna|Desna]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/maat|Ma’at]], The Endless Road, The Path of the Heavens
 - **Price**: 2 gp
 - **Damage**: 1d4 P
 - **Bulk**: L

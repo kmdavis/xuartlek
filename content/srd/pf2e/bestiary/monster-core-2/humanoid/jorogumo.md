@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Jorogumo"
 tags:
@@ -12,7 +11,6 @@ name: "Jorogumo"
 level: 13
 source: "Monster Core 2"
 other_sources: "Pathfinder #160: Assault on Hunting Lodge Seven"
-aon_id: "creature-4450"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4450"
 ---
 
@@ -84,7 +82,7 @@ abilities_bot:
   - name: "Effect"
     desc: "Eight large spider legs sprout from the jorogumo's back, granting a 40-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Climb Speed|climb Speed]] and allowing them to use the Darting Legs reaction."
   - name: "Web Trap"
-    desc: "A creature hit by the jorogumo's web attack is [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] and stuck to the nearest surface, preventing the creature from moving. The DC to [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Force Open|Force Open]] the web trap is 32. Peachwood Vulnerability Peachwood, often cultivated by Pharasmin priests, is used to ward away the undead. However, jorogumo also despise this auburn-tinged wood, despite being quite clearly a living creature. This has led many to speculate on the origins of these arachnid ambushers, but their secretive nature has made further research difficult. Learn more about peachwood in Lost Omens Tian Xia Character Guide."
+    desc: "A creature hit by the jorogumo's web attack is [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] and stuck to the nearest surface, preventing the creature from moving. The DC to [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Force Open|Force Open]] the web trap is 32. Peachwood Vulnerability Peachwood, often cultivated by [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasmin]] priests, is used to ward away the undead. However, jorogumo also despise this auburn-tinged wood, despite being quite clearly a living creature. This has led many to speculate on the origins of these arachnid ambushers, but their secretive nature has made further research difficult. Learn more about peachwood in Lost Omens Tian Xia Character Guide."
 spellcasting:
   - name: "Occult Innate Spells"
     desc: "DC 34 - __1st__ [[srd/pf2e/compendium/spells/rank-1/charm|Charm]] (at will) - __2nd__ [[srd/pf2e/compendium/spells/rank-2/speak-with-animals|Speak with Animals]] (spiders only) - __3rd__ [[srd/pf2e/compendium/spells/rank-3/mind-reading|Mind Reading]] (at will) - __4th__ [[srd/pf2e/compendium/spells/rank-4/outcasts-curse|Outcast's Curse]] (×3), [[srd/pf2e/compendium/spells/rank-4/suggestion|Suggestion]] (×3) - __7th__ [[srd/pf2e/compendium/spells/rank-1/summon-animal|Summon Animal]] (spiders only) - __Constant (5th)__ [[srd/pf2e/compendium/spells/rank-5/truespeech|Truespeech]]"

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class-feature
 tags:
 - compendium/src/pf2e/player-core
 - class-feature/level/1
 aliases: ["Arcane Thesis"]
-aon_id: "class-feature-794"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=39"
 source: "Player Core"
 ---
 

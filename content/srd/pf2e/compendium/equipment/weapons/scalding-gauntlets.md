@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - equipment/level/11
 aliases: ["Scalding Gauntlets"]
-aon_id: "equipment-2608"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2608"
 source: "Rage of Elements"
 ---
 

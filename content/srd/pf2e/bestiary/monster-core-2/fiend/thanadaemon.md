@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Thanadaemon"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Thanadaemon"
 level: 13
 source: "Monster Core 2"
-aon_id: "creature-4306"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4306"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [6, 6, 4, 3, 5, 7]
 abilities_top:
   - name: "Items"
-    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/club/bo-staff|bo staff]]_, _soul gem_"
+    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/club/bo-staff|bo staff]]_, _soul gem_"
 ac: 34
 armorclass:
   - name: "AC"

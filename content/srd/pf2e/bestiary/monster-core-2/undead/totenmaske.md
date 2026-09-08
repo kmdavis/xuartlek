@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Totenmaske"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Totenmaske"
 level: 7
 source: "Monster Core 2"
-aon_id: "creature-4585"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4585"
 ---
 

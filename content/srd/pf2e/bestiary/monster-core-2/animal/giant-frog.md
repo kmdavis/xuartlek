@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Giant Frog"
 tags:
@@ -11,7 +10,6 @@ name: "Giant Frog"
 level: 1
 source: "Monster Core 2"
 other_sources: "Pathfinder Game Night: Dawn of the Frogs (Deluxe Adventure)"
-aon_id: "creature-4404"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4404"
 ---
 

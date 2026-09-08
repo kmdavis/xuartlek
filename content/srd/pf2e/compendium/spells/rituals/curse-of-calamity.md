@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -9,7 +8,7 @@ tags:
 - trait/rare
 - ritual/level/9
 aliases: ["Curse Of Calamity"]
-aon_id: "ritual-192"
+aon_url: "https://2e.aonprd.com/MythicRituals.aspx?ID=192"
 source: "War of Immortals"
 ---
 
@@ -20,7 +19,7 @@ source: "War of Immortals"
 - **Cast**: 3 days
 - **Secondary Casters**: 3
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (mythic)
-- **Secondary Checks**: Arcana , Nature , Religion
+- **Secondary Checks**: Arcana, Nature, Religion
 - **Range**: 1 mile
 - **Target(s)**: 1 community group, or settlement
 - **Duration**: 1 year

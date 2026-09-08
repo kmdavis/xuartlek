@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/wand
 - equipment/level/11
 aliases: ["Wand of Refracting Rays"]
-aon_id: "equipment-2288"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2288"
 source: "Treasure Vault (Remastered)"
 ---
 

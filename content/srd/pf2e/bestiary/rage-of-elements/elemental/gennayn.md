@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Gennayn"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Gennayn"
 level: 2
 source: "Rage of Elements"
-aon_id: "creature-2687"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2687"
 ---
 

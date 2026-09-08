@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -10,7 +9,7 @@ tags:
 - trait/wood
 - feat/level/1
 aliases: ["Timber Sentinel"]
-aon_id: "feat-4284"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4284"
 source: "Rage of Elements"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -10,7 +9,7 @@ tags:
 - trait/visual
 - spell/level/7
 aliases: ["Visions of Danger"]
-aon_id: "spell-2040"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2040"
 source: "Player Core 2"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core 2"
 `Auditory`  `Concentrate`  `Illusion`  `Manipulate`  `Visual`
 
 - **Tradition**: Occult
-- **Bloodline**: Fey
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Fey|Fey]]
 - **Range**: 500 feet
 - **Area**: 30-foot burst
 - **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Will

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Sunscale Serpent"
 tags:
@@ -14,7 +13,6 @@ statblock: inline
 name: "Sunscale Serpent"
 level: 14
 source: "Howl of the Wild"
-aon_id: "creature-3311"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3311"
 ---
 

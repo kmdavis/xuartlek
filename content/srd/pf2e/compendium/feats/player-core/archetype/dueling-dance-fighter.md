@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/stance
 - feat/level/12
 aliases: ["Dueling Dance (Fighter)"]
-aon_id: "feat-4834"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4834"
 source: "Player Core"
 ---
 
@@ -15,7 +14,7 @@ source: "Player Core"
 
 `Fighter`  `Stance`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/duelist|Duelist]] (Level 14), [[srd/pf2e/compendium/character/archetypes/duelist|Duelist]] (Level 14)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/duelist|Duelist]] (Level 14)
 - **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/dueling-parry-fighter|Dueling Parry (Fighter)]]
 - **Requirements**: You are wielding a single one-handed melee weapon and hold nothing else in your hands
 

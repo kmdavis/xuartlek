@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Goblin Scavenger"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Goblin Scavenger"
 level: 4
 source: "NPC Core"
-aon_id: "creature-3641"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3641"
 ---
 

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/uncommon
 aliases: ["Gunslinger"]
-aon_id: "class-20"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=20"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -116,7 +115,7 @@ Class Features
 
 All gunslingers have a particular way they follow, a combination of philosophy and combat style that defines both how they fight and the weapons they excel with. At 1st level, your way grants you an initial deed, a unique reload action called a slinger's reload, and proficiency with a particular skill. You also gain advanced and greater deeds at later levels, as well as access to way-specific feats.
 
- Gunslinger ways can be found here.
+ Gunslinger ways can be found [[srd/pf2e/compendium/character/ways|here]].
 
 | | |
 | --- | --- |
@@ -169,7 +168,7 @@ You've learned how to inflict greater injuries with the weapons you know best. Y
 
 You've learned a powerful new technique of your chosen way. You gain the advanced deed ability of the way you chose at 1st level.
 
- Gunslinger ways can be found here.
+ Gunslinger ways can be found [[srd/pf2e/compendium/character/ways|here]].
 
 | | |
 | --- | --- |
@@ -191,7 +190,7 @@ You've learned unique techniques for wielding firearms and crossbows that give y
 
 You've mastered the pinnacle technique of your chosen way. You gain the greater deed ability of the way you chose at 1st level.
 
- Gunslinger ways can be found here.
+ Gunslinger ways can be found [[srd/pf2e/compendium/character/ways|here]].
 
 #### Greater Weapon Specialization
 

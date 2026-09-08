@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - ritual/level/8
 aliases: ["Encroaching Woods"]
-aon_id: "ritual-209"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=209"
 source: "Battlecry!"
 ---
 
@@ -18,8 +17,8 @@ source: "Battlecry!"
 - **Cast**: 1 day
 - **Secondary Casters**: 2
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (master)
-- **Secondary Checks**: Survival , Warfare Lore
-- **Area**: a section of forest no larger than 1,000 square feet
+- **Secondary Checks**: Survival, Warfare Lore
+- **Area**: a section of forest no larger than 1, 000 square feet
 - **Range**: 100 feet
 - **Duration**: 1 week
 

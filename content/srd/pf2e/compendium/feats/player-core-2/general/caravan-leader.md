@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/general
 - feat/level/11
 aliases: ["Caravan Leader"]
-aon_id: "feat-6467"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6467"
 source: "Player Core 2"
 ---
 

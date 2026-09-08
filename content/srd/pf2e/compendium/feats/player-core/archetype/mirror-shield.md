@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/fighter
 - feat/level/10
 aliases: ["Mirror Shield"]
-aon_id: "feat-4828"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4828"
 source: "Player Core"
 ---
 
@@ -14,7 +13,7 @@ source: "Player Core"
 
 `Fighter`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/bastion|Bastion]] (Level 12), Knight Vigilant (Level 12), [[srd/pf2e/compendium/character/archetypes/bastion|Bastion]] (Level 12)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/bastion|Bastion]] (Level 12), Knight Vigilant (Level 12)
 - **Trigger**: An opponent casting a spell that targets you critically fails a spell attack roll against your AC
 - **Requirements**: You have a shield raised
 

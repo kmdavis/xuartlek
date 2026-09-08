@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/polymorph
 - spell/level/1
 aliases: ["Juvenile Companion"]
-aon_id: "spell-2754"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2754"
 source: "Impossible Magic"
 ---
 

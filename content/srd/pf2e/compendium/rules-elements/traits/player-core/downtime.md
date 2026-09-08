@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/downtime
 aliases: ["Downtime"]
-aon_id: "trait-580"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=580"
 source: "Player Core"
 ---
 

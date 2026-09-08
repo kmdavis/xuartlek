@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/rare
 - equipment/level/20
 aliases: ["Codex of Destruction and Renewal"]
-aon_id: "equipment-2173"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2173"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -16,10 +15,10 @@ source: "Treasure Vault (Remastered)"
 
 `Grimoire`  `Magical`  `Rare`
 
-- **Price**: 70,000 gp
+- **Price**: 70, 000 gp
 - **Bulk**: L
 
-An unsmiling mask, half obsidian and half ivory, is embossed on the cover of this weighty tome, the opposite color forming the background of each half. Each _codex of destruction and renewal_ is said to contain a fragment of the knowledge Nethys gained in his apotheosis and they're sacred to his church.
+An unsmiling mask, half obsidian and half ivory, is embossed on the cover of this weighty tome, the opposite color forming the background of each half. Each _codex of destruction and renewal_ is said to contain a fragment of the knowledge [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/nethys|Nethys]] gained in his apotheosis and they're sacred to his church.
 
 **Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/spellshape|spellshape]]) **Frequency** once per day; **Effect** If your next action is to cast a damage-dealing spell prepared from this grimoire, the spell wreaks even greater destruction. The spell ignores 10 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Resistance|resistance]] and you reroll any damage dice that roll a 1. If the spell reduces a creature to 0 Hit Points, they’re torn apart at an infinitesimal level, not even leaving a fine ash; this is a [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effect.
 

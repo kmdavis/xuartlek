@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -12,7 +11,7 @@ tags:
 - trait/uncommon
 - spell/level/1
 aliases: ["Spray of Stars"]
-aon_id: "spell-2075"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2075"
 source: "Player Core 2"
 ---
 
@@ -20,7 +19,7 @@ source: "Player Core 2"
 
 `Concentrate`  `Fire`  `Focus`  `Light`  `Manipulate`  `Oracle`  `Uncommon`
 
-- **Mystery**: Cosmos
+- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Cosmos|Cosmos]]
 - **Area**: 15-foot cone
 - **Defense**: Reflex
 

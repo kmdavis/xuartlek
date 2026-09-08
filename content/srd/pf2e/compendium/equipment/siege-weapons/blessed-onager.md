@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/battlecry
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - siege-weapon/level/10
 aliases: ["Blessed Onager"]
-aon_id: "siege-weapon-48"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=48"
 source: "Battlecry!"
 ---
 
@@ -17,7 +16,7 @@ source: "Battlecry!"
 
 `Holy`  `Magical`  `Mounted`  `Uncommon`
 
-- **Price**: 1,800 gp
+- **Price**: 1, 800 gp
 - **Ammunition**: anointed stones (3 gp, 4 Bulk)
 
 **Usage** mounted

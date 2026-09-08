@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -10,7 +9,7 @@ tags:
 - trait/rare
 - spell/level/10
 aliases: ["Summon Oliphaunt Of Jandelay"]
-aon_id: "spell-2162"
+aon_url: "https://2e.aonprd.com/MythicSpells.aspx?ID=2162"
 source: "War of Immortals"
 ---
 

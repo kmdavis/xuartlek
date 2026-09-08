@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -11,7 +10,7 @@ tags:
 - trait/uncommon
 - spell/level/5
 aliases: ["Spectral Advance"]
-aon_id: "spell-2052"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2052"
 source: "Player Core 2"
 ---
 

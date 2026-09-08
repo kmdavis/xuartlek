@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -9,7 +8,7 @@ tags:
 - trait/manipulate
 - spell/level/1
 aliases: ["Musical Accompaniment"]
-aon_id: "spell-2774"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2774"
 source: "Impossible Magic"
 ---
 

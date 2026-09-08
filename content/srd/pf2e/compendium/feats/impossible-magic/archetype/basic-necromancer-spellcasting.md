@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/archetype
 - feat/level/4
 aliases: ["Basic Necromancer Spellcasting"]
-aon_id: "feat-9294"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9294"
 source: "Impossible Magic"
 ---
 

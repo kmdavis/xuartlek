@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/rage
 - feat/level/16
 aliases: ["Furious Vengeance"]
-aon_id: "feat-5870"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5870"
 source: "Player Core 2"
 ---
 
@@ -15,7 +14,7 @@ source: "Player Core 2"
 
 `Barbarian`  `Rage`
 
-- **Prerequisites**: fury instinct
+- **Prerequisites**: [[srd/pf2e/compendium/character/instincts/fury|fury instinct]]
 - **Trigger**: An enemy within your melee reach critically hits you with a melee [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]].
 
 Your enemy's blow fuels your rage and provokes your immediate retaliation. Make a melee Strike against the triggering enemy.

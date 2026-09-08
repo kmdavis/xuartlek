@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
 - trait/recovery
 aliases: ["Recovery"]
-aon_id: "trait-489"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=489"
 source: "Treasure Vault (Remastered)"
 ---
 

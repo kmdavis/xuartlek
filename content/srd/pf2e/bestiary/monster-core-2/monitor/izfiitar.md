@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Izfiitar"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Izfiitar"
 level: 20
 source: "Monster Core 2"
-aon_id: "creature-4520"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4520"
 ---
 

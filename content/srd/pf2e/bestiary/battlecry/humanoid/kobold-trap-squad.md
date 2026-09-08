@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Kobold Trap Squad"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Kobold Trap Squad"
 level: 4
 source: "Battlecry!"
-aon_id: "creature-3924"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3924"
 ---
 

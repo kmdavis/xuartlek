@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - ritual/level/3
 aliases: ["Mindscape Door"]
-aon_id: "ritual-232"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=232"
 source: "Dark Archives (Remastered)"
 ---
 
@@ -19,7 +18,7 @@ source: "Dark Archives (Remastered)"
 - **Cost**: incense and focusing diagrams worth a total value of the target's level (minimum 1) × 1 gp, for each target
 - **Secondary Casters**: 3
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] or [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (expert)
-- **Secondary Checks**: Arcana or Occultism, Deception or Diplomacy , Perception
+- **Secondary Checks**: Arcana or Occultism, Deception or Diplomacy, Perception
 - **Range**: touch
 - **Target(s)**: yourself and up to 5 willing creatures
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/tattoo
 - equipment/level/10
 aliases: ["Nine Void Sleeves"]
-aon_id: "equipment-5179"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5179"
 source: "Impossible Magic"
 ---
 
@@ -16,7 +15,7 @@ source: "Impossible Magic"
 
 `Invested`  `Magical`  `Tattoo`
 
-- **Price**: 1,000 gp
+- **Price**: 1, 000 gp
 - **Usage**: tattooed on the body
 
 The ink on these tattoos, made from the crushed crystalline fangs and wingbones of sceaduinars, lends a dull purple-black hue to your arms and hands. During combat, the ink moves of its own accord, coalescing into nine smoky crystal spurs of darkness; these eerie finger-like protrusions move with an unearthly grace on your command, supplying the requisite magical gestures for your spells. 

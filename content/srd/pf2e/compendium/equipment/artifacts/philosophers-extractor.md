@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -8,7 +7,7 @@ tags:
 - trait/rare
 - equipment/level/25
 aliases: ["Philosopher's Extractor"]
-aon_id: "equipment-3122"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3122"
 source: "GM Core"
 ---
 
@@ -28,6 +27,6 @@ This bizarre machine is a complex arrangement of flasks, tubes, and other alchem
 
  However, these additional benefits come with a risk; if you drink a transmogrifying mutagen while at least one other is active, after drinking it, you must succeed at a flat check with a DC equal to the total number of active transmogrifying mutagens you've consumed. On a failure, you fully transform into a member of the species of the latest transmogrifying mutagen you drank, and you almost always go berserk from your change. The transformation may leave some amount of your personality and memories intact, at the GM's discretion.
 
-**Destruction** Simultaneously feeding the _philosopher's extractor_ sizable portions of an aeon, angel, archon, azata, daemon, demon, devil, protean, and psychopomp, each of at least 14th level, along with a [[srd/pf2e/compendium/equipment/alchemical-items/philosophers-stone|philosopher's stone]] causes the device to jam, overheat, and explode. Creatures within 60 feet of the explosion must succeed at a DC 55 Reflex save or become covered in an alchemical slurry that transforms them into a horrifying amalgam of at least two of the creatures used to destroy the machine.
+**Destruction** Simultaneously feeding the _philosopher's extractor_ sizable portions of an aeon, angel, archon, azata, daemon, demon, devil, protean, and psychopomp, each of at least 14th level, along with a philosopher's stone causes the device to jam, overheat, and explode. Creatures within 60 feet of the explosion must succeed at a DC 55 Reflex save or become covered in an alchemical slurry that transforms them into a horrifying amalgam of at least two of the creatures used to destroy the machine.
 
 *Source: GM Core p. 301*

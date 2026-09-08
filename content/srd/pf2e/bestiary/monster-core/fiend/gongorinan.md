@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Gongorinan"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Gongorinan"
 level: 11
 source: "Monster Core"
-aon_id: "creature-3155"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3155"
 ---
 
@@ -40,7 +38,7 @@ skills:
 abilityMods: [6, 6, 7, 1, 3, 4]
 abilities_top:
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/club/club|club]]_"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/club/club|club]]_"
 ac: 31
 armorclass:
   - name: "AC"

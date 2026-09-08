@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Jaathoom Shuyookh"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Jaathoom Shuyookh"
 level: 10
 source: "Rage of Elements"
-aon_id: "creature-2620"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2620"
 ---
 
@@ -82,7 +80,7 @@ abilities_bot:
   - name: "Effect"
     desc: "The shuyookh conducts a _wish_ ritual for the benefit of a mortal, requiring no cost or secondary casters. The shuyookh's result is a success if they succeed at a DC 5 flat check or a failure if not. The shuyookh's visions of the subject's future inform how it interprets the wish."
   - name: "Ominous Dreams"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/prediction|Prediction]]) The jaathoom sends a prophetic dream into the mind of a sleeping creature within 60 feet. An unwilling creature can avoid the vision if it succeeds at a DC 32 Will save. The jaathoom chooses the dream's subject but not its exact events. The target sees a brief vision of its future related to that subject, with the effect of _augury_. If the result is bad or mixed, the creature is frightened 2 and doesn't start to recover from being frightened until it wakes. Lady Dariya's Dazzling Emporium The reclusive jaathoom gem dealer and silversmith Lady Dariya crafts enchanted jewelry out of rare and unusual planar materials. She operates Lady Dariya's Dazzling Emporium in Shadow Absalom. She's also on rocky footing with Armun Kelisk and rumored to be in exile from the [[srd/pf2e/compendium/gm/planes#Plane of Air|Plane of Air]] now that Ranginori has returned."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/prediction|Prediction]]) The jaathoom sends a prophetic dream into the mind of a sleeping creature within 60 feet. An unwilling creature can avoid the vision if it succeeds at a DC 32 Will save. The jaathoom chooses the dream's subject but not its exact events. The target sees a brief vision of its future related to that subject, with the effect of _augury_. If the result is bad or mixed, the creature is frightened 2 and doesn't start to recover from being frightened until it wakes. Lady Dariya's Dazzling Emporium The reclusive jaathoom gem dealer and silversmith Lady Dariya crafts enchanted jewelry out of rare and unusual planar materials. She operates Lady Dariya's Dazzling Emporium in Shadow Absalom. She's also on rocky footing with Armun Kelisk and rumored to be in exile from the [[srd/pf2e/compendium/gm/planes#Plane of Air|Plane of Air]] now that [[srd/pf2e/compendium/deities/elemental-lords/ranginori|Ranginori]] has returned."
 spellcasting:
   - name: "Arcane Innate Spells"
     desc: "DC 30 - __Cantrips (5th)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]] - __4th__ [[srd/pf2e/compendium/spells/rank-1/ill-omen|Ill Omen]], [[srd/pf2e/compendium/spells/rank-4/vapor-form|Vapor Form]] - __5th__ [[srd/pf2e/compendium/spells/rank-2/illusory-creature|Illusory Creature]], [[srd/pf2e/compendium/spells/rank-1/illusory-object|Illusory Object]], [[srd/pf2e/compendium/spells/rank-4/nightmare|Nightmare]] (×2), [[srd/pf2e/compendium/spells/rank-5/pressure-zone|Pressure Zone]], [[srd/pf2e/compendium/spells/rank-1/sleep|Sleep]] (×2) - __7th__ [[srd/pf2e/compendium/spells/rank-7/interplanar-teleport|Interplanar Teleport]] (at will; to [[srd/pf2e/compendium/gm/planes#Astral Plane|Astral Plane]]; Elemental Planes; or Universe only)"

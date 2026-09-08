@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - equipment/level/1
 aliases: ["Sparkler"]
-aon_id: "equipment-1946"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1946"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -24,6 +23,6 @@ source: "Treasure Vault (Remastered)"
 
 A sparkler gives off colorful sparks, burning for 1 minute. It provides bright light in a 10-foot radius (and dim light for the next 10 feet). While the sparkler burns, you can use it as an improvised weapon, dealing 1 fire damage on a hit. On a critical hit, you cause the target to become [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] for 1 round.
 
- You can touch a sparkler to a flammable object as part of the same Interact action you use to Activate it or as an Interact action while the sparkler is already activated. If you do so, the sparkler can ignite flammable objects the way a [[srd/pf2e/compendium/equipment/alchemical-items/matchstick-equipment-3356|matchstick]] does.
+ You can touch a sparkler to a flammable object as part of the same Interact action you use to Activate it or as an Interact action while the sparkler is already activated. If you do so, the sparkler can ignite flammable objects the way a [[srd/pf2e/compendium/equipment/alchemical-items/matchstick|matchstick]] does.
 
 *Source: Treasure Vault (Remastered) p. 54*

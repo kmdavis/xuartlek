@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -9,7 +8,7 @@ tags:
 - trait/manipulate
 - spell/level/3
 aliases: ["Blazing Dive"]
-aon_id: "spell-2637"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2637"
 source: "Impossible Magic"
 ---
 
@@ -18,7 +17,7 @@ source: "Impossible Magic"
 `Air`  `Concentrate`  `Fire`  `Manipulate`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Mahja Firehair, Vonymos, Xiquiripat, Zursvaater
+- **Deities**: [[srd/pf2e/compendium/deities/orc-gods/mahja-firehair|Mahja Firehair]], [[srd/pf2e/compendium/deities/monitor-demigods/vonymos|Vonymos]], Xiquiripat, [[srd/pf2e/compendium/deities/giant-gods/zursvaater|Zursvaater]]
 - **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex
 
 Superheated air collects under you, buoying you high into the sky before you plummet back down in a fiery comet. You Fly 15 feet straight up into the air, then [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]] in a straight [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Line|line]] to an empty space of your choice on the ground within 60 feet. When you land, blistering air blasts out from you, dealing 3d4 bludgeoning damage and 3d6 fire damage (basic Reflex save) to all creatures in a 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]].

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -10,7 +9,7 @@ tags:
 - trait/negative
 - spell/level/3
 aliases: ["Curse of Lost Time"]
-aon_id: "spell-1985"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1985"
 source: "Player Core 2"
 ---
 
@@ -19,9 +18,9 @@ source: "Player Core 2"
 `Concentrate`  `Curse`  `Manipulate`  `Void`  `Negative`
 
 - **Traditions**: Arcane, Occult, Primal
-- **Deities**: Otilaz, Shawnari
+- **Deities**: Otilaz, [[srd/pf2e/compendium/deities/sakhil-tormentors/shawnari|Shawnari]]
 - **Range**: touch
-- **Target**: 1 Large or smaller object, construct , or living creature
+- **Target**: 1 Large or smaller object, construct, or living creature
 - **Defense**: Fortitude
 - **Duration**: varies
 

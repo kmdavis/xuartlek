@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class-sample
 tags:
 - compendium/src/pf2e/battlecry
@@ -16,7 +15,7 @@ entries: 66
 
 # Class Samples
 
-## Analyst  *Class Sample Build*
+## Analyst
 
 _Eyes ever open and mind ever turning, you single out clues and pursue them until you find the truth._
 
@@ -30,7 +29,7 @@ Prioritize Intelligence to prepare a panoply of facts and figures. Wisdom lets y
 
 ### Methodology
 
-Empiricism
+[[srd/pf2e/compendium/character/methodologies#Empiricism|Empiricism]]
 
 ### Starting Feat
 
@@ -42,7 +41,7 @@ Empiricism
 
 *Source: Player Core 2 p. 110*
 
-## Angelic Vessel  *Class Sample Build*
+## Angelic Vessel
 
 _Your eidolon is a being from the angelic hosts._
 
@@ -56,7 +55,7 @@ Improve your Charisma first, then Constitution, Dexterity, and Wisdom.
 
 ### Eidolon
 
-Angel
+[[srd/pf2e/compendium/character/eidolons/angel|Angel]]
 
 ### Higher-Level Feats
 
@@ -64,7 +63,7 @@ Angel
 
 *Source: Impossible Magic p. 82*
 
-## Animal Rager  *Class Sample Build*
+## Animal Rager
 
 _The animal within you breaks free, turning you into a feral creature of nature when you rage. You follow your instincts rather than reason, and you find yourself at home in the wilderness._
 
@@ -78,7 +77,7 @@ Increase your Strength as high as you can, followed by your Constitution and Dex
 
 ### Instinct
 
-Animal Instinct
+[[srd/pf2e/compendium/character/instincts/animal|Animal Instinct]]
 
 ### Starting Feat
 
@@ -90,7 +89,7 @@ Animal Instinct
 
 *Source: Player Core 2 p. 80*
 
-## Animal Ranger  *Class Sample Build*
+## Animal Ranger
 
 _Sharing a powerful bond, you and your beloved animal explore the wilds and fight in tandem._
 
@@ -104,7 +103,7 @@ Prioritize Dexterity, followed by Constitution and Wisdom. Take Strength if you 
 
 ### Hunter's Edge
 
-outwit
+[[srd/pf2e/compendium/character/hunters-edges#Outwit|outwit]]
 
 ### Starting Feat
 
@@ -116,7 +115,7 @@ outwit
 
 *Source: Player Core p. 160*
 
-## Arcane Fist  *Class Sample Build*
+## Arcane Fist
 
 _Magic empowers your unarmed attacks._
 
@@ -138,7 +137,7 @@ Laughing shadow
 
 *Source: Impossible Magic p. 18*
 
-## Arcane Scrapper  *Class Sample Build*
+## Arcane Scrapper
 
 _You infuse spell energy into a massive weapon._
 
@@ -160,7 +159,7 @@ Inexorable iron
 
 *Source: Impossible Magic p. 16*
 
-## Archer  *Class Sample Build*
+## Archer
 
 _You take out your opponents from a distance with ranged weapons, and you excel at dispatching flying or other hard-to-reach enemies._
 
@@ -182,7 +181,7 @@ Prioritize Dexterity. Constitution and Wisdom helps with survivability, and Stre
 
 *Source: Player Core p. 148*
 
-## Armor Inventor  *Class Sample Build*
+## Armor Inventor
 
 _You’ve created an experimental armor that protects you while you go toe to toe with foes._
 
@@ -196,7 +195,7 @@ Prioritize Strength for melee combat and Intelligence for your inventor abilitie
 
 ### Innovation
 
-Armor
+[[srd/pf2e/compendium/character/innovations#Armor|Armor]]
 
 ### Starting Feat
 
@@ -208,7 +207,7 @@ Armor
 
 *Source: Guns & Gears (Remastered) p. 26*
 
-## Blood Puppeteer  *Class Sample Build*
+## Blood Puppeteer
 
 _You call upon bloody thralls to fight in your stead. They roam the battlefield, draining the blood from your foes._
 
@@ -234,7 +233,7 @@ Blood
 
 *Source: Impossible Magic p. 38*
 
-## Bodyguard  *Class Sample Build*
+## Bodyguard
 
 _You’ve chosen a particular ally to protect and will go to extreme ends—even putting your own life on the line—to protect them._
 
@@ -256,7 +255,7 @@ Constitution will maximize your health, and Strength will allow you to better re
 
 *Source: Battlecry! p. 44*
 
-## Bomber  *Class Sample Build*
+## Bomber
 
 _You can mix an explosive out of just about anything!_
 
@@ -270,7 +269,7 @@ Prioritize Intelligence and Dexterity. Constitution helps you survive explosions
 
 ### Research Field
 
-Bomber
+[[srd/pf2e/compendium/character/research-fields#Bomber|Bomber]]
 
 ### Starting Feat
 
@@ -282,7 +281,7 @@ Bomber
 
 *Source: Player Core 2 p. 66*
 
-## Bully  *Class Sample Build*
+## Bully
 
 _Using a two-handed weapon, you push your foes about the battlefield and deal grievous wounds. You excel at taking down the biggest enemy standing in your way._
 
@@ -304,7 +303,7 @@ Prioritizing Strength and Constitution. Wisdom helps with survivability and incr
 
 *Source: Player Core p. 144*
 
-## Celestial Archer  *Class Sample Build*
+## Celestial Archer
 
 _You're a hero of the people, your singular focus on the bow inspiring songs and legends._
 
@@ -333,7 +332,7 @@ The Radiant, Of Verse Unbroken, Thief of Moonlight
 
 *Source: War of Immortals p. 40*
 
-## Chemist  *Class Sample Build*
+## Chemist
 
 _With carefully formulated chemical compounds, you find chemical clues at crime scenes and boost your investigative acumen with mutagens and other elixirs._
 
@@ -347,7 +346,7 @@ Prioritize Intelligence for your alchemy and deductive reasoning. Dexterity help
 
 ### Methodology
 
-Alchemical sciences
+[[srd/pf2e/compendium/character/methodologies#Alchemical Sciences|Alchemical sciences]]
 
 ### Starting Feat
 
@@ -359,7 +358,7 @@ Alchemical sciences
 
 *Source: Player Core 2 p. 112*
 
-## Chirurgeon  *Class Sample Build*
+## Chirurgeon
 
 _You use alchemy for medicinal purposes, healing and protecting others across the lands._
 
@@ -373,7 +372,7 @@ Prioritize Intelligence and Wisdom. Constitution increases your survivability, a
 
 ### Research Field
 
-Chirurgeon
+[[srd/pf2e/compendium/character/research-fields#Chirurgeon|Chirurgeon]]
 
 ### Starting Feat
 
@@ -385,7 +384,7 @@ Chirurgeon
 
 *Source: Player Core 2 p. 64*
 
-## Coroner  *Class Sample Build*
+## Coroner
 
 _When someone finds a body, you’re first on the scene. You share the clues you learn through keen observation with your team to ensure you always apprehend the culprit._
 
@@ -399,7 +398,7 @@ Intelligence comes first, followed by Wisdom to support your perceptiveness and 
 
 ### Methodology
 
-Forensic medicine
+[[srd/pf2e/compendium/character/methodologies#Forensic Medicine|Forensic medicine]]
 
 ### Starting Feat
 
@@ -411,7 +410,7 @@ Forensic medicine
 
 *Source: Player Core 2 p. 108*
 
-## Creation's Beast  *Class Sample Build*
+## Creation's Beast
 
 _You are a beast unleashed onto the mortal Universe to exact vengeance and defeat those the gods have placed in your way._
 
@@ -439,7 +438,7 @@ The Prideful, Born of the Bones of the Earth, Teacher of Heroes
 
 *Source: War of Immortals p. 42*
 
-## Dancer  *Class Sample Build*
+## Dancer
 
 _Through myriad styles of dance, you inspire your allies and channel otherworldly magic._
 
@@ -453,7 +452,7 @@ Make Charisma highest, followed by Dexterity. Add to Constitution for more healt
 
 ### Muse
 
-Maestro
+[[srd/pf2e/compendium/character/muses#Maestro|Maestro]]
 
 ### Higher-Level Feats
 
@@ -461,7 +460,7 @@ Maestro
 
 *Source: Player Core p. 102*
 
-## Draconic Scion  *Class Sample Build*
+## Draconic Scion
 
 _Through fate or design, you count a powerful dragon as one of your ancestors. You consider this a mark of great honor and believe that you can use your power to better the world. Woe betide any villains who stand in your way!_
 
@@ -475,7 +474,7 @@ Prioritize Charisma. Intelligence will help you learn more skills, and a good De
 
 ### Bloodline
 
-Draconic (Fortune Dragon)
+[[srd/pf2e/compendium/character/bloodlines#Draconic|Draconic (Fortune Dragon)]]
 
 ### Higher-Level Feats
 
@@ -483,7 +482,7 @@ Entreat with Forebears (2nd), [[srd/pf2e/compendium/feats/player-core-2/archetyp
 
 *Source: Player Core 2 p. 156*
 
-## Drifter  *Class Sample Build*
+## Drifter
 
 _With a gun in one hand and a blade or club in the other, you strike and move, never standing still._
 
@@ -497,7 +496,7 @@ Prioritize Dexterity, followed by Strength and Constitution.
 
 ### Way
 
-Drifter
+[[srd/pf2e/compendium/character/ways#Way of the Drifter|Drifter]]
 
 ### Starting Feat
 
@@ -509,7 +508,7 @@ Drifter
 
 *Source: Guns & Gears (Remastered) p. 114*
 
-## Dual-Weapon Magus  *Class Sample Build*
+## Dual-Weapon Magus
 
 _Your magic flows easily through the two deadly weapons you wield._
 
@@ -531,7 +530,7 @@ Twofold twine
 
 *Source: Impossible Magic p. 22*
 
-## Duelist  *Class Sample Build*
+## Duelist
 
 _With one hand free and a blade in the others, you are adept at foiling your opponents by way of misdirection, disarming strikes, and by always being ready for their clumsy attacks._
 
@@ -553,7 +552,7 @@ Prioritize Strength. Dexterity and Wisdom help with survivability and versatilit
 
 *Source: Player Core p. 146*
 
-## Element Explorer  *Class Sample Build*
+## Element Explorer
 
 _You grow your elemental magic over time until eventually you can attune to all six elements.
 _
@@ -580,7 +579,7 @@ Constitution, Dexterity, Charisma
 
 *Source: Rage of Elements p. 20*
 
-## Fencer  *Class Sample Build*
+## Fencer
 
 _You befuddle your foes with deft movements, feints, and traps, leading them into your cunning counterattacks._
 
@@ -606,7 +605,7 @@ Fencer
 
 *Source: Player Core 2 p. 168*
 
-## Flame Augur  *Class Sample Build*
+## Flame Augur
 
 _You are a flaming force to be reckoned with on the battlefield, blasting foes near and far with powerful, wide-ranging spells._
 
@@ -620,7 +619,7 @@ Prioritize Charisma for your spellcasting and Dexterity to help keep you out of 
 
 ### Mystery
 
-Flames
+[[srd/pf2e/compendium/character/mysteries#Flames|Flames]]
 
 ### Higher-Level Feats
 
@@ -628,7 +627,7 @@ Flames
 
 *Source: Player Core 2 p. 136*
 
-## Flesh Puppeteer  *Class Sample Build*
+## Flesh Puppeteer
 
 _You fill the battlefield with flesh, slowing your enemy’s advance to a halt._
 
@@ -654,7 +653,7 @@ Flesh
 
 *Source: Impossible Magic p. 40*
 
-## Fury  *Class Sample Build*
+## Fury
 
 _You keep things simple, because you need only one thing to drive you: your own inner rage._
 
@@ -668,7 +667,7 @@ Prioritize your Strength, then your Constitution and Dexterity. Wisdom can make 
 
 ### Instinct
 
-Fury instinct
+[[srd/pf2e/compendium/character/instincts/fury|Fury instinct]]
 
 ### Starting Feat
 
@@ -680,7 +679,7 @@ Fury instinct
 
 *Source: Player Core 2 p. 84*
 
-## God Caller  *Class Sample Build*
+## God Caller
 
 _Your eidolon is a god born of the land’s life force._
 
@@ -694,7 +693,7 @@ Focus on Charisma, Constitution, and then Strength.
 
 ### Eidolon
 
-Beast
+[[srd/pf2e/compendium/character/eidolons/beast|Beast]]
 
 ### Higher-Level Feats
 
@@ -702,7 +701,7 @@ Beast
 
 *Source: Impossible Magic p. 84*
 
-## Gozren  *Class Sample Build*
+## Gozren
 
 _Following the Wind and the Waves, you protect the beauty of nature in all its forms._
 
@@ -716,11 +715,11 @@ Take Wisdom for your spellcasting and Strength for attacks.
 
 ### Deity
 
-Gozreh (divine font: [[srd/pf2e/compendium/spells/rank-1/heal|_heal_]])
+[[srd/pf2e/compendium/deities/gods-of-the-inner-sea/gozreh|Gozreh]] (divine font: [[srd/pf2e/compendium/spells/rank-1/heal|_heal_]])
 
 ### Doctrine
 
-warpriest
+[[srd/pf2e/compendium/character/doctrines#Warpriest|warpriest]]
 
 ### Higher-Level Feats
 
@@ -728,7 +727,7 @@ warpriest
 
 *Source: Player Core p. 118*
 
-## Guided Blade  *Class Sample Build*
+## Guided Blade
 
 _Your mystery guides your weapons in the trance of battle. You use your magic primarily to empower yourself, rather than targeting your enemies, so that your Strikes hit home._
 
@@ -742,7 +741,7 @@ Since you’ll be using your spells on yourself more than your enemies, aim for 
 
 ### Mystery
 
-Battle
+[[srd/pf2e/compendium/character/mysteries#Battle|Battle]]
 
 ### Higher-Level Feats
 
@@ -750,7 +749,7 @@ Battle
 
 *Source: Player Core 2 p. 142*
 
-## Hammer of Torag  *Class Sample Build*
+## Hammer of Torag
 
 _Your runes carry the divine might of a hammer’s blow._
 
@@ -772,7 +771,7 @@ Prioritize Intelligence first, then Strength and Wisdom.
 
 *Source: Impossible Magic p. 56*
 
-## Hedge Witch  *Class Sample Build*
+## Hedge Witch
 
 _With an eccentric personality and unconventional magic, you and your familiar support your allies and undermine your enemies._
 
@@ -786,11 +785,11 @@ Intelligence fuels your spells. Dexterity and Constitution provide solid defense
 
 ### Lessons
 
-Basic: protection; greater: mischief; major: renewal
+Basic: [[srd/pf2e/compendium/character/lessons#Lesson of Protection|protection]]; greater: [[srd/pf2e/compendium/character/lessons#Lesson of Mischief|mischief]]; major: [[srd/pf2e/compendium/character/lessons#Lesson of Renewal|renewal]]
 
 ### Patron
 
-Spinner of threads
+[[srd/pf2e/compendium/character/patrons#Spinner of Threads|Spinner of threads]]
 
 ### Higher-Level Feats
 
@@ -798,7 +797,7 @@ Spinner of threads
 
 *Source: Player Core p. 188*
 
-## Ice Witch  *Class Sample Build*
+## Ice Witch
 
 _With a heart of ice, perhaps inherited from your patron, you command the chill winds and biting cold of winter._
 
@@ -812,11 +811,11 @@ Intelligence is crucial for your spells. Wisdom makes you perceptive and support
 
 ### Lessons
 
-Basic: elements; greater: snow; major: death
+Basic: [[srd/pf2e/compendium/character/lessons#Lesson of the Elements|elements]]; greater: [[srd/pf2e/compendium/character/lessons#Lesson of Snow|snow]]; major: [[srd/pf2e/compendium/character/lessons#Lesson of Death|death]]
 
 ### Patron
 
-Silence in Snow
+[[srd/pf2e/compendium/character/patrons#Silence in Snow|Silence in Snow]]
 
 ### Higher-Level Feats
 
@@ -824,7 +823,7 @@ Silence in Snow
 
 *Source: Player Core p. 190*
 
-## Intimidating Protector  *Class Sample Build*
+## Intimidating Protector
 
 _The mere sight of you sends chills down your enemies’ spines, and your reputation for feats of martial prowess is well-earned._
 
@@ -846,7 +845,7 @@ Prioritize Strength and Constitution for maximum effectiveness in a fight. In ad
 
 *Source: Battlecry! p. 48*
 
-## Leaf Druid  *Class Sample Build*
+## Leaf Druid
 
 _You’re a nurturing caretaker in tune with the natural world and the magic of life. A little plant creature called a leshy accompanies you._
 
@@ -872,7 +871,7 @@ Leaf
 
 *Source: Player Core p. 134*
 
-## Lifebringer  *Class Sample Build*
+## Lifebringer
 
 _You focus on supportive magic, channel divine power into healing energy for your allies to keep them standing._
 
@@ -886,7 +885,7 @@ Focus on Charisma to boost your magic, and Wisdom and Intelligence to help under
 
 ### Mystery
 
-Life
+[[srd/pf2e/compendium/character/mysteries#Life|Life]]
 
 ### Higher-Level Feats
 
@@ -894,7 +893,7 @@ Life
 
 *Source: Player Core 2 p. 140*
 
-## Lorekeeper  *Class Sample Build*
+## Lorekeeper
 
 _You use tomes to channel knowledge._
 
@@ -916,7 +915,7 @@ Raise Charisma as well as other mental abilities, plus Constitution for survivab
 
 *Source: Dark Archives (Remastered) p. 46*
 
-## Medium  *Class Sample Build*
+## Medium
 
 _You share your body with an apparition of unyielding stone and burning flame, letting that strength and fervor flow through you._
 
@@ -930,7 +929,7 @@ Focus on Wisdom to boost your magic, followed by Strength and Constitution for s
 
 ### Preferred Primary Apparition
 
-Steward of Stone and Fire
+[[srd/pf2e/compendium/character/apparitions#Steward of Stone and Fire|Steward of Stone and Fire]]
 
 ### Animist Practice
 
@@ -942,7 +941,7 @@ Medium
 
 *Source: War of Immortals p. 24*
 
-## Mindbender  *Class Sample Build*
+## Mindbender
 
 _You excel at bypassing threats without violence, using mental nudges and illusions to fool the senses._
 
@@ -956,7 +955,7 @@ Prioritize Intelligence. Increase Dexterity and Charisma so you can sneak and de
 
 ### Arcane School
 
-School of Mentalism
+[[srd/pf2e/compendium/character/arcane-schools#School of Mentalism|School of Mentalism]]
 
 ### Thesis
 
@@ -968,7 +967,7 @@ Spell blending
 
 *Source: Player Core p. 202*
 
-## Mutagenist  *Class Sample Build*
+## Mutagenist
 
 _You transform yourself and others with mutagens._
 
@@ -982,7 +981,7 @@ Prioritize Intelligence and Strength. Constitution helps you survive transformat
 
 ### Research Field
 
-Mutagenist
+[[srd/pf2e/compendium/character/research-fields#Mutagenist|Mutagenist]]
 
 ### Starting Feat
 
@@ -994,7 +993,7 @@ Mutagenist
 
 *Source: Player Core 2 p. 68*
 
-## Nomadic Visionary  *Class Sample Build*
+## Nomadic Visionary
 
 _Your powers let you cross any gulf as you seek new experiences._
 
@@ -1020,7 +1019,7 @@ The Unbound Step
 
 *Source: Dark Archives (Remastered) p. 28*
 
-## Officer  *Class Sample Build*
+## Officer
 
 _Your military training involved a formal officer’s school and training in complicated battlefield tactics._
 
@@ -1034,7 +1033,7 @@ Prioritize Intelligence for your tactics and class DCs and Dexterity to improve 
 
 ### Starting Tactics
 
-Double Team, Gather to Me!, Passage of Lines, Pincer Attack, Tactical Takedown
+[[srd/pf2e/compendium/character/tactics#Double Team|Double Team]], [[srd/pf2e/compendium/character/tactics#Gather to Me!|Gather to Me!]], [[srd/pf2e/compendium/character/tactics#Passage of Lines|Passage of Lines]], [[srd/pf2e/compendium/character/tactics#Pincer Attack|Pincer Attack]], [[srd/pf2e/compendium/character/tactics#Tactical Takedown|Tactical Takedown]]
 
 ### Starting Feat
 
@@ -1046,7 +1045,7 @@ Double Team, Gather to Me!, Passage of Lines, Pincer Attack, Tactical Takedown
 
 *Source: Battlecry! p. 32*
 
-## Pharasmin  *Class Sample Build*
+## Pharasmin
 
 _A follower of the Lady of Graves, you respect the sanctity of both life and death._
 
@@ -1060,11 +1059,11 @@ Prioritize Wisdom. Charisma helps you spread the word of your faith.
 
 ### Deity
 
-cloistered cleric ([[srd/pf2e/compendium/character/domains#Death|death]] domain)
+[[srd/pf2e/compendium/character/doctrines#Cloistered Cleric|cloistered cleric]] ([[srd/pf2e/compendium/character/domains#Death|death]] domain)
 
 ### Doctrine
 
-Pharasma (divine font: [[srd/pf2e/compendium/spells/rank-1/heal|_heal_]])
+[[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma]] (divine font: [[srd/pf2e/compendium/spells/rank-1/heal|_heal_]])
 
 ### Higher-Level Feats
 
@@ -1072,7 +1071,7 @@ Pharasma (divine font: [[srd/pf2e/compendium/spells/rank-1/heal|_heal_]])
 
 *Source: Player Core p. 120*
 
-## Pillar of Resolve  *Class Sample Build*
+## Pillar of Resolve
 
 _Determination is all you need to move obstacles out of your way. _
 
@@ -1098,7 +1097,7 @@ The Distant Grasp
 
 *Source: Dark Archives (Remastered) p. 26*
 
-## Pistolero  *Class Sample Build*
+## Pistolero
 
 _Quick wits and faster hands mean you're always ready for anything._
 
@@ -1112,7 +1111,7 @@ Prioritize Dexterity, followed by Charisma and Constitution.
 
 ### Way
 
-Pistolero
+[[srd/pf2e/compendium/character/ways#Way of the Pistolero|Pistolero]]
 
 ### Starting Feat
 
@@ -1124,7 +1123,7 @@ Dual-Weapon Reload
 
 *Source: Guns & Gears (Remastered) p. 116*
 
-## Protector  *Class Sample Build*
+## Protector
 
 _You use amulets to defend yourself and allies._
 
@@ -1146,7 +1145,7 @@ Raise Charisma, Constitution, and enough Strength and Dexterity for your armor.
 
 *Source: Dark Archives (Remastered) p. 44*
 
-## Qi Monk  *Class Sample Build*
+## Qi Monk
 
 _Centering yourself, you call forth the internal magical energy that dwells within all living things. This qi can empower your body or flash out as pure energy._
 
@@ -1168,9 +1167,9 @@ Prioritize Strength. Wisdom empowers your qi spells, Perception, and Will saves.
 
 *Source: Player Core 2 p. 122*
 
-## Redeemer  *Class Sample Build*
+## Redeemer
 
-_Your truth and compassion glow strong as the sun, bringing the wicked into the light of your goddess, the Dawnflower._
+_Your truth and compassion glow strong as the sun, bringing the wicked into the light of your goddess, the [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/sarenrae|Dawnflower]]._
 
 ### Attributes
 
@@ -1182,7 +1181,7 @@ Take a high Strength for your combat abilities, and a good Charisma for your dev
 
 ### Deity, Sanctification, and Cause
 
-Sarenrae, [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]], and redemption
+[[srd/pf2e/compendium/deities/gods-of-the-inner-sea/sarenrae|Sarenrae]], [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]], and [[srd/pf2e/compendium/character/causes#Redemption|redemption]]
 
 ### Starting Feat
 
@@ -1194,7 +1193,7 @@ Sarenrae, [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]], a
 
 *Source: Player Core 2 p. 96*
 
-## Ruffian  *Class Sample Build*
+## Ruffian
 
 _You rely on brute force and underhanded deeds to get the job done._
 
@@ -1208,7 +1207,7 @@ Prioritize Dexterity, plus Strength to deal extra damage. Charisma helps you int
 
 ### Rogue's Racket
 
-Ruffian
+[[srd/pf2e/compendium/character/rackets#Ruffian|Ruffian]]
 
 ### Starting Feat
 
@@ -1220,7 +1219,7 @@ Ruffian
 
 *Source: Player Core p. 174*
 
-## Rune Thrower  *Class Sample Build*
+## Rune Thrower
 
 _With a flick of your wrist, you puncture your foes with rune-covered knives._
 
@@ -1242,7 +1241,7 @@ Intelligence should be your highest modifier, followed by Dexterity for accuracy
 
 *Source: Impossible Magic p. 58*
 
-## Runic Duelist  *Class Sample Build*
+## Runic Duelist
 
 _Your knowledge of runes makes you a deadly opponent in duels._
 
@@ -1264,7 +1263,7 @@ Intelligence makes your runes more difficult to resist. Increase Dexterity and S
 
 *Source: Impossible Magic p. 54*
 
-## Seer  *Class Sample Build*
+## Seer
 
 _After meeting your apparition in a dark place, you can more easily see the things that lurk beyond the sight of others._
 
@@ -1278,7 +1277,7 @@ Prioritize Wisdom for your spellcasting and Dexterity to improve your defenses a
 
 ### Preferred Primary Apparition
 
-Impostor in Hidden Places
+[[srd/pf2e/compendium/character/apparitions#Impostor in Hidden Places|Impostor in Hidden Places]]
 
 ### Animist Practice
 
@@ -1290,7 +1289,7 @@ Seer
 
 *Source: War of Immortals p. 20*
 
-## Shield Expert  *Class Sample Build*
+## Shield Expert
 
 _Your shield is like an additional limb—you’re never without it, and you understand how to use it almost instinctively._
 
@@ -1312,7 +1311,7 @@ Strength will help you hit harder when you attack, and Constitution will allow y
 
 *Source: Battlecry! p. 46*
 
-## Sky King Eternal  *Class Sample Build*
+## Sky King Eternal
 
 _You brave the cold for your charges, believing it's your obligation to shelter them from the dangers of the Outer Planes._
 
@@ -1340,7 +1339,7 @@ The Mournful, Peerless Under Heaven, The Last Ruler
 
 *Source: War of Immortals p. 38*
 
-## Sniper  *Class Sample Build*
+## Sniper
 
 _You favor long-range guns and powerful shots taken while hiding at a safe distance.
 _
@@ -1355,7 +1354,7 @@ Prioritize Dexterity. Wisdom can improve your Perception and make your stubborn 
 
 ### Way
 
-Sniper
+[[srd/pf2e/compendium/character/ways#Way of the Sniper|Sniper]]
 
 ### Starting Feat
 
@@ -1367,7 +1366,7 @@ Sniper
 
 *Source: Guns & Gears (Remastered) p. 118*
 
-## Spell Sniper  *Class Sample Build*
+## Spell Sniper
 
 _Your spells fly as swift and true as your arrows._
 
@@ -1389,7 +1388,7 @@ Starlit span
 
 *Source: Impossible Magic p. 20*
 
-## Spellshooter  *Class Sample Build*
+## Spellshooter
 
 _Your magic explodes from the bullets of your firearm._
 
@@ -1411,7 +1410,7 @@ Volatile Spark
 
 *Source: Impossible Magic p. 24*
 
-## Spellshot  *Class Sample Build*
+## Spellshot
 
 _You use a little bit of a magic and a whole lot of firepower to make your mark on the world._
 
@@ -1425,7 +1424,7 @@ Prioritize Dexterity first, followed by Intelligence.
 
 ### Way
 
-Spellshot
+[[srd/pf2e/compendium/character/ways#Way of the Spellshot|Spellshot]]
 
 ### Starting Feat
 
@@ -1437,7 +1436,7 @@ Spellshot
 
 *Source: Guns & Gears (Remastered) p. 141*
 
-## Spirit Reaper  *Class Sample Build*
+## Spirit Reaper
 
 _You channel spirits into your body before wading into battle, spreading terror in your wake._
 
@@ -1463,7 +1462,7 @@ Spirit
 
 *Source: Impossible Magic p. 36*
 
-## Standard-Bearer  *Class Sample Build*
+## Standard-Bearer
 
 _You gained your military training and leadership through direct combat experience, and now you march at the front with your banner held high._
 
@@ -1477,7 +1476,7 @@ Prioritize Intelligence for your tactics and class DCs, Strength to improve your
 
 ### Starting Tactics
 
-Coordinating Maneuvers , Defensive Retreat, Mountaineering Training, End It!, Strike Hard!
+[[srd/pf2e/compendium/character/tactics#Coordinating Maneuvers|Coordinating Maneuvers]] , [[srd/pf2e/compendium/character/tactics#Defensive Retreat|Defensive Retreat]], [[srd/pf2e/compendium/character/tactics#Mountaineering Training|Mountaineering Training]], [[srd/pf2e/compendium/character/tactics#End it!|End It!]], [[srd/pf2e/compendium/character/tactics#Strike Hard!|Strike Hard!]]
 
 ### Starting Feat
 
@@ -1489,7 +1488,7 @@ Coordinating Maneuvers , Defensive Retreat, Mountaineering Training, End It!, St
 
 *Source: Battlecry! p. 34*
 
-## Storm Druid  *Class Sample Build*
+## Storm Druid
 
 _You call upon the power of nature to let loose bolts of lightning, intense weather, and elemental spells._
 
@@ -1511,7 +1510,7 @@ storm
 
 *Source: Player Core p. 132*
 
-## Student of the Void  *Class Sample Build*
+## Student of the Void
 
 _Your magic summons spirits, transports you, and lets you channel the energy of other planes. You know about odd creatures and distant realms._
 
@@ -1525,7 +1524,7 @@ Prioritize Intelligence. Dexterity, Constitution, and Wisdom round out your defe
 
 ### Arcane School
 
-School of the Boundary
+[[srd/pf2e/compendium/character/arcane-schools#School of the Boundary|School of the Boundary]]
 
 ### Thesis
 
@@ -1537,7 +1536,7 @@ Improved familiar attunement
 
 *Source: Player Core p. 200*
 
-## Student of Thoughts  *Class Sample Build*
+## Student of Thoughts
 
 _You hear and learn from other minds to grow your knowledge._
 
@@ -1563,7 +1562,7 @@ The Silent Whisper
 
 *Source: Dark Archives (Remastered) p. 22*
 
-## Trickster  *Class Sample Build*
+## Trickster
 
 _You use mirrors to confound and control areas._
 
@@ -1585,7 +1584,7 @@ Raise Charisma, Constitution, and Dexterity or Strength, depending on your weapo
 
 *Source: Dark Archives (Remastered) p. 40*
 
-## Untamed Druid  *Class Sample Build*
+## Untamed Druid
 
 _Taking on the shapes of dangerous creatures, you fight with feral intensity. Though you trust your instincts, you might mistrust the ways of polite society._
 
@@ -1607,7 +1606,7 @@ untamed
 
 *Source: Player Core p. 130*
 
-## Weapon Inventor  *Class Sample Build*
+## Weapon Inventor
 
 _You've created an experimental weapon, in this case a bow, to wreak havoc on your foes from afar._
 
@@ -1621,7 +1620,7 @@ Prioritize Intelligence for your inventor abilities and Dexterity to hit with yo
 
 ### Innovation
 
-Weapon
+[[srd/pf2e/compendium/character/innovations#Weapon|Weapon]]
 
 ### Starting Feat
 

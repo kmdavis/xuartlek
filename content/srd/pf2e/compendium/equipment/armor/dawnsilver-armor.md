@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
 - trait/uncommon
 - equipment/level/12
 aliases: ["Dawnsilver Armor"]
-aon_id: "equipment-2799"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2799"
 source: "GM Core"
 ---
 
@@ -16,7 +15,7 @@ source: "GM Core"
 
 - **Usage**: worn armor
 - **Bulk**: varies by armor
-- **Base Material**: [[srd/pf2e/compendium/equipment/materials/dawnsilver-object-high-grade|Dawnsilver]]
+- **Base Material**: [[srd/pf2e/compendium/equipment/materials/dawnsilver|Dawnsilver]]
 
 Dawnsilver armor is 1 Bulk lighter than normal (or light Bulk if its normal Bulk is 1, with no effect on armor that normally has light Bulk). It’s easier to wear than normal metal armor, reducing the Strength modifier necessary to ignore its check penalty by 1 and reducing its Speed penalty by 5 feet.
 

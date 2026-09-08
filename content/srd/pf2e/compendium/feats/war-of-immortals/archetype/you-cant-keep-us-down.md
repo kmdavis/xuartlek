@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -7,7 +6,7 @@ tags:
 - trait/mythic
 - feat/level/14
 aliases: ["You Can't Keep Us Down"]
-aon_id: "feat-7363"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7363"
 source: "War of Immortals"
 ---
 

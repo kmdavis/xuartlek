@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - equipment/level/20
 aliases: ["Beguiling Crown"]
-aon_id: "equipment-2136"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2136"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -17,7 +16,7 @@ source: "Treasure Vault (Remastered)"
 
 `Apex`  `Invested`  `Magical`  `Uncommon`
 
-- **Price**: 80,000 gp
+- **Price**: 80, 000 gp
 - **Usage**: worn headwear
 - **Bulk**: 2
 

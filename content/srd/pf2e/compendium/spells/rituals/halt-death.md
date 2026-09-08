@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/battlecry
@@ -8,7 +7,7 @@ tags:
 - trait/positive
 - ritual/level/10
 aliases: ["Halt Death"]
-aon_id: "ritual-210"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=210"
 source: "Battlecry!"
 ---
 
@@ -17,10 +16,10 @@ source: "Battlecry!"
 `Rare`  `Vitality`  `Positive`
 
 - **Cast**: 8 hours
-- **Cost**: an hourglass filled with ebon sand, worth at least 10,000 gp
+- **Cost**: an hourglass filled with ebon sand, worth at least 10, 000 gp
 - **Secondary Casters**: 3
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/lore|Warfare Lore]] (legendary)
-- **Secondary Checks**: Medicine , Occultism , Pharasma Lore
+- **Secondary Checks**: Medicine, Occultism, Pharasma Lore
 - **Area**: 1-mile-radius [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] centered on you
 - **Target(s)**: all living creatures
 - **Duration**: 1 day
@@ -33,6 +32,6 @@ While death may be war’s stock and trade, you attempt to momentarily delay the
 
 **Failure** The ritual has no effect.
 
-**Critical Failure** Attempting to stave off death earns Pharasma’s ire. You and all the secondary casters become [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]] 2. This condition can’t be reduced or removed for 1 week.
+**Critical Failure** Attempting to stave off death earns [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma’s]] ire. You and all the secondary casters become [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]] 2. This condition can’t be reduced or removed for 1 week.
 
 *Source: Battlecry! p. 93*

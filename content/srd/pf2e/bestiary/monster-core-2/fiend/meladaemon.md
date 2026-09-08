@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Meladaemon"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Meladaemon"
 level: 11
 source: "Monster Core 2"
-aon_id: "creature-4305"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4305"
 ---
 
@@ -77,7 +75,7 @@ abilities_bot:
   - name: "Stage 6"
     desc: "dead"
   - name: "Withering Touch"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]]) When the meladaemon hits with a claw Strike or a creature begins its turn [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] by the meladaemon, the creature must attempt a DC 30 Fortitude save. On a failure, the creature takes 1d6 void damage and becomes [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]]. This fatigue ends when the creature drinks. Formed In His Image Meladaemons have always been gaunt and bestial, but they didn't always resemble jackals. When Trelmarixian overthrew the previous Apocalypse Rider of Famine, one of his first acts as a ruler of [[srd/pf2e/compendium/gm/planes#Abaddon|Abaddon]] was to forcibly twist the appearance of his deacon caste to resemble his own wicked form. He went on to imbue meladaemons with other jackal-like aspects as it suited him, further warping them and cementing their fealty."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]]) When the meladaemon hits with a claw Strike or a creature begins its turn [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] by the meladaemon, the creature must attempt a DC 30 Fortitude save. On a failure, the creature takes 1d6 void damage and becomes [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]]. This fatigue ends when the creature drinks. Formed In His Image Meladaemons have always been gaunt and bestial, but they didn't always resemble jackals. When [[srd/pf2e/compendium/deities/apocalypse-riders/trelmarixian|Trelmarixian]] overthrew the previous Apocalypse Rider of Famine, one of his first acts as a ruler of [[srd/pf2e/compendium/gm/planes#Abaddon|Abaddon]] was to forcibly twist the appearance of his deacon caste to resemble his own wicked form. He went on to imbue meladaemons with other jackal-like aspects as it suited him, further warping them and cementing their fealty."
 spellcasting:
   - name: "Divine Innate Spells"
     desc: "DC 31 - __4th__ [[srd/pf2e/compendium/spells/rank-4/translocate|Translocate]] (at will) - __5th__ [[srd/pf2e/compendium/spells/rank-4/translocate|Translocate]], [[srd/pf2e/compendium/spells/rank-1/fear|Fear]], [[srd/pf2e/compendium/spells/rank-1/force-barrage|Force Barrage]] (at will) - __6th__ [[srd/pf2e/compendium/spells/rank-1/phantom-pain|Phantom Pain]]"

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/1
 aliases: ["Restyle"]
-aon_id: "spell-2803"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2803"
 source: "Impossible Magic"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/player-core-2
@@ -9,7 +8,7 @@ tags:
 - trait/trap
 - equipment/level/16
 aliases: ["Omnidirectional Spear Snare"]
-aon_id: "equipment-3380"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3380"
 source: "Player Core 2"
 ---
 
@@ -17,8 +16,8 @@ source: "Player Core 2"
 
 `Consumable`  `Mechanical`  `Snare`  `Trap`
 
-- **Price**: 1,500 gp
+- **Price**: 1, 500 gp
 
-As soon as a creature enters the snare's square, the snare unleashes wickedly powerful spears at the creature from all directions, dealing 15d8 piercing damage (DC 37 [[srd/pf2e/compendium/rules-elements/actions/howl-of-the-wild|basic]] Reflex save).
+As soon as a creature enters the snare's square, the snare unleashes wickedly powerful spears at the creature from all directions, dealing 15d8 piercing damage (DC 37 basic Reflex save).
 
 *Source: Player Core 2 p. 299*

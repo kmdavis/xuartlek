@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - equipment/level/1
 aliases: ["Alicorn Hair"]
-aon_id: "equipment-3254"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3254"
 source: "Howl of the Wild"
 ---
 

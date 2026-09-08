@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/rage-of-elements
 aliases: ["Elemental, Wood"]
-aon_id: "creature-family-345"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=345"
 source: "Rage of Elements"
 ---
 
@@ -24,7 +23,7 @@ At first glance, wood elementals might not seem to have the same destructive pot
 
 ### A Brain By Any Other Name
 
-Even if Lady Shumunue taught the wood elementals' ancestors to mimic animals, a wood elemental's consciousness is contained not in a brain but in its root system. Entities like [[srd/pf2e/bestiary/rage-of-elements/elemental/nursery-crawler|nursery crawlers]], [[srd/pf2e/bestiary/rage-of-elements/elemental/living-grove|living groves]], and [[srd/pf2e/bestiary/rage-of-elements/elemental/carved-beast|carved beasts]] use this to their advantage. That an elemental's wooden body can be carved and crafted, apparently without lasting harm, implies that they might not feel pain so long as their roots remain undamaged.
+Even if Lady [[srd/pf2e/compendium/deities/elemental-lords/shumunue|Shumunue]] taught the wood elementals' ancestors to mimic animals, a wood elemental's consciousness is contained not in a brain but in its root system. Entities like [[srd/pf2e/bestiary/rage-of-elements/elemental/nursery-crawler|nursery crawlers]], [[srd/pf2e/bestiary/rage-of-elements/elemental/living-grove|living groves]], and [[srd/pf2e/bestiary/rage-of-elements/elemental/carved-beast|carved beasts]] use this to their advantage. That an elemental's wooden body can be carved and crafted, apparently without lasting harm, implies that they might not feel pain so long as their roots remain undamaged.
 
 ### Diverse Elementals
 

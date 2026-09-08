@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - feat/level/12
 aliases: ["Steal Magic's Breath"]
-aon_id: "feat-9348"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9348"
 source: "Impossible Magic"
 ---
 

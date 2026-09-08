@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
-- compendium/src/pf2e/guns-gears-remastered
+- compendium/src/pf2e/npc-core
 - trait/concussive
 - trait/fatal
 - trait/uncommon
 - weapon/level/0
 aliases: ["Flintlock Musket"]
-aon_id: "weapon-191"
-source: "Guns & Gears (Remastered)"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=521"
+source: "NPC Core"
 ---
 
 # Flintlock Musket  *Weapon 0*
@@ -17,8 +16,6 @@ source: "Guns & Gears (Remastered)"
 `Concussive`  `Fatal`  `Uncommon`
 
 - **PFS Note**: All Pathfinder Society agents have access to all uncommon weapons, ammunition, and related items from Chapter 4
-- **Favored Weapon**: Cixyron
-- **Access**: The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 - **Price**: 5 gp
 - **Damage**: 1d6 P
 - **Bulk**: 1
@@ -30,7 +27,7 @@ source: "Guns & Gears (Remastered)"
 - **Group**: Firearm
 - **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/firearm/firearm-ammunition-10-rounds|Firearm Ammunition (10 rounds)]]
 
-The most commonly available of firearms in Alkenstar, the flintlock musket includes an external firing mechanism and an efficient and relatively compact frame. Though lacking the range and firing power of the [[srd/pf2e/compendium/equipment/weapons/firearm/arquebus|arquebus]] preferred by Alkenstar and Dongun Hold's military members, the flintlock musket is popular among civilians for its ease of use.
+The flintlock musket includes an external firing mechanism and an efficient and relatively compact frame. Though lacking the range and firing power of the arquebus, the flintlock musket is popular among civilians for its ease of use.
 
 ### Critical Specialization Effects
 
@@ -38,6 +35,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/intelligent-items/duchy-defender|Duchy Defender]], Screaming Pinion, [[srd/pf2e/compendium/equipment/weapons/solar-shellflower|Solar Shellflower]]
+[[srd/pf2e/compendium/equipment/staves/musket-staff-of-force|Musket Staff of Force]], [[srd/pf2e/compendium/equipment/staves/musket-staff-of-the-void|Musket Staff of the Void]], Solar Shellflower
 
-*Source: Guns & Gears (Remastered) p. 153*
+*Source: NPC Core p. 50*

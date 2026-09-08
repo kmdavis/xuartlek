@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -11,7 +10,7 @@ tags:
 - trait/uncommon
 - spell/level/3
 aliases: ["Ancestral Defense"]
-aon_id: "spell-2067"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2067"
 source: "Player Core 2"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core 2"
 
 `Focus`  `Fortune`  `Manipulate`  `Mental`  `Oracle`  `Uncommon`
 
-- **Mystery**: Ancestors
+- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Ancestors|Ancestors]]
 - **Trigger**: You are about to attempt a Will save.
 
 Your ancestor protects you against those who would bend your will. You roll the triggering save twice and use the better result.

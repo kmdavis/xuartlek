@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/free-hand
 aliases: ["Free-Hand"]
-aon_id: "trait-613"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=613"
 source: "Player Core"
 ---
 

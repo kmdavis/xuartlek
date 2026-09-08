@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 - trait/merfolk
 - feat/level/1
 aliases: ["Wave Speaker"]
-aon_id: "feat-5348"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5348"
 source: "Howl of the Wild"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -8,7 +7,7 @@ tags:
 - trait/poison
 - spell/level/1
 aliases: ["Noxious Vapors"]
-aon_id: "spell-2011"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2011"
 source: "Player Core 2"
 ---
 

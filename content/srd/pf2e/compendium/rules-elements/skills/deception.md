@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-skill
 tags:
 - compendium/src/pf2e/player-core
 aliases: ["Deception"]
-aon_id: "skill-38"
+aon_url: "https://2e.aonprd.com/Skills.aspx?ID=38"
 source: "Player Core"
 ---
 
@@ -76,7 +75,7 @@ Other Worn Items
 No
 to Create a Diversion
 
-[[srd/pf2e/compendium/equipment/alchemical-items/silvertongue-mutagen-major|Silvertongue Mutagen (Lesser)]]
+[[srd/pf2e/compendium/equipment/alchemical-items/silvertongue-mutagen|Silvertongue Mutagen (Lesser)]]
 +1
 1
 Alchemical Elixirs
@@ -103,7 +102,7 @@ Held Items
 No
 item bonus to Deception checks against intelligent undead
 
-[[srd/pf2e/compendium/equipment/worn-items/entertainers-cincture-greater|Entertainer's Cincture]]
+[[srd/pf2e/compendium/equipment/worn-items/entertainers-cincture|Entertainer's Cincture]]
 +2
 10
 Worn Items
@@ -117,7 +116,7 @@ Held Items
 No
 Item bonus to Deception checks to send false signals to enemy forces
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal]]
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal]]
 +2
 11
 Worn Items
@@ -145,7 +144,7 @@ Adventuring Gear
 Yes
 When faking an injury
 
-[[srd/pf2e/compendium/equipment/alchemical-items/silvertongue-mutagen-major|Silvertongue Mutagen (Moderate)]]
+[[srd/pf2e/compendium/equipment/alchemical-items/silvertongue-mutagen|Silvertongue Mutagen (Moderate)]]
 +2
 3
 Alchemical Elixirs
@@ -158,27 +157,27 @@ Other Worn Items
 No
 Item bonus to Deception checks to Impersonate
 
-[[srd/pf2e/compendium/equipment/worn-items/entertainers-cincture-greater|Entertainer's Cincture (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/entertainers-cincture|Entertainer's Cincture (Greater)]]
 +3
 17
 Worn Items
 No
 Item bonus to Deception if selected
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal (Greater)]]
 +3
 18
 Worn Items
 No
 Item bonus of the associated Deity's Divine Skill
 
-[[srd/pf2e/compendium/equipment/alchemical-items/silvertongue-mutagen-major|Silvertongue Mutagen (Greater)]]
+[[srd/pf2e/compendium/equipment/alchemical-items/silvertongue-mutagen|Silvertongue Mutagen (Greater)]]
 +3
 11
 Alchemical Elixirs
 Yes
 
-[[srd/pf2e/compendium/equipment/alchemical-items/silvertongue-mutagen-major|Silvertongue Mutagen (Major)]]
+[[srd/pf2e/compendium/equipment/alchemical-items/silvertongue-mutagen|Silvertongue Mutagen (Major)]]
 +4
 17
 Alchemical Elixirs

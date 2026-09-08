@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -9,7 +8,7 @@ tags:
 - trait/manipulate
 - spell/level/5
 aliases: ["Unravel Existence"]
-aon_id: "spell-2854"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2854"
 source: "Impossible Magic"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
@@ -13,7 +12,7 @@ tags:
 - trait/mental
 - feat/level/12
 aliases: ["Wailing Dead"]
-aon_id: "feat-7973"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7973"
 source: "Battlecry!"
 ---
 

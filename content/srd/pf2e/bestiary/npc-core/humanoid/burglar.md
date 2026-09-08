@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Burglar"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Burglar"
 level: 4
 source: "NPC Core"
-aon_id: "creature-3429"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3429"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [2, 4, 1, 1, 2, 1]
 abilities_top:
   - name: "Items"
-    desc: "Climbing Kit, Composite Shortbow (10 arrows), lesser darkvision elixir, Leather Armor, Shortsword, [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit-infiltrator-picks|Thieves' Toolkit]]"
+    desc: "Climbing Kit, Composite Shortbow (10 arrows), lesser darkvision elixir, Leather Armor, Shortsword, [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit|Thieves' Toolkit]]"
 ac: 21
 armorclass:
   - name: "AC"

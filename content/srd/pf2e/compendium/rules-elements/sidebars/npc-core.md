@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-sidebar
 tags:
 - compendium/src/pf2e/npc-core
@@ -9,7 +8,7 @@ entries: 3
 
 # Sidebars: NPC Core
 
-## Consent, Safety, and In-Game Relationships  *Sidebar*
+## Consent, Safety, and In-Game Relationships
 
 - **Parent page**: [[srd/pf2e/books/npc-core/relationships-and-advancement/connection-subsystem|Connection Subsystem]]
 
@@ -29,7 +28,7 @@ Games that focus heavily on relationships come with additional considerations ar
 
 *Source: NPC Core p. 226*
 
-## Riding Animal Companions  *Sidebar*
+## Riding Animal Companions
 
 - **Parent page**: [[srd/pf2e/books/npc-core/creature-companions/animal-companions|Animal Companions]]
 
@@ -37,7 +36,7 @@ An NPC can ride a creature that works alongside them as long as the creature is 
 
 *Source: NPC Core p. 217*
 
-## Specialist Levels  *Sidebar*
+## Specialist Levels
 
 - **Parent page**: [[srd/pf2e/books/npc-core/introduction/adjusting-creatures#Combat Power|Combat Power]]
 

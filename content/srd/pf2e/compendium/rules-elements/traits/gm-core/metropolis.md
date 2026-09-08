@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/gm-core
 - trait/metropolis
 aliases: ["Metropolis"]
-aon_id: "trait-650"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=650"
 source: "GM Core"
 ---
 

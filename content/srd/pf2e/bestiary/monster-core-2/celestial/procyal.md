@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Procyal"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Procyal"
 level: 8
 source: "Monster Core 2"
-aon_id: "creature-4020"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4020"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [4, 4, 6, 5, 6, 4]
 abilities_top:
   - name: "Items"
-    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/sword/shortsword|shortsword]]_"
+    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/sword/shortsword|shortsword]]_"
 ac: 26
 armorclass:
   - name: "AC"

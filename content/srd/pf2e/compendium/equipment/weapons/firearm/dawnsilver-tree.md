@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -10,7 +9,7 @@ tags:
 - trait/uncommon
 - weapon/level/0
 aliases: ["Dawnsilver Tree"]
-aon_id: "weapon-204"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=204"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -31,7 +30,7 @@ source: "Guns & Gears (Remastered)"
 - **Group**: Firearm
 - **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/firearm/firearm-ammunition-10-rounds|Firearm Ammunition (10 rounds)]]
 
-Neither [[srd/pf2e/compendium/equipment/materials/dawnsilver-object-high-grade|dawnsilver]] nor a tree, this long gun takes its name from the legends of the [[srd/pf2e/compendium/character/ancestries/elf|elves]] of Jinin and is most commonly found within the nation. An elegant weapon, a dawnsilver tree does somewhat resemble a tree; its fanned stock and long, sweeping barrel reinforced with metal rings enable a wielder to parry melee attacks while moving back into safe firing range.
+Neither [[srd/pf2e/compendium/equipment/materials/dawnsilver|dawnsilver]] nor a tree, this long gun takes its name from the legends of the [[srd/pf2e/compendium/character/ancestries/elf|elves]] of Jinin and is most commonly found within the nation. An elegant weapon, a dawnsilver tree does somewhat resemble a tree; its fanned stock and long, sweeping barrel reinforced with metal rings enable a wielder to parry melee attacks while moving back into safe firing range.
 
 ### Critical Specialization Effects
 

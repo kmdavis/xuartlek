@@ -37,7 +37,9 @@ def main() -> int:
 
     # -- compendium ------------------------------------------------------
     docs = json.loads((snap / "compendium.json").read_text())
-    live = [d for d in docs if not comp.superseded(d)]
+    parents = {d["id"]: (d.get("markdown") or "") for d in docs}
+    live = [d for d in docs
+            if not comp.superseded(d) and not comp.synthetic(d, parents)]
     class_index = comp.build_class_index(docs)
     counts = collections.Counter(d.get("category", "") for d in live)
     for d in live:
@@ -66,10 +68,20 @@ def main() -> int:
     for d, path in standalone:
         lm.add(d.get("category", ""), d.get("id", ""), path, name=d["__name__"])
 
+    # A category whose entries all land on one page can also answer bare
+    # "[here](Elements.aspx)" links.
+    pages_per_cat: dict[str, set[Path]] = {}
+    for path, entries in grouped.items():
+        for d in entries:
+            pages_per_cat.setdefault(d.get("category", ""), set()).add(path)
+
     shards = 0
     for path, entries in grouped.items():
         mapping = comp.shard_paths(path, [e["__name__"] for e in entries])
         shards += len(set(mapping.values()))
+        if len(pages_per_cat.get(entries[0].get("category", ""), ())) == 1 \
+                and len(set(mapping.values())) == 1:
+            lm.add_category_page(entries[0].get("category", ""), path)
         for d in entries:
             final = mapping[d["__name__"]]
             lm.add(d.get("category", ""), d.get("id", ""), final,

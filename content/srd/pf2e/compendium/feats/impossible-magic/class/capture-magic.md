@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/magus
 - feat/level/8
 aliases: ["Capture Magic"]
-aon_id: "feat-9066"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9066"
 source: "Impossible Magic"
 ---
 

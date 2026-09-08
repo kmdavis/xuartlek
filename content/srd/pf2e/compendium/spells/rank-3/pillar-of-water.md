@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -8,7 +7,7 @@ tags:
 - trait/water
 - spell/level/3
 aliases: ["Pillar of Water"]
-aon_id: "spell-1394"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1394"
 source: "Rage of Elements"
 ---
 

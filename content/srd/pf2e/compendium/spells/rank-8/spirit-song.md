@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -8,7 +7,7 @@ tags:
 - trait/spirit
 - spell/level/8
 aliases: ["Spirit Song"]
-aon_id: "spell-2029"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2029"
 source: "Player Core 2"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core 2"
 `Concentrate`  `Manipulate`  `Spirit`
 
 - **Traditions**: Divine, Occult
-- **Bloodline**: Aesir
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Aesir|Aesir]]
 - **Area**: 60-foot cone
 - **Defense**: Fortitude
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - weapon/level/0
 aliases: ["Jiu Huan Dao"]
-aon_id: "weapon-288"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=288"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -16,7 +15,7 @@ source: "Treasure Vault (Remastered)"
 `Sweep`  `Uncommon`
 
 - **PFS Note**: Characters from Tian Xia have access to this option
-- **Favored Weapon**: Hei Feng
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/tian-gods/hei-feng|Hei Feng]]
 - **Price**: 9 sp
 - **Damage**: 1d8 S
 - **Bulk**: 1

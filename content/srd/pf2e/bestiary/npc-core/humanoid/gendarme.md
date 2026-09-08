@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Gendarme"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Gendarme"
 level: 8
 source: "NPC Core"
-aon_id: "creature-3563"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3563"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [4, 1, 4, 0, 3, 2]
 abilities_top:
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/weapons/bow/composite-longbow|composite longbow]]_ (20 arrows), _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/flail/flail|flail]]_, _+1 [[srd/pf2e/compendium/equipment/weapons/brawling/gauntlet|gauntlet]]_, Half Plate"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/weapons/bow/composite-longbow|composite longbow]]_ (20 arrows), _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/flail/flail|flail]]_, _+1 [[srd/pf2e/compendium/equipment/weapons/brawling/gauntlet|gauntlet]]_, Half Plate"
 ac: 26
 armorclass:
   - name: "AC"

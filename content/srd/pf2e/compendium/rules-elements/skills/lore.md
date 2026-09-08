@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-skill
 tags:
 - compendium/src/pf2e/player-core
 aliases: ["Lore"]
-aon_id: "skill-41"
+aon_url: "https://2e.aonprd.com/Skills.aspx?ID=41"
 source: "Player Core"
 ---
 
@@ -28,7 +27,7 @@ Knowledge.
 #### Common Lore Subcategories
 
  You can learn any Lore skill your GM gives you permission to take. The following list covers a wide variety of common Lore topics appropriate for player characters in most campaigns. Backgrounds often grant you a Lore skill from this list. 
-Academia LoreAccounting LoreArchitecture LoreArt LoreAstronomy LoreCarpentry LoreCircus LoreDriving LoreEngineering LoreFarming LoreFishing LoreFortune-Telling LoreGames LoreGenealogy LoreGladiatorial LoreGuild LoreHeraldry LoreHerbalism LoreHunting LoreLabor LoreLegal LoreLibrary LoreLore about a specific deity (Abadar Lore, Iomedae Lore)Lore about a specific creature or narrow category of creatures (Demon Lore, Giant Lore, Vampire Lore)Lore about a specific plane other than [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]], or the plane in which the game is set if not the Universe ([[srd/pf2e/compendium/gm/planes#Astral Plane|Astral Plane]] Lore, [[srd/pf2e/compendium/gm/planes#Heaven|Heaven]] Lore, [[srd/pf2e/compendium/gm/planes#Outer Rifts|Outer Rifts]] Lore)Lore about a specific public organization (Hellknights Lore, Pathfinder Society Lore)Lore about a specific settlement (Absalom Lore, Magnimar Lore)Lore about a specific terrain (Mountain Lore, River Lore)Lore about a type of food or drink (Alcohol Lore, Baking Lore, Butchering Lore, Cooking Lore, Tea Lore)Mercantile LoreMidwifery LoreMilling LoreMining LorePiloting LoreSailing LoreScouting LoreScribing LoreStabling LoreTanning LoreTheater LoreUnderworld LoreWarfare Lore
+Academia LoreAccounting LoreArchitecture LoreArt LoreAstronomy LoreCarpentry LoreCircus LoreDriving LoreEngineering LoreFarming LoreFishing LoreFortune-Telling LoreGames LoreGenealogy LoreGladiatorial LoreGuild LoreHeraldry LoreHerbalism LoreHunting LoreLabor LoreLegal LoreLibrary LoreLore about a specific deity ([[srd/pf2e/compendium/deities/gods-of-the-inner-sea/abadar|Abadar]] Lore, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/iomedae|Iomedae]] Lore)Lore about a specific creature or narrow category of creatures (Demon Lore, Giant Lore, Vampire Lore)Lore about a specific plane other than [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]], or the plane in which the game is set if not the Universe ([[srd/pf2e/compendium/gm/planes#Astral Plane|Astral Plane]] Lore, [[srd/pf2e/compendium/gm/planes#Heaven|Heaven]] Lore, [[srd/pf2e/compendium/gm/planes#Outer Rifts|Outer Rifts]] Lore)Lore about a specific public organization (Hellknights Lore, Pathfinder Society Lore)Lore about a specific settlement (Absalom Lore, Magnimar Lore)Lore about a specific terrain (Mountain Lore, River Lore)Lore about a type of food or drink (Alcohol Lore, Baking Lore, Butchering Lore, Cooking Lore, Tea Lore)Mercantile LoreMidwifery LoreMilling LoreMining LorePiloting LoreSailing LoreScouting LoreScribing LoreStabling LoreTanning LoreTheater LoreUnderworld LoreWarfare Lore
 
 ### Item Bonuses for Lore
 
@@ -67,7 +66,7 @@ Worn Items
 No
 Item bonus to Sailing Lore.
 
-[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen-major|Cognitive Mutagen (Lesser)]]
+[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen|Cognitive Mutagen (Lesser)]]
 +1
 1
 Alchemical Elixirs
@@ -101,19 +100,19 @@ Worn Items
 No
 Item bonus to Sailing Lore.
 
-[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen-major|Cognitive Mutagen (Moderate)]]
+[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen|Cognitive Mutagen (Moderate)]]
 +2
 3
 Alchemical Elixirs
 Yes
 
-[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen-major|Cognitive Mutagen (Greater)]]
+[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen|Cognitive Mutagen (Greater)]]
 +3
 11
 Alchemical Elixirs
 Yes
 
-[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen-major|Cognitive Mutagen (Major)]]
+[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen|Cognitive Mutagen (Major)]]
 +4
 17
 Alchemical Elixirs

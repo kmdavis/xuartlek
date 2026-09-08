@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/versatile
 - weapon/level/0
 aliases: ["Gnome Hooked Hammer"]
-aon_id: "weapon-408"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=408"
 source: "Player Core"
 ---
 

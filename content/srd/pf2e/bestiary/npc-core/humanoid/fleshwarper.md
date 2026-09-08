@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Fleshwarper"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Fleshwarper"
 level: 7
 source: "NPC Core"
-aon_id: "creature-3617"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3617"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [3, 4, 2, 4, 2, -1]
 abilities_top:
   - name: "Items"
-    desc: "fleshwarping concoction (5), [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit-expanded|Healer's Toolkit]], _+1 scalpel_ (functions as a [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]])"
+    desc: "fleshwarping concoction (5), [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit|Healer's Toolkit]], _+1 scalpel_ (functions as a [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]])"
 ac: 24
 armorclass:
   - name: "AC"

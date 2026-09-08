@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/subtle
 - spell/level/1
 aliases: ["Figment"]
-aon_id: "spell-1528"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1528"
 source: "Player Core"
 ---
 
@@ -20,7 +19,7 @@ source: "Player Core"
 
 - **PFS Note**: If a visual figment occupies the entirety of a 5x5 cube, it can provide cover or concealment, but not both, for a medium or smaller creature. It does not block line of sight.
 - **Traditions**: Arcane, Occult
-- **Bloodline**: Fey
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Fey|Fey]]
 - **Range**: 30 feet
 - **Duration**: sustained
 

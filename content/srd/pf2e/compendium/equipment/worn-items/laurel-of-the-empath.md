@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/magical
 - equipment/level/20
 aliases: ["Laurel of the Empath"]
-aon_id: "equipment-2139"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2139"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -17,7 +16,7 @@ source: "Treasure Vault (Remastered)"
 
 `Apex`  `Fortune`  `Invested`  `Magical`
 
-- **Price**: 70,000 gp
+- **Price**: 70, 000 gp
 - **Usage**: worn circlet
 
 This silvery, woven ring of leaves sits on top of the head. While wearing it, when you roll Perception for initiative, you can roll twice and take the higher result. This is a fortune effect. Whenever you spend at least 1 minute talking with a living creature, you automatically become aware of its attitude toward you. When you invest the laurel, you either increase your Wisdom modifier by 1 or increase it to +4, whichever would give you a higher value.

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/gunslinger
 - feat/level/20
 aliases: ["Perfect Readiness"]
-aon_id: "feat-3212"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3212"
 source: "Guns & Gears (Remastered)"
 ---
 

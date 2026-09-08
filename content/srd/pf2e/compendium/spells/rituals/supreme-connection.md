@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 - trait/uncommon
 - ritual/level/7
 aliases: ["Supreme Connection"]
-aon_id: "ritual-229"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=229"
 source: "Dark Archives (Remastered)"
 ---
 

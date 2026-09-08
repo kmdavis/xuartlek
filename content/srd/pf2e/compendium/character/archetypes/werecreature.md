@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-archetype
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 - trait/rare
 - archetype/level/2
 aliases: ["Werecreature"]
-aon_id: "archetype-225"
+aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=225"
 source: "Howl of the Wild"
 ---
 

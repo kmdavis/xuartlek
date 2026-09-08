@@ -1,17 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/battlecry
 - vehicle/level/11
 aliases: ["Skimmer"]
-aon_id: "vehicle-114"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=114"
 source: "Battlecry!"
 ---
 
 # Skimmer  *Vehicle 11*
 
-- **Price**: 4,000 gp
+- **Price**: 4, 000 gp
 
 This sleek vessel generally appears as a fast-moving catamaran. Using a pair of clockwork mechanisms, the main hulls can be lifted out of the water, with only the narrow blade of their keels remaining slightly below the surface, turning the skimmer into an even faster hydrofoil, doubling its normal speed.
 

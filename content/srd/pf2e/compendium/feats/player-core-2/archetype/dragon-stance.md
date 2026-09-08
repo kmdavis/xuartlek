@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/stance
 - feat/level/1
 aliases: ["Dragon Stance"]
-aon_id: "feat-5977"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5977"
 source: "Player Core 2"
 ---
 
@@ -15,7 +14,7 @@ source: "Player Core 2"
 
 `Monk`  `Stance`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/martial-artist|Martial Artist]] (Level 4), [[srd/pf2e/compendium/character/archetypes/martial-artist|Martial Artist]] (Level 4)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/martial-artist|Martial Artist]] (Level 4)
 - **Requirements**: You are unarmored.
 
 You enter the stance of a dragon and make powerful leg strikes like a lashing dragon's tail. You can make dragon tail attacks that deal 1d10 bludgeoning damage. They are in the brawling group and have the [[srd/pf2e/compendium/rules-elements/traits/player-core/backswing|backswing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] traits.

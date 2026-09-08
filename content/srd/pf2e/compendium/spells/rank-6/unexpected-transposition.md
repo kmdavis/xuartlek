@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/teleportation
 - spell/level/6
 aliases: ["Unexpected Transposition"]
-aon_id: "spell-2853"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2853"
 source: "Impossible Magic"
 ---
 

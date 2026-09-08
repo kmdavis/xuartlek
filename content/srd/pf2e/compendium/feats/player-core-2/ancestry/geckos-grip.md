@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/lizardfolk
 - feat/level/5
 aliases: ["Gecko's Grip"]
-aon_id: "feat-5640"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5640"
 source: "Player Core 2"
 ---
 

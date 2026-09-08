@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Ofalth"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Ofalth"
 level: 10
 source: "Monster Core"
-aon_id: "creature-3117"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3117"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/wand
 - equipment/level/15
 aliases: ["Wand of Toxic Blades"]
-aon_id: "equipment-2296"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2296"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -44,7 +43,7 @@ The poison is [[srd/pf2e/compendium/equipment/alchemical-items/cave-worm-venom|c
 
 ---
 
-The poison is [[srd/pf2e/compendium/equipment/alchemical-items/deathcap-powder-equipment-3331|deathcap powder]] with no onset.
+The poison is [[srd/pf2e/compendium/equipment/alchemical-items/deathcap-powder|deathcap powder]] with no onset.
 
 ### Wand of Toxic Blades (8th-Rank Spell)
 

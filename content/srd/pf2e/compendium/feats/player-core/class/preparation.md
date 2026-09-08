@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/rogue
 - feat/level/12
 aliases: ["Preparation"]
-aon_id: "feat-4971"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4971"
 source: "Player Core"
 ---
 

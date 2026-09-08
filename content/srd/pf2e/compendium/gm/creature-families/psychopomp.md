@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core
 aliases: ["Psychopomp"]
-aon_id: "creature-family-458"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=458"
 source: "Monster Core"
 ---
 
@@ -12,7 +11,7 @@ source: "Monster Core"
 
 Psychopomps are guardians and shepherds of the dead in the [[srd/pf2e/compendium/gm/planes#Boneyard|Boneyard]], the vast plane of graves where mortal souls are judged and sent on to their eternal rewards or damnations. Psychopomps ensure that the dead come to terms with their transition from mortality and are properly sorted into the appropriate afterlife. They also protect souls from being preyed upon by supernatural predators. Nearly all psychopomps wear masks, especially when they're likely to be interacting with mortals, although the types of masks they wear are as varied as the psychopomps themselves. The courts of the Boneyard preside in Requian, a somber yet melodic language spoken slowly with various tonal shifts.
 
- Many psychopomps are intimately involved with the Boneyard's massive bureaucracy. Few pursue mercy, justice, or personal gain; their duties to Pharasma and her Boneyard are supreme. Nevertheless, individual psychopomps interpret their duties in different ways, which might put them in conflict with mortals or even with each other.
+ Many psychopomps are intimately involved with the Boneyard's massive bureaucracy. Few pursue mercy, justice, or personal gain; their duties to [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma]] and her Boneyard are supreme. Nevertheless, individual psychopomps interpret their duties in different ways, which might put them in conflict with mortals or even with each other.
 
 ### Members
 
@@ -20,11 +19,11 @@ Psychopomps are guardians and shepherds of the dead in the [[srd/pf2e/compendium
 
 ### Psychopomp Courts
 
-Psychopomps rarely oppose [[srd/pf2e/compendium/rules-elements/traits/player-core/celestial|celestials]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/fiend|fiends]]. In fact, they frequently host such creatures in the [[srd/pf2e/compendium/gm/planes#Boneyard|Boneyard]], particularly in the sprawling psychopomp courts where these outsiders petition for one soul or another to be remanded to their jurisdiction. Complicated cases are judged by yamarajes, while the thorniest or most politically delicate are handed by Pharasma herself.
+Psychopomps rarely oppose [[srd/pf2e/compendium/rules-elements/traits/player-core/celestial|celestials]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/fiend|fiends]]. In fact, they frequently host such creatures in the [[srd/pf2e/compendium/gm/planes#Boneyard|Boneyard]], particularly in the sprawling psychopomp courts where these outsiders petition for one soul or another to be remanded to their jurisdiction. Complicated cases are judged by yamarajes, while the thorniest or most politically delicate are handed by [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma]] herself.
 
 ### Psychopomp Divinities
 
-The most powerful of the psychopomps are demigods known as “ushers”. These include Atropos, the Last Sister; Barzahk, the Passage; Ceyanan, the Shepherd; Dammar, the Denied; Imot, the Symbol of Doom; Mother Vulture, the Flesheater; Mrtyu, Death's Consort; Narakas, the Cleansing Sentence; the Pale Horse; Phlegyas, Consoler of Atheists; Saloc, Minder of Immortals; Teshallas, the Primordial Poison; and Vale, the Court of the Ancestors
+The most powerful of the psychopomps are demigods known as “ushers”. These include Atropos, the Last Sister; [[srd/pf2e/compendium/deities/monitor-demigods/barzahk|Barzahk]], the Passage; Ceyanan, the Shepherd; Dammar, the Denied; Imot, the Symbol of Doom; [[srd/pf2e/compendium/deities/monitor-demigods/mother-vulture|Mother Vulture]], the Flesheater; Mrtyu, Death's Consort; Narakas, the Cleansing Sentence; the Pale Horse; Phlegyas, Consoler of Atheists; [[srd/pf2e/compendium/deities/monitor-demigods/saloc|Saloc]], Minder of Immortals; Teshallas, the Primordial Poison; and Vale, the Court of the Ancestors
 
 ### Psychopomp Foes
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Hell Hound"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Hell Hound"
 level: 3
 source: "Monster Core"
-aon_id: "creature-3047"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3047"
 ---
 

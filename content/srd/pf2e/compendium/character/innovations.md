@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-innovation
 tags:
 - compendium/src/pf2e/battlecry
@@ -10,7 +9,7 @@ entries: 4
 
 # Innovations
 
-## Armor  *Inventor Innovation*
+## Armor
 
 Your innovation is a cutting-edge suit of medium armor with a variety of attached gizmos and devices. Choose one of the sets of statistics on Table 2–2: Innovation Armor Statistics for your innovation armor (or choose another set of innovation armor statistics to which you have access). 
 
@@ -56,7 +55,7 @@ Your innovation armor can have fundamental and property runes added to it in the
 
 *Source: Guns & Gears (Remastered) p. 16*
 
-## Construct  *Inventor Innovation*
+## Construct
 
 Your innovation is a mechanical creature, such as a clockwork construct made of cogs and gears. It's a [[srd/pf2e/books/guns-gears-remastered/gears-characters/construct-companions|prototype construct companion]], and you can adjust most of its base statistics by taking feats at higher levels, such as [[srd/pf2e/compendium/feats/guns-gears-remastered/class/advanced-construct-companion|Advanced Companion]]. If you use the [[srd/pf2e/compendium/rules-elements/actions/guns-gears-remastered#Overdrive|Overdrive]] action, your construct gains the same Overdrive benefits you do, and it also takes the same amount of fire damage on a critical failure.
 
@@ -78,7 +77,7 @@ You know how to spend additional time directing, controlling, or programming you
 
 ### Breakthrough Modifications
 
-- **Advanced Weaponry** You've powered up your construct's weaponry. Choose one of your construct's [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attacks to gain your choice of one initial weapon modification, chosen any initial weapon modifications to which you have access. The unarmed attack must meet any requirements for the chosen traits (such as being a melee attack for entangling form), and since it's an unarmed attack, it can never meet certain requirements, such as being a simple weapon for complex simplicity.
+- **Advanced Weaponry** You've powered up your construct's weaponry. Choose one of your construct's [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attacks to gain your choice of one initial [[srd/pf2e/compendium/character/innovations#Weapon|weapon modification]], chosen any initial weapon modifications to which you have access. The unarmed attack must meet any requirements for the chosen traits (such as being a melee attack for entangling form), and since it's an unarmed attack, it can never meet certain requirements, such as being a simple weapon for complex simplicity.
 - **Antimagic Construction** Whether you used some clever adaptation of the magic-negating skymetal known as noqual or created magical protections entirely of your own devising, you've made your innovation highly resilient to spells. Your construct innovation gains a +2 circumstance bonus to all saving throws and AC against spells.
 - **Climbing Limbs** With appendages that can claw or create suction, your construct becomes a capable climber. Your innovation gains a climb Speed equal to half its land Speed.
 - **Durable Construction** Your innovation is solidly built; it can take significant punishment before being destroyed. Increase its maximum HP by your level.
@@ -95,17 +94,17 @@ You know how to spend additional time directing, controlling, or programming you
 
 *Source: Guns & Gears (Remastered) p. 17*
 
-## Light Mortar  *Inventor Innovation*
+## Light Mortar
 
 _Nethys Note: This innovation is a part of the [[srd/pf2e/compendium/character/archetypes/munitions-master|Munitions Master]] archetype._
 
-Your innovation is a mounted siege weapon called a light mortar that weighs 2 Bulk. Whether it propels its payload via an elaborate mechanism or explosive reagents, it's capable of dealing immense damage. Your light mortar requires an [[srd/pf2e/compendium/rules-elements/actions/player-core#Interact|Interact]] action to deploy it before you can Aim, Load, or Launch it, and it includes its own wheeled platform that it is mounted on as part of the deployment. It can be packed back up for easy transport as a 2-action activity with the manipulate trait and either worn as a backpack or carried in one hand while packed. Because of the light mortar's smaller size, the Move Siege Engine activity takes only 1 action when it is deployed.
+Your innovation is a mounted siege weapon called a [[srd/pf2e/compendium/equipment/siege-weapons/light-mortar|light mortar]] that weighs 2 Bulk. Whether it propels its payload via an elaborate mechanism or explosive reagents, it's capable of dealing immense damage. Your light mortar requires an [[srd/pf2e/compendium/rules-elements/actions/player-core#Interact|Interact]] action to deploy it before you can Aim, Load, or Launch it, and it includes its own wheeled platform that it is mounted on as part of the deployment. It can be packed back up for easy transport as a 2-action activity with the manipulate trait and either worn as a backpack or carried in one hand while packed. Because of the light mortar's smaller size, the Move Siege Engine activity takes only 1 action when it is deployed.
 
 Your light mortar begins as a 1st-level siege weapon with the statistics shown below. It deals an additional die of damage at 5th level and every 4 levels thereafter. When you Launch your light mortar, the Reflex save is equal to your class DC. Its AC is equal to your inventor class DC and it has Hardness 5. It has trained proficiency in Reflex and Fortitude saves, using your Intelligence modifier to calculate these bonuses. It has 10 Hit Points, plus a number of Hit Points equal to 2 plus your Intelligence modifier for each level you have. Its Broken Threshold is equal to half its total Hit Points (rounded down).
 
 At 5th level, your light mortar's Hardness increases to 10. At 10th level it increases to 15 and its proficiency rank in Reflex and Fortitude saves increases to expert. At 15th level, its Hardness increases to 20, and its proficiency rank in Reflex and Fortitude saves increases to master. 
 
-Your innovation fires small cannonballs called carry shot. A group of 10 carry shot, which weighs 1 Bulk, can be purchased for 5 sp from most shops that sell ammunition. 
+Your [[srd/pf2e/compendium/equipment/siege-weapons/light-mortar|innovation]] fires small cannonballs called carry shot. A group of 10 carry shot, which weighs 1 Bulk, can be purchased for 5 sp from most shops that sell ammunition. 
 
 Choose one initial light mortar modification to apply to your innovation, either from the following or from other initial light mortar modifications to which you have access. These modifications alter the abilities or form of your light mortar. 
 
@@ -117,19 +116,19 @@ Choose one initial light mortar modification to apply to your innovation, either
 
 ### Breakthrough Modifications
 
-- **Blanching Chamber** You embed tiny metal filings into ammunition in the firing chamber of your light mortar. These filings remain embedded in the fragments of the ammunition after it shatters on impact. Your ammunition counts as [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] and [[srd/pf2e/compendium/equipment/materials/silver-object-high-grade|silver]].
+- **Blanching Chamber** You embed tiny metal filings into ammunition in the firing chamber of your light mortar. These filings remain embedded in the fragments of the ammunition after it shatters on impact. Your ammunition counts as [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] and [[srd/pf2e/compendium/equipment/materials/silver|silver]].
 - **Earthbreaker** Each time you Launch, you can choose to alter the ammunition to direct the brunt of the explosion downward, dealing half damage but creating [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Difficult Terrain|difficult terrain]] in the blast area.
 - **Narrow Blast** You alter your ammunition so that the force of the impact is directed in a narrow band. Each time you Launch you can choose to have the explosion form a 20-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Cone|cone]] instead of a 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]]. This cone must originate at the point of impact and can be directed either directly away from you or 45 degrees to either side of that.
 
 ### Revolutionary Modifications
 
-- **Enhanced Damage** As the revolutionary weapon modification of the same name.
-- **Impossible Alloy** As the revolutionary weapon modification of the same name, except that the alloy is embedded in your ammunition on launch.
+- **Enhanced Damage** As the [[srd/pf2e/compendium/character/innovations#Weapon|revolutionary weapon modification]] of the same name.
+- **Impossible Alloy** As the [[srd/pf2e/compendium/character/innovations#Weapon|revolutionary weapon modification]] of the same name, except that the alloy is embedded in your ammunition on launch.
 - **Precise Blast** You have such precise control over your light mortar that you can wrap the blast of impact around your allies without harming them. When you Launch, you can select a number of squares up to your Intelligence modifier to exclude from the blast area.
 
 *Source: Battlecry! p. 64*
 
-## Weapon  *Inventor Innovation*
+## Weapon
 
 Your innovation is a complex and impossible-looking weapon augmented by numerous mechanisms. It begins with the same statistics as a level 0 common simple or martial weapon of your choice, or another level 0 simple or martial weapon to which you have access. You can instead use the statistics of a level 0 advanced weapon of your choice; you treat this as a martial weapon for the purposes of proficiency but you do not gain an initial weapon modification. An innovation weapon can have fundamental and property runes added to it in the same way as an ordinary weapon. Because of the unique features of your innovation, everyone except you is untrained in it, even if they would normally be trained (or better) in simple or martial weapons. If you use the [[srd/pf2e/compendium/rules-elements/actions/guns-gears-remastered#Overdrive|Overdrive]] action, you can choose to change the additional damage from Overdrive to fire damage.
 

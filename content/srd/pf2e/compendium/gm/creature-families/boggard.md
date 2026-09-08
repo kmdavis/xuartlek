@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core
 aliases: ["Boggard"]
-aon_id: "creature-family-373"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=373"
 source: "Monster Core"
 ---
 
@@ -22,6 +21,6 @@ Boggards prefer to dwell in swamplands and mires. Though they are at home in the
 
 ### Gogunta
 
-Gogunta is the patron of the boggard people, many of whom worship her as their goddess.
+[[srd/pf2e/compendium/deities/demon-lords/gogunta|Gogunta]] is the patron of the boggard people, many of whom worship her as their goddess.
 
 *Source: Monster Core p. 44*

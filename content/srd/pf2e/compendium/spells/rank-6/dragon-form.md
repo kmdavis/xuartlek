@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/polymorph
 - spell/level/6
 aliases: ["Dragon Form"]
-aon_id: "spell-1502"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1502"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Polymorph`
 
 - **Traditions**: Arcane, Divine, Occult, Primal
-- **Bloodline**: Draconic
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Draconic|Draconic]]
 - **Duration**: 1 minute
 
 Calling upon powerful magic, you gain a Large dragon battle form. When you Cast this Spell, choose one type of common dragon or another type to which your GM allows access. While in this form, you gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/dragon|dragon]] trait. You have hands in this battle form and can take [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] actions. You can Dismiss the spell.

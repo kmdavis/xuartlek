@@ -1,18 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
-- compendium/src/pf2e/gm-core
+- compendium/src/pf2e/player-core-2
 - trait/alchemical
 - trait/consumable
 - trait/elixir
-- equipment/level/0
+- equipment/level/1
 aliases: ["Cheetah's Elixir"]
-aon_id: "equipment-2884"
-source: "GM Core"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3302"
+source: "Player Core 2"
 ---
 
-# Cheetah's Elixir  *Item 0*
+# Cheetah's Elixir  *Item 1+*
 
 `Alchemical`  `Consumable`  `Elixir`
 
@@ -22,4 +21,34 @@ source: "GM Core"
 
 Enzymatic compounds in this elixir strengthen and excite the muscles in your legs. You gain a status bonus to your Speed for the listed duration.
 
-*Source: GM Core p. 246*
+### Cheetah's Elixir (Lesser)
+
+**Price** 3 gp
+
+**Bulk** L
+
+---
+
+The bonus is +5 feet, and the duration is 1 minute.
+
+### Cheetah's Elixir (Moderate)
+
+**Price** 25 gp
+
+**Bulk** L
+
+---
+
+The bonus is +10 feet, and the duration is 10 minutes.
+
+### Cheetah's Elixir (Greater)
+
+**Price** 110 gp
+
+**Bulk** L
+
+---
+
+The bonus is +10 feet, and the duration is 1 hour.
+
+*Source: Player Core 2 p. 286*

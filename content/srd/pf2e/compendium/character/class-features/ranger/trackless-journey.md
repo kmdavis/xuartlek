@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class-feature
 tags:
 - compendium/src/pf2e/player-core
 - class-feature/level/5
 aliases: ["Trackless Journey"]
-aon_id: "class-feature-723"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=36"
 source: "Player Core"
 ---
 

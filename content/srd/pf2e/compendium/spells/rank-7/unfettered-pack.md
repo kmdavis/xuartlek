@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/7
 aliases: ["Unfettered Pack"]
-aon_id: "spell-1733"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1733"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 
 - **Tradition**: Primal
 - **Spell Lists**: Elemental
-- **Deities**: Alocer, Anogetz, Jukha, The Endless Road, Yuelral, Zarongel
+- **Deities**: Alocer, [[srd/pf2e/compendium/deities/daemon-harbingers/anogetz|Anogetz]], [[srd/pf2e/compendium/deities/orc-gods/jukha|Jukha]], The Endless Road, [[srd/pf2e/compendium/deities/elven-gods/yuelral|Yuelral]], [[srd/pf2e/compendium/deities/goblin-gods/zarongel|Zarongel]]
 - **Range**: 30 feet
 - **Target**: up to 10 creatures
 - **Duration**: 1 hour

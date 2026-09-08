@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/human
 - feat/level/1
 aliases: ["Natural Skill"]
-aon_id: "feat-4479"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4479"
 source: "Player Core"
 ---
 

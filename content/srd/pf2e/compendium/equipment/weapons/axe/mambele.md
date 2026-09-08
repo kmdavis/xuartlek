@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - weapon/level/0
 aliases: ["Mambele"]
-aon_id: "weapon-96"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=295"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -26,7 +25,7 @@ source: "Treasure Vault (Remastered)"
 - **Category**: Martial
 - **Group**: Axe
 
-Also known as a hunga munga or danisco, this hybrid knife-axe consists of a hilt and a blade that curves backward toward the wielder. The curve of the blade is such that after a victim has been struck by a mambele, more damage is dealt as the weapon is extracted from the victim’s body.
+Also known as a hunga munga or danisco, this knife-axe hybrid consists of a hilt and a blade that curves backward toward the wielder. The curve of the blade is such that after a victim has been struck by a mambele, more damage is dealt as the weapon is extracted from the victim's body.
 
 ### Critical Specialization Effects
 

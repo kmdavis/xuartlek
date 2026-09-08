@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/wood
 - spell/level/2
 aliases: ["Oaken Resilience"]
-aon_id: "spell-1617"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1617"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Plant`  `Wood`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Blooms of the Spreading Weald, Gendowyn, Uirch, Verilorn
+- **Deities**: [[srd/pf2e/compendium/deities/covenants/blooms-of-the-spreading-weald|Blooms of the Spreading Weald]], Gendowyn, [[srd/pf2e/compendium/deities/orc-gods/uirch|Uirch]], [[srd/pf2e/compendium/deities/elemental-lords/verilorn|Verilorn]]
 - **Range**: touch
 - **Target**: 1 willing creature
 - **Duration**: 10 minutes

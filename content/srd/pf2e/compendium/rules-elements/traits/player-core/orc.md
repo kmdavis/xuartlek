@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/orc
 aliases: ["Orc"]
-aon_id: "trait-666"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=666"
 source: "Player Core"
 ---
 

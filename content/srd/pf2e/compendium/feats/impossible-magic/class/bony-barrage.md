@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/necromancer
 - feat/level/4
 aliases: ["Bony Barrage"]
-aon_id: "feat-9107"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9107"
 source: "Impossible Magic"
 ---
 

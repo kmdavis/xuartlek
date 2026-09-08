@@ -1,21 +1,19 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
 - trait/nonlethal
 - trait/ranged-trip
 - trait/thrown
-- trait/uncommon
 - weapon/level/0
 aliases: ["Bola"]
-aon_id: "weapon-92"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=331"
 source: "Treasure Vault (Remastered)"
 ---
 
 # Bola  *Weapon 0*
 
-`Nonlethal`  `Ranged Trip`  `Thrown`  `Uncommon`
+`Nonlethal`  `Ranged Trip`  `Thrown`
 
 - **Price**: 5 sp
 - **Damage**: 1d6 B
@@ -26,7 +24,7 @@ source: "Treasure Vault (Remastered)"
 - **Category**: Martial
 - **Group**: Sling
 
-This throwing weapon consists of weights tied to the end of long cords, which can be used to bludgeon foes or entangle their legs.
+This throwing weapon consists of weights tied to the end of long cords, which can be used to entangle foes.
 
 ### Critical Specialization Effects
 

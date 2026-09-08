@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Expedition Leader"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Expedition Leader"
 level: 9
 source: "NPC Core"
-aon_id: "creature-3478"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3478"
 ---
 
@@ -40,7 +38,7 @@ abilities_top:
   - name: "On Guard"
     desc: "When the expedition leader [[srd/pf2e/compendium/rules-elements/actions/player-core#Scout|Scouts]], they grant their party a +2 circumstance bonus to their initiative rolls."
   - name: "Items"
-    desc: "Compass, four-person tent, _+1 [[srd/pf2e/compendium/equipment/armor#Hide Armor|hide armor]]_, hooded lantern, _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/machete-weapon-516|machete]]_, [[srd/pf2e/compendium/equipment/adventuring-gear/repair-toolkit-superb|Repair Toolkit]], Shortbow (20 arrows), Spyglass, [[srd/pf2e/compendium/equipment/adventuring-gear/sun-goggles|Sun Goggles]], Survey Map"
+    desc: "Compass, four-person tent, _+1 [[srd/pf2e/compendium/equipment/armor#Hide Armor|hide armor]]_, hooded lantern, _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/machete-weapon-516|machete]]_, [[srd/pf2e/compendium/equipment/adventuring-gear/repair-toolkit|Repair Toolkit]], Shortbow (20 arrows), Spyglass, [[srd/pf2e/compendium/equipment/adventuring-gear/sun-goggles|Sun Goggles]], Survey Map"
 ac: 27
 armorclass:
   - name: "AC"

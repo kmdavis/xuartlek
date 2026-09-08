@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/psychic
 - feat/level/18
 aliases: ["Cranial Detonation"]
-aon_id: "feat-8347"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8347"
 source: "Dark Archives (Remastered)"
 ---
 

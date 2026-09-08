@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core-2
 aliases: ["Terror Bird"]
-aon_id: "creature-family-626"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=626"
 source: "Monster Core 2"
 ---
 

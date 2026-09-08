@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -12,7 +11,7 @@ tags:
 - trait/primal
 - feat/level/4
 aliases: ["Lava Leap"]
-aon_id: "feat-4297"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4297"
 source: "Rage of Elements"
 ---
 

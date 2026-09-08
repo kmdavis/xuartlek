@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core
 aliases: ["Lizardfolk"]
-aon_id: "creature-family-441"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=441"
 source: "Monster Core"
 ---
 
@@ -24,7 +23,7 @@ The typical iruxi's pride in their traditions, suspicion of others, and need to 
 
 ### Lizardfolk Society
 
-Iruxis are, as a general rule, quite religious. Those who venerate deities typically look to Gozreh, but some of them find the teachings of Desna to be compelling. Most iruxis, though, instead follow druidic traditions, ancestor worship, and astrological philosophies in particular.
+Iruxis are, as a general rule, quite religious. Those who venerate deities typically look to [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/gozreh|Gozreh]], but some of them find the teachings of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/desna|Desna]] to be compelling. Most iruxis, though, instead follow druidic traditions, ancestor worship, and astrological philosophies in particular.
 
 ### Other Divinations
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/summon
 - spell/level/2
 aliases: ["Summon Elemental"]
-aon_id: "spell-1698"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1698"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 
 - **Traditions**: Arcane, Primal
 - **Spell Lists**: Elemental
-- **Deities**: Ayrzul, Hshurha, Kelizandri, Laudinmio, Rivethun, Shumunue, Ymeri
+- **Deities**: [[srd/pf2e/compendium/deities/elemental-lords/ayrzul|Ayrzul]], [[srd/pf2e/compendium/deities/elemental-lords/hshurha|Hshurha]], [[srd/pf2e/compendium/deities/elemental-lords/kelizandri|Kelizandri]], [[srd/pf2e/compendium/deities/elemental-lords/laudinmio|Laudinmio]], [[srd/pf2e/compendium/deities/faiths-philosophies/rivethun|Rivethun]], [[srd/pf2e/compendium/deities/elemental-lords/shumunue|Shumunue]], [[srd/pf2e/compendium/deities/elemental-lords/ymeri|Ymeri]]
 - **Range**: 30 feet
 - **Duration**: sustained up to 1 minute
 

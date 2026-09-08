@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Hobgoblin Vanguard"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Hobgoblin Vanguard"
 level: 8
 source: "NPC Core"
-aon_id: "creature-3650"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3650"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [5, 2, 3, 2, 1, 1]
 abilities_top:
   - name: "Items"
-    desc: "alchemical grenades, [[srd/pf2e/compendium/equipment/adventuring-gear/alchemists-toolkit|Alchemist's Toolkit]], Full Plate, _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/hammer/maul|maul]]_"
+    desc: "alchemical grenades, [[srd/pf2e/compendium/equipment/adventuring-gear/alchemists-toolkit|Alchemist's Toolkit]], Full Plate, _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/hammer/maul|maul]]_"
 ac: 27
 armorclass:
   - name: "AC"

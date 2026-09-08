@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/witch
 - feat/level/14
 aliases: ["Patron’s Presence"]
-aon_id: "feat-5015"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5015"
 source: "Player Core"
 ---
 

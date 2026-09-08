@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/10
 aliases: ["Freeze Time"]
-aon_id: "spell-1538"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1538"
 source: "Player Core"
 ---
 

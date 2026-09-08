@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - equipment/level/12
 aliases: ["Rune Of Sin"]
-aon_id: "equipment-5180"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5180"
 source: "Impossible Magic"
 ---
 
@@ -17,7 +16,7 @@ source: "Impossible Magic"
 
 `Arcane`  `Invested`  `Tattoo`  `Uncommon`
 
-- **Price**: 1,700 gp
+- **Price**: 1, 700 gp
 - **Usage**: tattooed on the body
 
 This jagged glyph matches one of the Thassilonian runes of sin—envy, gluttony, greed, lust, pride, sloth, or wrath— chosen when the tattoo is created. When you Cast a Spell from the arcane tradition, the tattoo shimmers with energy, granting you [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Resistance|resistance]] 10 to damage from divine spells until the start of your next turn.

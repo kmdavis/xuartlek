@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/secret
 - ritual/level/4
 aliases: ["Unsealing of Secrets"]
-aon_id: "ritual-271"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=271"
 source: "Impossible Magic"
 ---
 

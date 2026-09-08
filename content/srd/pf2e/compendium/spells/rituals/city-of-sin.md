@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - ritual/level/7
 aliases: ["City Of Sin"]
-aon_id: "ritual-190"
+aon_url: "https://2e.aonprd.com/MythicRituals.aspx?ID=190"
 source: "War of Immortals"
 ---
 
@@ -20,7 +19,7 @@ source: "War of Immortals"
 - **Cast**: 7 days
 - **Secondary Casters**: 2
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] (mythic) or [[srd/pf2e/compendium/rules-elements/skills/society|Society]] (mythic)
-- **Secondary Checks**: Intimidation , Underworld Lore
+- **Secondary Checks**: Intimidation, Underworld Lore
 - **Area**: 7-mile radius circle centered on you
 - **Duration**: 1 month
 

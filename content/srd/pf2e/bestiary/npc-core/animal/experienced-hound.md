@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Experienced Hound"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Experienced Hound"
 level: 7
 source: "NPC Core"
-aon_id: "creature-3678"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3678"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Anguished Flame"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Anguished Flame"
 level: 13
 source: "Monster Core 2"
-aon_id: "creature-4523"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4523"
 ---
 
@@ -40,7 +38,7 @@ abilities_top:
   - name: "Eternal Luminosity"
     desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/light|light]]) An anguished flame naturally sheds brilliant light like a [[srd/pf2e/compendium/equipment/adventuring-gear/torch|torch]]. When other creatures target the anguished flame, they ignore the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition from [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Darkness|darkness]], [[srd/pf2e/books/gm-core/chapter-2-building-games/environment#Fog|fog]], mist, and [[srd/pf2e/books/gm-core/chapter-2-building-games/environment#Smoke|smoke]]."
   - name: "Purifying Flame"
-    desc: "An anguished flame can [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Wounds|Treat Wounds]] without a [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit-expanded|healer's toolkit]], instead healing the wounded with the gentle light of their touch."
+    desc: "An anguished flame can [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Wounds|Treat Wounds]] without a [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit|healer's toolkit]], instead healing the wounded with the gentle light of their touch."
 ac: 33
 armorclass:
   - name: "AC"
@@ -76,7 +74,7 @@ abilities_bot:
   - name: "Requirements"
     desc: "The anguished flame's solar flare aura is active"
   - name: "Effect"
-    desc: "The anguished flame fixes their fiery eyes on a creature they can see within 30 feet. The target must immediately attempt a Fortitude save against the anguished flame's solar flare. If the creature was already [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] by solar flare before attempting its save, a failed save causes it to become [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] until the end of its next turn. Ages In Darkness Over the eon of Lord Atreia's imprisonment inside the Garnet Brand, temples to the Lambent King lay dormant and decaying across the [[srd/pf2e/compendium/gm/planes#Plane of Fire|Plane of Fire]], and within those temples, his children, known as ygnaires, began to fade. Without the light of their Lord of Fire, these elementals who waned became known as anguished flames. They eventually turned to unmoving bronze, frozen until Atreia's light shone down on them again."
+    desc: "The anguished flame fixes their fiery eyes on a creature they can see within 30 feet. The target must immediately attempt a Fortitude save against the anguished flame's solar flare. If the creature was already [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] by solar flare before attempting its save, a failed save causes it to become [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] until the end of its next turn. Ages In Darkness Over the eon of Lord [[srd/pf2e/compendium/deities/elemental-lords/atreia|Atreia's]] imprisonment inside the Garnet Brand, temples to the Lambent King lay dormant and decaying across the [[srd/pf2e/compendium/gm/planes#Plane of Fire|Plane of Fire]], and within those temples, his children, known as ygnaires, began to fade. Without the light of their Lord of Fire, these elementals who waned became known as anguished flames. They eventually turned to unmoving bronze, frozen until Atreia's light shone down on them again."
 spellcasting:
   - name: "Divine Innate Spells"
     desc: "DC 30, attack +22 - __Cantrips (7th)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/ignition|Ignition]], [[srd/pf2e/compendium/spells/cantrips/light|Light]] - __7th__ [[srd/pf2e/compendium/spells/rank-3/fireball|Fireball]] (×2), [[srd/pf2e/compendium/spells/rank-7/interplanar-teleport|Interplanar Teleport]] - __Constant (5th)__ [[srd/pf2e/compendium/spells/rank-5/truespeech|Truespeech]]"

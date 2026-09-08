@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -8,7 +7,7 @@ tags:
 - trait/dedication
 - feat/level/2
 aliases: ["Elementalist Dedication"]
-aon_id: "feat-4340"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4340"
 source: "Rage of Elements"
 ---
 

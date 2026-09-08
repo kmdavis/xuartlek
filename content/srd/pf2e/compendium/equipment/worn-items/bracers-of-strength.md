@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - equipment/level/17
 aliases: ["Bracers of Strength"]
-aon_id: "equipment-3008"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3008"
 source: "GM Core"
 ---
 
@@ -16,7 +15,7 @@ source: "GM Core"
 
 `Apex`  `Invested`  `Magical`
 
-- **Price**: 15,000 gp
+- **Price**: 15, 000 gp
 - **Usage**: worn bracers
 
 Etchings of powerful bears decorate these brass bracers. You gain a +3 item bonus to Athletics checks and a +2 circumstance bonus to Athletics checks to lift a heavy object, Escape, and Force Open. When you invest the bracers, you either increase your Strength modifier by 1 or increase it to +4, whichever would give you a higher value. 

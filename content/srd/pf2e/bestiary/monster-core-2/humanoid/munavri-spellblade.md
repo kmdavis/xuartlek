@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Munavri Spellblade"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Munavri Spellblade"
 level: 2
 source: "Monster Core 2"
-aon_id: "creature-4483"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4483"
 ---
 

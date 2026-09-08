@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -10,7 +9,7 @@ tags:
 - trait/spellgun
 - equipment/level/5
 aliases: ["Sparking Spellgun"]
-aon_id: "equipment-2125"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2125"
 source: "Treasure Vault (Remastered)"
 ---
 

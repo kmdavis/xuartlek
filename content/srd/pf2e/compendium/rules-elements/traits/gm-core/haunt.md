@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/gm-core
 - trait/haunt
 aliases: ["Haunt"]
-aon_id: "trait-622"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=622"
 source: "GM Core"
 ---
 

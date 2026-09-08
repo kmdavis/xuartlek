@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Adlet"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Adlet"
 level: 9
 source: "Monster Core 2"
-aon_id: "creature-4011"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4011"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [5, 6, 4, 0, 4, 0]
 abilities_top:
   - name: "Items"
-    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/spear/spear|spear]]_ (2)"
+    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/spear/spear|spear]]_ (2)"
 ac: 29
 armorclass:
   - name: "AC"
@@ -64,7 +62,7 @@ attacks:
     desc: "⬻ spear +21 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 20 feet]]) __Damage__ 2d6+9 piercing plus 1d6 cold"
 abilities_bot:
   - name: "Frozen Weapons"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]) Weapons wielded by an adlet gain the effect of the [[srd/pf2e/compendium/equipment/runes/frost-greater|_frost_]] property rune."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]) Weapons wielded by an adlet gain the effect of the [[srd/pf2e/compendium/equipment/runes/frost|_frost_]] property rune."
   - name: "Pack Attack"
     desc: "An adlet's Strikes deal an additional 2d6 damage to creatures that are within the reach of at least two of the adlet's allies."
   - name: "Wolfrime"

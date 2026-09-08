@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -11,7 +10,7 @@ tags:
 - trait/uncommon
 - weapon/level/0
 aliases: ["Fighting Fan"]
-aon_id: "weapon-284"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=284"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -20,7 +19,7 @@ source: "Treasure Vault (Remastered)"
 `Agile`  `Backstabber`  `Deadly`  `Finesse`  `Monk`  `Uncommon`
 
 - **PFS Note**: Characters from Tian Xia have access to this option
-- **Favored Weapon**: Fortune's Fate, Lady Jingxi
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/pantheons/fortunes-fate|Fortune's Fate]], Lady Jingxi
 - **Price**: 1 gp, 1 sp
 - **Damage**: 1d4 S
 - **Bulk**: L

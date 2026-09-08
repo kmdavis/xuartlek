@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class-feature
 tags:
 - compendium/src/pf2e/battlecry
 - class-feature/level/9
 aliases: ["Fortitude Expertise"]
-aon_id: "class-feature-1101"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=66"
 source: "Battlecry!"
 ---
 

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/monster-core
 - trait/qlippoth
 aliases: ["Qlippoth"]
-aon_id: "trait-767"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=767"
 source: "Monster Core"
 ---
 

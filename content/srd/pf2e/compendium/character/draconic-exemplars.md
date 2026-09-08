@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-draconic-exemplar
 tags:
 - compendium/src/pf2e/player-core-2
@@ -9,7 +8,7 @@ entries: 4
 
 # Draconic Exemplars
 
-## Arcane  *Draconic Exemplar*
+## Arcane
 
 **Tradition**
 Arcane
@@ -24,7 +23,7 @@ Arcane
 
 *Source: Player Core 2 p. 150*
 
-## Divine  *Draconic Exemplar*
+## Divine
 
 **Tradition**
 Divine
@@ -39,7 +38,7 @@ Divine
 
 *Source: Player Core 2 p. 150*
 
-## Occult  *Draconic Exemplar*
+## Occult
 
 **Tradition**
 Occult
@@ -54,7 +53,7 @@ Occult
 
 *Source: Player Core 2 p. 150*
 
-## Primal  *Draconic Exemplar*
+## Primal
 
 **Tradition**
 Primal

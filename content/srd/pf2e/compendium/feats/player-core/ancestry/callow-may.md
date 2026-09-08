@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/lineage
 - feat/level/1
 aliases: ["Callow May"]
-aon_id: "feat-4531"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4531"
 source: "Player Core"
 ---
 

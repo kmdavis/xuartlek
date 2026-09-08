@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -10,7 +9,7 @@ tags:
 - trait/witch
 - spell/level/3
 aliases: ["Return the Favor"]
-aon_id: "spell-2598"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2598"
 source: "Dark Archives (Remastered)"
 ---
 
@@ -18,7 +17,7 @@ source: "Dark Archives (Remastered)"
 
 `Focus`  `Hex`  `Manipulate`  `Uncommon`  `Witch`
 
-- **Lesson**: Lesson of Favors
+- **Lesson**: [[srd/pf2e/compendium/character/lessons#Lesson of Favors|Lesson of Favors]]
 - **Trigger**: An ally uses a reaction to grant you a beneficial effect during a combat encounter
 - **Range**: 30 feet
 - **Target**: 1 ally

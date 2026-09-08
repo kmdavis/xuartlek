@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/rare
 - vehicle/level/4
 aliases: ["Steam Trolley"]
-aon_id: "vehicle-24"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=24"
 source: "Guns & Gears (Remastered)"
 ---
 

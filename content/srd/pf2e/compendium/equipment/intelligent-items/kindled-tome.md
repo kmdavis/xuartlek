@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/rare
 - equipment/level/11
 aliases: ["Kindled Tome"]
-aon_id: "equipment-2397"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2397"
 source: "Treasure Vault (Remastered)"
 ---
 

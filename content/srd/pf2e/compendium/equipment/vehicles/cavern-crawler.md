@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/battlecry
 - trait/rare
 - vehicle/level/20
 aliases: ["Cavern Crawler"]
-aon_id: "vehicle-99"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=99"
 source: "Battlecry!"
 ---
 
@@ -14,7 +13,7 @@ source: "Battlecry!"
 
 `Rare`
 
-- **Price**: 210,000 gp
+- **Price**: 210, 000 gp
 
 This massive undead vehicle is created by crafting a piloting and cargo compartment within the husk of a massive cave worm and then infusing the remains with void energy. This compartment has breathable air as well as sealable weapon ports. Designed specifically to burrow under and then behind enemy positions, cavern crawlers can attack enemies on their flank or bring supplies and reinforcements to troops deep behind enemy lines.
 

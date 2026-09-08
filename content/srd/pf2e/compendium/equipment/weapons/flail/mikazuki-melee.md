@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -11,7 +10,7 @@ tags:
 - trait/uncommon
 - weapon/level/0
 aliases: ["Mikazuki (Melee)"]
-aon_id: "weapon-347--melee"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=347"
 source: "Treasure Vault (Remastered)"
 ---
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ancestry
 tags:
 - compendium/src/pf2e/player-core
 - trait/humanoid
 - trait/orc
 aliases: ["Orc"]
-aon_id: "ancestry-66"
+aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=66"
 source: "Player Core"
 ---
 
@@ -34,7 +33,7 @@ Most orc communities—known as holds—define themselves through two things: pa
 
 ### Alignment and Religion
 
-A common orc saying is “you are the scars that shape you.” Violent, chaotic lives in violent, chaotic lands mean that most orcs tend to expect and accept violence. Lamashtu, and Rovagug are commonly worshiped among more war-minded orc communities, while less violent holds worship gods like Sarenrae, whose tenets of fire, redemption, and glory all hold some appeal to orc sensibilities.
+A common orc saying is “you are the scars that shape you.” Violent, chaotic lives in violent, chaotic lands mean that most orcs tend to expect and accept violence. [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/lamashtu|Lamashtu]], and [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/rovagug|Rovagug]] are commonly worshiped among more war-minded orc communities, while less violent holds worship gods like [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/sarenrae|Sarenrae]], whose tenets of fire, redemption, and glory all hold some appeal to orc sensibilities.
 
  While there are orc deities, their worship is surprisingly uncommon among orcs. Orcs believe that if a creature has a face and a name, it can be killed, and so their own deities are often targets, rather than objects of reverence. Some orc holds teach that the greatest members of the hold can earn a chance to challenge the orc deities for a place amid the pantheon.
 

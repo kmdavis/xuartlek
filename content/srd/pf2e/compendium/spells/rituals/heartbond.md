@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/uncommon
 - ritual/level/2
 aliases: ["Heartbond"]
-aon_id: "ritual-149"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=149"
 source: "Player Core 2"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core 2"
 - **Cost**: sacramental beverages and a set of matching rings or other tokens worth 20 gp per secondary caster
 - **Secondary Casters**: 2 or more
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] or [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] (expert)
-- **Secondary Checks**: Diplomacy , Society
+- **Secondary Checks**: Diplomacy, Society
 - **Range**: 20 feet
 
 You officiate the creation of a magical bond between two or more willing creatures, who are secondary casters of the ritual and must share genuine affection for one another. As part of the ritual, all members of the bond receive a ring, amulet, or similar token to symbolize their shared connection. They lose the effects of the ritual when not wearing the token, and the bond is broken if either token is destroyed.

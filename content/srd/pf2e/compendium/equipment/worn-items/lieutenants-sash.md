@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/magical
 - equipment/level/6
 aliases: ["Lieutenant's Sash"]
-aon_id: "equipment-3969"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3969"
 source: "Battlecry!"
 ---
 

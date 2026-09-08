@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/processed
 - equipment/level/3
 aliases: ["Diplomat's Charcuterie"]
-aon_id: "equipment-1914"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1914"
 source: "Treasure Vault (Remastered)"
 ---
 

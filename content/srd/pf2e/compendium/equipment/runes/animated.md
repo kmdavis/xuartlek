@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - equipment/level/13
 aliases: ["Animated"]
-aon_id: "equipment-2831"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2831"
 source: "GM Core"
 ---
 
@@ -15,7 +14,7 @@ source: "GM Core"
 
 `Magical`  `Uncommon`
 
-- **Price**: 2,700 gp
+- **Price**: 2, 700 gp
 - **Usage**: etched onto a melee weapon
 
 An _animated weapon_ flies autonomously and strikes your foes. 

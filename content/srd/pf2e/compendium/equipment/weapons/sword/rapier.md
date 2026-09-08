@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/finesse
 - weapon/level/0
 aliases: ["Rapier"]
-aon_id: "weapon-391"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=391"
 source: "Player Core"
 ---
 
@@ -16,7 +15,7 @@ source: "Player Core"
 
 `Deadly`  `Disarm`  `Finesse`
 
-- **Favored Weapon**: Arazni, Besmara, Cayden Cailean, Children of the Night, Count Ranalc, Dachzerul, Hastur, Seafarer's Hope, Sigek, Skrymir, Touch of the Sun, Zura
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/arazni|Arazni]], [[srd/pf2e/compendium/deities/other-gods/besmara|Besmara]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/cayden-cailean|Cayden Cailean]], [[srd/pf2e/compendium/deities/pantheons/children-of-the-night|Children of the Night]], [[srd/pf2e/compendium/deities/eldest/count-ranalc|Count Ranalc]], [[srd/pf2e/compendium/deities/sakhil-tormentors/dachzerul|Dachzerul]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/hastur|Hastur]], Seafarer's Hope, Sigek, [[srd/pf2e/compendium/deities/giant-gods/skrymir|Skrymir]], Touch of the Sun, Zura
 - **Price**: 2 gp
 - **Damage**: 1d6 P
 - **Bulk**: 1
@@ -33,6 +32,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/artifacts/final-stand|Final Stand]], Protector's Final Gift, Rime Foil, [[srd/pf2e/compendium/equipment/weapons/storm-flash-greater|Storm Flash]], Viper Rapier
+[[srd/pf2e/compendium/equipment/artifacts/final-stand|Final Stand]], Protector's Final Gift, Rime Foil, [[srd/pf2e/compendium/equipment/weapons/storm-flash|Storm Flash]], Viper Rapier
 
 *Source: Player Core p. 278*

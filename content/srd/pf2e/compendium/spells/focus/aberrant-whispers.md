@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -11,7 +10,7 @@ tags:
 - trait/uncommon
 - spell/level/3
 aliases: ["Aberrant Whispers"]
-aon_id: "spell-2091"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2091"
 source: "Player Core 2"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core 2"
 
 `Auditory`  `Concentrate`  `Focus`  `Mental`  `Sorcerer`  `Uncommon`
 
-- **Bloodline**: Aberrant
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Aberrant|Aberrant]]
 - **Area**: 5-foot emanation or more
 - **Target**: each foe in the area
 - **Defense**: Will

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -7,7 +6,7 @@ tags:
 - trait/magical
 - equipment/level/16
 aliases: ["Icicle"]
-aon_id: "equipment-2868"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2868"
 source: "GM Core"
 ---
 
@@ -15,7 +14,7 @@ source: "GM Core"
 
 `Cold`  `Magical`
 
-- **Price**: 10,000 gp
+- **Price**: 10, 000 gp
 - **Usage**: held in 2 hands
 - **Bulk**: 2
 - **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/spear/longspear|Longspear]]

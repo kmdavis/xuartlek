@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/fortune
 - feat/level/8
 aliases: ["Acquired Tolerance"]
-aon_id: "feat-6386"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6386"
 source: "Player Core 2"
 ---
 
@@ -19,6 +18,6 @@ source: "Player Core 2"
 - **Prerequisites**: [[srd/pf2e/compendium/feats/player-core-2/archetype/poisoner-dedication|Poisoner Dedication]]
 - **Trigger**: You fail a save against a poison.
 
-A small amount of poison taken at nonlethal doses, can help the body build up resistance against a more deadly dosage. Reroll the triggering check and use the second result. Once you use Acquired Tolerance, you can continue to use it against the same type of poison that day, but you can't use it against a different type of poison until after you make your next daily preparations. For instance, if you used the reaction on a save against [[srd/pf2e/compendium/equipment/alchemical-items/giant-scorpion-venom-equipment-3335|giant scorpion venom]], you could use it again against giant scorpion venom even if it came from a different source, but you couldn't use it against [[srd/pf2e/compendium/equipment/alchemical-items/wyvern-poison-equipment-3350|wyvern poison]].
+A small amount of poison taken at nonlethal doses, can help the body build up resistance against a more deadly dosage. Reroll the triggering check and use the second result. Once you use Acquired Tolerance, you can continue to use it against the same type of poison that day, but you can't use it against a different type of poison until after you make your next daily preparations. For instance, if you used the reaction on a save against [[srd/pf2e/compendium/equipment/alchemical-items/giant-scorpion-venom|giant scorpion venom]], you could use it again against giant scorpion venom even if it came from a different source, but you couldn't use it against [[srd/pf2e/compendium/equipment/alchemical-items/wyvern-poison|wyvern poison]].
 
 *Source: Player Core 2 p. 210*

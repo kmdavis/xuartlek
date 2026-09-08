@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-archetype
 tags:
 - compendium/src/pf2e/rage-of-elements
 - archetype/level/2
 aliases: ["Elementalist"]
-aon_id: "archetype-207"
+aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=207"
 source: "Rage of Elements"
 ---
 

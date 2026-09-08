@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Apprentice Magician Clique"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Apprentice Magician Clique"
 level: 5
 source: "Battlecry!"
-aon_id: "creature-3900"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3900"
 ---
 

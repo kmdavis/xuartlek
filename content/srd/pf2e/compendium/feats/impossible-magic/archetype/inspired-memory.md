@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/skill
 - feat/level/3
 aliases: ["Inspired Memory"]
-aon_id: "feat-9339"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9339"
 source: "Impossible Magic"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-language
 tags:
 - compendium/src/pf2e/gm-core
@@ -14,7 +13,7 @@ entries: 40
 
 # Languages
 
-## Aklo  *Language*
+## Aklo
 
 `Uncommon`
 
@@ -22,7 +21,7 @@ entries: 40
 
 *Source: Player Core p. 89*
 
-## Chthonian  *Language*
+## Chthonian
 
 `Uncommon`
 
@@ -30,13 +29,13 @@ entries: 40
 
 *Source: Player Core p. 89*
 
-## Common  *Language*
+## Common
 
 
 
 *Source: Player Core p. 89*
 
-## Diabolic  *Language*
+## Diabolic
 
 `Uncommon`
 
@@ -44,25 +43,25 @@ entries: 40
 
 *Source: Player Core p. 89*
 
-## Draconic  *Language*
+## Draconic
 
 
 
 *Source: Player Core p. 89*
 
-## Dwarven  *Language*
+## Dwarven
 
 
 
 *Source: Player Core p. 89*
 
-## Elven  *Language*
+## Elven
 
 
 
 *Source: Player Core p. 89*
 
-## Empyrean  *Language*
+## Empyrean
 
 `Uncommon`
 
@@ -70,31 +69,31 @@ entries: 40
 
 *Source: Player Core p. 89*
 
-## Fey  *Language*
+## Fey
 
 
 
 *Source: Player Core p. 89*
 
-## Gnomish  *Language*
+## Gnomish
 
 
 
 *Source: Player Core p. 89*
 
-## Goblin  *Language*
+## Goblin
 
 
 
 *Source: Player Core p. 89*
 
-## Halfling  *Language*
+## Halfling
 
 
 
 *Source: Player Core p. 89*
 
-## Hallit  *Language*
+## Hallit
 
 `Uncommon`
 
@@ -102,7 +101,7 @@ entries: 40
 
 *Source: GM Core p. 159*
 
-## Jistka  *Language*
+## Jistka
 
 `Rare`
 
@@ -110,13 +109,13 @@ entries: 40
 
 *Source: Guns & Gears (Remastered) p. 37*
 
-## Jotun  *Language*
+## Jotun
 
 
 
 *Source: Player Core p. 89*
 
-## Kelish  *Language*
+## Kelish
 
 `Uncommon`
 
@@ -124,7 +123,7 @@ entries: 40
 
 *Source: GM Core p. 159*
 
-## Kholo  *Language*
+## Kholo
 
 `Uncommon`
 
@@ -132,7 +131,7 @@ entries: 40
 
 *Source: Player Core p. 89*
 
-## Lashunta  *Language*
+## Lashunta
 
 `Rare`
 
@@ -140,7 +139,7 @@ entries: 40
 
 *Source: Howl of the Wild p. 180*
 
-## Muan  *Language*
+## Muan
 
 `Uncommon`
 
@@ -148,7 +147,7 @@ entries: 40
 
 *Source: Rage of Elements*
 
-## Mwangi  *Language*
+## Mwangi
 
 `Uncommon`
 
@@ -156,7 +155,7 @@ entries: 40
 
 *Source: GM Core p. 159*
 
-## Necril  *Language*
+## Necril
 
 `Uncommon`
 
@@ -164,13 +163,13 @@ entries: 40
 
 *Source: Player Core p. 89*
 
-## Orcish  *Language*
+## Orcish
 
 
 
 *Source: Player Core p. 89*
 
-## Orvian  *Language*
+## Orvian
 
 `Rare`
 
@@ -178,7 +177,7 @@ entries: 40
 
 *Source: Rage of Elements*
 
-## Osiriani  *Language*
+## Osiriani
 
 `Uncommon`
 
@@ -186,7 +185,7 @@ entries: 40
 
 *Source: GM Core p. 159*
 
-## Petran  *Language*
+## Petran
 
 `Uncommon`
 
@@ -194,7 +193,7 @@ entries: 40
 
 *Source: Player Core p. 89*
 
-## Pyric  *Language*
+## Pyric
 
 `Uncommon`
 
@@ -202,13 +201,13 @@ entries: 40
 
 *Source: Player Core p. 89*
 
-## Sakvroth  *Language*
+## Sakvroth
 
 
 
 *Source: Player Core p. 89*
 
-## Shadowtongue  *Language*
+## Shadowtongue
 
 `Uncommon`
 
@@ -216,7 +215,7 @@ entries: 40
 
 *Source: Player Core p. 89*
 
-## Shoanti  *Language*
+## Shoanti
 
 `Uncommon`
 
@@ -224,7 +223,7 @@ entries: 40
 
 *Source: GM Core p. 159*
 
-## Skald  *Language*
+## Skald
 
 `Uncommon`
 
@@ -232,7 +231,7 @@ entries: 40
 
 *Source: GM Core p. 159*
 
-## Surki  *Language*
+## Surki
 
 `Rare`
 
@@ -240,7 +239,7 @@ entries: 40
 
 *Source: Howl of the Wild p. 47*
 
-## Sussuran  *Language*
+## Sussuran
 
 `Uncommon`
 
@@ -248,7 +247,7 @@ entries: 40
 
 *Source: Player Core p. 89*
 
-## Talican  *Language*
+## Talican
 
 `Uncommon`
 
@@ -256,7 +255,7 @@ entries: 40
 
 *Source: Rage of Elements*
 
-## Thalassic  *Language*
+## Thalassic
 
 `Uncommon`
 
@@ -264,7 +263,7 @@ entries: 40
 
 *Source: Player Core p. 89*
 
-## Tien  *Language*
+## Tien
 
 `Uncommon`
 
@@ -272,7 +271,7 @@ entries: 40
 
 *Source: GM Core p. 159*
 
-## Tripkee  *Language*
+## Tripkee
 
 `Uncommon`
 
@@ -280,7 +279,7 @@ entries: 40
 
 *Source: Player Core 2 p. 37*
 
-## Varisian  *Language*
+## Varisian
 
 `Uncommon`
 
@@ -288,7 +287,7 @@ entries: 40
 
 *Source: GM Core p. 159*
 
-## Vudrani  *Language*
+## Vudrani
 
 `Uncommon`
 
@@ -296,7 +295,7 @@ entries: 40
 
 *Source: GM Core p. 159*
 
-## Wildsong  *Language*
+## Wildsong
 
 `Secret`
 
@@ -304,7 +303,7 @@ entries: 40
 
 *Source: Player Core p. 89*
 
-## Ysoki  *Language*
+## Ysoki
 
 
 

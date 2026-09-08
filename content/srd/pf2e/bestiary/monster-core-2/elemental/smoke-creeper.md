@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Smoke Creeper"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Smoke Creeper"
 level: 6
 source: "Monster Core 2"
-aon_id: "creature-4380"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4380"
 ---
 
@@ -60,7 +58,7 @@ abilities_bot:
   - name: "Requirements"
     desc: "At least one creature within 40 feet is [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] from the smoke creeper's Choking Swoop"
   - name: "Effect"
-    desc: "The smoke creeper flaps its wings, violently drawing the lingering smoke free from all creatures immobilized from its Choking Swoop within 40 feet. Each target must attempt a DC 23 Fortitude save. On a failure, the creature is [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 1 for 1 minute and [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1 (enfeebled 2 and sickened 2 on a critical failure). Regardless of the result, the creature is no longer immobilized from the smoke creeper's Choking Swoop. Air And Smoke Elementals of smoke, such as the smoke creeper, are often cruel in their attacks on breathing creatures, causing them to choke and cough from their noxious fumes. Some believe that they hold secret allegiances to Ymeri, who holds domain over fire and smoke."
+    desc: "The smoke creeper flaps its wings, violently drawing the lingering smoke free from all creatures immobilized from its Choking Swoop within 40 feet. Each target must attempt a DC 23 Fortitude save. On a failure, the creature is [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 1 for 1 minute and [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1 (enfeebled 2 and sickened 2 on a critical failure). Regardless of the result, the creature is no longer immobilized from the smoke creeper's Choking Swoop. Air And Smoke Elementals of smoke, such as the smoke creeper, are often cruel in their attacks on breathing creatures, causing them to choke and cough from their noxious fumes. Some believe that they hold secret allegiances to [[srd/pf2e/compendium/deities/elemental-lords/ymeri|Ymeri]], who holds domain over fire and smoke."
 sourcebook: "_Monster Core 2_, page 144."
 ```
 

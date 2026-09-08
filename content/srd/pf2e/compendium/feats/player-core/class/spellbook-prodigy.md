@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/wizard
 - feat/level/1
 aliases: ["Spellbook Prodigy"]
-aon_id: "feat-5025"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5025"
 source: "Player Core"
 ---
 

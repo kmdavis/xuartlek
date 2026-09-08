@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/magus
 - feat/level/10
 aliases: ["Split Spellstrike"]
-aon_id: "feat-9078"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9078"
 source: "Impossible Magic"
 ---
 

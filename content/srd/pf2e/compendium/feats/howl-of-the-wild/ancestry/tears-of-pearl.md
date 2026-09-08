@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -11,7 +10,7 @@ tags:
 - trait/visual
 - feat/level/9
 aliases: ["Tears of Pearl"]
-aon_id: "feat-5356"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5356"
 source: "Howl of the Wild"
 ---
 

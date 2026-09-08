@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/archetype
 - feat/level/18
 aliases: ["Master Magus Spellcasting"]
-aon_id: "feat-9291"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9291"
 source: "Impossible Magic"
 ---
 

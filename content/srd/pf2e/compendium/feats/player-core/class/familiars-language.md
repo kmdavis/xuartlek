@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/witch
 - feat/level/2
 aliases: ["Familiar's Language"]
-aon_id: "feat-4998"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4998"
 source: "Player Core"
 ---
 

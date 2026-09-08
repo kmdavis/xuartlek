@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
 - equipment/level/6
 aliases: ["Spellguard Shield"]
-aon_id: "equipment-2826"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2826"
 source: "GM Core"
 ---
 

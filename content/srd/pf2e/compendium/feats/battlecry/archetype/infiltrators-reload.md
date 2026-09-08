@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
 - trait/archetype
 - feat/level/6
 aliases: ["Infiltrator's Reload"]
-aon_id: "feat-7916"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7916"
 source: "Battlecry!"
 ---
 

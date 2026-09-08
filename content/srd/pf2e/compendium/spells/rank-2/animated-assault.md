@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/2
 aliases: ["Animated Assault"]
-aon_id: "spell-1964"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1964"
 source: "Player Core 2"
 ---
 

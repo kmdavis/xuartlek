@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-apparition
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -9,7 +8,7 @@ entries: 11
 
 # Apparitions
 
-## Crafter in the Vault  *Animist Apparition*
+## Crafter in the Vault
 
 Crafters in the vault are found in dungeons, forges, or other places where creation and injury occur concurrently. They enjoy partnering with animists who compliment them on their creations, but often become jealous when anyone else intrudes on their expertise, including casting any of the spells that appear on their apparition list.
 
@@ -33,7 +32,7 @@ Crafters in the vault are found in dungeons, forges, or other places where creat
 
 *Source: War of Immortals p. 17*
 
-## Custodian of Groves and Gardens  *Animist Apparition*
+## Custodian of Groves and Gardens
 
 Custodians of groves and gardens frequent tended greenery and farmlands cared for by loving stewards, and other places of reflection and restoration where green things grow. Some of these apparitions linger in the mortal realms not because they have lost their way, but because they believe they have already found [[srd/pf2e/compendium/gm/planes#Elysium|Elysium]]. Others are the cultivated spiritual essence of the location itself. Custodians of groves and gardens are peaceful, quiet, and averse to conflict.
 
@@ -57,7 +56,7 @@ Custodians of groves and gardens frequent tended greenery and farmlands cared fo
 
 *Source: War of Immortals p. 18*
 
-## Echo of Lost Moments  *Animist Apparition*
+## Echo of Lost Moments
 
 Echoes of lost moments are apparitions born from memories that everyone has forgotten, often arising from fragmented pieces of magic and memory left behind by time-altering magic. They may even occur in response to significant temporal tampering, cleaning up fragments of time damaged by irresponsible magic. These apparitions are drawn to animists who are orderly and responsible, and they can give such hosts access to spells that alter a target's timeline or removes them from the current timeline, reveal visions of past or future events, or even accelerate magical effects to a point in time where they have already ended.
 
@@ -81,7 +80,7 @@ Echoes of lost moments are apparitions born from memories that everyone has forg
 
 *Source: War of Immortals p. 18*
 
-## Impostor in Hidden Places  *Animist Apparition*
+## Impostor in Hidden Places
 
 Impostors in hidden places whisper in quiet corners where mortal voices rarely resound, hoarding secrets and pondering unknowable truths. They often bring misfortune to those who disturb them, though an animist who earns their trust will find that they make effective allies.
 
@@ -105,7 +104,7 @@ Impostors in hidden places whisper in quiet corners where mortal voices rarely r
 
 *Source: War of Immortals p. 18*
 
-## Lurker in Devouring Dark  *Animist Apparition*
+## Lurker in Devouring Dark
 
 _**PFS Note** Animists with the Lurker in Devouring Dark apparition are permitted to use the variant rules for Dark Tapestry lurkers._
 
@@ -131,7 +130,7 @@ Lurkers in devouring dark are most often near old shipwrecks, deadly icebergs, a
 
 *Source: War of Immortals p. 19*
 
-## Monarch of the Fey Courts  *Animist Apparition*
+## Monarch of the Fey Courts
 
 Monarchs of the fey courts make their homes near places with strong ties to the [[srd/pf2e/compendium/gm/planes#First World|First World]], or in places where [[srd/pf2e/compendium/gm/creature-families/nymph|nymphs]] once held sway. They are drawn to animists who blend an appreciation for art and nature's beauty with a ruler's ambition. Monarchs of fey courts are vain, capricious, and do not easily forgive slights or poor manners.
 
@@ -155,7 +154,7 @@ Monarchs of the fey courts make their homes near places with strong ties to the 
 
 *Source: War of Immortals p. 19*
 
-## Reveler in Lost Glee  *Animist Apparition*
+## Reveler in Lost Glee
 
 Revelers in lost glee are twisted apparitions that arise in desolate and abandoned places where people once found great joy. They take immense mirth in causing harm or discomfort to others and do not enjoy being attuned to animists who fail to laugh at their antics.
 
@@ -179,7 +178,7 @@ Revelers in lost glee are twisted apparitions that arise in desolate and abandon
 
 *Source: War of Immortals p. 19*
 
-## Stalker in Darkened Boughs  *Animist Apparition*
+## Stalker in Darkened Boughs
 
 Stalkers in darkened boughs make their homes in ancient forests and jungles unfriendly to humanoids and others who would exert control or influence over nature's designs. These apparitions are drawn to animists who harbor violent thoughts or impulses but are more likely to linger with animists who can quell their hatred. Stalkers in darkened boughs are moody, impulsive, and prone to seeing things from the least charitable perspective.
 
@@ -203,7 +202,7 @@ Stalkers in darkened boughs make their homes in ancient forests and jungles unfr
 
 *Source: War of Immortals p. 20*
 
-## Steward of Stone and Fire  *Animist Apparition*
+## Steward of Stone and Fire
 
 Stewards of stone and fire linger near volcanoes and deep places near the heart of the earth, hot springs where the water is too scorchingly hot to allow casual enjoyment, and other places where the barrier between fire and earth is thin or nonexistent, though particularly old rock formations, canyons, and other natural features of earth may also spawn or attract them. Stewards of stone and fire are quick to anger and slow to forget.
 
@@ -227,7 +226,7 @@ Stewards of stone and fire linger near volcanoes and deep places near the heart 
 
 *Source: War of Immortals p. 20*
 
-## Vanguard of Roaring Waters  *Animist Apparition*
+## Vanguard of Roaring Waters
 
 Vanguards of roaring waters are found where rivers carve their way through mountains, creating fearsome rapids. They can also be found near bays where rivers meet the sea and create turbulent breakers and unpredictable undertows, coastal reefs that tear the bottoms from unwary ships and isolate islands, or anywhere else where water becomes violent and difficult to navigate safely. Vanguards of roaring waters encourage chaos and are easily bored.
 
@@ -251,7 +250,7 @@ Vanguards of roaring waters are found where rivers carve their way through mount
 
 *Source: War of Immortals p. 21*
 
-## Witness to Ancient Battles  *Animist Apparition*
+## Witness to Ancient Battles
 
 Witnesses to ancient battles may be the lingering remnants of soldiers who never returned from their last deployment or the restless souls of warriors whose final contest left them unfulfilled. Or the apparitions may be valkyries and other beings from beyond, naturally drawn to sites of death and battle, or even the unquiet entity formed from a battlefield that saw so much death and blood it gained a spiritual essence of its own. Witnesses to ancient battles are often somber and grim.
 

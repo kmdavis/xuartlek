@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Blood Painter"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Blood Painter"
 level: 9
 source: "Monster Core 2"
-aon_id: "creature-4284"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4284"
 ---
 
@@ -62,7 +60,7 @@ abilities_bot:
   - name: "Requirements"
     desc: "The blood painter has fresh blood applied to a claw using Dab"
   - name: "Effect"
-    desc: "The blood painter expends the blood on one claw to paint an illusion with the effects of one of the following spells: [[srd/pf2e/compendium/spells/rank-2/illusory-creature|_illusory creature_]], [[srd/pf2e/compendium/spells/rank-1/illusory-disguise|_illusory disguise_]], or [[srd/pf2e/compendium/spells/rank-1/illusory-object|_illusory object_]]. The Paint action gains the traits of the spell it's reproducing, and the blood painter can [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|Sustain]] these effects. They use a spell attack modifier of +20 and DC 28 for these effects, which are heightened to 5th rank. If they have fresh blood applied to two or more claws, the blood painter can expend the blood on all of them to instead produce the effects of [[srd/pf2e/compendium/spells/rank-5/cloak-of-colors|_cloak of colors_]] or [[srd/pf2e/compendium/spells/rank-6/vibrant-pattern|_vibrant pattern_]]. Any effects produced by this ability have a +2 status bonus to attack rolls, damage rolls, saving throws, skill checks, and AC against the creature whose blood was used to Paint. That creature also takes a –2 status penalty to [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Perception|Perception]] checks and saves against them. Apocryphal Origins Despite blood painters' mysterious origins, the prevailing theory insists the first one arose from overzealous Shelynites so devoted to their art they ceased eating and sleeping, eventually transforming into [[srd/pf2e/compendium/rules-elements/traits/player-core/aberration|aberrations]] that could feed only on their own art. Some believe it possible to “cure” a blood painter, restoring the accursed creature's original memories and form."
+    desc: "The blood painter expends the blood on one claw to paint an illusion with the effects of one of the following spells: [[srd/pf2e/compendium/spells/rank-2/illusory-creature|_illusory creature_]], [[srd/pf2e/compendium/spells/rank-1/illusory-disguise|_illusory disguise_]], or [[srd/pf2e/compendium/spells/rank-1/illusory-object|_illusory object_]]. The Paint action gains the traits of the spell it's reproducing, and the blood painter can [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|Sustain]] these effects. They use a spell attack modifier of +20 and DC 28 for these effects, which are heightened to 5th rank. If they have fresh blood applied to two or more claws, the blood painter can expend the blood on all of them to instead produce the effects of [[srd/pf2e/compendium/spells/rank-5/cloak-of-colors|_cloak of colors_]] or [[srd/pf2e/compendium/spells/rank-6/vibrant-pattern|_vibrant pattern_]]. Any effects produced by this ability have a +2 status bonus to attack rolls, damage rolls, saving throws, skill checks, and AC against the creature whose blood was used to Paint. That creature also takes a –2 status penalty to [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Perception|Perception]] checks and saves against them. Apocryphal Origins Despite blood painters' mysterious origins, the prevailing theory insists the first one arose from overzealous [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/shelyn|Shelynites]] so devoted to their art they ceased eating and sleeping, eventually transforming into [[srd/pf2e/compendium/rules-elements/traits/player-core/aberration|aberrations]] that could feed only on their own art. Some believe it possible to “cure” a blood painter, restoring the accursed creature's original memories and form."
 sourcebook: "_Monster Core 2_, page 60."
 ```
 

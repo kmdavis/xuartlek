@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - equipment/level/12
 aliases: ["Spider Chair"]
-aon_id: "equipment-1163"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1163"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -17,7 +16,7 @@ source: "Guns & Gears (Remastered)"
 `Clockwork`  `Magical`  `Uncommon`
 
 - **PFS Note**: All Pathfinder Society agents have access to all uncommon clockwork items and gadgets from Chapters 1 and 2 of this book
-- **Price**: 1,800 gp
+- **Price**: 1, 800 gp
 - **Bulk**: 3
 - **Access**: Characters from Absalom, New Thassilon, Alkenstar, Dongun Hold, or especially technological regions of Arcadia like the Deadshot Lands have access to uncommon clockwork items from the first two chapters of this book. Uomoto characters, characters from Eihlona, automatons with memories of Jistka, and Arcadians all have access to uncommon magitechnological options from the first two chapters of this book.
 

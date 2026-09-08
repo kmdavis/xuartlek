@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Quickiron Plasm"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Quickiron Plasm"
 level: 4
 source: "Rage of Elements"
-aon_id: "creature-2647"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2647"
 ---
 

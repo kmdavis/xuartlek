@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Apprentice"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Apprentice"
 level: -1
 source: "NPC Core"
-aon_id: "creature-3411"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3411"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [1, 2, 1, 3, 0, 0]
 abilities_top:
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit-sterling|Artisan's Toolkit]], [[srd/pf2e/compendium/equipment/adventuring-gear/map-weather-map|assorted maps]], Dagger, rugged clothes with tool belt (functions as [[srd/pf2e/compendium/equipment/armor#Padded Armor|padded armor]])"
+    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit|Artisan's Toolkit]], [[srd/pf2e/compendium/equipment/adventuring-gear/map|assorted maps]], Dagger, rugged clothes with tool belt (functions as [[srd/pf2e/compendium/equipment/armor#Padded Armor|padded armor]])"
 ac: 14
 armorclass:
   - name: "AC"

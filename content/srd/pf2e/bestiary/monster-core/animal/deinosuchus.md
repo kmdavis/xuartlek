@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Deinosuchus"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Deinosuchus"
 level: 9
 source: "Monster Core"
-aon_id: "creature-2888"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2888"
 ---
 

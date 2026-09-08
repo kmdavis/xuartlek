@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -8,7 +7,7 @@ tags:
 - trait/rare
 - equipment/level/20
 aliases: ["Mythic Weapon Potency"]
-aon_id: "equipment-3501"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3501"
 source: "War of Immortals"
 ---
 
@@ -16,7 +15,7 @@ source: "War of Immortals"
 
 `Magical`  `Mythic`  `Rare`
 
-- **Price**: 70,000 gp
+- **Price**: 70, 000 gp
 - **Usage**: etched onto a weapon
 
 This weapon strikes with peerless accuracy to pierce the defenses of the mightiest monstrosities. Attack rolls with this weapon gain a +4 item bonus, and the weapon can be etched with four [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/armor-armaments#Property Runes|property runes]].

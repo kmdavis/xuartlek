@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Skeletal Giant"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Skeletal Giant"
 level: 3
 source: "Monster Core"
-aon_id: "creature-3196"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3196"
 ---
 

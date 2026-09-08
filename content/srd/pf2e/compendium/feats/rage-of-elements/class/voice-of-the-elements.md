@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/rage-of-elements
 - trait/kineticist
 - feat/level/2
 aliases: ["Voice of the Elements"]
-aon_id: "feat-4188"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4188"
 source: "Rage of Elements"
 ---
 

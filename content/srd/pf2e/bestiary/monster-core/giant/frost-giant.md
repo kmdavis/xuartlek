@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Frost Giant"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Frost Giant"
 level: 9
 source: "Monster Core"
-aon_id: "creature-3013"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3013"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [6, 0, 5, 0, 2, 0]
 abilities_top:
   - name: "Items"
-    desc: "Breastplate, _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/axe/greataxe|greataxe]]_"
+    desc: "Breastplate, _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/axe/greataxe|greataxe]]_"
 ac: 29
 armorclass:
   - name: "AC"

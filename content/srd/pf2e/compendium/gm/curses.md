@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-curse
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -10,7 +9,7 @@ entries: 31
 
 # Curses
 
-## Arsonous  *Curse 7*
+## Arsonous
 
 `Cursed`  `Fire`  `Magical`  `Rare`
 
@@ -20,7 +19,7 @@ An _arsonous_ curse creates flaws in the mystic pathways that channel magic thro
 
 *Source: GM Core p. 307*
 
-## Bloodbiter  *Curse 6*
+## Bloodbiter
 
 `Cursed`  `Magical`  `Rare`
 
@@ -30,7 +29,7 @@ A _bloodbiter_ weapon is awakened by violence and fueled by blood. When you make
 
 *Source: GM Core p. 307*
 
-## Boastful Prince's Scourge  *Curse 7*
+## Boastful Prince's Scourge
 
 `Curse`  `Magical`  `Polymorph`  `Rare`
 
@@ -47,7 +46,7 @@ You transform fully, as [[srd/pf2e/compendium/spells/rank-2/animal-form|_animal 
 
 *Source: Dark Archives (Remastered) p. 162*
 
-## Cowards's Roots  *Curse 5*
+## Cowards's Roots
 
 `Curse`  `Emotion`  `Fear`  `Magical`  `Mental`
 
@@ -61,7 +60,7 @@ At the start of your turn, if you are frightened, you become your choice of [[sr
 
 *Source: GM Core p. 86*
 
-## Curse of Nightmares  *Curse 2*
+## Curse of Nightmares
 
 `Curse`  `Magical`  `Mental`
 
@@ -75,7 +74,7 @@ You must rest for 12 hours instead of 8 to avoid becoming [[srd/pf2e/compendium/
 
 *Source: GM Core p. 86*
 
-## Curse of Slumber  *Curse 11*
+## Curse of Slumber
 
 `Curse`  `Incapacitation`  `Magical`  `Sleep`
 
@@ -89,7 +88,7 @@ You fall asleep for 1 round (or permanently on a critical failure) and seem to b
 
 *Source: GM Core p. 87*
 
-## Curse of the Ravenous  *Curse 5*
+## Curse of the Ravenous
 
 `Curse`  `Magical`
 
@@ -103,7 +102,7 @@ No matter how much you eat, you aren't satiated. After 1 day, you begin [[srd/pf
 
 *Source: GM Core p. 86*
 
-## Degenerating  *Curse 5*
+## Degenerating
 
 `Acid`  `Cursed`  `Magical`  `Rare`
 
@@ -113,7 +112,7 @@ Failure makes the weapon crumble. Whenever you critically fail an attack roll wi
 
 *Source: GM Core p. 307*
 
-## Enforced Hospitality  *Curse 13*
+## Enforced Hospitality
 
 `Curse`  `Magical`  `Mental`  `Rare`
 
@@ -130,7 +129,7 @@ Your compulsion to greet newcomers intensifies. You must greet every individual 
 
 *Source: Dark Archives (Remastered) p. 163*
 
-## Forbidding Knowledge  *Curse 11*
+## Forbidding Knowledge
 
 `Curse`  `Magical`  `Rare`
 
@@ -147,7 +146,7 @@ When you activate the tempted curse, you must spend 2 actions to attempt to spea
 
 *Source: Dark Archives (Remastered) p. 163*
 
-## Grandstanding  *Curse 11*
+## Grandstanding
 
 `Cursed`  `Magical`  `Rare`
 
@@ -157,7 +156,7 @@ Weapons with the _grandstanding_ curse inspire overconfidence in their wielders,
 
 *Source: GM Core p. 307*
 
-## Grave Curse  *Curse Level Varies*
+## Grave Curse
 
 `Curse`  `Magical`
 
@@ -173,7 +172,7 @@ You are hounded by undead creatures of the same level as the curse. Every night,
 
 *Source: GM Core p. 87*
 
-## Oath of the Flesh  *Curse 7*
+## Oath of the Flesh
 
 `Curse`  `Magical`
 
@@ -187,7 +186,7 @@ Each time you make a promise to someone, an ornate symbol representing that prom
 
 *Source: GM Core p. 87*
 
-## Rage of the Excommunicant  *Curse 10*
+## Rage of the Excommunicant
 
 `Curse`  `Magical`  `Mental`  `Rare`
 
@@ -204,7 +203,7 @@ The sight of the deity's religious symbol burns you with the god's rage. You can
 
 *Source: Dark Archives (Remastered) p. 163*
 
-## Raucous  *Curse 3*
+## Raucous
 
 `Cursed`  `Magical`  `Rare`
 
@@ -214,7 +213,7 @@ While more annoying than deadly, a _raucous_ curse is the bane of subtlety. When
 
 *Source: GM Core p. 307*
 
-## Ravenous  *Curse 1*
+## Ravenous
 
 `Cursed`  `Magical`  `Rare`
 
@@ -224,7 +223,7 @@ A _ravenous_ curse draws power from the wielder's body. Whenever you activate th
 
 *Source: GM Core p. 307*
 
-## Reviled of Nature  *Curse 18*
+## Reviled of Nature
 
 `Curse`  `Emotion`  `Magical`  `Mental`
 
@@ -238,7 +237,7 @@ Creatures of the natural world abhor you. Whenever an animal becomes aware of yo
 
 *Source: GM Core p. 87*
 
-## Reviling Earth  *Curse 12*
+## Reviling Earth
 
 `Curse`  `Death`  `Magical`
 
@@ -252,7 +251,7 @@ When you enter the area, you become [[srd/pf2e/compendium/rules-elements/conditi
 
 *Source: GM Core p. 87*
 
-## Sellswords's Folly  *Curse 9*
+## Sellswords's Folly
 
 `Curse`  `Emotion`  `Magical`  `Mental`
 
@@ -266,7 +265,7 @@ The chaos of combat overwhelms you. Each time you roll initiative for a combat e
 
 *Source: GM Core p. 87*
 
-## Sinful Tongue  *Curse 7*
+## Sinful Tongue
 
 `Curse`  `Magical`  `Mental`  `Rare`
 
@@ -283,7 +282,7 @@ You begin to confess your sins, beginning from youthful indiscretions and ending
 
 *Source: Dark Archives (Remastered) p. 162*
 
-## Slayer's Haunt  *Curse 4*
+## Slayer's Haunt
 
 `Curse`  `Illusion`  `Magical`  `Visual`
 
@@ -297,7 +296,7 @@ You see all creatures around you as those you have slain, still bearing their wo
 
 *Source: GM Core p. 86*
 
-## Spirit Anchor  *Curse 13*
+## Spirit Anchor
 
 `Curse`  `Magical`
 
@@ -311,7 +310,7 @@ If you die while affected, your spirit is anchored to the plane you currently in
 
 *Source: GM Core p. 87*
 
-## Staining  *Curse 1*
+## Staining
 
 `Cursed`  `Magical`  `Rare`
 
@@ -321,7 +320,7 @@ This property is associated with a specific color, which is defined at the time 
 
 *Source: GM Core p. 307*
 
-## Swarming Words  *Curse 9*
+## Swarming Words
 
 `Curse`  `Magical`  `Rare`
 
@@ -338,7 +337,7 @@ The insects multiply into a cascade. When you activate the tempted curse, you mu
 
 *Source: Dark Archives (Remastered) p. 162*
 
-## Sword of Anathema  *Curse 20*
+## Sword of Anathema
 
 `Curse`  `Divine`
 
@@ -352,7 +351,7 @@ You are marked by the deity invoked as an enemy of the church. You gain weakness
 
 *Source: GM Core p. 87*
 
-## Theft of Thought  *Curse 3*
+## Theft of Thought
 
 `Curse`  `Magical`  `Mental`
 
@@ -366,7 +365,7 @@ You begin to lose details from your memories, as well as a portion of your proce
 
 *Source: GM Core p. 86*
 
-## Thief's Burden  *Curse 1*
+## Thief's Burden
 
 `Curse`  `Magical`  `Rare`
 
@@ -383,7 +382,7 @@ Your pockets weigh you down as you dream of filling them with riches. You're [[s
 
 *Source: Dark Archives (Remastered) p. 162*
 
-## Thief's Retribution  *Curse 19*
+## Thief's Retribution
 
 `Curse`  `Magical`
 
@@ -397,7 +396,7 @@ Each time you steal something, you lose something more valuable—this item is w
 
 *Source: GM Core p. 87*
 
-## Unending Thirst  *Curse 15*
+## Unending Thirst
 
 `Curse`  `Magical`
 
@@ -411,7 +410,7 @@ You gain no benefit from drinking water or other liquids and begin suffering fro
 
 *Source: GM Core p. 87*
 
-## Unraveling Skin  *Curse 5*
+## Unraveling Skin
 
 `Curse`  `Magical`  `Rare`
 
@@ -428,7 +427,7 @@ Your skin falls from your body and exposes your raw flesh beneath, but the curse
 
 *Source: Dark Archives (Remastered) p. 162*
 
-## Wizard's Ward  *Curse 6*
+## Wizard's Ward
 
 `Curse`  `Magical`
 

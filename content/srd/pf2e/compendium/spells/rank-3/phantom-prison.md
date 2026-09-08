@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -11,7 +10,7 @@ tags:
 - trait/visual
 - spell/level/3
 aliases: ["Phantom Prison"]
-aon_id: "spell-2788"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2788"
 source: "Impossible Magic"
 ---
 
@@ -20,7 +19,7 @@ source: "Impossible Magic"
 `Concentrate`  `Illusion`  `Incapacitation`  `Manipulate`  `Mental`  `Visual`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Haborym, Shivaska
+- **Deities**: [[srd/pf2e/compendium/deities/infernal-dukes/haborym|Haborym]], [[srd/pf2e/compendium/deities/demon-lords/shivaska|Shivaska]]
 - **Range**: 50 feet
 - **Target**: 1 creature
 - **Defense**: Will

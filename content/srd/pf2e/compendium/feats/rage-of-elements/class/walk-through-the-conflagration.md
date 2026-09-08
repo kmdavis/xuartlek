@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -11,7 +10,7 @@ tags:
 - trait/teleportation
 - feat/level/14
 aliases: ["Walk Through the Conflagration"]
-aon_id: "feat-4248"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4248"
 source: "Rage of Elements"
 ---
 

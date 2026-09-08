@@ -7,7 +7,6 @@ cssclasses:
 tags:
   - srd/pf2e/player-core
 source: "Player Core"
-aon_id: 2312
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2312"
 citation: "Player Core pg. 408"
 ---
@@ -42,7 +41,7 @@ Temporary immunity doesn't prevent or end ongoing effects of the source of the t
 
 If you have a weakness to a certain type of damage, that type of damage is extra effective against you. Whenever you would take that type of damage, increase the amount of damage by the value of the weakness. For instance, if you are dealt 2d6 fire damage and have weakness 5 to fire, you take 2d6+5 fire damage.
 
-A single effect can activate more than one weakness at a time, but adds each of the subject's weaknesses only once. For example, if you made a Strike with a *[[srd/pf2e/compendium/equipment/runes/flaming-greater|flaming]] [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] [[srd/pf2e/compendium/equipment/weapons/axe/battle-axe|battle axe]]* benefiting from a spell that gives it additional fire damage, and you targeted a creature with weakness to cold iron, fire, and slashing, the Strike would benefit from all three weaknesses but wouldn't apply the fire weakness twice.
+A single effect can activate more than one weakness at a time, but adds each of the subject's weaknesses only once. For example, if you made a Strike with a *[[srd/pf2e/compendium/equipment/runes/flaming|flaming]] [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] [[srd/pf2e/compendium/equipment/weapons/axe/battle-axe|battle axe]]* benefiting from a spell that gives it additional fire damage, and you targeted a creature with weakness to cold iron, fire, and slashing, the Strike would benefit from all three weaknesses but wouldn't apply the fire weakness twice.
 
 Some weaknesses can apply when a creature wouldn't normally take damage, as determined by the GM. In such cases, you take damage equal to the weakness value when touched or affected by something with that characteristic. For example, a creature with weakness to water would take extra damage if it were targeted by a spell with the [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]] trait or splashed with water.
 
@@ -50,6 +49,6 @@ Some weaknesses can apply when a creature wouldn't normally take damage, as dete
 
 After any weaknesses, apply resistances. If you have resistance to a type of damage, each time you would take damage of that type, reduce the amount of damage by the listed number (to a minimum of 0 damage).
 
-Resistance can specify combinations of damage types and other characteristics. For instance, you might encounter a monster resistant to non-magical bludgeoning damage, meaning it would take less damage from bludgeoning attacks that aren't magical, but would take normal damage from a *+1 [[srd/pf2e/compendium/equipment/weapons/club/mace|mace]]* (since it's magical) or a non-magical [[srd/pf2e/compendium/equipment/weapons/spear/spear|spear]] (since it deals piercing damage). A resistance also might have an exception. Resistance 10 to physical damage (except silver) would reduce any physical damage by 10 unless that damage was dealt by a [[srd/pf2e/compendium/equipment/materials/silver-object-high-grade|silver]] weapon. A damage source can be changed by both a resistance and a weakness. For instance, a cold iron battle axe's damage could both increase due to cold iron weakness and decrease due to resistance to slashing damage.
+Resistance can specify combinations of damage types and other characteristics. For instance, you might encounter a monster resistant to non-magical bludgeoning damage, meaning it would take less damage from bludgeoning attacks that aren't magical, but would take normal damage from a *+1 [[srd/pf2e/compendium/equipment/weapons/club/mace|mace]]* (since it's magical) or a non-magical [[srd/pf2e/compendium/equipment/weapons/spear/spear|spear]] (since it deals piercing damage). A resistance also might have an exception. Resistance 10 to physical damage (except silver) would reduce any physical damage by 10 unless that damage was dealt by a [[srd/pf2e/compendium/equipment/materials/silver|silver]] weapon. A damage source can be changed by both a resistance and a weakness. For instance, a cold iron battle axe's damage could both increase due to cold iron weakness and decrease due to resistance to slashing damage.
 
 A single effect can activate more than one resistance at a time, but subtracts each of the subject's resistances only once. If the subject has more than one resistance to the same damage type, they apply only one, usually the highest. For a resistance to a category including multiple damage types, like resistance to physical damage, to spells, or to all damage, if the subject is taking damage of multiple types included in the category, the subject can choose which damage type to use the resistance against.

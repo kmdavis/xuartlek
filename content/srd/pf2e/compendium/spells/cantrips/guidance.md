@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/concentrate
 - spell/level/1
 aliases: ["Guidance"]
-aon_id: "spell-1549"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1549"
 source: "Player Core"
 ---
 
@@ -16,7 +15,7 @@ source: "Player Core"
 `Cantrip`  `Concentrate`
 
 - **Traditions**: Divine, Occult, Primal
-- **Mystery**: Ancestors
+- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Ancestors|Ancestors]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Duration**: until the start of your next turn

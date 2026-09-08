@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Quai Dau To"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Quai Dau To"
 level: 13
 source: "Monster Core"
-aon_id: "creature-3158"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3158"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/wizard
 - feat/level/4
 aliases: ["Spell Protection Array"]
-aon_id: "feat-5031"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5031"
 source: "Player Core"
 ---
 

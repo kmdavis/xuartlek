@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Lampad Queen"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Lampad Queen"
 level: 15
 source: "Monster Core 2"
-aon_id: "creature-4492"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4492"
 ---
 
@@ -50,7 +48,7 @@ armorclass:
 hp: 235
 health:
   - name: "HP"
-    desc: "235; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 10"
+    desc: "235; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 10"
 abilities_mid:
   - name: "Nymph's Beauty"
     desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|incapacitation]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]]) 30 feet. Creatures that start their turn in the aura must succeed at a DC 33 Will save or be [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]] by the lampad queen's unearthly beauty for 1 minute. While confused by this effect, the creature's confused actions never include harming the lampad queen."

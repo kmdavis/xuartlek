@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class-feature
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - class-feature/level/13
 aliases: ["Medium Armor Expertise"]
-aon_id: "class-feature-527"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=20"
 source: "Guns & Gears (Remastered)"
 ---
 

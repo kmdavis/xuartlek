@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -9,7 +8,7 @@ tags:
 - trait/morph
 - spell/level/1
 aliases: ["Leaden Steps"]
-aon_id: "spell-2005"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2005"
 source: "Player Core 2"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core 2"
 `Concentrate`  `Manipulate`  `Metal`  `Morph`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Lymnieris, Vineshvakhi
+- **Deities**: Lymnieris, [[srd/pf2e/compendium/deities/vudrani-gods/vineshvakhi|Vineshvakhi]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Fortitude

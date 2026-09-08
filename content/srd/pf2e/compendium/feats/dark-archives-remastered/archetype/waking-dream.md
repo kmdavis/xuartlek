@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 - trait/archetype
 - feat/level/8
 aliases: ["Waking Dream"]
-aon_id: "feat-8519"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8519"
 source: "Dark Archives (Remastered)"
 ---
 

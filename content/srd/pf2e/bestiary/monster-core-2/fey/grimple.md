@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Grimple"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Grimple"
 level: -1
 source: "Monster Core 2"
-aon_id: "creature-4422"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4422"
 ---
 
@@ -44,7 +42,7 @@ armorclass:
 hp: 9
 health:
   - name: "HP"
-    desc: "9; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 2"
+    desc: "9; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 2"
 abilities_mid:
   - name: "Gremlin Lice"
     desc: "Whenever a living creature touches or is touched by a grimple (including via a successful unarmed melee Strike), it must succeed at a DC 13 Reflex save or become infested by gremlin lice. While infested, the targeted creature is distracted by the itching sensation and is [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] 1, though it can use an Interact action to scratch at the itching lice to suppress the stupefied condition from the lice for 1d4 rounds. The infestation ends after 24 hours or until the creature is submerged in water or exposed to a [[srd/pf2e/books/gm-core/chapter-2-building-games/environment#Temperature|severe cold]] environment, whichever comes first."

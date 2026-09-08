@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/unique
 aliases: ["Unique"]
-aon_id: "trait-723"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=723"
 source: "Player Core"
 ---
 

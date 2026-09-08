@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/7
 aliases: ["Retrocognition"]
-aon_id: "spell-1652"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1652"
 source: "Player Core"
 ---
 
@@ -16,8 +15,8 @@ source: "Player Core"
 `Concentrate`  `Manipulate`
 
 - **Traditions**: Arcane, Occult
-- **Bloodline**: Imperial
-- **Deities**: Amaznen, Atrogine, Phlegyas, Pillars of Knowledge, Rivethun, Stone's Blood, Surveyors of the Deep, Teki Stronggut, Yluma, Zohls
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Imperial|Imperial]]
+- **Deities**: [[srd/pf2e/compendium/deities/azlanti-pantheon/amaznen|Amaznen]], [[srd/pf2e/compendium/deities/other-gods/atrogine|Atrogine]], [[srd/pf2e/compendium/deities/monitor-demigods/phlegyas|Phlegyas]], Pillars of Knowledge, [[srd/pf2e/compendium/deities/faiths-philosophies/rivethun|Rivethun]], [[srd/pf2e/compendium/deities/pantheons/stones-blood|Stone's Blood]], Surveyors of the Deep, [[srd/pf2e/compendium/deities/goblin-gods/teki-stronggut|Teki Stronggut]], Yluma, [[srd/pf2e/compendium/deities/empyreal-lords/zohls|Zohls]]
 - **Cast**: 1 minute
 - **Duration**: sustained
 

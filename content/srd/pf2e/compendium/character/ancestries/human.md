@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ancestry
 tags:
 - compendium/src/pf2e/player-core
 - trait/human
 - trait/humanoid
 aliases: ["Human"]
-aon_id: "ancestry-64"
+aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=64"
 source: "Player Core"
 ---
 

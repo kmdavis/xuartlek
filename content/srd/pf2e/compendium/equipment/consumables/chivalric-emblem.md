@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
@@ -8,7 +7,7 @@ tags:
 - trait/whetstone
 - equipment/level/5
 aliases: ["Chivalric Emblem"]
-aon_id: "equipment-3877"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3877"
 source: "Battlecry!"
 ---
 

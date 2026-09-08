@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - equipment/level/3
 aliases: ["Material Essence Disruptor"]
-aon_id: "equipment-1118"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1118"
 source: "Guns & Gears (Remastered)"
 ---
 

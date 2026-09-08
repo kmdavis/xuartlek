@@ -7,7 +7,6 @@ cssclasses:
 tags:
   - srd/pf2e/battlecry
 source: "Battlecry!"
-aon_id: 3424
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3424"
 citation: "Battlecry! pg. 77"
 ---

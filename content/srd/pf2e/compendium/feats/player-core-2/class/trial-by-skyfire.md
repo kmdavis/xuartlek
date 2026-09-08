@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -9,7 +8,7 @@ tags:
 - trait/oracle
 - feat/level/10
 aliases: ["Trial by Skyfire"]
-aon_id: "feat-6072"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6072"
 source: "Player Core 2"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core 2"
 
 `Cursebound`  `Divine`  `Fire`  `Oracle`
 
-- **Prerequisites**: cosmos mystery or flame mystery
+- **Prerequisites**: [[srd/pf2e/compendium/character/mysteries#Cosmos|cosmos mystery]] or [[srd/pf2e/compendium/character/mysteries#Flames|flame mystery]]
 
 Your lips murmur as you portend a great disaster, one you hope you survive. A rain of blazing bolts begins to fall from the heavens in a 10-foot emanation, centered on you, that deals 2d6 fire damage to all creatures in the emanation at the end of each of your turns (basic Reflex save); you can't exclude yourself from the emanation. The skyfire persists for 1 minute; while you can't [[srd/pf2e/compendium/rules-elements/actions/player-core#Dismiss|Dismiss]] it, you can suppress the effect for 1 round with a [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|Sustain]] action. The rain of fire is suppressed if you fall [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]. If you become [[srd/pf2e/compendium/rules-elements/traits/player-core-2/cursebound|cursebound]] 3 or 4 at any point during Trial by Skyfire's duration, the emanation increases to 15 feet and the damage increases to 4d6.
 

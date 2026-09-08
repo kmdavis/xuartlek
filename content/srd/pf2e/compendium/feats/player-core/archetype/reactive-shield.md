@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/guardian
 - feat/level/1
 aliases: ["Reactive Shield"]
-aon_id: "feat-4772"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4772"
 source: "Player Core"
 ---
 
@@ -15,7 +14,7 @@ source: "Player Core"
 
 `Fighter`  `Guardian`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/viking|Viking]] (Level 4), [[srd/pf2e/compendium/character/archetypes/viking|Viking]] (Level 4)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/viking|Viking]] (Level 4)
 - **Trigger**: An enemy hits you with a melee Strike
 - **Requirements**: You are wielding a shield
 

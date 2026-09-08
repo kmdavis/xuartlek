@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/player-core-2
@@ -8,7 +7,7 @@ tags:
 - trait/wand
 - equipment/level/8
 aliases: ["Wand of Crackling Lightning"]
-aon_id: "equipment-3424"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3424"
 source: "Player Core 2"
 ---
 

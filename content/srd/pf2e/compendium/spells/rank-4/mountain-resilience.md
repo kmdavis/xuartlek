@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/4
 aliases: ["Mountain Resilience"]
-aon_id: "spell-1610"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1610"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Earth`  `Manipulate`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Arqueros, Belech, Cihua Coatl, Dammerich, Imbrex, Irori, Kazutal, Keepers of the Hearth, Myr, Sairazul, Soralyon, Talons of the Godclaw, Trudd, Urazra, Vavaalrav, Xoveron
+- **Deities**: Arqueros, Belech, [[srd/pf2e/compendium/deities/coatl-tribunal/cihua-coatl|Cihua Coatl]], Dammerich, [[srd/pf2e/compendium/deities/eldest/imbrex|Imbrex]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/irori|Irori]], [[srd/pf2e/compendium/deities/other-gods/kazutal|Kazutal]], Keepers of the Hearth, [[srd/pf2e/compendium/deities/azlanti-pantheon/myr|Myr]], [[srd/pf2e/compendium/deities/elemental-lords/sairazul|Sairazul]], [[srd/pf2e/compendium/deities/empyreal-lords/soralyon|Soralyon]], [[srd/pf2e/compendium/deities/pantheons/talons-of-the-godclaw|Talons of the Godclaw]], [[srd/pf2e/compendium/deities/dwarven-gods/trudd|Trudd]], [[srd/pf2e/compendium/deities/giant-gods/urazra|Urazra]], [[srd/pf2e/compendium/deities/monitor-demigods/vavaalrav|Vavaalrav]], [[srd/pf2e/compendium/deities/demon-lords/xoveron|Xoveron]]
 - **Range**: touch
 - **Target**: 1 creature
 - **Duration**: 20 minutes

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/battlecry
@@ -8,7 +7,7 @@ tags:
 - trait/rare
 - siege-weapon/level/17
 aliases: ["Nexian Disgorger"]
-aon_id: "siege-weapon-57"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=57"
 source: "Battlecry!"
 ---
 
@@ -16,7 +15,7 @@ source: "Battlecry!"
 
 `Magical`  `Mounted`  `Rare`
 
-- **Price**: 26,500 gp
+- **Price**: 26, 500 gp
 - **Ammunition**: barrel of alchemical syrup (25 gp, 5 Bulk)
 
 **Usage** mounted

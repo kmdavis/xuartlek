@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/magical
 - equipment/level/11
 aliases: ["Locket of Love Left Behind"]
-aon_id: "equipment-3970"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3970"
 source: "Battlecry!"
 ---
 
@@ -16,7 +15,7 @@ source: "Battlecry!"
 `Invested`  `Magical`
 
 - **PFS Note**: Replacing the casing of a _locket of love left behind_ takes 30 days of Downtime.
-- **Price**: 1,200 gp
+- **Price**: 1, 200 gp
 - **Usage**: worn
 
 There’s a tiny picture of a beloved partner, child, or even place nestled inside this small gold locket with a heart on the front. The locket reminds you that no matter how terrible the ravages of war are, you have something very important to live for. While wearing the necklace, you gain a +5-foot status bonus to your Speeds when you have the [[srd/pf2e/compendium/rules-elements/conditions#Fleeing|fleeing]] condition. If you are dying, the DC of [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Recovery Checks|recovery checks]] is reduced by 1.

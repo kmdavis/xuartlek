@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Bone Scavenger"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Bone Scavenger"
 level: 0
 source: "NPC Core"
-aon_id: "creature-3651"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3651"
 ---
 

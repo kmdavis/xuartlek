@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/battlecry
 - trait/uncommon
 - vehicle/level/18
 aliases: ["War strider"]
-aon_id: "vehicle-105"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=105"
 source: "Battlecry!"
 ---
 
@@ -14,7 +13,7 @@ source: "Battlecry!"
 
 `Uncommon`
 
-- **Price**: 63,000 gp
+- **Price**: 63, 000 gp
 
 This massive steam-powered vehicle resembles a giant insect with six articulated legs topped with a bulbous turret capable of swiveling 360 degrees to bring its forward-mounted weapons to bear on enemies in any direction. It has weapon ports on either side of its head that give the appearance of eyes. With its long, mechanized legs, it can easily climb over obstacles and cross wide chasms.
 

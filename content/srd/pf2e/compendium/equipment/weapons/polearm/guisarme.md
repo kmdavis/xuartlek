@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/trip
 - weapon/level/0
 aliases: ["Guisarme"]
-aon_id: "weapon-380"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=380"
 source: "Player Core"
 ---
 
@@ -15,7 +14,7 @@ source: "Player Core"
 
 `Reach`  `Trip`
 
-- **Favored Weapon**: Saloc
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/monitor-demigods/saloc|Saloc]]
 - **Price**: 2 gp
 - **Damage**: 1d10 S
 - **Bulk**: 2

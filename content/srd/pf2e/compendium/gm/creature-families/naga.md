@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core
 aliases: ["Naga"]
-aon_id: "creature-family-446"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=446"
 source: "Monster Core"
 ---
 
@@ -22,6 +21,6 @@ On Golarion, naga rule the nation of Nagajor—though most of the administration
 
 ### Ravithra
 
-Ravithra, the Pillar of Karma, ruled over Vudra in ages long past, alongside the aeons. After the first in a series of betrayals, her severed head regrew a serpentine body as she became the Mother of Nagas. Those descendants that still follow her deal out pitiless justice, while also seeking to restore her power.
+[[srd/pf2e/compendium/deities/vudrani-gods/ravithra|Ravithra]], the Pillar of Karma, ruled over Vudra in ages long past, alongside the aeons. After the first in a series of betrayals, her severed head regrew a serpentine body as she became the Mother of Nagas. Those descendants that still follow her deal out pitiless justice, while also seeking to restore her power.
 
 *Source: Monster Core p. 236*

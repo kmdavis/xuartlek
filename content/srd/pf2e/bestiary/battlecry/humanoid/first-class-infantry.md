@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "First-Class Infantry"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "First-Class Infantry"
 level: 13
 source: "Battlecry!"
-aon_id: "creature-3915"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3915"
 ---
 

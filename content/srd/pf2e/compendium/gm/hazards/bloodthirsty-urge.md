@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
 tags:
 - compendium/src/pf2e/gm-core
 - trait/haunt
 - hazard/level/10
 aliases: ["Bloodthirsty Urge"]
-aon_id: "hazard-466"
+aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=466"
 source: "GM Core"
 ---
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/tengu
 - feat/level/5
 aliases: ["Magpie Snatch"]
-aon_id: "feat-5683"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5683"
 source: "Player Core 2"
 ---
 

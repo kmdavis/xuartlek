@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Fisher"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Fisher"
 level: 0
 source: "NPC Core"
-aon_id: "creature-3493"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3493"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [3, 2, 1, 0, 2, 0]
 abilities_top:
   - name: "Items"
-    desc: "assorted knives, [[srd/pf2e/compendium/equipment/adventuring-gear/fishing-tackle-professional|fishing rod]], Net, Rope (50 feet), Spear, tackle box"
+    desc: "assorted knives, [[srd/pf2e/compendium/equipment/adventuring-gear/fishing-tackle|fishing rod]], Net, Rope (50 feet), Spear, tackle box"
 ac: 14
 armorclass:
   - name: "AC"

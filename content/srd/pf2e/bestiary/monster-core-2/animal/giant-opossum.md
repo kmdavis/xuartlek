@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Giant Opossum"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Giant Opossum"
 level: 2
 source: "Monster Core 2"
-aon_id: "creature-4500"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4500"
 ---
 

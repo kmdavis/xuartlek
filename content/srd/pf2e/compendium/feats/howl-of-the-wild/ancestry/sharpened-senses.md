@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 - trait/awakened-animal
 - feat/level/13
 aliases: ["Sharpened Senses"]
-aon_id: "feat-5318"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5318"
 source: "Howl of the Wild"
 ---
 

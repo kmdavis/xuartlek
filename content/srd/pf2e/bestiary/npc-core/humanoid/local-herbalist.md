@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Local Herbalist"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Local Herbalist"
 level: 1
 source: "NPC Core"
-aon_id: "creature-3481"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3481"
 ---
 
@@ -40,7 +38,7 @@ abilities_top:
   - name: "Natural Medicine"
     desc: "The herbalist can use [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] instead of [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] to [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Wounds|Treat Wounds]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Administer First Aid|Administer First Aid]], and gains a +3 circumstance bonus to the check if they're in the wilderness with access to fresh herbal ingredients."
   - name: "Items"
-    desc: "cooking pot, medicine bag (functions as a [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit-expanded|healer's toolkit]]), Staff"
+    desc: "cooking pot, medicine bag (functions as a [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit|healer's toolkit]]), Staff"
 ac: 13
 armorclass:
   - name: "AC"
@@ -72,7 +70,7 @@ abilities_bot:
   - name: "Frequency"
     desc: "once per day"
   - name: "Effect"
-    desc: "The local herbalist quickly mixes together a potent healing salve with the most precious ingredients from their medicine bag. They create a temporary [[srd/pf2e/compendium/equipment/alchemical-items/elixir-of-life-true|lesser elixir of life]]. This elixir remains potent for 1 round before becoming sour and useless."
+    desc: "The local herbalist quickly mixes together a potent healing salve with the most precious ingredients from their medicine bag. They create a temporary [[srd/pf2e/compendium/equipment/alchemical-items/elixir-of-life|lesser elixir of life]]. This elixir remains potent for 1 round before becoming sour and useless."
 sourcebook: "_NPC Core_, page 60."
 ```
 

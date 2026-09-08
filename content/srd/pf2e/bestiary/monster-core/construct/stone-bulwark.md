@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Stone Bulwark"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Stone Bulwark"
 level: 11
 source: "Monster Core"
-aon_id: "creature-3213"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3213"
 ---
 

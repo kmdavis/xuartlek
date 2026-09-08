@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class-feature
 tags:
 - compendium/src/pf2e/player-core
 - class-feature/level/9
 aliases: ["Rogue Resilience"]
-aon_id: "class-feature-756"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=37"
 source: "Player Core"
 ---
 

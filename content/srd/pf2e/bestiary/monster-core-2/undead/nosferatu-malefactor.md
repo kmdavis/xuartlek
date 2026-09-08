@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Nosferatu Malefactor"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Nosferatu Malefactor"
 level: 10
 source: "Monster Core 2"
-aon_id: "creature-4602"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4602"
 ---
 

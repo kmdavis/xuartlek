@@ -1,17 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-armor
 tags:
 - compendium/src/pf2e/player-core
 - compendium/src/pf2e/treasure-vault-remastered
 - compendium/src/pf2e/war-of-immortals
 aliases: ["Armor"]
-entries: 39
+entries: 35
 ---
 
 # Armor
 
-## Bastion Plate  *Armor 2*
+## Bastion Plate
 
 `Bulwark`  `Entrench`  `Hindering`
 
@@ -37,7 +36,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 *Source: Treasure Vault (Remastered) p. 9*
 
-## Breastplate  *Armor 0*
+## Breastplate
 
 - **Price**: 8 gp
 - **AC Bonus**: +4
@@ -57,11 +56,11 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 ### Specific Magic Armor
 
-Breastplate of the Mountain, [[srd/pf2e/compendium/equipment/armor/rebounding-breastplate|Rebounding Breastplate]], [[srd/pf2e/compendium/equipment/armor/warleaders-bulwark-greater|Warleader's Bulwark]]
+Breastplate of the Mountain, [[srd/pf2e/compendium/equipment/armor/rebounding-breastplate|Rebounding Breastplate]], [[srd/pf2e/compendium/equipment/armor/warleaders-bulwark|Warleader's Bulwark]]
 
 *Source: Player Core p. 273*
 
-## Buckle Armor  *Armor 0*
+## Buckle Armor
 
 `Adjusted`  `Noisy`
 
@@ -87,7 +86,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 *Source: Treasure Vault (Remastered) p. 10*
 
-## Ceramic Plate  *Armor 0*
+## Ceramic Plate
 
 `Adjusted`  `Noisy`
 
@@ -101,7 +100,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 - **Category**: Medium
 - **Group**: Plate
 
-Traditional armor from Senghor, ceramic plate alleviates the need for metallurgy and smithing, instead relying on ceramic firing, glazing, and strong cord work with a backing of leather and thick canvas. Ceramic plate that follows Senghor's style is colorful and artistic, and is built with the [[srd/pf2e/compendium/equipment/adjustments/armor-latches-equipment-1824|armor latches]] armor adjustment.
+Traditional armor from Senghor, ceramic plate alleviates the need for metallurgy and smithing, instead relying on ceramic firing, glazing, and strong cord work with a backing of leather and thick canvas. Ceramic plate that follows Senghor's style is colorful and artistic, and is built with the [[srd/pf2e/compendium/equipment/adjustments/armor-latches|armor latches]] armor adjustment.
 
 ### Armor Specialization Effects
 
@@ -109,7 +108,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 *Source: Treasure Vault (Remastered) p. 10*
 
-## Chain Mail  *Armor 0*
+## Chain Mail
 
 `Flexible`  `Noisy`
 
@@ -131,11 +130,11 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 ### Specific Magic Armor
 
-[[srd/pf2e/compendium/equipment/armor/holy-chain|Holy Chain]], [[srd/pf2e/compendium/equipment/armor/message-mail|Message Mail]], [[srd/pf2e/compendium/equipment/armor/major-mitigation-mail|Mitigation Mail]], [[srd/pf2e/compendium/equipment/armor/parachute-mail|Parachute Mail]], [[srd/pf2e/compendium/equipment/armor/major-reactive-mail|Reactive Mail]], [[srd/pf2e/compendium/equipment/armor/thunder-mail|Thunder Mail]]
+[[srd/pf2e/compendium/equipment/armor/holy-chain|Holy Chain]], [[srd/pf2e/compendium/equipment/armor/message-mail|Message Mail]], [[srd/pf2e/compendium/equipment/armor/mitigation-mail|Mitigation Mail]], [[srd/pf2e/compendium/equipment/armor/parachute-mail|Parachute Mail]], [[srd/pf2e/compendium/equipment/armor/reactive-mail|Reactive Mail]], [[srd/pf2e/compendium/equipment/armor/thunder-mail|Thunder Mail]]
 
 *Source: Player Core p. 273*
 
-## Chain Shirt  *Armor 0*
+## Chain Shirt
 
 `Flexible`  `Noisy`
 
@@ -161,7 +160,7 @@ Blade Byrnie, [[srd/pf2e/compendium/equipment/armor/chained-mist|Chained Mist]],
 
 *Source: Player Core p. 273*
 
-## Coral Armor  *Armor 0*
+## Coral Armor
 
 `Aquadynamic`
 
@@ -183,11 +182,11 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 ### Specific Magic Armor
 
-[[srd/pf2e/compendium/equipment/armor/reef-heart-greater|Reef Heart]], Reef Heart
+[[srd/pf2e/compendium/equipment/armor/reef-heart|Reef Heart]], Reef Heart
 
 *Source: Treasure Vault (Remastered) p. 10*
 
-## Explorer's Clothing  *Armor 0*
+## Explorer's Clothing
 
 `Comfort`
 
@@ -209,11 +208,11 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 ### Specific Magic Armor
 
-[[srd/pf2e/compendium/equipment/armor/accoutrements-of-bone|Accoutrements Of Bone]], [[srd/pf2e/compendium/equipment/armor/crystal-lattice|Crystal Lattice]], [[srd/pf2e/compendium/equipment/armor/greater-energy-shield-tunic|Energy Shield Tunic]], [[srd/pf2e/compendium/equipment/armor/laboratory-coat|Laboratory Coat]], [[srd/pf2e/compendium/equipment/armor/robe-of-beneficence|Robe Of Beneficence]], [[srd/pf2e/compendium/equipment/armor/suit-of-false-impression|Suit Of False Impression]]
+[[srd/pf2e/compendium/equipment/armor/accoutrements-of-bone|Accoutrements Of Bone]], [[srd/pf2e/compendium/equipment/armor/crystal-lattice|Crystal Lattice]], [[srd/pf2e/compendium/equipment/armor/energy-shield-tunic|Energy Shield Tunic]], [[srd/pf2e/compendium/equipment/armor/laboratory-coat|Laboratory Coat]], [[srd/pf2e/compendium/equipment/armor/robe-of-beneficence|Robe Of Beneficence]], [[srd/pf2e/compendium/equipment/armor/suit-of-false-impression|Suit Of False Impression]]
 
 *Source: Player Core p. 273*
 
-## Fortress Plate  *Armor 2*
+## Fortress Plate
 
 `Bulwark`  `Entrench`  `Ponderous`
 
@@ -239,7 +238,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 *Source: Treasure Vault (Remastered) p. 10*
 
-## Full Plate  *Armor 2*
+## Full Plate
 
 `Bulwark`
 
@@ -265,7 +264,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 *Source: Player Core p. 273*
 
-## Gi  *Armor 0*
+## Gi
 
 `Comfort`
 
@@ -287,7 +286,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 *Source: Treasure Vault (Remastered) p. 10*
 
-## Half Plate  *Armor 1*
+## Half Plate
 
 - **Price**: 18 gp
 - **AC Bonus**: +5
@@ -307,11 +306,11 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 ### Specific Magic Armor
 
-[[srd/pf2e/compendium/equipment/armor/command-cuirass|Command Cuirass]], Dragon Turtle Plate, [[srd/pf2e/compendium/equipment/armor/lions-armor-greater|Lion's Armor]]
+[[srd/pf2e/compendium/equipment/armor/command-cuirass|Command Cuirass]], Dragon Turtle Plate, [[srd/pf2e/compendium/equipment/armor/lions-armor|Lion's Armor]]
 
 *Source: Player Core p. 273*
 
-## Hellknight Breastplate  *Armor 1*
+## Hellknight Breastplate
 
 `Uncommon`
 
@@ -333,7 +332,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 *Source: Treasure Vault (Remastered) p. 10*
 
-## Hellknight Half Plate  *Armor 1*
+## Hellknight Half Plate
 
 `Uncommon`
 
@@ -355,7 +354,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 *Source: Treasure Vault (Remastered) p. 10*
 
-## Hellknight Plate  *Armor 2*
+## Hellknight Plate
 
 `Bulwark`  `Uncommon`
 
@@ -377,29 +376,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 *Source: Treasure Vault (Remastered) p. 10*
 
-## Hellknight Plate  *Armor 2*
-
-`Bulwark`  `Uncommon`
-
-- **Price**: 35 gp
-- **AC Bonus**: +6
-- **Dex Cap**: +0
-- **Check Penalty**: -3
-- **Speed Penalty**: -10 ft.
-- **Strength**: +4
-- **Bulk**: 4
-- **Category**: Heavy
-- **Group**: Plate
-
-Few armors in the Inner Sea region are as memorable as the iconic Hellknight plate. While each order has its own flourishes, Hellknight plate is instantly recognizable to any who know of the Hellknights. Hellknights go to extreme measures to punish non-Hellknights who get their hands on Hellknight plate, and the reward is not usually worth the risk, since for non-Hellknights, the armor is functionally similar to full plate.
-
-### Armor Specialization Effects
-
-Certain class features can grant you additional benefits with certain armors. This is called an armor specialization effect. The exact effect depends on which armor group your armor belongs to, as listed below. Only medium and heavy armors have armor specialization effects.
-
-*Source: Treasure Vault (Remastered) p. 10*
-
-## Hide Armor  *Armor 0*
+## Hide Armor
 
 - **Price**: 2 gp
 - **AC Bonus**: +3
@@ -423,7 +400,7 @@ Aurochs Hide Armor, [[srd/pf2e/compendium/equipment/armor/frost-furs|Frost Furs]
 
 *Source: Player Core p. 273*
 
-## Kilted Breastplate  *Armor 0*
+## Kilted Breastplate
 
 `Flexible`
 
@@ -445,7 +422,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 *Source: War of Immortals p. 146*
 
-## Lamellar Breastplate  *Armor 0*
+## Lamellar Breastplate
 
 `Hindering`  `Laminar`
 
@@ -467,7 +444,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 *Source: Treasure Vault (Remastered) p. 10*
 
-## Lattice Armor  *Armor 0*
+## Lattice Armor
 
 - **Price**: 9 gp
 - **AC Bonus**: +4
@@ -491,31 +468,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 *Source: Treasure Vault (Remastered) p. 10*
 
-## Lattice Armor  *Armor 0*
-
-- **Price**: 6 gp
-- **AC Bonus**: +4
-- **Dex Cap**: +1
-- **Check Penalty**: -2
-- **Speed Penalty**: -5 ft.
-- **Strength**: +3
-- **Bulk**: 2
-- **Category**: Medium
-- **Group**: Chain
-
-Also known as “varman” in some parts of the Impossible Lands, this armor is made from fine metal cables woven into latticework patterns with plated segments to protect the head, neck, and shoulders. This armor disperses blows much like rings of chain mail but is much tighter in construction, making it quieter.
-
-### Armor Specialization Effects
-
-Certain class features can grant you additional benefits with certain armors. This is called an armor specialization effect. The exact effect depends on which armor group your armor belongs to, as listed below. Only medium and heavy armors have armor specialization effects.
-
-### Specific Magic Armor
-
-Energizing Lattice
-
-*Source: War of Immortals p. 146*
-
-## Leaf Weave  *Armor 0*
+## Leaf Weave
 
 `Laminar`
 
@@ -541,7 +494,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 *Source: Treasure Vault (Remastered) p. 10*
 
-## Leather Armor  *Armor 0*
+## Leather Armor
 
 - **Price**: 2 gp
 - **AC Bonus**: +1
@@ -565,7 +518,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 *Source: Player Core p. 273*
 
-## Leather Lamellar  *Armor 0*
+## Leather Lamellar
 
 `Laminar`
 
@@ -591,7 +544,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 *Source: Treasure Vault (Remastered) p. 11*
 
-## Mantis Shell  *Armor 1*
+## Mantis Shell
 
 `Adjusted`  `Uncommon`
 
@@ -617,33 +570,7 @@ Vernai Shell
 
 *Source: Treasure Vault (Remastered) p. 11*
 
-## Niyaháat  *Armor 0*
-
-`Laminar`
-
-- **Price**: 5 gp
-- **AC Bonus**: +3
-- **Dex Cap**: +2
-- **Check Penalty**: -2
-- **Speed Penalty**: -5 ft.
-- **Strength**: +2
-- **Bulk**: 2
-- **Category**: Medium
-- **Group**: Skeletal
-
-Erutaki communities deep in the Crown of the World, where wood is hard to come by, fashion armor from slats and strips of bone or horn, along with whole bones or horns. Wealthier wearers sometimes pay for decorative embellishments made of more precious materials. Niyaháat is usually woven together with strong cord, forming a suit like a breastplate. This suit is worn over heavy clothing or a surcoat like padded armor. Some suits incorporate parts of powerful creatures, creating a storied history for the suit and its wearers.
-
-### Armor Specialization Effects
-
-Certain class features can grant you additional benefits with certain armors. This is called an armor specialization effect. The exact effect depends on which armor group your armor belongs to, as listed below. Only medium and heavy armors have armor specialization effects.
-
-### Specific Magic Armor
-
-Remorhaz Armor, [[srd/pf2e/compendium/equipment/armor/smoldering-armor|Smoldering Armor]]
-
-*Source: War of Immortals p. 146*
-
-## Niyaháat  *Armor 0*
+## Niyaháat
 
 `Laminar`
 
@@ -665,7 +592,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 *Source: Treasure Vault (Remastered) p. 11*
 
-## O-Yoroi  *Armor 2*
+## O-Yoroi
 
 `Bulwark`  `Laminar`
 
@@ -687,7 +614,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 *Source: Treasure Vault (Remastered) p. 11*
 
-## Padded Armor  *Armor 0*
+## Padded Armor
 
 `Comfort`
 
@@ -713,7 +640,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 *Source: Player Core p. 273*
 
-## Quilted Armor  *Armor 0*
+## Quilted Armor
 
 `Comfort`
 
@@ -735,7 +662,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 *Source: Treasure Vault (Remastered) p. 11*
 
-## Rattan Armor  *Armor 0*
+## Rattan Armor
 
 `Aquadynamic`
 
@@ -757,7 +684,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 *Source: War of Immortals p. 146*
 
-## Sankeit  *Armor 0*
+## Sankeit
 
 `Laminar`
 
@@ -783,33 +710,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 *Source: Treasure Vault (Remastered) p. 11*
 
-## Sankeit  *Armor 0*
-
-`Laminar`
-
-- **Price**: 5 gp
-- **AC Bonus**: +2
-- **Dex Cap**: +3
-- **Check Penalty**: -1
-- **Speed Penalty**: —
-- **Strength**: +1
-- **Bulk**: 1
-- **Category**: Light
-- **Group**: Wood
-
-Sankeit is common armor among Varki in the northern Land of the Linnorm Kings, made of small wooden plates or longer slats, typically vertical, joined with sinew or cord and painted with decorations. Varki warriors traditionally wear sankeit with a fearsome wooden helm carved in the shape of a mighty creature.
-
-### Armor Specialization Effects
-
-Certain class features can grant you additional benefits with certain armors. This is called an armor specialization effect. The exact effect depends on which armor group your armor belongs to, as listed below. Only medium and heavy armors have armor specialization effects.
-
-### Specific Magic Armor
-
-Linnorm's Sankeit, Shared-Pain Sankeit
-
-*Source: War of Immortals p. 146*
-
-## Scale Mail  *Armor 0*
+## Scale Mail
 
 - **Price**: 4 gp
 - **AC Bonus**: +3
@@ -833,7 +734,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 *Source: Player Core p. 273*
 
-## Scroll Robes  *Armor 0*
+## Scroll Robes
 
 `Inscribed`
 
@@ -855,11 +756,11 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 ### Specific Magic Armor
 
-[[srd/pf2e/compendium/equipment/armor/library-robes-true|Library Robes]], Library Robes
+[[srd/pf2e/compendium/equipment/armor/library-robes|Library Robes]], Library Robes
 
 *Source: Treasure Vault (Remastered) p. 11*
 
-## Splint Mail  *Armor 1*
+## Splint Mail
 
 - **Price**: 13 gp
 - **AC Bonus**: +5
@@ -879,11 +780,11 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 ### Specific Magic Armor
 
-[[srd/pf2e/compendium/equipment/armor/life-saver-mail-greater|Life-Saver Mail]], [[srd/pf2e/compendium/equipment/armor/mariners-splint|Mariner's Splint]]
+[[srd/pf2e/compendium/equipment/armor/life-saver-mail|Life-Saver Mail]], [[srd/pf2e/compendium/equipment/armor/mariners-splint|Mariner's Splint]]
 
 *Source: Player Core p. 273*
 
-## Studded Leather Armor  *Armor 0*
+## Studded Leather Armor
 
 - **Price**: 3 gp
 - **AC Bonus**: +2
@@ -907,7 +808,7 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 *Source: Player Core p. 273*
 
-## Unarmored  *Armor 0*
+## Unarmored
 
 - **Price**: —
 - **AC Bonus**: +0
@@ -923,7 +824,7 @@ _Nethys Note: no description was provided for this item_
 
 *Source: Player Core p. 273*
 
-## Wooden Breastplate  *Armor 0*
+## Wooden Breastplate
 
 - **Price**: 6 gp
 - **AC Bonus**: +3
@@ -943,6 +844,6 @@ Certain class features can grant you additional benefits with certain armors. Th
 
 ### Specific Magic Armor
 
-[[srd/pf2e/compendium/equipment/armor/tales-in-timber-major|Tales in Timber]]
+[[srd/pf2e/compendium/equipment/armor/tales-in-timber|Tales in Timber]]
 
 *Source: Treasure Vault (Remastered) p. 11*

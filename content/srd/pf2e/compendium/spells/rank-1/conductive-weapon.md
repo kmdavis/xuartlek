@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -9,7 +8,7 @@ tags:
 - trait/metal
 - spell/level/1
 aliases: ["Conductive Weapon"]
-aon_id: "spell-1367"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1367"
 source: "Rage of Elements"
 ---
 
@@ -18,7 +17,7 @@ source: "Rage of Elements"
 `Concentrate`  `Electricity`  `Manipulate`  `Metal`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Cixyron, Ferrumnestra
+- **Deities**: [[srd/pf2e/compendium/deities/daemon-harbingers/cixyron|Cixyron]], [[srd/pf2e/compendium/deities/elemental-lords/ferrumnestra|Ferrumnestra]]
 - **Range**: touch
 - **Target**: 1 metal weapon that is unattended or attended by a willing creature
 - **Duration**: 1 minute

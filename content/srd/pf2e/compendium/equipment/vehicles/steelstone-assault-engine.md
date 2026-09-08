@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/battlecry
 - trait/uncommon
 - vehicle/level/19
 aliases: ["Steelstone Assault Engine"]
-aon_id: "vehicle-104"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=104"
 source: "Battlecry!"
 ---
 
@@ -14,7 +13,7 @@ source: "Battlecry!"
 
 `Uncommon`
 
-- **Price**: 120,000 gp
+- **Price**: 120, 000 gp
 
 This steam-powered vehicle has eight sets of axles, each with a pair of huge, spiked metal wheels that are independently powered and can independently shift up and down. This enables the engine to maintain a constant speed even over difficult terrain. On top of the vehicle sits a rotating weapon mount outfitted with a steelstone cannon.
 

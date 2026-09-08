@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/concentrate
 - feat/level/16
 aliases: ["Purge of Moments"]
-aon_id: "feat-8487"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8487"
 source: "Dark Archives (Remastered)"
 ---
 

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/celestial
 aliases: ["Celestial"]
-aon_id: "trait-551"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=551"
 source: "Player Core"
 ---
 

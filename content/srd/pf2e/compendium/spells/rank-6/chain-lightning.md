@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/6
 aliases: ["Chain Lightning"]
-aon_id: "spell-1462"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1462"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Electricity`  `Manipulate`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Anras, Cixyron, Dagon, Hei Feng, Ranginori, Rull, Vineshvakhi, Weight of the World
+- **Deities**: Anras, [[srd/pf2e/compendium/deities/daemon-harbingers/cixyron|Cixyron]], [[srd/pf2e/compendium/deities/demon-lords/dagon|Dagon]], [[srd/pf2e/compendium/deities/tian-gods/hei-feng|Hei Feng]], [[srd/pf2e/compendium/deities/elemental-lords/ranginori|Ranginori]], [[srd/pf2e/compendium/deities/orc-gods/rull|Rull]], [[srd/pf2e/compendium/deities/vudrani-gods/vineshvakhi|Vineshvakhi]], [[srd/pf2e/compendium/deities/pantheons/weight-of-the-world|Weight of the World]]
 - **Range**: 500 feet
 - **Target**: 1 creature, plus any number of additional creatures
 - **Defense**: basic Reflex

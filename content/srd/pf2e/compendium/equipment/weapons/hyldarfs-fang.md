@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/unique
 - equipment/level/15
 aliases: ["Hyldarf's Fang"]
-aon_id: "equipment-1181"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1181"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -19,9 +18,9 @@ source: "Guns & Gears (Remastered)"
 
 - **Usage**: held in 1 hand
 - **Bulk**: 1
-- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/firearm/hand-cannon|Hand Cannon]]
+- **Base Weapon**: Hand Cannon
 
-This _+2 greater striking [[srd/pf2e/compendium/equipment/weapons/firearm/hand-cannon|hand cannon]]_ is carved and crafted from a single large fang, worn with age and cracked with red lines. The tip of the fang has been filed down, but still leaks black fluid occasionally. It was fashioned from the tooth of the tor linnorm Hyldarf by a half-Ulfen gunsmith from Tian Xia who sought the title of linnorm king. Though the smith failed to slay the linnorm, he did claim the mighty dragon's tooth and fashion it into a magic firearm that still drips warm venom. Hyldarf survived the encounter with her attacker and slew the gunsmith years later, though by then the smith had already bequeathed the weapon to his chosen heir and it was far out of her grasp. The linnorm still searches for her missing tooth, portending potential doom for the weapon's owner.
+This _+2 greater striking hand cannon_ is carved and crafted from a single large fang, worn with age and cracked with red lines. The tip of the fang has been filed down, but still leaks black fluid occasionally. It was fashioned from the tooth of the tor linnorm Hyldarf by a half-Ulfen gunsmith from Tian Xia who sought the title of linnorm king. Though the smith failed to slay the linnorm, he did claim the mighty dragon's tooth and fashion it into a magic firearm that still drips warm venom. Hyldarf survived the encounter with her attacker and slew the gunsmith years later, though by then the smith had already bequeathed the weapon to his chosen heir and it was far out of her grasp. The linnorm still searches for her missing tooth, portending potential doom for the weapon's owner.
 
  The weapon deals an additional 2d6 fire damage on a successful Strike, plus 3d10 persistent fire damage on a critical hit. Fire damage dealt by this weapon (including persistent fire damage and damage from Hyldarf's Venom) ignores the target's [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] resistance.
 

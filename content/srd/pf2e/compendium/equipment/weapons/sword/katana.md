@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/versatile
 - weapon/level/0
 aliases: ["Katana"]
-aon_id: "weapon-411"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=411"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Deadly`  `Two-Hand`  `Uncommon`  `Versatile`
 
 - **PFS Note**: All Pathfinder agents have access to this weapon
-- **Favored Weapon**: Baekho, Shizuru
+- **Favored Weapon**: Baekho, [[srd/pf2e/compendium/deities/tian-gods/shizuru|Shizuru]]
 - **Price**: 2 gp
 - **Damage**: 1d6 S
 - **Bulk**: 1

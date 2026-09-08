@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/trip
 - weapon/level/0
 aliases: ["Bo Staff"]
-aon_id: "weapon-372"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=372"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 
 `Monk`  `Parry`  `Reach`  `Trip`
 
-- **Favored Weapon**: Anras, Nyarlathotep (The Veiled Voice), Sun Wukong
+- **Favored Weapon**: Anras, [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-the-veiled-voice|Nyarlathotep (The Veiled Voice)]], Sun Wukong
 - **Price**: 2 sp
 - **Damage**: 1d8 B
 - **Bulk**: 2

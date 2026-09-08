@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Satyr"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Satyr"
 level: 4
 source: "Monster Core"
-aon_id: "creature-3173"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3173"
 ---
 
@@ -59,7 +57,7 @@ abilities_bot:
   - name: "Play the Pipes"
     desc: "⬽ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]])"
   - name: "Requirements"
-    desc: "The satyr is holding a [[srd/pf2e/compendium/equipment/adventuring-gear/musical-instrument-virtuoso-heavy|musical instrument]]"
+    desc: "The satyr is holding a [[srd/pf2e/compendium/equipment/adventuring-gear/musical-instrument|musical instrument]]"
   - name: "Effect"
     desc: "The satyr plays a melody on his instrument to cast charm, [[srd/pf2e/compendium/spells/rank-1/fear|_fear_]], [[srd/pf2e/compendium/spells/rank-1/sleep|_sleep_]], or [[srd/pf2e/compendium/spells/rank-4/suggestion|_suggestion_]] without expending the spell slot. The spell gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]] trait and targets all creatures in a 60-foot emanation instead of its usual targets. A creature that succeeds at its Will save against any spell is then temporarily immune from spells played from that satyr's pipes for 1 minute. Satyrs are immune to this music. Satyr Pipes A satyr's gear is valuable, particularly his fine panpipes. Depending on the type of music they prefer to play, satyrs may be able to cast different 4th-rank spells, such as [[srd/pf2e/compendium/spells/rank-2/laughing-fit|_laughing fit_]] or [[srd/pf2e/compendium/spells/rank-2/paranoia|_paranoia_]]. Satyrs also stow caches of alcohol, rich food, and pieces of fine art (especially erotic art) in hollows and glades they frequent."
 spellcasting:

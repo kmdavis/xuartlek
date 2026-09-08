@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Halfling Head Chef"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Halfling Head Chef"
 level: 2
 source: "NPC Core"
-aon_id: "creature-3644"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3644"
 ---
 

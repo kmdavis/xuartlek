@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/leshy
 - feat/level/9
 aliases: ["Solar Rejuvenation"]
-aon_id: "feat-4506"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4506"
 source: "Player Core"
 ---
 

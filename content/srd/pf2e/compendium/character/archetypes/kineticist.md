@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-archetype
 tags:
 - compendium/src/pf2e/rage-of-elements
 - archetype/level/2
 aliases: ["Kineticist"]
-aon_id: "archetype-206"
+aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=206"
 source: "Rage of Elements"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Fuath"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Fuath"
 level: 1
 source: "Monster Core 2"
-aon_id: "creature-4424"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4424"
 ---
 
@@ -46,7 +44,7 @@ armorclass:
 hp: 18
 health:
   - name: "HP"
-    desc: "18; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 2, [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 2"
+    desc: "18; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 2, [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 2"
 abilities_mid:
   - name: "Vulnerable to Sunlight"
     desc: "A fuath becomes [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] 1 (or increases its drained condition by 1) after every consecutive hour they're exposed to sunlight. Being submerged in more than a foot of water prevents the sunlight from harming the fuath."

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-archetype
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 - trait/rare
 - archetype/level/2
 aliases: ["Chronoskimmer"]
-aon_id: "archetype-349"
+aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=349"
 source: "Dark Archives (Remastered)"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - equipment/level/11
 aliases: ["Amazing Pop-Up Book"]
-aon_id: "equipment-2170"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2170"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -16,7 +15,7 @@ source: "Treasure Vault (Remastered)"
 
 `Grimoire`  `Magical`  `Uncommon`
 
-- **Price**: 1,250 gp
+- **Price**: 1, 250 gp
 - **Bulk**: L
 
 [[srd/pf2e/compendium/character/ancestries/goblin|Goblin]] wizards invented the amazing pop-up book to store their spells without written words, though the tradition has been spreading to illusionists from other cultures. These grimoires have colorful covers and open to reveal three-dimensional scenes illustrating various spells. Goblins delight in constructing the books just right so a terrifying creature, like a horse or dog, pops up toward the reader each time a page is turned.

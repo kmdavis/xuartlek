@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class
 tags:
 - compendium/src/pf2e/player-core
 aliases: ["Cleric"]
-aon_id: "class-33"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=33"
 source: "Player Core"
 ---
 
@@ -130,7 +129,7 @@ As a cleric, you are a mortal servitor of a deity you revere above all others. T
 
  Acts fundamentally opposed to your deity's ideals are anathema to your faith. Learning or casting spells, committing acts, and using items that are anathema to your deity remove you from your deity's good graces.
 
- Casting spells with the [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] trait is almost always anathema to deities who don't allow unholy sanctification, and casting [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] spells is likewise anathema to those who don't allow holy sanctification. Similarly, casting spells that are anathema to the tenets or goals of your faith could interfere with your connection to your deity. For example, casting a spell to create [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]] would be anathema to Pharasma, the goddess of death. Many actions that are anathema don't appear in any deity's formal list. For borderline cases, you and your GM determine which acts are anathema.
+ Casting spells with the [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] trait is almost always anathema to deities who don't allow unholy sanctification, and casting [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] spells is likewise anathema to those who don't allow holy sanctification. Similarly, casting spells that are anathema to the tenets or goals of your faith could interfere with your connection to your deity. For example, casting a spell to create [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]] would be anathema to [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma]], the goddess of death. Many actions that are anathema don't appear in any deity's formal list. For borderline cases, you and your GM determine which acts are anathema.
 
  If you perform enough acts that are anathema to your deity, you lose the magical abilities that come from your connection to your deity. The class features that you lose are determined by the GM, but they likely include your divine font and all cleric spellcasting. These abilities can be regained only if you repent by conducting an _atone_ ritual.
 

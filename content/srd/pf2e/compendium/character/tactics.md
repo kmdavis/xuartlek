@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-tactic
 tags:
 - compendium/src/pf2e/battlecry
@@ -9,7 +8,9 @@ entries: 32
 
 # Tactics
 
-## Alley-oop  *Commander Tactic*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Alley-oop
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Commander`  `Tactic`
 
@@ -23,7 +24,9 @@ Your team excels at sharing resources and delivering them exactly where they nee
 
 *Source: Battlecry! p. 26*
 
-## Bloody Guillotine  *Commander Tactic*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## Bloody Guillotine
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 `Commander`  `Tactic`
 
@@ -34,7 +37,9 @@ Your squad performs a brutal combination attack that levels an enemy and attempt
 
 *Source: Battlecry! p. 28*
 
-## Buckle-cut blitz  *Commander Tactic*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## Buckle-cut blitz
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 `Brandish`  `Commander`  `Tactic`
 
@@ -44,7 +49,9 @@ Your squad dashes past enemies, slicing their boot laces and breaking their belt
 
 *Source: Battlecry! p. 26*
 
-## Coordinating Maneuvers  *Commander Tactic*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Coordinating Maneuvers
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Brandish`  `Commander`  `Tactic`
 
@@ -54,7 +61,9 @@ Your team works to slip enemies into a disadvantageous position. Signal one squa
 
 *Source: Battlecry! p. 26*
 
-## Cry Havoc!  *Commander Tactic*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")
+## Cry Havoc!
+
+[>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")
 
 `Brandish`  `Commander`  `Tactic`
 
@@ -67,7 +76,9 @@ Squadmates can use Cry Havoc! while [[srd/pf2e/compendium/rules-elements/actions
 
 *Source: Battlecry! p. 28*
 
-## Defensive Retreat  *Commander Tactic*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## Defensive Retreat
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 `Brandish`  `Commander`  `Tactic`
 
@@ -77,7 +88,9 @@ You call for a careful retreat. Signal all squadmates within the aura of your ba
 
 *Source: Battlecry! p. 25*
 
-## Demoralizing Charge  *Commander Tactic*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## Demoralizing Charge
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 `Brandish`  `Commander`  `Tactic`
 
@@ -87,7 +100,9 @@ Your team’s coordinated assault strikes fear into your enemies’ hearts. Sign
 
 *Source: Battlecry! p. 27*
 
-## Double Team  *Commander Tactic*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## Double Team
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 `Commander`  `Tactic`
 
@@ -97,7 +112,9 @@ Your team works together to set an enemy up for a vicious attack. Signal one squ
 
 *Source: Battlecry! p. 26*
 
-## End it!  *Commander Tactic*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## End it!
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 `Brandish`  `Commander`  `Incapacitation`  `Tactic`
 
@@ -108,7 +125,9 @@ At your proclamation that victory is already at hand, your allies march forward 
 
 *Source: Battlecry! p. 26*
 
-## Executioner's Volley  *Commander Tactic*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## Executioner's Volley
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 `Commander`  `Tactic`
 
@@ -123,7 +142,9 @@ You command your squadmates to act as a lethal firing squad. You and each squadm
 
 *Source: Battlecry! p. 28*
 
-## Gather to Me!  *Commander Tactic*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Gather to Me!
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Commander`  `Tactic`
 
@@ -135,7 +156,9 @@ Squadmates can use Gather to Me! while [[srd/pf2e/compendium/rules-elements/acti
 
 *Source: Battlecry! p. 25*
 
-## Insta-Ballista  *Commander Tactic*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## Insta-Ballista
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 `Brandish`  `Commander`  `Tactic`
 
@@ -152,13 +175,15 @@ This is a ranged Strike using your proficiency bonus with martial weapons and ge
 
 *Source: Battlecry! p. 29*
 
-## Mirrored Wall  *Commander Tactic*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## Mirrored Wall
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 `Commander`  `Tactic`  `Visual`
 
 - **Tactic Type**: Master
 - **Frequency**: once per 10 minutes
-- **Requirements**: At least one of your squadmates is in [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Bright Light|bright light]] or has a focused light source available, such as a [[srd/pf2e/compendium/equipment/adventuring-gear/lantern-hooded|bull's eye lantern.]]
+- **Requirements**: At least one of your squadmates is in [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Bright Light|bright light]] or has a focused light source available, such as a [[srd/pf2e/compendium/equipment/adventuring-gear/lantern|bull's eye lantern.]]
 
 Your squadmates have polished their shields to a reflective sheen and now position them to reflect a blinding light into your enemy’s eyes. All of your squadmates can [[srd/pf2e/compendium/rules-elements/actions/player-core#Raise a Shield|Raise a Shield]] or cast [[srd/pf2e/compendium/spells/cantrips/shield|_shield_]] as a reaction. Then, signal a squadmate within the aura of your commander’s banner who currently has a shield raised (including spellcasting allies with an active casting of the shield cantrip), and choose an enemy within 60 feet. The formation bounces light off the raised shield and into the enemy’s eyes; the target must succeed at a Fortitude saving throw against your class DC or become [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] for 1 round (on a critical failure, the creature remains [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] for 3 rounds after the blindness ends). 
 
@@ -166,7 +191,9 @@ You can signal additional allies with raised shields to participate in this tact
 
 *Source: Battlecry! p. 27*
 
-## Mountaineering Training  *Commander Tactic*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Mountaineering Training
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Commander`  `Tactic`
 
@@ -180,7 +207,9 @@ Your instructions make it easier for you and your allies to scale dangerous surf
 
 *Source: Battlecry! p. 25*
 
-## Naval Training  *Commander Tactic*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Naval Training
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Commander`  `Tactic`
 
@@ -194,7 +223,9 @@ Your instructions make it easier for you and your allies to swim through dangero
 
 *Source: Battlecry! p. 25*
 
-## Passage of Lines  *Commander Tactic*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Passage of Lines
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Commander`  `Tactic`
 
@@ -205,7 +236,9 @@ You command your allies to regroup, allowing endangered units to fall back while
 
 *Source: Battlecry! p. 25*
 
-## Pincer Attack  *Commander Tactic*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Pincer Attack
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Commander`  `Tactic`
 
@@ -215,7 +248,9 @@ You call for an aggressive formation designed for exploiting enemies’ vulnerab
 
 *Source: Battlecry! p. 26*
 
-## Piranha Assault  *Commander Tactic*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Piranha Assault
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Commander`  `Tactic`
 
@@ -226,7 +261,9 @@ You know that a thousand small bites can fell a large foe just as surely a singl
 
 *Source: Battlecry! p. 27*
 
-## Pop, Drop, and Lock  *Commander Tactic*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## Pop, Drop, and Lock
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 `Brandish`  `Commander`  `Tactic`
 
@@ -237,7 +274,9 @@ You command your squadmates to perform a devastating coordinated takedown. Signa
 
 *Source: Battlecry! p. 28*
 
-## Protective Screen  *Commander Tactic*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Protective Screen
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Brandish`  `Commander`  `Tactic`
 
@@ -247,7 +286,9 @@ You’ve trained your allies in a technique designed to protect war mages. Signa
 
 *Source: Battlecry! p. 25*
 
-## Ready, Aim, Fire!  *Commander Tactic*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## Ready, Aim, Fire!
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 `Brandish`  `Commander`  `Tactic`
 
@@ -262,7 +303,9 @@ You signal a volley of ranged attacks from your allies. Choose an enemy and sign
 
 *Source: Battlecry! p. 28*
 
-## Reload!  *Commander Tactic*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Reload!
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Commander`  `Tactic`
 
@@ -276,7 +319,9 @@ Your drill instruction kicks in, and your allies rapidly reload their weapons to
 
 *Source: Battlecry! p. 26*
 
-## Roaring Charge  *Commander Tactic*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## Roaring Charge
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 `Commander`  `Tactic`
 
@@ -295,7 +340,9 @@ You and your squad surge forward with a mighty roar. Signal all squadmates withi
 
 *Source: Battlecry! p. 28*
 
-## Sanguine Revitalization  *Commander Tactic*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## Sanguine Revitalization
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 `Commander`  `Tactic`
 
@@ -308,7 +355,9 @@ Once all Strikes are completed, if the target took damage and is not immune to [
 
 *Source: Battlecry! p. 29*
 
-## Shields Up!  *Commander Tactic*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Shields Up!
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Commander`  `Tactic`
 
@@ -322,7 +371,9 @@ You signal your allies to ready their defenses. Signal all squadmates within the
 
 *Source: Battlecry! p. 26*
 
-## Slip and Sizzle  *Commander Tactic*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## Slip and Sizzle
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 `Commander`  `Tactic`
 
@@ -334,7 +385,9 @@ If the second squadmate cast a spell using slots or Focus Points as part of this
 
 *Source: Battlecry! p. 27*
 
-## Strike Hard!  *Commander Tactic*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## Strike Hard!
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 `Brandish`  `Commander`  `Tactic`
 
@@ -344,7 +397,9 @@ You command an ally to attack. Signal a squadmate within the aura of your comman
 
 *Source: Battlecry! p. 26*
 
-## Stupefying Raid  *Commander Tactic*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## Stupefying Raid
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 `Brandish`  `Commander`  `Tactic`
 
@@ -354,7 +409,9 @@ Your team dashes about in a series of maneuvers that leave the enemy befuddled. 
 
 *Source: Battlecry! p. 27*
 
-## Tactical Takedown  *Commander Tactic*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## Tactical Takedown
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 `Commander`  `Tactic`
 
@@ -364,7 +421,9 @@ You direct a coordinated maneuver that sends an enemy tumbling down. Signal up t
 
 *Source: Battlecry! p. 26*
 
-## Take the High Ground  *Commander Tactic*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Take the High Ground
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Commander`  `Tactic`
 
@@ -374,7 +433,9 @@ Your ally leaps to secure the high ground with a little help from the squad. Sig
 
 *Source: Battlecry! p. 27*
 
-## The Bigger They Are  *Commander Tactic*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## The Bigger They Are
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Brandish`  `Commander`  `Tactic`
 
@@ -384,7 +445,9 @@ Regardless of your individual strengths, collectively your squad has the power t
 
 *Source: Battlecry! p. 27*
 
-## Valkyrie's Charge  *Commander Tactic*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")
+## Valkyrie's Charge
+
+[>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")
 
 `Brandish`  `Commander`  `Tactic`
 

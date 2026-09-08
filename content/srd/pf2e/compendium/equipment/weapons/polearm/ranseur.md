@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/reach
 - weapon/level/0
 aliases: ["Ranseur"]
-aon_id: "weapon-390"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=390"
 source: "Player Core"
 ---
 
@@ -15,7 +14,7 @@ source: "Player Core"
 
 `Disarm`  `Reach`
 
-- **Favored Weapon**: Belial, Bokrug, Neshen, Pharimia, Stag Mother of the Forest of Stones, Xoveron, Zelishkar
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/archdevils/belial|Belial]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/bokrug|Bokrug]], [[srd/pf2e/compendium/deities/empyreal-lords/neshen|Neshen]], Pharimia, [[srd/pf2e/compendium/deities/sarkorian-gods/stag-mother-of-the-forest-of-stones|Stag Mother of the Forest of Stones]], [[srd/pf2e/compendium/deities/demon-lords/xoveron|Xoveron]], [[srd/pf2e/compendium/deities/daemon-harbingers/zelishkar|Zelishkar]]
 - **Price**: 2 gp
 - **Damage**: 1d10 P
 - **Bulk**: 2

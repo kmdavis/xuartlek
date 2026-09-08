@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Dryad Queen"
 tags:
@@ -14,7 +13,6 @@ statblock: inline
 name: "Dryad Queen"
 level: 13
 source: "Monster Core"
-aon_id: "creature-3114"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3114"
 ---
 

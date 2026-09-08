@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - feat/level/1
 aliases: ["Ongoing Selfishness"]
-aon_id: "feat-5888"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5888"
 source: "Player Core 2"
 ---
 
@@ -15,7 +14,7 @@ source: "Player Core 2"
 
 `Champion`  `Uncommon`
 
-- **Prerequisites**: desecration cause
+- **Prerequisites**: [[srd/pf2e/compendium/character/causes#Desecration|desecration cause]]
 
 Your powerful personality and incredible ego demand that you protect yourself above all else. After you use [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Selfish Shield|Selfish Shield]], you gain resistance to all further damage from the triggering enemy until the end of the turn on which you used the reaction. This resistance is equal to half your Selfish Shield resistance.
 

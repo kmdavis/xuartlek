@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/lozenge
 - equipment/level/6
 aliases: ["Scholar's Drop"]
-aon_id: "equipment-1929"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1929"
 source: "Treasure Vault (Remastered)"
 ---
 

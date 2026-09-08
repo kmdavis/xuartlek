@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/teleportation
 - ritual/level/7
 aliases: ["Gathering Call"]
-aon_id: "ritual-148"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=148"
 source: "Player Core 2"
 ---
 
@@ -16,7 +15,7 @@ source: "Player Core 2"
 `Rare`  `Teleportation`
 
 - **Cast**: 7 days
-- **Cost**: rare oils and powdered minerals worth 5,000 gp
+- **Cost**: rare oils and powdered minerals worth 5, 000 gp
 - **Secondary Casters**: 2
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] or [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (expert, the check has the [[srd/pf2e/compendium/rules-elements/traits/player-core/secret|secret]] trait)
 - **Secondary Checks**: Arcana or Occultism (whichever isn’t used for the primary check), Society

@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 aliases: ["Psychic"]
-aon_id: "class-68"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=68"
 source: "Dark Archives (Remastered)"
 ---
 
@@ -147,7 +146,7 @@ When one thins the barrier between their inner mind and the outer world, one can
 
 A psychic's power is born in the depths of their psyche, far from the surface. Your subconscious mind might represent the way your power comes to you naturally, or it may be a framework you use to safely access the infinite potential of your mind. Either way, your subconscious mind fundamentally shapes how you access and wield psychic magic. Choose a subconscious mind. This choice will determine your key attribute, thoughtforms you use while casting, and an action you can take while you have Unleashed your Psyche.
 
- Subconscious mind options can be found here.
+ Subconscious mind options can be found [[srd/pf2e/compendium/character/subconscious-minds|here]].
 
 #### Conscious Mind
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/manipulate
 - spell/level/1
 aliases: ["Detect Magic"]
-aon_id: "spell-1485"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1485"
 source: "Player Core"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core"
 
 - **Traditions**: Arcane, Divine, Occult, Primal
 - **Spell Lists**: Elemental
-- **Bloodline**: Imperial
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Imperial|Imperial]]
 - **Area**: 30-foot emanation
 
 You send out a pulse that registers the presence of magic. You receive no information beyond the presence or absence of magic. You can choose to ignore magic you're fully aware of, such as the magic items and ongoing spells of you and your allies.

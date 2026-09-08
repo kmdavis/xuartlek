@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Cloud Giant"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Cloud Giant"
 level: 11
 source: "Monster Core"
-aon_id: "creature-3015"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3015"
 ---
 
@@ -40,7 +38,7 @@ abilities_top:
   - name: "Cloudsight"
     desc: "Cloud giants ignore [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealment]]from weather conditions, including clouds and rain."
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/polearm/ranseur|ranseur]]_"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/polearm/ranseur|ranseur]]_"
 ac: 30
 armorclass:
   - name: "AC"

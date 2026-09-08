@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Infernal Registrar"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Infernal Registrar"
 level: 10
 source: "NPC Core"
-aon_id: "creature-3566"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3566"
 ---
 
@@ -48,7 +46,7 @@ abilities_top:
   - name: "Technically Correct"
     desc: "The infernal registrar uses their [[srd/pf2e/compendium/rules-elements/skills/lore|Legal Lore]] modifier on all [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Lie|Lie]]."
   - name: "Items"
-    desc: "_staff of office_ (functions as _+1 [[srd/pf2e/compendium/equipment/runes/flaming-greater|flaming]] [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/club/staff|staff]]_)"
+    desc: "_staff of office_ (functions as _+1 [[srd/pf2e/compendium/equipment/runes/flaming|flaming]] [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/club/staff|staff]]_)"
 ac: 27
 armorclass:
   - name: "AC"

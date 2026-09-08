@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
-- compendium/src/pf2e/guns-gears-remastered
+- compendium/src/pf2e/npc-core
 - trait/concussive
 - trait/fatal
 - trait/kickback
 - trait/uncommon
 - weapon/level/0
 aliases: ["Arquebus"]
-aon_id: "weapon-195"
-source: "Guns & Gears (Remastered)"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=518"
+source: "NPC Core"
 ---
 
 # Arquebus  *Weapon 0*
@@ -18,7 +17,7 @@ source: "Guns & Gears (Remastered)"
 `Concussive`  `Fatal`  `Kickback`  `Uncommon`
 
 - **PFS Note**: All Pathfinder Society agents have access to all uncommon weapons, ammunition, and related items from Chapter 4
-- **Access**: The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
+- **Favored Weapon**: Srikalis, Sritaming, and Sribaril
 - **Price**: 8 gp
 - **Damage**: 1d8 P
 - **Bulk**: 2
@@ -30,7 +29,7 @@ source: "Guns & Gears (Remastered)"
 - **Group**: Firearm
 - **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/firearm/firearm-ammunition-10-rounds|Firearm Ammunition (10 rounds)]]
 
-This is a long rifle that offers more range than the average firearm, though the long barrel and ferocious kickback make the weapon particularly unsteady unless a [[srd/pf2e/compendium/equipment/adventuring-gear/tripod|tripod]] or other stand is used to stabilize it. The arquebus is one of the most commonly used long guns among the soldiers of Dongun Hold and Alkenstar.
+This is a long rifle that offers more range than the average firearm, though the long barrel and ferocious kickback make the weapon particularly unsteady unless a [[srd/pf2e/compendium/equipment/adventuring-gear/tripod|tripod]] or other stand is used to stabilize it.
 
 ### Critical Specialization Effects
 
@@ -38,6 +37,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-Hex Blaster, [[srd/pf2e/compendium/equipment/weapons/mindlance|Mindlance]], [[srd/pf2e/compendium/equipment/weapons/reapers-grasp|Reaper's Grasp]]
+Mindlance, Reaper's Grasp
 
-*Source: Guns & Gears (Remastered) p. 152*
+*Source: NPC Core p. 50*

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -11,7 +10,7 @@ tags:
 - trait/mental
 - spell/level/5
 aliases: ["Confusing Cry"]
-aon_id: "spell-1950"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1950"
 source: "Howl of the Wild"
 ---
 

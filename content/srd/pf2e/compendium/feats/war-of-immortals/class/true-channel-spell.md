@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
 - trait/animist
 - feat/level/20
 aliases: ["True Channel Spell"]
-aon_id: "feat-7153"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7153"
 source: "War of Immortals"
 ---
 

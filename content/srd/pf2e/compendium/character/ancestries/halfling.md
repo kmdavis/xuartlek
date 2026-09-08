@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ancestry
 tags:
 - compendium/src/pf2e/player-core
 - trait/halfling
 - trait/humanoid
 aliases: ["Halfling"]
-aon_id: "ancestry-63"
+aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=63"
 source: "Player Core"
 ---
 
@@ -34,7 +33,7 @@ Despite their jovial and friendly nature, halflings don't usually tend to congre
 
 ### Alignment and Religion
 
-Halflings are loyal to their friends and their family, but they aren't afraid to do what needs to be done in order to survive. Wherever halflings go, they seamlessly blend into the society they find themselves in, adapting to the culture and beliefs of the predominant ancestry around them and adding their uniquely halfling twists, creating a blend of cultural diffusion that enriches both cultures. Halflings favor gods that either grant luck, like Desna, or encourage guile, like Norgorber, and many appreciate Cayden Cailean's role as a liberator, as well as any religions common among other ancestries around them.
+Halflings are loyal to their friends and their family, but they aren't afraid to do what needs to be done in order to survive. Wherever halflings go, they seamlessly blend into the society they find themselves in, adapting to the culture and beliefs of the predominant ancestry around them and adding their uniquely halfling twists, creating a blend of cultural diffusion that enriches both cultures. Halflings favor gods that either grant luck, like [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/desna|Desna]], or encourage guile, like [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/norgorber|Norgorber]], and many appreciate Cayden Cailean's role as a liberator, as well as any religions common among other ancestries around them.
 
  **Popular Edicts** share good meals with friends and strangers alike, stand up to bullies and oppressors, stay beneath the taller folk's notice
  **Popular Anathema** take your luck for granted

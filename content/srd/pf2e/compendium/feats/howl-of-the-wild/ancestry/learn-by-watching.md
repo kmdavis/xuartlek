@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 - trait/awakened-animal
 - feat/level/1
 aliases: ["Learn by Watching"]
-aon_id: "feat-5301"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5301"
 source: "Howl of the Wild"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/rare
 - equipment/level/2
 aliases: ["Luckless Dice"]
-aon_id: "equipment-2383"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2383"
 source: "Treasure Vault (Remastered)"
 ---
 

@@ -7,7 +7,6 @@ cssclasses:
 tags:
   - srd/pf2e/guns-gears-remastered
 source: "Guns & Gears (Remastered)"
-aon_id: 1651
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=1651"
 citation: "Guns & Gears (Remastered) pg. 154"
 ---
@@ -24,7 +23,7 @@ Arcadia's history of gunsmithing goes back centuries, and Arcadia may very well 
 
 While they don't look much like ancient star guns and use a different kind of magic, beast guns are particularly notable in that, like star guns, they rely on magic rather than black powder. Beast guns can produce unique effects beyond simply damaging their targets.
 
-Beast guns aren't loaded with the same ammunition as other guns, but they do still use ammunition, rather than shooting magical energy like a star gun. This ammunition comes as specially designed rounds, such as miniature tentacles fired from the [[srd/pf2e/compendium/equipment/weapons/tentacle-cannon-major|tentacle gun]] or javelin-like spikes from the [[srd/pf2e/compendium/equipment/weapons/spike-launcher|spike gun]]. Unless otherwise stated, these rounds come in packs of 10 that cost 1 sp and have light Bulk. The only weapon in this section that works significantly differently is the [[srd/pf2e/compendium/equipment/weapons/growth-gun|growth gun]], which grows back a gob of its own ammunition once per round, ensuring you always have enough ammunition to fire a shot every round.
+Beast guns aren't loaded with the same ammunition as other guns, but they do still use ammunition, rather than shooting magical energy like a star gun. This ammunition comes as specially designed rounds, such as miniature tentacles fired from the [[srd/pf2e/compendium/equipment/weapons/tentacle-cannon|tentacle gun]] or javelin-like spikes from the [[srd/pf2e/compendium/equipment/weapons/spike-launcher|spike gun]]. Unless otherwise stated, these rounds come in packs of 10 that cost 1 sp and have light Bulk. The only weapon in this section that works significantly differently is the [[srd/pf2e/compendium/equipment/weapons/growth-gun|growth gun]], which grows back a gob of its own ammunition once per round, ensuring you always have enough ammunition to fire a shot every round.
 
 Monster hunters of all kinds roam Arcadia slaying beasts and harvesting their body parts to produce new beast guns, both new examples of established models and brand new types never seen or imagined before. Even after thousands of years, innovators expand the possibilities of what a beast gun can do.
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Ocean Nomad"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Ocean Nomad"
 level: 6
 source: "NPC Core"
-aon_id: "creature-3605"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3605"
 ---
 

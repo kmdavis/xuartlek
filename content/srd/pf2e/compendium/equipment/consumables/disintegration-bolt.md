@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/player-core-2
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - equipment/level/15
 aliases: ["Disintegration Bolt"]
-aon_id: "equipment-3392"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3392"
 source: "Player Core 2"
 ---
 
@@ -16,7 +15,7 @@ source: "Player Core 2"
 
 `Consumable`  `Magical`  `Uncommon`
 
-- **Price**: 1,300 gp
+- **Price**: 1, 300 gp
 - **Ammunition**: bolt
 - **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Tomb Giant"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Tomb Giant"
 level: 12
 source: "Monster Core 2"
-aon_id: "creature-4411"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4411"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [7, 3, 6, 3, 7, 4]
 abilities_top:
   - name: "Items"
-    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/polearm/scythe|scythe]]_, black onyx gems worth 300 gp"
+    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/polearm/scythe|scythe]]_, black onyx gems worth 300 gp"
 ac: 32
 armorclass:
   - name: "AC"

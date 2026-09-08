@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/manipulate
 - spell/level/9
 aliases: ["Wrathful Storm"]
-aon_id: "spell-1759"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1759"
 source: "Player Core"
 ---
 
@@ -19,8 +18,8 @@ source: "Player Core"
 
 - **Tradition**: Primal
 - **Spell Lists**: Elemental
-- **Bloodline**: Elemental
-- **Deities**: Bokrug, Nalinivati, Sky Keepers
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Elemental|Elemental]]
+- **Deities**: [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/bokrug|Bokrug]], Nalinivati, Sky Keepers
 - **Range**: 800 feet
 - **Area**: 400-foot burst
 - **Duration**: sustained up to 1 minute

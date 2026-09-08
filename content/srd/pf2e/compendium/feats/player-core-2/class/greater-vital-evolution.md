@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/sorcerer
 - feat/level/16
 aliases: ["Greater Vital Evolution"]
-aon_id: "feat-6120"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6120"
 source: "Player Core 2"
 ---
 

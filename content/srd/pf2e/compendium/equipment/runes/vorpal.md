@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -7,7 +6,7 @@ tags:
 - trait/rare
 - equipment/level/17
 aliases: ["Vorpal"]
-aon_id: "equipment-2853"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2853"
 source: "GM Core"
 ---
 
@@ -15,7 +14,7 @@ source: "GM Core"
 
 `Magical`  `Rare`
 
-- **Price**: 15,000 gp
+- **Price**: 15, 000 gp
 - **Usage**: etched onto a slashing melee weapon
 
 Originally created as a means of slaying the legendary jabberwock, _vorpal_ weapons prove equally effective against nearly any foe with a head. 

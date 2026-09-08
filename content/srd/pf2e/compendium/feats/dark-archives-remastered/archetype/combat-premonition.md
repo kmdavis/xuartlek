@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 - trait/archetype
 - feat/level/12
 aliases: ["Combat Premonition"]
-aon_id: "feat-8496"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8496"
 source: "Dark Archives (Remastered)"
 ---
 

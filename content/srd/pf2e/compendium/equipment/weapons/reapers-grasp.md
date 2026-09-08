@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/unique
 - equipment/level/11
 aliases: ["Reaper's Grasp"]
-aon_id: "equipment-1184"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1184"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -18,9 +17,9 @@ source: "Guns & Gears (Remastered)"
 
 - **Usage**: held in 2 hands
 - **Bulk**: 2
-- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/firearm/arquebus|Arquebus]]
+- **Base Weapon**: Arquebus
 
-This _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+2 striking]] [[srd/pf2e/compendium/equipment/weapons/firearm/arquebus-weapon-518|arquebus]]_ has an ashwood stock plated with worked silver, featuring a mosaic of agonized skulls carved into the metal. The mere mention of Galt’s infamous _final blades_ is enough to make any mortal creature shudder. Used to execute political opponents in the nation’s constant civil war, these guillotines hold the souls of those they execute, preventing them from reaching a natural afterlife. When one of the final blades was destroyed in 4710, some of the metal from its remains made its way to Alkenstar and was reforged into a deadly firearm that retained the guillotine’s soul-stealing properties.
+This _[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+2 striking]] [[srd/pf2e/compendium/equipment/weapons/firearm/arquebus|arquebus]]_ has an ashwood stock plated with worked silver, featuring a mosaic of agonized skulls carved into the metal. The mere mention of Galt’s infamous _final blades_ is enough to make any mortal creature shudder. Used to execute political opponents in the nation’s constant civil war, these guillotines hold the souls of those they execute, preventing them from reaching a natural afterlife. When one of the final blades was destroyed in 4710, some of the metal from its remains made its way to Alkenstar and was reforged into a deadly firearm that retained the guillotine’s soul-stealing properties.
 
 Whenever the _reaper’s grasp_ kills a sapient living or undead creature, a portion of that creature’s soul is drawn inexorably into the weapon, and another skull is added to the mosaic as if scrawled by an invisible hand, to a maximum of 10 souls. Creatures whose souls are protected by outside forces, such as a [[srd/pf2e/bestiary/monster-core/undead/lich|lich’s]] soul cage, are immune to this effect, though the process, while painful, does not prevent the soul from going to the afterlife or being resurrected. Keep track of the level of each creature whose souls are stored in the _reaper’s grasp_
 

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/war-of-immortals
 - trait/apparition
 aliases: ["Apparition"]
-aon_id: "trait-837"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=837"
 source: "War of Immortals"
 ---
 

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/devil
 aliases: ["Devil"]
-aon_id: "trait-575"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=575"
 source: "Player Core"
 ---
 

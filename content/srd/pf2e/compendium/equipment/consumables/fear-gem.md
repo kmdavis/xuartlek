@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -11,7 +10,7 @@ tags:
 - trait/talisman
 - equipment/level/4
 aliases: ["Fear Gem"]
-aon_id: "equipment-2975"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2975"
 source: "GM Core"
 ---
 

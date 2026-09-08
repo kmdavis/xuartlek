@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Desert Giant"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Desert Giant"
 level: 9
 source: "Monster Core 2"
-aon_id: "creature-4409"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4409"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [6, 6, 5, 3, 4, 0]
 abilities_top:
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/worn-items/doubling-rings-greater|Doubling Rings]], [[srd/pf2e/compendium/equipment/armor#Leather Armor|Leather Armor]], [[srd/pf2e/compendium/equipment/weapons/sword/scimitar|Scimitar]], _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/sword/scimitar|scimitar]]_"
+    desc: "[[srd/pf2e/compendium/equipment/worn-items/doubling-rings|Doubling Rings]], [[srd/pf2e/compendium/equipment/armor#Leather Armor|Leather Armor]], [[srd/pf2e/compendium/equipment/weapons/sword/scimitar|Scimitar]], _[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/sword/scimitar|scimitar]]_"
 ac: 27
 armorclass:
   - name: "AC"

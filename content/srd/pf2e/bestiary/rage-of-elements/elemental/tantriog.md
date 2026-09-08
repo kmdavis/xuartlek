@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Tantriog"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Tantriog"
 level: 7
 source: "Rage of Elements"
-aon_id: "creature-2667"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2667"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Dezullon Thicket"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Dezullon Thicket"
 level: 15
 source: "Battlecry!"
-aon_id: "creature-3910"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3910"
 ---
 

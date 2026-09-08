@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/visual
 - spell/level/6
 aliases: ["Vibrant Pattern"]
-aon_id: "spell-1741"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1741"
 source: "Player Core"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core"
 `Illusion`  `Incapacitation`  `Manipulate`  `Subtle`  `Visual`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Neshen, The Pandemonia, Yelayne
+- **Deities**: [[srd/pf2e/compendium/deities/empyreal-lords/neshen|Neshen]], [[srd/pf2e/compendium/deities/covenants/the-pandemonia|The Pandemonia]], Yelayne
 - **Range**: 120 feet
 - **Area**: 10-foot burst
 - **Defense**: Will

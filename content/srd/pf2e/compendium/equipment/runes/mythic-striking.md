@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -8,7 +7,7 @@ tags:
 - trait/rare
 - equipment/level/20
 aliases: ["Mythic Striking"]
-aon_id: "equipment-3500"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3500"
 source: "War of Immortals"
 ---
 
@@ -16,7 +15,7 @@ source: "War of Immortals"
 
 `Magical`  `Mythic`  `Rare`
 
-- **Price**: 70,000 gp
+- **Price**: 70, 000 gp
 - **Usage**: etched onto a weapon
 
 This weapon is filled with unmatched destructive power. The weapon deals five weapon damage dice.

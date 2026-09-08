@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -8,7 +7,7 @@ tags:
 - trait/rage
 - feat/level/6
 aliases: ["Inner Strength"]
-aon_id: "feat-5829"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5829"
 source: "Player Core 2"
 ---
 
@@ -16,7 +15,7 @@ source: "Player Core 2"
 
 `Barbarian`  `Concentrate`  `Rage`
 
-- **Prerequisites**: spirit instinct
+- **Prerequisites**: [[srd/pf2e/compendium/character/instincts/spirit|spirit instinct]]
 
 Your strength is part of your rage. As long as your anger remains, you can gather your strength and rage to overcome any sort of enfeeblement. You reduce your [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] condition's value by 1.
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/mental
 - spell/level/6
 aliases: ["Never Mind"]
-aon_id: "spell-1614"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1614"
 source: "Player Core"
 ---
 
@@ -19,8 +18,8 @@ source: "Player Core"
 `Concentrate`  `Curse`  `Incapacitation`  `Manipulate`  `Mental`
 
 - **Traditions**: Arcane, Occult
-- **Bloodline**: Aberrant
-- **Deities**: Abraxas, Arazni, Areshkagal, Gyronna, Lissala, Lorthact, Nyarlathotep (The Veiled Voice), Valmallos
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Aberrant|Aberrant]]
+- **Deities**: [[srd/pf2e/compendium/deities/demon-lords/abraxas|Abraxas]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/arazni|Arazni]], [[srd/pf2e/compendium/deities/demon-lords/areshkagal|Areshkagal]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/gyronna|Gyronna]], [[srd/pf2e/compendium/deities/azlanti-pantheon/lissala|Lissala]], Lorthact, [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-the-veiled-voice|Nyarlathotep (The Veiled Voice)]], Valmallos
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will

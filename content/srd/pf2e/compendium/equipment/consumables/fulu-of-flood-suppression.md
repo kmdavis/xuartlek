@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - equipment/level/3
 aliases: ["Fulu Of Flood Suppression"]
-aon_id: "equipment-5076"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5076"
 source: "Impossible Magic"
 ---
 

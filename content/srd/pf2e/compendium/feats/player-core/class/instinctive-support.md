@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/druid
 - feat/level/6
 aliases: ["Instinctive Support"]
-aon_id: "feat-4731"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4731"
 source: "Player Core"
 ---
 

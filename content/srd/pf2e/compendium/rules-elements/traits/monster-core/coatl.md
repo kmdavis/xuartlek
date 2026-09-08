@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/monster-core
 - trait/coatl
 - trait/couatl
 aliases: ["Coatl"]
-aon_id: "trait-748"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=748"
 source: "Monster Core"
 ---
 

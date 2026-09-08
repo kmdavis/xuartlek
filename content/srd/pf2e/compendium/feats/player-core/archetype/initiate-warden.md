@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/ranger
 - feat/level/1
 aliases: ["Initiate Warden"]
-aon_id: "feat-4862"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4862"
 source: "Player Core"
 ---
 

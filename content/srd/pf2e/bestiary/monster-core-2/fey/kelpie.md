@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Kelpie"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Kelpie"
 level: 4
 source: "Monster Core 2"
-aon_id: "creature-4458"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4458"
 ---
 
@@ -41,7 +39,7 @@ armorclass:
 hp: 60
 health:
   - name: "HP"
-    desc: "60; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 5; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 5"
+    desc: "60; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 5; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 5"
 speed: "35 feet, swim 35 feet"
 attacks:
   - name: "Melee"
@@ -58,7 +56,7 @@ abilities_bot:
   - name: "Critical Failure"
     desc: "As failure, but the target doesn't consider water a danger and will enter an area of water even if it can't swim or breathe water. If it is attacked by the kelpie or starts to [[srd/pf2e/books/player-core/chapter-8-playing-the-game/encounter-mode#Drowning and Suffocating|drown]], it can attempt a new save at the start of its next turn, but it isn't freed automatically."
   - name: "Change Shape"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorph]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]) The kelpie can take on the appearance of any Medium or Large animal of an equine nature (such as a [[srd/pf2e/compendium/gm/creature-families/horse|horse]], hippocampus, or [[srd/pf2e/bestiary/monster-core/animal/war-pony|pony]]), or any Small or Medium humanoid. This doesn't change its Speeds or its attack and damage modifiers with its Strikes. Kelpie Folktales Some fanciful stories about kelpies speak of them appearing in equine form wearing riding tack, complete with silver stirrups and bridle bit. These folktales claim that cutting the harness from a kelpie's body grants the bearer power over it or causes a kelpie to sicken and die. In truth, doing so has no ill effect on a kelpie, suggesting these stories are spread by kelpies themselves to further trick prey into making foolish mistakes."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorph]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]) The kelpie can take on the appearance of any Medium or Large animal of an equine nature (such as a [[srd/pf2e/compendium/gm/creature-families/horse|horse]], [[srd/pf2e/compendium/character/animal-companions#Hippocampus|hippocampus]], or [[srd/pf2e/bestiary/monster-core/animal/war-pony|pony]]), or any Small or Medium humanoid. This doesn't change its Speeds or its attack and damage modifiers with its Strikes. Kelpie Folktales Some fanciful stories about kelpies speak of them appearing in equine form wearing riding tack, complete with silver stirrups and bridle bit. These folktales claim that cutting the harness from a kelpie's body grants the bearer power over it or causes a kelpie to sicken and die. In truth, doing so has no ill effect on a kelpie, suggesting these stories are spread by kelpies themselves to further trick prey into making foolish mistakes."
 sourcebook: "_Monster Core 2_, page 209."
 ```
 

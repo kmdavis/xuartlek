@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -11,7 +10,7 @@ tags:
 - trait/versatile
 - weapon/level/0
 aliases: ["Kusarigama"]
-aon_id: "weapon-291"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=291"
 source: "Treasure Vault (Remastered)"
 ---
 

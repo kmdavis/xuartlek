@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -9,7 +8,7 @@ tags:
 - trait/rare
 - feat/level/2
 aliases: ["Exemplar Dedication"]
-aon_id: "feat-7226"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7226"
 source: "War of Immortals"
 ---
 
@@ -20,7 +19,7 @@ source: "War of Immortals"
 - **Archetype**: [[srd/pf2e/compendium/character/archetypes/exemplar|Exemplar]]
 - **Prerequisites**: Strength +2 or Dexterity +2
 
-A spark of inherent divine power has lit itself within you. You become trained in martial weapons. You gain one ikon from those listed on here, the ability to use the ikon’s immanence and transcendence actions and effects, and the Shift Immanence action. Because you have only a single ikon, when you Spark Transcendence, your divine spark recedes back to the depths of your soul and must be recalled with Shift Immanence to re-empower your ikon. You become trained in exemplar class DC.
+A spark of inherent divine power has lit itself within you. You become trained in martial weapons. You gain one ikon from those listed on [[srd/pf2e/compendium/character/ikons|here]], the ability to use the ikon’s immanence and transcendence actions and effects, and the Shift Immanence action. Because you have only a single ikon, when you Spark Transcendence, your divine spark recedes back to the depths of your soul and must be recalled with Shift Immanence to re-empower your ikon. You become trained in exemplar class DC.
 
 ### Exemplar Dedication leads to...
 

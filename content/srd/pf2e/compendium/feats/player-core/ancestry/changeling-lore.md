@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/changeling
 - feat/level/1
 aliases: ["Changeling Lore"]
-aon_id: "feat-4534"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4534"
 source: "Player Core"
 ---
 

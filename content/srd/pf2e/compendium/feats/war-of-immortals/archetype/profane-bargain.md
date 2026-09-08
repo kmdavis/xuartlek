@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -9,7 +8,7 @@ tags:
 - trait/rare
 - feat/level/18
 aliases: ["Profane Bargain"]
-aon_id: "feat-7329"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7329"
 source: "War of Immortals"
 ---
 

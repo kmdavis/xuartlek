@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/gm-core
 - vehicle/level/-1
 aliases: ["Raft"]
-aon_id: "vehicle-77"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=77"
 source: "GM Core"
 ---
 

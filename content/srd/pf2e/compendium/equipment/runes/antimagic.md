@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - equipment/level/15
 aliases: ["Antimagic"]
-aon_id: "equipment-2787"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2787"
 source: "GM Core"
 ---
 
@@ -15,7 +14,7 @@ source: "GM Core"
 
 `Magical`  `Uncommon`
 
-- **Price**: 6,500 gp
+- **Price**: 6, 500 gp
 - **Usage**: etched onto armor
 
 This intricate rune displaces spell energy, granting you a +1 status bonus to saving throws against magical effects. 

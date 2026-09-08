@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - equipment/level/12
 aliases: ["Talonstrike Blade"]
-aon_id: "equipment-3859"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3859"
 source: "Battlecry!"
 ---
 
@@ -20,7 +19,7 @@ source: "Battlecry!"
 - **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/sword/bastard-sword|Bastard Sword]]
 - **Access**: A character who is a member of the Eagle Knights has access to this weapon.
 
-This large _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+2 striking]] [[srd/pf2e/compendium/equipment/materials/silver-object-high-grade|standard-grade silver]] [[srd/pf2e/compendium/equipment/weapons/sword/bastard-sword|bastard sword]]_ is the signature weapon of many veteran Eagle Knights. It’s easily recognized by its distinctively notched blade and the stylized wings adorning its cross guard. These blades are sometimes passed down from generation to generation.
+This large _[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+2 striking]] [[srd/pf2e/compendium/equipment/materials/silver|standard-grade silver]] [[srd/pf2e/compendium/equipment/weapons/sword/bastard-sword|bastard sword]]_ is the signature weapon of many veteran Eagle Knights. It’s easily recognized by its distinctively notched blade and the stylized wings adorning its cross guard. These blades are sometimes passed down from generation to generation.
 
 **Activate—Defense of Liberty** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ; **Frequency** once per hour; **Trigger** You or your mount are targeted by a physical melee or ranged attack; **Requirements** You are aware of the attack and are not [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] against it; **Effect** You or your mount gain a +2 circumstance bonus to AC against the triggering attack.
 

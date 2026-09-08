@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 - trait/magical
 - equipment/level/5
 aliases: ["Trollhound Pick"]
-aon_id: "equipment-3212"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3212"
 source: "Howl of the Wild"
 ---
 
@@ -19,7 +18,7 @@ source: "Howl of the Wild"
 - **Bulk**: 2
 - **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/pick/greatpick|Greatpick]]
 
-This _[[srd/pf2e/compendium/equipment/runes/weapon-potency-3|+1]] [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/pick/greatpick|greatpick]]_ bears a head studded with the tusks of a trollhound.
+This _[[srd/pf2e/compendium/equipment/runes/weapon-potency|+1]] [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/pick/greatpick|greatpick]]_ bears a head studded with the tusks of a trollhound.
 
 **Activate—Ravenous Strike** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** You Strike with the _trollhound pick_, transferring a portion of a trollhound’s legendary appetite to the target. A living enemy who takes damage from the attack must attempt a DC 19 Will save.
 

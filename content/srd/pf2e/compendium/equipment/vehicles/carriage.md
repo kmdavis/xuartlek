@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/gm-core
 - vehicle/level/2
 aliases: ["Carriage"]
-aon_id: "vehicle-63"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=63"
 source: "GM Core"
 ---
 

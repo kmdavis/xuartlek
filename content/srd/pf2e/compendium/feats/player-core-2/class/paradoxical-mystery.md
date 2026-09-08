@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/oracle
 - feat/level/20
 aliases: ["Paradoxical Mystery"]
-aon_id: "feat-6088"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6088"
 source: "Player Core 2"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - feat/level/10
 aliases: ["Electrify Armor"]
-aon_id: "feat-3070"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3070"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -15,7 +14,7 @@ source: "Guns & Gears (Remastered)"
 
 `Inventor`  `Manipulate`
 
-- **Prerequisites**: armor innovation
+- **Prerequisites**: [[srd/pf2e/compendium/character/innovations#Armor|armor innovation]]
 - **Requirements**: You are wearing your armor innovation.
 
 You electrify your armor to punish foes who dare to attack you. For 1 round, any creature that touches you, or that hits you with a melee [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attack or a non-[[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach]] melee weapon attack, takes 1d4 electricity damage. The effect ends if you cease wearing your armor innovation.

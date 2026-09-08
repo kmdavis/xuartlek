@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/secret
 aliases: ["Secret"]
-aon_id: "trait-690"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=690"
 source: "Player Core"
 ---
 

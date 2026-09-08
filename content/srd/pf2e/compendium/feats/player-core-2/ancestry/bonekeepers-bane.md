@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/gnoll
 - feat/level/13
 aliases: ["Bonekeeper's Bane"]
-aon_id: "feat-5608"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5608"
 source: "Player Core 2"
 ---
 

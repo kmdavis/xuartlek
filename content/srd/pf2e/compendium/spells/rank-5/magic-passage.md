@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - spell/level/5
 aliases: ["Magic Passage"]
-aon_id: "spell-1591"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1591"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Concentrate`  `Earth`  `Manipulate`  `Uncommon`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Dramindyr, Dranngvit
+- **Deities**: [[srd/pf2e/compendium/deities/monitor-demigods/dramindyr|Dramindyr]], [[srd/pf2e/compendium/deities/dwarven-gods/dranngvit|Dranngvit]]
 - **Range**: touch
 - **Area**: 5-foot-wide, 10-foot-tall, 10-foot-deep section of wooden, plaster, or stone wall
 - **Duration**: 1 hour

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/flourish
 - feat/level/14
 aliases: ["Whirlwind Strike"]
-aon_id: "feat-4847"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4847"
 source: "Player Core"
 ---
 

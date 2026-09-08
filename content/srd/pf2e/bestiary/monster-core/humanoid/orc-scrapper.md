@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Orc Scrapper"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Orc Scrapper"
 level: 0
 source: "Monster Core"
-aon_id: "creature-3129"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3129"
 ---
 

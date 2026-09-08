@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/orc
 - feat/level/13
 aliases: ["Incredible Ferocity"]
-aon_id: "feat-4526"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4526"
 source: "Player Core"
 ---
 

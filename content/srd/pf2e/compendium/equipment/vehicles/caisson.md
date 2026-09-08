@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/battlecry
 - trait/uncommon
 - vehicle/level/4
 aliases: ["Caisson"]
-aon_id: "vehicle-98"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=98"
 source: "Battlecry!"
 ---
 

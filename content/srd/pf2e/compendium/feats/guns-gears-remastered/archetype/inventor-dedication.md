@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - feat/level/2
 aliases: ["Inventor Dedication"]
-aon_id: "feat-3112"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3112"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -20,7 +19,7 @@ source: "Guns & Gears (Remastered)"
 - **Archetype**: [[srd/pf2e/compendium/character/archetypes/inventor|Inventor]]
 - **Prerequisites**: Intelligence +2
 
-You become trained in [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] and inventor class DC. You gain the Inventor skill feat, even if you don't meet the skill feat's requirements. Choose an innovation. You gain that innovation, though you don't gain any other abilities that modify or use that innovation, such as modifications or [[srd/pf2e/compendium/rules-elements/actions/guns-gears-remastered#Explode|Explode]].
+You become trained in [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] and inventor class DC. You gain the Inventor skill feat, even if you don't meet the skill feat's requirements. Choose an [[srd/pf2e/compendium/character/innovations|innovation]]. You gain that innovation, though you don't gain any other abilities that modify or use that innovation, such as modifications or [[srd/pf2e/compendium/rules-elements/actions/guns-gears-remastered#Explode|Explode]].
 
 ### Inventor Dedication leads to...
 

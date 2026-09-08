@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/gunslinger
 - feat/level/20
 aliases: ["Slinger's Reflexes"]
-aon_id: "feat-3214"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3214"
 source: "Guns & Gears (Remastered)"
 ---
 

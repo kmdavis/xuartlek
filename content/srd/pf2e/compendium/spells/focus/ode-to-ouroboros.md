@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/uncommon
 - spell/level/5
 aliases: ["Ode to Ouroboros"]
-aon_id: "spell-1771"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1771"
 source: "Player Core"
 ---
 

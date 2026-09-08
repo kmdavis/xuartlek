@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/duskwalker
 - feat/level/5
 aliases: ["Spirit Soother"]
-aon_id: "feat-5754"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5754"
 source: "Player Core 2"
 ---
 

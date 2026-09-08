@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -8,7 +7,7 @@ tags:
 - trait/metal
 - spell/level/6
 aliases: ["Field of Razors"]
-aon_id: "spell-1370"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1370"
 source: "Rage of Elements"
 ---
 

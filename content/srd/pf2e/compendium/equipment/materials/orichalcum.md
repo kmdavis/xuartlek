@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -7,7 +6,7 @@ tags:
 - trait/rare
 - equipment/level/17
 aliases: ["Orichalcum"]
-aon_id: "equipment-2919"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2919"
 source: "GM Core"
 ---
 
@@ -23,11 +22,11 @@ The most rare and valuable skymetal, orichalcum is coveted for its incredible ti
 
 #### Material Uses
 
-[[srd/pf2e/compendium/equipment/armor/orichalcum-armor-high-grade|Orichalcum Armor]]
+[[srd/pf2e/compendium/equipment/armor/orichalcum-armor|Orichalcum Armor]]
 
-[[srd/pf2e/compendium/equipment/shields/orichalcum-shield-high-grade|Orichalcum Shield]]
+[[srd/pf2e/compendium/equipment/shields/orichalcum-shield|Orichalcum Shield]]
 
-[[srd/pf2e/compendium/equipment/weapons/orichalcum-weapon-high-grade|Orichalcum Weapon]]
+[[srd/pf2e/compendium/equipment/weapons/orichalcum-weapon|Orichalcum Weapon]]
 
 ### Orichalcum Chunk
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/rare
 - equipment/level/12
 aliases: ["Violet Ray"]
-aon_id: "equipment-1139"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1139"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -14,7 +13,7 @@ source: "Guns & Gears (Remastered)"
 
 `Rare`
 
-- **Price**: 1,893 gp
+- **Price**: 1, 893 gp
 - **Usage**: held in 2 hands
 - **Bulk**: 2
 

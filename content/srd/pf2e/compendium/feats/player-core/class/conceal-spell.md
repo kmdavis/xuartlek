@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -11,7 +10,7 @@ tags:
 - trait/metamagic
 - feat/level/2
 aliases: ["Conceal Spell"]
-aon_id: "feat-4997"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4997"
 source: "Player Core"
 ---
 

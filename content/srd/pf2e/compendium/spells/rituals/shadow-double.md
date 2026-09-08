@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/rare
 - ritual/level/4
 aliases: ["Shadow Double"]
-aon_id: "ritual-154"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=154"
 source: "Player Core 2"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core 2"
 - **Cost**: a small item of personal significance to the creature to be duplicated (such as an item of clothing they wear everyday or a memento of a romantic tryst), plus rare oils, minerals, and pigments with a total value of 300 gp
 - **Secondary Casters**: 3
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] or [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (master, the check has the [[srd/pf2e/compendium/rules-elements/traits/player-core/secret|secret]] trait)
-- **Secondary Checks**: Arcana , Nature , Occultism , Religion , or Society (whichever is required to Recall Knowledge about the creature being duplicated); Crafting ; Deception
+- **Secondary Checks**: Arcana, Nature, Occultism, Religion, or Society (whichever is required to Recall Knowledge about the creature being duplicated); Crafting ; Deception
 - **Target(s)**: 1 living creature
 
 You create an illusory duplicate of the target creature by drawing shadowy material from the [[srd/pf2e/compendium/gm/planes#The Netherworld|Netherworld]] and sculpting it into a semi-solid form. The shadow double is a 4th-level creature with no special abilities. If it needs to attempt a roll or use a DC, use the [[srd/pf2e/books/gm-core/chapter-2-building-games/building-creatures#Understanding Statistics|moderate number]] for a monster, except as noted below. It doesn’t have any specific memories from the target, but it can use information about the creature gained from any of the casters to [[srd/pf2e/compendium/rules-elements/actions/player-core#Impersonate|Impersonate]] the target. It looks exactly like the target and has a [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] modifier to Impersonate that creature equal to the modifier of the secondary spellcaster who rolled the Deception check, with a +4 status bonus.

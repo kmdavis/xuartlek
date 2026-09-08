@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-skill
 tags:
 - compendium/src/pf2e/player-core
 aliases: ["Crafting"]
-aon_id: "skill-37"
+aon_url: "https://2e.aonprd.com/Skills.aspx?ID=37"
 source: "Player Core"
 ---
 
@@ -37,35 +36,35 @@ Category
 Consumable
 Note
 
-[[srd/pf2e/compendium/equipment/worn-items/alchemist-goggles-major|Alchemist Goggles]]
+[[srd/pf2e/compendium/equipment/worn-items/alchemist-goggles|Alchemist Goggles]]
 +1
 0
 Other Worn Items
 No
 Crafting checks to Craft alchemical items
 
-[[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit-sterling|Artisan's Toolkit (Sterling)]]
+[[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit|Artisan's Toolkit (Sterling)]]
 +1
 3
 Adventuring Gear
 No
 Crafting checks to Craft
 
-[[srd/pf2e/compendium/equipment/adventuring-gear/repair-toolkit-superb|Repair Toolkit (Superb)]]
+[[srd/pf2e/compendium/equipment/adventuring-gear/repair-toolkit|Repair Toolkit (Superb)]]
 +1
 3
 Adventuring Gear
 No
 Crafting checks to Repair
 
-[[srd/pf2e/compendium/equipment/worn-items/aeon-stone-sprouting|Aeon Stone (Formulating)]]
+[[srd/pf2e/compendium/equipment/worn-items/aeon-stone|Aeon Stone (Formulating)]]
 +1
 4
 Other Worn Items
 No
 Item bonus to crafting checks
 
-[[srd/pf2e/compendium/equipment/worn-items/aeon-stone-sprouting|Aeon Stone (Repairing)]]
+[[srd/pf2e/compendium/equipment/worn-items/aeon-stone|Aeon Stone (Repairing)]]
 +1
 4
 Other Worn Items
@@ -79,13 +78,13 @@ Other Worn Items
 No
 Item bonus to a check of the crafter's choice
 
-[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen-major|Cognitive Mutagen (Lesser)]]
+[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen|Cognitive Mutagen (Lesser)]]
 +1
 1
 Alchemical Elixirs
 Yes
 
-[[srd/pf2e/compendium/equipment/worn-items/alchemist-goggles-major|Alchemist Goggles]]
+[[srd/pf2e/compendium/equipment/worn-items/alchemist-goggles|Alchemist Goggles]]
 +2
 0
 Other Worn Items
@@ -106,54 +105,54 @@ Specific Magic Armor
 No
 Item bonus to Crafting checks and an escape route should one’s experiments go awry.
 
-[[srd/pf2e/compendium/equipment/worn-items/ring-of-maniacal-devices-greater|Ring of Maniacal Devices]]
+[[srd/pf2e/compendium/equipment/worn-items/ring-of-maniacal-devices|Ring of Maniacal Devices]]
 +2
 11
 Worn Items
 No
 Crafting checks to Craft and Repair snares and traps.
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal]]
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal]]
 +2
 11
 Worn Items
 No
 Item bonus of the associated Deity's Divine Skill
 
-[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen-major|Cognitive Mutagen (Moderate)]]
+[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen|Cognitive Mutagen (Moderate)]]
 +2
 3
 Alchemical Elixirs
 Yes
 
-[[srd/pf2e/compendium/equipment/worn-items/alchemist-goggles-major|Alchemist Goggles]]
+[[srd/pf2e/compendium/equipment/worn-items/alchemist-goggles|Alchemist Goggles]]
 +3
 0
 Other Worn Items
 No
 Crafting checks to Craft alchemical items
 
-[[srd/pf2e/compendium/equipment/worn-items/ring-of-maniacal-devices-greater|Ring of Maniacal Devices (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/ring-of-maniacal-devices|Ring of Maniacal Devices (Greater)]]
 +3
 18
 Worn Items
 No
 Crafting checks to Craft and Repair snares and traps.
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal (Greater)]]
 +3
 18
 Worn Items
 No
 Item bonus of the associated Deity's Divine Skill
 
-[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen-major|Cognitive Mutagen (Greater)]]
+[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen|Cognitive Mutagen (Greater)]]
 +3
 11
 Alchemical Elixirs
 Yes
 
-[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen-major|Cognitive Mutagen (Major)]]
+[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen|Cognitive Mutagen (Major)]]
 +4
 17
 Alchemical Elixirs

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -7,7 +6,7 @@ tags:
 - trait/awakened-animal
 - feat/level/17
 aliases: ["Fearsome Form"]
-aon_id: "feat-5320"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5320"
 source: "Howl of the Wild"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - ritual/level/7
 aliases: ["Sprawling Tunnels"]
-aon_id: "ritual-216"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=216"
 source: "Battlecry!"
 ---
 
@@ -19,7 +18,7 @@ source: "Battlecry!"
 - **Cost**: fine ink worth 50 gp
 - **Secondary Casters**: 2
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/lore|Mining Lore]] (expert) or [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (expert)
-- **Secondary Checks**: Engineering Lore , Warfare Lore
+- **Secondary Checks**: Engineering Lore, Warfare Lore
 - **Range**: 5 miles
 - **Duration**: 1 week
 

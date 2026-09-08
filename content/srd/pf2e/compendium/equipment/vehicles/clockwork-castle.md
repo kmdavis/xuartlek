@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/rare
 - vehicle/level/16
 aliases: ["Clockwork Castle"]
-aon_id: "vehicle-35"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=35"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -14,7 +13,7 @@ source: "Guns & Gears (Remastered)"
 
 `Rare`
 
-- **Price**: 30,000 gp
+- **Price**: 30, 000 gp
 
 While the name slightly overstates its size, nonetheless a magical clockwork castle is a sizable mobile fortress built on ten spiderlike clockwork legs, with three stories of palatial accommodations within. Legends tell of a unique clockwork castle massively larger even than this size, perhaps an artifact in its own right.
 

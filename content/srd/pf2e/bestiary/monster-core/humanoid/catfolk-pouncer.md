@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Catfolk Pouncer"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Catfolk Pouncer"
 level: 1
 source: "Monster Core"
-aon_id: "creature-2869"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=2869"
 ---
 

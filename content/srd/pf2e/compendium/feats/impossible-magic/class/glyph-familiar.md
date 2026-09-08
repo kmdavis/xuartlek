@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/runesmith
 - feat/level/1
 aliases: ["Glyph Familiar"]
-aon_id: "feat-9170"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9170"
 source: "Impossible Magic"
 ---
 
@@ -14,7 +13,7 @@ source: "Impossible Magic"
 
 `Runesmith`
 
-You have taken a living rune as a familiar to aid you in your adventures. You gain a familiar. You choose one familiar or master ability per day instead of two, but your familiar also always has three additional familiar abilities: [[srd/pf2e/compendium/character/familiar-abilities#Construct|construct]], [[srd/pf2e/compendium/character/familiar-abilities#Flier|flier]], and [[srd/pf2e/compendium/character/familiar-abilities#Tough|tough]].
+You have taken a living rune as a familiar to aid you in your adventures. You gain a [[srd/pf2e/compendium/character/familiar-abilities|familiar]]. You choose one familiar or master ability per day instead of two, but your familiar also always has three additional familiar abilities: [[srd/pf2e/compendium/character/familiar-abilities#Construct|construct]], [[srd/pf2e/compendium/character/familiar-abilities#Flier|flier]], and [[srd/pf2e/compendium/character/familiar-abilities#Tough|tough]].
 
 ### Glyph Familiar leads to...
 

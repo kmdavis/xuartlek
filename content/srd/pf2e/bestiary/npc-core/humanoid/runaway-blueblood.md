@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Runaway Blueblood"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Runaway Blueblood"
 level: 3
 source: "NPC Core"
-aon_id: "creature-3508"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3508"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [1, 3, 0, 2, 0, 4]
 abilities_top:
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/weapons/firearm/dueling-pistol|Dueling Pistol]] (10 rounds), fine clothing, signet ring, Shortsword"
+    desc: "Dueling Pistol (10 rounds), fine clothing, signet ring, Shortsword"
 ac: 18
 armorclass:
   - name: "AC"

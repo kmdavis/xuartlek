@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/npc-core
@@ -10,7 +9,7 @@ tags:
 - trait/rare
 - equipment/level/1
 aliases: ["Digly's Oil of Sympathy"]
-aon_id: "equipment-3586"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3586"
 source: "NPC Core"
 ---
 

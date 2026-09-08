@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/mental
 - spell/level/2
 aliases: ["Stupefy"]
-aon_id: "spell-1691"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1691"
 source: "Player Core"
 ---
 
@@ -17,8 +16,8 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Mental`
 
 - **Traditions**: Arcane, Occult
-- **Bloodlines**: Aberrant, Hag
-- **Deities**: Cayden Cailean, Halcamora, Razmir, The Lady of the North Star
+- **Bloodlines**: [[srd/pf2e/compendium/character/bloodlines#Aberrant|Aberrant]], [[srd/pf2e/compendium/character/bloodlines#Hag|Hag]]
+- **Deities**: [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/cayden-cailean|Cayden Cailean]], Halcamora, [[srd/pf2e/compendium/deities/other-gods/razmir|Razmir]], The Lady of the North Star
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will

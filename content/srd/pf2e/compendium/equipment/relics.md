@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-relic
 tags:
 - compendium/src/pf2e/gm-core
@@ -11,7 +10,7 @@ entries: 102
 
 # Relics
 
-## Against All Odds  *Relic Grand Gift*
+## Against All Odds
 
 `Fortune`
 
@@ -21,7 +20,7 @@ entries: 102
 
 *Source: Treasure Vault (Remastered) p. 200*
 
-## All Will Decay  *Relic Grand Gift*
+## All Will Decay
 
 `Metal`
 
@@ -33,7 +32,7 @@ Your relic's link to the [[srd/pf2e/compendium/gm/planes#Plane of Metal|Plane of
 
 *Source: Rage of Elements p. 148*
 
-## Angelic Vessel  *Relic Grand Gift*
+## Angelic Vessel
 
 `Holy`
 
@@ -45,7 +44,7 @@ Your relic's link to the [[srd/pf2e/compendium/gm/planes#Plane of Metal|Plane of
 
 *Source: GM Core p. 311*
 
-## Apothecary's Garden  *Relic Minor Gift*
+## Apothecary's Garden
 
 `Plant`
 
@@ -55,7 +54,7 @@ Your relic grows potent natural medicines. Each night, two medicinal herbs (or o
 
 *Source: GM Core p. 316*
 
-## Artistic Perfection  *Relic Grand Gift*
+## Artistic Perfection
 
 - **Aspect**: Artistry
 
@@ -63,7 +62,7 @@ Your relic enhances your skill with [[srd/pf2e/compendium/rules-elements/skills/
 
 *Source: Treasure Vault (Remastered) p. 198*
 
-## Beast Senses  *Relic Minor Gift*
+## Beast Senses
 
 - **Aspect**: Beast
 - **Prerequisite**: The relic is a worn item.
@@ -72,7 +71,7 @@ The relic grants you an animal's acute senses as long as you wear it. You gain l
 
 *Source: GM Core p. 310*
 
-## Beginner's Luck  *Relic Minor Gift*
+## Beginner's Luck
 
 `Fortune`
 
@@ -82,7 +81,7 @@ The relic grants you an animal's acute senses as long as you wear it. You gain l
 
 *Source: Treasure Vault (Remastered) p. 199*
 
-## Bestow Life  *Relic Minor Gift*
+## Bestow Life
 
 `Vitality`  `Positive`
 
@@ -92,7 +91,7 @@ The relic grants you an animal's acute senses as long as you wear it. You gain l
 
 *Source: GM Core p. 315*
 
-## Blazing Soul  *Relic Grand Gift*
+## Blazing Soul
 
 `Fire`
 
@@ -104,7 +103,7 @@ Fire magic suffuses your body and soul, protecting you from lesser flames and al
 
 *Source: GM Core p. 314*
 
-## Borrow Time  *Relic Minor Gift*
+## Borrow Time
 
 - **Aspect**: Time
 
@@ -112,7 +111,7 @@ Fire magic suffuses your body and soul, protecting you from lesser flames and al
 
 *Source: Treasure Vault (Remastered) p. 200*
 
-## Bottomless Reservoir  *Relic Major Gift*
+## Bottomless Reservoir
 
 `Extradimensional`  `Water`
 
@@ -124,7 +123,7 @@ Fire magic suffuses your body and soul, protecting you from lesser flames and al
 
 *Source: GM Core p. 319*
 
-## Call of the Wild  *Relic Minor Gift*
+## Call of the Wild
 
 - **Aspect**: Beast
 
@@ -132,7 +131,7 @@ Fire magic suffuses your body and soul, protecting you from lesser flames and al
 
 *Source: GM Core p. 310*
 
-## Charming  *Relic Major Gift*
+## Charming
 
 `Auditory`  `Emotion`  `Incapacitation`  `Mental`
 
@@ -142,7 +141,7 @@ Fire magic suffuses your body and soul, protecting you from lesser flames and al
 
 *Source: Treasure Vault (Remastered) p. 198*
 
-## Clean Luck  *Relic Major Gift*
+## Clean Luck
 
 `Fortune`
 
@@ -152,7 +151,7 @@ Fire magic suffuses your body and soul, protecting you from lesser flames and al
 
 *Source: Treasure Vault (Remastered) p. 199*
 
-## Command Legion  *Relic Grand Gift*
+## Command Legion
 
 `Unholy`
 
@@ -164,7 +163,7 @@ Fire magic suffuses your body and soul, protecting you from lesser flames and al
 
 *Source: GM Core p. 314*
 
-## Curse Wound  *Relic Minor Gift*
+## Curse Wound
 
 `Curse`  `Unholy`
 
@@ -175,7 +174,7 @@ Fire magic suffuses your body and soul, protecting you from lesser flames and al
 
 *Source: GM Core p. 313*
 
-## Dancing Shadow  *Relic Major Gift*
+## Dancing Shadow
 
 `Shadow`
 
@@ -188,7 +187,7 @@ Fire magic suffuses your body and soul, protecting you from lesser flames and al
 
 *Source: GM Core p. 318*
 
-## Dark Roads  *Relic Major Gift*
+## Dark Roads
 
 `Shadow`  `Teleportation`
 
@@ -200,7 +199,7 @@ Fire magic suffuses your body and soul, protecting you from lesser flames and al
 
 *Source: GM Core p. 318*
 
-## Deadly Spark  *Relic Minor Gift*
+## Deadly Spark
 
 `Air`  `Electricity`
 
@@ -210,7 +209,7 @@ Fire magic suffuses your body and soul, protecting you from lesser flames and al
 
 *Source: GM Core p. 309*
 
-## Death Gaze  *Relic Minor Gift*
+## Death Gaze
 
 `Void`  `Negative`
 
@@ -220,7 +219,7 @@ Fire magic suffuses your body and soul, protecting you from lesser flames and al
 
 *Source: GM Core p. 312*
 
-## Divine Retribution  *Relic Minor Gift*
+## Divine Retribution
 
 `Holy`
 
@@ -231,7 +230,7 @@ Fire magic suffuses your body and soul, protecting you from lesser flames and al
 
 *Source: GM Core p. 310*
 
-## Dominant Emotion  *Relic Minor Gift*
+## Dominant Emotion
 
 `Emotion`  `Mental`
 
@@ -241,7 +240,7 @@ Fire magic suffuses your body and soul, protecting you from lesser flames and al
 
 *Source: Treasure Vault (Remastered) p. 198*
 
-## Ease Burden  *Relic Minor Gift*
+## Ease Burden
 
 `Earth`
 
@@ -251,7 +250,7 @@ Your relic draws strength from the earth underfoot to lighten your load. As long
 
 *Source: GM Core p. 312*
 
-## Emotion Conduit  *Relic Major Gift*
+## Emotion Conduit
 
 `Emotion`  `Mental`
 
@@ -261,7 +260,7 @@ Your relic draws strength from the earth underfoot to lighten your load. As long
 
 *Source: Treasure Vault (Remastered) p. 199*
 
-## Emotion Surge  *Relic Minor Gift*
+## Emotion Surge
 
 `Emotion`  `Mental`
 
@@ -282,7 +281,7 @@ Your relic draws strength from the earth underfoot to lighten your load. As long
 
 *Source: Treasure Vault (Remastered) p. 199*
 
-## Encompassing Darkness  *Relic Minor Gift*
+## Encompassing Darkness
 
 `Shadow`
 
@@ -292,7 +291,7 @@ The shadows at your feet can hold objects. You can Interact with your shadow to 
 
 *Source: GM Core p. 317*
 
-## Enhancing Circuitry  *Relic Minor Gift*
+## Enhancing Circuitry
 
 `Metal`
 
@@ -304,7 +303,7 @@ Your relic is engraved with nodes and elements only visible from up close, lacki
 
 *Source: Rage of Elements p. 148*
 
-## Enthralling  *Relic Major Gift*
+## Enthralling
 
 `Auditory`  `Emotion`
 
@@ -314,7 +313,7 @@ Your relic is engraved with nodes and elements only visible from up close, lacki
 
 *Source: Treasure Vault (Remastered) p. 198*
 
-## Fascinating  *Relic Minor Gift*
+## Fascinating
 
 `Mental`
 
@@ -324,7 +323,7 @@ You gain the Fascinating Performance skill feat while wearing or wielding the re
 
 *Source: Treasure Vault (Remastered) p. 198*
 
-## Feather Steps  *Relic Minor Gift*
+## Feather Steps
 
 `Air`
 
@@ -335,7 +334,7 @@ While wearing the relic, you do not trigger traps that use weight or pressure pl
 
 *Source: GM Core p. 310*
 
-## Feral Claws  *Relic Minor Gift*
+## Feral Claws
 
 `Morph`
 
@@ -346,7 +345,7 @@ While wearing the relic, you do not trigger traps that use weight or pressure pl
 
 *Source: GM Core p. 310*
 
-## Fervent Spell  *Relic Major Gift*
+## Fervent Spell
 
 `Emotion`  `Mental`
 
@@ -359,7 +358,7 @@ While the relic's fervor gift lasts, you have access to the spell provided by th
 
 *Source: Treasure Vault (Remastered) p. 199*
 
-## Fervor  *Relic Minor Gift*
+## Fervor
 
 `Emotion`  `Mental`
 
@@ -369,7 +368,7 @@ While the relic's fervor gift lasts, you have access to the spell provided by th
 
 *Source: Treasure Vault (Remastered) p. 199*
 
-## Fiendish Bargain  *Relic Major Gift*
+## Fiendish Bargain
 
 `Unholy`
 
@@ -383,7 +382,7 @@ You are [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied 1]] 
 
 *Source: GM Core p. 313*
 
-## Fiendish Defiance  *Relic Minor Gift*
+## Fiendish Defiance
 
 - **Aspect**: Fiend
 - **Prerequisite**: The relic is a worn item.
@@ -392,7 +391,7 @@ The fiendish power of your relic offers you more protection against celestials a
 
 *Source: GM Core p. 313*
 
-## Flare Bolt  *Relic Minor Gift*
+## Flare Bolt
 
 `Fire`
 
@@ -406,7 +405,7 @@ The fiendish power of your relic offers you more protection against celestials a
 
 *Source: GM Core p. 314*
 
-## Flowing Footsteps  *Relic Major Gift*
+## Flowing Footsteps
 
 `Water`
 
@@ -416,7 +415,7 @@ Your relic ensures no water impedes your movement. You gain the effects of the _
 
 *Source: GM Core p. 319*
 
-## Form of Fury  *Relic Major Gift*
+## Form of Fury
 
 - **Aspect**: Beast
 - **Prerequisite**: The relic is a worn item.
@@ -425,7 +424,7 @@ Your relic ensures no water impedes your movement. You gain the effects of the _
 
 *Source: GM Core p. 310*
 
-## Form of Vengeance  *Relic Grand Gift*
+## Form of Vengeance
 
 - **Aspect**: Beast
 - **Prerequisite**: form of fury gift
@@ -436,7 +435,7 @@ Whenever you use the relic's form of fury activation, it can cast _aerial form_ 
 
 *Source: GM Core p. 310*
 
-## Grappling Vine  *Relic Major Gift*
+## Grappling Vine
 
 `Plant`
 
@@ -446,7 +445,7 @@ Whenever you use the relic's form of fury activation, it can cast _aerial form_ 
 
 *Source: GM Core p. 317*
 
-## Grim Specter  *Relic Grand Gift*
+## Grim Specter
 
 `Polymorph`  `Void`  `Negative`
 
@@ -460,7 +459,7 @@ You can Sustain the activation up to 1 minute.
 
 *Source: GM Core p. 312*
 
-## Healing Wave  *Relic Minor Gift*
+## Healing Wave
 
 `Healing`  `Vitality`  `Positive`
 
@@ -470,7 +469,7 @@ You can Sustain the activation up to 1 minute.
 
 *Source: GM Core p. 315*
 
-## Heat Haze  *Relic Minor Gift*
+## Heat Haze
 
 `Fire`
 
@@ -482,7 +481,7 @@ Your relic's heat keeps the air around you pleasantly warm. While you are holdin
 
 *Source: GM Core p. 314*
 
-## Heaven's Grace  *Relic Minor Gift*
+## Heaven's Grace
 
 `Holy`
 
@@ -493,7 +492,7 @@ The heavens protect you from harm. While wearing the relic, you gain a +1 status
 
 *Source: GM Core p. 311*
 
-## Incandescent Sight  *Relic Minor Gift*
+## Incandescent Sight
 
 `Fire`
 
@@ -503,7 +502,7 @@ The heavens protect you from harm. While wearing the relic, you gain a +1 status
 
 *Source: GM Core p. 314*
 
-## Inextinguishable  *Relic Major Gift*
+## Inextinguishable
 
 `Vitality`  `Positive`
 
@@ -513,7 +512,7 @@ Your connection to life force makes you more difficult to snuff out than others.
 
 *Source: GM Core p. 315*
 
-## Inspiring  *Relic Minor Gift*
+## Inspiring
 
 `Emotion`  `Mental`
 
@@ -523,7 +522,7 @@ Your connection to life force makes you more difficult to snuff out than others.
 
 *Source: Treasure Vault (Remastered) p. 198*
 
-## Intelligent Relic  *Relic Minor Gift*
+## Intelligent Relic
 
 `Intelligent`
 
@@ -537,7 +536,7 @@ If you’re [[srd/pf2e/compendium/rules-elements/traits/player-core/sanctified|s
 
 *Source: Treasure Vault (Remastered) p. 200*
 
-## Jet Propulsion  *Relic Major Gift*
+## Jet Propulsion
 
 `Fire`
 
@@ -547,7 +546,7 @@ If you’re [[srd/pf2e/compendium/rules-elements/traits/player-core/sanctified|s
 
 *Source: GM Core p. 314*
 
-## Lashing Currents  *Relic Minor Gift*
+## Lashing Currents
 
 `Water`
 
@@ -558,7 +557,7 @@ Water collects at the tip of your relic. You can adjust your grip on your relic 
 
 *Source: GM Core p. 318*
 
-## Life Everlasting  *Relic Grand Gift*
+## Life Everlasting
 
 `Healing`  `Vitality`  `Positive`
 
@@ -568,7 +567,7 @@ Water collects at the tip of your relic. You can adjust your grip on your relic 
 
 *Source: GM Core p. 316*
 
-## Lightning Storm  *Relic Major Gift*
+## Lightning Storm
 
 `Air`  `Electricity`
 
@@ -578,7 +577,7 @@ Water collects at the tip of your relic. You can adjust your grip on your relic 
 
 *Source: GM Core p. 310*
 
-## Linguistic Nexus  *Relic Minor Gift*
+## Linguistic Nexus
 
 `Mental`
 
@@ -588,7 +587,7 @@ Your relic grants you a powerful neural plasticity, and as a result, you can lea
 
 *Source: GM Core p. 316*
 
-## Little Helper  *Relic Minor Gift*
+## Little Helper
 
 `Unholy`
 
@@ -598,7 +597,7 @@ Your relic awakens to sapience, developing a personality (usually one that clash
 
 *Source: GM Core p. 313*
 
-## Living Death  *Relic Minor Gift*
+## Living Death
 
 - **Aspect**: Death
 
@@ -606,7 +605,7 @@ You stand on the threshold between the living and the dead. If you attempt a sav
 
 *Source: GM Core p. 312*
 
-## Living Statue  *Relic Grand Gift*
+## Living Statue
 
 `Earth`
 
@@ -616,7 +615,7 @@ Your relic's energies have given you control over the boundary between flesh and
 
 *Source: GM Core p. 313*
 
-## Living Storm  *Relic Grand Gift*
+## Living Storm
 
 `Air`  `Electricity`
 
@@ -626,7 +625,7 @@ The relic grants you a fly Speed equal to your Speed or 60 feet, whichever is gr
 
 *Source: GM Core p. 310*
 
-## Megaflora  *Relic Grand Gift*
+## Megaflora
 
 `Plant`
 
@@ -638,7 +637,7 @@ The relic grants you a fly Speed equal to your Speed or 60 feet, whichever is gr
 
 *Source: GM Core p. 317*
 
-## Mental Bastion  *Relic Grand Gift*
+## Mental Bastion
 
 `Mental`
 
@@ -648,7 +647,7 @@ Your relic takes over some of your mental processes and enhances others. You gai
 
 *Source: GM Core p. 316*
 
-## Monsoon Curtain  *Relic Minor Gift*
+## Monsoon Curtain
 
 `Air`  `Water`
 
@@ -660,7 +659,7 @@ If a [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] effect 
 
 *Source: GM Core p. 318*
 
-## Muse  *Relic Minor Gift*
+## Muse
 
 - **Aspect**: Artistry
 - **Prerequisite**: The relic is 3rd level or higher.
@@ -669,7 +668,7 @@ The relic guides you in your art like a muse, giving you inspirational ideas and
 
 *Source: Treasure Vault (Remastered) p. 198*
 
-## Obscure  *Relic Minor Gift*
+## Obscure
 
 `Shadow`
 
@@ -679,7 +678,7 @@ Your relic absorbs light and wraps shadow around you, hiding you in darkness. As
 
 *Source: GM Core p. 317*
 
-## Overflowing Life  *Relic Minor Gift*
+## Overflowing Life
 
 `Healing`  `Vitality`  `Positive`
 
@@ -689,7 +688,7 @@ Life force flows through you, and vitality energy causes your vital essence to b
 
 *Source: GM Core p. 315*
 
-## Perception Filter  *Relic Major Gift*
+## Perception Filter
 
 `Mental`
 
@@ -707,7 +706,7 @@ Life force flows through you, and vitality energy causes your vital essence to b
 
 *Source: GM Core p. 316*
 
-## Petal Dance  *Relic Major Gift*
+## Petal Dance
 
 `Plant`
 
@@ -717,7 +716,7 @@ Life force flows through you, and vitality energy causes your vital essence to b
 
 *Source: GM Core p. 317*
 
-## Pierce the Veil  *Relic Major Gift*
+## Pierce the Veil
 
 - **Aspect**: Death
 - **Prerequisite**: living death gift
@@ -726,7 +725,7 @@ The relic allows you to pierce the veil between life and death. While you are ho
 
 *Source: GM Core p. 312*
 
-## Pollen Spray  *Relic Minor Gift*
+## Pollen Spray
 
 `Plant`
 
@@ -736,7 +735,7 @@ The relic allows you to pierce the veil between life and death. While you are ho
 
 *Source: GM Core p. 317*
 
-## Precious Anodization  *Relic Major Gift*
+## Precious Anodization
 
 `Metal`
 
@@ -746,7 +745,7 @@ The relic allows you to pierce the veil between life and death. While you are ho
 
 *Source: Rage of Elements p. 148*
 
-## Precognition  *Relic Major Gift*
+## Precognition
 
 `Prediction`
 
@@ -756,7 +755,7 @@ The relic allows you to pierce the veil between life and death. While you are ho
 
 *Source: Treasure Vault (Remastered) p. 200*
 
-## Profane Fervor  *Relic Major Gift*
+## Profane Fervor
 
 `Unholy`
 
@@ -766,7 +765,7 @@ The relic allows you to pierce the veil between life and death. While you are ho
 
 *Source: GM Core p. 314*
 
-## Propelling Winds  *Relic Major Gift*
+## Propelling Winds
 
 `Air`
 
@@ -776,7 +775,7 @@ The relic allows you to pierce the veil between life and death. While you are ho
 
 *Source: GM Core p. 310*
 
-## Psychic Scream  *Relic Major Gift*
+## Psychic Scream
 
 `Mental`
 
@@ -786,7 +785,7 @@ The relic allows you to pierce the veil between life and death. While you are ho
 
 *Source: GM Core p. 316*
 
-## Quickening Emotion  *Relic Grand Gift*
+## Quickening Emotion
 
 `Emotion`  `Mental`
 
@@ -796,7 +795,7 @@ The relic allows you to pierce the veil between life and death. While you are ho
 
 *Source: Treasure Vault (Remastered) p. 199*
 
-## Rail Dash  *Relic Major Gift*
+## Rail Dash
 
 `Metal`
 
@@ -806,7 +805,7 @@ The relic allows you to pierce the veil between life and death. While you are ho
 
 *Source: Rage of Elements p. 148*
 
-## Raise Ramparts  *Relic Major Gift*
+## Raise Ramparts
 
 `Earth`
 
@@ -816,7 +815,7 @@ The relic allows you to pierce the veil between life and death. While you are ho
 
 *Source: GM Core p. 313*
 
-## Recalculate  *Relic Minor Gift*
+## Recalculate
 
 `Mental`
 
@@ -826,7 +825,7 @@ The relic allows you to pierce the veil between life and death. While you are ho
 
 *Source: GM Core p. 316*
 
-## Repository of Knowledge  *Relic Minor Gift*
+## Repository of Knowledge
 
 `Mental`
 
@@ -836,7 +835,7 @@ Your relic is imbued with the psychic impressions of ages past. While the relic 
 
 *Source: GM Core p. 316*
 
-## Righteous Call  *Relic Major Gift*
+## Righteous Call
 
 `Holy`
 
@@ -846,7 +845,7 @@ Your relic is imbued with the psychic impressions of ages past. While the relic 
 
 *Source: GM Core p. 311*
 
-## Ripples and Waves  *Relic Grand Gift*
+## Ripples and Waves
 
 `Water`
 
@@ -858,7 +857,7 @@ You become attuned to the ebb and flow of all things, as if embodying water itse
 
 *Source: GM Core p. 319*
 
-## Rolling Geode  *Relic Minor Gift*
+## Rolling Geode
 
 `Earth`
 
@@ -868,7 +867,7 @@ You become attuned to the ebb and flow of all things, as if embodying water itse
 
 *Source: GM Core p. 312*
 
-## Sacred Glow  *Relic Major Gift*
+## Sacred Glow
 
 `Holy`  `Light`
 
@@ -878,7 +877,7 @@ You become attuned to the ebb and flow of all things, as if embodying water itse
 
 *Source: GM Core p. 311*
 
-## Sands of the Hourglass  *Relic Minor Gift*
+## Sands of the Hourglass
 
 - **Aspect**: Time
 - **Prerequisite**: The relic is 5th level or higher.
@@ -895,7 +894,7 @@ You become attuned to the ebb and flow of all things, as if embodying water itse
 
 *Source: Treasure Vault (Remastered) p. 200*
 
-## Scrap Shot  *Relic Minor Gift*
+## Scrap Shot
 
 `Metal`
 
@@ -905,7 +904,7 @@ You become attuned to the ebb and flow of all things, as if embodying water itse
 
 *Source: Rage of Elements p. 148*
 
-## Searing Wave  *Relic Major Gift*
+## Searing Wave
 
 `Fire`
 
@@ -915,7 +914,7 @@ You become attuned to the ebb and flow of all things, as if embodying water itse
 
 *Source: GM Core p. 314*
 
-## Shadow Smith  *Relic Minor Gift*
+## Shadow Smith
 
 `Shadow`
 
@@ -925,7 +924,7 @@ You become attuned to the ebb and flow of all things, as if embodying water itse
 
 *Source: GM Core p. 317*
 
-## Shattered Earth  *Relic Minor Gift*
+## Shattered Earth
 
 `Earth`
 
@@ -935,7 +934,7 @@ You become attuned to the ebb and flow of all things, as if embodying water itse
 
 *Source: GM Core p. 313*
 
-## Shroud of the Afterlife  *Relic Minor Gift*
+## Shroud of the Afterlife
 
 `Void`  `Negative`
 
@@ -945,7 +944,7 @@ You become attuned to the ebb and flow of all things, as if embodying water itse
 
 *Source: GM Core p. 312*
 
-## Sprout Ally  *Relic Minor Gift*
+## Sprout Ally
 
 `Plant`
 
@@ -955,7 +954,7 @@ You become attuned to the ebb and flow of all things, as if embodying water itse
 
 *Source: GM Core p. 317*
 
-## Steal Luck  *Relic Major Gift*
+## Steal Luck
 
 `Contingency`
 
@@ -965,7 +964,7 @@ You become attuned to the ebb and flow of all things, as if embodying water itse
 
 *Source: Treasure Vault (Remastered) p. 199*
 
-## Swap Luck  *Relic Minor Gift*
+## Swap Luck
 
 - **Aspect**: Luck
 
@@ -973,7 +972,7 @@ You become attuned to the ebb and flow of all things, as if embodying water itse
 
 *Source: Treasure Vault (Remastered) p. 199*
 
-## Temporal Pulse  *Relic Major Gift*
+## Temporal Pulse
 
 - **Aspect**: Time
 
@@ -987,7 +986,7 @@ You become attuned to the ebb and flow of all things, as if embodying water itse
 
 *Source: Treasure Vault (Remastered) p. 200*
 
-## Tidal Crash  *Relic Minor Gift*
+## Tidal Crash
 
 `Water`
 
@@ -997,7 +996,7 @@ You become attuned to the ebb and flow of all things, as if embodying water itse
 
 *Source: GM Core p. 318*
 
-## Tide of Death  *Relic Major Gift*
+## Tide of Death
 
 `Void`  `Negative`
 
@@ -1008,7 +1007,7 @@ You can Activate death gaze with 3 actions instead of 2. If you do, it targets a
 
 *Source: GM Core p. 312*
 
-## Time Jump  *Relic Major Gift*
+## Time Jump
 
 - **Aspect**: Time
 
@@ -1016,7 +1015,7 @@ You can Activate death gaze with 3 actions instead of 2. If you do, it targets a
 
 *Source: Treasure Vault (Remastered) p. 200*
 
-## Time Reversal  *Relic Grand Gift*
+## Time Reversal
 
 - **Aspect**: Time
 
@@ -1024,7 +1023,7 @@ You can Activate death gaze with 3 actions instead of 2. If you do, it targets a
 
 *Source: Treasure Vault (Remastered) p. 200*
 
-## Track of the Beast  *Relic Major Gift*
+## Track of the Beast
 
 - **Aspect**: Beast
 
@@ -1033,7 +1032,7 @@ A +10-foot status bonus to your land Speed.A climb Speed equal to your land Spee
 
 *Source: GM Core p. 310*
 
-## Umbral Body  *Relic Grand Gift*
+## Umbral Body
 
 `Shadow`
 
@@ -1043,7 +1042,7 @@ A +10-foot status bonus to your land Speed.A climb Speed equal to your land Spee
 
 *Source: GM Core p. 318*
 
-## Underground Bounty  *Relic Major Gift*
+## Underground Bounty
 
 `Earth`  `Metal`
 
@@ -1053,7 +1052,7 @@ Your relic produces metals and stones to empower your weapons. Each day during y
 
 *Source: GM Core p. 313*
 
-## Vitality Siphon  *Relic Major Gift*
+## Vitality Siphon
 
 `Healing`  `Vitality`  `Positive`
 
@@ -1063,7 +1062,7 @@ Your relic produces metals and stones to empower your weapons. Each day during y
 
 *Source: GM Core p. 315*
 
-## Whammy  *Relic Minor Gift*
+## Whammy
 
 `Misfortune`
 
@@ -1073,7 +1072,7 @@ Your relic produces metals and stones to empower your weapons. Each day during y
 
 *Source: Treasure Vault (Remastered) p. 199*
 
-## Wind Barrier  *Relic Minor Gift*
+## Wind Barrier
 
 `Air`
 
@@ -1083,7 +1082,7 @@ Your relic produces metals and stones to empower your weapons. Each day during y
 
 *Source: GM Core p. 310*
 
-## Word of Faith  *Relic Minor Gift*
+## Word of Faith
 
 `Healing`  `Holy`  `Vitality`  `Positive`
 

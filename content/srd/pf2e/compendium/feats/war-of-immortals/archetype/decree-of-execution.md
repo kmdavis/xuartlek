@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -10,7 +9,7 @@ tags:
 - trait/spirit
 - feat/level/18
 aliases: ["Decree of Execution"]
-aon_id: "feat-7412"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7412"
 source: "War of Immortals"
 ---
 

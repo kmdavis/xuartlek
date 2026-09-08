@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
 - trait/mythic
 - feat/level/14
 aliases: ["We are One"]
-aon_id: "feat-7348"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7348"
 source: "War of Immortals"
 ---
 

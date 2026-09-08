@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -9,7 +8,7 @@ tags:
 - trait/metamagic
 - feat/level/20
 aliases: ["Mystery Conduit"]
-aon_id: "feat-6086"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6086"
 source: "Player Core 2"
 ---
 

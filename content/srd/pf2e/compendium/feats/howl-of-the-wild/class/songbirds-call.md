@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 - trait/bard
 - feat/level/8
 aliases: ["Songbird's Call"]
-aon_id: "feat-5419"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5419"
 source: "Howl of the Wild"
 ---
 
@@ -14,7 +13,7 @@ source: "Howl of the Wild"
 
 `Bard`
 
-- **Prerequisites**: zoophonia muse
+- **Prerequisites**: [[srd/pf2e/compendium/character/muses#Zoophonia|zoophonia muse]]
 
 You call to the wilds with the voice of a songbird, thereby summoning a cloud of its kin. You learn the [[srd/pf2e/compendium/spells/focus/songbirds-call|_songbird's call_]] composition spell.
 

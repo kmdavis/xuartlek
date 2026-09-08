@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/monster-core
@@ -9,7 +8,7 @@ tags:
 - trait/versatile
 - weapon/level/0
 aliases: ["Shears"]
-aon_id: "weapon-119"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=446"
 source: "Monster Core"
 ---
 
@@ -17,6 +16,7 @@ source: "Monster Core"
 
 `Deadly`  `Finesse`  `Uncommon`  `Versatile`
 
+- **Favored Weapon**: Followers of Fate
 - **Price**: 5 sp
 - **Damage**: 1d4 S
 - **Bulk**: L

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - spell/level/5
 aliases: ["Hunter's Vision"]
-aon_id: "spell-1872"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1872"
 source: "Player Core"
 ---
 

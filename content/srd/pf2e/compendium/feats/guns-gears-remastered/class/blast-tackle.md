@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/gunslinger
 - feat/level/14
 aliases: ["Blast Tackle"]
-aon_id: "feat-3197"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3197"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -14,7 +13,7 @@ source: "Guns & Gears (Remastered)"
 
 `Gunslinger`
 
-- **Prerequisites**: way of the vanguard
+- **Prerequisites**: [[srd/pf2e/compendium/character/ways#Way of the Vanguard|way of the vanguard]]
 - **Requirements**: You're wielding a two-handed crossbow or a firearm that has the [[srd/pf2e/compendium/rules-elements/traits/guns-gears-remastered/kickback|kickback]] or [[srd/pf2e/compendium/rules-elements/traits/guns-gears-remastered/scatter|scatter]] trait.
 
 You throw yourself at an enemy, bracing your weapon against it and pulling it close before releasing a destructive shot. Attempt to Grapple; if you're wielding your weapon in both hands, you Release one hand to do so. If your Grapple succeeds, you can immediately Strike the target of the Grapple with the required weapon, even if it's a two-handed weapon you're holding in one hand. This Strike deals an additional 3d6 precision damage.

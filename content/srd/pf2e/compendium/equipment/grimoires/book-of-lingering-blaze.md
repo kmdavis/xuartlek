@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/magical
 - equipment/level/10
 aliases: ["Book Of Lingering Blaze"]
-aon_id: "equipment-5123"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5123"
 source: "Impossible Magic"
 ---
 

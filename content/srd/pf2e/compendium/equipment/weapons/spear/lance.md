@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/reach
 - weapon/level/0
 aliases: ["Lance"]
-aon_id: "weapon-383"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=383"
 source: "Player Core"
 ---
 
@@ -16,7 +15,7 @@ source: "Player Core"
 
 `Deadly`  `Jousting`  `Reach`
 
-- **Favored Weapon**: Nyuo-Ogh, The Readied Strike
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/qlippoth-lords/nyuo-ogh|Nyuo-Ogh]], [[srd/pf2e/compendium/deities/covenants/the-readied-strike|The Readied Strike]]
 - **Price**: 1 gp
 - **Damage**: 1d8 P
 - **Bulk**: 2

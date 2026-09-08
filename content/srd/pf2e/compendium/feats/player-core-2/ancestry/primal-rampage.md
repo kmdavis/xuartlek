@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/lizardfolk
 - feat/level/13
 aliases: ["Primal Rampage"]
-aon_id: "feat-5648"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5648"
 source: "Player Core 2"
 ---
 

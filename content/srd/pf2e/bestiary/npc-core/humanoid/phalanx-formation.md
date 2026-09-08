@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Phalanx Formation"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Phalanx Formation"
 level: 6
 source: "NPC Core"
-aon_id: "creature-3527"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3527"
 ---
 

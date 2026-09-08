@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/magical
 - equipment/level/12
 aliases: ["Resolute Shield"]
-aon_id: "equipment-5002"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5002"
 source: "Impossible Magic"
 ---
 
@@ -14,7 +13,7 @@ source: "Impossible Magic"
 
 `Magical`
 
-- **Price**: 1,800 gp
+- **Price**: 1, 800 gp
 - **Usage**: held in 1 hand
 - **Bulk**: 4
 - **Base Shield**: [[srd/pf2e/compendium/equipment/shields#Tower Shield|Tower Shield]]

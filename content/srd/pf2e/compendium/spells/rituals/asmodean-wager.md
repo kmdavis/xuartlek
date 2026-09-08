@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/rare
 - ritual/level/6
 aliases: ["Asmodean Wager"]
-aon_id: "ritual-244"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=244"
 source: "Impossible Magic"
 ---
 

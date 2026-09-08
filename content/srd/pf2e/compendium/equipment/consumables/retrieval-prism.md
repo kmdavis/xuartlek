@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -9,7 +8,7 @@ tags:
 - trait/teleportation
 - equipment/level/3
 aliases: ["Retrieval Prism"]
-aon_id: "equipment-5108"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5108"
 source: "Impossible Magic"
 ---
 
@@ -21,7 +20,7 @@ source: "Impossible Magic"
 - **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 - **Requirements**: You have a free hand.
 
-This triangular prism showing swirling black patterns inside constantly moves around on your armor, no matter where you affix it. As part of the process of [[srd/pf2e/compendium/rules-elements/actions/gm-core-co-tak#Affix a Talisman|Affixing this Talisman]], you attune it to a single item of 1 Bulk or less. When you activate this talisman, the attuned item immediately teleports into your hand. The retrieval prism can’t retrieve an item that’s not on your plane, including one that’s in an extradimensional space like a _spacious pouch_. If you haven’t expended the talisman, you can attune it to a different item by Affixing the Talisman again.
+This triangular prism showing swirling black patterns inside constantly moves around on your armor, no matter where you affix it. As part of the process of [[srd/pf2e/compendium/rules-elements/actions/gm-core#Affix a Talisman|Affixing this Talisman]], you attune it to a single item of 1 Bulk or less. When you activate this talisman, the attuned item immediately teleports into your hand. The retrieval prism can’t retrieve an item that’s not on your plane, including one that’s in an extradimensional space like a _spacious pouch_. If you haven’t expended the talisman, you can attune it to a different item by Affixing the Talisman again.
 
 ### Retrieval Prism
 

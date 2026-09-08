@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/rage-of-elements
 - trait/composite
 aliases: ["Composite"]
-aon_id: "trait-501"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=501"
 source: "Rage of Elements"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/summon
 - spell/level/1
 aliases: ["Summon Construct"]
-aon_id: "spell-1696"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1696"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Summon`
 
 - **Tradition**: Arcane
-- **Deities**: Haagenti, Minderhal, Soralyon
+- **Deities**: [[srd/pf2e/compendium/deities/demon-lords/haagenti|Haagenti]], [[srd/pf2e/compendium/deities/giant-gods/minderhal|Minderhal]], [[srd/pf2e/compendium/deities/empyreal-lords/soralyon|Soralyon]]
 - **Range**: 30 feet
 - **Duration**: sustained up to 1 minute
 

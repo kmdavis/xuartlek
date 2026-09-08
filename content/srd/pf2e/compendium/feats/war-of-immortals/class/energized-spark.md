@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
 - trait/exemplar
 - feat/level/1
 aliases: ["Energized Spark"]
-aon_id: "feat-7154"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7154"
 source: "War of Immortals"
 ---
 

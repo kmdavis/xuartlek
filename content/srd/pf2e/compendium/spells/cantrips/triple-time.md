@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -12,7 +11,7 @@ tags:
 - trait/uncommon
 - spell/level/2
 aliases: ["Triple Time"]
-aon_id: "spell-1778"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1778"
 source: "Player Core"
 ---
 

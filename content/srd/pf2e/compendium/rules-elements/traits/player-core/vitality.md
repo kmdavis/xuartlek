@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/vitality
 - trait/positive
 aliases: ["Vitality"]
-aon_id: "trait-509"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=509"
 source: "Player Core"
 ---
 

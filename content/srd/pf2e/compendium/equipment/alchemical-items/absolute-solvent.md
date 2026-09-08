@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/consumable
 - equipment/level/5
 aliases: ["Absolute Solvent"]
-aon_id: "equipment-3351"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3351"
 source: "Player Core 2"
 ---
 

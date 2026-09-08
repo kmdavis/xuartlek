@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/modification
 - feat/level/2
 aliases: ["Collapse Armor"]
-aon_id: "feat-3051"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3051"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -16,7 +15,7 @@ source: "Guns & Gears (Remastered)"
 
 `Inventor`  `Manipulate`  `Modification`
 
-- **Prerequisites**: armor innovation
+- **Prerequisites**: [[srd/pf2e/compendium/character/innovations#Armor|armor innovation]]
 - **Requirements**: You are wearing your armor innovation, or holding it in both hands in its compact form (see text).
 
 You've modified your armor innovation to collapse into a more compact form so you can don or remove it in an instant. If you’re wearing your innovation when you Collapse your Armor, you remove it instantly, and it compresses into its compact form, after which it latches onto your body, typically by attaching to a belt, bandoleer, or other convenient carrying surface as a nondescript satchel. If your armor is stowed and carried on your person in its compact form when you take this action, it unfolds back into its armor form onto your body.

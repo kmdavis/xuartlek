@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Vilderavn"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Vilderavn"
 level: 16
 source: "Monster Core"
-aon_id: "creature-3229"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3229"
 ---
 
@@ -41,7 +39,7 @@ armorclass:
 hp: 300
 health:
   - name: "HP"
-    desc: "300; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]]; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 10"
+    desc: "300; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]]; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 10"
 abilities_mid:
   - name: "Aura of Disquietude"
     desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) 30 feet, DC 35. As frightful presence, plus a creature [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] by the aura becomes suspicious; it doesn't count any other creature as its ally and can't [[srd/pf2e/compendium/rules-elements/actions/player-core#Aid|Aid]] or flank. On a critical failure, the creature also can't be a willing target for harmless or helpful magic."

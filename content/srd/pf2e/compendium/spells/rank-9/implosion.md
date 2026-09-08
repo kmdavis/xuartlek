@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/9
 aliases: ["Implosion"]
-aon_id: "spell-1572"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1572"
 source: "Player Core"
 ---
 
@@ -16,8 +15,8 @@ source: "Player Core"
 `Concentrate`  `Manipulate`
 
 - **Traditions**: Arcane, Primal
-- **Bloodlines**: Demonic, Imperial
-- **Deities**: Dahak, Nulgreth
+- **Bloodlines**: [[srd/pf2e/compendium/character/bloodlines#Demonic|Demonic]], [[srd/pf2e/compendium/character/bloodlines#Imperial|Imperial]]
+- **Deities**: Dahak, [[srd/pf2e/compendium/deities/orc-gods/nulgreth|Nulgreth]]
 - **Range**: 30 feet
 - **Target**: 1 corporeal creature
 - **Defense**: basic Fortitude

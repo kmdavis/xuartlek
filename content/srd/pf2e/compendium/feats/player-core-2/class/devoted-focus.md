@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/champion
 - feat/level/12
 aliases: ["Devoted Focus"]
-aon_id: "feat-5916"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5916"
 source: "Player Core 2"
 ---
 

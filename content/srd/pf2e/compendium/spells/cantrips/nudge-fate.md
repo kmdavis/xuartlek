@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/witch
 - spell/level/1
 aliases: ["Nudge Fate"]
-aon_id: "spell-1890"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1890"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 
 `Cantrip`  `Concentrate`  `Hex`  `Uncommon`  `Witch`
 
-- **Patron Theme**: Spinner of Threads
+- **Patron Theme**: [[srd/pf2e/compendium/character/patrons#Spinner of Threads|Spinner of Threads]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Duration**: 1 minute

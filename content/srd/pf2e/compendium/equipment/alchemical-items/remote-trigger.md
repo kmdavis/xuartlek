@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
 - trait/alchemical
 - equipment/level/5
 aliases: ["Remote Trigger"]
-aon_id: "equipment-1983"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1983"
 source: "Treasure Vault (Remastered)"
 ---
 

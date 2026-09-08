@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -8,7 +7,7 @@ tags:
 - trait/talisman
 - equipment/level/14
 aliases: ["Viper's Fang"]
-aon_id: "equipment-2997"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2997"
 source: "GM Core"
 ---
 

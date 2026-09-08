@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/press
 - feat/level/14
 aliases: ["Two-Weapon Flurry"]
-aon_id: "feat-4846"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4846"
 source: "Player Core"
 ---
 
@@ -16,7 +15,7 @@ source: "Player Core"
 
 `Fighter`  `Flourish`  `Press`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/dual-weapon-warrior|Dual-Weapon Warrior]] (Level 16), [[srd/pf2e/compendium/character/archetypes/dual-weapon-warrior|Dual-Weapon Warrior]] (Level 16)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/dual-weapon-warrior|Dual-Weapon Warrior]] (Level 16)
 - **Requirements**: You are wielding two weapons, each in a different hand
 
 Using the momentum of your prior attack, you lash out with both your weapons in a sudden frenzy. Strike twice, once with each weapon.

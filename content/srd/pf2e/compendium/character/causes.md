@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-cause
 tags:
 - compendium/src/pf2e/player-core-2
@@ -9,7 +8,7 @@ entries: 7
 
 # Causes
 
-## Desecration  *Champion Cause*
+## Desecration
 
 `Unholy`
 
@@ -30,7 +29,7 @@ Each enemy in your champion’s aura takes a –1 status penalty to attack rolls
 
 *Source: Player Core 2 p. 91*
 
-## Grandeur  *Champion Cause*
+## Grandeur
 
 `Holy`
 
@@ -54,7 +53,7 @@ In addition to the enemy affected by Flash of Grandeur, each other enemy in your
 
 *Source: Player Core 2 p. 91*
 
-## Iniquity  *Champion Cause*
+## Iniquity
 
 `Unholy`
 
@@ -78,7 +77,7 @@ Each enemy in your champion’s aura other than the triggering creature takes ha
 
 *Source: Player Core 2 p. 91*
 
-## Justice  *Champion Cause*
+## Justice
 
 In your deity’s name you seek justice, following the law and punishing those who transgress it.
 
@@ -100,7 +99,7 @@ Each ally in your champion’s aura with the target in their melee reach can spe
 
 *Source: Player Core 2 p. 92*
 
-## Liberation  *Champion Cause*
+## Liberation
 
 You will see all people free from bondage and prohibitions.
 
@@ -122,7 +121,7 @@ In addition to the ally affected by Liberating Step, you and all other allies in
 
 *Source: Player Core 2 p. 92*
 
-## Obedience  *Champion Cause*
+## Obedience
 
 Society is ordered with good reason, and people should conduct themselves as appropriate for their proper place.
 
@@ -144,7 +143,7 @@ Each enemy in your champion's aura other than the triggering creature must also 
 
 *Source: Player Core 2 p. 93*
 
-## Redemption  *Champion Cause*
+## Redemption
 
 `Holy`
 

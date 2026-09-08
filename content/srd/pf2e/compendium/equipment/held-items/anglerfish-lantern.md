@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -7,7 +6,7 @@ tags:
 - trait/water
 - equipment/level/5
 aliases: ["Anglerfish Lantern"]
-aon_id: "equipment-2624"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2624"
 source: "Rage of Elements"
 ---
 

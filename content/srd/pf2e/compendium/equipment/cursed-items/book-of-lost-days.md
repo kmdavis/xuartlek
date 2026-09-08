@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/unique
 - equipment/level/15
 aliases: ["Book of Lost Days"]
-aon_id: "equipment-4139"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4139"
 source: "Dark Archives (Remastered)"
 ---
 

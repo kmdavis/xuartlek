@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/rogue
 - feat/level/16
 aliases: ["Dispelling Slice"]
-aon_id: "feat-4982"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4982"
 source: "Player Core"
 ---
 

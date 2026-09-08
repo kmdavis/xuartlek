@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -9,7 +8,7 @@ tags:
 - trait/poison
 - equipment/level/13
 aliases: ["Bloodburn Censer"]
-aon_id: "equipment-2600"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2600"
 source: "Rage of Elements"
 ---
 
@@ -17,7 +16,7 @@ source: "Rage of Elements"
 
 `Censer`  `Fire`  `Magical`  `Poison`
 
-- **Price**: 2,750 gp
+- **Price**: 2, 750 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
 

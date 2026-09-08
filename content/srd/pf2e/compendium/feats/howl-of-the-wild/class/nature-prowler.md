@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 - trait/ranger
 - feat/level/6
 aliases: ["Nature Prowler"]
-aon_id: "feat-5411"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5411"
 source: "Howl of the Wild"
 ---
 

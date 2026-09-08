@@ -1,17 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
 - weapon/level/0
 aliases: ["Hand Crossbow"]
-aon_id: "weapon-427"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=427"
 source: "Player Core"
 ---
 
 # Hand Crossbow  *Weapon 0*
 
-- **Favored Weapon**: Ulon
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/azlanti-pantheon/ulon|Ulon]]
 - **Price**: 3 gp
 - **Damage**: 1d6 P
 - **Bulk**: L

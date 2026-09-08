@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -7,7 +6,7 @@ tags:
 - trait/rare
 - equipment/level/20
 aliases: ["Sky Hammer"]
-aon_id: "equipment-2872"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2872"
 source: "GM Core"
 ---
 
@@ -15,7 +14,7 @@ source: "GM Core"
 
 `Magical`  `Rare`
 
-- **Price**: 70,000 gp
+- **Price**: 70, 000 gp
 - **Usage**: held in 1 hand
 - **Bulk**: 1
 - **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/hammer/warhammer|Warhammer]]

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -11,7 +10,7 @@ tags:
 - trait/mental
 - spell/level/4
 aliases: ["Vision of Death"]
-aon_id: "spell-1742"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1742"
 source: "Player Core"
 ---
 
@@ -20,7 +19,7 @@ source: "Player Core"
 `Concentrate`  `Death`  `Emotion`  `Fear`  `Manipulate`  `Mental`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Achaekek, Iggeret, Kalekot, Norgorber, Pharasma, Reymenda
+- **Deities**: [[srd/pf2e/compendium/deities/other-gods/achaekek|Achaekek]], [[srd/pf2e/compendium/deities/sakhil-tormentors/iggeret|Iggeret]], Kalekot, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/norgorber|Norgorber]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma]], [[srd/pf2e/compendium/deities/empyreal-lords/reymenda|Reymenda]]
 - **Range**: 120 feet
 - **Target**: 1 living creature
 - **Defense**: Will

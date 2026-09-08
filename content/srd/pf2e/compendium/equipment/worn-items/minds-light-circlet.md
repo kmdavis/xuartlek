@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/occult
 - equipment/level/11
 aliases: ["Mind's Light Circlet"]
-aon_id: "equipment-2328"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2328"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -17,7 +16,7 @@ source: "Treasure Vault (Remastered)"
 
 `Focused`  `Invested`  `Light`  `Occult`
 
-- **Price**: 1,200 gp
+- **Price**: 1, 200 gp
 - **Usage**: worn headwear
 - **Bulk**: L
 

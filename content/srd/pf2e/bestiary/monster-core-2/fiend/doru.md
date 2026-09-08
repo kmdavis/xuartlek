@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Doru"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Doru"
 level: 1
 source: "Monster Core 2"
-aon_id: "creature-4339"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4339"
 ---
 
@@ -43,7 +41,7 @@ armorclass:
 hp: 20
 health:
   - name: "HP"
-    desc: "20; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 3, [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 3"
+    desc: "20; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 3, [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 3"
 abilities_mid:
   - name: "Covetous of Secrets"
     desc: "Dorus have a weakness for secrets, hoarding them like a miser hoards gold. A creature can tempt a doru with some bit of obscure knowledge the doru doesn't know or thinks they don't know. Presenting the hint of the secret is a single action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|linguistic]] traits, and requires a skill check using [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]], or [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] (or some other appropriate skill determined by the GM) against the doru's Will DC. On a success, the doru is [[srd/pf2e/compendium/rules-elements/conditions#Fascinated|fascinated]] for as long as the presenter draws out the explanation of the secret (spending 1 action each round doing so, to a maximum of 1 minute). On a critical success, the doru is fascinated for that duration plus 1 minute more as they ponder the implications of the secret. Regardless of the outcome, the doru is temporarily immune to that creature's attempts to present them with secrets for 1 day."

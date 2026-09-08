@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/trap
 - hazard/level/-1
 aliases: ["Shuffling Hall"]
-aon_id: "hazard-627"
+aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=627"
 source: "Dark Archives (Remastered)"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - equipment/level/12
 aliases: ["Everburning Coal"]
-aon_id: "equipment-2603"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2603"
 source: "Rage of Elements"
 ---
 
@@ -16,7 +15,7 @@ source: "Rage of Elements"
 
 `Fire`  `Magical`  `Uncommon`
 
-- **Price**: 1,750 gp
+- **Price**: 1, 750 gp
 - **Usage**: held in 1 hand
 
 This lump of coal is always warm to the touch and glows faintly red from within, as if holding an ember of flame waiting to be stoked. No amount of water or coldness can extinguish the coal's warmth. When you hold an _everburning coal_ in your hand, you gain resistance 10 to cold and are protected from mild, severe, and extreme cold.

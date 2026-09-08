@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Werebear"
 tags:
@@ -14,7 +13,6 @@ statblock: inline
 name: "Werebear"
 level: 4
 source: "Monster Core"
-aon_id: "creature-3237"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3237"
 ---
 

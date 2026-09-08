@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/battlecry
 - trait/uncommon
 - ritual/level/3
 aliases: ["Secure Siege Weapons"]
-aon_id: "ritual-214"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=214"
 source: "Battlecry!"
 ---
 

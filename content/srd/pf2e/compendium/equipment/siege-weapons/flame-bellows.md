@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/battlecry
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - siege-weapon/level/3
 aliases: ["Flame Bellows"]
-aon_id: "siege-weapon-52"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=52"
 source: "Battlecry!"
 ---
 
@@ -17,7 +16,7 @@ source: "Battlecry!"
 `Alchemical`  `Mounted`  `Uncommon`
 
 - **Price**: 100 gp
-- **Ammunition**: [[srd/pf2e/compendium/equipment/alchemical-items/alchemists-fire-major|lesser alchemist's fire]] (3 gp, L Bulk)
+- **Ammunition**: [[srd/pf2e/compendium/equipment/alchemical-items/alchemists-fire|lesser alchemist's fire]] (3 gp, L Bulk)
 
 **Usage** mounted
 

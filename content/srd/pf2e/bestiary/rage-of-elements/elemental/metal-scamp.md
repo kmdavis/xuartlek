@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Metal Scamp"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Metal Scamp"
 level: 1
 source: "Rage of Elements"
-aon_id: "creature-2644"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2644"
 ---
 

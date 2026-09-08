@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/magical
 - equipment/level/13
 aliases: ["Blade Of Four Energies"]
-aon_id: "equipment-5013"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5013"
 source: "Impossible Magic"
 ---
 
@@ -18,7 +17,7 @@ source: "Impossible Magic"
 - **Bulk**: L
 - **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/sword/shortsword|Shortsword]]
 
-This _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+2 greater striking]] [[srd/pf2e/compendium/equipment/runes/shifting|shifting]] [[srd/pf2e/compendium/equipment/weapons/sword/shortsword|shortsword]]_ is formed of rapidly vibrating air and magical energy, though it uses the same statistics as iron. The wooden hilt is adorned with four gems, representing the energies of [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]], [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]], [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]. 
+This _[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+2 greater striking]] [[srd/pf2e/compendium/equipment/runes/shifting|shifting]] [[srd/pf2e/compendium/equipment/weapons/sword/shortsword|shortsword]]_ is formed of rapidly vibrating air and magical energy, though it uses the same statistics as iron. The wooden hilt is adorned with four gems, representing the energies of [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]], [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]], [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]. 
 
 **Activate—Cycle Energy** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per round; **Effect** You draw magical energy from one of the gems. Roll 1d4. Until the start of your next turn, the weapon gains the effects of the corresponding property rune: 1—_corrosive_, 2—_flaming_, 3—_frost_, or 4—_shock_. 
 

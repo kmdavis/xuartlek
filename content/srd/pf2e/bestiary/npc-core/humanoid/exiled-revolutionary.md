@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Exiled Revolutionary"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Exiled Revolutionary"
 level: 10
 source: "NPC Core"
-aon_id: "creature-3519"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3519"
 ---
 
@@ -38,7 +36,7 @@ abilities_top:
   - name: "Former Courtier"
     desc: "An exiled revolutionary remembers well their former realm. In their home realm, be it a manor, castle, or capital city, the exiled revolutionary gains a +4 circumstance bonus to Perception checks and Will saves, and to [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]], and [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] checks, and is a 12th-level challenge in the arena of noble politics."
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/weapons/bow/composite-longbow|composite longbow]]_ (20 arrows), Leather Armor, _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/longsword|longsword]]_, signet ring, [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit-infiltrator-picks|Thieves' Toolkit]], Wyvern Poison (2)"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/weapons/bow/composite-longbow|composite longbow]]_ (20 arrows), Leather Armor, _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/longsword|longsword]]_, signet ring, [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit|Thieves' Toolkit]], Wyvern Poison (2)"
 ac: 28
 armorclass:
   - name: "AC"

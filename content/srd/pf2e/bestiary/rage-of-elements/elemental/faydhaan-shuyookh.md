@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Faydhaan Shuyookh"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Faydhaan Shuyookh"
 level: 14
 source: "Rage of Elements"
-aon_id: "creature-2662"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2662"
 ---
 

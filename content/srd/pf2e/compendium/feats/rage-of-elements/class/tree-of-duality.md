@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -11,7 +10,7 @@ tags:
 - trait/wood
 - feat/level/6
 aliases: ["Tree of Duality"]
-aon_id: "feat-4310"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4310"
 source: "Rage of Elements"
 ---
 

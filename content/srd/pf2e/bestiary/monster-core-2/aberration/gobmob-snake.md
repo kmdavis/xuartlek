@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Gobmob Snake"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Gobmob Snake"
 level: 4
 source: "Monster Core 2"
-aon_id: "creature-4416"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4416"
 ---
 

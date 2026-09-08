@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Pale Horse"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Pale Horse"
 level: 11
 source: "Howl of the Wild"
-aon_id: "creature-3319"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3319"
 ---
 

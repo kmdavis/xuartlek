@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-sidebar
 tags:
 - compendium/src/pf2e/player-core-2
@@ -9,7 +8,7 @@ entries: 13
 
 # Sidebars: Player Core 2
 
-## Beastmaster Animal Companions  *Sidebar*
+## Beastmaster Animal Companions
 
 - **Parent page**: [[srd/pf2e/compendium/feats/player-core-2/archetype/beastmaster-dedication|Beastmaster Dedication]]
 
@@ -17,7 +16,7 @@ If you're playing a beastmaster, you determine the statistics and abilities of y
 
 *Source: Player Core 2 p. 188*
 
-## Cavalier Pledges  *Sidebar*
+## Cavalier Pledges
 
 - **Parent page**: [[srd/pf2e/compendium/feats/player-core-2/archetype/cavalier-dedication|Cavalier Dedication]]
 
@@ -25,9 +24,9 @@ Many cavaliers pledge themselves in service to a specific organization or indivi
 
 *Source: Player Core 2 p. 192*
 
-## Draconic Exemplars  *Sidebar*
+## Draconic Exemplars
 
-- **Parent page**: [[srd/pf2e/compendium/character/heritages#Dragonblood|Dragonblood]]
+- **Parent page**: Dragonblood
 
 Some abilities reference your draconic exemplar, which is a specific type of dragon from which you draw your draconic powers—typically the type of dragon whose blood runs in your veins. You can choose your exemplar when you create your character, but are only required to choose one when you select a feat or other option that requires you to have one (such as Breath of the Dragon). This means your draconic nature might be a mystery to you for some time. The table below lists the dragons from Monster Core and their specifications. The dragon breath entry lists if the given breath uses a Fortitude (F), Reflex (R), or Will (W) saving throw. If you choose a dragon from a different source, work with your GM to determine if you have access to it. 
 
@@ -37,7 +36,7 @@ DragonTraditionSpeedsDragon BreathAdamantinePrimalBurrowCone of bludgeoningRCons
 
 *Source: Player Core 2 p. 44*
 
-## Key Terms  *Sidebar*
+## Key Terms
 
 - **Parent page**: [[srd/pf2e/compendium/character/classes/alchemist|Alchemist]]
 
@@ -51,7 +50,7 @@ You'll see the following key terms in many alchemist class features and abilitie
 
 *Source: Player Core 2 p. 56*
 
-## Key Terms  *Sidebar*
+## Key Terms
 
 - **Parent page**: [[srd/pf2e/compendium/character/classes/barbarian|Barbarian]]
 
@@ -63,7 +62,7 @@ You'll see the following key terms in many barbarian class features.
 
 *Source: Player Core 2 p. 70*
 
-## Key Terms  *Sidebar*
+## Key Terms
 
 - **Parent page**: [[srd/pf2e/compendium/character/classes/champion|Champion]]
 
@@ -75,7 +74,7 @@ You'll see these terms in many champion class features.
 
 *Source: Player Core 2 p. 86*
 
-## Key Terms  *Sidebar*
+## Key Terms
 
 - **Parent page**: [[srd/pf2e/compendium/character/classes/oracle|Oracle]]
 
@@ -89,7 +88,7 @@ You'll see these key terms in many oracle class features.
 
 *Source: Player Core 2 p. 128*
 
-## Key Terms  *Sidebar*
+## Key Terms
 
 - **Parent page**: [[srd/pf2e/compendium/character/classes/sorcerer|Sorcerer]]
 
@@ -101,7 +100,7 @@ You'll see the following key terms in many sorcerer abilities.
 
 *Source: Player Core 2 p. 144*
 
-## Key Terms  *Sidebar*
+## Key Terms
 
 - **Parent page**: [[srd/pf2e/compendium/character/classes/swashbuckler|Swashbuckler]]
 
@@ -117,7 +116,7 @@ You'll see these terms in many swashbuckler abilities.
 
 *Source: Player Core 2 p. 158*
 
-## Key Terms  *Sidebar*
+## Key Terms
 
 - **Parent page**: [[srd/pf2e/compendium/character/classes/monk|Monk]]
 
@@ -135,15 +134,15 @@ You'll see the following key terms in many monk abilities.
 
 *Source: Player Core 2 p. 114*
 
-## Sample Formula Book  *Sidebar*
+## Sample Formula Book
 
 - **Parent page**: [[srd/pf2e/compendium/character/classes/alchemist|Alchemist]]
 
-You can choose any 1st-level common alchemical items for your formula book, but the list below contains a good selection of starter formulas. A beginner's book with these formulas called _The Fundamentals of Alchemy_ has become popular among mainstream alchemists by staying away from controversial topics like mutagens, though it has drawn criticism from fringe alchemists for guiding fledgling alchemists away from more innovative experiments. **Alchemical Item Formulas**: [[srd/pf2e/compendium/equipment/alchemical-items/alchemists-fire|Alchemist's fire]], frost vial, [[srd/pf2e/compendium/equipment/alchemical-items/cheetahs-elixir|cheetah's elixir]], [[srd/pf2e/compendium/equipment/alchemical-items/elixir-of-life|elixir of life]], [[srd/pf2e/compendium/equipment/alchemical-items/glue-bomb|glue bomb]], [[srd/pf2e/compendium/equipment/alchemical-items/smoke-ball|smoke ball]]; **Bomber** [[srd/pf2e/compendium/equipment/alchemical-items/acid-flask|Acid flask]], bottled lightning; **Chirurgeon** [[srd/pf2e/compendium/equipment/alchemical-items/antidote|Antidote]], [[srd/pf2e/compendium/equipment/alchemical-items/antiplague|antiplague]]; **Mutagenist** Bestial mutagen, cognitive mutagen; **Toxicologist** [[srd/pf2e/compendium/equipment/alchemical-items/arsenic|Arsenic]], [[srd/pf2e/compendium/equipment/alchemical-items/giant-centipede-venom|giant centipede venom]]
+You can choose any 1st-level common alchemical items for your formula book, but the list below contains a good selection of starter formulas. A beginner's book with these formulas called _The Fundamentals of Alchemy_ has become popular among mainstream alchemists by staying away from controversial topics like mutagens, though it has drawn criticism from fringe alchemists for guiding fledgling alchemists away from more innovative experiments. **Alchemical Item Formulas**: Alchemist's fire, frost vial, cheetah's elixir, elixir of life, glue bomb, smoke ball; **Bomber** Acid flask, bottled lightning; **Chirurgeon** Antidote, antiplague; **Mutagenist** Bestial mutagen, cognitive mutagen; **Toxicologist** Arsenic, giant centipede venom
 
 *Source: Player Core 2 p. 56*
 
-## The Cursebound Condition  *Sidebar*
+## The Cursebound Condition
 
 - **Parent page**: [[srd/pf2e/compendium/character/classes/oracle|Oracle]]
 
@@ -151,7 +150,7 @@ Your oracular curse is constricting around you as you receive divine punishment 
 
 *Source: Player Core 2 p. 128*
 
-## What Can I Investigate?  *Sidebar*
+## What Can I Investigate?
 
 - **Parent page**: [[srd/pf2e/compendium/character/classes/investigator|Investigator]]
 

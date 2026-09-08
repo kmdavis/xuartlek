@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 - trait/thaumaturge
 - feat/level/10
 aliases: ["Thaumaturge's Investiture"]
-aon_id: "feat-8373"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8373"
 source: "Dark Archives (Remastered)"
 ---
 

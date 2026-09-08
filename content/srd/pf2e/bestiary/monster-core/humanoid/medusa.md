@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Medusa"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Medusa"
 level: 7
 source: "Monster Core"
-aon_id: "creature-3096"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3096"
 ---
 

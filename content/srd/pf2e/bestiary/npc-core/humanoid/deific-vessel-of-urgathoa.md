@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Deific Vessel of Urgathoa"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Deific Vessel of Urgathoa"
 level: 15
 source: "NPC Core"
-aon_id: "creature-3451"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3451"
 ---
 
@@ -40,9 +38,9 @@ skills:
 abilityMods: [5, 4, 6, 2, 4, 6]
 abilities_top:
   - name: "Mark of Fate"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]]) A creature that slays the deific vessel must succeed at a DC 35 Will save or be visibly marked as anathema to Urgathoa. It gains weakness 10 to [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] and takes a –2 circumstance penalty to Charisma-based skill checks against followers of Urgathoa. Creatures attempting to [[srd/pf2e/compendium/rules-elements/actions/player-core#Gather Information|Gather Information]] about or [[srd/pf2e/compendium/rules-elements/actions/player-core#Track|Track]] the marked creature gain a +2 circumstance bonus to their checks. The mark can't be hidden and can be removed only by participating in an [[srd/pf2e/compendium/spells/rituals/atone|_atone_]] ritual led by a worshipper of Urgathoa who is 12th level or higher."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]]) A creature that slays the deific vessel must succeed at a DC 35 Will save or be visibly marked as anathema to [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/urgathoa|Urgathoa]]. It gains weakness 10 to [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] and takes a –2 circumstance penalty to Charisma-based skill checks against followers of Urgathoa. Creatures attempting to [[srd/pf2e/compendium/rules-elements/actions/player-core#Gather Information|Gather Information]] about or [[srd/pf2e/compendium/rules-elements/actions/player-core#Track|Track]] the marked creature gain a +2 circumstance bonus to their checks. The mark can't be hidden and can be removed only by participating in an [[srd/pf2e/compendium/spells/rituals/atone|_atone_]] ritual led by a worshipper of Urgathoa who is 12th level or higher."
   - name: "Items"
-    desc: "_+2 [[srd/pf2e/compendium/equipment/runes/resilient-major|resilient]] [[srd/pf2e/compendium/equipment/armor#Explorer's Clothing|explorer's clothing]]_, Scythe"
+    desc: "_+2 [[srd/pf2e/compendium/equipment/runes/resilient|resilient]] [[srd/pf2e/compendium/equipment/armor#Explorer's Clothing|explorer's clothing]]_, Scythe"
 ac: 35
 armorclass:
   - name: "AC"
@@ -70,7 +68,7 @@ abilities_bot:
   - name: "Borrow Time"
     desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|Void]]) The vessel chooses two different creatures in their void tendrils aura. Each one must be either [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]] or the vessel themself. One target loses 25 HP and the other regains that many HP. If a target is unwilling, it can negate the transfer with a successful DC 39 Fortitude save."
   - name: "Grave Chill"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]]) The vessel's unarmed attacks and scythe gain the _+2 [[srd/pf2e/compendium/equipment/runes/decaying-greater|decaying]] [[srd/pf2e/compendium/equipment/runes/frost-greater|frost]] [[srd/pf2e/compendium/equipment/runes/striking-major|greater striking]]_ runes when used by the vessel, and their Strikes gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] trait. Consequences Of Magnitude Directly interceding in the mortal plane opens deities up to direct consequences from other divine entities and the very forces of fate itself. The moment a deific vessel comes into existence, a clock begins ticking down, ready to change the fate of all involved in the creation of this powerful entity. The gods and their heralds, from their unassailable positions, face far fewer consequences than the relatively unprotected vessels themselves."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]]) The vessel's unarmed attacks and scythe gain the _+2 [[srd/pf2e/compendium/equipment/runes/decaying|decaying]] [[srd/pf2e/compendium/equipment/runes/frost|frost]] [[srd/pf2e/compendium/equipment/runes/striking|greater striking]]_ runes when used by the vessel, and their Strikes gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] trait. Consequences Of Magnitude Directly interceding in the mortal plane opens deities up to direct consequences from other divine entities and the very forces of fate itself. The moment a deific vessel comes into existence, a clock begins ticking down, ready to change the fate of all involved in the creation of this powerful entity. The gods and their heralds, from their unassailable positions, face far fewer consequences than the relatively unprotected vessels themselves."
 spellcasting:
   - name: "Divine Innate Spells"
     desc: "DC 39, attack +31 - __Cantrips (8th)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/divine-lance|Divine Lance]], [[srd/pf2e/compendium/spells/cantrips/message|Message]] - __4th__ [[srd/pf2e/compendium/spells/rank-1/harm|Harm]] (at will) - __6th__ [[srd/pf2e/compendium/spells/rank-6/truesight|Truesight]], [[srd/pf2e/compendium/spells/rank-6/vampiric-exsanguination|Vampiric Exsanguination]], [[srd/pf2e/compendium/spells/rank-6/zealous-conviction|Zealous Conviction]] - __7th__ [[srd/pf2e/compendium/spells/rank-7/divine-decree|Divine Decree]], [[srd/pf2e/compendium/spells/rank-7/eclipse-burst|Eclipse Burst]], [[srd/pf2e/compendium/spells/rank-7/execute|Execute]] - __8th__ [[srd/pf2e/compendium/spells/rank-6/dominate|Dominate]], [[srd/pf2e/compendium/spells/rank-1/harm|Harm]] (×4), [[srd/pf2e/compendium/spells/rank-7/mask-of-terror|Mask of Terror]] - __Constant (5th)__ [[srd/pf2e/compendium/spells/rank-5/truespeech|Truespeech]]"

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/6
 aliases: ["Mislead"]
-aon_id: "spell-1605"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1605"
 source: "Player Core"
 ---
 
@@ -17,8 +16,8 @@ source: "Player Core"
 `Concentrate`  `Illusion`  `Manipulate`
 
 - **Traditions**: Arcane, Occult
-- **Bloodline**: Fey
-- **Deities**: Asmodeus, Baalzebul, Calistria, Dhalavei, Kelinahat, Nalinivati, Nyarlathotep (The Crawling Chaos), Nyarlathotep (The Faceless Sphinx), Picoperi, Shadow Cabinet, Sivanah, Thamir, The Freeing Flame, Yaezhing
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Fey|Fey]]
+- **Deities**: [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/asmodeus|Asmodeus]], [[srd/pf2e/compendium/deities/archdevils/baalzebul|Baalzebul]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/calistria|Calistria]], [[srd/pf2e/compendium/deities/vudrani-gods/dhalavei|Dhalavei]], [[srd/pf2e/compendium/deities/empyreal-lords/kelinahat|Kelinahat]], Nalinivati, [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-the-crawling-chaos|Nyarlathotep (The Crawling Chaos)]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-the-faceless-sphinx|Nyarlathotep (The Faceless Sphinx)]], Picoperi, [[srd/pf2e/compendium/deities/covenants/shadow-cabinet|Shadow Cabinet]], [[srd/pf2e/compendium/deities/other-gods/sivanah|Sivanah]], [[srd/pf2e/compendium/deities/other-gods/thamir|Thamir]], The Freeing Flame, Yaezhing
 - **Duration**: sustained up to 1 minute
 
 You turn yourself [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]] and create an illusory duplicate of yourself. When you Sustain the spell, you can mentally dictate a course of action for your duplicate to follow that round. Your duplicate acts as though it had your full number of actions, though it can't actually affect anything in the environment. Both the duplicate and your invisibility persist for the spell's duration. Performing a hostile action doesn't end mislead's invisibility, just like a 4th-rank invisibility spell. A creature that determines the duplicate is an illusion doesn't necessarily know you're invisible, and one that can see your invisible form doesn't necessarily know your duplicate is an illusion.

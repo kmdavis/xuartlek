@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/uncommon
 - ritual/level/6
 aliases: ["Ward Domain"]
-aon_id: "ritual-156"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=156"
 source: "Player Core 2"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core 2"
 - **Cost**: rare incenses, oils, and powdered silver, worth 150 gp total
 - **Secondary Casters**: 3
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], or [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (master)
-- **Secondary Checks**: Lore (any), Survival , Thievery
+- **Secondary Checks**: Lore (any), Survival, Thievery
 - **Area**: 100 feet × 100 feet, up to 50 feet high
 - **Duration**: 1 week
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Behemoth Hippopotamus"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Behemoth Hippopotamus"
 level: 10
 source: "Monster Core 2"
-aon_id: "creature-4439"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4439"
 ---
 

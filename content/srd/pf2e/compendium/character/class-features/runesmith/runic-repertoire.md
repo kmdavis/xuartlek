@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class-feature
 tags:
 - compendium/src/pf2e/impossible-magic
 - class-feature/level/1
 aliases: ["Runic Repertoire"]
-aon_id: "class-feature-1313"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=76"
 source: "Impossible Magic"
 ---
 
@@ -13,7 +12,7 @@ source: "Impossible Magic"
 
 - **Class**: Runesmith
 
-The collection of runes that you know is called your runic repertoire. At 1st level, you learn four 1st-level runes of your choice. You choose these from the common runes on the rune list as well as any uncommon or rarer runes you have access to.
+The collection of runes that you know is called your runic repertoire. At 1st level, you learn four 1st-level runes of your choice. You choose these from the common runes on the [[srd/pf2e/compendium/character/runesmith-runes|rune list]] as well as any uncommon or rarer runes you have access to.
 
  As you increase in level, you add more runes to your repertoire. You can add any rune to your repertoire as long as it is common (or you have access to it) and its level is equal to or less than your own.
 

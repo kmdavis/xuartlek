@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/manipulate
 aliases: ["Manipulate"]
-aon_id: "trait-645"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=645"
 source: "Player Core"
 ---
 

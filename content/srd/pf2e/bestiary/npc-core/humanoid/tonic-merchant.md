@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Tonic Merchant"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Tonic Merchant"
 level: 3
 source: "NPC Core"
-aon_id: "creature-3483"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3483"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [0, 2, 1, 4, 1, 2]
 abilities_top:
   - name: "Items"
-    desc: "moderate acid flask (×8), [[srd/pf2e/compendium/equipment/adventuring-gear/alchemists-toolkit|Alchemist's Toolkit]], Dagger, formula book, [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit-expanded|Healer's Toolkit]]"
+    desc: "moderate acid flask (×8), [[srd/pf2e/compendium/equipment/adventuring-gear/alchemists-toolkit|Alchemist's Toolkit]], Dagger, formula book, [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit|Healer's Toolkit]]"
 ac: 17
 armorclass:
   - name: "AC"
@@ -57,7 +55,7 @@ attacks:
     desc: "⬻ dagger +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+4 piercing"
 abilities_bot:
   - name: "Healing Bomb"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]]) The tonic merchant quickly crafts a [[srd/pf2e/compendium/equipment/alchemical-items/antidote-major|lesser antidote]], [[srd/pf2e/compendium/equipment/alchemical-items/antiplague-major|lesser antiplague]], or [[srd/pf2e/compendium/equipment/alchemical-items/elixir-of-life-true|minor elixir of life]] and lobs it at a willing or [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]] ally within 30 feet. The elixir affects the ally as though they imbibed it. The tonic merchant can use the rarest materials in their toolkit to improve the item to a moderate antidote, moderate antiplague, or lesser elixir of life. Afterward, they must spend 10 minutes gathering new ingredients before they can do so again."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]]) The tonic merchant quickly crafts a [[srd/pf2e/compendium/equipment/alchemical-items/antidote|lesser antidote]], [[srd/pf2e/compendium/equipment/alchemical-items/antiplague|lesser antiplague]], or [[srd/pf2e/compendium/equipment/alchemical-items/elixir-of-life|minor elixir of life]] and lobs it at a willing or [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]] ally within 30 feet. The elixir affects the ally as though they imbibed it. The tonic merchant can use the rarest materials in their toolkit to improve the item to a moderate antidote, moderate antiplague, or lesser elixir of life. Afterward, they must spend 10 minutes gathering new ingredients before they can do so again."
 sourcebook: "_NPC Core_, page 62."
 ```
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Guide"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Guide"
 level: 4
 source: "NPC Core"
-aon_id: "creature-3472"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3472"
 ---
 

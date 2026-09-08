@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Hell Hound Pack"
 tags:
@@ -14,7 +13,6 @@ statblock: inline
 name: "Hell Hound Pack"
 level: 8
 source: "Battlecry!"
-aon_id: "creature-3922"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3922"
 ---
 

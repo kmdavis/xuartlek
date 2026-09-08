@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/npc-core
@@ -7,7 +6,7 @@ tags:
 - trait/sweep
 - weapon/level/0
 aliases: ["Machete"]
-aon_id: "weapon-516"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=516"
 source: "NPC Core"
 ---
 
@@ -15,7 +14,7 @@ source: "NPC Core"
 
 `Deadly`  `Sweep`
 
-- **Favored Weapon**: Aminara, Demon Bringers, Kazutal
+- **Favored Weapon**: Aminara, Demon Bringers, [[srd/pf2e/compendium/deities/other-gods/kazutal|Kazutal]]
 - **Price**: 7 sp
 - **Damage**: 1d6 S
 - **Bulk**: L

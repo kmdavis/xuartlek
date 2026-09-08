@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -9,7 +8,7 @@ tags:
 - trait/potion
 - equipment/level/10
 aliases: ["Potion Of Living Light"]
-aon_id: "equipment-5098"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5098"
 source: "Impossible Magic"
 ---
 

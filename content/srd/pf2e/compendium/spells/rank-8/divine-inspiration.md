@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/mental
 - spell/level/8
 aliases: ["Divine Inspiration"]
-aon_id: "spell-1497"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1497"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Mental`
 
 - **Tradition**: Divine
-- **Bloodline**: Diabolic
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Diabolic|Diabolic]]
 - **Range**: touch
 - **Target**: 1 willing creature
 

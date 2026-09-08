@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Nixie"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Nixie"
 level: 1
 source: "Monster Core 2"
-aon_id: "creature-4489"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4489"
 ---
 
@@ -44,7 +42,7 @@ armorclass:
 hp: 22
 health:
   - name: "HP"
-    desc: "22; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 3"
+    desc: "22; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 3"
 speed: "20 feet, swim 30 feet"
 attacks:
   - name: "Melee"

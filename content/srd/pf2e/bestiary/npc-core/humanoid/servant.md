@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Servant"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Servant"
 level: -1
 source: "NPC Core"
-aon_id: "creature-3489"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3489"
 ---
 

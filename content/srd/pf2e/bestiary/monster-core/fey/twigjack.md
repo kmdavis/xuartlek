@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Twigjack"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Twigjack"
 level: 3
 source: "Monster Core"
-aon_id: "creature-3222"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3222"
 ---
 

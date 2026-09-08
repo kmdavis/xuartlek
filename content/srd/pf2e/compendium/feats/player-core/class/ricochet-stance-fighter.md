@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/stance
 - feat/level/6
 aliases: ["Ricochet Stance (Fighter)"]
-aon_id: "feat-4805"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4805"
 source: "Player Core"
 ---
 

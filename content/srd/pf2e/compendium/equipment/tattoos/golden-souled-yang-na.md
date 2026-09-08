@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/tattoo
 - equipment/level/10
 aliases: ["Golden-souled Yang Na"]
-aon_id: "equipment-5178"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5178"
 source: "Impossible Magic"
 ---
 

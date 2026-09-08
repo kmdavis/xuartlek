@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Tripkee Rain-Caller"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Tripkee Rain-Caller"
 level: 4
 source: "Monster Core 2"
-aon_id: "creature-4590"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4590"
 ---
 

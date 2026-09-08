@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-archetype
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 - trait/uncommon
 - archetype/level/6
 aliases: ["Time Mage"]
-aon_id: "archetype-348"
+aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=348"
 source: "Dark Archives (Remastered)"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Thruneosaurus Rex"
 tags:
@@ -14,7 +13,6 @@ statblock: inline
 name: "Thruneosaurus Rex"
 level: 17
 source: "Howl of the Wild"
-aon_id: "creature-3266"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3266"
 ---
 

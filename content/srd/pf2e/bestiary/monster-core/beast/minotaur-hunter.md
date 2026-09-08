@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Minotaur Hunter"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Minotaur Hunter"
 level: 4
 source: "Monster Core"
-aon_id: "creature-3099"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3099"
 ---
 

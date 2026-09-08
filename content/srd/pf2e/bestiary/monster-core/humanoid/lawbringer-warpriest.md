@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Lawbringer Warpriest"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Lawbringer Warpriest"
 level: 5
 source: "Monster Core"
-aon_id: "creature-3141"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3141"
 ---
 

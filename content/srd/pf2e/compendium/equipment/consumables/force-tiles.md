@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - equipment/level/13
 aliases: ["Force Tiles"]
-aon_id: "equipment-1006"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5052"
 source: "Impossible Magic"
 ---
 
@@ -21,6 +20,6 @@ source: "Impossible Magic"
 - **Bulk**: L
 - **Activate**: Cast a Spell
 
-Light refracts in strange ways through these precisely ground glass tiles, lengthening the refracted force and causing it to push back. Adding this catalyst to a _wall of force_ spell increases the wall's maximum length to 80 feet and maximum height to 40 feet and causes creatures that try to move into the wall's space (or are Shoved into the wall) to take 2d6 [[srd/pf2e/compendium/rules-elements/traits/player-core/force|force]] damage.
+Light refracts in strange ways through these precisely ground glass tiles, lengthening the refracted force and causing it to push back. Adding this catalyst to a _[[srd/pf2e/compendium/spells/rank-6/wall-of-force|_wall of force_]]_ spell increases the wall’s maximum length to 80 feet and maximum height to 40 feet and causes creatures that try to move into the wall’s space (or are [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shoved]] into the wall) to take 2d6 force damage.
 
 *Source: Impossible Magic p. 215*

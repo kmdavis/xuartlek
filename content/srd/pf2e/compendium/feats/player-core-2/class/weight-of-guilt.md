@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/champion
 - feat/level/1
 aliases: ["Weight of Guilt"]
-aon_id: "feat-5891"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5891"
 source: "Player Core 2"
 ---
 
@@ -14,7 +13,7 @@ source: "Player Core 2"
 
 `Champion`
 
-- **Prerequisites**: redemption cause
+- **Prerequisites**: [[srd/pf2e/compendium/character/causes#Redemption|redemption cause]]
 
 Guilt clouds the minds of those who ignore your [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Glimpse of Redemption|Glimpse of Redemption]]. Instead of making an enemy who refuses redemption [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled 2]], you can make it stupefied 2 for the same duration.
 

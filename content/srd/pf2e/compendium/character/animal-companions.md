@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-animal-companion
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -12,7 +11,7 @@ entries: 43
 
 # Animal Companions
 
-## Air Elemental  *Animal Companion 1*
+## Air Elemental
 
 `Air`  `Elemental`  `Minion`  `Uncommon`
 
@@ -57,7 +56,7 @@ gust ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]])
 
 *Source: Rage of Elements p. 40*
 
-## Antelope  *Animal Companion 1*
+## Antelope
 
 `Animal`  `Minion`
 
@@ -105,7 +104,7 @@ hoof ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]], [[s
 
 *Source: Howl of the Wild p. 90*
 
-## Ape  *Animal Companion 1*
+## Ape
 
 `Animal`  `Minion`
 
@@ -148,7 +147,7 @@ fist,
 
 *Source: Player Core p. 206*
 
-## Arboreal Sapling  *Animal Companion 1*
+## Arboreal Sapling
 
 `Minion`  `Plant`  `Uncommon`
 
@@ -191,7 +190,7 @@ branch,
 
 *Source: Player Core p. 206*
 
-## Badger  *Animal Companion 1*
+## Badger
 
 `Animal`  `Minion`
 
@@ -239,7 +238,7 @@ claw ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]),
 
 *Source: Player Core p. 207*
 
-## Bat  *Animal Companion 1*
+## Bat
 
 `Animal`  `Minion`
 
@@ -287,7 +286,7 @@ wing ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[s
 
 *Source: Player Core p. 207*
 
-## Bear  *Animal Companion 1*
+## Bear
 
 `Animal`  `Minion`
 
@@ -335,7 +334,7 @@ claw ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]),
 
 *Source: Player Core p. 207*
 
-## Bird  *Animal Companion 1*
+## Bird
 
 `Animal`  `Minion`
 
@@ -383,7 +382,7 @@ talon ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[
 
 *Source: Player Core p. 208*
 
-## Boar  *Animal Companion 1*
+## Boar
 
 `Animal`  `Minion`
 
@@ -426,7 +425,7 @@ tusk,
 
 *Source: Player Core p. 208*
 
-## Cat  *Animal Companion 1*
+## Cat
 
 `Animal`  `Minion`
 
@@ -474,7 +473,7 @@ claw ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[s
 
 *Source: Player Core p. 208*
 
-## Crocodile  *Animal Companion 1*
+## Crocodile
 
 `Animal`  `Minion`
 
@@ -522,7 +521,7 @@ tail ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]])
 
 *Source: Player Core p. 208*
 
-## Dromaeosaur  *Animal Companion 1*
+## Dromaeosaur
 
 `Animal`  `Minion`
 
@@ -570,7 +569,7 @@ talon ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[
 
 *Source: Player Core p. 209*
 
-## Earth Elemental  *Animal Companion 1*
+## Earth Elemental
 
 `Earth`  `Elemental`  `Minion`  `Uncommon`
 
@@ -615,7 +614,7 @@ fist,
 
 *Source: Rage of Elements p. 40*
 
-## Elk  *Animal Companion 1*
+## Elk
 
 `Animal`  `Minion`
 
@@ -663,7 +662,7 @@ hoof ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]]),
 
 *Source: Howl of the Wild p. 90*
 
-## Fire Elemental  *Animal Companion 1*
+## Fire Elemental
 
 `Elemental`  `Fire`  `Minion`  `Uncommon`
 
@@ -708,7 +707,7 @@ tendril ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], 
 
 *Source: Rage of Elements p. 40*
 
-## Flying Squirrel  *Animal Companion 1*
+## Flying Squirrel
 
 `Animal`  `Minion`
 
@@ -756,7 +755,7 @@ claw ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]], [[s
 
 *Source: Howl of the Wild p. 91*
 
-## Giant Eel  *Animal Companion 4*
+## Giant Eel
 
 `Animal`  `Aquatic`  `Minion`  `Uncommon`
 
@@ -799,7 +798,7 @@ jaws,
 
 *Source: Howl of the Wild p. 93*
 
-## Giant Frog  *Animal Companion 6*
+## Giant Frog
 
 `Amphibious`  `Animal`  `Minion`
 
@@ -847,7 +846,7 @@ tongue ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach]] 15
 
 *Source: Howl of the Wild p. 93*
 
-## Giant Wasp  *Animal Companion 14*
+## Giant Wasp
 
 `Animal`  `Minion`  `Uncommon`
 
@@ -890,7 +889,7 @@ stinger ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse
 
 *Source: Howl of the Wild p. 93*
 
-## Giraffe  *Animal Companion 1*
+## Giraffe
 
 `Animal`  `Minion`
 
@@ -938,7 +937,7 @@ neck ([[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonletha
 
 *Source: Howl of the Wild p. 91*
 
-## Griffon  *Animal Companion 14*
+## Griffon
 
 `Animal`  `Minion`
 
@@ -986,7 +985,7 @@ talon ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]]),
 
 *Source: Howl of the Wild p. 93*
 
-## Hippocampus  *Animal Companion 4*
+## Hippocampus
 
 `Animal`  `Aquatic`  `Minion`
 
@@ -1029,7 +1028,7 @@ tail,
 
 *Source: Howl of the Wild p. 94*
 
-## Hippogriff  *Animal Companion 14*
+## Hippogriff
 
 `Animal`  `Minion`
 
@@ -1077,7 +1076,7 @@ talon ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]]),
 
 *Source: Howl of the Wild p. 94*
 
-## Horse  *Animal Companion 1*
+## Horse
 
 `Animal`  `Minion`
 
@@ -1120,7 +1119,7 @@ hoof ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]),
 
 *Source: Player Core p. 209*
 
-## Kangaroo  *Animal Companion 1*
+## Kangaroo
 
 `Animal`  `Minion`
 
@@ -1163,7 +1162,7 @@ foot ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]]),
 
 *Source: Howl of the Wild p. 91*
 
-## Metal Elemental  *Animal Companion 1*
+## Metal Elemental
 
 `Elemental`  `Metal`  `Minion`  `Uncommon`
 
@@ -1208,7 +1207,7 @@ spike,
 
 *Source: Rage of Elements p. 41*
 
-## Mole  *Animal Companion 1*
+## Mole
 
 `Animal`  `Minion`
 
@@ -1256,7 +1255,7 @@ claw ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]]),
 
 *Source: Howl of the Wild p. 91*
 
-## Mongoose  *Animal Companion 1*
+## Mongoose
 
 `Animal`  `Minion`
 
@@ -1304,7 +1303,7 @@ claw ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]], [[s
 
 *Source: Howl of the Wild p. 92*
 
-## Oozeform Chair  *Animal Companion 1*
+## Oozeform Chair
 
 `Minion`  `Ooze`
 
@@ -1347,7 +1346,7 @@ pseudopod ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]
 
 *Source: Treasure Vault (Remastered) p. 106*
 
-## Orca  *Animal Companion 6*
+## Orca
 
 `Animal`  `Minion`
 
@@ -1390,7 +1389,7 @@ jaws,
 
 *Source: Howl of the Wild p. 94*
 
-## Riding Drake  *Animal Companion 1*
+## Riding Drake
 
 `Dragon`  `Minion`  `Uncommon`
 
@@ -1438,7 +1437,7 @@ tail,
 
 *Source: Player Core p. 209*
 
-## Riding Tarantula  *Animal Companion 6*
+## Riding Tarantula
 
 `Animal`  `Minion`
 
@@ -1486,7 +1485,7 @@ leg ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]], [[sr
 
 *Source: Howl of the Wild p. 95*
 
-## Roc  *Animal Companion 16*
+## Roc
 
 `Animal`  `Minion`  `Uncommon`
 
@@ -1534,7 +1533,7 @@ talon ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]]),
 
 *Source: Howl of the Wild p. 95*
 
-## Rootball Chair  *Animal Companion 1*
+## Rootball Chair
 
 `Minion`  `Plant`
 
@@ -1577,7 +1576,7 @@ vine (reach 10 feet),
 
 *Source: Treasure Vault (Remastered) p. 107*
 
-## Salamander  *Animal Companion 1*
+## Salamander
 
 `Animal`  `Minion`
 
@@ -1625,7 +1624,7 @@ jaws,
 
 *Source: Howl of the Wild p. 92*
 
-## Scorpion  *Animal Companion 1*
+## Scorpion
 
 `Animal`  `Minion`
 
@@ -1673,7 +1672,7 @@ pincer ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]),
 
 *Source: Player Core p. 210*
 
-## Shark  *Animal Companion 1*
+## Shark
 
 `Animal`  `Aquatic`  `Minion`
 
@@ -1716,7 +1715,7 @@ jaws,
 
 *Source: Player Core p. 210*
 
-## Shotalashu  *Animal Companion 1*
+## Shotalashu
 
 `Beast`  `Minion`  `Uncommon`
 
@@ -1761,7 +1760,7 @@ claw ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]]),
 
 *Source: Howl of the Wild p. 92*
 
-## Snake  *Animal Companion 1*
+## Snake
 
 `Animal`  `Minion`
 
@@ -1804,7 +1803,7 @@ jaws ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]])
 
 *Source: Player Core p. 210*
 
-## Umbrella Mushroom  *Animal Companion 14*
+## Umbrella Mushroom
 
 `Fungus`  `Minion`  `Uncommon`
 
@@ -1847,7 +1846,7 @@ stalk,
 
 *Source: Howl of the Wild p. 95*
 
-## Water Elemental  *Animal Companion 1*
+## Water Elemental
 
 `Elemental`  `Minion`  `Uncommon`  `Water`
 
@@ -1892,7 +1891,7 @@ wave,
 
 *Source: Rage of Elements p. 41*
 
-## Wolf  *Animal Companion 1*
+## Wolf
 
 `Animal`  `Minion`
 
@@ -1935,7 +1934,7 @@ jaws ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]])
 
 *Source: Player Core p. 210*
 
-## Wood Elemental  *Animal Companion 1*
+## Wood Elemental
 
 `Elemental`  `Minion`  `Plant`  `Uncommon`  `Wood`
 

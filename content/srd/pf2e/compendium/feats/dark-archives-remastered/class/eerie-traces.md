@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -10,7 +9,7 @@ tags:
 - trait/ranger
 - feat/level/8
 aliases: ["Eerie Traces"]
-aon_id: "feat-8420"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8420"
 source: "Dark Archives (Remastered)"
 ---
 

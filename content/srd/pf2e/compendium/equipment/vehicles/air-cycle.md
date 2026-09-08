@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/battlecry
 - trait/uncommon
 - vehicle/level/4
 aliases: ["Air Cycle"]
-aon_id: "vehicle-88"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=88"
 source: "Battlecry!"
 ---
 
@@ -16,7 +15,7 @@ source: "Battlecry!"
 
 - **Price**: 300 gp
 
-This clockwork vehicle consists of a small wheeled platform under a pair of wings made with a light wooden frame covered by sturdy cloth. An air cycle must be launched from a high altitude, similar to a glider. Once airborne, however, the air cycle can be kept aloft and controlled using a system of pedals and steering handles to control its speed and direction. If you stop pedaling the air cycle, it functions as a glider.
+This clockwork vehicle consists of a small wheeled platform under a pair of wings made with a light wooden frame covered by sturdy cloth. An air cycle must be launched from a high altitude, similar to a glider. Once airborne, however, the air cycle can be kept aloft and controlled using a system of pedals and steering handles to control its speed and direction. If you stop pedaling the air cycle, it functions as a [[srd/pf2e/compendium/equipment/vehicles/glider|glider]].
 
 ---
 

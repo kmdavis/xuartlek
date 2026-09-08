@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -8,7 +7,7 @@ tags:
 - trait/wand
 - equipment/level/5
 aliases: ["Wand of Shardstorm"]
-aon_id: "equipment-3052"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3052"
 source: "GM Core"
 ---
 

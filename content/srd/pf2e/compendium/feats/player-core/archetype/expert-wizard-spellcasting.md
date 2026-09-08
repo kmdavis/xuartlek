@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/archetype
 - feat/level/12
 aliases: ["Expert Wizard Spellcasting"]
-aon_id: "feat-5112"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5112"
 source: "Player Core"
 ---
 
@@ -14,7 +13,7 @@ source: "Player Core"
 
 `Archetype`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/wizard|Wizard]], [[srd/pf2e/compendium/character/archetypes/spellshot|Spellshot]] (Level 12), [[srd/pf2e/compendium/character/archetypes/spellshot|Spellshot]] (Level 12)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/wizard|Wizard]], [[srd/pf2e/compendium/character/archetypes/spellshot|Spellshot]] (Level 12)
 - **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/basic-wizard-spellcasting|Basic Wizard Spellcasting]]; Master in [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]]
 
 You gain the expert [[srd/pf2e/books/player-core/chapter-3-classes/archetypes#Spellcasting Archetypes|spellcasting benefits]].

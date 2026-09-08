@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/battlecry
 - trait/rare
 - vehicle/level/20
 aliases: ["Ice Breaker"]
-aon_id: "vehicle-110"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=110"
 source: "Battlecry!"
 ---
 
@@ -14,7 +13,7 @@ source: "Battlecry!"
 
 `Rare`
 
-- **Price**: 270,000 gp
+- **Price**: 270, 000 gp
 
 Colder oceans are often beset with heavy layers of sea ice, providing some kingdoms natural barriers to sea-based assaults and bombardments. To counter this, as well as to resupply troops in these areas, engineers designed massive steam-powered ice breakers. Powered by a dozen steam boilers lit with arcane flames, these ships can make their way through heavy ice fields that would crush most vessels, leaving an open channel behind them for other ships to follow.
 

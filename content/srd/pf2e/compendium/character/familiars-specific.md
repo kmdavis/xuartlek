@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-familiar-specific
 tags:
 - compendium/src/pf2e/player-core-2
@@ -10,7 +9,7 @@ entries: 12
 
 # Familiars Specific
 
-## Aeon Wyrd  *Specific Familiar*
+## Aeon Wyrd
 
 `Construct`
 
@@ -21,7 +20,7 @@ An aeon wyrd is a floating swarm of gemstones surrounding a larger stone. It gra
 
 *Source: Player Core 2 p. 170*
 
-## Cullitox Shardling  *Specific Familiar*
+## Cullitox Shardling
 
 `Earth`  `Elemental`
 
@@ -32,7 +31,7 @@ A cullitox shardling is a younger, smaller version of [[srd/pf2e/bestiary/rage-o
 
 *Source: Rage of Elements p. 42*
 
-## Elemental Scamp  *Specific Familiar*
+## Elemental Scamp
 
 `Elemental`
 
@@ -43,7 +42,7 @@ The elementals called scamps look similar to bats, but their bodies are made pri
 
 *Source: Rage of Elements p. 43*
 
-## Elemental Wisp  *Specific Familiar*
+## Elemental Wisp
 
 `Elemental`
 
@@ -54,7 +53,7 @@ Wisps are tiny elementals that often act as familiars. They each usually have di
 
 *Source: Rage of Elements p. 43*
 
-## Fey Dragonet  *Specific Familiar*
+## Fey Dragonet
 
 `Dragon`
 
@@ -65,7 +64,7 @@ These tiny, mischievous dragons make natural allies for benevolent or capricious
 
 *Source: Player Core 2 p. 170*
 
-## Gennayn  *Specific Familiar*
+## Gennayn
 
 `Elemental`
 
@@ -76,7 +75,7 @@ Minor genies, [[srd/pf2e/bestiary/rage-of-elements/elemental/gennayn|gennayn]] a
 
 *Source: Rage of Elements p. 43*
 
-## Homunculus  *Specific Familiar*
+## Homunculus
 
 `Construct`
 
@@ -87,7 +86,7 @@ Homunculi are tiny servitor constructs created by a crafter to serve as a spy, s
 
 *Source: Player Core 2 p. 171*
 
-## Imp  *Specific Familiar*
+## Imp
 
 `Fiend`  `Unholy`
 
@@ -98,7 +97,7 @@ Imp familiars pretend to be subservient in order to trick their master into losi
 
 *Source: Player Core 2 p. 171*
 
-## Mood Cloud  *Specific Familiar*
+## Mood Cloud
 
 `Air`  `Elemental`
 
@@ -109,7 +108,7 @@ This air elemental is little more than a tiny cloud with just enough internality
 
 *Source: Rage of Elements p. 42*
 
-## Pipefox  *Specific Familiar*
+## Pipefox
 
 `Beast`
 
@@ -120,7 +119,7 @@ A pipefox is a tiny magical fox with a thin, limbless body that is about a foot 
 
 *Source: Player Core 2 p. 171*
 
-## Poppet  *Specific Familiar*
+## Poppet
 
 `Construct`
 
@@ -131,7 +130,7 @@ Endlessly modifiable, poppet familiars made of wood and wicker are among the mos
 
 *Source: Player Core 2 p. 171*
 
-## Spellslime  *Specific Familiar*
+## Spellslime
 
 `Ooze`
 

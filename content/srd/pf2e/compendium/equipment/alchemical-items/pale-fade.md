@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/poison
 - equipment/level/19
 aliases: ["Pale Fade"]
-aon_id: "equipment-2010"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2010"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -17,7 +16,7 @@ source: "Treasure Vault (Remastered)"
 
 `Alchemical`  `Consumable`  `Injury`  `Poison`
 
-- **Price**: 6,000 gp
+- **Price**: 6, 000 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
 - **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])

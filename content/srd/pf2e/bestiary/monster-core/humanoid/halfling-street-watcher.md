@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Halfling Street Watcher"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Halfling Street Watcher"
 level: -1
 source: "Monster Core"
-aon_id: "creature-3044"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3044"
 ---
 
@@ -53,7 +51,7 @@ attacks:
     desc: "⬻ halfling sling staff +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/propulsive|Propulsive]], range increment 80 feet, reload 1) __Damage__ 1d10–1 bludgeoning"
 abilities_bot:
   - name: "Keen Eyes"
-    desc: "The halfling gains a +2 circumstance bonus when using the [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]] action to find [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] or [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]] creatures within 30 feet of it. Whenever the halfling targets a creature that is [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] or hidden from them, reduce the DC of the flat check to 3 for a concealed target or 9 for a [[srd/pf2e/compendium/rules-elements/actions/rage-of-elements|hidden]] one."
+    desc: "The halfling gains a +2 circumstance bonus when using the [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]] action to find [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] or [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]] creatures within 30 feet of it. Whenever the halfling targets a creature that is [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] or hidden from them, reduce the DC of the flat check to 3 for a concealed target or 9 for a hidden one."
 sourcebook: "_Monster Core_, page 192."
 ```
 

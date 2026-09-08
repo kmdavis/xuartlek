@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/3
 aliases: ["Haste"]
-aon_id: "spell-1553"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1553"
 source: "Player Core"
 ---
 
@@ -16,8 +15,8 @@ source: "Player Core"
 `Concentrate`  `Manipulate`
 
 - **Traditions**: Arcane, Occult, Primal
-- **Bloodlines**: Draconic, Imperial
-- **Deities**: Aonaurious, Droskar, Garhaazh, Irori, Izuyaku, Jaidz, Kurgess, Ragathiel, Rokoga Gin, Shax, Shyka, Skode, Srikalis, Sritaming, and Sribaril, Szuriel, The Divine Dare, Tjasse, Trudd, Uvuko
+- **Bloodlines**: [[srd/pf2e/compendium/character/bloodlines#Draconic|Draconic]], [[srd/pf2e/compendium/character/bloodlines#Imperial|Imperial]]
+- **Deities**: [[srd/pf2e/compendium/deities/qlippoth-lords/aonaurious|Aonaurious]], [[srd/pf2e/compendium/deities/dwarven-gods/droskar|Droskar]], Garhaazh, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/irori|Irori]], [[srd/pf2e/compendium/deities/other-gods/izuyaku|Izuyaku]], Jaidz, [[srd/pf2e/compendium/deities/other-gods/kurgess|Kurgess]], [[srd/pf2e/compendium/deities/empyreal-lords/ragathiel|Ragathiel]], Rokoga Gin, [[srd/pf2e/compendium/deities/demon-lords/shax|Shax]], [[srd/pf2e/compendium/deities/eldest/shyka|Shyka]], [[srd/pf2e/compendium/deities/giant-gods/skode|Skode]], Srikalis, Sritaming, and Sribaril, [[srd/pf2e/compendium/deities/apocalypse-riders/szuriel|Szuriel]], The Divine Dare, [[srd/pf2e/compendium/deities/giant-gods/tjasse|Tjasse]], [[srd/pf2e/compendium/deities/dwarven-gods/trudd|Trudd]], Uvuko
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Duration**: 1 minute

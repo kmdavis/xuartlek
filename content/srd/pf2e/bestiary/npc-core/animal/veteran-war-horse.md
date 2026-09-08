@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Veteran War Horse"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Veteran War Horse"
 level: 5
 source: "NPC Core"
-aon_id: "creature-3677"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3677"
 ---
 

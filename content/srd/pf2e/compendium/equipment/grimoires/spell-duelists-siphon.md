@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/magical
 - equipment/level/12
 aliases: ["Spell Duelist's Siphon"]
-aon_id: "equipment-2182"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2182"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -15,7 +14,7 @@ source: "Treasure Vault (Remastered)"
 
 `Grimoire`  `Magical`
 
-- **Price**: 1,750 gp
+- **Price**: 1, 750 gp
 - **Bulk**: L
 
 Metal clasps line the spine of this book, and diagrams displaying proper somatic casting forms are etched into its cover.

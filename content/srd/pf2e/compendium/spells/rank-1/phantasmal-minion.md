@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/summon
 - spell/level/1
 aliases: ["Phantasmal Minion"]
-aon_id: "spell-1631"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1631"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Summon`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Anubis, Good Neighbors, Kols, Monad, Yelayne, Yluma
+- **Deities**: [[srd/pf2e/compendium/deities/dead-or-missing-deities/anubis|Anubis]], [[srd/pf2e/compendium/deities/covenants/good-neighbors|Good Neighbors]], [[srd/pf2e/compendium/deities/dwarven-gods/kols|Kols]], [[srd/pf2e/compendium/deities/monitor-demigods/monad|Monad]], Yelayne, Yluma
 - **Range**: 60 feet
 - **Duration**: sustained
 

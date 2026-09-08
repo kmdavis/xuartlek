@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/orc
 - feat/level/5
 aliases: ["Scar-Thick Skin"]
-aon_id: "feat-4523"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4523"
 source: "Player Core"
 ---
 

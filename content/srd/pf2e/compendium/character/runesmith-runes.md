@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-runesmith-rune
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -9,7 +8,7 @@ entries: 44
 
 # Runesmith Runes
 
-## Aiuen, The Elf-Gate Key  *Runesmith Rune 17*
+## Aiuen, The Elf-Gate Key
 
 `Arcane`  `Rune`  `Runesmith`  `Teleportation`
 
@@ -25,7 +24,7 @@ If you have the ability to cast the [[srd/pf2e/compendium/spells/cantrips/sigil|
 
 *Source: Impossible Magic p. 61*
 
-## Astillu, Rune of Submersion  *Runesmith Rune 9*
+## Astillu, Rune of Submersion
 
 `Magical`  `Rune`  `Runesmith`  `Water`
 
@@ -38,7 +37,7 @@ The rune's power pushes the bearer forward in a surprising surge of speed. The r
 
 *Source: Impossible Magic p. 59*
 
-## Atryl, Rune of Fire  *Runesmith Rune 1*
+## Atryl, Rune of Fire
 
 `Fire`  `Primal`  `Rune`  `Runesmith`
 
@@ -54,7 +53,7 @@ The bearer takes 1d8 fire damage with a [[srd/pf2e/books/player-core/chapter-8-p
 
 *Source: Impossible Magic p. 55*
 
-## Av-, Diacritic Rune of Succession  *Runesmith Rune 5*
+## Av-, Diacritic Rune of Succession
 
 `Diacritic`  `Magical`  `Rune`  `Runesmith`
 
@@ -67,7 +66,7 @@ You can have only one copy of _av-, diacritic rune of succession_ applied at a g
 
 *Source: Impossible Magic p. 57*
 
-## Baruiel, Rune of Hold's Bravery  *Runesmith Rune 1*
+## Baruiel, Rune of Hold's Bravery
 
 `Emotion`  `Magical`  `Mental`  `Rune`  `Runesmith`
 
@@ -80,7 +79,7 @@ The essence of the rune is released outward, easing the minds of others. Each al
 
 *Source: Impossible Magic p. 55*
 
-## Camonica, Rune of Perplexity  *Runesmith Rune 1*
+## Camonica, Rune of Perplexity
 
 `Mental`  `Occult`  `Rune`  `Runesmith`
 
@@ -96,7 +95,7 @@ The cacophony fragments and expands rapidly in a mental explosion, dealing 1d4 m
 
 *Source: Impossible Magic p. 55*
 
-## Cruonign, Rune of Leeching  *Runesmith Rune 9*
+## Cruonign, Rune of Leeching
 
 `Death`  `Magical`  `Rune`  `Runesmith`  `Void`  `Negative`
 
@@ -112,7 +111,7 @@ The rune lashes out in a 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-
 
 *Source: Impossible Magic p. 59*
 
-## Eck-, Diacritic Rune of Phantasma  *Runesmith Rune 13*
+## Eck-, Diacritic Rune of Phantasma
 
 `Diacritic`  `Magical`  `Rune`  `Runesmith`
 
@@ -125,7 +124,7 @@ This diacritic frames a base rune with almost invisible lines that turn the rune
 
 *Source: Impossible Magic p. 60*
 
-## En-, Diacritic Rune of Expansion  *Runesmith Rune 5*
+## En-, Diacritic Rune of Expansion
 
 `Diacritic`  `Magical`  `Rune`  `Runesmith`
 
@@ -135,7 +134,7 @@ This diacritic surrounds a rune with outward-facing arrows to magnify and direct
 
 *Source: Impossible Magic p. 57*
 
-## Esvadir, Rune of Whetstones  *Runesmith Rune 1*
+## Esvadir, Rune of Whetstones
 
 `Magical`  `Rune`  `Runesmith`
 
@@ -151,7 +150,7 @@ A blast of cutting energy is released outward from the rune, dealing 1d8 slashin
 
 *Source: Impossible Magic p. 55*
 
-## Feikris, Rune of Gravity  *Runesmith Rune 9*
+## Feikris, Rune of Gravity
 
 `Arcane`  `Rune`  `Runesmith`
 
@@ -167,7 +166,7 @@ All creatures in a 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-ga
 
 *Source: Impossible Magic p. 59*
 
-## Fob-, Diacritic Rune of Doubling  *Runesmith Rune 5*
+## Fob-, Diacritic Rune of Doubling
 
 `Diacritic`  `Magical`  `Rune`  `Runesmith`
 
@@ -177,7 +176,7 @@ This diacritic consists of pairs of diamonds in opposite positions around the ba
 
 *Source: Impossible Magic p. 58*
 
-## Germantria, Rune of Partnership  *Runesmith Rune 9*
+## Germantria, Rune of Partnership
 
 `Magical`  `Rune`  `Runesmith`
 
@@ -193,7 +192,7 @@ When drawn, this knobby rune pulses with your own heartbeat, creating a vital co
 
 *Source: Impossible Magic p. 59*
 
-## Holtrik, Rune of Dwarven Ramparts  *Runesmith Rune 1*
+## Holtrik, Rune of Dwarven Ramparts
 
 `Magical`  `Rune`  `Runesmith`
 
@@ -206,7 +205,7 @@ You call the shield to its rightful place. You [[srd/pf2e/compendium/rules-eleme
 
 *Source: Impossible Magic p. 55*
 
-## Ichelsu, Rune of Observation  *Runesmith Rune 9*
+## Ichelsu, Rune of Observation
 
 `Occult`  `Rune`  `Runesmith`
 
@@ -219,7 +218,7 @@ The eyes of the rune fly outwards, attaching to all creatures in a 20-foot [[srd
 
 *Source: Impossible Magic p. 59*
 
-## Inth-, Diacritic Rune of Corruption  *Runesmith Rune 13*
+## Inth-, Diacritic Rune of Corruption
 
 `Diacritic`  `Divine`  `Rune`  `Runesmith`  `Unholy`
 
@@ -235,7 +234,7 @@ This set of angular accents around the base rune channels the essence of fiendis
 
 *Source: Impossible Magic p. 60*
 
-## Jurroz, Rune of Dragon Fury  *Runesmith Rune 9*
+## Jurroz, Rune of Dragon Fury
 
 `Magical`  `Rune`  `Runesmith`
 
@@ -248,7 +247,7 @@ As a free action, the rune-bearer can [[srd/pf2e/compendium/rules-elements/actio
 
 *Source: Impossible Magic p. 59*
 
-## Kit-, Diacritic Rune of Mercy  *Runesmith Rune 5*
+## Kit-, Diacritic Rune of Mercy
 
 `Diacritic`  `Magical`  `Rune`  `Runesmith`
 
@@ -258,7 +257,7 @@ This diacritic frames a rune with soft curves that mitigate its deadlier effects
 
 *Source: Impossible Magic p. 58*
 
-## Kojastri, Rune of Insulation  *Runesmith Rune 9*
+## Kojastri, Rune of Insulation
 
 `Arcane`  `Rune`  `Runesmith`
 
@@ -274,7 +273,7 @@ Any creature that has the armor's wearer engulfed, [[srd/pf2e/compendium/rules-e
 
 *Source: Impossible Magic p. 59*
 
-## Ledria, Rune of Appeal  *Runesmith Rune 1*
+## Ledria, Rune of Appeal
 
 `Occult`  `Rune`  `Runesmith`
 
@@ -292,7 +291,7 @@ The rune draws creatures closer to the bearer. Each creature within 30 feet of t
 
 *Source: Impossible Magic p. 55*
 
-## Lyskel, Rune of Frost  *Runesmith Rune 1*
+## Lyskel, Rune of Frost
 
 `Cold`  `Primal`  `Rune`  `Runesmith`
 
@@ -308,7 +307,7 @@ The rune-bearer takes 1d4 cold damage, with a [[srd/pf2e/books/player-core/chapt
 
 *Source: Impossible Magic p. 55*
 
-## Marssyl, Rune of Impact  *Runesmith Rune 1*
+## Marssyl, Rune of Impact
 
 `Magical`  `Rune`  `Runesmith`
 
@@ -321,7 +320,7 @@ The rune vibrates as power concentrates within it. The next successful [[srd/pf2
 
 *Source: Impossible Magic p. 56*
 
-## Nesh-, Diacritic Rune of Contingency  *Runesmith Rune 13*
+## Nesh-, Diacritic Rune of Contingency
 
 `Diacritic`  `Magical`  `Rune`  `Runesmith`
 
@@ -334,7 +333,7 @@ You can have only one _nesh-, diacritic rune of contingency_ applied at a given 
 
 *Source: Impossible Magic p. 60*
 
-## Ochygholl, The Poisoned Star  *Runesmith Rune 17*
+## Ochygholl, The Poisoned Star
 
 `Magical`  `Rune`  `Runesmith`
 
@@ -347,7 +346,7 @@ This awe-inspiring rune of pointed curves is rumored to have been part of the ma
 
 *Source: Impossible Magic p. 61*
 
-## Oljinex, Rune of Cowards' Bane  *Runesmith Rune 1*
+## Oljinex, Rune of Cowards' Bane
 
 `Arcane`  `Rune`  `Runesmith`
 
@@ -363,7 +362,7 @@ This rune resembles a broken arrow. The shield bearing the rune gains a +2 statu
 
 *Source: Impossible Magic p. 56*
 
-## Oraloq, Rune of Inarticulateness  *Runesmith Rune 9*
+## Oraloq, Rune of Inarticulateness
 
 `Magical`  `Mental`  `Rune`  `Runesmith`
 
@@ -379,7 +378,7 @@ The rune-bearer must attempt a Will save as the rune puts a strong mental block 
 
 *Source: Impossible Magic p. 59*
 
-## Per-, Diacritic Rune of Continuum  *Runesmith Rune 5*
+## Per-, Diacritic Rune of Continuum
 
 `Diacritic`  `Magical`  `Rune`  `Runesmith`
 
@@ -392,7 +391,7 @@ You can have only one copy of _per-, diacritic rune of continuum_ applied at a g
 
 *Source: Impossible Magic p. 58*
 
-## Piteregrin, Rune of Transposition  *Runesmith Rune 9*
+## Piteregrin, Rune of Transposition
 
 `Magical`  `Rune`  `Runesmith`
 
@@ -405,7 +404,7 @@ The slanted lines and odd curls of this rune give the impression that it is tryi
 
 *Source: Impossible Magic p. 60*
 
-## Pluuna, Rune of Illumination  *Runesmith Rune 1*
+## Pluuna, Rune of Illumination
 
 `Light`  `Magical`  `Rune`  `Runesmith`
 
@@ -418,7 +417,7 @@ Each creature in the light must succeed at a Fortitude save against your class D
 
 *Source: Impossible Magic p. 56*
 
-## Ranshu, Rune of Thunder  *Runesmith Rune 1*
+## Ranshu, Rune of Thunder
 
 `Electricity`  `Primal`  `Rune`  `Runesmith`
 
@@ -434,7 +433,7 @@ The preliminary streaks of lightning braid together into a powerful bolt. The ru
 
 *Source: Impossible Magic p. 57*
 
-## Rehgog, Rune of Bestial Might  *Runesmith Rune 1*
+## Rehgog, Rune of Bestial Might
 
 `Morph`  `Primal`  `Rune`  `Runesmith`
 
@@ -447,7 +446,7 @@ The rune-bearer's muscles bulge with the strength of a ferocious beast. The bear
 
 *Source: Impossible Magic p. 57*
 
-## Rovan, Seal of the Dead Vault  *Runesmith Rune 17*
+## Rovan, Seal of the Dead Vault
 
 `Divine`  `Earth`  `Rune`  `Runesmith`
 
@@ -468,7 +467,7 @@ This mighty, jagged rune is just one of several that keeps the Destroyer sealed 
 
 *Source: Impossible Magic p. 61*
 
-## Sar-, Diacritic Rune of Righteousness  *Runesmith Rune 13*
+## Sar-, Diacritic Rune of Righteousness
 
 `Diacritic`  `Divine`  `Holy`  `Rune`  `Runesmith`
 
@@ -481,7 +480,7 @@ When the base rune is invoked, it shines with holy light that harshly judges the
 
 *Source: Impossible Magic p. 61*
 
-## Sertum, Rune of Preparedness  *Runesmith Rune 1*
+## Sertum, Rune of Preparedness
 
 `Primal`  `Rune`  `Runesmith`
 
@@ -499,7 +498,7 @@ The rune reaches out to the surrounding terrain, shifting it to the rune-bearer'
 
 *Source: Impossible Magic p. 57*
 
-## Sun-, Diacritic Rune of Preservation  *Runesmith Rune 5*
+## Sun-, Diacritic Rune of Preservation
 
 `Diacritic`  `Magical`  `Rune`  `Runesmith`
 
@@ -512,7 +511,7 @@ You can have only one copy of _sun-, diacritic rune of preservation_ applied at 
 
 *Source: Impossible Magic p. 58*
 
-## Thullax, Rune of Corrosion  *Runesmith Rune 1*
+## Thullax, Rune of Corrosion
 
 `Acid`  `Arcane`  `Rune`  `Runesmith`
 
@@ -528,7 +527,7 @@ The bearer takes 1d6 acid damage with a [[srd/pf2e/books/player-core/chapter-8-p
 
 *Source: Impossible Magic p. 57*
 
-## Ti-, Diacritic Rune of Fundaments  *Runesmith Rune 5*
+## Ti-, Diacritic Rune of Fundaments
 
 `Diacritic`  `Magical`  `Rune`  `Runesmith`
 
@@ -538,7 +537,7 @@ This wavering diacritic encompasses the base rune to slightly change its meaning
 
 *Source: Impossible Magic p. 58*
 
-## Tilus, Rune of Vocabulary  *Runesmith Rune 1*
+## Tilus, Rune of Vocabulary
 
 `Arcane`  `Mental`  `Rune`  `Runesmith`
 
@@ -556,7 +555,7 @@ The rune-bearer's voice rings clear and true, allowing them to automatically suc
 
 *Source: Impossible Magic p. 57*
 
-## Trolistri, Rune of Forlorn Sorrow  *Runesmith Rune 9*
+## Trolistri, Rune of Forlorn Sorrow
 
 `Arcane`  `Emotion`  `Mental`  `Rune`  `Runesmith`
 
@@ -569,7 +568,7 @@ Sorrow blots out the capacity for any other action. Each enemy in a 15-foot [[sr
 
 *Source: Impossible Magic p. 60*
 
-## Ulgatus, Rune of Restraint  *Runesmith Rune 9*
+## Ulgatus, Rune of Restraint
 
 `Magical`  `Rune`  `Runesmith`
 
@@ -585,7 +584,7 @@ The rune causes the armor to grow around the creature wearing it, fortifying any
 
 *Source: Impossible Magic p. 60*
 
-## Ur-, Diacritic Rune of Intensity  *Runesmith Rune 5*
+## Ur-, Diacritic Rune of Intensity
 
 `Diacritic`  `Magical`  `Rune`  `Runesmith`
 
@@ -595,7 +594,7 @@ This diacritic accentuates the base rune with bolder lines to give greater weigh
 
 *Source: Impossible Magic p. 58*
 
-## Xinsala, The Well of Virtues  *Runesmith Rune 17*
+## Xinsala, The Well of Virtues
 
 `Magical`  `Rune`  `Runesmith`
 
@@ -608,7 +607,7 @@ This complex rune comprises many different ligatures from the ancient Thassiloni
 
 *Source: Impossible Magic p. 61*
 
-## Yudici, Rune of Remonstrance  *Runesmith Rune 9*
+## Yudici, Rune of Remonstrance
 
 `Aura`  `Divine`  `Magical`  `Rune`  `Runesmith`
 
@@ -624,7 +623,7 @@ The shield regains 40 Hit Points, and all of the bearer's allies in a 10-foot em
 
 *Source: Impossible Magic p. 60*
 
-## Zohk, Rune of Homecoming  *Runesmith Rune 1*
+## Zohk, Rune of Homecoming
 
 `Arcane`  `Rune`  `Runesmith`
 

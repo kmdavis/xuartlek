@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Skeleton Infantry"
 tags:
@@ -14,7 +13,6 @@ statblock: inline
 name: "Skeleton Infantry"
 level: 11
 source: "Monster Core 2"
-aon_id: "creature-4549"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4549"
 ---
 

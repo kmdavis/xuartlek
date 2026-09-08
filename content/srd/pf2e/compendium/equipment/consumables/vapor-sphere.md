@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/talisman
 - equipment/level/14
 aliases: ["Vapor Sphere"]
-aon_id: "equipment-5112"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5112"
 source: "Impossible Magic"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/scrying
 - spell/level/4
 aliases: ["Clairvoyance"]
-aon_id: "spell-1466"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1466"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Scrying`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Barbatos, Followers of Fate, Kaldemash, Ravithra, Shadow Cabinet
+- **Deities**: [[srd/pf2e/compendium/deities/archdevils/barbatos|Barbatos]], Followers of Fate, [[srd/pf2e/compendium/deities/other-gods/kaldemash|Kaldemash]], [[srd/pf2e/compendium/deities/vudrani-gods/ravithra|Ravithra]], [[srd/pf2e/compendium/deities/covenants/shadow-cabinet|Shadow Cabinet]]
 - **Cast**: 1 minute
 - **Range**: 500 feet
 - **Duration**: 10 minutes

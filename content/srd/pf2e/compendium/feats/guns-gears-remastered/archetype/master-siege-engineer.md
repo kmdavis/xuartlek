@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/archetype
 - feat/level/16
 aliases: ["Master Siege Engineer"]
-aon_id: "feat-3228"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3228"
 source: "Guns & Gears (Remastered)"
 ---
 

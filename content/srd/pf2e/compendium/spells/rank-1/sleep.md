@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/sleep
 - spell/level/1
 aliases: ["Sleep"]
-aon_id: "spell-1675"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1675"
 source: "Player Core"
 ---
 
@@ -19,9 +18,9 @@ source: "Player Core"
 `Concentrate`  `Incapacitation`  `Manipulate`  `Mental`  `Sleep`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Atropos, Bes, Charg, Desna, Kagia, Kitumu, Luhar, Radiant Prism, Rhan-Tegoth, Thremyr, Vavaalrav, Vudravati, Zugero
-- **Lesson**: Lesson of Dreams
-- **Patron Theme**: Paradox of Opposites
+- **Deities**: [[srd/pf2e/compendium/deities/monitor-demigods/atropos|Atropos]], Bes, [[srd/pf2e/compendium/deities/sakhil-tormentors/charg|Charg]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/desna|Desna]], [[srd/pf2e/compendium/deities/sarkorian-gods/kagia|Kagia]], Kitumu, Luhar, [[srd/pf2e/compendium/deities/pantheons/radiant-prism|Radiant Prism]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/rhan-tegoth|Rhan-Tegoth]], [[srd/pf2e/compendium/deities/giant-gods/thremyr|Thremyr]], [[srd/pf2e/compendium/deities/monitor-demigods/vavaalrav|Vavaalrav]], [[srd/pf2e/compendium/deities/other-gods/vudravati|Vudravati]], [[srd/pf2e/compendium/deities/goblin-gods/zugero|Zugero]]
+- **Lesson**: [[srd/pf2e/compendium/character/lessons#Lesson of Dreams|Lesson of Dreams]]
+- **Patron Theme**: [[srd/pf2e/compendium/character/patrons#Paradox of Opposites|Paradox of Opposites]]
 - **Range**: 30 feet
 - **Area**: 5-foot burst
 - **Defense**: Will

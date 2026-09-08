@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/rare
 - equipment/level/20
 aliases: ["Cloth of Nullification"]
-aon_id: "equipment-3416"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3416"
 source: "Player Core 2"
 ---
 
@@ -15,7 +14,7 @@ source: "Player Core 2"
 
 `Magical`  `Rare`
 
-- **Price**: 75,000 gp
+- **Price**: 75, 000 gp
 - **Usage**: held in 1 hand
 - **Bulk**: 1
 

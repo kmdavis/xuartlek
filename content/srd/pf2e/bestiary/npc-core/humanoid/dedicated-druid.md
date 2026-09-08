@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Dedicated Druid"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Dedicated Druid"
 level: 7
 source: "NPC Core"
-aon_id: "creature-3583"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3583"
 ---
 

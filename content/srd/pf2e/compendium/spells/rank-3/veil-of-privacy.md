@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - spell/level/3
 aliases: ["Veil of Privacy"]
-aon_id: "spell-1739"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1739"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Uncommon`
 
 - **Traditions**: Arcane, Occult, Primal
-- **Deities**: Lao Shu Po, Naderi, Nocticula, Winlas
+- **Deities**: Lao Shu Po, Naderi, [[srd/pf2e/compendium/deities/other-gods/nocticula|Nocticula]], Winlas
 - **Cast**: 10 minutes
 - **Range**: touch
 - **Target**: 1 creature or object

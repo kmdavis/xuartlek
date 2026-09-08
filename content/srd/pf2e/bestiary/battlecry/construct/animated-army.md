@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Animated Army"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Animated Army"
 level: 8
 source: "Battlecry!"
-aon_id: "creature-3899"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3899"
 ---
 

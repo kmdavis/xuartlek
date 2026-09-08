@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/rage-of-elements
 - trait/archetype
 - feat/level/4
 aliases: ["Elemental Familiar"]
-aon_id: "feat-4342"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4342"
 source: "Rage of Elements"
 ---
 

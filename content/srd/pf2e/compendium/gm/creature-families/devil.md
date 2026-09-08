@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core
 aliases: ["Devil"]
-aon_id: "creature-family-389"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=389"
 source: "Monster Core"
 ---
 
@@ -14,7 +13,7 @@ Masters of corruption and architects of conquest, devils seek both to tempt mort
 
  Every devil has a specific role to play in the upkeep of the remorseless bureaucratic machine that is Hell, from soldiers and scholars to inquisitors, lawyers, judges, and executioners. Lowly orts perform subservient labor to more powerful and specialized devils, such as infantry and contract devils, while the greatest nessaris command entire infernal armies.
 
- Asmodeus stands at the apex of the structure he created, but the layers below him are marked by a constant jockeying for position. Most diabolic plans ultimately serve to improve the schemer's place in the hierarchy. 
+ [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/asmodeus|Asmodeus]] stands at the apex of the structure he created, but the layers below him are marked by a constant jockeying for position. Most diabolic plans ultimately serve to improve the schemer's place in the hierarchy. 
 
 ### Members
 
@@ -22,15 +21,15 @@ Advodaza (Creature 18), Agadaz (Creature 4), [[srd/pf2e/bestiary/monster-core-2/
 
 ### Archdevils
 
-Eight archdevils rule the eight upper layers of Hell, while the deepest layer is ruled by Asmodeus. Barbatos is the doorwarden of Hell's uppermost layer, while Dispater rules Hell's largest city. Mammon guards Hell's treasuries, and Belial designs new weapons for Hell's legions. Geryon is the oldest archdevil and keeper of many secrets, while Moloch leads Hell's armies. Baalzebul is a brooding archdevil who has fallen from Asmodeus's favor, while Mephistopheles was formed from the plane of Hell itself
+Eight archdevils rule the eight upper layers of Hell, while the deepest layer is ruled by [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/asmodeus|Asmodeus]]. [[srd/pf2e/compendium/deities/archdevils/barbatos|Barbatos]] is the doorwarden of Hell's uppermost layer, while [[srd/pf2e/compendium/deities/archdevils/dispater|Dispater]] rules Hell's largest city. [[srd/pf2e/compendium/deities/archdevils/mammon|Mammon]] guards Hell's treasuries, and [[srd/pf2e/compendium/deities/archdevils/belial|Belial]] designs new weapons for Hell's legions. [[srd/pf2e/compendium/deities/archdevils/geryon|Geryon]] is the oldest archdevil and keeper of many secrets, while Moloch leads Hell's armies. [[srd/pf2e/compendium/deities/archdevils/baalzebul|Baalzebul]] is a brooding archdevil who has fallen from Asmodeus's favor, while [[srd/pf2e/compendium/deities/archdevils/mephistopheles|Mephistopheles]] was formed from the plane of Hell itself
 
 ### Diabolic Divinities
 
-Numerous unique and powerful devils hold positions of power in Hell. The most numerous of these are the infernal dukes, many of whom were promoted to this position from already impressive statures as nessaris. The supreme ruler of Hell itself is Asmodeus, the Prince of Darkness. Between these two tiers rule the eight archdevils.
+Numerous unique and powerful devils hold positions of power in Hell. The most numerous of these are the infernal dukes, many of whom were promoted to this position from already impressive statures as nessaris. The supreme ruler of Hell itself is [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/asmodeus|Asmodeus]], the Prince of Darkness. Between these two tiers rule the eight archdevils.
 
 ### Diabolic Locations
 
-The nine layers of [[srd/pf2e/compendium/gm/planes#Hell|Hell]] are the planar home of all devils, and they much prefer its tyrannically ordered environs to anywhere else in the multiverse. Yet devils can be encountered anywhere mortals can be tempted by infernal bargains or to seek diabolic aid. On Golarion, the nation of Cheliax is particularly aligned with Hell. Its government is based upon Hell's organization, and the state church is that of Asmodeus.
+The nine layers of [[srd/pf2e/compendium/gm/planes#Hell|Hell]] are the planar home of all devils, and they much prefer its tyrannically ordered environs to anywhere else in the multiverse. Yet devils can be encountered anywhere mortals can be tempted by infernal bargains or to seek diabolic aid. On Golarion, the nation of Cheliax is particularly aligned with Hell. Its government is based upon Hell's organization, and the state church is that of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/asmodeus|Asmodeus]].
 
 ### Fiendish Relations
 

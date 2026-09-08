@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/player-core-2
@@ -8,7 +7,7 @@ tags:
 - trait/invested
 - equipment/level/13
 aliases: ["Holy Chain"]
-aon_id: "equipment-3273"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3273"
 source: "Player Core 2"
 ---
 
@@ -16,12 +15,12 @@ source: "Player Core 2"
 
 `Divine`  `Holy`  `Invested`
 
-- **Price**: 2,500 gp
+- **Price**: 2, 500 gp
 - **Usage**: worn armor
 - **Bulk**: 1
 - **Base Armor**: [[srd/pf2e/compendium/equipment/armor#Chain Mail|Chain Mail]]
 
-This suit of _+2 [[srd/pf2e/compendium/equipment/runes/resilient-major|resilient]] [[srd/pf2e/compendium/equipment/armor#Chain Mail|chain mail]]_ is made of fine white links of a strange and slightly translucent pale metal, and the sleeves and skirt are fashioned into smaller trails that resemble feathers. Unlike normal chain mail, holy chain has no Speed reduction, its armor check penalty is 0, and its Bulk is 1. 
+This suit of _+2 [[srd/pf2e/compendium/equipment/runes/resilient|resilient]] [[srd/pf2e/compendium/equipment/armor#Chain Mail|chain mail]]_ is made of fine white links of a strange and slightly translucent pale metal, and the sleeves and skirt are fashioned into smaller trails that resemble feathers. Unlike normal chain mail, holy chain has no Speed reduction, its armor check penalty is 0, and its Bulk is 1. 
 You gain a +1 circumstance bonus to AC and saving throws against fiends. You appear radiant while you wear the armor, giving you a +2 item bonus to Diplomacy checks against all creatures except fiends. 
 If you're [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]], you're [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] 2 while wearing holy chain. You can't recover from this condition while wearing the armor. 
 

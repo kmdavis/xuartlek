@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/witch
 - spell/level/1
 aliases: ["Wilding Word"]
-aon_id: "spell-1893"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1893"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 
 `Cantrip`  `Hex`  `Mental`  `Uncommon`  `Witch`
 
-- **Patron Theme**: Wilding Steward
+- **Patron Theme**: [[srd/pf2e/compendium/character/patrons#Wilding Steward|Wilding Steward]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will

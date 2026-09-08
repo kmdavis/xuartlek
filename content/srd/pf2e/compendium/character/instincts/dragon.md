@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-instinct
 tags:
 - compendium/src/pf2e/player-core-2
 aliases: ["Dragon"]
-aon_id: "instinct-9"
+aon_url: "https://2e.aonprd.com/Instincts.aspx?ID=9"
 source: "Player Core 2"
 ---
 

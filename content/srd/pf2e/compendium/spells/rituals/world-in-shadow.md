@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - ritual/level/5
 aliases: ["World In Shadow"]
-aon_id: "ritual-200"
+aon_url: "https://2e.aonprd.com/MythicRituals.aspx?ID=200"
 source: "War of Immortals"
 ---
 

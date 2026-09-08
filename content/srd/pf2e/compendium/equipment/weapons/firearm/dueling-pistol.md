@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
-- compendium/src/pf2e/guns-gears-remastered
+- compendium/src/pf2e/npc-core
 - trait/concealable
 - trait/concussive
 - trait/fatal
 - trait/uncommon
 - weapon/level/1
 aliases: ["Dueling Pistol"]
-aon_id: "weapon-201"
-source: "Guns & Gears (Remastered)"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=520"
+source: "NPC Core"
 ---
 
 # Dueling Pistol  *Weapon 1*
@@ -18,8 +17,6 @@ source: "Guns & Gears (Remastered)"
 `Concealable`  `Concussive`  `Fatal`  `Uncommon`
 
 - **PFS Note**: All Pathfinder Society agents have access to all uncommon weapons, ammunition, and related items from Chapter 4
-- **Favored Weapon**: Kaldemash, Ussharassim
-- **Access**: The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 - **Price**: 12 gp
 - **Damage**: 1d6 P
 - **Bulk**: L
@@ -31,7 +28,7 @@ source: "Guns & Gears (Remastered)"
 - **Group**: Firearm
 - **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/firearm/firearm-ammunition-10-rounds|Firearm Ammunition (10 rounds)]]
 
-Made for settling disputes when diplomacy fails, dueling pistols are finely crafted and made to fit easily into a holster or pocket. Noble and wealthy merchants in both Alkenstar and Dongun Hold often own matching pairs of dueling pistols in case they're called upon to address a challenge—though this practice has become increasingly rare in the modern age.
+Made for settling disputes when diplomacy fails, dueling pistols are finely crafted and made to fit easily into a holster or pocket.
 
 ### Critical Specialization Effects
 
@@ -39,6 +36,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/artifacts/coldstar-pistols|Coldstar Pistols]], Redeemer's Pistol, [[srd/pf2e/compendium/equipment/weapons/tigers-claw|Tiger's Claw]]
+Pact-Bound Pistol, Tiger's Claw
 
-*Source: Guns & Gears (Remastered) p. 152*
+*Source: NPC Core p. 50*

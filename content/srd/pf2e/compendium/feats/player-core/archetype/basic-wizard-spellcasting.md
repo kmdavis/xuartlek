@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/archetype
 - feat/level/4
 aliases: ["Basic Wizard Spellcasting"]
-aon_id: "feat-5109"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5109"
 source: "Player Core"
 ---
 
@@ -14,7 +13,7 @@ source: "Player Core"
 
 `Archetype`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/wizard|Wizard]], [[srd/pf2e/compendium/character/archetypes/spellshot|Spellshot]] (Level 4), [[srd/pf2e/compendium/character/archetypes/spellshot|Spellshot]] (Level 4)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/wizard|Wizard]], [[srd/pf2e/compendium/character/archetypes/spellshot|Spellshot]] (Level 4)
 - **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/wizard-dedication|Wizard Dedication]]
 
 You gain the basic [[srd/pf2e/books/player-core/chapter-3-classes/archetypes#Spellcasting Archetypes|spellcasting benefits]]. Each time you gain a spell slot of a new rank from the wizard archetype, add two common spells of that rank to your spellbook.

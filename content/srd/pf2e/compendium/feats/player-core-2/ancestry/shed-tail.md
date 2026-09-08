@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/lizardfolk
 - feat/level/5
 aliases: ["Shed Tail"]
-aon_id: "feat-5641"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5641"
 source: "Player Core 2"
 ---
 

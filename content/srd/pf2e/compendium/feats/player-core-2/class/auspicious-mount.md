@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/champion
 - feat/level/16
 aliases: ["Auspicious Mount"]
-aon_id: "feat-5923"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5923"
 source: "Player Core 2"
 ---
 

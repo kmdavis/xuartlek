@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/mental
 - spell/level/6
 aliases: ["Zealous Conviction"]
-aon_id: "spell-1760"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1760"
 source: "Player Core"
 ---
 

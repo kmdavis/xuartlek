@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "City Guard Squadron"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "City Guard Squadron"
 level: 5
 source: "NPC Core"
-aon_id: "creature-3558"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3558"
 ---
 

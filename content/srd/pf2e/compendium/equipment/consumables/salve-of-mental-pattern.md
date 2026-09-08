@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/oil
 - equipment/level/8
 aliases: ["Salve Of Mental Pattern"]
-aon_id: "equipment-5093"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5093"
 source: "Impossible Magic"
 ---
 

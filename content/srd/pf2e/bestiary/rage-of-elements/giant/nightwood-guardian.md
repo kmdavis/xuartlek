@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Nightwood Guardian"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Nightwood Guardian"
 level: 9
 source: "Rage of Elements"
-aon_id: "creature-2685"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2685"
 ---
 

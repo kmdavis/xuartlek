@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/visual
 - spell/level/3
 aliases: ["Hypnotize"]
-aon_id: "spell-1564"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1564"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Illusion`  `Manipulate`  `Subtle`  `Visual`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Charg, Lalaci, Mugura and Nrithu, The Pandemonia
+- **Deities**: [[srd/pf2e/compendium/deities/sakhil-tormentors/charg|Charg]], [[srd/pf2e/compendium/deities/empyreal-lords/lalaci|Lalaci]], Mugura and Nrithu, [[srd/pf2e/compendium/deities/covenants/the-pandemonia|The Pandemonia]]
 - **Range**: 120 feet
 - **Area**: 10-foot burst
 - **Defense**: Will

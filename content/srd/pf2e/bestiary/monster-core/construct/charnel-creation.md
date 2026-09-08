@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Charnel Creation"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Charnel Creation"
 level: 8
 source: "Monster Core"
-aon_id: "creature-2878"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2878"
 ---
 

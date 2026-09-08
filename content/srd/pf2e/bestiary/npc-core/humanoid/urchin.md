@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Urchin"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Urchin"
 level: -1
 source: "NPC Core"
-aon_id: "creature-3453"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3453"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -12,7 +11,7 @@ tags:
 - trait/witch
 - spell/level/5
 aliases: ["Over the Coals"]
-aon_id: "spell-2599"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2599"
 source: "Dark Archives (Remastered)"
 ---
 
@@ -20,7 +19,7 @@ source: "Dark Archives (Remastered)"
 
 `Concentrate`  `Focus`  `Hex`  `Manipulate`  `Mental`  `Uncommon`  `Witch`
 
-- **Lesson**: Lesson of Bargains
+- **Lesson**: [[srd/pf2e/compendium/character/lessons#Lesson of Bargains|Lesson of Bargains]]
 - **Range**: 120 feet
 - **Target**: 1 creature
 - **Defense**: Will

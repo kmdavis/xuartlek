@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -9,7 +8,7 @@ tags:
 - trait/visual
 - feat/level/8
 aliases: ["Share Rage"]
-aon_id: "feat-5843"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5843"
 source: "Player Core 2"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -10,7 +9,7 @@ tags:
 - trait/wand
 - equipment/level/8
 aliases: ["Wand of Dazzling Rays"]
-aon_id: "equipment-2277"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2277"
 source: "Treasure Vault (Remastered)"
 ---
 

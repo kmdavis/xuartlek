@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -10,7 +9,7 @@ tags:
 - trait/uncommon
 - equipment/level/14
 aliases: ["Aeon Stone (Olivine Pendeloque)"]
-aon_id: "equipment-407-2345"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=407"
 source: "Rage of Elements"
 ---
 

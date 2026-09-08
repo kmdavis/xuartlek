@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
 - trait/archetype
 - feat/level/4
 aliases: ["Spiritual Awakening"]
-aon_id: "feat-7221"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7221"
 source: "War of Immortals"
 ---
 

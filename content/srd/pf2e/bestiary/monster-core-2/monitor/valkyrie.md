@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Valkyrie"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Valkyrie"
 level: 12
 source: "Monster Core 2"
-aon_id: "creature-4017"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4017"
 ---
 
@@ -40,7 +38,7 @@ abilities_top:
   - name: "Ravenspeaker"
     desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]]) Valkyries use ravens as servants and spies. They can speak with [[srd/pf2e/compendium/gm/creature-families/raven|ravens]], and they can have up to three raven servitors who follow their commands. Valkyries can constantly observe whatever their commanded ravens sense."
   - name: "Items"
-    desc: "_[[srd/pf2e/compendium/equipment/armor/magic-armor-3-major-resilient|+1 resilient]] [[srd/pf2e/compendium/equipment/armor#Breastplate|breastplate]]_, _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 striking]] [[srd/pf2e/compendium/equipment/runes/returning|returning]] [[srd/pf2e/compendium/equipment/weapons/spear/spear|spear]]_"
+    desc: "_[[srd/pf2e/compendium/equipment/armor/magic-armor|+1 resilient]] [[srd/pf2e/compendium/equipment/armor#Breastplate|breastplate]]_, _[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 striking]] [[srd/pf2e/compendium/equipment/runes/returning|returning]] [[srd/pf2e/compendium/equipment/weapons/spear/spear|spear]]_"
 ac: 33
 armorclass:
   - name: "AC"

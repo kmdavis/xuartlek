@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/witch
 - spell/level/1
 aliases: ["Blood Ward"]
-aon_id: "spell-1874"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1874"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 
 `Focus`  `Hex`  `Manipulate`  `Uncommon`  `Witch`
 
-- **Lesson**: Lesson of Protection
+- **Lesson**: [[srd/pf2e/compendium/character/lessons#Lesson of Protection|Lesson of Protection]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Duration**: sustained up to 1 minute

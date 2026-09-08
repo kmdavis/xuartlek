@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -10,7 +9,7 @@ tags:
 - trait/uncommon
 - spell/level/1
 aliases: ["Elemental Toss"]
-aon_id: "spell-2105"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2105"
 source: "Player Core 2"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core 2"
 
 `Attack`  `Focus`  `Manipulate`  `Sorcerer`  `Uncommon`
 
-- **Bloodline**: Elemental
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Elemental|Elemental]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: AC

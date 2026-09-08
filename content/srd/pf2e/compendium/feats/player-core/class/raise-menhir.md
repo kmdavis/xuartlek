@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/druid
 - feat/level/8
 aliases: ["Raise Menhir"]
-aon_id: "feat-4738"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4738"
 source: "Player Core"
 ---
 

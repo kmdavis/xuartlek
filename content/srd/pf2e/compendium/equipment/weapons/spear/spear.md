@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/thrown
 - weapon/level/0
 aliases: ["Spear"]
-aon_id: "weapon-365"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=365"
 source: "Player Core"
 ---
 
@@ -15,7 +14,7 @@ source: "Player Core"
 
 `Monk`  `Thrown`
 
-- **Favored Weapon**: Acavna, Angazhan, Arqueros, Baalzebul, Chamidu, Cihua Coatl, Garhaazh, Ghlaunder, Lorris, Lysianassa, Mammon, Orgesh, Ra, Set, Thalaphyrr, Tjasse, Tsukiyo, Venkelvore, Walkena, Xhamen-Dor, Zipacna
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/azlanti-pantheon/acavna|Acavna]], Angazhan, Arqueros, [[srd/pf2e/compendium/deities/archdevils/baalzebul|Baalzebul]], [[srd/pf2e/compendium/deities/vudrani-gods/chamidu|Chamidu]], [[srd/pf2e/compendium/deities/coatl-tribunal/cihua-coatl|Cihua Coatl]], Garhaazh, [[srd/pf2e/compendium/deities/other-gods/ghlaunder|Ghlaunder]], [[srd/pf2e/compendium/deities/empyreal-lords/lorris|Lorris]], [[srd/pf2e/compendium/deities/elemental-lords/lysianassa|Lysianassa]], [[srd/pf2e/compendium/deities/archdevils/mammon|Mammon]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/orgesh|Orgesh]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/ra|Ra]], Set, Thalaphyrr, [[srd/pf2e/compendium/deities/giant-gods/tjasse|Tjasse]], [[srd/pf2e/compendium/deities/tian-gods/tsukiyo|Tsukiyo]], [[srd/pf2e/compendium/deities/goblin-gods/venkelvore|Venkelvore]], Walkena, [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/xhamen-dor|Xhamen-Dor]], Zipacna
 - **Price**: 1 sp
 - **Damage**: 1d6 P
 - **Bulk**: 1

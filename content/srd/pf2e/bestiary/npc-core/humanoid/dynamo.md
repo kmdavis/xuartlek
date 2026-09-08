@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Dynamo"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Dynamo"
 level: 8
 source: "NPC Core"
-aon_id: "creature-3464"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3464"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [6, 3, 2, 3, 2, 0]
 abilities_top:
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit-sterling|Artisan's Toolkit]] (blacksmithing), _+1 [[srd/pf2e/compendium/equipment/weapons/firearm/dragon-mouth-pistol|dragon mouth pistol]]_ (10 rounds), [[srd/pf2e/compendium/equipment/adventuring-gear/repair-toolkit-superb|Repair Toolkit]], steel plating (functions as [[srd/pf2e/compendium/equipment/armor#Half Plate|half plate]])"
+    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit|Artisan's Toolkit]] (blacksmithing), _+1 [[srd/pf2e/compendium/equipment/weapons/firearm/dragon-mouth-pistol|dragon mouth pistol]]_ (10 rounds), [[srd/pf2e/compendium/equipment/adventuring-gear/repair-toolkit|Repair Toolkit]], steel plating (functions as [[srd/pf2e/compendium/equipment/armor#Half Plate|half plate]])"
 ac: 26
 armorclass:
   - name: "AC"

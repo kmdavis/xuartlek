@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Maftet Guardian"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Maftet Guardian"
 level: 6
 source: "Monster Core 2"
-aon_id: "creature-4470"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4470"
 ---
 
@@ -62,7 +60,7 @@ abilities_bot:
   - name: "Effect"
     desc: "The maftet makes two Strikes against the same target, one with each of their scimitars. The maftet combines the damage of any attacks that hit and applies resistances and weaknesses only once. This counts as one attack when calculating the maftet's multiple attack penalty."
   - name: "Powerful Scimitars"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|Arcane]]) Any non-magical scimitar becomes a _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/sword/scimitar|scimitar]]_ while a maftet wields it."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|Arcane]]) Any non-magical scimitar becomes a _[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/sword/scimitar|scimitar]]_ while a maftet wields it."
   - name: "Raptor Dive"
     desc: "⬽"
   - name: "Requirements"

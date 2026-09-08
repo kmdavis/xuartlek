@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - equipment/level/1
 aliases: ["Bristling Spines"]
-aon_id: "equipment-3179"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3179"
 source: "Howl of the Wild"
 ---
 

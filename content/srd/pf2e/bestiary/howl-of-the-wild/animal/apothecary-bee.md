@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Apothecary Bee"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Apothecary Bee"
 level: 7
 source: "Howl of the Wild"
-aon_id: "creature-3254"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3254"
 ---
 
@@ -33,11 +31,11 @@ skills:
 abilityMods: [1, 6, 3, -4, 2, 2]
 abilities_top:
   - name: "Internal Cauldron"
-    desc: "With an appropriate diet, an apothecary bee will create a potion of 6th level or lower every two weeks. Most often, this is a [[srd/pf2e/compendium/equipment/consumables/healing-potion-major|_moderate healing potion_]]. Each apothecary bee can store only one completed potion at a time. Unused potions can generally be harvested from an apothecary bee with a successful DC 23 [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] or [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] check."
+    desc: "With an appropriate diet, an apothecary bee will create a potion of 6th level or lower every two weeks. Most often, this is a [[srd/pf2e/compendium/equipment/consumables/healing-potion|_moderate healing potion_]]. Each apothecary bee can store only one completed potion at a time. Unused potions can generally be harvested from an apothecary bee with a successful DC 23 [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] or [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] check."
   - name: "Potionsight"
     desc: "Apothecary bees' complex eyes let them see the auras of magical [[srd/pf2e/compendium/rules-elements/traits/player-core/potion|potions]] and instinctively identify potions of their level or lower. These auras are visible through mundane containers, though their eyes have no special ability to perceive or identify non-magical solutions, such as alchemical [[srd/pf2e/compendium/rules-elements/traits/player-core/elixir|elixirs]]."
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/consumables/healing-potion-major|_moderate healing potion_]]"
+    desc: "[[srd/pf2e/compendium/equipment/consumables/healing-potion|_moderate healing potion_]]"
 ac: 25
 armorclass:
   - name: "AC"

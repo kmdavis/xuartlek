@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -7,7 +6,7 @@ tags:
 - trait/rare
 - equipment/level/16
 aliases: ["Cipher of the Elemental Planes"]
-aon_id: "equipment-2652"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2652"
 source: "Rage of Elements"
 ---
 
@@ -15,7 +14,7 @@ source: "Rage of Elements"
 
 `Magical`  `Rare`
 
-- **Price**: 9,000 gp
+- **Price**: 9, 000 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
 

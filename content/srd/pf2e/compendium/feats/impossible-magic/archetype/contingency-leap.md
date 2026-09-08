@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -9,7 +8,7 @@ tags:
 - trait/teleportation
 - feat/level/4
 aliases: ["Contingency Leap"]
-aon_id: "feat-9364"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9364"
 source: "Impossible Magic"
 ---
 

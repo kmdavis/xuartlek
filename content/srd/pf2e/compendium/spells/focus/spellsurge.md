@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -10,7 +9,7 @@ tags:
 - trait/focus
 - spell/level/6
 aliases: ["Spellsurge"]
-aon_id: "spell-2150"
+aon_url: "https://2e.aonprd.com/MythicSpells.aspx?ID=2150"
 source: "War of Immortals"
 ---
 

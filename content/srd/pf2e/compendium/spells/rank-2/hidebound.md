@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/2
 aliases: ["Hidebound"]
-aon_id: "spell-1954"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1954"
 source: "Howl of the Wild"
 ---
 
@@ -22,7 +21,7 @@ source: "Howl of the Wild"
 - **Target**: 1 creature
 - **Duration**: 1 round
 
-The target's skin erupts in thick hide or dense scales. It gains resistance 5 to physical damage, except [[srd/pf2e/compendium/equipment/materials/adamantine-object-high-grade|adamantine]], until the beginning of its next turn.
+The target's skin erupts in thick hide or dense scales. It gains resistance 5 to physical damage, except [[srd/pf2e/compendium/equipment/materials/adamantine|adamantine]], until the beginning of its next turn.
 
 ---
 **Heightened (+2)** The resistance increases by 3.

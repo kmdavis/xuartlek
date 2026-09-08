@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/battlecry
 - trait/uncommon
 - vehicle/level/10
 aliases: ["Nighthawk"]
-aon_id: "vehicle-94"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=94"
 source: "Battlecry!"
 ---
 
@@ -14,7 +13,7 @@ source: "Battlecry!"
 
 `Uncommon`
 
-- **Price**: 3,000 gp
+- **Price**: 3, 000 gp
 
 These matte-black gliders seem to disappear into the night. Designed to stealthily cross over enemy lines, nighthawks can carry a small squad of combatants behind enemy troops to infiltrate command positions or readily attack the enemy’s flank. Nighthawks must be launched from a high altitude, similar to other gliders. They can be quickly broken down and hidden in 10 minutes after landing. Reconstructing a nighthawk takes an hour and a successful [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] check (DC 27).
 

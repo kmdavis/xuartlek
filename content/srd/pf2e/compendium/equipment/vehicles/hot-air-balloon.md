@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/gm-core
 - trait/uncommon
 - vehicle/level/2
 aliases: ["Hot Air Balloon"]
-aon_id: "vehicle-59"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=59"
 source: "GM Core"
 ---
 

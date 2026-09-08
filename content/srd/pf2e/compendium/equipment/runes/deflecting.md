@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/magical
 - equipment/level/6
 aliases: ["Deflecting"]
-aon_id: "equipment-4988"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4988"
 source: "Impossible Magic"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Graveknight"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Graveknight"
 level: 10
 source: "Monster Core"
-aon_id: "creature-3030"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3030"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [7, 4, 4, 2, 3, 5]
 abilities_top:
   - name: "Items"
-    desc: "Composite Longbow (20 arrows), _+1 [[srd/pf2e/compendium/equipment/runes/resilient-major|resilient]] [[srd/pf2e/compendium/equipment/armor#Full Plate|full plate]]_, Greatsword"
+    desc: "Composite Longbow (20 arrows), _+1 [[srd/pf2e/compendium/equipment/runes/resilient|resilient]] [[srd/pf2e/compendium/equipment/armor#Full Plate|full plate]]_, Greatsword"
 ac: 31
 armorclass:
   - name: "AC"

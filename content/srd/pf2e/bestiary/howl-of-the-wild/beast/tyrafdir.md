@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Tyrafdir"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Tyrafdir"
 level: 11
 source: "Howl of the Wild"
-aon_id: "creature-3294"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3294"
 ---
 
@@ -42,7 +40,7 @@ armorclass:
 hp: 190
 health:
   - name: "HP"
-    desc: "30 (head), deceptive regrowth; __Immunities__ area damage; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 10"
+    desc: "30 (head), deceptive regrowth; __Immunities__ area damage; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 10"
 abilities_mid:
   - name: "Weakness"
     desc: "cold iron 10, slashing 10"

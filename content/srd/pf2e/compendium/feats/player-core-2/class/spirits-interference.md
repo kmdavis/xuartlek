@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -8,7 +7,7 @@ tags:
 - trait/rage
 - feat/level/6
 aliases: ["Spirits' Interference"]
-aon_id: "feat-5834"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5834"
 source: "Player Core 2"
 ---
 
@@ -16,7 +15,7 @@ source: "Player Core 2"
 
 `Barbarian`  `Divine`  `Rage`
 
-- **Prerequisites**: spirit instinct
+- **Prerequisites**: [[srd/pf2e/compendium/character/instincts/spirit|spirit instinct]]
 
 You call forth protective spirits to ward off ranged attacks. Until your rage ends, anyone making a ranged attack against you must succeed at a DC 5 flat check or the attack misses with no effect.
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Zephyr Hawk"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Zephyr Hawk"
 level: 3
 source: "Monster Core"
-aon_id: "creature-2973"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2973"
 ---
 

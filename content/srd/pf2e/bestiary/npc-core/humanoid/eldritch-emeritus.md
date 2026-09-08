@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Eldritch Emeritus"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Eldritch Emeritus"
 level: 17
 source: "NPC Core"
-aon_id: "creature-3596"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3596"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [4, 4, 4, 8, 1, -1]
 abilities_top:
   - name: "Items"
-    desc: "somewhat disheveled [[srd/pf2e/compendium/equipment/worn-items/accolade-robe-greater|_accolade robe_]], [[srd/pf2e/compendium/equipment/adventuring-gear/spellbook-blank|spellbook]], _+2 [[srd/pf2e/compendium/equipment/runes/striking-major|greater striking]] [[srd/pf2e/compendium/equipment/staves/staff-of-fire-major|major staff of fire]]_"
+    desc: "somewhat disheveled [[srd/pf2e/compendium/equipment/worn-items/accolade-robe|_accolade robe_]], [[srd/pf2e/compendium/equipment/adventuring-gear/spellbook-blank|spellbook]], _+2 [[srd/pf2e/compendium/equipment/runes/striking|greater striking]] [[srd/pf2e/compendium/equipment/staves/staff-of-fire|major staff of fire]]_"
 ac: 39
 armorclass:
   - name: "AC"

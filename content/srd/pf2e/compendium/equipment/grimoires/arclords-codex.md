@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/rare
 - equipment/level/19
 aliases: ["Arclord's Codex"]
-aon_id: "equipment-5119"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5119"
 source: "Impossible Magic"
 ---
 
@@ -16,7 +15,7 @@ source: "Impossible Magic"
 
 `Grimoire`  `Magical`  `Rare`
 
-- **Price**: 38,000 gp
+- **Price**: 38, 000 gp
 - **Bulk**: L
 
 The techniques bound in the spellbooks of the Arclords of Nex are jealously guarded secrets, and an Arclord gives up their grimoire only under the direst of circumstances. These grimoires vary in appearance based on their owner’s taste, but all display the Arclords’ symbol of an eye within a triangle on the cover. Possession of an _Arclord’s codex_ signifies mastery of powerful magic, and anyone who steals such a tome is sure to find themself hunted across the world—or [[srd/pf2e/books/gm-core/chapter-2-building-games/building-worlds#The Multiverse|the multiverse]], if necessary—by its owner. 

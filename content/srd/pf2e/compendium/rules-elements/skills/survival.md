@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-skill
 tags:
 - compendium/src/pf2e/player-core
 aliases: ["Survival"]
-aon_id: "skill-49"
+aon_url: "https://2e.aonprd.com/Skills.aspx?ID=49"
 source: "Player Core"
 ---
 
@@ -25,7 +24,7 @@ Category
 Consumable
 Note
 
-[[srd/pf2e/compendium/equipment/staves/staff-of-providence-true|Staff of Providence]]
+[[srd/pf2e/compendium/equipment/staves/staff-of-providence|Staff of Providence]]
 +1
 0
 Staves
@@ -60,7 +59,7 @@ Other Worn Items
 No
 Item bonus to Survival checks to Subsist. +3 if in mountainous terrain
 
-[[srd/pf2e/compendium/equipment/worn-items/trackers-goggles-greater|Tracker's Goggles]]
+[[srd/pf2e/compendium/equipment/worn-items/trackers-goggles|Tracker's Goggles]]
 +1
 3
 Worn Items
@@ -116,7 +115,7 @@ Other Worn Items
 No
 item bonus to Survival checks
 
-[[srd/pf2e/compendium/equipment/worn-items/trackers-goggles-greater|Tracker's Goggles (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/trackers-goggles|Tracker's Goggles (Greater)]]
 +2
 9
 Worn Items
@@ -130,7 +129,7 @@ Held Items
 No
 item bonus to sense direction when using the stars to orient themself
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal]]
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal]]
 +2
 11
 Worn Items
@@ -151,7 +150,7 @@ Worn Items
 No
 Item bonus to Survival checks.
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal (Greater)]]
 +3
 18
 Worn Items

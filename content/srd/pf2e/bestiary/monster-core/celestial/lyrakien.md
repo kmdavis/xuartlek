@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Lyrakien"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Lyrakien"
 level: 1
 source: "Monster Core"
-aon_id: "creature-2840"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2840"
 ---
 

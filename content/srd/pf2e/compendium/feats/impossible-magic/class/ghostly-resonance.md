@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/runesmith
 - feat/level/4
 aliases: ["Ghostly Resonance"]
-aon_id: "feat-9182"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9182"
 source: "Impossible Magic"
 ---
 

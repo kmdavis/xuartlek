@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Halfling Smuggler"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Halfling Smuggler"
 level: 6
 source: "NPC Core"
-aon_id: "creature-3646"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3646"
 ---
 
@@ -40,7 +38,7 @@ abilities_top:
   - name: "Keen Eyes"
     desc: "The halfling gains a +2 circumstance bonus when using the [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]] action to find [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] or [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]] creatures within 30 feet of them. Whenever the halfling targets a creature that is [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] or hidden from them, reduce the DC of the flat check to 3 for a concealed target or 9 for a hidden one."
   - name: "Items"
-    desc: "Arsenic, Disguise Kit, lesser elixir of life, _+1 [[srd/pf2e/compendium/equipment/weapons/spear/filchers-fork|filcher's fork]]_, [[srd/pf2e/compendium/equipment/adventuring-gear/clothing-desert|fine clothes]], Leather Armor, Sling, [[srd/pf2e/compendium/equipment/alchemical-items/smoke-ball-greater|lesser smoke ball]], [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit-infiltrator-picks|Thieves' Toolkit]]"
+    desc: "Arsenic, Disguise Kit, lesser elixir of life, _+1 [[srd/pf2e/compendium/equipment/weapons/spear/filchers-fork|filcher's fork]]_, [[srd/pf2e/compendium/equipment/adventuring-gear/clothing|fine clothes]], Leather Armor, Sling, [[srd/pf2e/compendium/equipment/alchemical-items/smoke-ball|lesser smoke ball]], [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit|Thieves' Toolkit]]"
 ac: 23
 armorclass:
   - name: "AC"
@@ -71,7 +69,7 @@ abilities_bot:
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
-    desc: "The smuggler Interacts to draw an item of light Bulk concealed in one of their hidden pockets. The pockets can store up to four objects of light Bulk. For most smugglers, these items are [[srd/pf2e/compendium/equipment/alchemical-items/arsenic-equipment-3322|arsenic]], a [[srd/pf2e/compendium/equipment/alchemical-items/elixir-of-life-true|lesser elixir of life]], a [[srd/pf2e/compendium/equipment/alchemical-items/smoke-ball-greater|lesser smoke ball]], and a [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit-infiltrator-picks|thieves' toolkit]]. The smuggler can refill the pockets over the course of 1 minute."
+    desc: "The smuggler Interacts to draw an item of light Bulk concealed in one of their hidden pockets. The pockets can store up to four objects of light Bulk. For most smugglers, these items are [[srd/pf2e/compendium/equipment/alchemical-items/arsenic|arsenic]], a [[srd/pf2e/compendium/equipment/alchemical-items/elixir-of-life|lesser elixir of life]], a [[srd/pf2e/compendium/equipment/alchemical-items/smoke-ball|lesser smoke ball]], and a [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit|thieves' toolkit]]. The smuggler can refill the pockets over the course of 1 minute."
   - name: "Sneak Attack"
     desc: "The smuggler deals an extra 2d6 precision damage to [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creatures."
 sourcebook: "_NPC Core_, page 191."

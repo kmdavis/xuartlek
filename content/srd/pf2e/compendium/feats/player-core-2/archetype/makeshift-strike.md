@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/archetype
 - feat/level/8
 aliases: ["Makeshift Strike"]
-aon_id: "feat-6444"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6444"
 source: "Player Core 2"
 ---
 

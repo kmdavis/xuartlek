@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -14,7 +13,7 @@ tags:
 - trait/positive
 - spell/level/6
 aliases: ["Life-Giving Form"]
-aon_id: "spell-2083"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2083"
 source: "Player Core 2"
 ---
 
@@ -22,7 +21,7 @@ source: "Player Core 2"
 
 `Concentrate`  `Focus`  `Healing`  `Light`  `Manipulate`  `Oracle`  `Uncommon`  `Vitality`  `Positive`
 
-- **Mystery**: Life
+- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Life|Life]]
 - **Duration**: 1 minute
 
 You transcend your physical form, becoming a beacon of healing energy. Your body exudes bright light like a [[srd/pf2e/compendium/equipment/adventuring-gear/torch|torch]]. You gain resistance 5 to precision damage and weakness 5 to void damage, and your [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] Strikes deal an extra 1d4 vitality damage.

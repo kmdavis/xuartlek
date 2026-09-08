@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/cleric
 - feat/level/2
 aliases: ["Warpriest’s Armor"]
-aon_id: "feat-4654"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4654"
 source: "Player Core"
 ---
 
@@ -14,7 +13,7 @@ source: "Player Core"
 
 `Cleric`
 
-- **Prerequisites**: warpriest doctrine
+- **Prerequisites**: [[srd/pf2e/compendium/character/doctrines#Warpriest|warpriest doctrine]]
 
 Your training has helped you adapt to ever-heavier armor. You are trained in heavy armor. Whenever you gain a class feature that grants you expert or greater proficiency in medium armor, you also gain that proficiency in heavy armor. You treat armor you wear of 2 Bulk or higher as though it were 1 Bulk lighter (to a minimum of 1 Bulk).
 

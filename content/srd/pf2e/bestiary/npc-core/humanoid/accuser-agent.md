@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Accuser Agent"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Accuser Agent"
 level: 9
 source: "NPC Core"
-aon_id: "creature-3565"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3565"
 ---
 
@@ -38,7 +36,7 @@ abilities_top:
   - name: "Insightful"
     desc: "When the accuser agent succeeds at a Perception check, they critically succeed instead."
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]]_, Scholarly Journal, _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/sword-cane|sword cane]]_, Writing Set"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]]_, Scholarly Journal, _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/sword-cane|sword cane]]_, Writing Set"
 ac: 28
 armorclass:
   - name: "AC"

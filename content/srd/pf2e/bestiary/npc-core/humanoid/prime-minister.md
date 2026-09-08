@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Prime Minister"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Prime Minister"
 level: 0
 source: "NPC Core"
-aon_id: "creature-3550"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3550"
 ---
 

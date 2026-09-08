@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -9,7 +8,7 @@ tags:
 - trait/polymorph
 - spell/level/4
 aliases: ["Bestial Curse"]
-aon_id: "spell-1966"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1966"
 source: "Player Core 2"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core 2"
 `Concentrate`  `Curse`  `Manipulate`  `Polymorph`
 
 - **Traditions**: Arcane, Occult, Primal
-- **Deities**: Haagenti, Kugaptee, Yamasoth, Zeaki
+- **Deities**: [[srd/pf2e/compendium/deities/demon-lords/haagenti|Haagenti]], Kugaptee, [[srd/pf2e/compendium/deities/qlippoth-lords/yamasoth|Yamasoth]], Zeaki
 - **Range**: touch
 - **Target**: 1 living humanoid
 - **Defense**: Fortitude

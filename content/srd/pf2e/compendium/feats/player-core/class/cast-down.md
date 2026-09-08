@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/metamagic
 - feat/level/6
 aliases: ["Cast Down"]
-aon_id: "feat-4661"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4661"
 source: "Player Core"
 ---
 

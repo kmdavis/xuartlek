@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Brownie"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Brownie"
 level: 1
 source: "Monster Core 2"
-aon_id: "creature-4287"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4287"
 ---
 
@@ -42,7 +40,7 @@ armorclass:
 hp: 21
 health:
   - name: "HP"
-    desc: "21; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 3"
+    desc: "21; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 3"
 speed: "20 feet"
 attacks:
   - name: "Melee"

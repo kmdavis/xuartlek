@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/monster-core
@@ -7,7 +6,7 @@ tags:
 - trait/unholy
 - ritual/level/1
 aliases: ["Demonic Pact"]
-aon_id: "ritual-142"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=142"
 source: "Monster Core"
 ---
 

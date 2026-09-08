@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
 - trait/uncommon
 - equipment/level/0
 aliases: ["War Saddle"]
-aon_id: "equipment-3988"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3988"
 source: "Battlecry!"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - feat/level/2
 aliases: ["Gunslinger Dedication"]
-aon_id: "feat-3215"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3215"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -22,7 +21,7 @@ source: "Guns & Gears (Remastered)"
 
 You excel in using specific types of ranged weapons. You have familiarity with martial crossbows and firearms, treating them as simple weapons for the purposes of proficiency. You gain access to uncommon martial and simple crossbows and firearms that do not have an ancestry trait. You become trained in gunslinger class DC.
 
- Choose a gunslinger way. You become trained in your way's associated skill; if you were already trained in this skill, you become trained in a skill of your choice. You don't gain any other abilities from your choice of way.
+ Choose a gunslinger [[srd/pf2e/compendium/character/ways|way]]. You become trained in your way's associated skill; if you were already trained in this skill, you become trained in a skill of your choice. You don't gain any other abilities from your choice of way.
 
 ### Gunslinger Dedication leads to...
 

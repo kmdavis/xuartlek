@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/1
 aliases: ["Ant Haul"]
-aon_id: "spell-1442"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1442"
 source: "Player Core"
 ---
 
@@ -16,7 +15,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Aakriti, Balumbdar, Belech, Dolok Darkfur, Droskar, Hearth and Harvest, Jukha, Kurgess, Stone's Blood
+- **Deities**: Aakriti, Balumbdar, Belech, [[srd/pf2e/compendium/deities/sarkorian-gods/dolok-darkfur|Dolok Darkfur]], [[srd/pf2e/compendium/deities/dwarven-gods/droskar|Droskar]], Hearth and Harvest, [[srd/pf2e/compendium/deities/orc-gods/jukha|Jukha]], [[srd/pf2e/compendium/deities/other-gods/kurgess|Kurgess]], [[srd/pf2e/compendium/deities/pantheons/stones-blood|Stone's Blood]]
 - **Range**: touch
 - **Target**: 1 creature
 - **Duration**: 8 hours

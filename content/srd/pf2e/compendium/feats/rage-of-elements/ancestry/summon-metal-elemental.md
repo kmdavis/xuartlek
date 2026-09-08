@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/rage-of-elements
 - trait/talos
 - feat/level/13
 aliases: ["Summon Metal Elemental"]
-aon_id: "feat-4331"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4331"
 source: "Rage of Elements"
 ---
 

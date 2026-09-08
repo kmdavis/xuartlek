@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/fatal
 aliases: ["Fatal"]
-aon_id: "trait-597"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=597"
 source: "Player Core"
 ---
 

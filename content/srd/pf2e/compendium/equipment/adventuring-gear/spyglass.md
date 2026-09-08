@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/player-core
 - equipment/level/0
 aliases: ["Spyglass"]
-aon_id: "equipment-2754"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2754"
 source: "Player Core"
 ---
 

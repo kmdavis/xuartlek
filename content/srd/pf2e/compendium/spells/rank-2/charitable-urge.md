@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -9,7 +8,7 @@ tags:
 - trait/mental
 - spell/level/2
 aliases: ["Charitable Urge"]
-aon_id: "spell-1974"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1974"
 source: "Player Core 2"
 ---
 

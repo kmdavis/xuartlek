@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Animated Furnace"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Animated Furnace"
 level: 9
 source: "Monster Core 2"
-aon_id: "creature-4059"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4059"
 ---
 

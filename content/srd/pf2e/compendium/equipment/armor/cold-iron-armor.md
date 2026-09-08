@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
 - equipment/level/5
 aliases: ["Cold Iron Armor"]
-aon_id: "equipment-2798"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2798"
 source: "GM Core"
 ---
 
@@ -13,7 +12,7 @@ source: "GM Core"
 
 - **Usage**: worn armor
 - **Bulk**: varies by armor
-- **Base Material**: [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|Cold Iron]]
+- **Base Material**: [[srd/pf2e/compendium/equipment/materials/cold-iron|Cold Iron]]
 
 Cold iron armor sickens certain creatures that touch it. A creature with weakness to cold iron (such as most demons and [[srd/pf2e/compendium/rules-elements/traits/player-core/fey|fey]]) that critically fails an unarmed attack against a creature in cold iron armor becomes [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1. A creature with weakness to cold iron is sickened 1 as long as it wears cold iron armor.
 

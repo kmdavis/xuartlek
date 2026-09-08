@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/parry
 - weapon/level/0
 aliases: ["Scizore"]
-aon_id: "weapon-303"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=303"
 source: "Treasure Vault (Remastered)"
 ---
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/rogue
 - feat/level/12
 aliases: ["Felling Shot"]
-aon_id: "feat-4970"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4970"
 source: "Player Core"
 ---
 

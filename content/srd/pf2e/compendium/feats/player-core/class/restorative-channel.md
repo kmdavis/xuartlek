@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/cleric
 - feat/level/8
 aliases: ["Restorative Channel"]
-aon_id: "feat-4670"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4670"
 source: "Player Core"
 ---
 

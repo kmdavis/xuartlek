@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/fighter
 - feat/level/10
 aliases: ["Tactical Reflexes"]
-aon_id: "feat-4830"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4830"
 source: "Player Core"
 ---
 

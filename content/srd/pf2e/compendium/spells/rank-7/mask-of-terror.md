@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -12,7 +11,7 @@ tags:
 - trait/visual
 - spell/level/7
 aliases: ["Mask of Terror"]
-aon_id: "spell-1595"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1595"
 source: "Player Core"
 ---
 
@@ -21,8 +20,8 @@ source: "Player Core"
 `Concentrate`  `Emotion`  `Fear`  `Illusion`  `Manipulate`  `Mental`  `Visual`
 
 - **Traditions**: Arcane, Occult, Primal
-- **Bloodline**: Draconic
-- **Deities**: Grask Uldeth, Jaidz, Urgathoa, Yamasoth, Ydersius, Zura
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Draconic|Draconic]]
+- **Deities**: [[srd/pf2e/compendium/deities/orc-gods/grask-uldeth|Grask Uldeth]], Jaidz, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/urgathoa|Urgathoa]], [[srd/pf2e/compendium/deities/qlippoth-lords/yamasoth|Yamasoth]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/ydersius|Ydersius]], Zura
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Duration**: 1 minute

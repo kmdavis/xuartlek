@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - equipment/level/8
 aliases: ["Dragonhide"]
-aon_id: "equipment-3268"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3268"
 source: "Player Core 2"
 ---
 
@@ -32,9 +31,9 @@ The hide and scales of a dragon can be used to [[srd/pf2e/compendium/rules-eleme
 
 #### Material Uses
 
-[[srd/pf2e/compendium/equipment/armor/dragonhide-armor-high-grade|Dragonhide Armor]]
+[[srd/pf2e/compendium/equipment/armor/dragonhide-armor|Dragonhide Armor]]
 
-[[srd/pf2e/compendium/equipment/shields/dragonhide-shield-high-grade|Dragonhide Shield]]
+[[srd/pf2e/compendium/equipment/shields/dragonhide-shield|Dragonhide Shield]]
 
 ### Dragonhide Object (Standard-Grade)
 

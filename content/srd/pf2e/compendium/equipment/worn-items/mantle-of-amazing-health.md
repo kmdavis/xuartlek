@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - equipment/level/19
 aliases: ["Mantle of Amazing Health"]
-aon_id: "equipment-2140"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2140"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -16,7 +15,7 @@ source: "Treasure Vault (Remastered)"
 
 `Apex`  `Invested`  `Magical`
 
-- **Price**: 40,000 gp
+- **Price**: 40, 000 gp
 - **Usage**: worn cloak
 - **Bulk**: L
 

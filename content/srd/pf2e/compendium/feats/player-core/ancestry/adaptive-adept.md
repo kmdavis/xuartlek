@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/human
 - feat/level/5
 aliases: ["Adaptive Adept"]
-aon_id: "feat-4481"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4481"
 source: "Player Core"
 ---
 

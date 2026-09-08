@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/polymorph
 - spell/level/6
 aliases: ["Cursed Metamorphosis"]
-aon_id: "spell-1479"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1479"
 source: "Player Core"
 ---
 
@@ -19,8 +18,8 @@ source: "Player Core"
 `Concentrate`  `Curse`  `Incapacitation`  `Manipulate`  `Polymorph`
 
 - **Traditions**: Arcane, Occult, Primal
-- **Bloodline**: Hag
-- **Deities**: Mestama, Mother Vulture, The Lantern King, Venkelvore, Yig, Zeaki
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Hag|Hag]]
+- **Deities**: [[srd/pf2e/compendium/deities/dead-or-missing-deities/mestama|Mestama]], [[srd/pf2e/compendium/deities/monitor-demigods/mother-vulture|Mother Vulture]], [[srd/pf2e/compendium/deities/eldest/the-lantern-king|The Lantern King]], [[srd/pf2e/compendium/deities/goblin-gods/venkelvore|Venkelvore]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/yig|Yig]], Zeaki
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Fortitude

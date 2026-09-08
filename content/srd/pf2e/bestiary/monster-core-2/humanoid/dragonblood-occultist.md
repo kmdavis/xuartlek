@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Dragonblood Occultist"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Dragonblood Occultist"
 level: 3
 source: "Monster Core 2"
-aon_id: "creature-4369"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4369"
 ---
 
@@ -40,7 +38,7 @@ skills:
 abilityMods: [1, 3, 0, 4, 1, 1]
 abilities_top:
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/weapons/crossbow/crossbow|Crossbow]] (20 bolts), [[srd/pf2e/compendium/equipment/adventuring-gear/lantern-hooded|Lantern]], [[srd/pf2e/compendium/equipment/armor#Leather Armor|Leather Armor]], [[srd/pf2e/compendium/equipment/weapons/sword/shortsword|Shortsword]]"
+    desc: "[[srd/pf2e/compendium/equipment/weapons/crossbow/crossbow|Crossbow]] (20 bolts), [[srd/pf2e/compendium/equipment/adventuring-gear/lantern|Lantern]], [[srd/pf2e/compendium/equipment/armor#Leather Armor|Leather Armor]], [[srd/pf2e/compendium/equipment/weapons/sword/shortsword|Shortsword]]"
 ac: 18
 armorclass:
   - name: "AC"
@@ -64,7 +62,7 @@ abilities_bot:
   - name: "Requirements"
     desc: "The dragonblood occultist is holding a lit lantern"
   - name: "Effect"
-    desc: "The dragonblood occultist shines the lantern's light on one creature within 20 feet, revealing wounds yet to occur. The dragonblood occultist then chooses bludgeoning, mental, piercing, or slashing, and the target gains [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Weakness|weakness]] 4 to that damage until the end of the dragonblood occultist's next turn. Dragonbloods Of Xa Hoi Long ago, the warring factions of what would become the Tian Xia nation of Xa Hoi pledged their fealty to the area’s sovereign dragons in return for their protection . Since then, Xa Hoi has been ruled by those dragons’ descendants. The citizens are used to the sovereign dragon’s prevalence throughout the nation and consider physical evidence of the dragons’ influence in their offspring to be a desired blessing. Sorcerers with the draconic bloodline and [[srd/pf2e/compendium/character/ancestries/dragonblood|dragonblood]] individuals are often held in high esteem and are expected to do great things."
+    desc: "The dragonblood occultist shines the lantern's light on one creature within 20 feet, revealing wounds yet to occur. The dragonblood occultist then chooses bludgeoning, mental, piercing, or slashing, and the target gains [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Weakness|weakness]] 4 to that damage until the end of the dragonblood occultist's next turn. Dragonbloods Of Xa Hoi Long ago, the warring factions of what would become the Tian Xia nation of Xa Hoi pledged their fealty to the area’s sovereign dragons in return for their protection . Since then, Xa Hoi has been ruled by those dragons’ descendants. The citizens are used to the sovereign dragon’s prevalence throughout the nation and consider physical evidence of the dragons’ influence in their offspring to be a desired blessing. Sorcerers with the [[srd/pf2e/compendium/character/bloodlines#Draconic|draconic]] bloodline and [[srd/pf2e/compendium/character/versatile-heritages/dragonblood|dragonblood]] individuals are often held in high esteem and are expected to do great things."
 sourcebook: "_Monster Core 2_, page 136."
 ```
 

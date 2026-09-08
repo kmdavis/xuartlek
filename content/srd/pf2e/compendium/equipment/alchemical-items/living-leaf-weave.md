@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/plant
 - equipment/level/5
 aliases: ["Living Leaf Weave"]
-aon_id: "equipment-1978"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1978"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -21,7 +20,7 @@ source: "Treasure Vault (Remastered)"
 - **Bulk**: 1
 - **Base Armor**: [[srd/pf2e/compendium/equipment/armor#Leaf Weave|Leaf Weave]]
 
-This suit of [[srd/pf2e/compendium/equipment/armor#Leaf Weave|leaf weave]] armor is specially modified to metabolize the alchemical accelerants in medicinal compounds. A special receptacle in the armor can hold an [[srd/pf2e/compendium/equipment/alchemical-items/elixir-of-life-true|elixir of life]], which takes 3 Interact actions to install.
+This suit of [[srd/pf2e/compendium/equipment/armor#Leaf Weave|leaf weave]] armor is specially modified to metabolize the alchemical accelerants in medicinal compounds. A special receptacle in the armor can hold an [[srd/pf2e/compendium/equipment/alchemical-items/elixir-of-life|elixir of life]], which takes 3 Interact actions to install.
 
 **Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Requirements** An elixir of life is installed in the armor; **Effect** Slithering vines grow from the armor, granting an item bonus to [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grapple]], to your Fortitude DC to resist Grapple, [[srd/pf2e/compendium/rules-elements/actions/player-core#Disarm|Disarm]], or [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shove]] attempts, and to your Reflex DC to resist Trip attempts. The bonus is equal to the elixir’s item bonus, and lasts for 3 rounds. The activation uses up the elixir, and the armor can’t be activated again until a new one is installed.
 

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 - trait/mindshift
 aliases: ["Mindshift"]
-aon_id: "trait-900"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=900"
 source: "Dark Archives (Remastered)"
 ---
 

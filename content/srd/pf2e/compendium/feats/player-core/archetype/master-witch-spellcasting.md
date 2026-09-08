@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/archetype
 - feat/level/18
 aliases: ["Master Witch Spellcasting"]
-aon_id: "feat-5105"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5105"
 source: "Player Core"
 ---
 

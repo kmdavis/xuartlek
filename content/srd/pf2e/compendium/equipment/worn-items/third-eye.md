@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -7,7 +6,7 @@ tags:
 - trait/magical
 - equipment/level/19
 aliases: ["Third Eye"]
-aon_id: "equipment-3112"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3112"
 source: "GM Core"
 ---
 
@@ -15,7 +14,7 @@ source: "GM Core"
 
 `Invested`  `Magical`
 
-- **Price**: 40,000 gp
+- **Price**: 40, 000 gp
 - **Usage**: worn
 
 When invested, this ornate crown and its incandescent gemstone meld into your head and take the form of a tattoo. This grants you otherworldly sight and allows you to read auras. No one but you can manipulate the _third eye_ while it's invested by you. Your heightened senses and ability to sense emotional auras grant you a +3 item bonus to Perception checks.

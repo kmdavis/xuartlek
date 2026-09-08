@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Thulgant"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Thulgant"
 level: 18
 source: "Monster Core"
-aon_id: "creature-3157"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3157"
 ---
 

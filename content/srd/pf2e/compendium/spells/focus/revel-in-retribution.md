@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -11,7 +10,7 @@ tags:
 - trait/uncommon
 - spell/level/6
 aliases: ["Revel in Retribution"]
-aon_id: "spell-2071"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2071"
 source: "Player Core 2"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core 2"
 
 `Concentrate`  `Focus`  `Manipulate`  `Mental`  `Oracle`  `Uncommon`
 
-- **Mystery**: Battle
+- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Battle|Battle]]
 - **Duration**: 1 minute
 
 Time seems to slow for you, allowing you to strike your opponents mid-move. You gain the Reactive Strike ability, and you immediately gain a second reaction that you can use only to use Reactive Strike. At the start of each of your subsequent turns when you regain your actions, you gain an additional reaction that can be used only to attempt a Reactive Strike.

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 - trait/archetype
 - feat/level/4
 aliases: ["Talon Sweep"]
-aon_id: "feat-5439"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5439"
 source: "Howl of the Wild"
 ---
 

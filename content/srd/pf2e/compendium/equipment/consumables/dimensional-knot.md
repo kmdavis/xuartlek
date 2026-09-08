@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - equipment/level/7
 aliases: ["Dimensional Knot"]
-aon_id: "equipment-5048"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5048"
 source: "Impossible Magic"
 ---
 
@@ -21,6 +20,6 @@ source: "Impossible Magic"
 - **Bulk**: L
 - **Activate**: Cast a Spell
 
-Shelynites originally crafted this complex knot of vibrant string for bracelets meant to tie the destinies of two people together. Now, however, spellcasters of all religions use them to enhance their capacity with teleportation magic. Adding this catalyst to a 4th-rank _[[srd/pf2e/compendium/spells/rank-4/translocate|_translocate_]]_ spell allows you to bring a single willing adjacent creature along with you; however, the teleportation is somewhat disorienting for them, causing them to become [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] 1.
+[[srd/pf2e/compendium/deities/gods-of-the-inner-sea/shelyn|Shelynites]] originally crafted this complex knot of vibrant string for bracelets meant to tie the destinies of two people together. Now, however, spellcasters of all religions use them to enhance their capacity with teleportation magic. Adding this catalyst to a 4th-rank _[[srd/pf2e/compendium/spells/rank-4/translocate|_translocate_]]_ spell allows you to bring a single willing adjacent creature along with you; however, the teleportation is somewhat disorienting for them, causing them to become [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] 1.
 
 *Source: Impossible Magic p. 214*

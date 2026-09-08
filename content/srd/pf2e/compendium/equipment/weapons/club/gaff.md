@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/versatile
 - weapon/level/0
 aliases: ["Gaff"]
-aon_id: "weapon-121"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=530"
 source: "Battlecry!"
 ---
 
@@ -23,7 +22,7 @@ source: "Battlecry!"
 - **Category**: Martial
 - **Group**: Club
 
-Many marsh giants fight with oversized gaffs—lengths of wood with a single metal spike affixed to the tip. Used often by fisherfolk to land fish, marsh giants use their gaffs as weapons.
+These hooked staffs are popular among fishers and warriors alike.
 
 ### Critical Specialization Effects
 

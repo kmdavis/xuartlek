@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-conscious-mind
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 aliases: ["The Tangible Dream"]
-aon_id: "conscious-mind-11"
+aon_url: "https://2e.aonprd.com/ConsciousMinds.aspx?ID=11"
 source: "Dark Archives (Remastered)"
 ---
 

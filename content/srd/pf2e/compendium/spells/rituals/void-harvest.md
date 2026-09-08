@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -10,7 +9,7 @@ tags:
 - trait/negative
 - ritual/level/9
 aliases: ["Void Harvest"]
-aon_id: "ritual-198"
+aon_url: "https://2e.aonprd.com/MythicRituals.aspx?ID=198"
 source: "War of Immortals"
 ---
 
@@ -21,7 +20,7 @@ source: "War of Immortals"
 - **Cast**: 8 hours
 - **Secondary Casters**: 3
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] (mythic)
-- **Secondary Checks**: Medicine (master), Occultism , Void Lore
+- **Secondary Checks**: Medicine (master), Occultism, Void Lore
 - **Area**: 1-mile radius centered on you
 - **Duration**: 1 year
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
@@ -10,7 +9,7 @@ tags:
 - trait/teleportation
 - feat/level/9
 aliases: ["Plane Step"]
-aon_id: "feat-7784"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7784"
 source: "Battlecry!"
 ---
 

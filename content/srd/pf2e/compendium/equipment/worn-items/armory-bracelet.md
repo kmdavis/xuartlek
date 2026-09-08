@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/magical
 - equipment/level/3
 aliases: ["Armory Bracelet"]
-aon_id: "equipment-2340"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2340"
 source: "Treasure Vault (Remastered)"
 ---
 

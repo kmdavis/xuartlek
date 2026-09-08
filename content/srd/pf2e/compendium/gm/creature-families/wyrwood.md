@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core-2
 aliases: ["Wyrwood"]
-aon_id: "creature-family-672"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=672"
 source: "Monster Core 2"
 ---
 

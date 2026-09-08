@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/processed
 - equipment/level/3
 aliases: ["Tracker's Stew"]
-aon_id: "equipment-1933"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1933"
 source: "Treasure Vault (Remastered)"
 ---
 

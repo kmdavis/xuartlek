@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-background
 tags:
 - compendium/src/pf2e/battlecry
@@ -14,7 +13,7 @@ entries: 131
 
 # Backgrounds
 
-## Acolyte  *Background*
+## Acolyte
 
 You spent your early days in a religious monastery or cloister. You may have traveled out into the world to spread the message of your religion or because you cast away the teachings of your faith, but deep down you’ll always carry within you the lessons you learned.
 
@@ -25,7 +24,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/religion|Relig
 
 *Source: Player Core p. 84*
 
-## Acrobat  *Background*
+## Acrobat
 
 In a circus or on the streets, you earned your pay by performing as an acrobat. You might have turned to adventuring when the money dried up, or simply decided to put your skills to better use.
 
@@ -36,7 +35,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acr
 
 *Source: Player Core p. 84*
 
-## Aeronaut  *Background*
+## Aeronaut
 
 `Uncommon`
 
@@ -48,7 +47,7 @@ You’re trained in the [[srd/pf2e/compendium/rules-elements/skills/athletics|At
 
 *Source: Battlecry! p. 17*
 
-## Alkenstar Outlaw  *Background*
+## Alkenstar Outlaw
 
 `Uncommon`
 
@@ -61,7 +60,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/thievery|Thiev
 
 *Source: Guns & Gears (Remastered) p. 124*
 
-## Alkenstar Sojourner  *Background*
+## Alkenstar Sojourner
 
 `Uncommon`
 
@@ -74,7 +73,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/society|Societ
 
 *Source: Guns & Gears (Remastered) p. 124*
 
-## Alloysmith  *Background*
+## Alloysmith
 
 Blacksmithing might be an ancient profession, but you are its cutting edge. You've studied the properties of different metals, experimented with them by combining them, exposing them to different elements and processes, and have even delved into the metaphysical nature of metal in your quest to master it. You might have taken up adventuring to acquire more funding and materials or to test your designs.
 
@@ -85,7 +84,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/crafting|Craft
 
 *Source: Rage of Elements p. 44*
 
-## Amnesiac  *Background*
+## Amnesiac
 
 `Rare`
 
@@ -95,7 +94,7 @@ Your background is... well... honestly, you can't remember! You might have inkli
 
 *Source: Player Core 2 p. 52*
 
-## Animal Whisperer  *Background*
+## Animal Whisperer
 
 You have always felt a connection to animals, and it was only a small leap to learn to train them. As you travel, you continuously encounter different creatures, befriending them along the way.
 
@@ -106,7 +105,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]
 
 *Source: Player Core p. 84*
 
-## Anti-Tech Activist  *Background*
+## Anti-Tech Activist
 
 You've seen the sorts of things that technology brings— polluted environments, workers put out of their jobs or horribly injured, and the slow erosion of society—and you've vowed to inform the larger world of these ills. You do so with long, impassioned speeches on street corners and village squares and by talking personally with the heads of various guilds. Adventuring into the wider world could help spread your message even farther.
 
@@ -117,7 +116,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/intimidation|I
 
 *Source: Guns & Gears (Remastered) p. 44*
 
-## Arcane Revolutionary  *Background*
+## Arcane Revolutionary
 
 `Uncommon`
 
@@ -130,7 +129,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]
 
 *Source: Battlecry! p. 17*
 
-## Artisan  *Background*
+## Artisan
 
 As an apprentice, you practiced a particular form of building or crafting, developing specialized skill. You might have been a blacksmith’s apprentice toiling over the forge for countless hours, a young tailor sewing garments of all kinds, or a shipwright shaping the hulls of ships.
 
@@ -141,7 +140,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/crafting|Craft
 
 *Source: Player Core p. 84*
 
-## Artist  *Background*
+## Artist
 
 Your art is your greatest passion, whatever form it takes. Adventuring might help you find inspiration, or simply be a way to survive until you become a world-famous artist.
 
@@ -152,7 +151,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/crafting|Craft
 
 *Source: Player Core p. 84*
 
-## Astrologer  *Background*
+## Astrologer
 
 Astrologers look to the stars for signs and portents, using their positions in the heavens to chart courses for those living beneath them. As the celestial spheres move, so does fate itself. You studied the stars and learned to divine your path based on their guidance. Whether the stars directly called you to a life of adventure or you use the stars to guide your wanderlust, you're living out the stars' guidance in a life of adventure.
 
@@ -163,7 +162,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/occultism|Occu
 
 *Source: Player Core 2 p. 50*
 
-## Back-Alley Doctor  *Background*
+## Back-Alley Doctor
 
 You're the medic many turn to when a more official clinic or healer might not be available. You may specialize in stitching up bullet wounds or have a standing, confidential deal with a criminal syndicate to provide your services any time of day or night. In either case, you've perhaps turned to the adventuring life because a former client is unhappy with your work or members of the local constabulary have been asking too many questions.
 
@@ -174,7 +173,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/medicine|Medic
 
 *Source: Guns & Gears (Remastered) p. 122*
 
-## Bandit  *Background*
+## Bandit
 
 Your past includes no small amount of rural banditry, robbing travelers on the road and scraping by. Whether your robbery was sanctioned by a local noble or you did so of your own accord, you eventually got caught up in the adventuring life. Now, adventure is your stock and trade, and years of camping and skirmishing have only helped.
 
@@ -185,7 +184,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/intimidation|I
 
 *Source: Player Core p. 84*
 
-## Barber  *Background*
+## Barber
 
 Haircuts, dentistry, bloodletting, and surgery—if it takes a steady hand and a razor, you can do it. You may have taken to the road to expand your skills or test yourself against a world that leaves your patients so battered and bruised.
 
@@ -196,7 +195,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/medicine|Medic
 
 *Source: Player Core 2 p. 50*
 
-## Barkeep  *Background*
+## Barkeep
 
 You have five specialties: hefting barrels, drinking, polishing steins, drinking, and drinking. You worked in a bar, where you learned how to hold your liquor and rowdily socialize.
 
@@ -207,7 +206,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Dipl
 
 *Source: Player Core p. 84*
 
-## Barrister  *Background*
+## Barrister
 
 Piles of legal manuals, stern teachers, and experience in the courtroom have instructed you in legal matters. You’re capable of mounting a prosecution or defense in court, and you tend to keep abreast of local laws, as you never can tell when you might need to know them on short notice.
 
@@ -218,7 +217,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Dipl
 
 *Source: Player Core p. 85*
 
-## Battle Mechanic  *Background*
+## Battle Mechanic
 
 All vehicles eventually break down, from both wear and tear and through contact with the enemy, and someone needs to fix them. You have experience repairing air, land, and sea vehicles of all types, and you are knowledgeable about how they function and what specialized tools they require. 
 
@@ -229,7 +228,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/crafting|Craft
 
 *Source: Battlecry! p. 16*
 
-## Battlefield Scrounger  *Background*
+## Battlefield Scrounger
 
 `Uncommon`
 
@@ -242,7 +241,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/crafting|Craft
 
 *Source: Battlecry! p. 17*
 
-## Blessed  *Background*
+## Blessed
 
 `Rare`
 
@@ -254,7 +253,7 @@ You have been blessed by a divinity. For an unknown reason, and irrespective of 
 
 *Source: Player Core 2 p. 52*
 
-## Bookkeeper  *Background*
+## Bookkeeper
 
 You ran the numbers on a large farm, for a merchant's endeavors, or with a major guild in the city. You kept track of expenses, payroll, profits, and anything else that had to do with money, for better or worse. If better, you might be adventuring to learn how others ply this trade. If worse, you may be fleeing from impending consequences in the hope that no one finds you.
 
@@ -265,7 +264,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/society|Societ
 
 *Source: Player Core 2 p. 50*
 
-## Bounty Hunter  *Background*
+## Bounty Hunter
 
 Bringing in lawbreakers lined your pockets. Maybe you had an altruistic motive and sought to bring in criminals to make the streets safer, or maybe the coin was motivation enough. Your techniques for hunting down criminals transfer easily to the life of an adventurer.
 
@@ -276,7 +275,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/survival|Survi
 
 *Source: Player Core p. 85*
 
-## Cannoneer  *Background*
+## Cannoneer
 
 You served as a crewmate aboard a military vessel or pirate ship and were responsible for the use and maintenance of the ship's cannons. A strong back and quick reflexes were equally important to you in your duties, and you know your way around explosives and the dangers that lie therein. These skills serve you well in your new life as an adventurer, as compared to the weight of a cannon, a gear load that makes your allies blanche just makes you laugh instead.
 
@@ -287,7 +286,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/athletics|Athl
 
 *Source: Guns & Gears (Remastered) p. 122*
 
-## Charlatan  *Background*
+## Charlatan
 
 You traveled from place to place, peddling false fortunes and snake oil in one town, pretending to be royalty in exile to seduce a wealthy heir in the next. Becoming an adventurer might be your next big scam or an attempt to put your talents to use for a greater cause. Perhaps it’s a bit of both, as you realize that after pretending to be a hero, you’ve become the mask.
 
@@ -298,7 +297,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/deception|Dece
 
 *Source: Player Core p. 85*
 
-## Child of the Twin Village  *Background*
+## Child of the Twin Village
 
 `Rare`
 
@@ -310,7 +309,7 @@ You were born in a village where everyone has a twin with a special link. You ha
 
 *Source: Dark Archives (Remastered) p. 73*
 
-## Circuit Judge  *Background*
+## Circuit Judge
 
 `Uncommon`
 
@@ -323,7 +322,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/deception|Dece
 
 *Source: Guns & Gears (Remastered) p. 124*
 
-## Clockfighter  *Background*
+## Clockfighter
 
 While others choose to use their engineering ability to heal the injured or make brilliant innovations, you've used your skill to repair and modify clockwork constructs that battle in gladiatorial combat. You know how to get a crowd electrified for your clockwork gladiator, win or lose, and you know how to repair it when it gets damaged. These skills serve you well as an adventurer.
 
@@ -334,7 +333,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/crafting|Craft
 
 *Source: Guns & Gears (Remastered) p. 44*
 
-## Clockwork Researcher  *Background*
+## Clockwork Researcher
 
 New forms of clockwork technology are incredibly interesting to you, and you've been studying examples of them to see where else they might be best put to use. You might eventually develop a new prototype machine or find a way to make related technologies practical enough for everyone to benefit. Though before you do, you must continue your research!
 
@@ -345,7 +344,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/society|Societ
 
 *Source: Guns & Gears (Remastered) p. 44*
 
-## Codebreaker  *Background*
+## Codebreaker
 
 Whether you're employed by a military organization to decipher coded messages sent by enemy factions or work independently to crack an enigma created by a past civilization, you have a head for patterns and linguistics. You might even use new clockwork devices to aid you in your efforts.
 
@@ -356,7 +355,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/society|Societ
 
 *Source: Guns & Gears (Remastered) p. 44*
 
-## Combat Carpenter  *Background*
+## Combat Carpenter
 
 You have spent countless hours selecting lumber, drafting designs, and constructing all manner of wooden buildings, shields, weapons, and tools. You can readily identify the weak spots in wooden fortifications and determine the best ways to bolster or attack them. 
 
@@ -367,7 +366,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/crafting|Craft
 
 *Source: Battlecry! p. 16*
 
-## Combat Chaplain  *Background*
+## Combat Chaplain
 
 As a member of the clergy, you have been responsible for tending to the spiritual and moral well-being of soldiers and their families. While you may have been a follower of a specific deity, you acted as an ambassador of the church overall, providing religious support in a religiously pluralistic and diverse setting. You provided counsel and took on the role of critical friend, mediator, and reconciler for those under your charge. You may have been called to lead worship, perform weddings, and conduct funerals in both nearby villages as well as remote locales.
 
@@ -378,7 +377,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/religion|Relig
 
 *Source: Battlecry! p. 16*
 
-## Concordance Researcher  *Background*
+## Concordance Researcher
 
 `Uncommon`
 
@@ -390,7 +389,7 @@ Tasked by the Concordance of Elements to research a variety of enigmatic planar 
 
 *Source: Rage of Elements p. 44*
 
-## Concordance Scout  *Background*
+## Concordance Scout
 
 `Uncommon`
 
@@ -402,7 +401,7 @@ You were hired by the Concordance of Elements to seek out rumors of planar breac
 
 *Source: Rage of Elements p. 44*
 
-## Conscript  *Background*
+## Conscript
 
 Like many others in your settlement, you readily performed your duty and served in the army once you came of age. Much to the chagrin of the grizzled lifers that sought to train it out of you, you managed to retain a modicum of your naivete even as you faced the gruesome horrors of war. You've learned just enough strategy and tactics to make you dangerous. 
 
@@ -413,7 +412,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/society|Societ
 
 *Source: Battlecry! p. 16*
 
-## Cook  *Background*
+## Cook
 
 You grew up in the kitchens of a tavern or other dining establishment and excelled there, becoming an exceptional cook. Baking, cooking, a little brewing on the side—you’ve spent lots of time out of sight. It’s about time you went out into the world to catch some sights for yourself.
 
@@ -424,7 +423,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/survival|Survi
 
 *Source: Player Core p. 85*
 
-## Courier  *Background*
+## Courier
 
 In your youth, you earned coin running messages for persons of wealth and influence, darting through crowded city streets. Your dogged commitment to deliver your message was good training for the life of an adventurer.
 
@@ -435,7 +434,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/society|Societ
 
 *Source: Player Core 2 p. 50*
 
-## Criminal  *Background*
+## Criminal
 
 As an unscrupulous independent or as a member of an underworld organization, you lived a life of crime. You might have become an adventurer to seek redemption, to escape the law, or simply to get access to bigger and better loot.
 
@@ -446,7 +445,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealt
 
 *Source: Player Core p. 85*
 
-## Crystal Healer  *Background*
+## Crystal Healer
 
 Mineral formations can be beautiful things, sparkling and arrayed in geometric configurations. To you, they are also potent natural healing aids. You may have taken up adventuring to prove yourself by healing the ailing or to find new crystals with unique properties to add to your growing collection.
 
@@ -457,7 +456,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]
 
 *Source: Rage of Elements p. 44*
 
-## Cultist  *Background*
+## Cultist
 
 You were (or still are) a member of a cult whose rites may involve sacred dances to ensure a strong harvest or dire rituals that call upon dark powers. You might have taken up adventuring to further your cult’s aims, to initiate yourself into the world’s grander mysteries, or to flee unsavory practices or strictures.
 
@@ -468,7 +467,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/occultism|Occu
 
 *Source: Player Core p. 86*
 
-## Cursed  *Background*
+## Cursed
 
 `Rare`
 
@@ -482,7 +481,7 @@ You are the victim of a personal or hereditary curse. Through great effort and o
 
 *Source: Player Core 2 p. 52*
 
-## Deep-Sea Diver  *Background*
+## Deep-Sea Diver
 
 The sapphire depths of the seas and the mysteries they hold beneath their surface have always piqued your interest. Your obsession with the ocean depths cannot be contained to one world alone, and you've read tomes and journals about the source of all water, everywhere, hoping to one day understand the watery secrets of the great unknown.
 
@@ -493,7 +492,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/athletics|Athl
 
 *Source: Rage of Elements p. 44*
 
-## Dendrologist  *Background*
+## Dendrologist
 
 Trees grow in every biome, and your awe at their ability to conquer terrain has inspired deeper study into their workings. There are trees everywhere, and your study of them will inevitably take you ever further afield in search of new varieties, perhaps even to the [[srd/pf2e/compendium/gm/planes#Plane of Wood|Plane of Wood]] itself.
 
@@ -504,7 +503,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/survival|Survi
 
 *Source: Rage of Elements p. 44*
 
-## Deputy  *Background*
+## Deputy
 
 While your life may have taken some twists and turns in the intervening years, you were once deputized as the lawful protector of a community. While the role was temporary and you've since turned in your badge, that responsibility shaped you. Whenever a community is in trouble, and the sheriff is nowhere to be found, residents call on you to capture a criminal, rescue the mayor's offspring from bandits, or go toe to toe with outlaws.
 
@@ -515,7 +514,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/survival|Survi
 
 *Source: Guns & Gears (Remastered) p. 122*
 
-## Detective  *Background*
+## Detective
 
 You solved crimes as a police inspector or took jobs for wealthy clients as a private investigator. You might have become an adventurer as part of your next big mystery, but likely it was due to the consequences or aftermath of a prior case.
 
@@ -526,7 +525,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/society|Societ
 
 *Source: Player Core p. 86*
 
-## Discarded Duplicate  *Background*
+## Discarded Duplicate
 
 `Rare`
 
@@ -538,9 +537,9 @@ Someone created you for a specific purpose. Some important person, be they a sto
 
 *Source: Guns & Gears (Remastered) p. 46*
 
-## Disciple of the Gear  *Background*
+## Disciple of the Gear
 
-While many regard science and faith as incompatible, you believe scientific advancement is your deity's will. Perhaps you're a follower of Brigh, Casandalee, or some other god of technology, or perhaps you see the furnaces and sparks of modernity as the latest manifestation of Sarenrae's flame or Gozreh's lightning—whatever the case, you're always willing to spread the word of your deity, and you've learned some basic tinkering to show how your deity's focus can increase the common standard of living.
+While many regard science and faith as incompatible, you believe scientific advancement is your deity's will. Perhaps you're a follower of [[srd/pf2e/compendium/deities/other-gods/brigh|Brigh]], [[srd/pf2e/compendium/deities/other-gods/casandalee|Casandalee]], or some other god of technology, or perhaps you see the furnaces and sparks of modernity as the latest manifestation of Sarenrae's flame or Gozreh's lightning—whatever the case, you're always willing to spread the word of your deity, and you've learned some basic tinkering to show how your deity's focus can increase the common standard of living.
 
 Choose two attribute boosts. One must be to Intelligence
 or Wisdom, and one is a free attribute boost.
@@ -549,7 +548,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/crafting|Craft
 
 *Source: Guns & Gears (Remastered) p. 45*
 
-## Driver  *Background*
+## Driver
 
 You live behind the controls of a vehicle, and can handle anything the road or waves and sky can throw at you. You adventure to test your skills with new and interesting vehicles.
 
@@ -560,7 +559,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acr
 
 *Source: Guns & Gears (Remastered) p. 45*
 
-## Driver  *Background*
+## Driver
 
 You live behind the controls of a vehicle, and can handle anything the road or waves and sky can throw at you. You adventure to test your skills with new and interesting vehicles.
 
@@ -571,7 +570,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acr
 
 *Source: Player Core 2 p. 50*
 
-## Elementally Infused  *Background*
+## Elementally Infused
 
 `Rare`
 
@@ -583,7 +582,7 @@ You were exposed to a strong burst of elemental essence originating directly fro
 
 *Source: Rage of Elements p. 45*
 
-## Emissary  *Background*
+## Emissary
 
 As a diplomat or messenger, you traveled to lands far and wide. Communicating with new people and forming alliances were your stock and trade.
 
@@ -594,7 +593,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/society|Societ
 
 *Source: Player Core p. 86*
 
-## Empty Whispers  *Background*
+## Empty Whispers
 
 `Rare`
 
@@ -606,7 +605,7 @@ You knew someone once, and now you know only a life stitched together and healed
 
 *Source: Dark Archives (Remastered) p. 92*
 
-## Entertainer  *Background*
+## Entertainer
 
 Through an education in the arts or sheer dogged practice, you learned to entertain crowds. You might have been an actor, a dancer, a musician, a street magician, or any other sort of performer.
 
@@ -617,7 +616,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/performance|Pe
 
 *Source: Player Core p. 86*
 
-## Farmhand  *Background*
+## Farmhand
 
 With a strong back and an understanding of seasonal cycles, you tilled the land and tended crops. Your farm could have been razed by invaders, you could have lost the family tying you to the land, or you might have simply tired of the drudgery, but at some point you became an adventurer.
 
@@ -628,7 +627,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/athletics|Athl
 
 *Source: Player Core p. 86*
 
-## Farmsteader  *Background*
+## Farmsteader
 
 You built your house using wood from the trees surrounding it. Raised it up from the dirt and called it home. You thought that it would be where you would grow old and die. But despite your best efforts, you were wrong. The land that once gave you food fell fallow, and dust took to the air and choked the livestock. Now you wander the world as an adventurer. Are you in search of a new place to settle down and try again, or have you become disillusioned by your old dreams, leading you to seek out a new purpose?
 
@@ -639,7 +638,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/survival|Survi
 
 *Source: Guns & Gears (Remastered) p. 123*
 
-## Feral Child  *Background*
+## Feral Child
 
 `Rare`
 
@@ -651,7 +650,7 @@ You spent your youth in the wilderness, living close to or perhaps raised by ani
 
 *Source: Player Core 2 p. 52*
 
-## Feybound  *Background*
+## Feybound
 
 `Rare`
 
@@ -665,7 +664,7 @@ You have spent time in the [[srd/pf2e/compendium/gm/planes#First World|First Wor
 
 *Source: Player Core 2 p. 52*
 
-## Field Medic  *Background*
+## Field Medic
 
 In the chaotic rush of battle, you learned to adapt to rapidly changing conditions as you administered to battle casualties. You patched up soldiers, guards, or other combatants, and learned a fair amount about the logistics of war.
 
@@ -676,7 +675,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/medicine|Medic
 
 *Source: Player Core p. 86*
 
-## Fire Warden  *Background*
+## Fire Warden
 
 Whether you fought against fires in the wilderness or in crowded city streets, you've had your fair share of dealing with uncontrolled flames. Battling thick smoke and toxic fumes, you've broken down obstacles to save trapped people from a fiery grave, and you've studied the nature and source of fire itself to try and better learn how to fight it.
 
@@ -687,7 +686,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/athletics|Athl
 
 *Source: Rage of Elements p. 44*
 
-## Fireworks Performer  *Background*
+## Fireworks Performer
 
 Few celebrations in Tian-Xia are complete without a show of fireworks, and your job is to make sure they go off without a hitch. You load the fireworks, set the fuses, and choreograph the performance, bringing the show together in a finale of lights and explosions. Then it's time to pack up your gear and move on to the next civic holiday or religious festival. Of course, someone who travels the roads with a pack full of high explosives is bound to run into an adventure or two along the way, and so over time, your fireworks have been spent in support of that life.
 
@@ -698,7 +697,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/performance|Pe
 
 *Source: Guns & Gears (Remastered) p. 122*
 
-## Fortune Teller  *Background*
+## Fortune Teller
 
 The strands of fate are clear to you, as you have learned many traditional forms by which laypeople can divine the future. You might have used these skills to guide your community, or simply to make money. But even the slightest peek into these practices connects you to the occult mysteries of the universe.
 
@@ -709,7 +708,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/occultism|Occu
 
 *Source: Player Core p. 86*
 
-## Gambler  *Background*
+## Gambler
 
 The thrill of the win drew you into games of chance. This might have been a lucrative sideline that paled in comparison to the real risks of adventuring, or you might have fallen on hard times due to your gambling and pursued adventuring as a way out of a spiral.
 
@@ -720,7 +719,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/deception|Dece
 
 *Source: Player Core p. 86*
 
-## Gladiator  *Background*
+## Gladiator
 
 The bloody games of the arena taught you the art of combat. Before you attained true fame, you departed—or escaped—the arena to explore the world. Your skill at drawing both blood and a crowd’s attention pay off in a new adventuring life.
 
@@ -731,7 +730,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/performance|Pe
 
 *Source: Player Core p. 86*
 
-## Goldhand Arms Dealer  *Background*
+## Goldhand Arms Dealer
 
 `Uncommon`
 
@@ -744,7 +743,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Dipl
 
 *Source: Guns & Gears (Remastered) p. 124*
 
-## Guard  *Background*
+## Guard
 
 You served in the guard, out of either patriotism or the need for coin. Either way, you know how to get a difficult suspect to talk. However you left the guard, you might think of adventuring as a way to use your skills on a wider stage.
 
@@ -755,7 +754,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/intimidation|I
 
 *Source: Player Core p. 86*
 
-## Gunsmith  *Background*
+## Gunsmith
 
 From a young age, you apprenticed to an experienced gunsmith and over time your skill and knowledge rose to match that of your master. Today, you can easily repair, modify, or improve nearly any firearm you've seen before, and even if you haven't seen it, you'll break it down to learn about what makes it tick in no time. You've taken those skills on the road, using them to assist yourself and your allies as an adventurer when it comes to maintaining their weapons, shields, armor, and more.
 
@@ -766,7 +765,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/crafting|Craft
 
 *Source: Guns & Gears (Remastered) p. 122*
 
-## Haunted  *Background*
+## Haunted
 
 `Rare`
 
@@ -778,7 +777,7 @@ You are followed by a spirit or entity, either from childhood or since a momento
 
 *Source: Player Core 2 p. 53*
 
-## Herbalist  *Background*
+## Herbalist
 
 As a formally trained apothecary or a rural practitioner of folk medicine, you learned the healing properties of various herbs. You’re adept at collecting the right natural cures in all sorts of environments and preparing them properly.
 
@@ -789,7 +788,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]
 
 *Source: Player Core p. 86*
 
-## Hermit  *Background*
+## Hermit
 
 In an isolated place—like a cave, remote oasis, or secluded mansion—you lived a life of solitude. Adventuring might represent your first foray out among other people in some time. This might be a welcome reprieve from solitude or an unwanted change, but in either case, you’re likely still rough around the edges.
 
@@ -801,7 +800,7 @@ You're trained in your choice of either the [[srd/pf2e/compendium/rules-elements
 
 *Source: Player Core p. 87*
 
-## Hired Killer  *Background*
+## Hired Killer
 
 Your life truly began after your first kill. Maybe you killed in self-defense, maybe it was a crime of passion, or maybe it was just an accident and you were a kid in the wrong place at the wrong time. In the end, the why doesn't matter. You got away with it. And then you found that maybe it didn't bother you as much as it should have. And maybe, just maybe, you had a talent you could use to forge a life for yourself. A blood-soaked talent and a blood-soaked life, sure. But it's yours.
 
@@ -812,7 +811,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealt
 
 *Source: Guns & Gears (Remastered) p. 122*
 
-## Hounded Thief  *Background*
+## Hounded Thief
 
 Some time ago, you stole a unique item from a strange individual. It might have been a piece of clockwork from a far-off land or some other bit of strange technology. You might still have it or you might have sold it, but either way, you can't shake the feeling that you're being followed and watched, likely by forces who want to retrieve what you took. Luckily, a life of adventure keeps you on the move.
 
@@ -823,7 +822,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/thievery|Thiev
 
 *Source: Guns & Gears (Remastered) p. 45*
 
-## Hunter  *Background*
+## Hunter
 
 You stalked and took down animals and other creatures of the wild. Skinning animals, harvesting their flesh, and cooking them were also part of your training, all of which can give you useful resources while you adventure.
 
@@ -834,7 +833,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/survival|Survi
 
 *Source: Player Core p. 87*
 
-## Insurgent  *Background*
+## Insurgent
 
 You were more than a rebel; you were a revolutionary, fighting for the promise of a new or better country. You may or may not still believe in the cause, or perhaps victory or exile has led you on this new journey to trumpet your glory... or to escape the consequences of your defeat.
 
@@ -845,7 +844,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/deception|Dece
 
 *Source: Player Core 2 p. 50*
 
-## Junk Collector  *Background*
+## Junk Collector
 
 You live by the adage that one person's trash is another's treasure. Whether by sifting through scrap heaps or digging up old battlefields, you remain on the lookout for lost or discarded objects that you might be able to turn into something useful. More often than not, what you find is just junk... but you're convinced that one of these days, you're going to hit the jackpot. You've even taken up adventuring as a means to supercharge your access to all sorts of junk, gear, and loot.
 
@@ -856,7 +855,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/crafting|Craft
 
 *Source: Guns & Gears (Remastered) p. 123*
 
-## Junker  *Background*
+## Junker
 
 You live on the outskirts of civilization, combing through the detritus left behind for interesting trinkets to sell or use in your own crafting. Though you have a preferred terrain to search, you know that the greatest treasures occur where people make greater use of technology.
 
@@ -867,7 +866,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/athletics|Athl
 
 *Source: Guns & Gears (Remastered) p. 45*
 
-## Laborer  *Background*
+## Laborer
 
 You’ve spent years performing arduous physical labor. It was a difficult life, but you somehow survived. You may have embraced adventuring as an easier method to make your way in the world, or you might adventure under someone else’s command.
 
@@ -878,7 +877,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/athletics|Athl
 
 *Source: Player Core p. 87*
 
-## Legacy of the Hammer  *Background*
+## Legacy of the Hammer
 
 `Uncommon`
 
@@ -891,7 +890,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/thievery|Thiev
 
 *Source: Dark Archives (Remastered) p. 135*
 
-## Martial Disciple  *Background*
+## Martial Disciple
 
 You dedicated yourself to intense training and rigorous study to become a great warrior. The school you attended might have been a traditionalist monastery, an elite military academy, or the local branch of a prestigious mercenary organization.
 
@@ -903,7 +902,7 @@ You're trained in your choice of either the [[srd/pf2e/compendium/rules-elements
 
 *Source: Player Core p. 87*
 
-## Martial Musician  *Background*
+## Martial Musician
 
 `Uncommon`
 
@@ -916,7 +915,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/performance|Pe
 
 *Source: Battlecry! p. 17*
 
-## Mechanic  *Background*
+## Mechanic
 
 The intricate inner workings of machines are no stranger to you. Whether they are mundane devices or complex clockworks, you know what makes them tick and how to maintain them. An adventuring group might keep you around to repair their equipment, or you might travel around to offer your rare services to those in need—for a price, of course!
 
@@ -927,7 +926,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/crafting|Craft
 
 *Source: Guns & Gears (Remastered) p. 45*
 
-## Mechanical Symbiosis  *Background*
+## Mechanical Symbiosis
 
 `Rare`
 
@@ -941,7 +940,7 @@ Whether you purposefully took it on or had it thrust upon you, a bronze, clockwo
 
 *Source: Guns & Gears (Remastered) p. 46*
 
-## Medicinal Clocksmith  *Background*
+## Medicinal Clocksmith
 
 While others might have looked to clockwork as a mechanical innovation, you see the potential in the technology to improve the health of patients. You might be an experienced field medic who reached for a scrapped construct to help a wounded soldier, or a vanguard surgeon who's found replacing organs with clockwork more effective than repairing them. Perhaps you've also worked to “optimize” organic bodies with fine machinery, with or without the permission of your patients.
 
@@ -952,7 +951,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/medicine|Medic
 
 *Source: Guns & Gears (Remastered) p. 45*
 
-## Merchant  *Background*
+## Merchant
 
 In a dusty shop, market stall, or merchant caravan, you bartered wares for coin and trade goods. The skills you picked up still apply in the adventuring life, in which a good deal on a suit of armor could prevent your death.
 
@@ -963,7 +962,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Dipl
 
 *Source: Player Core p. 87*
 
-## Miner  *Background*
+## Miner
 
 You earned a living wrenching precious minerals from the lightless depths of the earth. Adventuring might have seemed lucrative or glamorous compared to this backbreaking labor— and if you have to head back underground, this time you plan to do so armed with a real weapon instead of a miner’s pick.
 
@@ -974,7 +973,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/survival|Survi
 
 *Source: Player Core p. 87*
 
-## Noble  *Background*
+## Noble
 
 To the common folk, the life of a noble seems one of idyllic luxury, but growing up as a noble or member of the aspiring gentry, you know the reality: a noble’s lot is obligation and intrigue. Whether you seek to escape your duties by adventuring or to better your station, you have traded silks and pageantry for an adventurer’s life.
 
@@ -985,7 +984,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/society|Societ
 
 *Source: Player Core p. 87*
 
-## Nomad  *Background*
+## Nomad
 
 Traveling far and wide, you picked up basic tactics for surviving on the road and in unknown lands, getting by with few supplies and even fewer comforts. As an adventurer, you travel still, often into even more dangerous places.
 
@@ -996,7 +995,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/survival|Survi
 
 *Source: Player Core p. 88*
 
-## Otherworldly Mission  *Background*
+## Otherworldly Mission
 
 `Rare`
 
@@ -1010,7 +1009,7 @@ You're called to serve a specific purpose—your deity told you so, and so it mu
 
 *Source: Guns & Gears (Remastered) p. 125*
 
-## Outrider  *Background*
+## Outrider
 
 In your youth, you galloped on horseback over vast prairies, serving as a vanguard for your settlement, an army, or another group. Seeing so many different lands built a thirst in you to adventure and explore the world instead of just racing past it.
 
@@ -1021,7 +1020,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]
 
 *Source: Player Core 2 p. 50*
 
-## Pilgrim  *Background*
+## Pilgrim
 
 In your youth, you made several pilgrimages to important shrines and sacred sites. You might have been a mendicant friar, a seller of religious relics (real or fraudulent), or just a simple farmer following the dictates of your faith. Whatever the aims of your wanderings now, your faith still protects you on the road. 
 
@@ -1031,7 +1030,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/religion|Relig
 
 *Source: Player Core 2 p. 50*
 
-## Plague Doctor  *Background*
+## Plague Doctor
 
 Plagues often spring from mass deaths and the vermin that multiply after such tragedies. Cities under siege can grow ill without proper nutrition and clean water. Your expertise with medicine allows you to help those afflicted by disease, and your view of the world is likely colored by seeing so much misfortune. 
 
@@ -1042,7 +1041,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/medicine|Medic
 
 *Source: Battlecry! p. 17*
 
-## Planar Migrant  *Background*
+## Planar Migrant
 
 `Rare`
 
@@ -1054,7 +1053,7 @@ Your birthplace was on one of the elemental planes, but you traveled to the Univ
 
 *Source: Rage of Elements p. 45*
 
-## Press-Ganged (G&G)  *Background*
+## Press-Ganged (G&G)
 
 `Uncommon`
 
@@ -1067,7 +1066,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/athletics|Athl
 
 *Source: Guns & Gears (Remastered) p. 124*
 
-## Printer  *Background*
+## Printer
 
 Keeping your finger on the pulse of the city, you write a small news broadsheet to sell on street corners. You rent the use of a [[srd/pf2e/compendium/equipment/adventuring-gear/printing-press|printing press]] to achieve this goal, so you're familiar with such machines. However, people and their stories are your main focus, and you adventure to chase the latest scoop.
 
@@ -1078,7 +1077,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/society|Societ
 
 *Source: Guns & Gears (Remastered) p. 45*
 
-## Prisoner  *Background*
+## Prisoner
 
 You might have been imprisoned for crimes (whether you were guilty or not), or enslaved for some part of your upbringing. In your adventuring life, you take full advantage of your newfound freedom.
 
@@ -1089,7 +1088,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealt
 
 *Source: Player Core p. 88*
 
-## Quartermaster  *Background*
+## Quartermaster
 
 An army marches on its stomach, and you have been on the forefront of ensuring your troops were properly fed and supplied. Through your logistical expertise, you understand that it can be vital to keep a tight fist around necessary supplies. And when soldiers ask for items without the proper clearance, you know how to turn them away with a withering look.
 
@@ -1100,7 +1099,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/intimidation|I
 
 *Source: Battlecry! p. 17*
 
-## Raised by Belief  *Background*
+## Raised by Belief
 
 Whether in a monastery, a religious household, or just as part of your everyday life, your upbringing was steeped in the traditions of a faith or philosophy. You might remain committed or you may have turned from your childhood creed, but your skills are still founded in your devotion.
 
@@ -1112,7 +1111,7 @@ attribute boost.
 
 *Source: Player Core p. 88*
 
-## Reborn Soul  *Background*
+## Reborn Soul
 
 `Rare`
 
@@ -1124,7 +1123,7 @@ You were given a second opportunity at life by mysterious forces in the Lands of
 
 *Source: Dark Archives (Remastered) p. 176*
 
-## Refugee  *Background*
+## Refugee
 
 You come from a land very distant from the one you now find yourself in, driven by war, plague, or simply in the pursuit of opportunity. Regardless of your origin or the reason you left your home, you find yourself an outsider in this new land. Adventuring is a way to support yourself while offering hope to those who need it most.
 
@@ -1135,7 +1134,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/society|Societ
 
 *Source: Player Core 2 p. 50*
 
-## Report Runner  *Background*
+## Report Runner
 
 During times of war, armies might venture far from the seats of government that send them out or get separated from their commanders by the terrain. Thanks to your riding skill and affinity with the animals that serve as mounts, you were tasked with carrying reports of an ongoing war from one place to another. Speed was of utmost importance, and sometimes you would need to spend days in the saddle.
 
@@ -1146,7 +1145,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]
 
 *Source: Battlecry! p. 17*
 
-## Returned  *Background*
+## Returned
 
 `Rare`
 
@@ -1158,7 +1157,7 @@ You died and miraculously returned with knowledge of the realms beyond death and
 
 *Source: Player Core 2 p. 53*
 
-## Revenant  *Background*
+## Revenant
 
 `Rare`
 
@@ -1170,7 +1169,7 @@ You’re trained in [[srd/pf2e/compendium/rules-elements/skills/religion|Religio
 
 *Source: Guns & Gears (Remastered) p. 125*
 
-## Root Worker  *Background*
+## Root Worker
 
 Some ailments can't be cured by herbs alone. You learned ritual remedies as well, calling on nature spirits to soothe aches and ward off the evil eye. Taking up with adventurers has given you company on the road, as well as protection from those who would brand you a fake—or worse.
 
@@ -1181,7 +1180,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/occultism|Occu
 
 *Source: Player Core 2 p. 51*
 
-## Royalty  *Background*
+## Royalty
 
 `Rare`
 
@@ -1193,7 +1192,7 @@ You are a prominent member of a royal family. You have eschewed the daily routin
 
 *Source: Player Core 2 p. 53*
 
-## Saboteur  *Background*
+## Saboteur
 
 Whether you do it for personal enjoyment or at the behest of a mercenary company or military organization, you have a knack for destroying things. You have a sense for an object or structure's weak spots and know where to deliver a hammer strike or alchemical bomb. You adventure to hone your skills or complete a particular mission.
 
@@ -1204,7 +1203,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/thievery|Thiev
 
 *Source: Guns & Gears (Remastered) p. 45*
 
-## Saboteur  *Background*
+## Saboteur
 
 Whether you do it for personal enjoyment or at the behest of a mercenary company or military organization, you have a knack for destroying things. You have a sense for an object or structure's weak spots and know where to deliver a hammer strike or alchemical bomb. You adventure to hone your skills or complete a particular mission.
 
@@ -1215,7 +1214,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/thievery|Thiev
 
 *Source: Player Core 2 p. 51*
 
-## Sailor  *Background*
+## Sailor
 
 You heard the call of the sea from a young age. Perhaps you signed onto a merchant’s vessel, joined the navy, or even fell in with a crew of pirates and scalawags.
 
@@ -1226,7 +1225,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/athletics|Athl
 
 *Source: Player Core p. 88*
 
-## Saloon Entertainer  *Background*
+## Saloon Entertainer
 
 All you want to do is entertain the people, but sure enough, bad news seems to follow you. Gunfights, brawls, robberies, and more befall establishments you play at, and word is quick to spread. Keep one town ahead of the gossip, and you just might be able to play a gig, command a stage, or run a table again.
 
@@ -1237,7 +1236,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/performance|Pe
 
 *Source: Guns & Gears (Remastered) p. 123*
 
-## Saved by Clockwork  *Background*
+## Saved by Clockwork
 
 `Rare`
 
@@ -1249,7 +1248,7 @@ Through bloody combat, a terrible accident, or purposeful sacrifice, you've lost
 
 *Source: Guns & Gears (Remastered) p. 47*
 
-## Scavenger  *Background*
+## Scavenger
 
 You've made a living sorting through the things society throws away. You might have scavenged simply to survive, or plied a trade as a ragpicker, dung carter, or the like. While you've left that life behind, you still keep one eye on the ground out of habit.
 
@@ -1260,7 +1259,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/survival|Survi
 
 *Source: Player Core 2 p. 51*
 
-## Scholar  *Background*
+## Scholar
 
 You have a knack for learning, and sequestered yourself from the outside world to learn all you could. You read about so many wondrous places and things in your books, and always dreamed about one day seeing the real things. Eventually, that curiosity led you to leave your studies and become an adventurer.
 
@@ -1271,7 +1270,7 @@ You’re trained in your choice of the [[srd/pf2e/compendium/rules-elements/skil
 
 *Source: Player Core p. 88*
 
-## Scout  *Background*
+## Scout
 
 You called the wilderness home as you found trails and guided travelers. Your wanderlust could have called you to the adventuring life, or perhaps you served as a scout for soldiers and found you liked battle.
 
@@ -1282,7 +1281,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/survival|Survi
 
 *Source: Player Core p. 88*
 
-## Servant  *Background*
+## Servant
 
 You held a role of servitude, waiting on nobles and engendering their trust as one of the confidantes of the household. You might have walked away on good terms, or perhaps you know dangerous secrets about your former employers. Regardless, you're adventuring for a change and finding that in this new role, the skills you've learned now serve you.
 
@@ -1293,7 +1292,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/society|Societ
 
 *Source: Player Core 2 p. 51*
 
-## Sheriff  *Background*
+## Sheriff
 
 `Uncommon`
 
@@ -1306,7 +1305,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/intimidation|I
 
 *Source: Guns & Gears (Remastered) p. 124*
 
-## Sky Rider  *Background*
+## Sky Rider
 
 The freedom of a bird in flight is something to envy, and envy it you did, but not for long. You've borrowed mechanical gliders or sought out the benefits of magically aided gliding and flight, doing anything for an opportunity to look down on the world with only the wind to keep you aloft. The expense of these experiences may have been a notable factor in why you undertook the adventuring lifestyle or perhaps you are seeking new methods of flight to master.
 
@@ -1317,7 +1316,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acr
 
 *Source: Rage of Elements p. 44*
 
-## Spotter  *Background*
+## Spotter
 
 An eye for detail, a sense for the wind, and a strong trust in your gut feelings. These qualities have set you apart from others when it comes to assisting a sharpshooter with setting up the perfect shot against their target. Elevation, velocity, and concealment—these are all vital factors that need to be considered to pull off a feat of true marksmanship, and no sniper would be able to function without an experienced spotter. Since your younger days, you've put your skills as a spotter to work as an adventurer. Whether you're taking your own shots now or spotting for others, your talents grant you an edge in an adventuring career.
 
@@ -1328,7 +1327,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealt
 
 *Source: Guns & Gears (Remastered) p. 123*
 
-## Squire  *Background*
+## Squire
 
 You trained at the feet of a knight, maintaining their gear and supporting them at tourneys and in battle. Now you search for a challenge that will prove you worthy of full knighthood, or you've spurned pomp and ceremony to test yourself in honest, albeit less formal, combat.
 
@@ -1339,7 +1338,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/athletics|Athl
 
 *Source: Player Core 2 p. 51*
 
-## Street Urchin  *Background*
+## Street Urchin
 
 You eked out a living by picking pockets on the streets of a major city, never knowing where you’d find your next meal. While some folk adventure for the glory, you do so to survive.
 
@@ -1350,7 +1349,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/thievery|Thiev
 
 *Source: Player Core p. 88*
 
-## Tall Tale  *Background*
+## Tall Tale
 
 `Rare`
 
@@ -1362,7 +1361,7 @@ You've ridden a tornado, lassoed a river, mooned a dragon under a full moon, and
 
 *Source: Guns & Gears (Remastered) p. 125*
 
-## Tax Collector  *Background*
+## Tax Collector
 
 Reviled but required, you were sent when taxes were due. Performing your job might have required travel and persuasion, or perhaps you were responsible for collecting taxes on trade. Either way, it sometimes meant dirty hands, and adventuring seemed the next logical step to you.
 
@@ -1373,7 +1372,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/intimidation|I
 
 *Source: Player Core 2 p. 51*
 
-## Teacher  *Background*
+## Teacher
 
 You are incredibly knowledgeable, skilled, and perhaps even trained to teach children and adults about the world and its wonders. From books to classes, you’re committed to imparting knowledge to all. Not everything can be taught or learned from a book, though, so you’ve become an adventurer to learn subjects more directly and bring that wisdom back to your students.
 
@@ -1385,7 +1384,7 @@ You're trained in your choice of either the [[srd/pf2e/compendium/rules-elements
 
 *Source: Player Core p. 88*
 
-## Tech-Reliant  *Background*
+## Tech-Reliant
 
 `Rare`
 
@@ -1397,7 +1396,7 @@ Some event, be it an accident, attack, or disaster, has left you horribly scarre
 
 *Source: Guns & Gears (Remastered) p. 47*
 
-## Tinker  *Background*
+## Tinker
 
 Creating all sorts of minor inventions scratches your itch for problem-solving. Your engineering skills take a particularly creative bent, and no one know what you’ll come up with next. It might be a genius device with tremendous potential... or it might explode.
 
@@ -1408,7 +1407,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/crafting|Craft
 
 *Source: Player Core p. 88*
 
-## Toymaker  *Background*
+## Toymaker
 
 You delight in making little trinkets for children of all ages, and seeing their faces light up thanks to one of your creations brings joy to your heart. Perhaps you sell your wares from a particular shop or from the back of a wagon as you travel from town to town.
 
@@ -1419,7 +1418,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/crafting|Craft
 
 *Source: Guns & Gears (Remastered) p. 45*
 
-## Undertaker  *Background*
+## Undertaker
 
 People die. This is the unfortunate fact of life on which you've founded your business, because wherever people die, there is a demand for mortuary services. You might be a Pharasmin priest or a secular professional, but your job is seeing to the body, comforting the bereaved, and making sure that the deceased goes to their ultimate reward with all due dignity. Of course, someone in your position sees a lot of strange deaths, and chances are one of them set you on the road to adventure.
 
@@ -1430,7 +1429,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/medicine|Medic
 
 *Source: Guns & Gears (Remastered) p. 123*
 
-## Veteran  *Background*
+## Veteran
 
 You have seen more battles than you can remember and have managed to make it through them mostly intact. Nothing surprises you anymore, except maybe when things actually go as planned. You are always pleasantly surprised when you manage to survive another day.
 
@@ -1441,7 +1440,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/athletics|Athl
 
 *Source: Battlecry! p. 17*
 
-## Wandering Preacher  *Background*
+## Wandering Preacher
 
 While you once spoke to a small congregation in a ramshackle church, those days are behind you now. Your church was destroyed, your congregants scattered, and now you meander the lands holding a worn copy of your religious text in one hand, and a fiery conviction in the other.
 
@@ -1452,7 +1451,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/religion|Relig
 
 *Source: Guns & Gears (Remastered) p. 123*
 
-## War Orphan  *Background*
+## War Orphan
 
 The horrors of war have left you orphaned and alone, forcing you to fend for yourself until you were taught the ways of the world by a group of similarly affected youths. They were like a new family to you, but you had to live outside the law in order to survive. Those days are behind you now, but there are certain tricks you'll never forget.
 
@@ -1463,7 +1462,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/thievery|Thiev
 
 *Source: Battlecry! p. 17*
 
-## Ward  *Background*
+## Ward
 
 When you were young, you became the ward of another house— boarded, fed, and educated, but never quite a part of the family. Perhaps you had to tend to their needs in return for feeding and raising you, or perhaps you were provided for but disregarded. Now, adventuring is your chance to grow and roam free.
 
@@ -1474,7 +1473,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/performance|Pe
 
 *Source: Player Core 2 p. 51*
 
-## Warrior  *Background*
+## Warrior
 
 In your younger days, you waded into battle as a mercenary, a warrior defending a nomadic people, or a member of a militia or army. You might have wanted to break out from the regimented structure of these forces, or you could have always been as independent a warrior as you are now.
 
@@ -1485,7 +1484,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/intimidation|I
 
 *Source: Player Core p. 88*
 
-## Waste Walker  *Background*
+## Waste Walker
 
 Whether you grew up in the Mana Wastes or another similarly desolate place, you quickly learned that only the strong survive. You and your family were forced to evade monsters, mutants, wild magic, and worse, as each new day heralded the possibility of a danger or threat you'd never seen before. You learned to adapt to the worst possible conditions and how to forage and survive in a place few others would dare to live.
 
@@ -1496,7 +1495,7 @@ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/survival|Survi
 
 *Source: Guns & Gears (Remastered) p. 123*
 
-## Wished Alive  *Background*
+## Wished Alive
 
 `Rare`
 

@@ -1,17 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/battlecry
 - vehicle/level/13
 aliases: ["Combat Catamaran"]
-aon_id: "vehicle-107"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=107"
 source: "Battlecry!"
 ---
 
 # Combat Catamaran  *Vehicle 13*
 
-- **Price**: 9,000 gp
+- **Price**: 9, 000 gp
 
 This high-speed sailing ship is designed to track down fleeing vessels. When traveling downwind, the combat catamaran can deploy a pair of huge kite-like spinnakers that dramatically increase its speed.
 

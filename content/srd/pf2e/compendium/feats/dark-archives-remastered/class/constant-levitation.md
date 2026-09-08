@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 - trait/psychic
 - feat/level/16
 aliases: ["Constant Levitation"]
-aon_id: "feat-8343"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8343"
 source: "Dark Archives (Remastered)"
 ---
 

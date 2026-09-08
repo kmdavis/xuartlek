@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/healing
 aliases: ["Healing"]
-aon_id: "trait-623"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=623"
 source: "Player Core"
 ---
 

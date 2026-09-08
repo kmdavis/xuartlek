@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/cleric
 - feat/level/8
 aliases: ["Zealous Rush"]
-aon_id: "feat-4674"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4674"
 source: "Player Core"
 ---
 

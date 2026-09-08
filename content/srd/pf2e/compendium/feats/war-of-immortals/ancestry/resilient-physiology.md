@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
 - trait/nephilim
 - feat/level/5
 aliases: ["Resilient Physiology"]
-aon_id: "feat-7207"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7207"
 source: "War of Immortals"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Storm Hag"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Storm Hag"
 level: 5
 source: "Monster Core 2"
-aon_id: "creature-4433"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4433"
 ---
 
@@ -52,7 +50,7 @@ armorclass:
 hp: 90
 health:
   - name: "HP"
-    desc: "90; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]], wind mastery; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 5"
+    desc: "90; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]], wind mastery; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 5"
 abilities_mid:
   - name: "Wind Mastery"
     desc: "A storm hag is unaffected by strong winds, natural or magical."

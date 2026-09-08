@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -8,7 +7,7 @@ tags:
 - trait/teleportation
 - spell/level/6
 aliases: ["Collective Transposition"]
-aon_id: "spell-1978"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1978"
 source: "Player Core 2"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core 2"
 `Concentrate`  `Manipulate`  `Teleportation`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Andoletta, Bolka, Lorris, The Readied Strike
+- **Deities**: [[srd/pf2e/compendium/deities/empyreal-lords/andoletta|Andoletta]], [[srd/pf2e/compendium/deities/dwarven-gods/bolka|Bolka]], [[srd/pf2e/compendium/deities/empyreal-lords/lorris|Lorris]], [[srd/pf2e/compendium/deities/covenants/the-readied-strike|The Readied Strike]]
 - **Area**: 30-foot emanation
 - **Target**: up to 2 creatures
 - **Defense**: Will

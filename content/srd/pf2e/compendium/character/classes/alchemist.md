@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class
 tags:
 - compendium/src/pf2e/player-core-2
 aliases: ["Alchemist"]
-aon_id: "class-56"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=56"
 source: "Player Core 2"
 ---
 
@@ -22,7 +21,7 @@ You'll see the following key terms in many alchemist class features and abilitie
 
 ### Sample Formula Book
 
-You can choose any 1st-level common alchemical items for your formula book, but the list below contains a good selection of starter formulas. A beginner's book with these formulas called _The Fundamentals of Alchemy_ has become popular among mainstream alchemists by staying away from controversial topics like mutagens, though it has drawn criticism from fringe alchemists for guiding fledgling alchemists away from more innovative experiments. **Alchemical Item Formulas**: [[srd/pf2e/compendium/equipment/alchemical-items/alchemists-fire|Alchemist's fire]], frost vial, [[srd/pf2e/compendium/equipment/alchemical-items/cheetahs-elixir|cheetah's elixir]], [[srd/pf2e/compendium/equipment/alchemical-items/elixir-of-life|elixir of life]], [[srd/pf2e/compendium/equipment/alchemical-items/glue-bomb|glue bomb]], [[srd/pf2e/compendium/equipment/alchemical-items/smoke-ball|smoke ball]]; **Bomber** [[srd/pf2e/compendium/equipment/alchemical-items/acid-flask|Acid flask]], bottled lightning; **Chirurgeon** [[srd/pf2e/compendium/equipment/alchemical-items/antidote|Antidote]], [[srd/pf2e/compendium/equipment/alchemical-items/antiplague|antiplague]]; **Mutagenist** Bestial mutagen, cognitive mutagen; **Toxicologist** [[srd/pf2e/compendium/equipment/alchemical-items/arsenic|Arsenic]], [[srd/pf2e/compendium/equipment/alchemical-items/giant-centipede-venom|giant centipede venom]]
+You can choose any 1st-level common alchemical items for your formula book, but the list below contains a good selection of starter formulas. A beginner's book with these formulas called _The Fundamentals of Alchemy_ has become popular among mainstream alchemists by staying away from controversial topics like mutagens, though it has drawn criticism from fringe alchemists for guiding fledgling alchemists away from more innovative experiments. **Alchemical Item Formulas**: Alchemist's fire, frost vial, cheetah's elixir, elixir of life, glue bomb, smoke ball; **Bomber** Acid flask, bottled lightning; **Chirurgeon** Antidote, antiplague; **Mutagenist** Bestial mutagen, cognitive mutagen; **Toxicologist** Arsenic, giant centipede venom
 
 ### Roleplaying the Alchemist
 
@@ -133,7 +132,7 @@ Each time you gain a level, you can add the formulas for two common alchemical i
 
 Your inquiries into the alchemical nature of the universe have led you to focus on a particular field of research. At 1st level, you choose your research field. This choice gives you more formulas, a special benefit, other abilities for your versatile vials, and other benefits as you level up.
 
-Research fields can be found here.
+Research fields can be found [[srd/pf2e/compendium/character/research-fields|here]].
 
 | | |
 | --- | --- |

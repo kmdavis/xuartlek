@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
 - trait/shove
 - weapon/level/0
 aliases: ["Maul"]
-aon_id: "weapon-388"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=388"
 source: "Player Core"
 ---
 
@@ -14,7 +13,7 @@ source: "Player Core"
 
 `Shove`
 
-- **Favored Weapon**: Belech, The Devourer, Uvuko
+- **Favored Weapon**: Belech, [[srd/pf2e/compendium/deities/other-gods/the-devourer|The Devourer]], Uvuko
 - **Price**: 3 gp
 - **Damage**: 1d12 B
 - **Bulk**: 2

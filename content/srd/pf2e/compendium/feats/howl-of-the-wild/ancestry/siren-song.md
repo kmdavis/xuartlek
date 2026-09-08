@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -9,7 +8,7 @@ tags:
 - trait/primal
 - feat/level/9
 aliases: ["Siren Song"]
-aon_id: "feat-5355"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5355"
 source: "Howl of the Wild"
 ---
 

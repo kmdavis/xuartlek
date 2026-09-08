@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/poison
 - spell/level/5
 aliases: ["Toxic Cloud"]
-aon_id: "spell-1722"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1722"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Concentrate`  `Death`  `Manipulate`  `Poison`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Apollyon, Cixyron, Isph-Aun-Vuln, Nergal, Nhimbaloth, Sicva, Vorasha, Ydersius
+- **Deities**: [[srd/pf2e/compendium/deities/apocalypse-riders/apollyon|Apollyon]], [[srd/pf2e/compendium/deities/daemon-harbingers/cixyron|Cixyron]], [[srd/pf2e/compendium/deities/qlippoth-lords/isph-aun-vuln|Isph-Aun-Vuln]], [[srd/pf2e/compendium/deities/infernal-dukes/nergal|Nergal]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nhimbaloth|Nhimbaloth]], [[srd/pf2e/compendium/deities/azlanti-pantheon/sicva|Sicva]], [[srd/pf2e/compendium/deities/daemon-harbingers/vorasha|Vorasha]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/ydersius|Ydersius]]
 - **Range**: 120 feet
 - **Area**: 20-foot burst
 - **Defense**: basic Fortitude

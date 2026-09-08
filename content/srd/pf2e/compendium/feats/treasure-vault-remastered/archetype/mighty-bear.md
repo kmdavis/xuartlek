@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
 - trait/archetype
 - feat/level/18
 aliases: ["Mighty Bear"]
-aon_id: "feat-4094"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4094"
 source: "Treasure Vault (Remastered)"
 ---
 

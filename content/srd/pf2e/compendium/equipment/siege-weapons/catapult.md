@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - siege-weapon/level/7
 aliases: ["Catapult"]
-aon_id: "siege-weapon-5"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=5"
 source: "Guns & Gears (Remastered)"
 ---
 

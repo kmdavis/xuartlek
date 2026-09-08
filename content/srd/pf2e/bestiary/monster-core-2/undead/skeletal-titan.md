@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Skeletal Titan"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Skeletal Titan"
 level: 13
 source: "Monster Core 2"
-aon_id: "creature-4550"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4550"
 ---
 

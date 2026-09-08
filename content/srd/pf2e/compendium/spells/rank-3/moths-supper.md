@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/3
 aliases: ["Moth's Supper"]
-aon_id: "spell-2575"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2575"
 source: "Dark Archives (Remastered)"
 ---
 
@@ -16,7 +15,7 @@ source: "Dark Archives (Remastered)"
 `Concentrate`  `Manipulate`
 
 - **Traditions**: Occult, Primal
-- **Deities**: Ah Pook, Nulgreth
+- **Deities**: [[srd/pf2e/compendium/deities/other-gods/ah-pook|Ah Pook]], [[srd/pf2e/compendium/deities/orc-gods/nulgreth|Nulgreth]]
 - **Duration**: 1 hour
 
 You sigh, and your breath transforms into delicate, black-winged butterflies and huge death's-head hawkmoths. They flutter about you briefly, and then range forth in search of sustenance—fresh-spilled blood, by preference, but rotting corpses, flowering plants, or even left-behind food will do in a pinch. They then return, perching on your hair or shoulders and whispering their secrets into your ears. This has three effects. 

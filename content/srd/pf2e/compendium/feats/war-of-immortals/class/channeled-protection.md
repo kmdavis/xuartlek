@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -8,7 +7,7 @@ tags:
 - trait/aura
 - feat/level/4
 aliases: ["Channeled Protection"]
-aon_id: "feat-7128"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7128"
 source: "War of Immortals"
 ---
 

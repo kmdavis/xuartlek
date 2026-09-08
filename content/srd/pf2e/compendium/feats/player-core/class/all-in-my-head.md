@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/mental
 - feat/level/18
 aliases: ["All in my Head"]
-aon_id: "feat-4632"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4632"
 source: "Player Core"
 ---
 

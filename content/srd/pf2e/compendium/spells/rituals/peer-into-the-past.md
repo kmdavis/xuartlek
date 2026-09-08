@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - ritual/level/5
 aliases: ["Peer into the Past"]
-aon_id: "ritual-261"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=261"
 source: "Impossible Magic"
 ---
 

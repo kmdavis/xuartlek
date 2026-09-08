@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Boggard Swampseer"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Boggard Swampseer"
 level: 3
 source: "Monster Core"
-aon_id: "creature-2858"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2858"
 ---
 

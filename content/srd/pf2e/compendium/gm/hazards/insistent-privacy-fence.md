@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/trap
 - hazard/level/8
 aliases: ["Insistent Privacy Fence"]
-aon_id: "hazard-96"
+aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=96"
 source: "Guns & Gears (Remastered)"
 ---
 

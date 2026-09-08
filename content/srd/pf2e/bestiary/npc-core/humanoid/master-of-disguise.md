@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Master Of Disguise"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Master Of Disguise"
 level: 7
 source: "NPC Core"
-aon_id: "creature-3433"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3433"
 ---
 
@@ -40,7 +38,7 @@ abilities_top:
   - name: "Disguise Specialist"
     desc: "For social encounters involving impersonation, the master of disguise is a 10th-level challenge."
   - name: "Items"
-    desc: "Dagger (5), elite disguise kit, [[srd/pf2e/compendium/equipment/worn-items/masquerade-scarf-greater|_masquerade scarf_]]"
+    desc: "Dagger (5), elite disguise kit, [[srd/pf2e/compendium/equipment/worn-items/masquerade-scarf|_masquerade scarf_]]"
 ac: 25
 armorclass:
   - name: "AC"

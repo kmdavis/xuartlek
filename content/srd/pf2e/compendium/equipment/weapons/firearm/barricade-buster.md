@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -11,7 +10,7 @@ tags:
 - trait/volley
 - weapon/level/1
 aliases: ["Barricade Buster"]
-aon_id: "weapon-330"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=330"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -19,7 +18,7 @@ source: "Treasure Vault (Remastered)"
 
 `Kickback`  `Orc`  `Razing`  `Repeating`  `Uncommon`  `Volley`
 
-- **Favored Weapon**: Wulgren
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/orc-gods/wulgren|Wulgren]]
 - **Price**: 9 gp
 - **Damage**: 1d10 B
 - **Bulk**: 3

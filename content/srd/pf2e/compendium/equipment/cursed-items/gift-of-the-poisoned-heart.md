@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -10,7 +9,7 @@ tags:
 - trait/unholy
 - equipment/level/16
 aliases: ["Gift of the Poisoned Heart"]
-aon_id: "equipment-4141"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4141"
 source: "Dark Archives (Remastered)"
 ---
 

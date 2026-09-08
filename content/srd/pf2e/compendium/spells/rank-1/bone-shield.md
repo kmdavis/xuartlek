@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/concentrate
 - spell/level/1
 aliases: ["Bone Shield"]
-aon_id: "spell-2646"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2646"
 source: "Impossible Magic"
 ---
 

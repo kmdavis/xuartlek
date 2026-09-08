@@ -1,20 +1,18 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
-- compendium/src/pf2e/gm-core
+- compendium/src/pf2e/player-core-2
 - trait/alchemical
 - trait/consumable
-- trait/light
 - equipment/level/1
 aliases: ["Glow Rod"]
-aon_id: "equipment-2910"
-source: "GM Core"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3355"
+source: "Player Core 2"
 ---
 
 # Glow Rod  *Item 1*
 
-`Alchemical`  `Consumable`  `Light`
+`Alchemical`  `Consumable`
 
 - **Price**: 3 gp
 - **Usage**: held in 1 hand
@@ -23,4 +21,4 @@ source: "GM Core"
 
 This 1-foot-long, gold-tipped rod glows after it's struck on a hard surface. For the next 6 hours, it sheds bright light in a 20-foot radius (and dim light to the next 40 feet).
 
-*Source: GM Core p. 251*
+*Source: Player Core 2 p. 295*

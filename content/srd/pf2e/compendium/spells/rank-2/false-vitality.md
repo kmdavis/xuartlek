@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/2
 aliases: ["False Vitality"]
-aon_id: "spell-1523"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1523"
 source: "Player Core"
 ---
 
@@ -16,7 +15,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Aesocar, Oathos, Osiris, Qi Zhong, Touch of the Sun, Urgathoa
+- **Deities**: [[srd/pf2e/compendium/deities/azlanti-pantheon/aesocar|Aesocar]], Oathos, [[srd/pf2e/compendium/deities/dead-or-missing-deities/osiris|Osiris]], Qi Zhong, Touch of the Sun, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/urgathoa|Urgathoa]]
 - **Duration**: 8 hours
 
 You augment your flesh with the energies typically used to manipulate the undead. You gain 10 temporary Hit Points.

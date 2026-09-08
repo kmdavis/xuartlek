@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/battlecry
 - vehicle/level/4
 aliases: ["Floating Camouflage Blind"]
-aon_id: "vehicle-108"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=108"
 source: "Battlecry!"
 ---
 

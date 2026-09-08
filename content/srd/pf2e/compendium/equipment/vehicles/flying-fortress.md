@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/battlecry
 - trait/rare
 - vehicle/level/20
 aliases: ["Flying Fortress"]
-aon_id: "vehicle-93"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=93"
 source: "Battlecry!"
 ---
 
@@ -14,7 +13,7 @@ source: "Battlecry!"
 
 `Rare`
 
-- **Price**: 210,000 gp
+- **Price**: 210, 000 gp
 
 The ultimate battlefield command center, this massive skyborne castle serves as a platform for launching aerial assaults on land-based and sea-based enemy positions. By hovering over an enemy position, the flying fortress can lay waste to enemies who lack countering siege weapons by firing down on their frontline defenses.
 

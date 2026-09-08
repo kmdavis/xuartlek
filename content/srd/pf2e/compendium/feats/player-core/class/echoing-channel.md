@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/metamagic
 - feat/level/18
 aliases: ["Echoing Channel"]
-aon_id: "feat-4699"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4699"
 source: "Player Core"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Elemental Hurricane"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Elemental Hurricane"
 level: 11
 source: "Monster Core"
-aon_id: "creature-2976"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2976"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/goblin
 - feat/level/17
 aliases: ["Reckless Abandon (Goblin)"]
-aon_id: "feat-4454"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4454"
 source: "Player Core"
 ---
 

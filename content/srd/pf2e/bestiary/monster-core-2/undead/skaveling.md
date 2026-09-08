@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Skaveling"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Skaveling"
 level: 5
 source: "Monster Core 2"
-aon_id: "creature-4545"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4545"
 ---
 

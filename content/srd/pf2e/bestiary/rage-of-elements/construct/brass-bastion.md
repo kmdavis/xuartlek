@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Brass Bastion"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Brass Bastion"
 level: 14
 source: "Rage of Elements"
-aon_id: "creature-2631"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2631"
 ---
 

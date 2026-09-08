@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/fighter
 - feat/level/8
 aliases: ["Incredible Aim"]
-aon_id: "feat-4813"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4813"
 source: "Player Core"
 ---
 

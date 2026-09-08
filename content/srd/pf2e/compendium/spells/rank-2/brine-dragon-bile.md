@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -8,7 +7,7 @@ tags:
 - trait/water
 - spell/level/2
 aliases: ["Brine Dragon Bile"]
-aon_id: "spell-1382"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1382"
 source: "Rage of Elements"
 ---
 
@@ -17,7 +16,7 @@ source: "Rage of Elements"
 `Acid`  `Concentrate`  `Water`
 
 - **Traditions**: Arcane, Primal
-- **Deity**: Ragadahn
+- **Deity**: [[srd/pf2e/compendium/deities/eldest/ragadahn|Ragadahn]]
 - **Trigger**: A creature within range takes damage from a slashing or piercing attack, or one that inflicts persistent bleed damage.
 - **Range**: 30 feet
 - **Target**: the creature that took damage

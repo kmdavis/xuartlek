@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/gunslinger
 - feat/level/10
 aliases: ["Redirecting Shot"]
-aon_id: "feat-3187"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3187"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -15,7 +14,7 @@ source: "Guns & Gears (Remastered)"
 
 `Fortune`  `Gunslinger`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/sniping-duo|Sniping Duo]] (Level 12), [[srd/pf2e/compendium/character/archetypes/sniping-duo|Sniping Duo]] (Level 12)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/sniping-duo|Sniping Duo]] (Level 12)
 - **Trigger**: An ally misses with a ranged attack that uses a [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown]] weapon or ammunition. The ally must be willing to accept your assistance, you must see the attack's target, and the attack's target must be within the first range increment of your firearm or crossbow.
 - **Requirements**: You're wielding a loaded firearm or crossbow.
 

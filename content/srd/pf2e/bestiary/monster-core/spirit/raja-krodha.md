@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Raja-Krodha"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Raja-Krodha"
 level: 10
 source: "Monster Core"
-aon_id: "creature-3161"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3161"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [6, 6, 4, 2, 2, 5]
 abilities_top:
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] taravari_ (functions as a [[srd/pf2e/compendium/equipment/weapons/sword/scimitar|scimitar]])"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] taravari_ (functions as a [[srd/pf2e/compendium/equipment/weapons/sword/scimitar|scimitar]])"
 ac: 30
 armorclass:
   - name: "AC"

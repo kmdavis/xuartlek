@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/unstable
 - feat/level/1
 aliases: ["Haphazard Repair"]
-aon_id: "feat-3046"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3046"
 source: "Guns & Gears (Remastered)"
 ---
 

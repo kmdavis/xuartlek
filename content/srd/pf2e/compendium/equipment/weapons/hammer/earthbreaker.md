@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/versatile
 - weapon/level/0
 aliases: ["Earthbreaker"]
-aon_id: "weapon-281"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=281"
 source: "Treasure Vault (Remastered)"
 ---
 

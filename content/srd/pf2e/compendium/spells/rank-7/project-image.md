@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/mental
 - spell/level/7
 aliases: ["Project Image"]
-aon_id: "spell-1640"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1640"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Concentrate`  `Illusion`  `Manipulate`  `Mental`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Iggeret, Lady Jingxi, Nyarlathotep (The Crawling Chaos), Phi Deva
+- **Deities**: [[srd/pf2e/compendium/deities/sakhil-tormentors/iggeret|Iggeret]], Lady Jingxi, [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-the-crawling-chaos|Nyarlathotep (The Crawling Chaos)]], Phi Deva
 - **Range**: 30 feet
 - **Duration**: sustained up to 1 minute
 

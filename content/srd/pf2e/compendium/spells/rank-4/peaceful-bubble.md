@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - spell/level/4
 aliases: ["Peaceful Bubble"]
-aon_id: "spell-1624"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1624"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Uncommon`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Bastet, Count Ranalc, Lalaci, Oathos, Tsukiyo
+- **Deities**: Bastet, [[srd/pf2e/compendium/deities/eldest/count-ranalc|Count Ranalc]], [[srd/pf2e/compendium/deities/empyreal-lords/lalaci|Lalaci]], Oathos, [[srd/pf2e/compendium/deities/tian-gods/tsukiyo|Tsukiyo]]
 - **Cast**: 10 minutes
 - **Range**: touch
 - **Area**: 100-foot burst

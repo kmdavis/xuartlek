@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Sordesdaemon"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Sordesdaemon"
 level: 15
 source: "Monster Core 2"
-aon_id: "creature-4307"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4307"
 ---
 

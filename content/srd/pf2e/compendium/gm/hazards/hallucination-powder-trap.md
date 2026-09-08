@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
 tags:
 - compendium/src/pf2e/gm-core
@@ -7,7 +6,7 @@ tags:
 - trait/trap
 - hazard/level/6
 aliases: ["Hallucination Powder Trap"]
-aon_id: "hazard-471"
+aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=471"
 source: "GM Core"
 ---
 

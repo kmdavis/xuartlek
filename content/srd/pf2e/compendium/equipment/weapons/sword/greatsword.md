@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
 - trait/versatile
 - weapon/level/0
 aliases: ["Greatsword"]
-aon_id: "weapon-379"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=379"
 source: "Player Core"
 ---
 
@@ -14,7 +13,7 @@ source: "Player Core"
 
 `Versatile`
 
-- **Favored Weapon**: Ashukharma, Gorum, Mrtyu, Smiad, Szuriel, Zjar-Tovan, Zursvaater
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/vudrani-gods/ashukharma|Ashukharma]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/gorum|Gorum]], [[srd/pf2e/compendium/deities/monitor-demigods/mrtyu|Mrtyu]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/smiad|Smiad]], [[srd/pf2e/compendium/deities/apocalypse-riders/szuriel|Szuriel]], [[srd/pf2e/compendium/deities/other-gods/zjar-tovan|Zjar-Tovan]], [[srd/pf2e/compendium/deities/giant-gods/zursvaater|Zursvaater]]
 - **Price**: 2 gp
 - **Damage**: 1d12 S
 - **Bulk**: 2

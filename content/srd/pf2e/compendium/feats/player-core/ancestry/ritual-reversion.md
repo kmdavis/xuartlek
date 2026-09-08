@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/primal
 - feat/level/5
 aliases: ["Ritual Reversion"]
-aon_id: "feat-4502"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4502"
 source: "Player Core"
 ---
 

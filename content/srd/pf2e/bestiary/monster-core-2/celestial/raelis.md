@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Raelis"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Raelis"
 level: 11
 source: "Monster Core 2"
-aon_id: "creature-4094"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4094"
 ---
 

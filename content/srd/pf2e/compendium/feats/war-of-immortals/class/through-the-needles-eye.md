@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -7,7 +6,7 @@ tags:
 - trait/ikon
 - feat/level/4
 aliases: ["Through the Needle's Eye"]
-aon_id: "feat-7163"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7163"
 source: "War of Immortals"
 ---
 

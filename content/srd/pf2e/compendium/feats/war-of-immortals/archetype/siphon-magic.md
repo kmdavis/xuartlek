@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -7,7 +6,7 @@ tags:
 - trait/rage
 - feat/level/6
 aliases: ["Siphon Magic"]
-aon_id: "feat-7242"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7242"
 source: "War of Immortals"
 ---
 

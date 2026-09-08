@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/polymorph
 - spell/level/2
 aliases: ["Animal Form"]
-aon_id: "spell-1440"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1440"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Polymorph`
 
 - **Tradition**: Primal
-- **Deities**: Ananshea, Angazhan, Cernunnos, Drokalion, Geryon, Kagia, Kazutal, Lamashtu, Ravithra, Rowdrosh, Stag Mother of the Forest of Stones, Wadjet, Yrmidar
+- **Deities**: [[srd/pf2e/compendium/deities/sakhil-tormentors/ananshea|Ananshea]], Angazhan, [[srd/pf2e/compendium/deities/dead-or-missing-deities/cernunnos|Cernunnos]], Drokalion, [[srd/pf2e/compendium/deities/archdevils/geryon|Geryon]], [[srd/pf2e/compendium/deities/sarkorian-gods/kagia|Kagia]], [[srd/pf2e/compendium/deities/other-gods/kazutal|Kazutal]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/lamashtu|Lamashtu]], [[srd/pf2e/compendium/deities/vudrani-gods/ravithra|Ravithra]], Rowdrosh, [[srd/pf2e/compendium/deities/sarkorian-gods/stag-mother-of-the-forest-of-stones|Stag Mother of the Forest of Stones]], Wadjet, [[srd/pf2e/compendium/deities/giant-gods/yrmidar|Yrmidar]]
 - **Duration**: 1 minute
 
 You call upon primal energy to transform yourself into a Medium animal battle form. When you Cast this Spell, choose a listed battle form. You can decide the specific type of animal (such as lion or snow leopard for cat), but this has no effect on the form's Size or statistics. While in this form, you gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animal]] trait. You can Dismiss the spell.

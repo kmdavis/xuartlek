@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Sand Sentry"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Sand Sentry"
 level: 6
 source: "Monster Core 2"
-aon_id: "creature-4384"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4384"
 ---
 

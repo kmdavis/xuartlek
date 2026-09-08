@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Balisse"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Balisse"
 level: 8
 source: "Monster Core"
-aon_id: "creature-2816"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2816"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [5, 2, 4, 1, 6, 5]
 abilities_top:
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/scimitar|scimitar]]_"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/scimitar|scimitar]]_"
 ac: 26
 armorclass:
   - name: "AC"

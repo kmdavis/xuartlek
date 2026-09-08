@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Necromancer"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Necromancer"
 level: 5
 source: "NPC Core"
-aon_id: "creature-3538"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3538"
 ---
 

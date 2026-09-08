@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - equipment/level/12
 aliases: ["Resonant Guitar"]
-aon_id: "equipment-2616"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2616"
 source: "Rage of Elements"
 ---
 
@@ -17,7 +16,7 @@ source: "Rage of Elements"
 
 `Magical`  `Metal`  `Sonic`  `Uncommon`
 
-- **Price**: 1,850 gp
+- **Price**: 1, 850 gp
 - **Usage**: held in 2 hands
 - **Bulk**: 1
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/versatile
 - weapon/level/0
 aliases: ["Khakkhara"]
-aon_id: "weapon-412"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=412"
 source: "Player Core"
 ---
 
@@ -36,6 +35,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/chatterer-of-follies-equipment-5015|Chatterer Of Follies]], Worldringer
+[[srd/pf2e/compendium/equipment/weapons/chatterer-of-follies|Chatterer Of Follies]], Worldringer
 
 *Source: Player Core p. 278*

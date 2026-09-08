@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-skill
 tags:
 - compendium/src/pf2e/player-core
 aliases: ["Medicine"]
-aon_id: "skill-42"
+aon_url: "https://2e.aonprd.com/Skills.aspx?ID=42"
 source: "Player Core"
 ---
 
@@ -25,14 +24,14 @@ Category
 Consumable
 Note
 
-[[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit-expanded|Healer's Toolkit (Expanded)]]
+[[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit|Healer's Toolkit (Expanded)]]
 +1
 3
 Adventuring Gear
 No
 Medicine checks to Administer First Aid, Treat Disease, Treat Poison, or Treat Wounds
 
-[[srd/pf2e/compendium/equipment/worn-items/mask-of-mercy-equipment-2350|Mask of Mercy]]
+[[srd/pf2e/compendium/equipment/worn-items/mask-of-mercy|Mask of Mercy]]
 +1
 4
 Other Worn Items
@@ -53,14 +52,14 @@ Talismans
 Yes
 Medicine to Administer First Aid
 
-[[srd/pf2e/compendium/equipment/worn-items/greater-medics-armband|Greater Medic’s Armband]]
+[[srd/pf2e/compendium/equipment/worn-items/medics-armband|Greater Medic’s Armband]]
 +2
 10
 Worn Items
 No
 Item bonus to Diplomacy checks to change the attitudes of diseased, poisoned, and wounded creatures.
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal]]
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal]]
 +2
 11
 Worn Items
@@ -87,7 +86,7 @@ Alchemical Tools
 Yes
 Medicine checks to Administer First Aid, Treat Wounds, or use Battle Medicine
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal (Greater)]]
 +3
 18
 Worn Items

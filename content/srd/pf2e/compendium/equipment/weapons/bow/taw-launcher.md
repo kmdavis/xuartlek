@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - weapon/level/0
 aliases: ["Taw Launcher"]
-aon_id: "weapon-146"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=342"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -28,7 +27,7 @@ source: "Treasure Vault (Remastered)"
 - **Group**: Bow
 - **Ammunition**: Wooden Taws
 
-Designed by conrasu warriors, this complex device is a crossbow and fires small wooden bullets known as taws. A system of blades within the launcher can rapidly reshape a taw as it's loaded, allowing the launcher to fire taws of different shapes, such as fléchettes.
+This complex device is a crossbow and fires small wooden bullets known as taws. A system of blades within the launcher can rapidly reshape a taw as it's loaded, allowing the launcher to fire taws of different shapes, such as fléchettes.
 
 ### Critical Specialization Effects
 

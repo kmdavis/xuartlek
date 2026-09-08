@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/misfortune
 - equipment/level/12
 aliases: ["Escalation Ammunition"]
-aon_id: "equipment-5036"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5036"
 source: "Impossible Magic"
 ---
 

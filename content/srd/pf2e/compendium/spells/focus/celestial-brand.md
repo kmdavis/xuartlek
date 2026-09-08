@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -10,7 +9,7 @@ tags:
 - trait/uncommon
 - spell/level/5
 aliases: ["Celestial Brand"]
-aon_id: "spell-2095"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2095"
 source: "Player Core 2"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core 2"
 
 `Curse`  `Focus`  `Manipulate`  `Sorcerer`  `Uncommon`
 
-- **Bloodline**: Angelic
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Angelic|Angelic]]
 - **Range**: 30 feet
 - **Target**: 1 unholy creature
 - **Duration**: 1 round

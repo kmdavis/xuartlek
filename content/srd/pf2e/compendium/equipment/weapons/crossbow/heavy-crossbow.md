@@ -1,17 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
 - weapon/level/0
 aliases: ["Heavy Crossbow"]
-aon_id: "weapon-428"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=428"
 source: "Player Core"
 ---
 
 # Heavy Crossbow  *Weapon 0*
 
-- **Favored Weapon**: Zohls
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/empyreal-lords/zohls|Zohls]]
 - **Price**: 4 gp
 - **Damage**: 1d10 P
 - **Bulk**: 2

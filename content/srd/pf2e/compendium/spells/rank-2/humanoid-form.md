@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/polymorph
 - spell/level/2
 aliases: ["Humanoid Form"]
-aon_id: "spell-1560"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1560"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Polymorph`
 
 - **Traditions**: Arcane, Occult, Primal
-- **Deities**: Arshea, Belial, Daikitsu, Haagenti, Isis, Nyarlathotep (The Crawling Chaos)
+- **Deities**: [[srd/pf2e/compendium/deities/empyreal-lords/arshea|Arshea]], [[srd/pf2e/compendium/deities/archdevils/belial|Belial]], Daikitsu, [[srd/pf2e/compendium/deities/demon-lords/haagenti|Haagenti]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/isis|Isis]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-the-crawling-chaos|Nyarlathotep (The Crawling Chaos)]]
 - **Duration**: 10 minutes
 
 You transform your appearance to that of a Small or Medium humanoid, such as a dwarf, elf, goblin, halfling, human, or orc. You gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/humanoid|humanoid]] trait in addition to your other traits while in this form, as well as any trait related to the creature's kind (such as [[srd/pf2e/compendium/rules-elements/traits/player-core/goblin|goblin]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/human|human]]). If this transformation reduces your size, it reduces your reach accordingly (typically to 5 feet). This transformation doesn't change your statistics in any way, and you don't gain any special abilities of the humanoid form you assume. You can still wear and use your gear, which changes size (if necessary) to match your new form. If items leave your person, they return to their usual size.

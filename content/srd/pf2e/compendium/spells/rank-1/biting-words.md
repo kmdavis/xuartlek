@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -11,7 +10,7 @@ tags:
 - trait/sonic
 - spell/level/1
 aliases: ["Biting Words"]
-aon_id: "spell-2636"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2636"
 source: "Impossible Magic"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/guardian
 - feat/level/6
 aliases: ["Reflexive Shield"]
-aon_id: "feat-4803"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4803"
 source: "Player Core"
 ---
 
@@ -15,7 +14,7 @@ source: "Player Core"
 
 `Fighter`  `Guardian`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/bastion|Bastion]] (Level 8), [[srd/pf2e/compendium/character/archetypes/bastion|Bastion]] (Level 8), Golden Legionnaire (Level 8)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/bastion|Bastion]] (Level 8), Golden Legionnaire (Level 8)
 
 You can use your shield to fend off explosions and the like. When you Raise your Shield, you gain your shield’s circumstance bonus to Reflex saves.
 

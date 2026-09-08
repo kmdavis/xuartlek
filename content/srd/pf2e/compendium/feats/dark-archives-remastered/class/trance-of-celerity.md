@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/oracle
 - feat/level/1
 aliases: ["Trance of Celerity"]
-aon_id: "feat-8526"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8526"
 source: "Dark Archives (Remastered)"
 ---
 

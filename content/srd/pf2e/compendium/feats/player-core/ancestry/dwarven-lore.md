@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/dwarf
 - feat/level/1
 aliases: ["Dwarven Lore"]
-aon_id: "feat-4388"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4388"
 source: "Player Core"
 ---
 

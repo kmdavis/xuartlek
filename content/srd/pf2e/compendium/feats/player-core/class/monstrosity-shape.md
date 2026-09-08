@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/druid
 - feat/level/16
 aliases: ["Monstrosity Shape"]
-aon_id: "feat-4760"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4760"
 source: "Player Core"
 ---
 

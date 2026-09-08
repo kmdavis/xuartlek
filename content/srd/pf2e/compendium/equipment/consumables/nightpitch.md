@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - equipment/level/5
 aliases: ["Nightpitch"]
-aon_id: "equipment-2027"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2027"
 source: "Treasure Vault (Remastered)"
 ---
 

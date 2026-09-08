@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 - trait/archetype
 - feat/level/10
 aliases: ["Vicious Rend"]
-aon_id: "feat-5432"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5432"
 source: "Howl of the Wild"
 ---
 

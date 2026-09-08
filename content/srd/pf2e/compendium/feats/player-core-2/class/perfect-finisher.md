@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -8,7 +7,7 @@ tags:
 - trait/swashbuckler
 - feat/level/14
 aliases: ["Perfect Finisher"]
-aon_id: "feat-6174"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6174"
 source: "Player Core 2"
 ---
 

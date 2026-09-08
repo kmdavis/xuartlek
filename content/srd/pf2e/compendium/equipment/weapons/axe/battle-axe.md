@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
 - trait/sweep
 - weapon/level/0
 aliases: ["Battle Axe"]
-aon_id: "weapon-371"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=371"
 source: "Player Core"
 ---
 
@@ -14,7 +13,7 @@ source: "Player Core"
 
 `Sweep`
 
-- **Favored Weapon**: Haagenti, Sekhmet
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/demon-lords/haagenti|Haagenti]], Sekhmet
 - **Price**: 1 gp
 - **Damage**: 1d8 S
 - **Bulk**: 1

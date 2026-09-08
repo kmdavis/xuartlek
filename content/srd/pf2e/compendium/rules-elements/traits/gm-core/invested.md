@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/gm-core
 - trait/invested
 aliases: ["Invested"]
-aon_id: "trait-637"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=637"
 source: "GM Core"
 ---
 
@@ -13,6 +12,6 @@ source: "GM Core"
 
 `Invested`
 
-A character can [[srd/pf2e/compendium/rules-elements/actions/gm-core-co-tak#Invest an Item|invest]] only 10 magical items that have the invested trait. None of the magical effects of the item apply if the character hasn’t invested it, nor can it be activated, though the character still gains any normal benefits from wearing the physical item (like a hat keeping rain off their head).
+A character can [[srd/pf2e/compendium/rules-elements/actions/gm-core#Invest an Item|invest]] only 10 magical items that have the invested trait. None of the magical effects of the item apply if the character hasn’t invested it, nor can it be activated, though the character still gains any normal benefits from wearing the physical item (like a hat keeping rain off their head).
 
 *Source: GM Core p. 219*

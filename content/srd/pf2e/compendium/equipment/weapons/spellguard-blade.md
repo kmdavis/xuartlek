@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/magical
 - equipment/level/7
 aliases: ["Spellguard Blade"]
-aon_id: "equipment-3284"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3284"
 source: "Player Core 2"
 ---
 
@@ -19,6 +18,6 @@ source: "Player Core 2"
 - **Bulk**: L
 - **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/knife/main-gauche|Main-gauche]]
 
-The guard of this _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/knife/main-gauche|main-gauche]]_ is inscribed with eldritch glyphs that guard against magic. When you're benefiting from the circumstance bonus to AC from this weapon's [[srd/pf2e/compendium/rules-elements/traits/player-core/parry|parry]] trait, you also apply that circumstance bonus to your saving throws against spells that target you.
+The guard of this _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/knife/main-gauche|main-gauche]]_ is inscribed with eldritch glyphs that guard against magic. When you're benefiting from the circumstance bonus to AC from this weapon's [[srd/pf2e/compendium/rules-elements/traits/player-core/parry|parry]] trait, you also apply that circumstance bonus to your saving throws against spells that target you.
 
 *Source: Player Core 2 p. 280*

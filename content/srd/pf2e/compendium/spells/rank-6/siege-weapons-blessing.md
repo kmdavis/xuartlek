@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/battlecry
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - spell/level/6
 aliases: ["Siege Weapon's Blessing"]
-aon_id: "spell-2514"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2514"
 source: "Battlecry!"
 ---
 

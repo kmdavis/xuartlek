@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Sramana"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Sramana"
 level: 15
 source: "Monster Core 2"
-aon_id: "creature-4030"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4030"
 ---
 
@@ -42,7 +40,7 @@ abilities_top:
   - name: "Soul-Rescuing Vow"
     desc: "A sramana can use [[srd/pf2e/compendium/spells/rank-7/interplanar-teleport|_interplanar teleport_]] to teleport near a truly penitent creature, soulbound creature, or soul gem of which they're aware. If they do, they don't need a planar key and arrive 1d20 miles away from the subject. They can also teleport to [[srd/pf2e/compendium/gm/planes#Nirvana|Nirvana]] or The [[srd/pf2e/compendium/gm/planes#Boneyard|Boneyard]] without a planar key."
   - name: "Items"
-    desc: "_[[srd/pf2e/compendium/equipment/worn-items/handwraps-of-mighty-blows-3-major-striking|+1 striking handwraps of mighty blows]]_, expanded healer's toolkit, _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+2 striking]] khakkara_"
+    desc: "_[[srd/pf2e/compendium/equipment/worn-items/handwraps-of-mighty-blows|+1 striking handwraps of mighty blows]]_, expanded healer's toolkit, _[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+2 striking]] khakkara_"
 ac: 36
 armorclass:
   - name: "AC"

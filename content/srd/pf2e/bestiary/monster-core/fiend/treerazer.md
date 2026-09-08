@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Treerazer"
 tags:
@@ -14,7 +13,6 @@ statblock: inline
 name: "Treerazer"
 level: 25
 source: "Monster Core"
-aon_id: "creature-3218"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3218"
 ---
 

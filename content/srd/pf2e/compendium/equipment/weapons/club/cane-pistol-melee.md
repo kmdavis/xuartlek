@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -10,7 +9,7 @@ tags:
 - trait/combination
 - weapon/level/0
 aliases: ["Cane Pistol (Melee)"]
-aon_id: "weapon-215--melee"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=215"
 source: "Guns & Gears (Remastered)"
 ---
 

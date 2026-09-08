@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Deinonychus Pack"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Deinonychus Pack"
 level: 7
 source: "Battlecry!"
-aon_id: "creature-3909"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3909"
 ---
 

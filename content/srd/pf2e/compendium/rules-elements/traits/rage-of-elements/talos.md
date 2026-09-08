@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/rage-of-elements
 - trait/talos
 aliases: ["Talos"]
-aon_id: "trait-507"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=507"
 source: "Rage of Elements"
 ---
 

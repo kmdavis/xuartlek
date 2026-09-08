@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-sidebar
 tags:
 - compendium/src/pf2e/battlecry
@@ -9,7 +8,7 @@ entries: 21
 
 # Sidebars: Battlecry!
 
-## Additional Skirmish Bonds  *Sidebar*
+## Additional Skirmish Bonds
 
 - **Parent page**: [[srd/pf2e/books/battlecry/skirmish-units/customizing-troops|Customizing Troops]]
 
@@ -19,7 +18,7 @@ The GM can grant a third skirmish bond if the troop continues to appear. Usually
 
 *Source: Battlecry! p. 169*
 
-## Choosing a Troop  *Sidebar*
+## Choosing a Troop
 
 - **Parent page**: [[srd/pf2e/books/battlecry/skirmish-units/index|Skirmish Units]]
 
@@ -27,7 +26,7 @@ When a player is choosing a troop for their character to lead in battle, usually
 
 *Source: Battlecry! p. 159*
 
-## Commanders and Troops  *Sidebar*
+## Commanders and Troops
 
 - **Parent page**: [[srd/pf2e/books/battlecry/skirmish-units/building-skirmish-encounters|Building Skirmish Encounters]]
 
@@ -37,7 +36,7 @@ Commanders should note the movement limit for units off their turn, as described
 
 *Source: Battlecry! p. 163*
 
-## Creating New Bonds  *Sidebar*
+## Creating New Bonds
 
 - **Parent page**: [[srd/pf2e/books/battlecry/skirmish-bonds|Skirmish Bonds]]
 
@@ -45,7 +44,7 @@ Since the skirmish bonds can't cover every class and ability combination in the 
 
 *Source: Battlecry! p. 161*
 
-## Follower Ancestries  *Sidebar*
+## Follower Ancestries
 
 - **Parent page**: [[srd/pf2e/compendium/feats/battlecry/archetype/leader-of-all|Leader of All]]
 
@@ -53,7 +52,7 @@ Since humans are the most populous ancestry in Golarion and don’t have any spe
 
 *Source: Battlecry! p. 82*
 
-## Followers vs. Non-Companion NPCs  *Sidebar*
+## Followers vs. Non-Companion NPCs
 
 - **Parent page**: [[srd/pf2e/books/battlecry/followers/follower-actions|Follower Actions]]
 
@@ -63,7 +62,7 @@ Since followers are intelligent people, these abstractions can potentially lead 
 
 *Source: Battlecry! p. 76*
 
-## Jotunborn Adventurers  *Sidebar*
+## Jotunborn Adventurers
 
 - **Parent page**: [[srd/pf2e/compendium/character/ancestries/jotunborn|Jotunborn]]
 
@@ -71,7 +70,7 @@ The brawny frames of jotunborn make them natural [[srd/pf2e/compendium/character
 
 *Source: Battlecry! p. 10*
 
-## Jotunborn Enclaves  *Sidebar*
+## Jotunborn Enclaves
 
 - **Parent page**: [[srd/pf2e/compendium/character/ancestries/jotunborn|Jotunborn]]
 
@@ -79,7 +78,7 @@ Jotunborn rarely maintain permanent settlements due to their generally nomadic l
 
 *Source: Battlecry! p. 10*
 
-## Key Terms  *Sidebar*
+## Key Terms
 
 - **Parent page**: [[srd/pf2e/compendium/character/classes/commander|Commander]]
 
@@ -93,7 +92,7 @@ Jotunborn rarely maintain permanent settlements due to their generally nomadic l
 
 *Source: Battlecry! p. 21*
 
-## Key Terms  *Sidebar*
+## Key Terms
 
 - **Parent page**: [[srd/pf2e/compendium/character/classes/guardian|Guardian]]
 
@@ -103,7 +102,7 @@ Jotunborn rarely maintain permanent settlements due to their generally nomadic l
 
 *Source: Battlecry! p. 37*
 
-## Leveling Up Troops  *Sidebar*
+## Leveling Up Troops
 
 - **Parent page**: [[srd/pf2e/books/battlecry/skirmish-units/customizing-troops|Customizing Troops]]
 
@@ -111,7 +110,7 @@ If the GM wants to increase a troop’s level, they can use the [[srd/pf2e/books
 
 *Source: Battlecry! p. 169*
 
-## Monstrous Followers  *Sidebar*
+## Monstrous Followers
 
 - **Parent page**: [[srd/pf2e/books/battlecry/followers/index|Followers]]
 
@@ -119,7 +118,7 @@ This follower framework can also be used to represent intelligent monsters that 
 
 *Source: Battlecry! p. 76*
 
-## Multiple Followers  *Sidebar*
+## Multiple Followers
 
 - **Parent page**: [[srd/pf2e/compendium/feats/battlecry/archetype/additional-follower|Additional Follower]]
 
@@ -127,7 +126,7 @@ The captain archetype gives you the opportunity to have multiple followers at on
 
 *Source: Battlecry! p. 82*
 
-## On Jotuns  *Sidebar*
+## On Jotuns
 
 - **Parent page**: [[srd/pf2e/compendium/character/ancestries/jotunborn|Jotunborn]]
 
@@ -135,7 +134,7 @@ The origins of the term “jotun” is generally unclear to nongiants. In the to
 
 *Source: Battlecry! p. 10*
 
-## Playing at a Different Scale  *Sidebar*
+## Playing at a Different Scale
 
 - **Parent page**: [[srd/pf2e/books/battlecry/skirmish-units/building-skirmish-encounters#2. Pick the Battlefield|2. Pick the Battlefield]]
 
@@ -147,7 +146,7 @@ Troops take up a lot of space on the battlefield. This can be a fun twist if you
 
 *Source: Battlecry! p. 164*
 
-## Recurring Troops  *Sidebar*
+## Recurring Troops
 
 - **Parent page**: [[srd/pf2e/books/battlecry/skirmish-units/customizing-troops|Customizing Troops]]
 
@@ -155,7 +154,7 @@ Your campaign’s story might revolve around the same troops appearing in severa
 
 *Source: Battlecry! p. 169*
 
-## Table Dynamics  *Sidebar*
+## Table Dynamics
 
 - **Parent page**: [[srd/pf2e/compendium/character/archetypes/captain|Captain]]
 
@@ -163,7 +162,7 @@ Some groups may not be comfortable with the dynamics that a follower introduces 
 
 *Source: Battlecry! p. 82*
 
-## The Purpose of this Subsystem  *Sidebar*
+## The Purpose of this Subsystem
 
 - **Parent page**: [[srd/pf2e/books/battlecry/skirmish-units/index|Skirmish Units]]
 
@@ -173,7 +172,7 @@ These rules aren’t intended to simulate a traditional war game or full-sized a
 
 *Source: Battlecry! p. 159*
 
-## Unroutable Troops  *Sidebar*
+## Unroutable Troops
 
 - **Parent page**: [[srd/pf2e/books/battlecry/skirmish-units/troops-in-skirmishes#Routing Troops|Routing Troops]]
 
@@ -181,7 +180,7 @@ Because of the traits on a rout check, some troops are entirely immune to them, 
 
 *Source: Battlecry! p. 160*
 
-## When to use a Skirmish Encounter  *Sidebar*
+## When to use a Skirmish Encounter
 
 - **Parent page**: [[srd/pf2e/books/battlecry/skirmish-units/index|Skirmish Units]]
 
@@ -189,7 +188,7 @@ Since they include player characters, multiple troops, and possibly enemy leader
 
 *Source: Battlecry! p. 159*
 
-## Why and How to Lead  *Sidebar*
+## Why and How to Lead
 
 - **Parent page**: [[srd/pf2e/compendium/character/archetypes/captain|Captain]]
 

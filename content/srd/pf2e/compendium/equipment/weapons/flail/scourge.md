@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/battlecry
@@ -10,7 +9,7 @@ tags:
 - trait/sweep
 - weapon/level/0
 aliases: ["Scourge"]
-aon_id: "weapon-531"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=531"
 source: "Battlecry!"
 ---
 

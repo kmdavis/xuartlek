@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
 - weapon/level/0
 aliases: ["Spray Pellet"]
-aon_id: "weapon-353"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=353"
 source: "Treasure Vault (Remastered)"
 ---
 

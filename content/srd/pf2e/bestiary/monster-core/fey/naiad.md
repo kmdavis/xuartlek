@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Naiad"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Naiad"
 level: 1
 source: "Monster Core"
-aon_id: "creature-3111"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3111"
 ---
 
@@ -48,7 +46,7 @@ armorclass:
 hp: 20
 health:
   - name: "HP"
-    desc: "20; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 3; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 3"
+    desc: "20; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 3; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 3"
 abilities_mid:
   - name: "Water Dependent"
     desc: "A naiad is bonded to a spring, pond, or similar-sized water feature. If she is more than 300 feet away from it for 24 hours or more, she gains the weak adjustments until she returns. She can perform a 24-hour ritual to bond herself to a new body of water."

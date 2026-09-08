@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core
 aliases: ["Dragon, Adamantine"]
-aon_id: "creature-family-396"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=396"
 source: "Monster Core"
 ---
 
 # Dragon, Adamantine  *Creature Family*
 
-The powerful adamantine dragons are one of several dragons known as skymetal dragons. The innate magic that flows through these dragons causes them to draw particular metals to their bodies like magnets or, in some cases, naturally grow these skymetals on their bodies. Adamantine dragons begin their lives with tough scales that are naturally replaced with thicker and even tougher [[srd/pf2e/compendium/equipment/materials/adamantine-object-high-grade|adamantine]] plating as they grow older. Adamantine dragons are typically steadfast and loyal. Once they commit to a certain purpose, changing their minds is nigh impossible. 
+The powerful adamantine dragons are one of several dragons known as skymetal dragons. The innate magic that flows through these dragons causes them to draw particular metals to their bodies like magnets or, in some cases, naturally grow these skymetals on their bodies. Adamantine dragons begin their lives with tough scales that are naturally replaced with thicker and even tougher [[srd/pf2e/compendium/equipment/materials/adamantine|adamantine]] plating as they grow older. Adamantine dragons are typically steadfast and loyal. Once they commit to a certain purpose, changing their minds is nigh impossible. 
 
 ### Members
 

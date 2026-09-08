@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Abrikandilu"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Abrikandilu"
 level: 4
 source: "Monster Core 2"
-aon_id: "creature-4318"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4318"
 ---
 
@@ -43,7 +41,7 @@ armorclass:
 hp: 70
 health:
   - name: "HP"
-    desc: "70; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 5"
+    desc: "70; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 5"
 abilities_mid:
   - name: "Hatred of Mirrors"
     desc: "An abrikandilu loathes the sight of their reflection. When a creature [[srd/pf2e/compendium/rules-elements/actions/player-core#Interact|Interacts]] with a mirror within sight of the wrecker demon, the demon takes a –2 penalty to Will saves against [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] checks. An abrikandilu that ends their turn adjacent to a mirror or that's attacked by a creature holding a mirror takes 1d6 mental damage (this usually leads abrikandilus to focus their efforts on destroying nearby mirrors using Wreck)."

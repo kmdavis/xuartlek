@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Deific Champion of Iomedae"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Deific Champion of Iomedae"
 level: 12
 source: "NPC Core"
-aon_id: "creature-3450"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3450"
 ---
 
@@ -40,11 +38,11 @@ skills:
 abilityMods: [5, 2, 2, 0, 3, 4]
 abilities_top:
   - name: "Blessed Shield"
-    desc: "In the deific champion's hands, a shield gains the [[srd/pf2e/compendium/equipment/runes/reinforcing-rune-supreme|_moderate reinforcing rune_]], giving it Hardness 8, 84 HP, and BT 42."
+    desc: "In the deific champion's hands, a shield gains the [[srd/pf2e/compendium/equipment/runes/reinforcing-rune|_moderate reinforcing rune_]], giving it Hardness 8, 84 HP, and BT 42."
   - name: "Deific Reactions"
     desc: "At the start of each of their turns, the deific champion gains an additional reaction they can only use to make a Reactive Strike or to Shield Block."
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/crossbow/crossbow|crossbow]]_ (20 bolts), _+1 [[srd/pf2e/compendium/equipment/runes/resilient-major|resilient]] [[srd/pf2e/compendium/equipment/armor#Full Plate|full plate]]_, _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/longsword|longsword]]_, _[[srd/pf2e/compendium/equipment/consumables/potion-of-flying-greater|potion of flying]]_, [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol-silver|religious symbol]] of Iomedae, Steel Shield"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/crossbow/crossbow|crossbow]]_ (20 bolts), _+1 [[srd/pf2e/compendium/equipment/runes/resilient|resilient]] [[srd/pf2e/compendium/equipment/armor#Full Plate|full plate]]_, _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/longsword|longsword]]_, _[[srd/pf2e/compendium/equipment/consumables/potion-of-flying|potion of flying]]_, [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol|religious symbol]] of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/iomedae|Iomedae]], Steel Shield"
 ac: 33
 armorclass:
   - name: "AC"
@@ -55,7 +53,7 @@ health:
     desc: "220"
 abilities_mid:
   - name: "Champion's Aura"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]]) 15 feet. Any follower of Iomedae in the aura knows the champion is a champion of Iomedae. At the end of the champion's turn, each ally in the aura reduces its [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] value by 1. The aura can be suppressed or resumed with a single action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait, and ends if the champion falls [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]]) 15 feet. Any follower of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/iomedae|Iomedae]] in the aura knows the champion is a champion of Iomedae. At the end of the champion's turn, each ally in the aura reduces its [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] value by 1. The aura can be suppressed or resumed with a single action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait, and ends if the champion falls [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]."
   - name: "Champion's Courage"
     desc: "When the champion becomes [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]], they reduce the condition value by 1 (to a minimum of 0)."
   - name: "Exalted Retributive Strike"

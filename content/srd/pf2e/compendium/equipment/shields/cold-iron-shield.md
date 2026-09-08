@@ -1,18 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
 - equipment/level/2
 aliases: ["Cold Iron Shield"]
-aon_id: "equipment-2813"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2813"
 source: "GM Core"
 ---
 
 # Cold Iron Shield  *Item 2+*
 
 - **Usage**: varies by shield
-- **Base Material**: [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|Cold Iron]]
+- **Base Material**: [[srd/pf2e/compendium/equipment/materials/cold-iron|Cold Iron]]
 
 Cold iron shields don't typically have an additional effect, though when used for a shield bash, they're cold iron weapons.
 

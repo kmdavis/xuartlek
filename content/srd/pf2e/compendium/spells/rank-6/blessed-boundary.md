@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/sanctified
 - spell/level/6
 aliases: ["Blessed Boundary"]
-aon_id: "spell-1452"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1452"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Concentrate`  `Force`  `Manipulate`  `Sanctified`
 
 - **Tradition**: Divine
-- **Bloodline**: Angelic
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Angelic|Angelic]]
 - **Range**: 120 feet
 - **Area**: up to a 60-foot burst
 - **Defense**: Reflex

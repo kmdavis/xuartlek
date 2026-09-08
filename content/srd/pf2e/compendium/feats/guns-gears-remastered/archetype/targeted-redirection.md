@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/archetype
 - feat/level/6
 aliases: ["Targeted Redirection"]
-aon_id: "feat-3261"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3261"
 source: "Guns & Gears (Remastered)"
 ---
 

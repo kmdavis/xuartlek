@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - equipment/level/12
 aliases: ["Bring Me Near"]
-aon_id: "equipment-2188"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2188"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -16,7 +15,7 @@ source: "Treasure Vault (Remastered)"
 
 `Magical`  `Teleportation`  `Uncommon`
 
-- **Price**: 1,800 gp
+- **Price**: 1, 800 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
 

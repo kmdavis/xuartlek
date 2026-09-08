@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/battlecry
@@ -13,7 +12,7 @@ tags:
 - trait/visual
 - spell/level/5
 aliases: ["Shock and Awe"]
-aon_id: "spell-2513"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2513"
 source: "Battlecry!"
 ---
 

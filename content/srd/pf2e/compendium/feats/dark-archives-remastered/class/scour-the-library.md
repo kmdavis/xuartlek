@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/psychic
 - feat/level/10
 aliases: ["Scour the Library"]
-aon_id: "feat-8335"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8335"
 source: "Dark Archives (Remastered)"
 ---
 
@@ -15,7 +14,7 @@ source: "Dark Archives (Remastered)"
 
 `Psyche`  `Psychic`
 
-- **Requirements**: gathered lore subconscious mind
+- **Requirements**: [[srd/pf2e/compendium/character/subconscious-minds#Gathered Lore|gathered lore]] subconscious mind
 
 Seeing an enemy's attack, you quickly consult multiple scraps of lore in your mind, synthesizing them into the perfect plan. Make a check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]] (using an appropriate skill) about one creature within 60 feet. On a success, in addition to the normal benefits, you gain a +1 circumstance bonus to your next attack roll against that creature and to your AC against the creature's next attack. On a critical success, the bonuses are +2.
 

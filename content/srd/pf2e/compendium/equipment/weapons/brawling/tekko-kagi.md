@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -12,7 +11,7 @@ tags:
 - trait/uncommon
 - weapon/level/0
 aliases: ["Tekko-Kagi"]
-aon_id: "weapon-304"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=304"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -21,7 +20,7 @@ source: "Treasure Vault (Remastered)"
 `Agile`  `Disarm`  `Finesse`  `Free-Hand`  `Monk`  `Parry`  `Uncommon`
 
 - **PFS Note**: Characters from Tian Xia have access to this option
-- **Favored Weapon**: Bastet, Essence Dancers, Suyuddha, Uirch
+- **Favored Weapon**: Bastet, Essence Dancers, [[srd/pf2e/compendium/deities/vudrani-gods/suyuddha|Suyuddha]], [[srd/pf2e/compendium/deities/orc-gods/uirch|Uirch]]
 - **Price**: 2 sp
 - **Damage**: 1d4 S
 - **Bulk**: L

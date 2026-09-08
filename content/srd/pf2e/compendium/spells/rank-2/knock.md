@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/2
 aliases: ["Knock"]
-aon_id: "spell-1581"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1581"
 source: "Player Core"
 ---
 
@@ -16,7 +15,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Alseta, Barzahk, Dranngvit, Lao Shu Po, The Deliberate Journey, Urban Prosperity
+- **Deities**: [[srd/pf2e/compendium/deities/other-gods/alseta|Alseta]], [[srd/pf2e/compendium/deities/monitor-demigods/barzahk|Barzahk]], [[srd/pf2e/compendium/deities/dwarven-gods/dranngvit|Dranngvit]], Lao Shu Po, The Deliberate Journey, Urban Prosperity
 - **Range**: 30 feet
 - **Target**: 1 door, lock, or container
 - **Duration**: 1 minute

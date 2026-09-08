@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Sepid"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Sepid"
 level: 14
 source: "Monster Core 2"
-aon_id: "creature-4342"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4342"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [8, 5, 8, 4, 4, 6]
 abilities_top:
   - name: "Items"
-    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+2 striking]] [[srd/pf2e/compendium/equipment/weapons/sword/falchion|falchion]]_"
+    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+2 striking]] [[srd/pf2e/compendium/equipment/weapons/sword/falchion|falchion]]_"
 ac: 34
 armorclass:
   - name: "AC"
@@ -46,7 +44,7 @@ armorclass:
 hp: 350
 health:
   - name: "HP"
-    desc: "350; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 10, [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 10"
+    desc: "350; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 10, [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 10"
 abilities_mid:
   - name: "Blatant Liar"
     desc: "While all divs delight in lying, sepids are compulsive and predictable liars who always do the opposite of what they claim they'll do. If a sepid is ever forced or compelled to tell the truth, they take 4d8 mental damage."

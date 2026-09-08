@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/positive
 - spell/level/6
 aliases: ["Field of Life"]
-aon_id: "spell-1526"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1526"
 source: "Player Core"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core"
 `Concentrate`  `Healing`  `Manipulate`  `Vitality`  `Positive`
 
 - **Traditions**: Divine, Primal
-- **Lesson**: Lesson of Renewal
+- **Lesson**: [[srd/pf2e/compendium/character/lessons#Lesson of Renewal|Lesson of Renewal]]
 - **Range**: 30 feet
 - **Area**: 20-foot burst
 - **Duration**: sustained up to 1 minute

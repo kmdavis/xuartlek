@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
 - trait/magical
 - equipment/level/13
 aliases: ["Slates of Distant Letters"]
-aon_id: "equipment-3031"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3031"
 source: "GM Core"
 ---
 
@@ -14,7 +13,7 @@ source: "GM Core"
 
 `Magical`
 
-- **Price**: 2,450 gp
+- **Price**: 2, 450 gp
 - **Usage**: held in 2 hand
 - **Bulk**: L
 

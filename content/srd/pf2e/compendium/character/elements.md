@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-element
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -9,7 +8,7 @@ entries: 6
 
 # Elements
 
-## Air  *Kineticist Element*
+## Air
 
 ### Impulse Feats
 
@@ -35,7 +34,7 @@ Experienced Smuggler
 
 *Source: Rage of Elements p. 14*
 
-## Earth  *Kineticist Element*
+## Earth
 
 ### Impulse Feats
 
@@ -61,7 +60,7 @@ Hefty Hauler
 
 *Source: Rage of Elements p. 14*
 
-## Fire  *Kineticist Element*
+## Fire
 
 ### Impulse Feats
 
@@ -87,7 +86,7 @@ Intimidating Glare
 
 *Source: Rage of Elements p. 14*
 
-## Metal  *Kineticist Element*
+## Metal
 
 ### Impulse Feats
 
@@ -113,7 +112,7 @@ Quick Repair
 
 *Source: Rage of Elements p. 14*
 
-## Water  *Kineticist Element*
+## Water
 
 ### Impulse Feats
 
@@ -139,7 +138,7 @@ Underwater Marauder
 
 *Source: Rage of Elements p. 14*
 
-## Wood  *Kineticist Element*
+## Wood
 
 ### Impulse Feats
 

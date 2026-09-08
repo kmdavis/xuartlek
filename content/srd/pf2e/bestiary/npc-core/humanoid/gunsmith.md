@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Gunsmith"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Gunsmith"
 level: 1
 source: "NPC Core"
-aon_id: "creature-3456"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3456"
 ---
 
@@ -38,7 +36,7 @@ abilities_top:
   - name: "Firearm Specialist"
     desc: "For encounters involving the crafting or maintenance of firearms, the gunsmith is a 6th-level challenge."
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit-sterling|Artisan's Toolkit]] (gunsmithing), [[srd/pf2e/compendium/equipment/weapons/firearm/dueling-pistol|Dueling Pistol]] (2, 20 rounds)"
+    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit|Artisan's Toolkit]] (gunsmithing), Dueling Pistol (2, 20 rounds)"
 ac: 16
 armorclass:
   - name: "AC"
@@ -55,7 +53,7 @@ attacks:
     desc: "⬻ dueling pistol +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/concealable|Concealable]], [[srd/pf2e/compendium/rules-elements/traits/npc-core/concussive|Concussive]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fatal|fatal d10]], range increment 60 feet, reload 1) __Damage__ 1d6+2 piercing"
 abilities_bot:
   - name: "Crafty Reload"
-    desc: "The gunsmith can Interact to reload a firearm without a free hand if they have a firearm in each hand. In addition, each time the gunsmith reloads a firearm, they can attempt a [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] check against the hard DC for the firearm's level (DC 17 for a [[srd/pf2e/compendium/equipment/weapons/firearm/dueling-pistol-weapon-520|dueling pistol]]). On a success, they gain a +1 circumstance bonus on the next attack roll they make with that firearm before the start of their next turn."
+    desc: "The gunsmith can Interact to reload a firearm without a free hand if they have a firearm in each hand. In addition, each time the gunsmith reloads a firearm, they can attempt a [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] check against the hard DC for the firearm's level (DC 17 for a [[srd/pf2e/compendium/equipment/weapons/firearm/dueling-pistol|dueling pistol]]). On a success, they gain a +1 circumstance bonus on the next attack roll they make with that firearm before the start of their next turn."
   - name: "Firearm Sabotage"
     desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]])"
   - name: "Requirements"

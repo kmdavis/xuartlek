@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Ghost Mage"
 tags:
@@ -14,7 +13,6 @@ statblock: inline
 name: "Ghost Mage"
 level: 10
 source: "Monster Core"
-aon_id: "creature-3008"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3008"
 ---
 

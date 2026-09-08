@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Twins of Rowan"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Twins of Rowan"
 level: 13
 source: "Rage of Elements"
-aon_id: "creature-2680"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2680"
 ---
 

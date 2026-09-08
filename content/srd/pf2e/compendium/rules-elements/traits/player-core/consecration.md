@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/consecration
 aliases: ["Consecration"]
-aon_id: "trait-562"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=562"
 source: "Player Core"
 ---
 

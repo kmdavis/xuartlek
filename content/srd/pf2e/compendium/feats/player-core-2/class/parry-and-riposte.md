@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/swashbuckler
 - feat/level/18
 aliases: ["Parry and Riposte"]
-aon_id: "feat-6180"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6180"
 source: "Player Core 2"
 ---
 

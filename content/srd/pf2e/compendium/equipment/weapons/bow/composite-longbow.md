@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/volley
 - weapon/level/1
 aliases: ["Composite Longbow"]
-aon_id: "weapon-434"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=434"
 source: "Player Core"
 ---
 

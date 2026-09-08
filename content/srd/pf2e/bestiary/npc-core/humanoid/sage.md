@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Sage"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Sage"
 level: 6
 source: "NPC Core"
-aon_id: "creature-3593"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3593"
 ---
 

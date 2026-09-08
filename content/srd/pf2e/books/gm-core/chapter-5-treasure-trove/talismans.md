@@ -7,7 +7,6 @@ cssclasses:
 tags:
   - srd/pf2e/gm-core
 source: "GM Core"
-aon_id: 3203
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3203"
 citation: "GM Core pg. 263"
 ---
@@ -22,7 +21,7 @@ You must be wielding or wearing an item to activate a talisman attached to it. O
 
 ## Affixing a Talisman
 
-Each talisman’s stat block indicates the type of item it can be affixed to. Affixing or removing a talisman requires using the [[srd/pf2e/compendium/rules-elements/actions/gm-core-co-tak#Affix a Talisman|Affix a Talisman]] activity. A single talisman can be affixed to only one item at a time, and an item can have only one talisman affixed to it at a time without suppressing them all.
+Each talisman’s stat block indicates the type of item it can be affixed to. Affixing or removing a talisman requires using the [[srd/pf2e/compendium/rules-elements/actions/gm-core#Affix a Talisman|Affix a Talisman]] activity. A single talisman can be affixed to only one item at a time, and an item can have only one talisman affixed to it at a time without suppressing them all.
 
 ## Talismans
 

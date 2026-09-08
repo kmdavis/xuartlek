@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
 - trait/divine
 - equipment/level/3
 aliases: ["Thurible of Revelation"]
-aon_id: "equipment-3033"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3033"
 source: "GM Core"
 ---
 

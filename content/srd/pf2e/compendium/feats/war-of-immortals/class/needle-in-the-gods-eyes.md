@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
 - trait/fighter
 - feat/level/16
 aliases: ["Needle In The God's Eyes"]
-aon_id: "feat-7269"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7269"
 source: "War of Immortals"
 ---
 

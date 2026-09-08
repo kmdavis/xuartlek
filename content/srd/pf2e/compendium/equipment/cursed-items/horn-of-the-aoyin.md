@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/rare
 - equipment/level/13
 aliases: ["Horn of the Aoyin"]
-aon_id: "equipment-4135"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4135"
 source: "Dark Archives (Remastered)"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/thaumaturge
 - feat/level/10
 aliases: ["Share Weakness"]
-aon_id: "feat-8372"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8372"
 source: "Dark Archives (Remastered)"
 ---
 

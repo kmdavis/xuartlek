@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
 - weapon/level/0
 aliases: ["Blowgun Darts"]
-aon_id: "weapon-440"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=440"
 source: "Player Core"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/positive
 - ritual/level/4
 aliases: ["Plant Growth"]
-aon_id: "ritual-121"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=121"
 source: "Player Core"
 ---
 

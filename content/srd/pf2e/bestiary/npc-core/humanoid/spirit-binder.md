@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Spirit Binder"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Spirit Binder"
 level: 11
 source: "NPC Core"
-aon_id: "creature-3543"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3543"
 ---
 

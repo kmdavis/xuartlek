@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/dwarf
 - feat/level/1
 aliases: ["Mountain Strategy"]
-aon_id: "feat-4390"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4390"
 source: "Player Core"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Morrigna"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Morrigna"
 level: 15
 source: "Monster Core"
-aon_id: "creature-3149"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3149"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [8, 4, 4, 3, 6, 4]
 abilities_top:
   - name: "Items"
-    desc: "_+2 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/club/bo-staff|bo staff]]_"
+    desc: "_+2 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/club/bo-staff|bo staff]]_"
 ac: 38
 armorclass:
   - name: "AC"

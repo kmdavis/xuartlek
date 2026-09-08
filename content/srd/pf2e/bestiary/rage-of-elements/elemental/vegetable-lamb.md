@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Vegetable Lamb"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Vegetable Lamb"
 level: 1
 source: "Rage of Elements"
-aon_id: "creature-2669"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2669"
 ---
 

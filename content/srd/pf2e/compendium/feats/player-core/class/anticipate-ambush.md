@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/rogue
 - feat/level/6
 aliases: ["Anticipate Ambush"]
-aon_id: "feat-4941"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4941"
 source: "Player Core"
 ---
 

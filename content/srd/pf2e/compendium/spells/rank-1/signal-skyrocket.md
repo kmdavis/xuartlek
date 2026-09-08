@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -9,7 +8,7 @@ tags:
 - trait/sonic
 - spell/level/1
 aliases: ["Signal Skyrocket"]
-aon_id: "spell-1362"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1362"
 source: "Rage of Elements"
 ---
 
@@ -18,7 +17,7 @@ source: "Rage of Elements"
 `Concentrate`  `Fire`  `Manipulate`  `Sonic`
 
 - **Traditions**: Arcane, Occult, Primal
-- **Range**: 1,000 feet
+- **Range**: 1, 000 feet
 - **Area**: 30-foot burst
 
 With a pinch of metallic powder and gunpowder, you call forth blistering red energy that shoots straight upward into the air and explodes, unleashing a crackling boom. Over time, you might even customize your own pattern and color for the skyrocket as you refine the spell.

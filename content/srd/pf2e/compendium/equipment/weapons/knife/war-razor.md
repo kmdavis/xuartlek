@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/finesse
 - weapon/level/0
 aliases: ["War Razor"]
-aon_id: "weapon-103"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=307"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -17,6 +16,7 @@ source: "Treasure Vault (Remastered)"
 
 `Agile`  `Backstabber`  `Deadly`  `Finesse`
 
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/demon-lords/sifkesh|Sifkesh]], The Perplexing Jest
 - **Price**: 3 sp
 - **Damage**: 1d4 S
 - **Bulk**: L
@@ -25,7 +25,7 @@ source: "Treasure Vault (Remastered)"
 - **Category**: Martial
 - **Group**: Knife
 
-A war razor is an exaggerated version of the barbers’ tool. It is a brittle but extremely sharp weapon that is very easy to slip into a pocket or sleeve.
+A war razor is an exaggerated version of the barbers' tool. It's a brittle but extremely sharp weapon that is very easy to slip into a pocket or sleeve.
 
 ### Critical Specialization Effects
 

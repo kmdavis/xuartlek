@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - equipment/level/19
 aliases: ["Starfall Shield"]
-aon_id: "equipment-1861"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1861"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -15,7 +14,7 @@ source: "Treasure Vault (Remastered)"
 
 `Magical`  `Uncommon`
 
-- **Price**: 23,000 gp
+- **Price**: 23, 000 gp
 - **Usage**: held in 1 hand
 - **Bulk**: 1
 - **Base Shield**: [[srd/pf2e/compendium/equipment/shields#Heavy Rondache|Heavy Rondache]]

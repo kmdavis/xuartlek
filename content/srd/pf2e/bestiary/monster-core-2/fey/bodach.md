@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Bodach"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Bodach"
 level: 6
 source: "Monster Core 2"
-aon_id: "creature-4285"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4285"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [2, 2, 4, 4, 3, 4]
 abilities_top:
   - name: "Items"
-    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1]] [[srd/pf2e/compendium/equipment/weapons/club/staff|staff]]_"
+    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1]] [[srd/pf2e/compendium/equipment/weapons/club/staff|staff]]_"
 ac: 23
 armorclass:
   - name: "AC"
@@ -44,7 +42,7 @@ armorclass:
 hp: 110
 health:
   - name: "HP"
-    desc: "110; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 5"
+    desc: "110; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 5"
 abilities_mid:
   - name: "Gray Aura"
     desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) 15 feet. The bodach is always surrounded by a pall of gloomy gray, like the air before it rains. A non-[[srd/pf2e/compendium/rules-elements/traits/player-core/fey|fey]] or non-[[srd/pf2e/compendium/rules-elements/traits/player-core/hag|hag]] creature entering the aura or beginning their turn in the aura must succeed at a DC 21 Will save or become [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] 1 for 1 round (slowed 2 on a critical failure). A creature who succeeds is temporarily immune to the aura for 1 minute."

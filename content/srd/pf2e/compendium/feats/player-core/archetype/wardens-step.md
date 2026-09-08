@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/ranger
 - feat/level/10
 aliases: ["Warden's Step"]
-aon_id: "feat-4892"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4892"
 source: "Player Core"
 ---
 

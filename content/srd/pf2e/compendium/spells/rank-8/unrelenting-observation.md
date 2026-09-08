@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/scrying
 - spell/level/8
 aliases: ["Unrelenting Observation"]
-aon_id: "spell-1734"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1734"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Scrying`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Abraxas, Kols
+- **Deities**: [[srd/pf2e/compendium/deities/demon-lords/abraxas|Abraxas]], [[srd/pf2e/compendium/deities/dwarven-gods/kols|Kols]]
 - **Range**: 100 feet
 - **Area**: 20-foot burst
 - **Target**: 1 creature or object tracked and up to 5 other willing creatures

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -9,7 +8,7 @@ tags:
 - trait/unholy
 - equipment/level/1
 aliases: ["Unholy Water"]
-aon_id: "equipment-3006"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3006"
 source: "GM Core"
 ---
 

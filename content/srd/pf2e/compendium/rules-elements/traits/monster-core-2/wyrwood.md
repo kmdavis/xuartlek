@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/monster-core-2
 - trait/wyrwood
 aliases: ["Wyrwood"]
-aon_id: "trait-892"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=892"
 source: "Monster Core 2"
 ---
 
@@ -13,6 +12,6 @@ source: "Monster Core 2"
 
 `Wyrwood`
 
-A wyrwood is a small, sapient living construct crafted of wood and powered with an [[srd/pf2e/compendium/equipment/worn-items/aeon-stone-sprouting|aeon stone]] or a similar magical stone.
+A wyrwood is a small, sapient living construct crafted of wood and powered with an [[srd/pf2e/compendium/equipment/worn-items/aeon-stone|aeon stone]] or a similar magical stone.
 
 *Source: Monster Core 2 p. 366*

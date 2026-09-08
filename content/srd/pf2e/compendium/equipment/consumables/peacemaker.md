@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/talisman
 - equipment/level/6
 aliases: ["Peacemaker"]
-aon_id: "equipment-1231"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1231"
 source: "Guns & Gears (Remastered)"
 ---
 

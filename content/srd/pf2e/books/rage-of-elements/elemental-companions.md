@@ -7,7 +7,6 @@ cssclasses:
 tags:
   - srd/pf2e/rage-of-elements
 source: "Rage of Elements"
-aon_id: 1993
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=1993"
 citation: "Rage of Elements pg. 39"
 ---

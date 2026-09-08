@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Blasphemer of Zon-Kuthon"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Blasphemer of Zon-Kuthon"
 level: 2
 source: "NPC Core"
-aon_id: "creature-3441"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3441"
 ---
 
@@ -38,7 +36,7 @@ abilities_top:
   - name: "Twisted Faith"
     desc: "When attempting a [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] skill check, the blasphemer can roll [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] instead, so long as they have an intelligent creature around as a witness. If the creature is a follower of the blasphemer's faith, the blasphemer receives a +2 circumstance bonus to the check."
   - name: "Items"
-    desc: "Hand Crossbow, [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol-silver|religious symbol]] of Zon-Kuthon, spiked chain"
+    desc: "Hand Crossbow, [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol|religious symbol]] of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/zon-kuthon|Zon-Kuthon]], spiked chain"
 ac: 17
 armorclass:
   - name: "AC"
@@ -57,7 +55,7 @@ attacks:
     desc: "⬻ hand crossbow +7 (range increment 60 feet, reload 1) __Damage__ 1d6+2 piercing"
 abilities_bot:
   - name: "False Blessing"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]]) The blasphemer attempts a DC 15 [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] check to attempt to cast the 1st-rank spell their deity grants to clerics ([[srd/pf2e/compendium/spells/rank-1/phantom-pain|_phantom pain_]] for Zon-Kuthon). The spell must take 1, 2, or 3 actions to Cast. The blasphemer can use twisted faith to roll [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] instead if they have a witness, as normal."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]]) The blasphemer attempts a DC 15 [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] check to attempt to cast the 1st-rank spell their deity grants to clerics ([[srd/pf2e/compendium/spells/rank-1/phantom-pain|_phantom pain_]] for [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/zon-kuthon|Zon-Kuthon]]). The spell must take 1, 2, or 3 actions to Cast. The blasphemer can use twisted faith to roll [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] instead if they have a witness, as normal."
   - name: "Critical Success"
     desc: "The blasphemer successfully Casts the Spell, then is [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] with a value equal to the number of actions the spell takes – 1."
   - name: "Success"

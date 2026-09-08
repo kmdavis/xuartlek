@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/uncommon
 - spell/level/5
 aliases: ["Mind Probe"]
-aon_id: "spell-1601"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1601"
 source: "Player Core"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core"
 `Concentrate`  `Linguistic`  `Manipulate`  `Mental`  `Uncommon`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Conqueror Worm, Ma’at, Nin
+- **Deities**: Conqueror Worm, [[srd/pf2e/compendium/deities/dead-or-missing-deities/maat|Ma’at]], Nin
 - **Cast**: 1 minute
 - **Range**: 30 feet
 - **Target**: 1 creature

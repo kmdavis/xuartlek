@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class-feature
 tags:
 - compendium/src/pf2e/player-core-2
 - class-feature/level/19
 aliases: ["Perfected Form"]
-aon_id: "class-feature-951"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=60"
 source: "Player Core 2"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/rare
 - equipment/level/22
 aliases: ["Perfected Robes"]
-aon_id: "equipment-2364"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2364"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -24,7 +23,7 @@ These unadorned white robes, fastened with simple brass pins in the shape of a h
 
 **Activate** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per minute; **Effect** If your next action is to attempt a d20 roll with which you have legendary proficiency, roll twice and take the better result. This is a [[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]] effect.
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** You cast _avatar_, gaining the abilities for Irori.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** You cast _avatar_, gaining the abilities for [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/irori|Irori]].
 
 **Destruction** If the wearer ever willingly turns from the path of self-perfection into corruption or overindulgence, their _perfected robes_ crumble to nothing.
 

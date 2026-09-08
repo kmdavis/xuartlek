@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
 tags:
 - compendium/src/pf2e/gm-core
 - trait/haunt
 - hazard/level/5
 aliases: ["Spectral Reflection"]
-aon_id: "hazard-484"
+aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=484"
 source: "GM Core"
 ---
 

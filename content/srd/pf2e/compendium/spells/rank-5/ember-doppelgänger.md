@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/5
 aliases: ["Ember Doppelgänger"]
-aon_id: "spell-2692"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2692"
 source: "Impossible Magic"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Tooth Fairy"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Tooth Fairy"
 level: -1
 source: "Monster Core"
-aon_id: "creature-3216"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3216"
 ---
 
@@ -42,7 +40,7 @@ armorclass:
 hp: 8
 health:
   - name: "HP"
-    desc: "8; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 2"
+    desc: "8; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 2"
 abilities_mid:
   - name: "Plaque Burst"
     desc: "When killed, a tooth fairy bursts into sticky, foul-smelling white dust. Each creature in a 5-foot emanation must succeed at a DC 16 Fortitude save or become [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened 1]] (sickened 2 on a critical failure)."

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
 - trait/archetype
 - feat/level/10
 aliases: ["The Truth as I See it"]
-aon_id: "feat-7929"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7929"
 source: "Battlecry!"
 ---
 

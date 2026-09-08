@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -11,7 +10,7 @@ tags:
 - trait/uncommon
 - spell/level/6
 aliases: ["Tempest Form"]
-aon_id: "spell-2089"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2089"
 source: "Player Core 2"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core 2"
 
 `Concentrate`  `Focus`  `Manipulate`  `Oracle`  `Polymorph`  `Uncommon`
 
-- **Mystery**: Tempest
+- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Tempest|Tempest]]
 - **Duration**: sustained up to 1 minute
 
 Your body becomes fluid. Choose whether to become air, water, or mist. The spell gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/air|air]] trait if you choose air or mist, and the [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]] trait if you choose water or mist. You become amorphous, as does your armor. You lose any item bonus to AC and use your proficiency bonus for unarmored defense to determine your AC. You also gain resistance 10 to physical damage and become immune to precision damage. You can slip through tiny cracks and don't need to breathe. You can't cast spells, activate items, or use actions that have the [[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] trait, except those granted by this spell. You also gain the following effects based on your form.

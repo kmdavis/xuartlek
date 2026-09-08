@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/bard
 - feat/level/1
 aliases: ["Hymn of Healing"]
-aon_id: "feat-4574"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4574"
 source: "Player Core"
 ---
 

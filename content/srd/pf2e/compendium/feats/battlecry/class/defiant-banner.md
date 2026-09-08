@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
@@ -10,7 +9,7 @@ tags:
 - trait/visual
 - feat/level/8
 aliases: ["Defiant Banner"]
-aon_id: "feat-7811"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7811"
 source: "Battlecry!"
 ---
 

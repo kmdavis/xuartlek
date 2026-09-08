@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Black Belt"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Black Belt"
 level: 12
 source: "NPC Core"
-aon_id: "creature-3504"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3504"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [5, 4, 3, 1, 3, 0]
 abilities_top:
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/worn-items/handwraps-of-mighty-blows-3-major-striking|handwraps of mighty blows]]_, _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/club/bo-staff|bo staff]]_, _[[srd/pf2e/compendium/equipment/worn-items/bands-of-force-major|bands of force]]_"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/worn-items/handwraps-of-mighty-blows|handwraps of mighty blows]]_, _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/club/bo-staff|bo staff]]_, _[[srd/pf2e/compendium/equipment/worn-items/bands-of-force|bands of force]]_"
 ac: 32
 armorclass:
   - name: "AC"

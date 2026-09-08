@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/champion
 - feat/level/12
 aliases: ["Gruesome Strike"]
-aon_id: "feat-5918"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5918"
 source: "Player Core 2"
 ---
 

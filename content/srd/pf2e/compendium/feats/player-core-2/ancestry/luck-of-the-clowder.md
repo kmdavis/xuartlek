@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/catfolk
 - feat/level/9
 aliases: ["Luck of the Clowder"]
-aon_id: "feat-5559"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5559"
 source: "Player Core 2"
 ---
 

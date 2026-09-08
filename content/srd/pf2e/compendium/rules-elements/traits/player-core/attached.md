@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/attached
 aliases: ["Attached"]
-aon_id: "trait-539"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=539"
 source: "Player Core"
 ---
 

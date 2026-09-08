@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -11,7 +10,7 @@ tags:
 - trait/uncommon
 - spell/level/2
 aliases: ["Imitate Fauna"]
-aon_id: "spell-1932"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1932"
 source: "Howl of the Wild"
 ---
 

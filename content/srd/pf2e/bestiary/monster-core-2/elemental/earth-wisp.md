@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Earth Wisp"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Earth Wisp"
 level: 0
 source: "Monster Core 2"
-aon_id: "creature-4395"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4395"
 ---
 

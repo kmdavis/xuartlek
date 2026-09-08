@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Akizendri"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Akizendri"
 level: 3
 source: "Monster Core 2"
-aon_id: "creature-4517"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4517"
 ---
 

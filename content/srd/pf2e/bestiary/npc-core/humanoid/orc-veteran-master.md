@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Orc Veteran Master"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Orc Veteran Master"
 level: 10
 source: "NPC Core"
-aon_id: "creature-3666"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3666"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [5, 4, 3, 0, 2, 1]
 abilities_top:
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/club/bo-staff|bo staff]]_, _+1 [[srd/pf2e/compendium/equipment/armor#Breastplate|breastplate]]_, _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/bow/composite-longbow|composite longbow]]_ (20 arrows)"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/club/bo-staff|bo staff]]_, _+1 [[srd/pf2e/compendium/equipment/armor#Breastplate|breastplate]]_, _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/bow/composite-longbow|composite longbow]]_ (20 arrows)"
 ac: 30
 armorclass:
   - name: "AC"

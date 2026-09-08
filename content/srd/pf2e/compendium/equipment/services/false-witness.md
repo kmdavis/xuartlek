@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 - trait/uncommon
 - equipment/level/0
 aliases: ["False Witness"]
-aon_id: "equipment-4132"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4132"
 source: "Dark Archives (Remastered)"
 ---
 
@@ -60,6 +59,6 @@ Honorable (DC 33) false witnesses are pillars of society and likely have no illi
 
 ---
 
-Unimpeachable (DC 38) false witnesses provide signed affidavits from impeccable sources like the High Priest of Pharasma, the Chief Magistrate of the Royal Court, or the king's favorite aunt.
+Unimpeachable (DC 38) false witnesses provide signed affidavits from impeccable sources like the High Priest of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma]], the Chief Magistrate of the Royal Court, or the king's favorite aunt.
 
 *Source: Dark Archives (Remastered) p. 84*

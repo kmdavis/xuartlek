@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - ritual/level/4
 aliases: ["Rest Eternal"]
-aon_id: "ritual-153"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=153"
 source: "Player Core 2"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core 2"
 - **Cost**: rare oils to anoint the body worth a total value of the target’s level (minimum 1) × 25 gp
 - **Secondary Casters**: 2
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] (expert)
-- **Secondary Checks**: Occultism , Religion
+- **Secondary Checks**: Occultism, Religion
 - **Range**: 20 feet
 - **Target(s)**: 1 dead creature
 

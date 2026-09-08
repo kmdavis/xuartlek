@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/player-core
 - trait/uncommon
 - ritual/level/6
 aliases: ["Binding Circle"]
-aon_id: "ritual-110"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=110"
 source: "Player Core"
 ---
 

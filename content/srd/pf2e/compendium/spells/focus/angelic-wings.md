@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -11,7 +10,7 @@ tags:
 - trait/uncommon
 - spell/level/3
 aliases: ["Angelic Wings"]
-aon_id: "spell-2094"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2094"
 source: "Player Core 2"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core 2"
 
 `Concentrate`  `Focus`  `Light`  `Manipulate`  `Sorcerer`  `Uncommon`
 
-- **Bloodline**: Angelic
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Angelic|Angelic]]
 - **Duration**: 3 rounds
 
 Wings of pure light spread out from your back, granting you a fly Speed equal to your Speed. Your wings cast bright light in a 30-foot radius. When this spell's duration would end, if you're still flying, you float to the ground, as [[srd/pf2e/compendium/spells/rank-1/gentle-landing|_gentle landing_]].

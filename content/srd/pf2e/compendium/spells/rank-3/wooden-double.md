@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -7,7 +6,7 @@ tags:
 - trait/wood
 - spell/level/3
 aliases: ["Wooden Double"]
-aon_id: "spell-1416"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1416"
 source: "Rage of Elements"
 ---
 

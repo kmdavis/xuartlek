@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/player-core
 - trait/uncommon
 - ritual/level/7
 aliases: ["Collective Memories"]
-aon_id: "ritual-113"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=113"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 - **Cost**: rare incense worth a total value of 300 gp
 - **Secondary Casters**: 2
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (master)
-- **Secondary Checks**: Performance , Society
+- **Secondary Checks**: Performance, Society
 
 You tap into other mortals' memories, knowledge, legends, tales, and lore about a subject. The subject must be an important person, place, or thing. If the subject is present, increase the degree of success of your primary skill check by one step. If you have only vague information about the subject before attempting the ritual, decrease the degree of success of your primary skill check by one step. These modifiers cancel each other out if you have a subject present with little to no baseline information.
 

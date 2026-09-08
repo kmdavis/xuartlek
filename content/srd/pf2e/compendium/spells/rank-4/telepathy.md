@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/mental
 - spell/level/4
 aliases: ["Telepathy"]
-aon_id: "spell-1719"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1719"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Concentrate`  `Linguistic`  `Manipulate`  `Mental`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Gruhastha, Nin, The Readied Strike
+- **Deities**: [[srd/pf2e/compendium/deities/other-gods/gruhastha|Gruhastha]], Nin, [[srd/pf2e/compendium/deities/covenants/the-readied-strike|The Readied Strike]]
 - **Duration**: 10 minutes
 
 You can communicate telepathically with creatures within 30 feet. Once you establish a connection by communicating with a creature, the communication is two-way. You can communicate with only creatures that share a language with you.

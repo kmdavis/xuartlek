@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/magical
 - equipment/level/16
 aliases: ["Black Hole Armor"]
-aon_id: "equipment-1842"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1842"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -15,7 +14,7 @@ source: "Treasure Vault (Remastered)"
 
 `Invested`  `Magical`
 
-- **Price**: 8,500 gp
+- **Price**: 8, 500 gp
 - **Usage**: worn armor
 - **Bulk**: 5
 - **Base Armor**: [[srd/pf2e/compendium/equipment/armor#Fortress Plate|Fortress Plate]]

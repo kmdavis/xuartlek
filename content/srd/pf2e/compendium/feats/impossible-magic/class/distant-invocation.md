@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/runesmith
 - feat/level/12
 aliases: ["Distant Invocation"]
-aon_id: "feat-9203"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9203"
 source: "Impossible Magic"
 ---
 

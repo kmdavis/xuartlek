@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/spirit
 - spell/level/2
 aliases: ["Spiritual Armament"]
-aon_id: "spell-1687"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1687"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Sanctified`  `Spirit`
 
 - **Traditions**: Divine, Occult
-- **Bloodlines**: Angelic, Aesir
+- **Bloodlines**: [[srd/pf2e/compendium/character/bloodlines#Angelic|Angelic]], [[srd/pf2e/compendium/character/bloodlines#Aesir|Aesir]]
 - **Range**: 120 feet
 - **Target**: 1 target
 - **Defense**: AC

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
 - trait/magical
 - equipment/level/8
 aliases: ["Gossip's Eye"]
-aon_id: "equipment-2158"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2158"
 source: "Treasure Vault (Remastered)"
 ---
 

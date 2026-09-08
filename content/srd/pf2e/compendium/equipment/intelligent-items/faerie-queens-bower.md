@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -10,7 +9,7 @@ tags:
 - trait/rare
 - equipment/level/13
 aliases: ["Faerie Queen's Bower"]
-aon_id: "equipment-2395"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2395"
 source: "Treasure Vault (Remastered)"
 ---
 

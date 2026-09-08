@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Dero Magister"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Dero Magister"
 level: 5
 source: "Monster Core"
-aon_id: "creature-2904"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2904"
 ---
 

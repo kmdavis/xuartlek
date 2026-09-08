@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Gnome Bard"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Gnome Bard"
 level: 1
 source: "Monster Core"
-aon_id: "creature-3020"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3020"
 ---
 

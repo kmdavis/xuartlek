@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/summoner
 - feat/level/20
 aliases: ["Eternal Boost"]
-aon_id: "feat-9281"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9281"
 source: "Impossible Magic"
 ---
 

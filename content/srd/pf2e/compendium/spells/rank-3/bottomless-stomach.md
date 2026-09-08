@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/3
 aliases: ["Bottomless Stomach"]
-aon_id: "spell-2648"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2648"
 source: "Impossible Magic"
 ---
 
@@ -17,7 +16,7 @@ source: "Impossible Magic"
 `Concentrate`  `Extradimensional`  `Manipulate`
 
 - **Traditions**: Arcane, Occult, Primal
-- **Deities**: Lurlup, Orgesh, Vapula
+- **Deities**: [[srd/pf2e/compendium/deities/goblin-gods/lurlup|Lurlup]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/orgesh|Orgesh]], [[srd/pf2e/compendium/deities/infernal-dukes/vapula|Vapula]]
 - **Range**: touch
 - **Target**: 1 willing creature
 - **Duration**: 1 hour

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-archetype
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 - archetype/level/2
 aliases: ["Wild Mimic"]
-aon_id: "archetype-226"
+aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=226"
 source: "Howl of the Wild"
 ---
 

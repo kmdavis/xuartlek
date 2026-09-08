@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
 - trait/commander
 - feat/level/10
 aliases: ["Battle-Hardened Companion"]
-aon_id: "feat-7815"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7815"
 source: "Battlecry!"
 ---
 

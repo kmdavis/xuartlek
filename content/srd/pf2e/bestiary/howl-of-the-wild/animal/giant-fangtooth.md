@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Giant Fangtooth"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Giant Fangtooth"
 level: 4
 source: "Howl of the Wild"
-aon_id: "creature-3278"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3278"
 ---
 

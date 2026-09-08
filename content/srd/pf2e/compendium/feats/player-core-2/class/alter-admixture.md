@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/exploration
 - feat/level/8
 aliases: ["Alter Admixture"]
-aon_id: "feat-5782"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5782"
 source: "Player Core 2"
 ---
 

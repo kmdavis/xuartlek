@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
@@ -10,7 +9,7 @@ tags:
 - trait/mental
 - feat/level/6
 aliases: ["Invincible Army"]
-aon_id: "feat-7926"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7926"
 source: "Battlecry!"
 ---
 

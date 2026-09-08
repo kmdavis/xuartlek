@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/propulsive
 - weapon/level/1
 aliases: ["Composite Shortbow"]
-aon_id: "weapon-435"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=435"
 source: "Player Core"
 ---
 
@@ -34,6 +33,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-Bow of Sun Slaying, Dragonfire Halfbow, [[srd/pf2e/compendium/equipment/weapons/greater-singing-shortbow|Singing Shortbow]], Wintershot
+Bow of Sun Slaying, Dragonfire Halfbow, [[srd/pf2e/compendium/equipment/weapons/singing-shortbow|Singing Shortbow]], Wintershot
 
 *Source: Player Core p. 280*

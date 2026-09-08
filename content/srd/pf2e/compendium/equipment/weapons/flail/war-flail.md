@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/trip
 - weapon/level/0
 aliases: ["War Flail"]
-aon_id: "weapon-402"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=402"
 source: "Player Core"
 ---
 
@@ -16,7 +15,7 @@ source: "Player Core"
 
 `Disarm`  `Sweep`  `Trip`
 
-- **Favored Weapon**: Alglenweis, Bifrons, Chavazvug, Geryon, Groetus, Iapholi, Imbrex, Shivaska, Vale
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/sarkorian-gods/alglenweis|Alglenweis]], [[srd/pf2e/compendium/deities/infernal-dukes/bifrons|Bifrons]], [[srd/pf2e/compendium/deities/qlippoth-lords/chavazvug|Chavazvug]], [[srd/pf2e/compendium/deities/archdevils/geryon|Geryon]], [[srd/pf2e/compendium/deities/other-gods/groetus|Groetus]], Iapholi, [[srd/pf2e/compendium/deities/eldest/imbrex|Imbrex]], [[srd/pf2e/compendium/deities/demon-lords/shivaska|Shivaska]], [[srd/pf2e/compendium/deities/monitor-demigods/vale|Vale]]
 - **Price**: 2 gp
 - **Damage**: 1d10 B
 - **Bulk**: 2
@@ -33,6 +32,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/chimera-flail|Chimera Flail]], [[srd/pf2e/compendium/equipment/weapons/major-ouroboros-flail|Ouroboros Flail]]
+[[srd/pf2e/compendium/equipment/weapons/chimera-flail|Chimera Flail]], [[srd/pf2e/compendium/equipment/weapons/ouroboros-flail|Ouroboros Flail]]
 
 *Source: Player Core p. 278*

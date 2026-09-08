@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Harbormaster"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Harbormaster"
 level: 3
 source: "NPC Core"
-aon_id: "creature-3553"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3553"
 ---
 

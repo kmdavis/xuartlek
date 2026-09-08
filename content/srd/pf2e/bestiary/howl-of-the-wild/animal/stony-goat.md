@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Stony Goat"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Stony Goat"
 level: 2
 source: "Howl of the Wild"
-aon_id: "creature-3313"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3313"
 ---
 

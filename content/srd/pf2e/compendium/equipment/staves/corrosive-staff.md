@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/staff
 - equipment/level/4
 aliases: ["Corrosive Staff"]
-aon_id: "equipment-5163"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5163"
 source: "Impossible Magic"
 ---
 
@@ -30,7 +29,7 @@ A sickly green liquid sloshes inside this hollow glass staff, carrying an acrid 
 
 ---
 
-**Cantrip** [[srd/pf2e/compendium/spells/cantrips/caustic-blast|_ caustic blast_]]**1st** _ acidic burst_
+**Cantrip** [[srd/pf2e/compendium/spells/cantrips/caustic-blast|_ caustic blast_]]**1st** [[srd/pf2e/compendium/spells/rank-1/acidic-burst|_ acidic burst_]]
 
 ### Greater Corrosive Staff
 
@@ -39,7 +38,7 @@ A sickly green liquid sloshes inside this hollow glass staff, carrying an acrid 
 ---
 
 The staff grants resistance 6 to acid damage.
-**2nd** [[srd/pf2e/compendium/spells/rank-2/acid-grip|_acid grip_]], [[srd/pf2e/compendium/spells/rank-2/disintegrating-puddle|_disintegrating puddle_]]**3rd** _acidic burst_, [[srd/pf2e/compendium/spells/rank-3/noxious-metals|_noxious metals_]]
+**2nd** [[srd/pf2e/compendium/spells/rank-2/acid-grip|_acid grip_]], [[srd/pf2e/compendium/spells/rank-2/disintegrating-puddle|_disintegrating puddle_]]**3rd** [[srd/pf2e/compendium/spells/rank-1/acidic-burst|_acidic burst_]], [[srd/pf2e/compendium/spells/rank-3/noxious-metals|_noxious metals_]]
 
 ### Major Corrosive Staff
 
@@ -48,6 +47,6 @@ The staff grants resistance 6 to acid damage.
 ---
 
 The staff grants resistance 9 to acid damage. 
-**4th** [[srd/pf2e/compendium/spells/rank-2/acid-grip|_acid grip_]], [[srd/pf2e/compendium/spells/rank-2/disintegrating-puddle|_disintegrating puddle_]]**5th** _acid storm_, [[srd/pf2e/compendium/spells/rank-5/blister|_blister_]], [[srd/pf2e/compendium/spells/rank-5/corrosive-muck|_corrosive muck_]]
+**4th** [[srd/pf2e/compendium/spells/rank-2/acid-grip|_acid grip_]], [[srd/pf2e/compendium/spells/rank-2/disintegrating-puddle|_disintegrating puddle_]]**5th** [[srd/pf2e/compendium/spells/rank-5/acid-storm|_acid storm_]], [[srd/pf2e/compendium/spells/rank-5/blister|_blister_]], [[srd/pf2e/compendium/spells/rank-5/corrosive-muck|_corrosive muck_]]
 
 *Source: Impossible Magic p. 238*

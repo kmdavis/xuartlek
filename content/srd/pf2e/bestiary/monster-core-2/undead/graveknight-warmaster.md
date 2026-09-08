@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Graveknight Warmaster"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Graveknight Warmaster"
 level: 14
 source: "Monster Core 2"
-aon_id: "creature-4419"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4419"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [8, 4, 5, 3, 4, 6]
 abilities_top:
   - name: "Items"
-    desc: "_[[srd/pf2e/compendium/equipment/armor/magic-armor-3-major-resilient|+1 resilient]] [[srd/pf2e/compendium/equipment/armor#Full Plate|full plate]]_, [[srd/pf2e/compendium/equipment/weapons/crossbow/heavy-crossbow|Heavy Crossbow]] (20 bolts), [[srd/pf2e/compendium/equipment/weapons/flail/war-flail|War Flail]]"
+    desc: "_[[srd/pf2e/compendium/equipment/armor/magic-armor|+1 resilient]] [[srd/pf2e/compendium/equipment/armor#Full Plate|full plate]]_, [[srd/pf2e/compendium/equipment/weapons/crossbow/heavy-crossbow|Heavy Crossbow]] (20 bolts), [[srd/pf2e/compendium/equipment/weapons/flail/war-flail|War Flail]]"
 ac: 37
 armorclass:
   - name: "AC"
@@ -84,7 +82,7 @@ abilities_bot:
   - name: "Phantom Mount"
     desc: "⬽ ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|Arcane]]) The graveknight warmaster summons a supernatural mount, as [[srd/pf2e/compendium/spells/rank-2/marvelous-mount|_marvelous mount_]] heightened to a 7th rank. Unlike _marvelous mount_, the steed's AC and saving throw bonuses are all 4 lower than the graveknight's, and the steed has AC 34, Fort +23, Ref +20, Will +20, and 85 Hit Points. If the steed is destroyed, the graveknight warmaster must wait 1 hour before using this ability again.; the steed has"
   - name: "Ruinous Weapons"
-    desc: "Any weapon or unarmed attack the graveknight uses gains the effects of a _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 greater striking]] weapon_ and a _[[srd/pf2e/compendium/equipment/runes/shock-greater|greater shock]]_ weapon rune."
+    desc: "Any weapon or unarmed attack the graveknight uses gains the effects of a _[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 greater striking]] weapon_ and a _[[srd/pf2e/compendium/equipment/runes/shock|greater shock]]_ weapon rune."
   - name: "Weapon Master"
     desc: "The graveknight captain has access to the [[srd/pf2e/books/player-core/chapter-6-equipment/weapons#Critical Specialization|critical specialization]] effects of any weapons they wield."
 sourcebook: "_Monster Core 2_, page 172."

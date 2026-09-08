@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/archetype
 - feat/level/12
 aliases: ["Runic Expertise"]
-aon_id: "feat-9418"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9418"
 source: "Impossible Magic"
 ---
 

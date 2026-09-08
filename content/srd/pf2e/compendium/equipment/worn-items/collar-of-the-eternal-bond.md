@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - equipment/level/7
 aliases: ["Collar Of The Eternal Bond"]
-aon_id: "equipment-5184"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5184"
 source: "Impossible Magic"
 ---
 

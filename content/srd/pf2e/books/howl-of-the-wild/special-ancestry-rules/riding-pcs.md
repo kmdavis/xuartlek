@@ -7,7 +7,6 @@ cssclasses:
 tags:
   - srd/pf2e/howl-of-the-wild
 source: "Howl of the Wild"
-aon_id: 3272
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3272"
 citation: "Howl of the Wild pg. 9"
 ---

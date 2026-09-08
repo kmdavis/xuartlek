@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/rare
 - equipment/level/6
 aliases: ["Cryolite Eye"]
-aon_id: "equipment-4149"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4149"
 source: "Dark Archives (Remastered)"
 ---
 

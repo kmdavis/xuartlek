@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/elf
 - feat/level/17
 aliases: ["Magic Rider"]
-aon_id: "feat-4421"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4421"
 source: "Player Core"
 ---
 

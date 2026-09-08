@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/modification
 - feat/level/4
 aliases: ["Dual-Form Weapon"]
-aon_id: "feat-3057"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3057"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -15,7 +14,7 @@ source: "Guns & Gears (Remastered)"
 
 `Inventor`  `Modification`
 
-- **Prerequisites**: weapon innovation; expert overdrive
+- **Prerequisites**: [[srd/pf2e/compendium/character/innovations#Weapon|weapon innovation]]; expert overdrive
 
 You've built your innovation with replaceable interlocking pieces that you can use to transform it into another type of weapon entirely. When you select this feat, choose a level 0 or 1st-level simple or martial weapon. It must be either a common weapon or another to which you have access. This weapon becomes your innovation's second configuration.
 

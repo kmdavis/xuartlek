@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
 - trait/companion
 - equipment/level/0
 aliases: ["Basic Companion Chair"]
-aon_id: "equipment-2147"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2147"
 source: "Treasure Vault (Remastered)"
 ---
 

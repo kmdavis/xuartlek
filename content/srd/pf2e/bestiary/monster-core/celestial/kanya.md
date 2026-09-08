@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Kanya"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Kanya"
 level: 7
 source: "Monster Core"
-aon_id: "creature-2842"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2842"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [4, 3, 5, 2, 3, 5]
 abilities_top:
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/weapons/sword/longsword|longsword]]_, [[srd/pf2e/compendium/equipment/adventuring-gear/musical-instrument-virtuoso-heavy|virtuoso harp]]"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/weapons/sword/longsword|longsword]]_, [[srd/pf2e/compendium/equipment/adventuring-gear/musical-instrument|virtuoso harp]]"
 ac: 25
 armorclass:
   - name: "AC"

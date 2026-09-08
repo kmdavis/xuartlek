@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/healing
 - equipment/level/1
 aliases: ["Affliction Suppressant"]
-aon_id: "equipment-1956"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1956"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -21,7 +20,7 @@ source: "Treasure Vault (Remastered)"
 - **Bulk**: L
 - **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-First created using the same principles as the [[srd/pf2e/compendium/equipment/alchemical-items/antiplague-major|antiplague]] and [[srd/pf2e/compendium/equipment/alchemical-items/antidote-major|antivenom]] elixirs, an affliction suppressant is a broadly useful medicine, but sacrifices potency. It applies to a wide variety of afflictions, but lasts a much shorter time. Upon drinking an affliction suppressant, you gain an item bonus to all saves against afflictions for 10 minutes.
+First created using the same principles as the [[srd/pf2e/compendium/equipment/alchemical-items/antiplague|antiplague]] and [[srd/pf2e/compendium/equipment/alchemical-items/antidote|antivenom]] elixirs, an affliction suppressant is a broadly useful medicine, but sacrifices potency. It applies to a wide variety of afflictions, but lasts a much shorter time. Upon drinking an affliction suppressant, you gain an item bonus to all saves against afflictions for 10 minutes.
 
 Unlike with an antiplague, this suppressant isn’t longlasting enough to apply to a daily save against the progression of a [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]], or other long-lasting affliction. It can still help protect you from catching such an affliction when you’re initially exposed to it, as well as on saves that occur after stages that last 10 minutes or less.
 

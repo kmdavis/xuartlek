@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/player-core-2
@@ -11,7 +10,7 @@ tags:
 - trait/positive
 - equipment/level/1
 aliases: ["Ghost Charge"]
-aon_id: "equipment-3294"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3294"
 source: "Player Core 2"
 ---
 

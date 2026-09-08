@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
 - equipment/level/5
 aliases: ["Silver Armor"]
-aon_id: "equipment-2803"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2803"
 source: "GM Core"
 ---
 
@@ -13,7 +12,7 @@ source: "GM Core"
 
 - **Usage**: worn armor
 - **Bulk**: varies by armor
-- **Base Material**: [[srd/pf2e/compendium/equipment/materials/silver-object-high-grade|Silver]]
+- **Base Material**: [[srd/pf2e/compendium/equipment/materials/silver|Silver]]
 
 Silver armor sickens certain creatures that touch it. A creature with weakness to silver that critically fails an unarmed attack against a creature in silver armor becomes [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1. A creature with weakness to silver is sickened 1 as long as it wears silver armor.
 

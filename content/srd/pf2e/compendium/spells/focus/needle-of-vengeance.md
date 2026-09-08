@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -11,7 +10,7 @@ tags:
 - trait/witch
 - spell/level/1
 aliases: ["Needle of Vengeance"]
-aon_id: "spell-1881"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1881"
 source: "Player Core"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core"
 
 `Focus`  `Hex`  `Manipulate`  `Mental`  `Uncommon`  `Witch`
 
-- **Lesson**: Lesson of Vengeance
+- **Lesson**: [[srd/pf2e/compendium/character/lessons#Lesson of Vengeance|Lesson of Vengeance]]
 - **Range**: 30 feet
 - **Target**: 1 enemy
 - **Defense**: basic Will

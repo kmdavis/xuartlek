@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-skill
 tags:
 - compendium/src/pf2e/player-core
 aliases: ["Acrobatics"]
-aon_id: "skill-34"
+aon_url: "https://2e.aonprd.com/Skills.aspx?ID=34"
 source: "Player Core"
 ---
 
@@ -35,28 +34,28 @@ Other Worn Items
 No
 Item bonus to Acrobatics
 
-[[srd/pf2e/compendium/equipment/spellhearts/major-five-feather-wreath|Five-feather Wreath]]
+[[srd/pf2e/compendium/equipment/spellhearts/five-feather-wreath|Five-feather Wreath]]
 +1
 4
 Spellhearts
 No
 Item bonus to Acrobatics checks.
 
-[[srd/pf2e/compendium/equipment/spellhearts/major-five-feather-wreath|Greater Five-feather Wreath]]
+[[srd/pf2e/compendium/equipment/spellhearts/five-feather-wreath|Greater Five-feather Wreath]]
 +1
 8
 Spellhearts
 No
 Item bonus to Acrobatics checks.
 
-[[srd/pf2e/compendium/equipment/spellhearts/major-five-feather-wreath|Major Five-feather Wreath]]
+[[srd/pf2e/compendium/equipment/spellhearts/five-feather-wreath|Major Five-feather Wreath]]
 +1
 12
 Spellhearts
 No
 Item bonus to Acrobatics checks.
 
-[[srd/pf2e/compendium/equipment/alchemical-items/quicksilver-mutagen-major|Quicksilver Mutagen]]
+[[srd/pf2e/compendium/equipment/alchemical-items/quicksilver-mutagen|Quicksilver Mutagen]]
 +1
 0
 Alchemical Elixirs
@@ -69,7 +68,7 @@ Tea
 Yes
 Item bonus to Acrobatics
 
-[[srd/pf2e/compendium/equipment/worn-items/sash-of-prowess-greater|Sash of Prowess]]
+[[srd/pf2e/compendium/equipment/worn-items/sash-of-prowess|Sash of Prowess]]
 +2
 10
 Worn Items
@@ -82,7 +81,7 @@ Other Worn Items
 No
 Checks to Balance and Tumble Through an enemy’s space
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal]]
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal]]
 +2
 11
 Worn Items
@@ -96,7 +95,7 @@ Held Items
 No
 The tumbler’s belt grants a +2 item bonus to Acrobatics checks, and whenever you critically succeed at a check to Tumble Through, you gain a +10-foot item bonus to your Speed until the end of your turn.
 
-[[srd/pf2e/compendium/equipment/alchemical-items/quicksilver-mutagen-major|Quicksilver Mutagen]]
+[[srd/pf2e/compendium/equipment/alchemical-items/quicksilver-mutagen|Quicksilver Mutagen]]
 +2
 0
 Alchemical Elixirs
@@ -109,13 +108,13 @@ Other Consumables
 Yes
 +2 to Acrobatics to Maneuver in the air
 
-[[srd/pf2e/compendium/equipment/worn-items/sash-of-prowess-greater|Sash of Prowess (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/sash-of-prowess|Sash of Prowess (Greater)]]
 +3
 17
 Worn Items
 No
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal (Greater)]]
 +3
 18
 Worn Items
@@ -136,13 +135,13 @@ Other Consumables
 No
 item bonus to Acrobatics checks and never take falling damage
 
-[[srd/pf2e/compendium/equipment/alchemical-items/quicksilver-mutagen-major|Quicksilver Mutagen]]
+[[srd/pf2e/compendium/equipment/alchemical-items/quicksilver-mutagen|Quicksilver Mutagen]]
 +3
 0
 Alchemical Elixirs
 Yes
 
-[[srd/pf2e/compendium/equipment/alchemical-items/quicksilver-mutagen-major|Quicksilver Mutagen]]
+[[srd/pf2e/compendium/equipment/alchemical-items/quicksilver-mutagen|Quicksilver Mutagen]]
 +4
 0
 Alchemical Elixirs

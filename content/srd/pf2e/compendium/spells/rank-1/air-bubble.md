@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/concentrate
 - spell/level/1
 aliases: ["Air Bubble"]
-aon_id: "spell-1438"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1438"
 source: "Player Core"
 ---
 

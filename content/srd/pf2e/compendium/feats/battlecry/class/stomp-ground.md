@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
 - trait/guardian
 - feat/level/6
 aliases: ["Stomp Ground"]
-aon_id: "feat-7856"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7856"
 source: "Battlecry!"
 ---
 

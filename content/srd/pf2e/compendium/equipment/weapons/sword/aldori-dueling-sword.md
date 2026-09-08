@@ -1,18 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/battlecry
 - trait/finesse
 - trait/uncommon
 - trait/versatile
-- weapon/level/1
+- weapon/level/0
 aliases: ["Aldori Dueling Sword"]
-aon_id: "weapon-88"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=535"
 source: "Battlecry!"
 ---
 
-# Aldori Dueling Sword  *Weapon 1*
+# Aldori Dueling Sword  *Weapon 0*
 
 `Finesse`  `Uncommon`  `Versatile`
 

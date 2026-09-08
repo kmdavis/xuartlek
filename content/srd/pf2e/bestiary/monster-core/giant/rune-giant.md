@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Rune Giant"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Rune Giant"
 level: 16
 source: "Monster Core"
-aon_id: "creature-3017"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3017"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [9, 2, 7, 2, 6, 4]
 abilities_top:
   - name: "Items"
-    desc: "_+2 [[srd/pf2e/compendium/equipment/runes/striking-major|greater striking]] [[srd/pf2e/compendium/equipment/weapons/sword/greatsword|greatsword]]_, _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/spear/longspear|longspear]]_, _+1 [[srd/pf2e/compendium/equipment/armor#Splint Mail|splint mail]]_"
+    desc: "_+2 [[srd/pf2e/compendium/equipment/runes/striking|greater striking]] [[srd/pf2e/compendium/equipment/weapons/sword/greatsword|greatsword]]_, _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/spear/longspear|longspear]]_, _+1 [[srd/pf2e/compendium/equipment/armor#Splint Mail|splint mail]]_"
 ac: 38
 armorclass:
   - name: "AC"

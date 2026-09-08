@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-eidolon
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/eidolon
 - trait/fey
 aliases: ["Fey"]
-aon_id: "eidolon-22"
+aon_url: "https://2e.aonprd.com/Eidolons.aspx?ID=22"
 source: "Impossible Magic"
 ---
 

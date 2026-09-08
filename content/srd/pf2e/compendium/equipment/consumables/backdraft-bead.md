@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - equipment/level/5
 aliases: ["Backdraft Bead"]
-aon_id: "equipment-5044"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5044"
 source: "Impossible Magic"
 ---
 

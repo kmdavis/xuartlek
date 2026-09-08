@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/rare
 - equipment/level/11
 aliases: ["Elder Seed"]
-aon_id: "equipment-2370"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2370"
 source: "Treasure Vault (Remastered)"
 ---
 

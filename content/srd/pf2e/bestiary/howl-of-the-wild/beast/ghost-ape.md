@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Ghost Ape"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Ghost Ape"
 level: 4
 source: "Howl of the Wild"
-aon_id: "creature-3272"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3272"
 ---
 

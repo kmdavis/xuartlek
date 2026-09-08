@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/uncommon
 aliases: ["Inventor"]
-aon_id: "class-19"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=19"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -107,7 +106,7 @@ You have a bevy of smaller devices of your own invention, from muscle stimulants
 
 While you're always creating inventions, there's one that represents your preeminent work, the one that you hope—with refinement—might change the world. Choose one innovation. Your innovation's level is equal to your level. If your innovation is destroyed, you can spend 1 day of downtime and attempt a [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] check with a high DC for your level; on a success, you rebuild it. An innovation only works due to your constant maintenance and tinkering, and therefore has no market Price. 
 
-Innovations can be found here.
+Innovations can be found [[srd/pf2e/compendium/character/innovations|here]].
 
 #### Explode
 
@@ -138,7 +137,7 @@ You've increased your skill in crafting, and you can put your devices into a mor
 
 #### Reconfigure
 
-You've become an expert in all crafts and are always adjusting your inventions. You can attempt to change the modifications on your innovation by spending 1 day of downtime tinkering with it and attempting a [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] check, with a high DC for your level. On a success, you can change one modification you've chosen for your innovation to a different modification of the same kind (initial, breakthrough, or revolutionary).
+You've become an expert in all crafts and are always adjusting your inventions. You can attempt to change the modifications on your [[srd/pf2e/compendium/character/innovations|innovation]] by spending 1 day of downtime tinkering with it and attempting a [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] check, with a high DC for your level. On a success, you can change one modification you've chosen for your innovation to a different modification of the same kind (initial, breakthrough, or revolutionary).
 
  If you have any [[srd/pf2e/compendium/rules-elements/traits/guns-gears-remastered/modification|modification]] feats, on a successful check you can choose to instead retrain a modification feat to a different modification feat. The new feat has to meet the standard restrictions for retraining.
 
@@ -162,7 +161,7 @@ You develop tricks for using your weapons more effectively. Your proficiency ran
 
 #### Breakthrough Innovation
 
-You've made a breakthrough in your field of study and discovered a powerful new way to enhance your innovation. Choose a breakthrough modification of your innovation's type to apply to your innovation. You can choose an initial modification of your innovation's type instead if you prefer.
+You've made a breakthrough in your field of study and discovered a powerful new way to enhance your [[srd/pf2e/compendium/character/innovations|innovation]]. Choose a breakthrough modification of your innovation's type to apply to your innovation. You can choose an initial modification of your innovation's type instead if you prefer.
 
 #### Master Overdrive
 
@@ -182,7 +181,7 @@ Through innovation and experimentation, you've made your inventions more effecti
 
 #### Offensive Boost
 
-You've made additions to your innovation to upgrade your offensive capabilities. Your improvements make any Strikes that rely on your innovation deal an additional 1d6 damage, with a type determined by the boost you choose. If your innovation is armor, the boost applies to your melee unarmed Strikes and to your melee Strikes with one weapon you choose during daily preparations; if your innovation is a construct, the boost applies to your construct companion's Strikes; and if your innovation is a weapon, the boost applies to your Strikes with your innovation. You can spend downtime to switch to a different boost in the same way as switching your modification. Choose one of the following boosts, with the damage type in parentheses. 
+You've made additions to your innovation to upgrade your offensive capabilities. Your improvements make any Strikes that rely on your innovation deal an additional 1d6 damage, with a type determined by the boost you choose. If your innovation is [[srd/pf2e/compendium/character/innovations#Armor|armor]], the boost applies to your melee unarmed Strikes and to your melee Strikes with one weapon you choose during daily preparations; if your innovation is a [[srd/pf2e/compendium/character/innovations#Construct|construct]], the boost applies to your construct companion's Strikes; and if your innovation is a [[srd/pf2e/compendium/character/innovations#Weapon|weapon]], the boost applies to your Strikes with your innovation. You can spend downtime to switch to a different boost in the same way as switching your modification. Choose one of the following boosts, with the damage type in parentheses. 
 **Chill (Cold)**: Your innovation rapidly absorbs heat, creating an intense chill.**Ignition (Fire)**: Your innovation shoots out jets of searing flame.**Jolt (Electricity)**: Your innovation jolts foes with charges of electricity.**Momentum (Bludgeoning)**: Your innovation slams into foes with added momentum.**Saws (Slashing)**: Your innovation reveals spinning sawblades during your attacks.**Spike (Piercing)**: Your innovation reveals wicked spikes during your attacks.**Vitriol (Acid)**: Your innovation releases spurts of caustic acid.
 
 #### Medium Armor Expertise
@@ -201,7 +200,7 @@ You've steeled your mind with resolve. Your proficiency rank for Will saves incr
 
 #### Complete Reconfiguration
 
-When it comes to crafting and tinkering, you've become incredibly adept at changing your modifications to adjust your innovation's functionality. When you spend downtime to reconfigure your innovation and succeed at your [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] check, you can swap any number of modifications, swap your offensive boost, or retrain any number of [[srd/pf2e/compendium/rules-elements/traits/guns-gears-remastered/modification|modification]] feats, rather than one. You still must swap a modification only with one of the same type (initial, breakthrough, or revolutionary).
+When it comes to crafting and tinkering, you've become incredibly adept at changing your modifications to adjust your [[srd/pf2e/compendium/character/innovations|innovation's]] functionality. When you spend downtime to reconfigure your innovation and succeed at your [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] check, you can swap any number of modifications, swap your offensive boost, or retrain any number of [[srd/pf2e/compendium/rules-elements/traits/guns-gears-remastered/modification|modification]] feats, rather than one. You still must swap a modification only with one of the same type (initial, breakthrough, or revolutionary).
 
 | | |
 | --- | --- |
@@ -217,7 +216,7 @@ Your peerless inventing and [[srd/pf2e/compendium/rules-elements/skills/crafting
 
 #### Revolutionary Innovation
 
-You are an unparalleled genius and have discovered a technique that will revolutionize your chosen field—or at least for the time being, your innovation! Choose a revolutionary modification to apply to your innovation. You can also choose an initial or breakthrough modification of the same type instead, if you prefer.
+You are an unparalleled genius and have discovered a technique that will revolutionize your chosen field—or at least for the time being, your [[srd/pf2e/compendium/character/innovations|innovation]]! Choose a revolutionary modification to apply to your innovation. You can also choose an initial or breakthrough modification of the same type instead, if you prefer.
 
 | | |
 | --- | --- |
@@ -229,7 +228,7 @@ Your body is accustomed to physical hardship and resistant to ailments. Your pro
 
 #### Infinite Invention
 
-Your ability to adjust your innovation has reached impossible heights, and you can use these skills to make major adjustments in your spare time. During your daily preparations, you automatically fix your innovation if it's destroyed or [[srd/pf2e/compendium/rules-elements/conditions#Broken|broken]], and you can change to a different innovation (armor, construct, weapon, or other type you have access to) and change your modifications and offensive boost.
+Your ability to adjust your innovation has reached impossible heights, and you can use these skills to make major adjustments in your spare time. During your daily preparations, you automatically fix your innovation if it's destroyed or [[srd/pf2e/compendium/rules-elements/conditions#Broken|broken]], and you can change to a different innovation ([[srd/pf2e/compendium/character/innovations#Armor|armor]], [[srd/pf2e/compendium/character/innovations#Construct|construct]], [[srd/pf2e/compendium/character/innovations#Weapon|weapon]], or other type you have access to) and change your modifications and offensive boost.
 
  If you have any feats that had your previous innovation as a prerequisite, you can't use them until you retrain the feats as normal. However, it takes you only 1 day of downtime to retrain such a feat into a feat that has your new innovation as a prerequisite, instead of 1 week.
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ancestry
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/humanoid
 - trait/uncommon
 aliases: ["Hobgoblin"]
-aon_id: "ancestry-78"
+aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=78"
 source: "Player Core 2"
 ---
 

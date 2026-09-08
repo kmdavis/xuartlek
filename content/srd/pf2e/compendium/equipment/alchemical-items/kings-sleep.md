@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/player-core-2
@@ -10,7 +9,7 @@ tags:
 - trait/virulent
 - equipment/level/18
 aliases: ["King's Sleep"]
-aon_id: "equipment-3338"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3338"
 source: "Player Core 2"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core 2"
 
 `Alchemical`  `Consumable`  `Ingested`  `Poison`  `Virulent`
 
-- **Price**: 4,000 gp
+- **Price**: 4, 000 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
 - **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])

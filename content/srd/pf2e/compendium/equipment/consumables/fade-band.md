@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -9,7 +8,7 @@ tags:
 - trait/talisman
 - equipment/level/12
 aliases: ["Fade Band"]
-aon_id: "equipment-2974"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2974"
 source: "GM Core"
 ---
 

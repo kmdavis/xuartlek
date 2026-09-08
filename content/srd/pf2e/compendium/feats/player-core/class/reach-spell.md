@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -15,7 +14,7 @@ tags:
 - trait/metamagic
 - feat/level/1
 aliases: ["Reach Spell"]
-aon_id: "feat-4577"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4577"
 source: "Player Core"
 ---
 

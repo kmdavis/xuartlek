@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/invested
 - equipment/level/11
 aliases: ["Mala Beads of Foresight"]
-aon_id: "equipment-2325"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2325"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -16,7 +15,7 @@ source: "Treasure Vault (Remastered)"
 
 `Divine`  `Focused`  `Invested`
 
-- **Price**: 1,300 gp
+- **Price**: 1, 300 gp
 - **Usage**: worn
 - **Bulk**: L
 

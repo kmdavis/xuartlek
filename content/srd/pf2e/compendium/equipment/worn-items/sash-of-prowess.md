@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/player-core-2
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - equipment/level/10
 aliases: ["Sash of Prowess"]
-aon_id: "equipment-3439"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3439"
 source: "Player Core 2"
 ---
 

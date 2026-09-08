@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/goblin
 - feat/level/5
 aliases: ["Vandal"]
-aon_id: "feat-4449"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4449"
 source: "Player Core"
 ---
 

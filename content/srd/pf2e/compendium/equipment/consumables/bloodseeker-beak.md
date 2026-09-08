@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -8,7 +7,7 @@ tags:
 - trait/talisman
 - equipment/level/4
 aliases: ["Bloodseeker Beak"]
-aon_id: "equipment-2965"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2965"
 source: "GM Core"
 ---
 

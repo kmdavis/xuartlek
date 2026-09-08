@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Azarketi Crab Catcher"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Azarketi Crab Catcher"
 level: 0
 source: "Monster Core"
-aon_id: "creature-2838"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2838"
 ---
 

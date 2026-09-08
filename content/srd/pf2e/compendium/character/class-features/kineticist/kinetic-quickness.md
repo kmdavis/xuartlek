@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class-feature
 tags:
 - compendium/src/pf2e/rage-of-elements
 - class-feature/level/11
 aliases: ["Kinetic Quickness"]
-aon_id: "class-feature-610"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=23"
 source: "Rage of Elements"
 ---
 

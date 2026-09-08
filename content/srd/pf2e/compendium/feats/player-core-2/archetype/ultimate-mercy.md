@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/champion
 - feat/level/18
 aliases: ["Ultimate Mercy"]
-aon_id: "feat-5929"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5929"
 source: "Player Core 2"
 ---
 

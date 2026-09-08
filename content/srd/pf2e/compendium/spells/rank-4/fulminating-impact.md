@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/sonic
 - spell/level/4
 aliases: ["Fulminating Impact"]
-aon_id: "spell-2715"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2715"
 source: "Impossible Magic"
 ---
 

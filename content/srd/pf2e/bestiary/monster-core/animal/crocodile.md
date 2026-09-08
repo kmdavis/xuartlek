@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Crocodile"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Crocodile"
 level: 2
 source: "Monster Core"
-aon_id: "creature-2887"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2887"
 ---
 

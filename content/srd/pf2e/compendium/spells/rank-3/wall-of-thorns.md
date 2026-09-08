@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/wood
 - spell/level/3
 aliases: ["Wall of Thorns"]
-aon_id: "spell-1752"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1752"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Plant`  `Wood`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Erastil, Fandarra, Green Faith, Jaidi, Kzininn, Treerazer, Vermilion Mother, Xhamen-Dor, Zon-Kuthon
+- **Deities**: [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/erastil|Erastil]], [[srd/pf2e/compendium/deities/giant-gods/fandarra|Fandarra]], [[srd/pf2e/compendium/deities/faiths-philosophies/green-faith|Green Faith]], [[srd/pf2e/compendium/deities/azlanti-pantheon/jaidi|Jaidi]], Kzininn, [[srd/pf2e/compendium/deities/demon-lords/treerazer|Treerazer]], Vermilion Mother, [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/xhamen-dor|Xhamen-Dor]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/zon-kuthon|Zon-Kuthon]]
 - **Range**: 60 feet
 - **Duration**: 1 minute
 

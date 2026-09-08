@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Calikang"
 tags:
@@ -12,7 +11,6 @@ name: "Calikang"
 level: 12
 source: "Monster Core 2"
 other_sources: "Pathfinder #149: Against the Scarlet Triad"
-aon_id: "creature-4290"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4290"
 ---
 
@@ -39,7 +37,7 @@ abilities_top:
   - name: "Suspended Animation"
     desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) By concentrating for 5 minutes, the calikang can enter a state of suspended animation, freezing in place and becoming motionless but remaining aware of their surroundings. While in this state, the calikang gains a +4 status bonus to Fortitude saves, doesn't age, and is immune to [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/traits/gm-core/inhaled|inhaled]] toxins, [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/books/gm-core/chapter-1-running-the-game/running-exploration#Starvation and Thirst|starvation, and thirst]]. A calikang can exit suspended animation as a free action. If they exit this state to attack, the calikang gains a +2 circumstance bonus to their initiative roll."
   - name: "Items"
-    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/sword/longsword|longsword]]_ (2)"
+    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/sword/longsword|longsword]]_ (2)"
 ac: 31
 armorclass:
   - name: "AC"

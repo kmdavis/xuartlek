@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/polymorph
 - spell/level/3
 aliases: ["Insect Form"]
-aon_id: "spell-1575"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1575"
 source: "Player Core"
 ---
 
@@ -17,8 +16,8 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Polymorph`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Aakriti, Dammar, Ghlaunder, Kitumu, Sigek
-- **Lesson**: Lesson of Decay
+- **Deities**: Aakriti, [[srd/pf2e/compendium/deities/monitor-demigods/dammar|Dammar]], [[srd/pf2e/compendium/deities/other-gods/ghlaunder|Ghlaunder]], Kitumu, Sigek
+- **Lesson**: [[srd/pf2e/compendium/character/lessons#Lesson of Decay|Lesson of Decay]]
 - **Duration**: 1 minute
 
 You envision a simple bug and transform into a Medium animal battle form. When you Cast this Spell, choose a listed battle form. You can decide the specific type of animal (such as such as a ladybug or scarab for beetle), but this has no effect on the form's Size or statistics. While in this form, you gain the animal trait. You can Dismiss this spell.

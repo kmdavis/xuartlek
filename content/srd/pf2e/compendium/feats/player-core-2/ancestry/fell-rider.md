@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/hobgoblin
 - feat/level/9
 aliases: ["Fell Rider"]
-aon_id: "feat-5582"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5582"
 source: "Player Core 2"
 ---
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/gnome
 - feat/level/1
 aliases: ["First World Magic"]
-aon_id: "feat-4425"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4425"
 source: "Player Core"
 ---
 

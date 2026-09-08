@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -8,7 +7,7 @@ tags:
 - trait/water
 - equipment/level/13
 aliases: ["Tidal Crossbow"]
-aon_id: "equipment-3211"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3211"
 source: "Howl of the Wild"
 ---
 
@@ -16,12 +15,12 @@ source: "Howl of the Wild"
 
 `Magical`  `Rare`  `Water`
 
-- **Price**: 2,800 gp
+- **Price**: 2, 800 gp
 - **Usage**: held in 2 hands
 - **Bulk**: 1
 - **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/crossbow/crossbow|Crossbow]]
 
-The beak and talons of a tidehawk form the triggering mechanism of this [[srd/pf2e/compendium/equipment/runes/weapon-potency-3|+2]] [[srd/pf2e/compendium/equipment/runes/striking-major|greater striking]] [[srd/pf2e/compendium/equipment/weapons/crossbow/crossbow|crossbow]]. Its grip is constantly damp, though this doesn’t affect your ability to keep ahold of the weapon. When used in aquatic combat, a _tidal crossbow_ doesn’t have its range increments halved. A _tidal crossbow_ deals 1d4 additional bludgeoning damage on a successful Strike. On a critical hit, the bow’s additional damage is instead 1d4 bludgeoning splash damage, and the target must succeed at a DC 31 Reflex save or be pushed back 5 feet. The bow critical specialization effect applies to creatures with the water trait even if it wouldn’t normally.
+The beak and talons of a tidehawk form the triggering mechanism of this [[srd/pf2e/compendium/equipment/runes/weapon-potency|+2]] [[srd/pf2e/compendium/equipment/runes/striking|greater striking]] [[srd/pf2e/compendium/equipment/weapons/crossbow/crossbow|crossbow]]. Its grip is constantly damp, though this doesn’t affect your ability to keep ahold of the weapon. When used in aquatic combat, a _tidal crossbow_ doesn’t have its range increments halved. A _tidal crossbow_ deals 1d4 additional bludgeoning damage on a successful Strike. On a critical hit, the bow’s additional damage is instead 1d4 bludgeoning splash damage, and the target must succeed at a DC 31 Reflex save or be pushed back 5 feet. The bow critical specialization effect applies to creatures with the water trait even if it wouldn’t normally.
 
 **Activate—Typhoon Swell** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]]) **Frequency** once per day; **Effect** The tidal crossbow produces a torrent of water in a 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Line|line]], dealing 8d6 bludgeoning damage (DC 30 basic Fortitude save). Creatures that fail the save are also knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
 

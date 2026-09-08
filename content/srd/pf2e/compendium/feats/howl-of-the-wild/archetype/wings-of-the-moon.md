@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 - trait/archetype
 - feat/level/12
 aliases: ["Wings of the Moon"]
-aon_id: "feat-5511"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5511"
 source: "Howl of the Wild"
 ---
 

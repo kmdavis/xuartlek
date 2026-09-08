@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Island Oni"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Island Oni"
 level: 17
 source: "Monster Core"
-aon_id: "creature-3124"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3124"
 ---
 
@@ -42,7 +40,7 @@ abilities_top:
   - name: "Mist Vision"
     desc: "The island oni ignores the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition from fog and mist."
   - name: "Items"
-    desc: "_+2 [[srd/pf2e/compendium/equipment/runes/striking-major|greater striking]] [[srd/pf2e/compendium/equipment/weapons/spear/longspear|longspear]]_"
+    desc: "_+2 [[srd/pf2e/compendium/equipment/runes/striking|greater striking]] [[srd/pf2e/compendium/equipment/weapons/spear/longspear|longspear]]_"
 ac: 38
 armorclass:
   - name: "AC"

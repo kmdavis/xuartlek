@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/1
 aliases: ["Vanishing Tracks"]
-aon_id: "spell-1737"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1737"
 source: "Player Core"
 ---
 
@@ -16,7 +15,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`
 
 - **Tradition**: Primal
-- **Deities**: Dachzerul, Kalekot, Kelinahat, Ketephys, Ng, Skode, Tanagaar, Ulon, Zarongel
+- **Deities**: [[srd/pf2e/compendium/deities/sakhil-tormentors/dachzerul|Dachzerul]], Kalekot, [[srd/pf2e/compendium/deities/empyreal-lords/kelinahat|Kelinahat]], [[srd/pf2e/compendium/deities/elven-gods/ketephys|Ketephys]], [[srd/pf2e/compendium/deities/eldest/ng|Ng]], [[srd/pf2e/compendium/deities/giant-gods/skode|Skode]], Tanagaar, [[srd/pf2e/compendium/deities/azlanti-pantheon/ulon|Ulon]], [[srd/pf2e/compendium/deities/goblin-gods/zarongel|Zarongel]]
 - **Duration**: 1 hour
 
 You obscure the tracks you leave behind. The DC of checks to Track you gains a +4 status bonus or is equal to your spell DC, whichever results in a higher DC.

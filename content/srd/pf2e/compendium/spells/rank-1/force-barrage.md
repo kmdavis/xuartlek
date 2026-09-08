@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/1
 aliases: ["Force Barrage"]
-aon_id: "spell-1536"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1536"
 source: "Player Core"
 ---
 
@@ -17,8 +16,8 @@ source: "Player Core"
 `Concentrate`  `Force`  `Manipulate`
 
 - **Traditions**: Arcane, Occult
-- **Bloodline**: Imperial
-- **Deities**: Gravelady's Guard, Lorthact, Nethys
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Imperial|Imperial]]
+- **Deities**: Gravelady's Guard, Lorthact, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/nethys|Nethys]]
 - **Range**: 120 feet
 - **Target**: 1 creature
 

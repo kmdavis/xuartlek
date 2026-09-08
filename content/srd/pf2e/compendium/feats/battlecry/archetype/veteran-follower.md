@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
 - trait/archetype
 - feat/level/8
 aliases: ["Veteran Follower"]
-aon_id: "feat-8000"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8000"
 source: "Battlecry!"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -10,7 +9,7 @@ tags:
 - trait/thaumaturge
 - feat/level/2
 aliases: ["Turn Away Misfortune"]
-aon_id: "feat-8362"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8362"
 source: "Dark Archives (Remastered)"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Duskwalker Ghost Hunter"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Duskwalker Ghost Hunter"
 level: 4
 source: "Monster Core"
-aon_id: "creature-3139"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3139"
 ---
 

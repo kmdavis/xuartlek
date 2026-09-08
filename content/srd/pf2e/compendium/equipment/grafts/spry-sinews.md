@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - equipment/level/3
 aliases: ["Spry Sinews"]
-aon_id: "equipment-3189"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3189"
 source: "Howl of the Wild"
 ---
 

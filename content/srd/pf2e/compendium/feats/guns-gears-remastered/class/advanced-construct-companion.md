@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/inventor
 - feat/level/4
 aliases: ["Advanced Construct Companion"]
-aon_id: "feat-3055"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3055"
 source: "Guns & Gears (Remastered)"
 ---
 

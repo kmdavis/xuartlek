@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - spell/level/3
 aliases: ["Battlefield Persistence"]
-aon_id: "spell-2070"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2070"
 source: "Player Core 2"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core 2"
 
 `Concentrate`  `Focus`  `Oracle`  `Uncommon`
 
-- **Mystery**: Battle
+- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Battle|Battle]]
 - **Trigger**: You are about to attempt a saving throw, but you haven’t rolled yet.
 
 You're difficult to deter in battle. You gain a +2 status bonus to the triggering save, and if the triggering save is against an [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|incapacitation]] effect, it treats you as if you were 2 levels higher.

@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-skill-general-action
 tags:
 - compendium/src/pf2e/player-core
 aliases: ["Recall Knowledge"]
-aon_id: "skill-general-action-24"
+aon_url: "https://2e.aonprd.com/Skills.aspx?ID=24&General=true"
 source: "Player Core"
 ---
 

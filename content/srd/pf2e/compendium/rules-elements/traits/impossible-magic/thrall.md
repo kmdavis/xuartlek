@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/thrall
 aliases: ["Thrall"]
-aon_id: "trait-955"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=955"
 source: "Impossible Magic"
 ---
 

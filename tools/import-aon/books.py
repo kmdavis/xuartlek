@@ -19,10 +19,19 @@ Deliberately excluded:
                      Dark Archive, Treasure Vault, Guns & Gears, Ancestry Guide.
                      All superseded by a book in the list below.
 
-  Lost Omens         Setting line, not rules. Note this also excludes Divine
-                     Mysteries (AoN categorises it Lost Omens), which is the
-                     Remaster replacement for Gods & Magic and carries the
-                     deity and domain entries.
+  Lost Omens         Setting line, not rules -- with one deliberate exception,
+                     Divine Mysteries (see below).
+
+  Divine Mysteries   INCLUDED despite AoN shelving it under Lost Omens. It is
+  Web Supplement     the Remaster replacement for Gods & Magic, and a large
+                     amount of PF2e mechanics is gated on a specific deity:
+                     Fleet Step, for instance, is only available to certain
+                     worshippers. Excluding it would leave 5,071 unresolvable
+                     deity references and orphan the 108 spells and 91 feats
+                     that depend on them. Only the core book is taken; the Web
+                     Supplement's 80 extra niche gods, and the long tail in
+                     Draconic Codex / Gods & Magic / adventures / blog posts,
+                     are all left out.
 
   Adventures / APs   Adventure Paths, standalone adventures, Society scenarios.
 """
@@ -47,7 +56,12 @@ REMASTER_RULEBOOKS: dict[str, str] = {
     "Dark Archives (Remastered)": "DA",
     "Impossible Magic": "IM",
     "Secrets of the Unlit Star Game Master's Guide": "SUS",
+    "Divine Mysteries": "DM",
 }
+
+# Books that are not in AoN's "Rulebooks" shelf but are imported anyway.
+# Kept separate so the Rulebooks-derived provenance above stays honest.
+NON_RULEBOOKS = frozenset({"Divine Mysteries"})
 
 # The original five, kept so a run can be narrowed back down for comparison.
 CORE_FIVE = ["Player Core", "Player Core 2", "GM Core", "Monster Core", "NPC Core"]

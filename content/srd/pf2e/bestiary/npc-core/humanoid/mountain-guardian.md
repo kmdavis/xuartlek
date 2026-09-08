@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Mountain Guardian"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Mountain Guardian"
 level: 6
 source: "NPC Core"
-aon_id: "creature-3582"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3582"
 ---
 

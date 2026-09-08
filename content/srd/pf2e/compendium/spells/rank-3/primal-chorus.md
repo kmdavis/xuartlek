@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -9,7 +8,7 @@ tags:
 - trait/mental
 - spell/level/3
 aliases: ["Primal Chorus"]
-aon_id: "spell-1957"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1957"
 source: "Howl of the Wild"
 ---
 

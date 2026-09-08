@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/barbarian
 - feat/level/12
 aliases: ["Titan's Stature"]
-aon_id: "feat-5860"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5860"
 source: "Player Core 2"
 ---
 

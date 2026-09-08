@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Lomori Sprout"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Lomori Sprout"
 level: 3
 source: "Rage of Elements"
-aon_id: "creature-2684"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2684"
 ---
 

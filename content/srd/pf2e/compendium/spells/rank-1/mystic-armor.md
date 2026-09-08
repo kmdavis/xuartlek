@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/1
 aliases: ["Mystic Armor"]
-aon_id: "spell-1611"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1611"
 source: "Player Core"
 ---
 
@@ -17,9 +16,9 @@ source: "Player Core"
 
 - **Traditions**: Arcane, Divine, Occult, Primal
 - **Spell Lists**: Elemental
-- **Bloodline**: Aesir
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Aesir|Aesir]]
 - **Deities**: Demon Bringers, Keepers of the Hearth, Valmallos
-- **Lesson**: Lesson of Protection
+- **Lesson**: [[srd/pf2e/compendium/character/lessons#Lesson of Protection|Lesson of Protection]]
 - **Duration**: until your next daily preparations
 
 You ward yourself with shimmering magical energy, gaining a +1 item bonus to AC and a maximum Dexterity modifier of +5. While wearing _mystic armor_, you use your unarmored proficiency to calculate your AC.

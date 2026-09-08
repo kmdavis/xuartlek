@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class
 tags:
 - compendium/src/pf2e/player-core-2
 aliases: ["Sorcerer"]
-aon_id: "class-62"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=62"
 source: "Player Core 2"
 ---
 
@@ -106,7 +105,7 @@ In addition to what you get from your class at 1st level, you have four free boo
 
 Choose a bloodline that gives you your spellcasting talent. This choice determines the type of spells you cast and the spell list you choose them from, the additional spells you learn, and your additional trained skills. You also gain Focus Points and special focus spells based on your bloodline. 
 
- Bloodlines can be found here.
+ Bloodlines can be found [[srd/pf2e/compendium/character/bloodlines|here]].
 
 #### Sorcerer Spellcasting
 
@@ -128,7 +127,7 @@ Your bloodline provides you with incredible magical power. You are a spellcaster
 
 #### Spell Repertoire
 
-The collection of spells you can cast is called your spell repertoire. At 1st level, you learn two 1st-rank spells of your choice and four cantrips of your choice, as well as an additional spell and cantrip from your bloodline You choose these from the common spells from the tradition corresponding to your bloodline, or from other spells from that tradition to which you have access. You can cast any spell in your spell repertoire by using a spell slot of an appropriate spell rank.
+The collection of spells you can cast is called your spell repertoire. At 1st level, you learn two 1st-rank spells of your choice and four cantrips of your choice, as well as an additional spell and cantrip from your [[srd/pf2e/compendium/character/bloodlines|bloodline]] You choose these from the common spells from the tradition corresponding to your bloodline, or from other spells from that tradition to which you have access. You can cast any spell in your spell repertoire by using a spell slot of an appropriate spell rank.
 
  You add to this spell repertoire as you increase in level. Each time you get a spell slot (see the Sorcerer Spells per Day table), you add a spell to your spell repertoire of the same rank. When you gain a new rank of spells, your first new spell is always the sorcerous gift spell for that rank that's listed in your bloodline, but you can choose the other spells. At 2nd level, you select another 1st-rank spell; at 3rd level, you gain a new spell from your bloodline and two other 2nd-rank spells, and so on. When you add spells, you might select a higher-rank version of a spell you already know so that you can cast a heightened version of that spell.
 

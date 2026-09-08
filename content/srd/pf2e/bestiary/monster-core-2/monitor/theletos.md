@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Theletos"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Theletos"
 level: 7
 source: "Monster Core 2"
-aon_id: "creature-4012"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4012"
 ---
 

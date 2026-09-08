@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -10,7 +9,7 @@ tags:
 - trait/rare
 - spell/level/2
 aliases: ["Banishing Touch"]
-aon_id: "spell-2152"
+aon_url: "https://2e.aonprd.com/MythicSpells.aspx?ID=2152"
 source: "War of Immortals"
 ---
 

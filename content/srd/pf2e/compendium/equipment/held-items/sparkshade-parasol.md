@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - equipment/level/11
 aliases: ["Sparkshade Parasol"]
-aon_id: "equipment-2610"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2610"
 source: "Rage of Elements"
 ---
 
@@ -16,7 +15,7 @@ source: "Rage of Elements"
 
 `Fire`  `Invested`  `Magical`
 
-- **Price**: 1,200 gp
+- **Price**: 1, 200 gp
 - **Usage**: held in 1 hand
 - **Bulk**: 1
 

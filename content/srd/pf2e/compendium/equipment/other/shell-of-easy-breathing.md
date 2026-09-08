@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -7,7 +6,7 @@ tags:
 - trait/water
 - equipment/level/5
 aliases: ["Shell of Easy Breathing"]
-aon_id: "equipment-2632"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2632"
 source: "Rage of Elements"
 ---
 

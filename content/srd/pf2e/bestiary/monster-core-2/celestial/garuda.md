@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Garuda"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Garuda"
 level: 9
 source: "Monster Core 2"
-aon_id: "creature-4405"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4405"
 ---
 

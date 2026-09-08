@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Sakugami"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Sakugami"
 level: 15
 source: "Monster Core 2"
-aon_id: "creature-4456"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4456"
 ---
 
@@ -42,7 +40,7 @@ abilities_top:
   - name: "Ward"
     desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]]) Every kami is bound to a ward: a specific animal, plant, object, or location. A kami can merge with or emerge from their ward as a single action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait. While merged, the kami can observe their surroundings with their usual senses as well as the senses of their ward, but can't move, communicate with, or control their ward. Additionally, a kami merged with their ward recovers Hit Points each minute as if they spent an entire day resting. A sakugami's ward is a specific deciduous tree with seasonal blossoms, such as a cherry, plum, or wisteria."
   - name: "Items"
-    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+2 striking]] [[srd/pf2e/compendium/rules-elements/traits/gm-core/staff|staff]]_"
+    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+2 striking]] [[srd/pf2e/compendium/rules-elements/traits/gm-core/staff|staff]]_"
 ac: 35
 armorclass:
   - name: "AC"
@@ -50,7 +48,7 @@ armorclass:
 hp: 350
 health:
   - name: "HP"
-    desc: "350; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 15"
+    desc: "350; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 15"
 abilities_mid:
   - name: "Reactive Strike"
     desc: "⬲"

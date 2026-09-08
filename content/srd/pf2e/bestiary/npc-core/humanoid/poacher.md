@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Poacher"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Poacher"
 level: 2
 source: "NPC Core"
-aon_id: "creature-3469"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3469"
 ---
 
@@ -40,7 +38,7 @@ abilities_top:
   - name: "Snare Crafting"
     desc: "The poacher knows how to craft the following [[srd/pf2e/books/player-core-2/snares/index|snares]]: [[srd/pf2e/compendium/equipment/snares/alarm-snare|alarm snare]], [[srd/pf2e/compendium/equipment/snares/hampering-snare|hampering snare]], [[srd/pf2e/compendium/equipment/snares/marking-snare|marking snare]], and [[srd/pf2e/compendium/equipment/snares/signaling-snare|signaling snare]]. The poacher can create up to four snares each day without paying for the materials, using 3 Interact actions to deploy a snare. The snare becomes inert after 24 hours."
   - name: "Items"
-    desc: "Composite Shortbow (20 arrows), Light Mace, Padded Armor, snare toolkit (functions as [[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit-sterling|artisan's toolkit]])"
+    desc: "Composite Shortbow (20 arrows), Light Mace, Padded Armor, snare toolkit (functions as [[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit|artisan's toolkit]])"
 ac: 18
 armorclass:
   - name: "AC"

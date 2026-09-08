@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-adjustment
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 aliases: ["Secret Society Member"]
-aon_id: "creature-adjustment-60"
+aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=60"
 source: "Dark Archives (Remastered)"
 ---
 

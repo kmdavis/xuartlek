@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Jaathoom"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Jaathoom"
 level: 5
 source: "Monster Core"
-aon_id: "creature-3003"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3003"
 ---
 
@@ -75,7 +73,7 @@ abilities_bot:
     desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/prediction|Prediction]]) The jaathoom sends a prophetic dream to a sleeping creature within 10 feet. An unwilling creature avoids the vision if it succeeds at a DC 23 Will save. The jaathoom chooses the dream's subject, but not its exact events. The target sees a brief vision of its future related to that subject, with the effect of [[srd/pf2e/compendium/spells/rank-2/augury|_augury_]]. If the result is bad or mixed, the creature is [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened 2]] and can't recover from being frightened until it wakes. Jaathoom Shuyookhs Jaathoom shuyookhs prefer to manifest wishes informed by their visions of the future. They add the following innate spells: __5th__ [[srd/pf2e/compendium/spells/rank-2/illusory-creature|_illusory creature_]], [[srd/pf2e/compendium/spells/rank-1/illusory-object|_illusory object_]], [[srd/pf2e/compendium/spells/rank-4/nightmare|_nightmare_]] (×2), [[srd/pf2e/compendium/spells/rank-1/sleep|_sleep_]] (×2); __4th__ [[srd/pf2e/compendium/spells/rank-1/ill-omen|_ill omen_]]."
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 21 - __Cantrips (3rd)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]] - __3rd__ [[srd/pf2e/compendium/spells/rank-1/ill-omen|Ill Omen]], [[srd/pf2e/compendium/spells/rank-2/illusory-creature|Illusory Creature]], [[srd/pf2e/compendium/spells/rank-1/illusory-object|Illusory Object]], [[srd/pf2e/compendium/spells/rank-1/sleep|Sleep]] - __4th__ [[srd/pf2e/compendium/spells/rank-4/nightmare|Nightmare]], [[srd/pf2e/compendium/spells/rank-4/vapor-form|Vapor Form]] - __7th__ [[srd/pf2e/compendium/spells/rank-7/interplanar-teleport|Interplanar Teleport]] (to [[srd/pf2e/compendium/equipment/runes/astral-greater|Astral Plane]]; Elemental Planes; or [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]] only)"
+    desc: "DC 21 - __Cantrips (3rd)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]] - __3rd__ [[srd/pf2e/compendium/spells/rank-1/ill-omen|Ill Omen]], [[srd/pf2e/compendium/spells/rank-2/illusory-creature|Illusory Creature]], [[srd/pf2e/compendium/spells/rank-1/illusory-object|Illusory Object]], [[srd/pf2e/compendium/spells/rank-1/sleep|Sleep]] - __4th__ [[srd/pf2e/compendium/spells/rank-4/nightmare|Nightmare]], [[srd/pf2e/compendium/spells/rank-4/vapor-form|Vapor Form]] - __7th__ [[srd/pf2e/compendium/spells/rank-7/interplanar-teleport|Interplanar Teleport]] (to [[srd/pf2e/compendium/equipment/runes/astral|Astral Plane]]; Elemental Planes; or [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]] only)"
 sourcebook: "_Monster Core_, page 157."
 ```
 

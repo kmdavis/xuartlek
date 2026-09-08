@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/monster-core
 - trait/graveknight
 aliases: ["Graveknight"]
-aon_id: "trait-755"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=755"
 source: "Monster Core"
 ---
 

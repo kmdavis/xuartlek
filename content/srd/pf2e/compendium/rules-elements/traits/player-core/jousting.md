@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/jousting
 aliases: ["Jousting"]
-aon_id: "trait-638"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=638"
 source: "Player Core"
 ---
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 - trait/centaur
 - feat/level/1
 aliases: ["Steelhoof"]
-aon_id: "feat-5326"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5326"
 source: "Howl of the Wild"
 ---
 

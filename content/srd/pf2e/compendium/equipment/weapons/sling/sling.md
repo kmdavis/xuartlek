@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
 - trait/propulsive
 - weapon/level/0
 aliases: ["Sling"]
-aon_id: "weapon-430"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=430"
 source: "Player Core"
 ---
 
@@ -14,7 +13,7 @@ source: "Player Core"
 
 `Propulsive`
 
-- **Favored Weapon**: Khepri, Lalaci, Pulura, Sarshallatu
+- **Favored Weapon**: Khepri, [[srd/pf2e/compendium/deities/empyreal-lords/lalaci|Lalaci]], [[srd/pf2e/compendium/deities/empyreal-lords/pulura|Pulura]], Sarshallatu
 - **Price**: —
 - **Damage**: 1d6 B
 - **Bulk**: L

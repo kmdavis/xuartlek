@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -10,7 +9,7 @@ tags:
 - trait/talisman
 - equipment/level/3
 aliases: ["Matchmaker Fulu"]
-aon_id: "equipment-5080"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5080"
 source: "Impossible Magic"
 ---
 
@@ -23,6 +22,6 @@ source: "Impossible Magic"
 - **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 - **Trigger**: You attempt a Diplomacy check to Make an Impression.
 
-This red fulu contains blessings for one’s relationship from Shelyn, goddess of beauty and love. You get a +2 status bonus to the [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] check, and if you roll a critical failure on the check, you get a failure instead.
+This red fulu contains blessings for one’s relationship from [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/shelyn|Shelyn]], goddess of beauty and love. You get a +2 status bonus to the [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] check, and if you roll a critical failure on the check, you get a failure instead.
 
 *Source: Impossible Magic p. 220*

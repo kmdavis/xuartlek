@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Grandmaster"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Grandmaster"
 level: 17
 source: "NPC Core"
-aon_id: "creature-3503"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3503"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [6, 4, 3, 1, 5, 1]
 abilities_top:
   - name: "Items"
-    desc: "_+2 [[srd/pf2e/compendium/equipment/runes/striking-major|greater striking]] [[srd/pf2e/compendium/equipment/runes/returning|returning]] [[srd/pf2e/compendium/equipment/weapons/dart/shuriken|shuriken]]_, _+2 [[srd/pf2e/compendium/equipment/runes/striking-major|greater striking]] [[srd/pf2e/compendium/equipment/worn-items/handwraps-of-mighty-blows-3-major-striking|handwraps of mighty blows]]_, _+2 [[srd/pf2e/compendium/equipment/runes/striking-major|greater striking]] [[srd/pf2e/compendium/equipment/weapons/sword/temple-sword|temple sword]]_, _[[srd/pf2e/compendium/equipment/worn-items/bands-of-force-major|bands of force]]_"
+    desc: "_+2 [[srd/pf2e/compendium/equipment/runes/striking|greater striking]] [[srd/pf2e/compendium/equipment/runes/returning|returning]] [[srd/pf2e/compendium/equipment/weapons/dart/shuriken|shuriken]]_, _+2 [[srd/pf2e/compendium/equipment/runes/striking|greater striking]] [[srd/pf2e/compendium/equipment/worn-items/handwraps-of-mighty-blows|handwraps of mighty blows]]_, _+2 [[srd/pf2e/compendium/equipment/runes/striking|greater striking]] [[srd/pf2e/compendium/equipment/weapons/sword/temple-sword|temple sword]]_, _[[srd/pf2e/compendium/equipment/worn-items/bands-of-force|bands of force]]_"
 ac: 40
 armorclass:
   - name: "AC"

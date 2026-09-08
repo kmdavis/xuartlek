@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -7,7 +6,7 @@ tags:
 - trait/flourish
 - feat/level/12
 aliases: ["Pouncing Transformation"]
-aon_id: "feat-5508"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5508"
 source: "Howl of the Wild"
 ---
 

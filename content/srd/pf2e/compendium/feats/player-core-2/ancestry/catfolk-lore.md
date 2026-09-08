@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/catfolk
 - feat/level/1
 aliases: ["Catfolk Lore"]
-aon_id: "feat-5546"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5546"
 source: "Player Core 2"
 ---
 

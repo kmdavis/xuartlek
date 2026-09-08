@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/dwarf
 - feat/level/5
 aliases: ["Dwarven Reinforcement"]
-aon_id: "feat-4396"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4396"
 source: "Player Core"
 ---
 

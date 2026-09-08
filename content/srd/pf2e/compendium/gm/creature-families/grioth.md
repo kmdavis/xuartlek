@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core-2
 aliases: ["Grioth"]
-aon_id: "creature-family-598"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=598"
 source: "Monster Core 2"
 ---
 
@@ -22,7 +21,7 @@ Planets that drift out of orbit from their stars grow cold and lifeless as they 
 
 ### Haunter in the Dark
 
-[[srd/pf2e/compendium/character/deities#Nyarlathotep (Haunter in the Dark)|Nyarlathotep]] is often venerated by grioths in a bat-like incarnation with a three-lobed burning eye, known as the Haunter in the Dark. He grants the following benefits.
+[[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-haunter-in-the-dark|Nyarlathotep]] is often venerated by grioths in a bat-like incarnation with a three-lobed burning eye, known as the Haunter in the Dark. He grants the following benefits.
 
 ### Void Glass
 

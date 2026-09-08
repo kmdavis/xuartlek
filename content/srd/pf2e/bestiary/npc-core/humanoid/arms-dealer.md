@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Arms Dealer"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Arms Dealer"
 level: 2
 source: "NPC Core"
-aon_id: "creature-3506"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3506"
 ---
 
@@ -38,7 +36,7 @@ abilities_top:
   - name: "Arms Dealing Specialist"
     desc: "For encounters involving the purchase of weapons, the arms dealer is a 5th-level challenge."
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/weapons/firearm/flintlock-musket-weapon-521|Flintlock Musket]] (20 rounds), [[srd/pf2e/compendium/equipment/weapons/firearm/hand-cannon|Hand Cannon]] (20 rounds), [[srd/pf2e/compendium/equipment/assistive-items/cane|sword cane]]"
+    desc: "[[srd/pf2e/compendium/equipment/weapons/firearm/flintlock-musket|Flintlock Musket]] (20 rounds), Hand Cannon (20 rounds), [[srd/pf2e/compendium/equipment/assistive-items/cane|sword cane]]"
 ac: 17
 armorclass:
   - name: "AC"

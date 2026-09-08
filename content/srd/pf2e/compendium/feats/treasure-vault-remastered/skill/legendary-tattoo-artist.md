@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/skill
 - feat/level/15
 aliases: ["Legendary Tattoo Artist"]
-aon_id: "feat-4083"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4083"
 source: "Treasure Vault (Remastered)"
 ---
 

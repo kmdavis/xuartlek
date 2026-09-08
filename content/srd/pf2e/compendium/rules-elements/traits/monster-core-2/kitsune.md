@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/monster-core-2
 - trait/kitsune
 aliases: ["Kitsune"]
-aon_id: "trait-879"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=879"
 source: "Monster Core 2"
 ---
 

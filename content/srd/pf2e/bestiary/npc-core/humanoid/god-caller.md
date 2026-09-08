@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "God Caller"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "God Caller"
 level: 10
 source: "NPC Core"
-aon_id: "creature-3542"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3542"
 ---
 
@@ -38,7 +36,7 @@ abilities_top:
   - name: "Bonded Eidolon"
     desc: "The god caller fights alongside a mystical ally called an eidolon, most likely the [[srd/pf2e/bestiary/npc-core/beast/beast-eidolon|beast eidolon]]. The eidolon has the standard number of actions, uses its normal stat block, and counts toward the encounter's XP budget normally. The eidolon must remain within 100 feet of the god caller, or its physical form will dissolve. The god caller can make their eidolon take form or disappear with the Manifest Eidolon action."
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/armor#Explorer's Clothing|explorer's clothing]]_, _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/flail/war-flail|war flail]]_, [[srd/pf2e/compendium/spells/rank-2/environmental-endurance|_wand of environmental endurance_]]"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/armor#Explorer's Clothing|explorer's clothing]]_, _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/flail/war-flail|war flail]]_, [[srd/pf2e/compendium/spells/rank-2/environmental-endurance|_wand of environmental endurance_]]"
 ac: 29
 armorclass:
   - name: "AC"
@@ -75,7 +73,7 @@ abilities_bot:
   - name: "Transfer"
     desc: "⬻ The god caller transfers 50 HP from themself to their eidolon or vice versa. If the creature losing HP has 50 HP or fewer, this effect transfers as many HP as possible without reducing that creature below 1 HP."
   - name: "Transpose"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/teleportation|teleportation]]) The god caller and their eidolon teleport to swap places. God Callers And The Divine Some spirits called by god callers of Sarkoris are divine beings capable of granting spells. Consider granting a god caller NPC a cleric focus spell appropriate to one of the god's domains if they worship such a deity (using the same DC and spell attack as their primal spells). For instance, the Stag Mother of the Forest of Stones might grant the [[srd/pf2e/compendium/spells/focus/savor-the-sting|_savor the sting_]] domain spell from the [[srd/pf2e/compendium/character/domains#Pain|pain]] domain."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/teleportation|teleportation]]) The god caller and their eidolon teleport to swap places. God Callers And The Divine Some spirits called by god callers of Sarkoris are divine beings capable of granting spells. Consider granting a god caller NPC a cleric focus spell appropriate to one of the god's domains if they worship such a deity (using the same DC and spell attack as their primal spells). For instance, the [[srd/pf2e/compendium/deities/sarkorian-gods/stag-mother-of-the-forest-of-stones|Stag Mother of the Forest of Stones]] might grant the [[srd/pf2e/compendium/spells/focus/savor-the-sting|_savor the sting_]] domain spell from the [[srd/pf2e/compendium/character/domains#Pain|pain]] domain."
 spellcasting:
   - name: "Primal Spontaneous Spells"
     desc: "DC 29, attack +21 - __Cantrips (5th)__ [[srd/pf2e/compendium/spells/cantrips/electric-arc|Electric Arc]], [[srd/pf2e/compendium/spells/cantrips/gouging-claw|Gouging Claw]], [[srd/pf2e/compendium/spells/cantrips/guidance|Guidance]], [[srd/pf2e/compendium/spells/cantrips/light|Light]], [[srd/pf2e/compendium/spells/cantrips/tangle-vine|Tangle Vine]] - __4th__ [[srd/pf2e/compendium/spells/rank-4/wall-of-fire|Wall of Fire]], [[srd/pf2e/compendium/spells/rank-4/weapon-storm|Weapon Storm]] (2 slots) - __5th__ [[srd/pf2e/compendium/spells/rank-5/howling-blizzard|Howling Blizzard]], [[srd/pf2e/compendium/spells/rank-5/impaling-spike|Impaling Spike]] (2 slots)"

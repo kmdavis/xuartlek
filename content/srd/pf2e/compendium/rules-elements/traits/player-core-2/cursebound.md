@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/cursebound
 aliases: ["Cursebound"]
-aon_id: "trait-800"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=800"
 source: "Player Core 2"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/magical
 - equipment/level/15
 aliases: ["Garrote Shot"]
-aon_id: "equipment-2051"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2051"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -15,7 +14,7 @@ source: "Treasure Vault (Remastered)"
 
 `Consumable`  `Magical`
 
-- **Price**: 1,200 gp
+- **Price**: 1, 200 gp
 - **Ammunition**: any
 - **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 

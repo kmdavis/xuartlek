@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -9,7 +8,7 @@ tags:
 - trait/wood
 - spell/level/9
 aliases: ["Nature’s Enmity"]
-aon_id: "spell-2010"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2010"
 source: "Player Core 2"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core 2"
 `Concentrate`  `Manipulate`  `Plant`  `Wood`
 
 - **Tradition**: Primal
-- **Deity**: Yuelral
+- **Deity**: [[srd/pf2e/compendium/deities/elven-gods/yuelral|Yuelral]]
 - **Range**: 120 feet
 - **Area**: 500-foot burst
 - **Target**: up to 5 creatures

@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class
 tags:
 - compendium/src/pf2e/battlecry
 aliases: ["Guardian"]
-aon_id: "class-67"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=67"
 source: "Battlecry!"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Skull Peeler"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Skull Peeler"
 level: 6
 source: "Monster Core 2"
-aon_id: "creature-4551"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4551"
 ---
 

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/sanctified
 aliases: ["Sanctified"]
-aon_id: "trait-519"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=519"
 source: "Player Core"
 ---
 

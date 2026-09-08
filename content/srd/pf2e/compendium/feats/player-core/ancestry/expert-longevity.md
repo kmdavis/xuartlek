@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/elf
 - feat/level/9
 aliases: ["Expert Longevity"]
-aon_id: "feat-4416"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4416"
 source: "Player Core"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/3
 aliases: ["Wall of Wind"]
-aon_id: "spell-1753"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1753"
 source: "Player Core"
 ---
 
@@ -17,8 +16,8 @@ source: "Player Core"
 `Air`  `Concentrate`  `Manipulate`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Anras, Breath of the Endless Sky, General Susumu, Horus
-- **Lesson**: Lesson of Snow
+- **Deities**: Anras, [[srd/pf2e/compendium/deities/covenants/breath-of-the-endless-sky|Breath of the Endless Sky]], General Susumu, [[srd/pf2e/compendium/deities/dead-or-missing-deities/horus|Horus]]
+- **Lesson**: [[srd/pf2e/compendium/character/lessons#Lesson of Snow|Lesson of Snow]]
 - **Range**: 120 feet
 - **Duration**: 1 minute
 

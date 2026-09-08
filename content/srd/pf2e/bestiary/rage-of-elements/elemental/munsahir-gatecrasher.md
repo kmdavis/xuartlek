@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Munsahir Gatecrasher"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Munsahir Gatecrasher"
 level: 4
 source: "Rage of Elements"
-aon_id: "creature-2637"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2637"
 ---
 

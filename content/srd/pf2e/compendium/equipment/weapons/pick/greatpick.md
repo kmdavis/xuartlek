@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
 - trait/fatal
 - weapon/level/0
 aliases: ["Greatpick"]
-aon_id: "weapon-378"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=378"
 source: "Player Core"
 ---
 
@@ -14,7 +13,7 @@ source: "Player Core"
 
 `Fatal`
 
-- **Favored Weapon**: Dajermube, Mhar
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/other-gods/dajermube|Dajermube]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/mhar|Mhar]]
 - **Price**: 1 gp
 - **Damage**: 1d10 P
 - **Bulk**: 2

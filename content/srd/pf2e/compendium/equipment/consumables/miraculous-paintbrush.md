@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - equipment/level/12
 aliases: ["Miraculous Paintbrush"]
-aon_id: "equipment-2120"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2120"
 source: "Treasure Vault (Remastered)"
 ---
 

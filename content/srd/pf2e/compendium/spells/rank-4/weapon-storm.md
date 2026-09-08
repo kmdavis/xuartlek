@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/4
 aliases: ["Weapon Storm"]
-aon_id: "spell-1758"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1758"
 source: "Player Core"
 ---
 
@@ -16,7 +15,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Diomazul, General Susumu, Genzaeri, Gorum, Lady Razor, Malthus, Mrtyu, Raumya, Scal, Skode, Szuriel, Zjar-Tovan
+- **Deities**: [[srd/pf2e/compendium/deities/vudrani-gods/diomazul|Diomazul]], General Susumu, [[srd/pf2e/compendium/deities/other-gods/genzaeri|Genzaeri]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/gorum|Gorum]], Lady Razor, [[srd/pf2e/compendium/deities/infernal-dukes/malthus|Malthus]], [[srd/pf2e/compendium/deities/monitor-demigods/mrtyu|Mrtyu]], [[srd/pf2e/compendium/deities/vudrani-gods/raumya|Raumya]], [[srd/pf2e/compendium/deities/azlanti-pantheon/scal|Scal]], [[srd/pf2e/compendium/deities/giant-gods/skode|Skode]], [[srd/pf2e/compendium/deities/apocalypse-riders/szuriel|Szuriel]], [[srd/pf2e/compendium/deities/other-gods/zjar-tovan|Zjar-Tovan]]
 - **Area**: 30-foot cone or 10-foot emanation
 - **Defense**: Reflex
 

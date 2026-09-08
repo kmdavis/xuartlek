@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-arcane-school
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -10,7 +9,7 @@ entries: 11
 
 # Arcane Schools
 
-## School of Ars Grammatica  *Wizard Arcane School*
+## School of Ars Grammatica
 
 Runes and wards, numbers and letters—they underpin all magic, making them the logical subject for a wizard who studies fundamental forces. Perhaps you studied at the Pathfinder Society's School of Spells or a similar institution, but whether you're lacing your words with magic to compel others, casting wards around your workshop, or destabilizing the very structure of an opponent's spells, you know this unassuming school carries elegant power.
 
@@ -42,7 +41,7 @@ Runes and wards, numbers and letters—they underpin all magic, making them the 
 
 *Source: Player Core p. 198*
 
-## School of Battle Magic  *Wizard Arcane School*
+## School of Battle Magic
 
 Magic is power, and there are always those who will use power for the art of battle. You may have studied in the military of a nation of the brink of war—Cheliax and Andoran perhaps, or Geb and Nex. You summon whirling energies that can lay waste to both soldiers and armies, while being sure not to neglect arcane countermeasures for common tactical complications or the shields and defenses that keep combatants alive on the battlefield.
 
@@ -74,7 +73,7 @@ Magic is power, and there are always those who will use power for the art of bat
 
 *Source: Player Core p. 199*
 
-## School of Breathtaking Influence  *Wizard Arcane School*
+## School of Breathtaking Influence
 
 You have sway in powerful social circles and pride yourself on being able to predict and manipulate opponents. Less scrupulous academies openly teach this curriculum to aspiring politicians, while other colleges frame it as the study of countering mental manipulation. These spells are staples in Quantium, where ambition and ruthlessness are measures of success.
 
@@ -106,7 +105,7 @@ You have sway in powerful social circles and pride yourself on being able to pre
 
 *Source: Impossible Magic p. 108*
 
-## School of Civic Wizardry  *Wizard Arcane School*
+## School of Civic Wizardry
 
 Whether you studied in Manaket's Occularium or the Academy of Applied Magic, you learned that the fruits of arcane studies—like any other field—should ultimately help the common citizen. You've learned the humble art of construction, of finding lost people and things, of moving speedily among buildings and moats—yet these same arts can be turned to demolition, and the constructs you animate to build bridges can just as easily tear them down.
 
@@ -138,7 +137,7 @@ Whether you studied in Manaket's Occularium or the Academy of Applied Magic, you
 
 *Source: Player Core p. 199*
 
-## School of Keen Inquiry  *Wizard Arcane School*
+## School of Keen Inquiry
 
 You’re a scholar of truth, seeking knowledge about the nature of existence and events past, present, and future. Whether you share or obfuscate that truth—best reserve judgment until you know what you’re working with. Quantium’s elite claim agents of Her Most Keen Eye, Nex’s network of spies, developed this curriculum, but it’s a staple in many politically oriented colleges.
 
@@ -170,7 +169,7 @@ You’re a scholar of truth, seeking knowledge about the nature of existence and
 
 *Source: Impossible Magic p. 108*
 
-## School of Mentalism  *Wizard Arcane School*
+## School of Mentalism
 
 As a scholar, you know all too well the importance of a sound mind. Thus, you attended a school—like the Farseer Tower or the Stone of the Seers—that taught the arts of befuddling lesser minds with figments and illusions or implanted sensations and memories.
 
@@ -202,7 +201,7 @@ As a scholar, you know all too well the importance of a sound mind. Thus, you at
 
 *Source: Player Core p. 200*
 
-## School of Nexian Spaces  *Wizard Arcane School*
+## School of Nexian Spaces
 
 Whether your goal is immortality or creating a world with every detail tailored to your liking, retracing Nex’s experiments with demiplanes is the road to achieving your desires. Your formal learning starts with reshaping your current reality and drawing power from other planes of existence. You graduate to creating extraplanar spaces and traveling between planes, making time and space yours to mold like clay.
 
@@ -234,7 +233,7 @@ Whether your goal is immortality or creating a world with every detail tailored 
 
 *Source: Impossible Magic p. 108*
 
-## School of Protean Form  *Wizard Arcane School*
+## School of Protean Form
 
 The uninitiated often think of wizards as cerebral, focused on their studies more than the body, yet your school of magic taught of the relationship between the two. Your magic, whether learned at a storied institution like Kintargo's Alabaster Academy or someplace more sinister, like the Fleshforges of Nex, focuses on the ways that living matter can be convinced into another shape for a time, allowing you to polymorph a seed into a vine, a human into a beast, or a harmless germ into a deadly toxin.
 
@@ -266,7 +265,7 @@ The uninitiated often think of wizards as cerebral, focused on their studies mor
 
 *Source: Player Core p. 200*
 
-## School of Quantic Control  *Wizard Arcane School*
+## School of Quantic Control
 
 You’re an architect, but not merely of buildings. You call upon elemental forces to control the building blocks of reality itself, reshaping the environment and moving creatures like the world is a diorama for you to perfect. Your curriculum draws heavily upon the experience of the geniekin of Quantium’s Wish, who maintain the infrastructure of Nex’s capital in seeming defiance of physics itself.
 
@@ -298,7 +297,7 @@ You’re an architect, but not merely of buildings. You call upon elemental forc
 
 *Source: Impossible Magic p. 108*
 
-## School of the Boundary  *Wizard Arcane School*
+## School of the Boundary
 
 Why use your magic to affect something as pedestrian as the physical world? Whether you studied at the College of Dimensional Studies in Katapesh or an underground school in haunted Ustalav, you've turned your magic past the Universe to the forces beyond, summoning spirits and shades, manipulating dimensions and planes, and treading in a place not meant for mortals.
 
@@ -330,7 +329,7 @@ Why use your magic to affect something as pedestrian as the physical world? Whet
 
 *Source: Player Core p. 199*
 
-## School of Unified Magical Theory  *Wizard Arcane School*
+## School of Unified Magical Theory
 
 You eschew the idea that magic can be neatly expressed by the teachings of any single school or college, instead directing your self-study to pick up the best of every school of magic. In doing so, you'll find the truths that lie at the intersection of each school, coming closer to the ideal nature of arcane magic. One day, you'll uncover that single elegant theory detailing all magic (perhaps a theory bearing your name?), but until then, your studies continue.
 

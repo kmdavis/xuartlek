@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/5
 aliases: ["Strange Geometry"]
-aon_id: "spell-2032"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2032"
 source: "Player Core 2"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core 2"
 `Concentrate`  `Illusion`  `Manipulate`
 
 - **Tradition**: Occult
-- **Deities**: Cthulhu, Suyuddha, The Enlightened Scholar's Path
+- **Deities**: [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/cthulhu|Cthulhu]], [[srd/pf2e/compendium/deities/vudrani-gods/suyuddha|Suyuddha]], The Enlightened Scholar's Path
 - **Range**: 60 feet
 - **Area**: 4 cubes, each 10 feet on a side
 - **Defense**: Will

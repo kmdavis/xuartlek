@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/runesmith
 - feat/level/14
 aliases: ["Define the Canvas"]
-aon_id: "feat-9207"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9207"
 source: "Impossible Magic"
 ---
 

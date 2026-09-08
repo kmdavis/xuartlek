@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -11,7 +10,7 @@ tags:
 - trait/uncommon
 - spell/level/6
 aliases: ["Flaming Fusillade"]
-aon_id: "spell-2080"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2080"
 source: "Player Core 2"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core 2"
 
 `Concentrate`  `Fire`  `Focus`  `Manipulate`  `Oracle`  `Uncommon`
 
-- **Mystery**: Flames
+- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Flames|Flames]]
 - **Duration**: 1 minute
 
 You call upon an endless barrage of flames, a series of explosions bursting around you like miniature suns. You cast [[srd/pf2e/compendium/spells/cantrips/ignition|_ignition_]] as part of casting _flaming fusillade_. For the duration of _flaming fusillade_, _ignition's_ casting time is reduced from 2 actions to 1.

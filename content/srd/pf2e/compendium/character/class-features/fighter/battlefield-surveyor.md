@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class-feature
 tags:
 - compendium/src/pf2e/player-core
 - class-feature/level/7
 aliases: ["Battlefield Surveyor"]
-aon_id: "class-feature-700"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=35"
 source: "Player Core"
 ---
 

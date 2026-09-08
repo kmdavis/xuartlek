@@ -1,17 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
-- compendium/src/pf2e/gm-core
+- compendium/src/pf2e/player-core-2
 - trait/alchemical
 - trait/consumable
-- equipment/level/0
+- equipment/level/1
 aliases: ["Smoke Ball"]
-aon_id: "equipment-2913"
-source: "GM Core"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3360"
+source: "Player Core 2"
 ---
 
-# Smoke Ball  *Item 0*
+# Smoke Ball  *Item 1+*
 
 `Alchemical`  `Consumable`
 
@@ -19,6 +18,26 @@ source: "GM Core"
 - **Bulk**: L
 - **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-Upon smashing this ball on the ground, you instantly create a screen of thick, opaque smoke in a burst centered on one corner of your space. All creatures within that area are concealed, and all other creatures are concealed to them. The smoke lasts for 1 minute or until dispersed by a strong wind.
+With a sharp twist of this item, you instantly create a screen of thick, opaque smoke in a burst centered on one corner of your space. All creatures within that area are [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]], and all other creatures are concealed to them. The smoke lasts for 1 minute or until dispersed by a strong wind.
 
-*Source: GM Core p. 251*
+### Smoke Ball (Lesser)
+
+**Price** 3 gp
+
+**Bulk** L
+
+---
+
+The radius of the burst is 5 feet.
+
+### Smoke Ball (Greater)
+
+**Price** 53 gp
+
+**Bulk** L
+
+---
+
+The radius of the burst is 20 feet.
+
+*Source: Player Core 2 p. 296*

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 - trait/ranger
 - feat/level/4
 aliases: ["Wolf in Sheep's Clothing"]
-aon_id: "feat-8417"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8417"
 source: "Dark Archives (Remastered)"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/battlecry
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - siege-weapon/level/11
 aliases: ["Tar Spitter"]
-aon_id: "siege-weapon-64"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=64"
 source: "Battlecry!"
 ---
 
@@ -16,7 +15,7 @@ source: "Battlecry!"
 
 `Alchemical`  `Mounted`  `Uncommon`
 
-- **Price**: 2,800 gp
+- **Price**: 2, 800 gp
 - **Ammunition**: barrel of alchemical tar (5 gp, 5 Bulk)
 
 **Usage** mounted

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -9,7 +8,7 @@ tags:
 - trait/wandering
 - feat/level/6
 aliases: ["Medium's Awareness"]
-aon_id: "feat-7133"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7133"
 source: "War of Immortals"
 ---
 

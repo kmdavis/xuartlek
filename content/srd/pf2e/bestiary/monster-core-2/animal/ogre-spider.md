@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Ogre Spider"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Ogre Spider"
 level: 5
 source: "Monster Core 2"
-aon_id: "creature-4562"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4562"
 ---
 

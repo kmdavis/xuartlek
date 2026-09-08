@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Graveknight Champion"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Graveknight Champion"
 level: 15
 source: "Monster Core 2"
-aon_id: "creature-4420"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4420"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [8, 4, 5, 2, 4, 6]
 abilities_top:
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/weapons/bow/composite-shortbow|Composite Shortbow]] (20 arrows), _[[srd/pf2e/compendium/equipment/armor/magic-armor-3-major-resilient|+2 resilient]] [[srd/pf2e/compendium/equipment/armor#Full Plate|full plate]]_, [[srd/pf2e/compendium/equipment/weapons/pick/greatpick|Greatpick]]"
+    desc: "[[srd/pf2e/compendium/equipment/weapons/bow/composite-shortbow|Composite Shortbow]] (20 arrows), _[[srd/pf2e/compendium/equipment/armor/magic-armor|+2 resilient]] [[srd/pf2e/compendium/equipment/armor#Full Plate|full plate]]_, [[srd/pf2e/compendium/equipment/weapons/pick/greatpick|Greatpick]]"
 ac: 38
 armorclass:
   - name: "AC"
@@ -84,7 +82,7 @@ abilities_bot:
   - name: "Stage 3"
     desc: "dies and transforms into the armor's graveknight."
   - name: "Ruinous Weapons"
-    desc: "Any weapon or unarmed attack the graveknight uses gains the effects of a _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 greater striking]] weapon_ and a _[[srd/pf2e/compendium/equipment/runes/flaming-greater|greater flaming]]_ weapon rune."
+    desc: "Any weapon or unarmed attack the graveknight uses gains the effects of a _[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 greater striking]] weapon_ and a _[[srd/pf2e/compendium/equipment/runes/flaming|greater flaming]]_ weapon rune."
   - name: "Weapon Master"
     desc: "The graveknight has access to the [[srd/pf2e/books/player-core/chapter-6-equipment/weapons#Critical Specialization|critical specialization]] effects of any weapons they wield."
 sourcebook: "_Monster Core 2_, page 173."

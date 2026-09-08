@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/magical
 - equipment/level/14
 aliases: ["Communion Mat"]
-aon_id: "equipment-2174"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2174"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -15,7 +14,7 @@ source: "Treasure Vault (Remastered)"
 
 `Grimoire`  `Magical`
 
-- **Price**: 3,750 gp
+- **Price**: 3, 750 gp
 - **Bulk**: L
 
 This pageless grimoire is made up of two durable covers that open to display a small ritual circle. When you first invest the grimoire, you and your familiar each press a limb to a corner of the mat. The ritual circle then morphs to one matching the tradition of your patron, the spells contained in your familiar appearing in the margins. During your daily preparations, your familiar performs a small jaunt around the open ritual circle to strengthen its connection to your patron.

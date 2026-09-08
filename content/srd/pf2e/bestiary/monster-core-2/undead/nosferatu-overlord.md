@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Nosferatu Overlord"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Nosferatu Overlord"
 level: 15
 source: "Monster Core 2"
-aon_id: "creature-4603"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4603"
 ---
 

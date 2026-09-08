@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Orc Raiding Party"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Orc Raiding Party"
 level: 5
 source: "Battlecry!"
-aon_id: "creature-3931"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3931"
 ---
 

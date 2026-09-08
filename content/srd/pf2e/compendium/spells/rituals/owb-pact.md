@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/monster-core-2
 - trait/uncommon
 - ritual/level/3
 aliases: ["Owb Pact"]
-aon_id: "ritual-222"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=222"
 source: "Monster Core 2"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Vulot"
 tags:
@@ -14,7 +13,6 @@ statblock: inline
 name: "Vulot"
 level: 21
 source: "War of Immortals"
-aon_id: "creature-3404"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3404"
 ---
 

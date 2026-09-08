@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -7,7 +6,7 @@ tags:
 - trait/poison
 - equipment/level/5
 aliases: ["Serpent Dagger"]
-aon_id: "equipment-2871"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2871"
 source: "GM Core"
 ---
 

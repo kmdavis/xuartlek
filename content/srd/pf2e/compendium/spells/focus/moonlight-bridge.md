@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -11,7 +10,7 @@ tags:
 - trait/uncommon
 - spell/level/6
 aliases: ["Moonlight Bridge"]
-aon_id: "spell-2077"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2077"
 source: "Player Core 2"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core 2"
 
 `Concentrate`  `Focus`  `Light`  `Manipulate`  `Oracle`  `Uncommon`
 
-- **Mystery**: Cosmos
+- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Cosmos|Cosmos]]
 - **Range**: 30 feet
 - **Duration**: 10 minutes
 

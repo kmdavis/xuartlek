@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/archetype
 - feat/level/8
 aliases: ["Basic Eldritch Archer Spellcasting"]
-aon_id: "feat-6318"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6318"
 source: "Player Core 2"
 ---
 

@@ -7,7 +7,6 @@ cssclasses:
 tags:
   - srd/pf2e/gm-core
 source: "GM Core"
-aon_id: 3197
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3197"
 citation: "GM Core pg. 262"
 ---
@@ -32,7 +31,7 @@ All scrolls have the same base statistics unless noted otherwise. A scroll has l
 
 ### Varying Statistics
 
-The [[srd/pf2e/compendium/equipment/consumables/10th-rank-scroll|magic scroll]] stat block indicates the item level and Price of a scroll, both of which are based on the rank of the spell in the scroll. Any costs to [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast the Spell]] are added to the scroll's Price when the scroll is crafted, so a scroll containing a spell with a Cost entry will have a higher Price than what's on the table. The scroll's rarity matches the spell's rarity.
+The [[srd/pf2e/compendium/equipment/consumables/magic-scroll|magic scroll]] stat block indicates the item level and Price of a scroll, both of which are based on the rank of the spell in the scroll. Any costs to [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast the Spell]] are added to the scroll's Price when the scroll is crafted, so a scroll containing a spell with a Cost entry will have a higher Price than what's on the table. The scroll's rarity matches the spell's rarity.
 
 The traits for a scroll vary based on the spell it contains. A scroll always has the [[srd/pf2e/compendium/rules-elements/traits/player-core/consumable|consumable]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]], and [[srd/pf2e/compendium/rules-elements/traits/gm-core/scroll|scroll]] traits, plus any traits that might be relevant to identifying the item, such as [[srd/pf2e/compendium/rules-elements/traits/player-core/illusion|illusion]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]. The GM determines the extra traits, if necessary.
 

@@ -7,7 +7,6 @@ cssclasses:
 tags:
   - srd/pf2e/treasure-vault-remastered
 source: "Treasure Vault (Remastered)"
-aon_id: 1970
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=1970"
 citation: "Treasure Vault (Remastered) pg. 200"
 ---

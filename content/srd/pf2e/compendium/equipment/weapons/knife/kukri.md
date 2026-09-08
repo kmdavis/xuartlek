@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - weapon/level/0
 aliases: ["Kukri"]
-aon_id: "weapon-413"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=413"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Agile`  `Finesse`  `Trip`  `Uncommon`
 
 - **PFS Note**: All Pathfinder agents have access to this weapon
-- **Favored Weapon**: Adanye, Ananshea, Doloras, [[srd/pf2e/compendium/character/deities#Nyarlathotep (Haunter in the Dark)|Nyarlathotep (Haunter in the Dark)]], Tanagaar, Valmallos
+- **Favored Weapon**: Adanye, [[srd/pf2e/compendium/deities/sakhil-tormentors/ananshea|Ananshea]], [[srd/pf2e/compendium/deities/queens-of-the-night/doloras|Doloras]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-haunter-in-the-dark|Nyarlathotep (Haunter in the Dark)]], Tanagaar, Valmallos
 - **Price**: 6 sp
 - **Damage**: 1d6 S
 - **Bulk**: L

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/human
 - feat/level/13
 aliases: ["Advanced General Training"]
-aon_id: "feat-4489"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4489"
 source: "Player Core"
 ---
 

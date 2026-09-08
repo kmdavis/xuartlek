@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-sidebar
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -9,7 +8,7 @@ entries: 10
 
 # Sidebars: Treasure Vault (Remastered)
 
-## Am I Playing?  *Sidebar*
+## Am I Playing?
 
 - **Parent page**: [[srd/pf2e/books/treasure-vault-remastered/trappings-of-power/index|Trappings of Power]]
 
@@ -17,7 +16,7 @@ Many instruments in this chapter, as well as some presented in Wondrous Consumab
 
 *Source: Treasure Vault (Remastered) p. 101*
 
-## Assistive Items  *Sidebar*
+## Assistive Items
 
 - **Parent page**: [[srd/pf2e/books/treasure-vault-remastered/trappings-of-power/index|Trappings of Power]]
 
@@ -25,9 +24,9 @@ Fantasy gaming is for everyone. It’s incredibly important for all people, rega
 
 *Source: Treasure Vault (Remastered) p. 101*
 
-## Blightburn Sickness  *Sidebar*
+## Blightburn Sickness
 
-- **Parent page**: [[srd/pf2e/compendium/equipment/alchemical-items/blightburn-bomb-greater|Blightburn Bomb]]
+- **Parent page**: [[srd/pf2e/compendium/equipment/alchemical-items/blightburn-bomb|Blightburn Bomb]]
 
 Caused by exposure to blightburn crystal, blightburn sickness burns and dissolves the afflicted creature from within. The target can't recover from the disease's drained or sickened condition except by magic. It's typically a 15th-level affliction (DC 32 Fortitude), but exposure to other forms of blightburn can change it.
 
@@ -35,7 +34,7 @@ Caused by exposure to blightburn crystal, blightburn sickness burns and dissolve
 
 *Source: Treasure Vault (Remastered) p. 44*
 
-## Creating the Moment  *Sidebar*
+## Creating the Moment
 
 - **Parent page**: [[srd/pf2e/books/treasure-vault-remastered/momentary-magic/index|Momentary Magic]]
 
@@ -43,7 +42,7 @@ Getting the opportunity to use a consumable is often one of the most exciting pa
 
 *Source: Treasure Vault (Remastered) p. 73*
 
-## Dragon Damage Types  *Sidebar*
+## Dragon Damage Types
 
 - **Parent page**: [[srd/pf2e/compendium/equipment/consumables/dragonclaw-scutcheon|Dragonclaw Scutcheon]]
 
@@ -60,7 +59,7 @@ The _dragonclaw scutcheon_ and _[[srd/pf2e/compendium/equipment/consumables/drag
 
 *Source: Treasure Vault (Remastered) p. 92*
 
-## Dragon Damage Types  *Sidebar*
+## Dragon Damage Types
 
 - **Parent page**: [[srd/pf2e/compendium/equipment/consumables/dragontooth-trophy|Dragontooth Trophy]]
 
@@ -77,15 +76,15 @@ The _[[srd/pf2e/compendium/equipment/consumables/dragonclaw-scutcheon|dragonclaw
 
 *Source: Treasure Vault (Remastered) p. 93*
 
-## New Alchemical Items  *Sidebar*
+## New Alchemical Items
 
 - **Parent page**: [[srd/pf2e/books/treasure-vault-remastered/alchemy-unleashed/alchemical-foods|Alchemical Foods]]
 
-The new alchemical options appearing in this chapter represent some notable expansions of the abilities available to anyone who uses alchemy, but the [[srd/pf2e/compendium/character/classes/alchemist|alchemist]] class in particular. It’s important to consider the impact these options can have on the play experience, not from a balance perspective, but from a story perspective. Characters specializing in alchemical foods will want an adventure that gives them time to prepare alchemical foods with the [[srd/pf2e/compendium/rules-elements/traits/treasure-vault-remastered/processed|processed]] trait, like the new [[srd/pf2e/compendium/equipment/alchemical-items/cooperative-waffles-greater|cooperative waffles]]. Be sure that your players choosing these options have the opportunity to take full advantage of them, or warn them if that option won’t be available.
+The new alchemical options appearing in this chapter represent some notable expansions of the abilities available to anyone who uses alchemy, but the [[srd/pf2e/compendium/character/classes/alchemist|alchemist]] class in particular. It’s important to consider the impact these options can have on the play experience, not from a balance perspective, but from a story perspective. Characters specializing in alchemical foods will want an adventure that gives them time to prepare alchemical foods with the [[srd/pf2e/compendium/rules-elements/traits/treasure-vault-remastered/processed|processed]] trait, like the new [[srd/pf2e/compendium/equipment/alchemical-items/cooperative-waffles|cooperative waffles]]. Be sure that your players choosing these options have the opportunity to take full advantage of them, or warn them if that option won’t be available.
 
 *Source: Treasure Vault (Remastered) p. 46*
 
-## New Crafting Rules  *Sidebar*
+## New Crafting Rules
 
 - **Parent page**: [[srd/pf2e/books/treasure-vault-remastered/secrets-of-crafting/index|Secrets of Crafting]]
 
@@ -93,7 +92,7 @@ Some of the new options presented in this section can be used to enhance or adju
 
 *Source: Treasure Vault (Remastered) p. 157*
 
-## Stories and Power  *Sidebar*
+## Stories and Power
 
 - **Parent page**: [[srd/pf2e/books/treasure-vault-remastered/game-master-s-trove/index|Game Master's Trove]]
 
@@ -101,12 +100,12 @@ Many of the items presented in this section offer great power to the character w
 
 *Source: Treasure Vault (Remastered) p. 177*
 
-## Variant Materials  *Sidebar*
+## Variant Materials
 
 - **Parent page**: [[srd/pf2e/books/treasure-vault-remastered/secrets-of-crafting/nature-crafting#Additional Materials|Additional Materials]]
 
-Many weapons traditionally made from wood or metal might be made from alternative materials instead, covering the gamut from stone and ice to more esoteric materials like refined essence of ooze. For most campaigns, metal weapons can be treated as interchangeable with weapons made from these alternative materials without requiring significant changes or adjustments. Armors should generally not be crafted from materials other than those they are presented as being made from, since accessibility to stone and wooden armors directly affects the balance and progression of various classes. Rather than allowing a character to craft a suit of full plate from a non-metallic material, direct the character towards the non-metallic armors presented here.
+Many weapons traditionally made from wood or metal might be made from alternative materials instead, covering the gamut from stone and ice to more esoteric materials like refined essence of ooze. For most campaigns, metal weapons can be treated as interchangeable with weapons made from these alternative materials without requiring significant changes or adjustments. Armors should generally not be crafted from materials other than those they are presented as being made from, since accessibility to stone and wooden armors directly affects the balance and progression of various classes. Rather than allowing a character to craft a suit of full plate from a non-metallic material, direct the character towards the non-metallic armors presented [[srd/pf2e/compendium/equipment/armor|here]].
 
- GMs looking to add a greater sense of differentiation between weapons and armor made from nonstandard materials can find the statistics for differing materials here, particularly the statistics for [[srd/pf2e/compendium/equipment/materials/bone-object|bone]] and [[srd/pf2e/compendium/equipment/materials/stone-object-low-grade|stone]] equipment. Generally, this shouldn’t significantly change the price of the crafted item (particularly for magic weapons) as long as you are sticking to basic materials. While a stone sword might be slightly more fragile than an iron sword, it’s also less prone to damage from effects like a _rusting grasp_ spell or the predations of a rust monster.
+ GMs looking to add a greater sense of differentiation between weapons and armor made from nonstandard materials can find the statistics for differing materials here, particularly the statistics for [[srd/pf2e/compendium/equipment/materials/bone|bone]] and [[srd/pf2e/compendium/equipment/materials/stone|stone]] equipment. Generally, this shouldn’t significantly change the price of the crafted item (particularly for magic weapons) as long as you are sticking to basic materials. While a stone sword might be slightly more fragile than an iron sword, it’s also less prone to damage from effects like a _rusting grasp_ spell or the predations of a rust monster.
 
 *Source: Treasure Vault (Remastered) p. 169*

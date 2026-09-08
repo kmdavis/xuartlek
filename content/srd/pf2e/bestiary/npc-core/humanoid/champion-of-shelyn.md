@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Champion of Shelyn"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Champion of Shelyn"
 level: 7
 source: "NPC Core"
-aon_id: "creature-3446"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3446"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [4, 1, 2, 1, 2, 3]
 abilities_top:
   - name: "Items"
-    desc: "Crossbow (10 bolts), Half Plate, _+1 [[srd/pf2e/compendium/equipment/weapons/polearm/glaive|glaive]]_, [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol-silver|religious symbol]] of Shelyn"
+    desc: "Crossbow (10 bolts), Half Plate, _+1 [[srd/pf2e/compendium/equipment/weapons/polearm/glaive|glaive]]_, [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol|religious symbol]] of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/shelyn|Shelyn]]"
 ac: 25
 armorclass:
   - name: "AC"
@@ -49,7 +47,7 @@ health:
     desc: "120"
 abilities_mid:
   - name: "Champion's Aura"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]]) 15 feet. Any follower of Shelyn in the aura knows the champion is a champion of Shelyn. At the end of the champion's turn, each ally in the aura reduces its [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] value by 1. The aura can be suppressed or resumed with a single action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait, and ends if the champion falls [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]]) 15 feet. Any follower of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/shelyn|Shelyn]] in the aura knows the champion is a champion of Shelyn. At the end of the champion's turn, each ally in the aura reduces its [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] value by 1. The aura can be suppressed or resumed with a single action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait, and ends if the champion falls [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]."
   - name: "Champion's Courage"
     desc: "When the champion becomes [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]], they reduce the condition value by 1 (to a minimum of 0)."
   - name: "Liberating Step"

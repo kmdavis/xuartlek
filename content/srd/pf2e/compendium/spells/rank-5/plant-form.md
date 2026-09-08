@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/wood
 - spell/level/5
 aliases: ["Plant Form"]
-aon_id: "spell-1637"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1637"
 source: "Player Core"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Plant`  `Polymorph`  `Wood`
 
 - **Tradition**: Primal
-- **Deities**: Cyth-V’sug, Furcas, Halcamora, Immonhiel, Shumunue, The Green Mother, Vermilion Mother
+- **Deities**: [[srd/pf2e/compendium/deities/demon-lords/cyth-vsug|Cyth-V’sug]], [[srd/pf2e/compendium/deities/infernal-dukes/furcas|Furcas]], Halcamora, Immonhiel, [[srd/pf2e/compendium/deities/elemental-lords/shumunue|Shumunue]], [[srd/pf2e/compendium/deities/eldest/the-green-mother|The Green Mother]], Vermilion Mother
 - **Duration**: 1 minute
 
 Taking inspiration from verdant creatures, you transform into a Large plant battle form. When you Cast this Spell, choose a listed battle form. You can substitute a similar specific plant to turn into (such as a pitcher plant instead of a flytrap), but this has no effect on the form's Size or statistics. While in this form, you gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plant]] trait. You can Dismiss the spell.

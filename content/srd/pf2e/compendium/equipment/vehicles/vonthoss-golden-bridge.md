@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/unique
 - vehicle/level/17
 aliases: ["Vonthos's Golden Bridge"]
-aon_id: "vehicle-36"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=36"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -14,7 +13,7 @@ source: "Guns & Gears (Remastered)"
 
 `Unique`
 
-- **Price**: 50,000 gp
+- **Price**: 50, 000 gp
 
 Crafted by the wizard Vonthos as part of his bid to attempt the Test of the Starstone in Absalom, this strange vehicle is considered to be a magical and technological marvel. Vonthos's Golden Bridge is a flying sphere made out of a throne surrounded by several clockwork rings covered in gold and gems infused with powerful adaptive abjurations that grant it unique abilities.
 

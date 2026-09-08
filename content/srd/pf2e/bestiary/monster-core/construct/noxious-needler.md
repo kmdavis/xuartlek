@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Noxious Needler"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Noxious Needler"
 level: 9
 source: "Monster Core"
-aon_id: "creature-3109"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3109"
 ---
 
@@ -60,7 +58,7 @@ abilities_bot:
   - name: "Alchemical Injection"
     desc: "When a noxious needler hits a creature with a syringe Strike, roll 1d6 on the alchemical chambers list to determine the additional effect of the attack. The syringe deals an additional 2d6 damage of the appropriate type (or exposes the target to the sickness effect, as appropriate)."
   - name: "Generate Bomb"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]]) The needler fills an empty vial from one of its alchemical chambers to create a bomb and then makes a bomb Strike. Roll 1d6 on the alchemical chambers list above. On a roll of 1–5, the bomb deals 3d10 damage and 3 [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage, matching the damage type of the chamber; you can instead choose to create an alchemical bomb of 11th level or lower that deals the same damage type, such as an [[srd/pf2e/compendium/equipment/alchemical-items/acid-flask|acid flask]] on a roll of 1. On a roll of 6, it creates a sickness bomb, which exposes the target and all creatures in the splash radius to the sickness effect; creatures hit by only the splash receive a +2 circumstance bonus to their Fortitude saves. Alchemical Leftovers When a noxious needler is defeated or disabled, each of its alchemical chambers that remains intact can be salvaged. The alchemical fluids inside are 50 gp worth of ingredients for crafting alchemical items."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]]) The needler fills an empty vial from one of its alchemical chambers to create a bomb and then makes a bomb Strike. Roll 1d6 on the alchemical chambers list above. On a roll of 1–5, the bomb deals 3d10 damage and 3 [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage, matching the damage type of the chamber; you can instead choose to create an alchemical bomb of 11th level or lower that deals the same damage type, such as an acid flask on a roll of 1. On a roll of 6, it creates a sickness bomb, which exposes the target and all creatures in the splash radius to the sickness effect; creatures hit by only the splash receive a +2 circumstance bonus to their Fortitude saves. Alchemical Leftovers When a noxious needler is defeated or disabled, each of its alchemical chambers that remains intact can be salvaged. The alchemical fluids inside are 50 gp worth of ingredients for crafting alchemical items."
 sourcebook: "_Monster Core_, page 242."
 ```
 

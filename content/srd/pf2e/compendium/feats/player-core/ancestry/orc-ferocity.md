@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/orc
 - feat/level/1
 aliases: ["Orc Ferocity"]
-aon_id: "feat-4514"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4514"
 source: "Player Core"
 ---
 

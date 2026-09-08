@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - equipment/level/8
 aliases: ["Duskwood"]
-aon_id: "equipment-2918"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2918"
 source: "GM Core"
 ---
 
@@ -23,11 +22,11 @@ Duskwood is a very lightweight wood found primarily in old-growth forests in sou
 
 #### Material Uses
 
-[[srd/pf2e/compendium/equipment/armor/duskwood-armor-high-grade|Duskwood Armor]]
+[[srd/pf2e/compendium/equipment/armor/duskwood-armor|Duskwood Armor]]
 
-[[srd/pf2e/compendium/equipment/shields/duskwood-tower-shield-high-grade|Duskwood Shield]]
+[[srd/pf2e/compendium/equipment/shields/duskwood-shield|Duskwood Shield]]
 
-[[srd/pf2e/compendium/equipment/weapons/duskwood-weapon-high-grade|Duskwood Weapon]]
+[[srd/pf2e/compendium/equipment/weapons/duskwood-weapon|Duskwood Weapon]]
 
 ### Duskwood Branch
 

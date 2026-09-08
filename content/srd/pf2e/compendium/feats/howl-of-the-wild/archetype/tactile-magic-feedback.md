@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 - trait/archetype
 - feat/level/4
 aliases: ["Tactile Magic Feedback"]
-aon_id: "feat-5453"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5453"
 source: "Howl of the Wild"
 ---
 

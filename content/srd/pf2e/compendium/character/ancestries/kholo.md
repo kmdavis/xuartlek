@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ancestry
 tags:
 - compendium/src/pf2e/player-core-2
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - trait/gnoll
 aliases: ["Kholo"]
-aon_id: "ancestry-79"
+aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=79"
 source: "Player Core 2"
 ---
 
@@ -36,7 +35,7 @@ Kholos generally live in semi-nomadic clans of 10 to 20 family groups, containin
 
 Kholos have an unsentimental, matter-of-fact approach to life and prioritize results over methods. They are usually loyal and generous to their people and ruthless toward outsiders—whether this behavior is considered acceptable varies depending on who they view as “their people.”
 
- Many kholos pay homage to Lamashtu, both as the originator of their people and a guide in a chaotic world. However, some kholos often give homage to Calistria and Shelyn. Nethys is the patron of bonekeepers.
+ Many kholos pay homage to [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/lamashtu|Lamashtu]], both as the originator of their people and a guide in a chaotic world. However, some kholos often give homage to [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/calistria|Calistria]] and [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/shelyn|Shelyn]]. [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/nethys|Nethys]] is the patron of bonekeepers.
 
  **Popular Edicts** strengthen your allies and packmates, recount the tales of your ancestors, neutralize foes with tactics and cunning
  **Popular Anathema** risk yourself or your packmates for no reason, let a dead kholo or loved one rot like carrion

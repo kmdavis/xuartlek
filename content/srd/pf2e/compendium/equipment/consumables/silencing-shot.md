@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - equipment/level/11
 aliases: ["Silencing Shot"]
-aon_id: "equipment-1197"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1197"
 source: "Guns & Gears (Remastered)"
 ---
 

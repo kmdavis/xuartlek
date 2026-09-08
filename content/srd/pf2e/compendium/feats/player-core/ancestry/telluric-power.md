@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/dwarf
 - feat/level/13
 aliases: ["Telluric Power"]
-aon_id: "feat-4402"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4402"
 source: "Player Core"
 ---
 

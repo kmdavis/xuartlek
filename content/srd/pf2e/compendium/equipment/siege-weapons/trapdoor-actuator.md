@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - siege-weapon/level/3
 aliases: ["Trapdoor Actuator"]
-aon_id: "siege-weapon-33"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=33"
 source: "Howl of the Wild"
 ---
 

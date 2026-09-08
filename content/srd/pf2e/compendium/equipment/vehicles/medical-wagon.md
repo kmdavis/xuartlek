@@ -1,17 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/battlecry
 - vehicle/level/7
 aliases: ["Medical Wagon"]
-aon_id: "vehicle-101"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=101"
 source: "Battlecry!"
 ---
 
 # Medical Wagon  *Vehicle 7*
 
-- **Price**: 1,000 gp
+- **Price**: 1, 000 gp
 
 Medical wagons are frequent sights near the battlefield. These wagons carry various mundane and magical medical supplies and are generally staffed by a medic. A small gurney is mounted in the back of the wagon for transporting personnel or for use as an emergency operating table.
 

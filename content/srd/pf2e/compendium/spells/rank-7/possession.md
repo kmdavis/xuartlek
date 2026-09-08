@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -11,7 +10,7 @@ tags:
 - trait/uncommon
 - spell/level/7
 aliases: ["Possession"]
-aon_id: "spell-1638"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1638"
 source: "Player Core"
 ---
 
@@ -20,7 +19,7 @@ source: "Player Core"
 `Concentrate`  `Incapacitation`  `Manipulate`  `Mental`  `Possession`  `Uncommon`
 
 - **Tradition**: Occult
-- **Deities**: Fumeiyoshi, Il’Surrish
+- **Deities**: Fumeiyoshi, [[srd/pf2e/compendium/deities/monitor-demigods/ilsurrish|Il’Surrish]]
 - **Range**: 30 feet
 - **Target**: 1 living creature
 - **Defense**: Will

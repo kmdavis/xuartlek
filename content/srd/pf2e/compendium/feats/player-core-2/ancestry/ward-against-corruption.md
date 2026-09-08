@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/duskwalker
 - feat/level/5
 aliases: ["Ward Against Corruption"]
-aon_id: "feat-5755"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5755"
 source: "Player Core 2"
 ---
 

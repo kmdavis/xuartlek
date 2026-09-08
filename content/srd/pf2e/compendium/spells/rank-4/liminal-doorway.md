@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - spell/level/4
 aliases: ["Liminal Doorway"]
-aon_id: "spell-1587"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1587"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Concentrate`  `Extradimensional`  `Manipulate`  `Uncommon`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Dalenydra, Nivi Rhombodazzle, Vapula
+- **Deities**: [[srd/pf2e/compendium/deities/empyreal-lords/dalenydra|Dalenydra]], [[srd/pf2e/compendium/deities/other-gods/nivi-rhombodazzle|Nivi Rhombodazzle]], [[srd/pf2e/compendium/deities/infernal-dukes/vapula|Vapula]]
 - **Cast**: 10 minutes
 - **Range**: touch
 - **Duration**: 8 hours

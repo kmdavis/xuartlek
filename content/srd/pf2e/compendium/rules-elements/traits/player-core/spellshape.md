@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/spellshape
 - trait/metamagic
 aliases: ["Spellshape"]
-aon_id: "trait-513"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=513"
 source: "Player Core"
 ---
 

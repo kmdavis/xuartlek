@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - spell/level/4
 aliases: ["Rewrite Memory"]
-aon_id: "spell-1655"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1655"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Mental`  `Uncommon`
 
 - **Tradition**: Occult
-- **Deities**: Bergelmir, Narakaas, The Lost Prince
+- **Deities**: [[srd/pf2e/compendium/deities/giant-gods/bergelmir|Bergelmir]], Narakaas, [[srd/pf2e/compendium/deities/eldest/the-lost-prince|The Lost Prince]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will

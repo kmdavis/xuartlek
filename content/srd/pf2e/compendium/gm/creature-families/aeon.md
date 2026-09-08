@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core
 aliases: ["Aeon"]
-aon_id: "creature-family-357"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=357"
 source: "Monster Core"
 ---
 
@@ -32,6 +31,6 @@ Aeons are among the least understood of the Great Beyond's immortal creatures, a
 
 ### Tools of Creation
 
-Although records are obviously sparse, aeons were deeply involved in the creation of [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]]. A handful of intact tools from this monumental undertaking remain in the possession of planar powers, but even the broken fragments of these tools are treasured by mortals as [[srd/pf2e/compendium/equipment/worn-items/aeon-stone-sprouting|_aeon stones_]].
+Although records are obviously sparse, aeons were deeply involved in the creation of [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]]. A handful of intact tools from this monumental undertaking remain in the possession of planar powers, but even the broken fragments of these tools are treasured by mortals as [[srd/pf2e/compendium/equipment/worn-items/aeon-stone|_aeon stones_]].
 
 *Source: Monster Core p. 8*

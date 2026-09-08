@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-practice
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -9,7 +8,7 @@ entries: 4
 
 # Practices
 
-## Liturgist  *Animistic Practice*
+## Liturgist
 
 You draw forth your apparitions through the power of song and dance, connecting the spiritual to the physical. These performances can be of your own creation or follow the specific rites of your religion.
 
@@ -27,7 +26,7 @@ Your liturgies call to the spirits even in the heat of battle. When you roll ini
 
 *Source: War of Immortals p. 14*
 
-## Medium  *Animistic Practice*
+## Medium
 
 You are particularly good at acting as a conduit for spiritual energy and tend to associate more freely with a wide array of apparitions, though you tend not to form the deep bond with a single apparition that other animists often develop.
 
@@ -46,7 +45,7 @@ Once per round, you can attempt a Recall Knowledge check as a free action.All St
 
 *Source: War of Immortals p. 15*
 
-## Seer  *Animistic Practice*
+## Seer
 
 You are particularly sensitive to the presence and influence of [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirits]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]]. You can detect lingering spirits, offering you some defense against them.
 
@@ -64,7 +63,7 @@ You are a bulwark against the terrible spirits that lurk in the dark. Your appar
 
 *Source: War of Immortals p. 15*
 
-## Shaman  *Animistic Practice*
+## Shaman
 
 You form close bonds with your apparitions that allow you to invest them with the rare ability to take on a material form and directly affect the physical world.
 

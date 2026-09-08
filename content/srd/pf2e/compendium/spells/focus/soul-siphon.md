@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -11,7 +10,7 @@ tags:
 - trait/negative
 - spell/level/1
 aliases: ["Soul Siphon"]
-aon_id: "spell-2072"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2072"
 source: "Player Core 2"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core 2"
 
 `Focus`  `Manipulate`  `Oracle`  `Uncommon`  `Void`  `Negative`
 
-- **Mystery**: Bones
+- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Bones|Bones]]
 - **Range**: 30 feet
 - **Target**: 1 living creature
 - **Defense**: Fortitude

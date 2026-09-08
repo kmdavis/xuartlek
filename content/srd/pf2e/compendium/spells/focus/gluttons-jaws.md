@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -11,7 +10,7 @@ tags:
 - trait/uncommon
 - spell/level/1
 aliases: ["Glutton's Jaws"]
-aon_id: "spell-2096"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2096"
 source: "Player Core 2"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core 2"
 
 `Attack`  `Concentrate`  `Focus`  `Manipulate`  `Sorcerer`  `Uncommon`
 
-- **Bloodline**: Demonic
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Demonic|Demonic]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: AC

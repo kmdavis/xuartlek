@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - equipment/level/9
 aliases: ["Silvered Marp Fur"]
-aon_id: "equipment-3263"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3263"
 source: "Howl of the Wild"
 ---
 

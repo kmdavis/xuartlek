@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/rare
 - ritual/level/9
 aliases: ["Borrow Time"]
-aon_id: "ritual-247"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=247"
 source: "Impossible Magic"
 ---
 
@@ -15,7 +14,7 @@ source: "Impossible Magic"
 `Rare`
 
 - **Cast**: 1 hour
-- **Cost**: bells, hourglasses, and water clocks worth a total of 1,000 gp
+- **Cost**: bells, hourglasses, and water clocks worth a total of 1, 000 gp
 - **Secondary Casters**: 1 or more
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] (legendary) or [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (legendary)
 - **Secondary Checks**: Arcana or Occultism

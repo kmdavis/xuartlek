@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/rare
 - vehicle/level/16
 aliases: ["Helepolis"]
-aon_id: "vehicle-16"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=16"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -14,7 +13,7 @@ source: "Guns & Gears (Remastered)"
 
 `Rare`
 
-- **Price**: 30,000 gp
+- **Price**: 30, 000 gp
 
 The helepolis uses both pushed propulsion and turned propulsion to turn a capstan. Turned propulsion uses the same rules as rowed propulsion. Pushed propulsion uses the same rules as pulled. 
 

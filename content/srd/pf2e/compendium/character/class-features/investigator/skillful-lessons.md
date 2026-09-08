@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class-feature
 tags:
 - compendium/src/pf2e/player-core-2
 - class-feature/level/3
 aliases: ["Skillful Lessons"]
-aon_id: "class-feature-909"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=59"
 source: "Player Core 2"
 ---
 

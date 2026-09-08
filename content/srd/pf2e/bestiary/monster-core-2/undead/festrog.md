@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Festrog"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Festrog"
 level: 1
 source: "Monster Core 2"
-aon_id: "creature-4399"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4399"
 ---
 

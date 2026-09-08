@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Hungry Ghost"
 tags:
@@ -14,7 +13,6 @@ statblock: inline
 name: "Hungry Ghost"
 level: 6
 source: "Monster Core 2"
-aon_id: "creature-4406"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4406"
 ---
 
@@ -55,7 +53,7 @@ health:
     desc: "60 (rejuvenation, void healing); __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Death Effects|death effects]], [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], precision, [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]; __Resistances__ all damage 5 (except [[srd/pf2e/compendium/rules-elements/traits/player-core/force|force]], [[srd/pf2e/compendium/equipment/runes/ghost-touch|_ghost touch_]], [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]]; double resistance vs. non-magical)"
 abilities_mid:
   - name: "Rejuvenation"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]]) When a hungry ghost is destroyed, they reform after 2d4 days fully healed at the location where they were last destroyed. They're only permanently destroyed when they have been given a proper burial, have had their grave cleaned and maintained for at least a year, or have been judged to be redeemed by Pharasma."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]]) When a hungry ghost is destroyed, they reform after 2d4 days fully healed at the location where they were last destroyed. They're only permanently destroyed when they have been given a proper burial, have had their grave cleaned and maintained for at least a year, or have been judged to be redeemed by [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma]]."
 speed: "fly 25 feet"
 attacks:
   - name: "Melee"

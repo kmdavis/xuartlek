@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/gunslinger
 - feat/level/16
 aliases: ["Instant Return"]
-aon_id: "feat-3206"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3206"
 source: "Guns & Gears (Remastered)"
 ---
 

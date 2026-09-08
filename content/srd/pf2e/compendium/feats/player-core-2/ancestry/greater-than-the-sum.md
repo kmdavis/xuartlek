@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/ratfolk
 - feat/level/17
 aliases: ["Greater than the Sum"]
-aon_id: "feat-5672"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5672"
 source: "Player Core 2"
 ---
 

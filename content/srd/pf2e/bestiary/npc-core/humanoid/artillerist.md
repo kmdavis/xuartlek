@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Artillerist"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Artillerist"
 level: 3
 source: "NPC Core"
-aon_id: "creature-3459"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3459"
 ---
 
@@ -38,7 +36,7 @@ abilities_top:
   - name: "Siege Acumen"
     desc: "The artillerist is permanently [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]]. They can use this extra action only to [[srd/pf2e/books/guns-gears-remastered/gears-equipment/siege-weapons#Mounted Siege Weapons|Aim, Load, or Launch]] a siege weapon."
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit-sterling|Artisan's Toolkit]] (siege weaponry), [[srd/pf2e/compendium/equipment/weapons/firearm/dueling-pistol|Dueling Pistol]] (20 rounds), [[srd/pf2e/compendium/equipment/weapons/hammer/light-hammer|Light Hammer]], [[srd/pf2e/compendium/equipment/adventuring-gear/repair-toolkit-superb|Repair Toolkit]]"
+    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit|Artisan's Toolkit]] (siege weaponry), Dueling Pistol (20 rounds), [[srd/pf2e/compendium/equipment/weapons/hammer/light-hammer|Light Hammer]], [[srd/pf2e/compendium/equipment/adventuring-gear/repair-toolkit|Repair Toolkit]]"
 ac: 18
 armorclass:
   - name: "AC"

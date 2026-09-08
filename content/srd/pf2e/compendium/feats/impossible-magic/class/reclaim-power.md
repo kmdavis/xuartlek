@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/occult
 - feat/level/6
 aliases: ["Reclaim Power"]
-aon_id: "feat-9121"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9121"
 source: "Impossible Magic"
 ---
 

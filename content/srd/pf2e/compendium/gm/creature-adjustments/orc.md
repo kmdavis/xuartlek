@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-adjustment
 tags:
 - compendium/src/pf2e/npc-core
 aliases: ["Orc"]
-aon_id: "creature-adjustment-52"
+aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=52"
 source: "NPC Core"
 ---
 

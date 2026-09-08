@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Terotricus"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Terotricus"
 level: 19
 source: "Monster Core"
-aon_id: "creature-3215"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3215"
 ---
 
@@ -43,7 +41,7 @@ armorclass:
 hp: 370
 health:
   - name: "HP"
-    desc: "370 , regeneration 25 (deactivated by [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]]); __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Controlled|controlled]], [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 15; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] 15, [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 15, [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 15, slashing 10"
+    desc: "370 , regeneration 25 (deactivated by [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]]); __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Controlled|controlled]], [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 15; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] 15, [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 15, [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 15, slashing 10"
 abilities_mid:
   - name: "Spore Cloud"
     desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]]) 30 feet. A creature entering the aura or starting its turn there is exposed to spore blight."

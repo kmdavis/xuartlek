@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - siege-weapon/level/8
 aliases: ["Firedrake"]
-aon_id: "siege-weapon-15"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=15"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -15,7 +14,7 @@ source: "Guns & Gears (Remastered)"
 
 `Mounted`  `Uncommon`
 
-- **Price**: 1,000 gp
+- **Price**: 1, 000 gp
 - **Ammunition**: alchemical fire barrel (50 gp, 3 Bulk)
 
 **Usage** mounted (black powder)

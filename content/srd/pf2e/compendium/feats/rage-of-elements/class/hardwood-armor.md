@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -9,7 +8,7 @@ tags:
 - trait/wood
 - feat/level/1
 aliases: ["Hardwood Armor"]
-aon_id: "feat-4283"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4283"
 source: "Rage of Elements"
 ---
 

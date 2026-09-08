@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core
 aliases: ["Mummy"]
-aon_id: "creature-family-445"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=445"
 source: "Monster Core"
 ---
 
@@ -18,10 +17,10 @@ While many cultures practice mummification for benign reasons, undead mummies ar
 
 ### Faithful Preservation
 
-Few faiths support mummification as a means of creating the undead. Certain Iroransects practice self-mummification, for example, and worshippers of the ancient Osirian god Set left behind many mummies in that empire's lands. Urgathoa'sfaith, however, wholeheartedly embraces the mummification of the willing and unwilling alike, producing most of the mummies in modern times.
+Few faiths support mummification as a means of creating the undead. Certain [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/irori|Iroran]]sects practice self-mummification, for example, and worshippers of the ancient Osirian god Set left behind many mummies in that empire's lands. [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/urgathoa|Urgathoa's]]faith, however, wholeheartedly embraces the mummification of the willing and unwilling alike, producing most of the mummies in modern times.
 
 ### Into Eternity
 
-Undead mummies stand in a mockery of preserving bodies after death, trapping souls in their static husks rather than allowing them to enter the Great Beyond. Followers of Pharasma consider them an affront to their goddess on many levels, with some even refusing to perform the traditional rites their goddess supports.
+Undead mummies stand in a mockery of preserving bodies after death, trapping souls in their static husks rather than allowing them to enter the Great Beyond. Followers of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma]] consider them an affront to their goddess on many levels, with some even refusing to perform the traditional rites their goddess supports.
 
 *Source: Monster Core p. 234*

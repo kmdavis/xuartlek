@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
 - trait/archetype
 - feat/level/12
 aliases: ["Officer's Expertise"]
-aon_id: "feat-7890"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7890"
 source: "Battlecry!"
 ---
 

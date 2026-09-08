@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/necromancer
 - feat/level/20
 aliases: ["Mortem Ultimatum"]
-aon_id: "feat-9165"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9165"
 source: "Impossible Magic"
 ---
 

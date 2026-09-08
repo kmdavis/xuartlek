@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Watchmage"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Watchmage"
 level: 5
 source: "NPC Core"
-aon_id: "creature-3559"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3559"
 ---
 

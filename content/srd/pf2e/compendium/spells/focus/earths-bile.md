@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -10,7 +9,7 @@ tags:
 - trait/uncommon
 - spell/level/1
 aliases: ["Earth's Bile"]
-aon_id: "spell-2144"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2144"
 source: "War of Immortals"
 ---
 

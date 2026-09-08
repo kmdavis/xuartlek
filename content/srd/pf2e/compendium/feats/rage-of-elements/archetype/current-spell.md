@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -9,7 +8,7 @@ tags:
 - trait/metamagic
 - feat/level/6
 aliases: ["Current Spell"]
-aon_id: "feat-4344"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4344"
 source: "Rage of Elements"
 ---
 

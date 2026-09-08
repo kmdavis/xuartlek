@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/magical
 - equipment/level/5
 aliases: ["Sampling Ammunition"]
-aon_id: "equipment-4117"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4117"
 source: "Dark Archives (Remastered)"
 ---
 

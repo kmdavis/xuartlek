@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - weapon/level/0
 aliases: ["War Javelin"]
-aon_id: "weapon-512"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=512"
 source: "War of Immortals"
 ---
 

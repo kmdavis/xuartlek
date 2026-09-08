@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
 - trait/attached
 - weapon/level/0
 aliases: ["Shield Spikes"]
-aon_id: "weapon-397"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=397"
 source: "Player Core"
 ---
 
@@ -14,7 +13,7 @@ source: "Player Core"
 
 `Attached`
 
-- **Favored Weapon**: Dramindyr
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/monitor-demigods/dramindyr|Dramindyr]]
 - **Price**: 5 sp
 - **Damage**: 1d6 P
 - **Bulk**: —

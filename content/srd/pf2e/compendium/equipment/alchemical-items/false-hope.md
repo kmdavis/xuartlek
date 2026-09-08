@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -10,7 +9,7 @@ tags:
 - trait/virulent
 - equipment/level/17
 aliases: ["False Hope"]
-aon_id: "equipment-2003"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2003"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -18,7 +17,7 @@ source: "Treasure Vault (Remastered)"
 
 `Alchemical`  `Consumable`  `Injury`  `Poison`  `Virulent`
 
-- **Price**: 2,600 gp
+- **Price**: 2, 600 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
 - **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])

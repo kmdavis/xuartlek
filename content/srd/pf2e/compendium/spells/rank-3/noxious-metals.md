@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -9,7 +8,7 @@ tags:
 - trait/poison
 - spell/level/3
 aliases: ["Noxious Metals"]
-aon_id: "spell-1376"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1376"
 source: "Rage of Elements"
 ---
 
@@ -18,7 +17,7 @@ source: "Rage of Elements"
 `Concentrate`  `Manipulate`  `Metal`  `Poison`
 
 - **Tradition**: Arcane
-- **Deity**: Ferrumnestra
+- **Deity**: [[srd/pf2e/compendium/deities/elemental-lords/ferrumnestra|Ferrumnestra]]
 - **Range**: 60 feet
 - **Area**: 20-foot burst
 - **Defense**: basic Fortitude

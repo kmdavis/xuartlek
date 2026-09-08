@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class
 tags:
 - compendium/src/pf2e/player-core
 aliases: ["Rogue"]
-aon_id: "class-37"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=37"
 source: "Player Core"
 ---
 

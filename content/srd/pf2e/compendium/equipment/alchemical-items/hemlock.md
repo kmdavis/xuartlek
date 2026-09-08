@@ -1,28 +1,28 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
-- compendium/src/pf2e/gm-core
+- compendium/src/pf2e/player-core-2
 - trait/alchemical
 - trait/consumable
 - trait/ingested
 - trait/poison
 - equipment/level/17
 aliases: ["Hemlock"]
-aon_id: "equipment-2901"
-source: "GM Core"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3337"
+source: "Player Core 2"
 ---
 
 # Hemlock  *Item 17*
 
 `Alchemical`  `Consumable`  `Ingested`  `Poison`
 
-- **Price**: 2,250 gp
+- **Price**: 2, 250 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-Concentrated hemlock is a particularly deadly toxin that halts muscle action—including that of the victim's heart.
- **Saving Throw** DC 38 Fortitude; **Onset** 30 minutes; **Maximum Duration** 60 minutes; **Stage 1** 16d6 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 2 (10 minutes); **Stage 2** 17d6 poison damage and enfeebled 3 (10 minutes); **Stage 3** 16d6 poison damage and enfeebled 4 (10 minutes)
+Concentrated hemlock is a particularly deadly toxin that halts muscle action—including that of the victim's heart. 
 
-*Source: GM Core p. 249*
+**Saving Throw** DC 38 Fortitude; **Onset** 30 minutes; **Maximum Duration** 60 minutes; **Stage 1** 16d6 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 2 (10 minutes); **Stage 2** 17d6 poison damage and enfeebled 3 (10 minutes); **Stage 3** 18d6 poison damage and enfeebled 4 (10 minutes)
+
+*Source: Player Core 2 p. 293*

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
 - trait/fatal
 - weapon/level/0
 aliases: ["Pick"]
-aon_id: "weapon-389"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=389"
 source: "Player Core"
 ---
 
@@ -14,7 +13,7 @@ source: "Player Core"
 
 `Fatal`
 
-- **Favored Weapon**: Drokalion, Ferrumnestra, Sairazul, Soralyon, Treasures of the Eternal Delve, Zyphus
+- **Favored Weapon**: Drokalion, [[srd/pf2e/compendium/deities/elemental-lords/ferrumnestra|Ferrumnestra]], [[srd/pf2e/compendium/deities/elemental-lords/sairazul|Sairazul]], [[srd/pf2e/compendium/deities/empyreal-lords/soralyon|Soralyon]], [[srd/pf2e/compendium/deities/covenants/treasures-of-the-eternal-delve|Treasures of the Eternal Delve]], [[srd/pf2e/compendium/deities/other-gods/zyphus|Zyphus]]
 - **Price**: 7 sp
 - **Damage**: 1d6 P
 - **Bulk**: 1
@@ -31,6 +30,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/greater-chainbreaker|Chainbreaker]], Dreamcrusher, [[srd/pf2e/compendium/equipment/weapons/pick-of-arcane-accuracy|Pick Of Arcane Accuracy]]
+[[srd/pf2e/compendium/equipment/weapons/chainbreaker|Chainbreaker]], Dreamcrusher, [[srd/pf2e/compendium/equipment/weapons/pick-of-arcane-accuracy|Pick Of Arcane Accuracy]]
 
 *Source: Player Core p. 278*

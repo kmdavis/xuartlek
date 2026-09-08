@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -8,7 +7,7 @@ tags:
 - trait/metal
 - equipment/level/13
 aliases: ["Zuhra's Gloves"]
-aon_id: "equipment-2622"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2622"
 source: "Rage of Elements"
 ---
 
@@ -16,7 +15,7 @@ source: "Rage of Elements"
 
 `Invested`  `Magical`  `Metal`
 
-- **Price**: 3,000 gp
+- **Price**: 3, 000 gp
 - **Usage**: worn gloves
 
 This elaborate metallic webbing feels soft when wrapped around your hands and forearms. It constantly shifts its strands and connections. The name of a zuhra shuyookh is etched in Talican on the only part of the item that's unchanging. You gain a +3 item bonus to your Reflex DC against attempts to Disarm an item you're holding in your hands.

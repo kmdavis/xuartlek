@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Argorth"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Argorth"
 level: 11
 source: "Monster Core 2"
-aon_id: "creature-4083"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4083"
 ---
 
@@ -73,7 +71,7 @@ abilities_bot:
   - name: "Failure"
     desc: "The creature is [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied 1]] for 1 minute and frightened 2."
   - name: "Critical Failure"
-    desc: "The creature is stupefied 2 for 1 minute and frightened 3. Children Of Oblivion Legends of argorths' creation speak of Malcachavka, a [[srd/pf2e/bestiary/monster-core-2/aberration/dibrasgorth|dibrasgorth]] favored of Lamashtu who was unleashed against a city of mortals. Even after every inhabitant was slain and every building razed, Malcachavka continued to rage, chewing and biting her own flesh. Six of her tentacles were severed in the thrashing, each of which continued to writhe of their own accord. In their mindless frenzy and by Lamashtu's blessing, they grew their own maws and legs, becoming the very first argorths."
+    desc: "The creature is stupefied 2 for 1 minute and frightened 3. Children Of Oblivion Legends of argorths' creation speak of Malcachavka, a [[srd/pf2e/bestiary/monster-core-2/aberration/dibrasgorth|dibrasgorth]] favored of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/lamashtu|Lamashtu]] who was unleashed against a city of mortals. Even after every inhabitant was slain and every building razed, Malcachavka continued to rage, chewing and biting her own flesh. Six of her tentacles were severed in the thrashing, each of which continued to writhe of their own accord. In their mindless frenzy and by Lamashtu's blessing, they grew their own maws and legs, becoming the very first argorths."
 sourcebook: "_Monster Core 2_, page 40."
 ```
 

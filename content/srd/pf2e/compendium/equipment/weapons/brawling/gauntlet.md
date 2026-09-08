@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/free-hand
 - weapon/level/0
 aliases: ["Gauntlet"]
-aon_id: "weapon-359"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=359"
 source: "Player Core"
 ---
 
@@ -15,7 +14,7 @@ source: "Player Core"
 
 `Agile`  `Free-Hand`
 
-- **Favored Weapon**: Ng
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/eldest/ng|Ng]]
 - **Price**: 2 sp
 - **Damage**: 1d4 B
 - **Bulk**: L

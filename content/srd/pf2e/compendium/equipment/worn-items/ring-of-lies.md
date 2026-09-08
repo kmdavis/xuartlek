@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - equipment/level/10
 aliases: ["Ring of Lies"]
-aon_id: "equipment-3104"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3104"
 source: "GM Core"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/wizard
 - feat/level/10
 aliases: ["Shared Focus"]
-aon_id: "feat-9392"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9392"
 source: "Impossible Magic"
 ---
 

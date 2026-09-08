@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
 - trait/mythic
 - feat/level/16
 aliases: ["Leaping Hedgehog Strike"]
-aon_id: "feat-7381"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7381"
 source: "War of Immortals"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -9,7 +8,7 @@ tags:
 - trait/rage
 - feat/level/12
 aliases: ["Sunder Spell"]
-aon_id: "feat-5859"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5859"
 source: "Player Core 2"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core 2"
 
 `Attack`  `Barbarian`  `Concentrate`  `Rage`
 
-- **Prerequisites**: superstition instinct
+- **Prerequisites**: [[srd/pf2e/compendium/character/instincts/superstition|superstition instinct]]
 
 You draw upon your superstitious fury to destroy a spell. Make a melee Strike with a weapon or unarmed attack against a creature, object, or a spell manifestation (such as the wall created by [[srd/pf2e/compendium/spells/rank-4/wall-of-fire|_wall of fire_]] or the guardian from [[srd/pf2e/compendium/spells/rank-5/spiritual-guardian|_spiritual guardian_]]). If you're targeting something that doesn't have an AC listed, its AC against this Strike is usually 10 for targets that are very easy to hit, like a wall, or a different AC determined by the GM. If your Strike hits, you can attempt to counteract a single spell or magical effect on the target. Your counteract rank for this attempt is equal to half your level rounded up, and you use the result of your attack roll for the counteract check.
 

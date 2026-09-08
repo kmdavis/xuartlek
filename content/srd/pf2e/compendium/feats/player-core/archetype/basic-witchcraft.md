@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/archetype
 - feat/level/4
 aliases: ["Basic Witchcraft"]
-aon_id: "feat-5101"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5101"
 source: "Player Core"
 ---
 

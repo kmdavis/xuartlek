@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/polymorph
 - spell/level/7
 aliases: ["Fiery Body"]
-aon_id: "spell-1527"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1527"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Concentrate`  `Fire`  `Manipulate`  `Polymorph`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Lubaiko, Moloch, Touch of the Sun, Zelishkar
+- **Deities**: Lubaiko, Moloch, Touch of the Sun, [[srd/pf2e/compendium/deities/daemon-harbingers/zelishkar|Zelishkar]]
 - **Duration**: 1 minute
 
 You become living flame, giving you fire immunity, resistance 10 to precision damage, and weakness 5 to cold and to water. Any creature that touches you or damages you with an [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attack or non-[[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach]] melee weapon takes 3d6 fire damage.

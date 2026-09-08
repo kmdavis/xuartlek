@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/magical
 - equipment/level/11
 aliases: ["Grudge Journal"]
-aon_id: "equipment-5128"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5128"
 source: "Impossible Magic"
 ---
 
@@ -15,7 +14,7 @@ source: "Impossible Magic"
 
 `Grimoire`  `Magical`
 
-- **Price**: 1,350 gp
+- **Price**: 1, 350 gp
 - **Bulk**: L
 
 The margins of this clothbound journal’s pages are filled with complaints on all manner of topics, shifting to match whatever angers the bearer most. 

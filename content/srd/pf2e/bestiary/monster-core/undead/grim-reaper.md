@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Grim Reaper"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Grim Reaper"
 level: 21
 source: "Monster Core"
-aon_id: "creature-3036"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3036"
 ---
 
@@ -74,7 +72,7 @@ abilities_bot:
   - name: "Final Death"
     desc: "A creature killed by the Grim Reaper can't be brought back to life by any means short of divine intervention."
   - name: "Infuse Weapon"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]]) Any scythe gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]] trait, can't be disarmed, and becomes a _+3 [[srd/pf2e/compendium/equipment/runes/striking-major|major striking]] [[srd/pf2e/compendium/equipment/runes/keen|keen]] scythe_ while the Grim Reaper wields it. If the Grim Reaper Strikes a creature with a weakness to any specific type of damage, the scythe's damage counts as that type of damage, in addition to slashing."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]]) Any scythe gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]] trait, can't be disarmed, and becomes a _+3 [[srd/pf2e/compendium/equipment/runes/striking|major striking]] [[srd/pf2e/compendium/equipment/runes/keen|keen]] scythe_ while the Grim Reaper wields it. If the Grim Reaper Strikes a creature with a weakness to any specific type of damage, the scythe's damage counts as that type of damage, in addition to slashing."
 spellcasting:
   - name: "Divine Innate Spells"
     desc: "DC 47, attack +37 - __7th__ [[srd/pf2e/compendium/spells/rank-7/interplanar-teleport|Interplanar Teleport]] - __10th__ [[srd/pf2e/compendium/spells/rank-7/execute|Execute]] (×4) - __Constant (2nd)__ [[srd/pf2e/compendium/spells/rank-2/see-the-unseen|See the Unseen]] - __Constant (3rd)__ [[srd/pf2e/compendium/spells/rank-3/haste|Haste]] - __Constant (6th)__ [[srd/pf2e/compendium/spells/rank-6/truesight|Truesight]]"

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - equipment/level/10
 aliases: ["Voice from the Grave"]
-aon_id: "equipment-2200"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2200"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -16,7 +15,7 @@ source: "Treasure Vault (Remastered)"
 
 `Magical`  `Mental`  `Uncommon`
 
-- **Price**: 1,700 gp
+- **Price**: 1, 700 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
 

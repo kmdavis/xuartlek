@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
@@ -10,7 +9,7 @@ tags:
 - trait/mental
 - feat/level/18
 aliases: ["Mercenary Reversal"]
-aon_id: "feat-7827"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7827"
 source: "Battlecry!"
 ---
 

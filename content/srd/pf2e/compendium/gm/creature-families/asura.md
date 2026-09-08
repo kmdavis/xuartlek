@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core-2
 aliases: ["Asura"]
-aon_id: "creature-family-571"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=571"
 source: "Monster Core 2"
 ---
 
@@ -24,7 +23,7 @@ The mightiest asuras are demigods in their own right, and despite knowing their 
 
 ### Asura Realms
 
-Asuras command vast empires in the corners of [[srd/pf2e/compendium/gm/planes#Hell|Hell]]. While their realms are tiny compared to the massive hierarchy of Asmodeus and devilkind, they exist in a tacit agreement of coexistence with their diabolic neighbors
+Asuras command vast empires in the corners of [[srd/pf2e/compendium/gm/planes#Hell|Hell]]. While their realms are tiny compared to the massive hierarchy of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/asmodeus|Asmodeus]] and devilkind, they exist in a tacit agreement of coexistence with their diabolic neighbors
 
 ### Asura Recruits
 
@@ -32,6 +31,6 @@ Many asuras were formerly [[srd/pf2e/compendium/gm/creature-families/rakshasa|ra
 
 ### Geryon
 
-A former asura rana, Geryon joined the ranks of [[srd/pf2e/compendium/gm/planes#Hell|Hell]], betraying his asura brethren to prove his loyalty to Asmodeus. Yet some believe that this was simply a ploy for Geryon to draw closer to true divinity, to gain the power necessary to unravel reality— including all of Hell's works.
+A former asura rana, [[srd/pf2e/compendium/deities/archdevils/geryon|Geryon]] joined the ranks of [[srd/pf2e/compendium/gm/planes#Hell|Hell]], betraying his asura brethren to prove his loyalty to [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/asmodeus|Asmodeus]]. Yet some believe that this was simply a ploy for Geryon to draw closer to true divinity, to gain the power necessary to unravel reality— including all of Hell's works.
 
 *Source: Monster Core 2 p. 42*

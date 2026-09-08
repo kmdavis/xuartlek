@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Tabellia"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Tabellia"
 level: 14
 source: "Monster Core"
-aon_id: "creature-2817"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2817"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [8, 4, 5, 4, 4, 6]
 abilities_top:
   - name: "Items"
-    desc: "_+2 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/hammer/warhammer|warhammer]]_"
+    desc: "_+2 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/hammer/warhammer|warhammer]]_"
 ac: 36
 armorclass:
   - name: "AC"

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/skill
 - feat/level/2
 aliases: ["Express Driver"]
-aon_id: "feat-3141"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3141"
 source: "Guns & Gears (Remastered)"
 ---
 

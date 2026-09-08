@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/aiuvarin
 - trait/half-elf
 aliases: ["Aiuvarin"]
-aon_id: "trait-515"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=515"
 source: "Player Core"
 ---
 

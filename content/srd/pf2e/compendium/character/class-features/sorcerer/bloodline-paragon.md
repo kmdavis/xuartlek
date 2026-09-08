@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class-feature
 tags:
 - compendium/src/pf2e/player-core-2
 - class-feature/level/19
 aliases: ["Bloodline Paragon"]
-aon_id: "class-feature-1000"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=62"
 source: "Player Core 2"
 ---
 

@@ -7,7 +7,6 @@ cssclasses:
 tags:
   - srd/pf2e/war-of-immortals
 source: "War of Immortals"
-aon_id: 3320
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3320"
 citation: "War of Immortals pg. 76"
 ---

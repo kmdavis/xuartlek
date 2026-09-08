@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/rage
 - feat/level/6
 aliases: ["Mage Hunter"]
-aon_id: "feat-5830"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5830"
 source: "Player Core 2"
 ---
 
@@ -15,7 +14,7 @@ source: "Player Core 2"
 
 `Barbarian`  `Rage`
 
-- **Prerequisites**: superstition instinct
+- **Prerequisites**: [[srd/pf2e/compendium/character/instincts/superstition|superstition instinct]]
 - **Requirements**: You’ve seen the target [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a Spell]].
 
 You use your hatred of magic to lash out at a known spellcaster. Make a melee Strike against the required creature. If you hit and deal damage, the target is [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied 1]], or stupefied 2 on a critical hit, until the beginning of your next turn.

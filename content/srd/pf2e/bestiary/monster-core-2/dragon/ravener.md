@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Ravener"
 tags:
@@ -15,7 +14,6 @@ statblock: inline
 name: "Ravener"
 level: 21
 source: "Monster Core 2"
-aon_id: "creature-4529"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4529"
 ---
 
@@ -84,7 +82,7 @@ abilities_bot:
   - name: "Critical Success"
     desc: "The creature is unaffected."
   - name: "Success"
-    desc: "The creature is [[srd/pf2e/compendium/rules-elements/traits/gm-core/cursed|cursed]] for 1 round. While cursed, any spells that the creature casts gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] trait and have their damage type changed to fire damage, regardless of the original damage type or types of the spell. Additionally, any magical items that the cursed target holds or wields are affected in the same manner, such as changing the cold damage of a [[srd/pf2e/compendium/equipment/runes/frost-greater|_frost_]] rune to fire damage. The cursed creature can attempt to temporarily suppress the curse as an action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait. If the creature succeeds a DC 42 Will save, the curse is suppressed until the end of their turn."
+    desc: "The creature is [[srd/pf2e/compendium/rules-elements/traits/gm-core/cursed|cursed]] for 1 round. While cursed, any spells that the creature casts gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] trait and have their damage type changed to fire damage, regardless of the original damage type or types of the spell. Additionally, any magical items that the cursed target holds or wields are affected in the same manner, such as changing the cold damage of a [[srd/pf2e/compendium/equipment/runes/frost|_frost_]] rune to fire damage. The cursed creature can attempt to temporarily suppress the curse as an action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait. If the creature succeeds a DC 42 Will save, the curse is suppressed until the end of their turn."
   - name: "Failure"
     desc: "As success, but the curse's duration is 1 hour."
   - name: "Critical Failure"

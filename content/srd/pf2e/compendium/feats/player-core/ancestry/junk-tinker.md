@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/goblin
 - feat/level/1
 aliases: ["Junk Tinker"]
-aon_id: "feat-4444"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4444"
 source: "Player Core"
 ---
 

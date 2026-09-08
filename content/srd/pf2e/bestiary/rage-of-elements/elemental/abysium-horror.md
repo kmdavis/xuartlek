@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Abysium Horror"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Abysium Horror"
 level: 10
 source: "Rage of Elements"
-aon_id: "creature-2652"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2652"
 ---
 

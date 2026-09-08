@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
 - trait/magical
 - equipment/level/13
 aliases: ["Energy Adaptive"]
-aon_id: "equipment-1830"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1830"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -14,7 +13,7 @@ source: "Treasure Vault (Remastered)"
 
 `Magical`
 
-- **Price**: 2,600 gp
+- **Price**: 2, 600 gp
 - **Usage**: etched onto armor
 
 A complex pattern of protective symbols gives protection against various forms of energy, but only part of the runic structure can be active at a given time.

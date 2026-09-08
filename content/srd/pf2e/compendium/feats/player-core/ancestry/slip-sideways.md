@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/nephilim
 - feat/level/13
 aliases: ["Slip Sideways"]
-aon_id: "feat-4563"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4563"
 source: "Player Core"
 ---
 

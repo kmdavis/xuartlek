@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/gm-core
 - trait/expandable
 aliases: ["Expandable"]
-aon_id: "trait-475"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=475"
 source: "GM Core"
 ---
 

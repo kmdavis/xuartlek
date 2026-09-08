@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/thrown
 - weapon/level/0
 aliases: ["Harpoon"]
-aon_id: "weapon-336"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=336"
 source: "Treasure Vault (Remastered)"
 ---
 

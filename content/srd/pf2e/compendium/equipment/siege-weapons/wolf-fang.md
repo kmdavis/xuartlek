@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - siege-weapon/level/5
 aliases: ["Wolf Fang"]
-aon_id: "siege-weapon-68"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=68"
 source: "Battlecry!"
 ---
 

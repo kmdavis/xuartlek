@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/mental
 - spell/level/2
 aliases: ["Timely Tutor"]
-aon_id: "spell-2845"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2845"
 source: "Impossible Magic"
 ---
 

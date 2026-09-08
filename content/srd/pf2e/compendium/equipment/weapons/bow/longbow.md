@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/volley
 - weapon/level/0
 aliases: ["Longbow"]
-aon_id: "weapon-436"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=436"
 source: "Player Core"
 ---
 
@@ -15,7 +14,7 @@ source: "Player Core"
 
 `Deadly`  `Volley`
 
-- **Favored Weapon**: Breath of the Endless Sky, Cernunnos, Eiseth, Elion, Erastil, General Susumu, Hshurha, Isph-Aun-Vuln, Jukha, Ketephys, Phlegyas, Skode, Sky Keepers, Sovyrian Conclave, Ylimancha
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/covenants/breath-of-the-endless-sky|Breath of the Endless Sky]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/cernunnos|Cernunnos]], [[srd/pf2e/compendium/deities/queens-of-the-night/eiseth|Eiseth]], [[srd/pf2e/compendium/deities/azlanti-pantheon/elion|Elion]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/erastil|Erastil]], General Susumu, [[srd/pf2e/compendium/deities/elemental-lords/hshurha|Hshurha]], [[srd/pf2e/compendium/deities/qlippoth-lords/isph-aun-vuln|Isph-Aun-Vuln]], [[srd/pf2e/compendium/deities/orc-gods/jukha|Jukha]], [[srd/pf2e/compendium/deities/elven-gods/ketephys|Ketephys]], [[srd/pf2e/compendium/deities/monitor-demigods/phlegyas|Phlegyas]], [[srd/pf2e/compendium/deities/giant-gods/skode|Skode]], Sky Keepers, [[srd/pf2e/compendium/deities/pantheons/sovyrian-conclave|Sovyrian Conclave]], [[srd/pf2e/compendium/deities/empyreal-lords/ylimancha|Ylimancha]]
 - **Price**: 6 gp
 - **Damage**: 1d8 P
 - **Bulk**: 2

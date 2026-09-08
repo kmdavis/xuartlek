@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/battlecry
@@ -9,7 +8,7 @@ tags:
 - trait/trip
 - weapon/level/0
 aliases: ["Fauchard"]
-aon_id: "weapon-529"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=529"
 source: "Battlecry!"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/thrown
 - weapon/level/0
 aliases: ["Hatchet"]
-aon_id: "weapon-382"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=382"
 source: "Player Core"
 ---
 
@@ -16,7 +15,7 @@ source: "Player Core"
 
 `Agile`  `Sweep`  `Thrown`
 
-- **Favored Weapon**: Cormion, Immonhiel, Likha, Narriseminek
+- **Favored Weapon**: Cormion, Immonhiel, [[srd/pf2e/compendium/deities/vudrani-gods/likha|Likha]], [[srd/pf2e/compendium/deities/monitor-demigods/narriseminek|Narriseminek]]
 - **Price**: 4 sp
 - **Damage**: 1d6 S
 - **Bulk**: L

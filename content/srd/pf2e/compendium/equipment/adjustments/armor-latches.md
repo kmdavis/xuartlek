@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
 - trait/adjustment
 - equipment/level/1
 aliases: ["Armor Latches"]
-aon_id: "equipment-959"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1824"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -15,7 +14,8 @@ source: "Treasure Vault (Remastered)"
 `Adjustment`
 
 - **Price**: 4 gp
+- **Usage**: applied to armor
 
-This armor is easily doffed. A set of armor with armor latches gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/noisy|noisy]] trait. You cannot add armor latches to armor that already possesses the noisy trait. You can remove a set of armor with armor latches with a three-action activity, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] trait. This doesn't affect the time it takes to don the armor.
+This armor is easily doffed. A set of armor with armor latches gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/noisy|noisy]] trait; you can't add latches to armor that already possesses the noisy trait. You can remove a set of armor with armor latches with a 3-action activity, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] trait. This doesn't affect the time it takes to don the armor.
 
 *Source: Treasure Vault (Remastered) p. 11*

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/alchemist
 - feat/level/10
 aliases: ["Advanced Efficient Alchemy"]
-aon_id: "feat-5787"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5787"
 source: "Player Core 2"
 ---
 

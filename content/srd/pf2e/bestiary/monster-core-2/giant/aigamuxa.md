@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Aigamuxa"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Aigamuxa"
 level: 8
 source: "Monster Core 2"
-aon_id: "creature-4023"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4023"
 ---
 
@@ -75,7 +73,7 @@ abilities_bot:
   - name: "Requirements"
     desc: "A Small or smaller creature is [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] in the aigamuxa's claw"
   - name: "Effect"
-    desc: "The aigamuxa tosses the creature into the air and distends their jaw to catch it in their mouth. The target is grabbed in the aigamuxa's jaws, and the aigamuxa attempts to Swallow it Whole. If the aigamuxa fails the [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check, the target misses the aigamuxa's mouth and falls 30 feet instead of being grabbed. The First Aigamuxas Stories say aigamuxas were once giants who entered into a wager with Lamashtu, claiming they could stand on their hands longer than any other creature. Lamashtu produced a simple chimpanzee, pointed to its feet and called them hands. The giants couldn't hold their positions and fell. Lamashtu moved their eyes to their feet and told them, “If you wish to boast of your ability, let this be your blessing.”"
+    desc: "The aigamuxa tosses the creature into the air and distends their jaw to catch it in their mouth. The target is grabbed in the aigamuxa's jaws, and the aigamuxa attempts to Swallow it Whole. If the aigamuxa fails the [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check, the target misses the aigamuxa's mouth and falls 30 feet instead of being grabbed. The First Aigamuxas Stories say aigamuxas were once giants who entered into a wager with [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/lamashtu|Lamashtu]], claiming they could stand on their hands longer than any other creature. Lamashtu produced a simple chimpanzee, pointed to its feet and called them hands. The giants couldn't hold their positions and fell. Lamashtu moved their eyes to their feet and told them, “If you wish to boast of your ability, let this be your blessing.”"
 sourcebook: "_Monster Core 2_, page 21."
 ```
 

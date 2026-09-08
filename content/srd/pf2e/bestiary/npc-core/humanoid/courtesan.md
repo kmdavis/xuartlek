@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Courtesan"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Courtesan"
 level: 2
 source: "NPC Core"
-aon_id: "creature-3417"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3417"
 ---
 
@@ -40,7 +38,7 @@ abilities_top:
   - name: "Social Specialist"
     desc: "When entertaining or socializing, the courtesan is a 5th-level challenge."
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/clothing-desert|fine clothing]], [[srd/pf2e/compendium/equipment/adventuring-gear/musical-instrument-virtuoso-heavy|flute]], jewelry, [[srd/pf2e/compendium/equipment/assistive-items/cane|sword cane]]"
+    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/clothing|fine clothing]], [[srd/pf2e/compendium/equipment/adventuring-gear/musical-instrument|flute]], jewelry, [[srd/pf2e/compendium/equipment/assistive-items/cane|sword cane]]"
 ac: 17
 armorclass:
   - name: "AC"

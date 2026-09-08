@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -10,7 +9,7 @@ tags:
 - trait/wood
 - equipment/level/4
 aliases: ["Oak Potion"]
-aon_id: "equipment-2945"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2945"
 source: "GM Core"
 ---
 

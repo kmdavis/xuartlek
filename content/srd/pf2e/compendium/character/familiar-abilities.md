@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-familiar-ability
 tags:
 - compendium/src/pf2e/player-core
@@ -12,7 +11,7 @@ entries: 73
 
 # Familiar Abilities
 
-## Absorb Familiar  *Familiar Ability*
+## Absorb Familiar
 
 - **Ability Type**: Master
 
@@ -20,7 +19,7 @@ Your familiar can transform into a mark you carry on your flesh, typically seemi
 
 *Source: Player Core p. 214*
 
-## Accompanist  *Familiar Ability*
+## Accompanist
 
 - **Ability Type**: Familiar
 
@@ -28,7 +27,7 @@ Your familiar helps you perform. Whenever you attempt a [[srd/pf2e/compendium/ru
 
 *Source: Player Core p. 212*
 
-## Aeon Stone Reservoir  *Familiar Ability*
+## Aeon Stone Reservoir
 
 - **Ability Type**: Specific Familiar - Aeon Wyrd
 
@@ -36,7 +35,7 @@ Your aeon wyrd can house any aeon stone as a powerfully resonant nucleus that ho
 
 *Source: Player Core 2 p. 170*
 
-## Alchemical Gut  *Familiar Ability*
+## Alchemical Gut
 
 - **Ability Type**: Familiar
 
@@ -44,7 +43,7 @@ Your familiar can act as a [[srd/pf2e/compendium/equipment/alchemical-items/bomb
 
 *Source: Treasure Vault (Remastered) p. 51*
 
-## Amphibious  *Familiar Ability*
+## Amphibious
 
 - **Ability Type**: Familiar
 
@@ -52,7 +51,7 @@ Your familiar gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/
 
 *Source: Player Core p. 259*
 
-## Blood Link  *Familiar Ability*
+## Blood Link
 
 - **Ability Type**: Specific Familiar - Homunculus
 
@@ -60,7 +59,7 @@ Your familiar gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/
 
 *Source: Player Core 2 p. 171*
 
-## Burrower  *Familiar Ability*
+## Burrower
 
 - **Ability Type**: Familiar
 
@@ -68,7 +67,7 @@ Your familiar gains a burrow Speed of 5 feet, allowing it to dig Tiny holes.
 
 *Source: Player Core p. 259*
 
-## Can't Walk  *Familiar Ability*
+## Can't Walk
 
 - **Ability Type**: Specific Familiar - Aeon Wyrd
 
@@ -76,7 +75,7 @@ Your aeon wyrd has no land Speed.
 
 *Source: Player Core 2 p. 170*
 
-## Cantrip Connection  *Familiar Ability*
+## Cantrip Connection
 
 - **Ability Type**: Master
 
@@ -84,7 +83,7 @@ You can prepare an additional [[srd/pf2e/compendium/rules-elements/traits/player
 
 *Source: Player Core p. 214*
 
-## Climber  *Familiar Ability*
+## Climber
 
 - **Ability Type**: Familiar
 
@@ -92,7 +91,7 @@ Your familiar gains a climb Speed of 25 feet.
 
 *Source: Player Core p. 259*
 
-## Construct  *Familiar Ability*
+## Construct
 
 - **Ability Type**: Familiar
 
@@ -100,7 +99,7 @@ Your familiar has the [[srd/pf2e/compendium/rules-elements/traits/player-core/co
 
 *Source: Player Core p. 212*
 
-## Crystal Scent  *Familiar Ability*
+## Crystal Scent
 
 - **Ability Type**: Specific Familiar - Cullitox Shardling
 
@@ -108,7 +107,7 @@ A cullitox can sense crystals or gems within 60 feet as if using the scent abili
 
 *Source: Rage of Elements p. 42*
 
-## Crystalline  *Familiar Ability*
+## Crystalline
 
 - **Ability Type**: Specific Familiar - Aeon Wyrd
 
@@ -116,7 +115,7 @@ Your aeon wyrd's crystalline structure makes it vulnerable to sonic attacks. It 
 
 *Source: Player Core 2 p. 170*
 
-## Damage Avoidance  *Familiar Ability*
+## Damage Avoidance
 
 - **Ability Type**: Familiar
 
@@ -124,7 +123,7 @@ Choose one type of save. Your familiar takes no damage when it rolls a success o
 
 *Source: Player Core p. 212*
 
-## Darkvision  *Familiar Ability*
+## Darkvision
 
 - **Ability Type**: Familiar
 
@@ -132,7 +131,7 @@ Your familiar gains darkvision.
 
 *Source: Player Core p. 259*
 
-## Dragon  *Familiar Ability*
+## Dragon
 
 - **Ability Type**: Familiar
 
@@ -140,7 +139,7 @@ Your familiar has the [[srd/pf2e/compendium/rules-elements/traits/player-core/dr
 
 *Source: Player Core p. 212*
 
-## Echolocation  *Familiar Ability*
+## Echolocation
 
 - **Ability Type**: Familiar
 
@@ -148,7 +147,7 @@ Your familiar can use hearing as a precise sense within 20 feet.
 
 *Source: Player Core p. 259*
 
-## Elemental  *Familiar Ability*
+## Elemental
 
 - **Ability Type**: Familiar
 
@@ -156,7 +155,9 @@ Your familiar has the [[srd/pf2e/compendium/rules-elements/traits/player-core/el
 
 *Source: Player Core p. 212*
 
-## Elemental Breath  *Familiar Ability*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## Elemental Breath
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 - **Ability Type**: Specific Familiar - Elemental Scamp
 
@@ -164,7 +165,7 @@ The scamp breathes elemental matter in a 10-foot cone. Each creature in the area
 
 *Source: Rage of Elements p. 43*
 
-## Elemental Diplomat  *Familiar Ability*
+## Elemental Diplomat
 
 - **Ability Type**: Specific Familiar - Gennayn
 
@@ -172,7 +173,7 @@ A gennayn's modifier for [[srd/pf2e/compendium/rules-elements/skills/diplomacy|D
 
 *Source: Rage of Elements p. 43*
 
-## Elemental Mobility  *Familiar Ability*
+## Elemental Mobility
 
 - **Ability Type**: Specific Familiar - Elemental Wisp
 
@@ -180,7 +181,7 @@ Your wisp gains a familiar ability depending on its element. Air wisps gain flie
 
 *Source: Rage of Elements p. 43*
 
-## Elemental Mobility  *Familiar Ability*
+## Elemental Mobility
 
 - **Ability Type**: Specific Familiar - Gennayn
 
@@ -188,7 +189,7 @@ Your gennayn gains a familiar ability depending on its element. Air gennayns gai
 
 *Source: Rage of Elements p. 43*
 
-## Elemental Mobility  *Familiar Ability*
+## Elemental Mobility
 
 - **Ability Type**: Specific Familiar - Elemental Scamp
 
@@ -196,7 +197,9 @@ Your scamp gains a familiar ability depending on its element. Air scamps gain fl
 
 *Source: Rage of Elements p. 43*
 
-## Emote  *Familiar Ability*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Emote
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 - **Ability Type**: Specific Familiar - Mood Cloud
 
@@ -204,7 +207,9 @@ The cloud of sentiment changes the expression on its miniature face. It prepares
 
 *Source: Rage of Elements p. 42*
 
-## Euphoric Breath  *Familiar Ability*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## Euphoric Breath
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 - **Ability Type**: Specific Familiar - Fey Dragonet
 
@@ -212,7 +217,7 @@ The cloud of sentiment changes the expression on its miniature face. It prepares
 
 *Source: Player Core 2 p. 170*
 
-## Extra Alchemy  *Familiar Ability*
+## Extra Alchemy
 
 - **Ability Type**: Master
 
@@ -220,7 +225,7 @@ Your familiar helps you brew items at the start of the day. You can create one a
 
 *Source: Player Core 2 p. 170*
 
-## Extra Vial  *Familiar Ability*
+## Extra Vial
 
 - **Ability Type**: Master
 
@@ -228,7 +233,7 @@ Your familiar accretes alchemical liquids in its body. Once per day, you can Int
 
 *Source: Player Core 2 p. 170*
 
-## Familiar Focus  *Familiar Ability*
+## Familiar Focus
 
 - **Ability Type**: Master
 
@@ -236,7 +241,7 @@ Once per day, your familiar can use 2 actions with the [[srd/pf2e/compendium/rul
 
 *Source: Player Core p. 214*
 
-## Fast Movement  *Familiar Ability*
+## Fast Movement
 
 - **Ability Type**: Familiar
 
@@ -244,7 +249,9 @@ Increase one of your familiar's Speeds from 25 feet to 40 feet.
 
 *Source: Player Core p. 259*
 
-## Fiendish Temptation  *Familiar Ability*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Fiendish Temptation
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 - **Ability Type**: Specific Familiar - Imp
 
@@ -252,7 +259,7 @@ Increase one of your familiar's Speeds from 25 feet to 40 feet.
 
 *Source: Player Core 2 p. 171*
 
-## Flammable  *Familiar Ability*
+## Flammable
 
 - **Ability Type**: Specific Familiar - Poppet
 
@@ -260,7 +267,7 @@ Your poppet’s components make it particularly vulnerable to fire. It gains wea
 
 *Source: Player Core 2 p. 171*
 
-## Flier  *Familiar Ability*
+## Flier
 
 - **Ability Type**: Familiar
 
@@ -268,7 +275,7 @@ Your familiar gains a fly Speed of 25 feet.
 
 *Source: Player Core p. 259*
 
-## Focused Rejuvenation  *Familiar Ability*
+## Focused Rejuvenation
 
 - **Ability Type**: Familiar
 
@@ -276,7 +283,7 @@ When you Refocus, you generate magical energy that heals your familiar. Your fam
 
 *Source: Player Core p. 212*
 
-## Fungus  *Familiar Ability*
+## Fungus
 
 - **Ability Type**: Familiar
 
@@ -284,7 +291,7 @@ Your familiar has the [[srd/pf2e/compendium/rules-elements/traits/player-core/fu
 
 *Source: Player Core p. 212*
 
-## Imp Invisibility  *Familiar Ability*
+## Imp Invisibility
 
 - **Ability Type**: Specific Familiar - Imp
 
@@ -292,7 +299,7 @@ Once per hour, your imp familiar can cast invisibility on itself as a divine inn
 
 *Source: Player Core 2 p. 171*
 
-## Independent  *Familiar Ability*
+## Independent
 
 - **Ability Type**: Familiar
 
@@ -300,7 +307,7 @@ In an encounter, if you don't Command your familiar, it still gains 1 action eac
 
 *Source: Player Core p. 212*
 
-## Innate Element  *Familiar Ability*
+## Innate Element
 
 - **Ability Type**: Specific Familiar - Elemental Wisp
 
@@ -308,7 +315,7 @@ An elemental wisp's element is set. You choose the element when you gain the spe
 
 *Source: Rage of Elements p. 43*
 
-## Innate Surge  *Familiar Ability*
+## Innate Surge
 
 - **Ability Type**: Master
 
@@ -316,7 +323,7 @@ Once per day, you can draw upon your familiar's innate magic to replenish your o
 
 *Source: Player Core p. 214*
 
-## Item Delivery  *Familiar Ability*
+## Item Delivery
 
 - **Ability Type**: Familiar
 
@@ -325,7 +332,7 @@ ability to select this.
 
 *Source: Player Core 2 p. 170*
 
-## Jet  *Familiar Ability*
+## Jet
 
 - **Ability Type**: Familiar
 
@@ -333,7 +340,7 @@ Your familiar can use bursts of elemental energy or magic to Leap up to 30 feet 
 
 *Source: Rage of Elements p. 42*
 
-## Kinspeech  *Familiar Ability*
+## Kinspeech
 
 - **Ability Type**: Familiar
 
@@ -341,7 +348,7 @@ Your familiar can understand and speak with animals of the same species. To sele
 
 *Source: Player Core p. 212*
 
-## Levitator  *Familiar Ability*
+## Levitator
 
 - **Ability Type**: Familiar
 
@@ -349,7 +356,7 @@ Using magnetism, magic, or other forces, your familiar can float up to 3 feet ab
 
 *Source: Rage of Elements p. 42*
 
-## Lifelink  *Familiar Ability*
+## Lifelink
 
 - **Ability Type**: Master
 
@@ -357,7 +364,9 @@ If your familiar would be reduced to 0 HP by damage, as a reaction with the [[sr
 
 *Source: Player Core p. 214*
 
-## Little Wish  *Familiar Ability*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
+## Little Wish
+
+[<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
 
 - **Ability Type**: Specific Familiar - Gennayn
 
@@ -365,7 +374,7 @@ If your familiar would be reduced to 0 HP by damage, as a reaction with the [[sr
 
 *Source: Rage of Elements p. 43*
 
-## Magic Scent  *Familiar Ability*
+## Magic Scent
 
 - **Ability Type**: Specific Familiar - Spellslime
 
@@ -373,7 +382,7 @@ Your spellslime familiar gains an imprecise sense with a range of 30 feet that e
 
 *Source: Player Core 2 p. 171*
 
-## Major Resistance  *Familiar Ability*
+## Major Resistance
 
 - **Ability Type**: Familiar
 
@@ -381,7 +390,7 @@ Your familiar increases the resistance it gains from its resistance familiar abi
 
 *Source: Player Core p. 213*
 
-## Manual Dexterity  *Familiar Ability*
+## Manual Dexterity
 
 - **Ability Type**: Familiar
 
@@ -389,7 +398,7 @@ Your familiar can use up to two of its limbs as if they were hands to perform [[
 
 *Source: Player Core p. 259*
 
-## Master's Form  *Familiar Ability*
+## Master's Form
 
 - **Ability Type**: Familiar
 
@@ -397,7 +406,7 @@ Your familiar can change shape as a single action, transforming into a [[srd/pf2
 
 *Source: Player Core p. 213*
 
-## Ooze Defense  *Familiar Ability*
+## Ooze Defense
 
 - **Ability Type**: Specific Familiar - Spellslime
 
@@ -405,7 +414,7 @@ Your spellslime familiar is easy to hit, but it lacks weak points. It is immune 
 
 *Source: Player Core 2 p. 171*
 
-## Partner in Crime  *Familiar Ability*
+## Partner in Crime
 
 - **Ability Type**: Familiar
 
@@ -413,7 +422,7 @@ Your familiar is your criminal associate. Despite being a minion, your familiar 
 
 *Source: Player Core p. 213*
 
-## Plant  *Familiar Ability*
+## Plant
 
 - **Ability Type**: Familiar
 
@@ -421,7 +430,7 @@ Your familiar has the [[srd/pf2e/compendium/rules-elements/traits/player-core/pl
 
 *Source: Player Core p. 213*
 
-## Plant Form  *Familiar Ability*
+## Plant Form
 
 - **Ability Type**: Familiar
 
@@ -429,7 +438,7 @@ Your plant familiar can change shape as a single action, transforming into a Tin
 
 *Source: Player Core p. 213*
 
-## Poison Reservoir  *Familiar Ability*
+## Poison Reservoir
 
 - **Ability Type**: Familiar
 
@@ -437,7 +446,7 @@ Your familiar has a reservoir for poison, allowing it to apply an injury poison 
 
 *Source: Player Core 2 p. 170*
 
-## Porter  *Familiar Ability*
+## Porter
 
 - **Ability Type**: Specific Familiar - Homunculus
 
@@ -445,7 +454,7 @@ You can choose for your homunculus to have either [[srd/pf2e/compendium/characte
 
 *Source: Player Core 2 p. 171*
 
-## Recall Familiar  *Familiar Ability*
+## Recall Familiar
 
 - **Ability Type**: Master
 
@@ -453,7 +462,7 @@ Once per day, you can use a 3-action activity, which has the [[srd/pf2e/compendi
 
 *Source: Player Core p. 214*
 
-## Resistance  *Familiar Ability*
+## Resistance
 
 - **Ability Type**: Familiar
 
@@ -461,7 +470,7 @@ Choose two of the following: acid, cold, electricity, fire, poison, or sonic. Yo
 
 *Source: Player Core p. 213*
 
-## Resonance  *Familiar Ability*
+## Resonance
 
 - **Ability Type**: Specific Familiar - Elemental Wisp
 
@@ -469,7 +478,7 @@ Choose two of the following: acid, cold, electricity, fire, poison, or sonic. Yo
 
 *Source: Rage of Elements p. 43*
 
-## Restorative Familiar  *Familiar Ability*
+## Restorative Familiar
 
 - **Ability Type**: Master
 
@@ -477,7 +486,7 @@ Once per day, your familiar can use 2 actions with the [[srd/pf2e/compendium/rul
 
 *Source: Player Core p. 214*
 
-## Scamp Elements  *Familiar Ability*
+## Scamp Elements
 
 - **Ability Type**: Specific Familiar - Elemental Scamp
 
@@ -485,7 +494,7 @@ An elemental scamp's element or elements are set. You choose a type of scamp and
 
 *Source: Rage of Elements p. 43*
 
-## Scent  *Familiar Ability*
+## Scent
 
 - **Ability Type**: Familiar
 
@@ -493,7 +502,7 @@ Your familiar can use scent as an imprecise sense within 30 feet
 
 *Source: Player Core p. 259*
 
-## Scholarly Linguist  *Familiar Ability*
+## Scholarly Linguist
 
 - **Ability Type**: Specific Familiar - Pipefox
 
@@ -501,7 +510,7 @@ Thanks to its innate erudition, your pipefox speaks and understands all language
 
 *Source: Player Core 2 p. 171*
 
-## Second Opinion  *Familiar Ability*
+## Second Opinion
 
 - **Ability Type**: Familiar
 
@@ -509,7 +518,7 @@ Your familiar is your academic confidant. Despite being a minion, your familiar 
 
 *Source: Player Core 2 p. 170*
 
-## Share Senses  *Familiar Ability*
+## Share Senses
 
 - **Ability Type**: Master
 
@@ -517,7 +526,7 @@ Once every 10 minutes, you can use a single action with the [[srd/pf2e/compendiu
 
 *Source: Player Core p. 214*
 
-## Skilled  *Familiar Ability*
+## Skilled
 
 - **Ability Type**: Familiar
 
@@ -525,7 +534,7 @@ Choose a skill other than [[srd/pf2e/compendium/rules-elements/skills/acrobatics
 
 *Source: Player Core p. 213*
 
-## Slime Rejuvenation  *Familiar Ability*
+## Slime Rejuvenation
 
 - **Ability Type**: Specific Familiar - Spellslime
 
@@ -533,7 +542,7 @@ Your spellslime familiar gains the focused rejuvenation ability, but it recovers
 
 *Source: Player Core 2 p. 171*
 
-## Speech  *Familiar Ability*
+## Speech
 
 - **Ability Type**: Familiar
 
@@ -541,7 +550,7 @@ Your familiar understands and speaks a language you know.
 
 *Source: Player Core p. 213*
 
-## Spell Battery  *Familiar Ability*
+## Spell Battery
 
 - **Ability Type**: Master
 
@@ -549,7 +558,7 @@ You gain one additional spell slot at least 3 ranks lower than your highest-rank
 
 *Source: Player Core p. 214*
 
-## Spell Delivery  *Familiar Ability*
+## Spell Delivery
 
 - **Ability Type**: Master
 
@@ -557,7 +566,7 @@ If your familiar is in your space, you can cast a spell with a range of touch, t
 
 *Source: Player Core p. 214*
 
-## Spellcasting  *Familiar Ability*
+## Spellcasting
 
 - **Ability Type**: Familiar
 
@@ -565,7 +574,7 @@ Choose a spell in your repertoire or that you prepared today at least 5 ranks lo
 
 *Source: Player Core p. 213*
 
-## Toolbearer  *Familiar Ability*
+## Toolbearer
 
 - **Ability Type**: Familiar
 
@@ -573,7 +582,7 @@ Your familiar can carry a toolkit of up to light Bulk. So long as your familiar 
 
 *Source: Player Core p. 213*
 
-## Touch Telepathy  *Familiar Ability*
+## Touch Telepathy
 
 - **Ability Type**: Familiar
 
@@ -581,7 +590,7 @@ Your familiar can telepathically communicate with you via touch. If it also has 
 
 *Source: Player Core p. 213*
 
-## Tough  *Familiar Ability*
+## Tough
 
 - **Ability Type**: Familiar
 
@@ -589,7 +598,7 @@ Your familiar's max HP increase by 2 per level.
 
 *Source: Player Core p. 259*
 
-## Valet  *Familiar Ability*
+## Valet
 
 - **Ability Type**: Familiar
 

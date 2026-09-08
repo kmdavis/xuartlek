@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
 - trait/uncommon
 - equipment/level/8
 aliases: ["Duskwood Shield"]
-aon_id: "equipment-2815"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2815"
 source: "GM Core"
 ---
 
@@ -15,7 +14,7 @@ source: "GM Core"
 `Uncommon`
 
 - **Usage**: varies by shield
-- **Base Material**: [[srd/pf2e/compendium/equipment/materials/duskwood-object-high-grade|Duskwood]]
+- **Base Material**: [[srd/pf2e/compendium/equipment/materials/duskwood|Duskwood]]
 
 Duskwood shields are 1 Bulk lighter than normal (or light Bulk if their normal Bulk is 1, with no effect on a shield that normally has light Bulk).
 

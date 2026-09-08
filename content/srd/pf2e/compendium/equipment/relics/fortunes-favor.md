@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -10,7 +9,7 @@ tags:
 - trait/unique
 - equipment/level/3
 aliases: ["Fortune's Favor"]
-aon_id: "equipment-2406"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2406"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -20,7 +19,7 @@ source: "Treasure Vault (Remastered)"
 
 - **Usage**: worn
 
-Blessed by Nivi Rhombodazzle, this striking silver necklace is adorned with sparkling sapphires that draw the eye of any who see it. Over the years, this necklace has appeared in many paintings and illustrations, usually around the neck of a carefree and daring adventurer or a stylish rake gambling vast sums of coin. Finding this relic is always seen as a sign of great fortune to come, but when that luck runs out, the necklace is lost just as quickly. Wearing the relic, you quickly realize how distracting it can be, granting you a +1 item bonus on [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] checks made to Feint and on Games Lore checks made to gamble or determine the outcome of a game of chance.
+Blessed by [[srd/pf2e/compendium/deities/other-gods/nivi-rhombodazzle|Nivi Rhombodazzle]], this striking silver necklace is adorned with sparkling sapphires that draw the eye of any who see it. Over the years, this necklace has appeared in many paintings and illustrations, usually around the neck of a carefree and daring adventurer or a stylish rake gambling vast sums of coin. Finding this relic is always seen as a sign of great fortune to come, but when that luck runs out, the necklace is lost just as quickly. Wearing the relic, you quickly realize how distracting it can be, granting you a +1 item bonus on [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] checks made to Feint and on Games Lore checks made to gamble or determine the outcome of a game of chance.
 
 ---
 

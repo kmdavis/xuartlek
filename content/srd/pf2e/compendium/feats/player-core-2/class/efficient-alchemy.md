@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/alchemist
 - feat/level/4
 aliases: ["Efficient Alchemy"]
-aon_id: "feat-5771"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5771"
 source: "Player Core 2"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core 2"
 
 Thanks to the time you've spent studying and experimenting, you know how to scale your formulas into larger batches that don't require any additional attention. Increase the number of items you can create each day with advanced alchemy to 6 + your Intelligence modifier.
 
- In addition, when you [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]] alchemical consumables during downtime, you can produce twice as many alchemical items in a single batch without spending additional preparatory time. For instance, if you are creating [[srd/pf2e/compendium/equipment/alchemical-items/elixir-of-life-true|elixirs of life]], you can craft up to eight elixirs in a single batch using downtime, rather than four. This doesn't change the amount of alchemical reagents or other ingredients required to craft each item, nor does it change your rate of progress for days past the base downtime spent.
+ In addition, when you [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]] alchemical consumables during downtime, you can produce twice as many alchemical items in a single batch without spending additional preparatory time. For instance, if you are creating [[srd/pf2e/compendium/equipment/alchemical-items/elixir-of-life|elixirs of life]], you can craft up to eight elixirs in a single batch using downtime, rather than four. This doesn't change the amount of alchemical reagents or other ingredients required to craft each item, nor does it change your rate of progress for days past the base downtime spent.
 
 ### Efficient Alchemy leads to...
 

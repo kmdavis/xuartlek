@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/spirit
 - spell/level/7
 aliases: ["Divine Decree"]
-aon_id: "spell-1495"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1495"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Sanctified`  `Spirit`
 
 - **Tradition**: Divine
-- **Bloodlines**: Angelic, Demonic, Diabolic
+- **Bloodlines**: [[srd/pf2e/compendium/character/bloodlines#Angelic|Angelic]], [[srd/pf2e/compendium/character/bloodlines#Demonic|Demonic]], [[srd/pf2e/compendium/character/bloodlines#Diabolic|Diabolic]]
 - **Area**: 40-foot emanation
 - **Defense**: Fortitude
 - **Duration**: varies

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - equipment/level/17
 aliases: ["Hungering Maw"]
-aon_id: "equipment-2109"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2109"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -17,7 +16,7 @@ source: "Treasure Vault (Remastered)"
 
 `Consumable`  `Magical`  `Talisman`  `Uncommon`
 
-- **Price**: 2,200 gp
+- **Price**: 2, 200 gp
 - **Usage**: affixed to armor
 - **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 - **Trigger**: You attempt a saving throw against a [[srd/pf2e/compendium/rules-elements/traits/player-core/possession|possession]] effect

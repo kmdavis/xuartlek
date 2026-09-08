@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 - trait/psychic
 - feat/level/14
 aliases: ["Deep Roots"]
-aon_id: "feat-8341"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8341"
 source: "Dark Archives (Remastered)"
 ---
 

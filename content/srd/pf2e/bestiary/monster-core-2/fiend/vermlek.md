@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Vermlek"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Vermlek"
 level: 3
 source: "Monster Core 2"
-aon_id: "creature-4317"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4317"
 ---
 
@@ -46,7 +44,7 @@ armorclass:
 hp: 55
 health:
   - name: "HP"
-    desc: "55; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/sonic|sonic]] 5"
+    desc: "55; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/sonic|sonic]] 5"
 abilities_mid:
   - name: "Recoil from Wasted Opportunities"
     desc: "Vermleks can't stand the sight of a good meal presented and then swiftly taken away. Whenever a [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]] creature within sight of the vermlek has its dying condition removed, the vermlek takes 1d6 mental damage."

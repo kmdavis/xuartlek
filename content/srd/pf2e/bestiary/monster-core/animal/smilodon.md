@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Smilodon"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Smilodon"
 level: 6
 source: "Monster Core"
-aon_id: "creature-2868"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2868"
 ---
 

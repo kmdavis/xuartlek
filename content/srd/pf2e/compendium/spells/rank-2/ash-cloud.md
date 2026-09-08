@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -9,7 +8,7 @@ tags:
 - trait/manipulate
 - spell/level/2
 aliases: ["Ash Cloud"]
-aon_id: "spell-2633"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2633"
 source: "Impossible Magic"
 ---
 
@@ -18,7 +17,7 @@ source: "Impossible Magic"
 `Air`  `Concentrate`  `Fire`  `Manipulate`
 
 - **Traditions**: Arcane, Primal
-- **Deity**: Mhar
+- **Deity**: [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/mhar|Mhar]]
 - **Range**: 120 feet
 - **Area**: 20-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]]
 - **Defense**: Fortitude

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/8
 aliases: ["Summon Elemental Herald"]
-aon_id: "spell-1423"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1423"
 source: "Rage of Elements"
 ---
 

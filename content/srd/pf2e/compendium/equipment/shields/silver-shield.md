@@ -1,18 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
 - equipment/level/2
 aliases: ["Silver Shield"]
-aon_id: "equipment-2817"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2817"
 source: "GM Core"
 ---
 
 # Silver Shield  *Item 2+*
 
 - **Usage**: varies by shield
-- **Base Material**: [[srd/pf2e/compendium/equipment/materials/silver-object-high-grade|Silver]]
+- **Base Material**: [[srd/pf2e/compendium/equipment/materials/silver|Silver]]
 
 Silver shields don't typically have an additional effect, though when used for a shield bash, they're silver weapons.
 

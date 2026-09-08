@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/metamagic
 - feat/level/8
 aliases: ["Call and Response"]
-aon_id: "feat-4604"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4604"
 source: "Player Core"
 ---
 

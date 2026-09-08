@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-adjustment
 tags:
 - compendium/src/pf2e/war-of-immortals
 aliases: ["Mythic Brute"]
-aon_id: "creature-adjustment-32"
+aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=32"
 source: "War of Immortals"
 ---
 

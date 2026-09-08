@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Rift Chameleon"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Rift Chameleon"
 level: 3
 source: "Howl of the Wild"
-aon_id: "creature-3271"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3271"
 ---
 

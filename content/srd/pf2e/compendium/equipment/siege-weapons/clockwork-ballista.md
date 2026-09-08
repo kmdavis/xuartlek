@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/rare
 - siege-weapon/level/12
 aliases: ["Clockwork Ballista"]
-aon_id: "siege-weapon-42"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=42"
 source: "Battlecry!"
 ---
 
@@ -15,7 +14,7 @@ source: "Battlecry!"
 
 `Mounted`  `Rare`
 
-- **Price**: 4,000 gp
+- **Price**: 4, 000 gp
 - **Ammunition**: clockwork ballista bolt (30 gp, 3 Bulk)
 
 **Usage** mounted

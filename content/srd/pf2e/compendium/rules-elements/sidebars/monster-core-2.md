@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-sidebar
 tags:
 - compendium/src/pf2e/monster-core-2
@@ -9,7 +8,7 @@ entries: 1
 
 # Sidebars: Monster Core 2
 
-## Custom Contracts  *Sidebar*
+## Custom Contracts
 
 - **Parent page**: Hellbound Creatures
 

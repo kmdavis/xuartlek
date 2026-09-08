@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Goblin Rabble"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Goblin Rabble"
 level: 4
 source: "Battlecry!"
-aon_id: "creature-3920"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3920"
 ---
 

@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core
 aliases: ["Demon"]
-aon_id: "creature-family-387"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=387"
 source: "Monster Core"
 ---
 
@@ -20,7 +19,7 @@ When a sinful mortal soul is judged and sent on to the [[srd/pf2e/compendium/gm/
 
 ### Demonic Deities
 
-The most powerful demons are known as demon lords (the term is gender neutral in this case). Of these divinities, Lamashtu is the most powerful. Countless other demon lords exist, including Abraxas, Cyth-V'sug, Kabriri, and Zura.
+The most powerful demons are known as demon lords (the term is gender neutral in this case). Of these divinities, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/lamashtu|Lamashtu]] is the most powerful. Countless other demon lords exist, including [[srd/pf2e/compendium/deities/demon-lords/abraxas|Abraxas]], Cyth-V'sug, [[srd/pf2e/compendium/deities/demon-lords/kabriri|Kabriri]], and Zura.
 
 ### Demonic Sources
 

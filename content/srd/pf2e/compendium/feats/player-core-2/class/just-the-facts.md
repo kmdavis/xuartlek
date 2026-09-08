@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/investigator
 - feat/level/20
 aliases: ["Just the Facts"]
-aon_id: "feat-5975"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5975"
 source: "Player Core 2"
 ---
 

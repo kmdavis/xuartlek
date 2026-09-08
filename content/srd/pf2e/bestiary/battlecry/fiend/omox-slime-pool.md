@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Omox Slime Pool"
 tags:
@@ -14,7 +13,6 @@ statblock: inline
 name: "Omox Slime Pool"
 level: 17
 source: "Battlecry!"
-aon_id: "creature-3930"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3930"
 ---
 
@@ -50,7 +48,7 @@ armorclass:
 hp: 315
 health:
   - name: "HP"
-    desc: "315 (4 segments); __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]], critical hits, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], precision; __Weaknesses__ area damage 15, [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 15, [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 15, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 15"
+    desc: "315 (4 segments); __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]], critical hits, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], precision; __Weaknesses__ area damage 15, [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 15, [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 15, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 15"
 abilities_mid:
   - name: "Absorb Weapon"
     desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])"

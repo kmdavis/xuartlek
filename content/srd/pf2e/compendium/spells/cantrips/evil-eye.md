@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -11,7 +10,7 @@ tags:
 - trait/witch
 - spell/level/1
 aliases: ["Evil Eye"]
-aon_id: "spell-1889"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1889"
 source: "Player Core"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core"
 
 `Cantrip`  `Curse`  `Hex`  `Manipulate`  `Uncommon`  `Witch`
 
-- **Patron Theme**: The Resentment
+- **Patron Theme**: [[srd/pf2e/compendium/character/patrons#The Resentment|The Resentment]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will

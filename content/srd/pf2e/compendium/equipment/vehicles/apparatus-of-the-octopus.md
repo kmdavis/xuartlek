@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/uncommon
 - vehicle/level/11
 aliases: ["Apparatus of the Octopus"]
-aon_id: "vehicle-32"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=32"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -14,7 +13,7 @@ source: "Guns & Gears (Remastered)"
 
 `Uncommon`
 
-- **Price**: 4,000 gp
+- **Price**: 4, 000 gp
 
 This apparatus, which is shaped like an octopus (or more rarely, a squid or other aquatic creature), uses almost entirely magical propulsion. Clockwork parts make up the controls and mechanisms to improve some of the functionality, but magic moves the vehicles' cogs and gears. While it needs only a pilot, it can optionally hold a second crew member, which can be useful if the second crew member controls the apparatus's hands or eyes.
 

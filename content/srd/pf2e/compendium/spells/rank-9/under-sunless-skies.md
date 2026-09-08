@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -10,7 +9,7 @@ tags:
 - trait/unique
 - spell/level/9
 aliases: ["Under Sunless Skies"]
-aon_id: "spell-2873"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2873"
 source: "Impossible Magic"
 ---
 
@@ -19,7 +18,7 @@ source: "Impossible Magic"
 `Concentrate`  `Darkness`  `Impossible`  `Manipulate`  `Unique`
 
 - **Traditions**: Arcane, Divine, Occult
-- **Cost**: obsidian and sunstone from the Darklands worth 25,000 gp each
+- **Cost**: obsidian and sunstone from the Darklands worth 25, 000 gp each
 - **Area**: 1-mile [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]] centered on you
 - **Duration**: 1 minute
 

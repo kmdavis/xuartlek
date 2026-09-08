@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/lizardfolk
 - feat/level/17
 aliases: ["Fossil Rider"]
-aon_id: "feat-5649"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5649"
 source: "Player Core 2"
 ---
 

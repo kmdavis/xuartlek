@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/uncommon
 - weapon/level/0
 aliases: ["Repeating Heavy Crossbow Magazine"]
-aon_id: "weapon-183"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=183"
 source: "Guns & Gears (Remastered)"
 ---
 

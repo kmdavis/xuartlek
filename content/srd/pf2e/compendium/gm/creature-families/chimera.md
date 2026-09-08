@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 aliases: ["Chimera"]
-aon_id: "creature-family-489"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=489"
 source: "Howl of the Wild"
 ---
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/magical
 - equipment/level/3
 aliases: ["Twisting Twine"]
-aon_id: "equipment-3419"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3419"
 source: "Player Core 2"
 ---
 

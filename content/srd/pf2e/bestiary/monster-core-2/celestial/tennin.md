@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Tennin"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Tennin"
 level: 9
 source: "Monster Core 2"
-aon_id: "creature-4029"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4029"
 ---
 
@@ -44,7 +42,7 @@ abilities_top:
   - name: "Secrets of Immortality"
     desc: "The tennin can use [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] instead of [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] to [[srd/pf2e/compendium/rules-elements/actions/player-core#Administer First Aid|Administer First Aid]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Disease|Treat Disease]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Poison|Treat Poison]], and [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Wounds|Treat Wounds]]."
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/artifacts/flawless-celestial-shawl|_flawless celestial shawl_]], _[[srd/pf2e/compendium/equipment/worn-items/handwraps-of-mighty-blows-3-major-striking|+1 striking handwraps of mighty blows]]_"
+    desc: "[[srd/pf2e/compendium/equipment/artifacts/flawless-celestial-shawl|_flawless celestial shawl_]], _[[srd/pf2e/compendium/equipment/worn-items/handwraps-of-mighty-blows|+1 striking handwraps of mighty blows]]_"
 ac: 27
 armorclass:
   - name: "AC"

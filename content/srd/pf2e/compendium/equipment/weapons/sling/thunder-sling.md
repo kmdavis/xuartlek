@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - weapon/level/0
 aliases: ["Thunder Sling"]
-aon_id: "weapon-147"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=343"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -27,7 +26,7 @@ source: "Treasure Vault (Remastered)"
 - **Category**: Martial
 - **Group**: Sling
 
-[[srd/pf2e/compendium/character/ancestries/tengu|Tengu]] use these specialized slings to fire darts further and with greater force than when thrown by hand, which is particularly effective when attacking from great heights. A thunder sling uses darts as ammunition. It can also hurl blowgun darts as ammunition but deals 1d4 piercing damage instead of 1d6 when used this way.
+[[srd/pf2e/compendium/character/ancestries/tengu|Tengu]] use these specialized slings to fire darts further and with greater force than when thrown by hand. A thunder sling uses darts as ammunition. It can also hurl blowgun darts as ammunition but deals 1d4 piercing damage instead of 1d6 when used this way.
 
 ### Critical Specialization Effects
 

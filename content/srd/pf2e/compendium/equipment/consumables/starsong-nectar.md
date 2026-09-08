@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -10,7 +9,7 @@ tags:
 - trait/rare
 - equipment/level/20
 aliases: ["Starsong Nectar"]
-aon_id: "equipment-2093"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2093"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -18,7 +17,7 @@ source: "Treasure Vault (Remastered)"
 
 `Consumable`  `Fortune`  `Magical`  `Potion`  `Rare`
 
-- **Price**: 14,000 gp
+- **Price**: 14, 000 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
 - **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])

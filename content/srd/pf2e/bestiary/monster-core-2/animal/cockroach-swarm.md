@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Cockroach Swarm"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Cockroach Swarm"
 level: 2
 source: "Monster Core 2"
-aon_id: "creature-4301"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4301"
 ---
 

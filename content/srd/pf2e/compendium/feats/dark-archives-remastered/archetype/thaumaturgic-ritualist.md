@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - feat/level/4
 aliases: ["Thaumaturgic Ritualist"]
-aon_id: "feat-8366"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8366"
 source: "Dark Archives (Remastered)"
 ---
 
@@ -15,7 +14,7 @@ source: "Dark Archives (Remastered)"
 
 `Thaumaturge`  `Uncommon`
 
-- **Archetype**: Palatine Detective (Level 6)
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/palatine-detective|Palatine Detective]] (Level 6)
 
 Your studies into the supernatural have resulted in an especially strong knowledge of rituals. You gain a +2 circumstance bonus to all primary checks to perform a ritual. You learn two uncommon rituals with a rank no higher than half your level; you must meet all prerequisites for casting the ritual to choose it. You can cast these as the primary caster, but you can't teach them to anyone else or allow someone else to serve as primary caster unless they know the ritual as well.
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Weremoose"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Weremoose"
 level: 3
 source: "Howl of the Wild"
-aon_id: "creature-3323"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3323"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -13,7 +12,7 @@ tags:
 - trait/versatile
 - weapon/level/0
 aliases: ["Feng Huo Lun"]
-aon_id: "weapon-283"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=283"
 source: "Treasure Vault (Remastered)"
 ---
 

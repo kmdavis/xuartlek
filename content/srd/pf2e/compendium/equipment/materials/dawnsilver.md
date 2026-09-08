@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - equipment/level/8
 aliases: ["Dawnsilver"]
-aon_id: "equipment-2917"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2917"
 source: "GM Core"
 ---
 
@@ -23,11 +22,11 @@ Dawnsilver is renowned for its lightness, durability, and effectiveness against 
 
 #### Material Uses
 
-[[srd/pf2e/compendium/equipment/armor/dawnsilver-armor-high-grade|Dawnsilver Armor]]
+[[srd/pf2e/compendium/equipment/armor/dawnsilver-armor|Dawnsilver Armor]]
 
-[[srd/pf2e/compendium/equipment/shields/dawnsilver-shield-high-grade|Dawnsilver Shield]]
+[[srd/pf2e/compendium/equipment/shields/dawnsilver-shield|Dawnsilver Shield]]
 
-[[srd/pf2e/compendium/equipment/weapons/dawnsilver-weapon-high-grade|Dawnsilver Weapon]]
+[[srd/pf2e/compendium/equipment/weapons/dawnsilver-weapon|Dawnsilver Weapon]]
 
 ### Dawnsilver Chunk
 

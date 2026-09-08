@@ -39,6 +39,7 @@ LINKS: LinkMap | None = None
 STATS = {"resolved": 0, "dropped": 0}
 
 ES = "https://elasticsearch.aonprd.com/aon/_search"
+AON = "https://2e.aonprd.com"
 BOOK_ABBR = {b.lower(): c for b, c in REMASTER_RULEBOOKS.items()}
 
 # Categories handled elsewhere or not worth a note of their own.
@@ -321,6 +322,16 @@ def destination(d: dict, root: Path, class_index: dict[str, str],
     cat = d.get("category", "")
     src_slug = slugify(d.get("__source__", "") or "unknown")
 
+    if cat == "deity":
+        # A note each, grouped by AoN's own deity_category. Deities are heavy
+        # link targets -- a great deal of PF2e is gated on worshipping a
+        # specific god -- and a relabelled setting pantheon needs one stable
+        # page per god to point at.
+        group = d.get("deity_category") or "other-gods"
+        if isinstance(group, list):
+            group = group[0] if group else "other-gods"
+        return root / "deities" / slugify(group) / f"{slugify(d.get('name',''))}.md", None
+
     if cat in CONSOLIDATE:
         folder, stem = CONSOLIDATE[cat]
         return root / folder / f"{stem}.md", cat
@@ -354,6 +365,12 @@ def destination(d: dict, root: Path, class_index: dict[str, str],
         # weapon_group is the axis PF2e mechanics key on -- critical
         # specialization and weapon familiarity are both defined per group.
         parts = ["equipment", "weapons", slugify(d.get("weapon_group") or "other")]
+    elif cat == "ancestry" and (d.get("type") or "").strip() == "Versatile Heritage":
+        # AoN files versatile heritages under the ancestry category, but they
+        # are not ancestries -- they layer on top of one, and heritages.md
+        # (which holds the 149 ordinary heritages) excludes them. Filing them
+        # with the ancestries left them in neither list.
+        parts = [FOLDERS.get(cat, DEFAULT_FOLDER), "versatile-heritages"]
     elif cat in TYPE_FOLDER:
         parts = [FOLDERS.get(cat, DEFAULT_FOLDER), TYPE_FOLDER[cat]]
         # Shard the big flat folders by sourcebook.
@@ -401,6 +418,40 @@ def superseded(d: dict) -> bool:
     if d.get("remaster_id"):
         return True
     return "There is a more recent version" in (d.get("markdown") or "")
+
+
+# "equipment-3055-2971" is variant 2971 of parent item 3055; the optional
+# "-bonus-N" tail marks AoN's synthetic skill-bonus index row.
+VARIANT_ID = re.compile(r"^([a-z-]+)-(\d+)-(\d+)(?:-bonus-\d+)?$")
+
+
+def synthetic(d: dict, parents: dict[str, str]) -> str | None:
+    """Why this record is an artefact of AoN's indexing rather than content.
+
+    Three separate things masquerade as entries:
+
+    item-bonus     580 rows, one per "+N to a skill" an item grants. Every one
+                   duplicates a real equipment item.
+    activations    AoN files an item's Activate block as its own Action, with
+                   the trait list as the name -- hence pages titled
+                   "(air, concentrate)". It flags these exclude_from_search.
+    item variants  Each variant of a multi-variant item carries a copy of the
+                   whole parent entry, so all 13 aeon stones repeat all 13.
+
+    Returns a reason string, or None to keep.
+    """
+    if d.get("category") == "item-bonus":
+        return "item-bonus"
+    if d.get("exclude_from_search") is True:
+        return "exclude_from_search"
+    m = VARIANT_ID.match(str(d.get("id", "")))
+    if m:
+        parent = f"{m.group(1)}-{m.group(2)}"
+        # Only drop when the parent really does carry the same text, so a
+        # variant with genuinely distinct content survives.
+        if parents.get(parent) == (d.get("markdown") or ""):
+            return "duplicate variant"
+    return None
 
 
 # --------------------------------------------------------------------------
@@ -644,14 +695,13 @@ def parse_entry(d: dict) -> tuple[str, dict]:
 
     fm = [
         "---",
-        "obsidianUIMode: preview",
         f"cssclasses: pf2e,pf2e-{cat}",
         "tags:",
         *[f"- {t}" for t in tags],
         # Quartz emits an HTML file per alias, so this has to stay short enough
         # to be a valid filename.
         f"aliases: [{json.dumps(shorten(name, MAX_ALIAS), ensure_ascii=False)}]",
-        f"aon_id: {json.dumps(d.get('id',''))}",
+        f"aon_url: {json.dumps(AON + d.get('url', ''))}",
         f"source: {json.dumps(primary)}",
         "---",
         "",
@@ -659,14 +709,19 @@ def parse_entry(d: dict) -> tuple[str, dict]:
 
     # Body, shared by the standalone page and the consolidated-section forms.
     body: list[str] = []
-    suffix = f"  *{right}*" if right else ""
-    if title_action:
-        suffix += f"  {title_action}"
+    # Kept apart because a consolidated section heading takes only the action
+    # icon. The type would end up inside the anchor -- "#Common  *Language*" --
+    # and every link would have to reproduce it exactly, including the double
+    # space. On a consolidated page the type is redundant anyway: every section
+    # of languages.md is a language.
+    type_suffix = f"  *{right}*" if right else ""
+    action_suffix = f"  {title_action}" if title_action else ""
+    suffix = type_suffix + action_suffix
     if traits:
         body.append("  ".join(f"`{t}`" for t in traits))
         body.append("")
     for label, val in meta:
-        body.append(f"- **{label}**: {val}")
+        body.append(f"- **{label}**: {dedupe_list(val)}")
     if meta:
         body.append("")
     body.append(strip_markup(prose))
@@ -683,6 +738,7 @@ def parse_entry(d: dict) -> tuple[str, dict]:
         "frontmatter": "\n".join(fm),
         "name": name,
         "suffix": suffix,
+        "action_suffix": action_suffix,
         "body": "\n".join(body).rstrip(),
         "source": primary,
     }
@@ -697,10 +753,18 @@ def render_standalone(entry: dict) -> str:
 def render_section(entry: dict) -> str:
     """One entry as a level-2 section of a consolidated page.
 
-    The heading text is the entry name, so [[page#Name]] resolves in Obsidian
-    and Quartz exactly as a standalone note would.
+    The heading is the bare entry name, so [[page#Name]] resolves in Obsidian
+    and Quartz exactly as a standalone note would. Nothing else may go in it:
+    Obsidian matches an anchor against the raw heading text and Quartz slugifies
+    it, so a type or an action icon in the heading breaks every inbound link.
+
+    The action icon therefore moves into the body. It keeps its styling -- the
+    CSS selector for it is unqualified, and only the size overrides are scoped
+    to h1.
     """
-    return f"## {entry['name']}{entry['suffix']}\n\n{entry['body']}\n"
+    icon = entry["action_suffix"].strip()
+    lead = f"{icon}\n\n" if icon else ""
+    return f"## {entry['name']}\n\n{lead}{entry['body']}\n"
 
 
 def shard_paths(path: Path, names: list[str]) -> dict[str, Path]:
@@ -733,6 +797,26 @@ def split_oversized(path: Path, entries: list[dict]) -> list[tuple[Path, list[di
     return list(grouped.items())
 
 
+def dedupe_list(val: str) -> str:
+    """Drop repeats from a comma-separated metadata value.
+
+    AoN's own data carries duplicates -- Sarenrae lists the Cosmic Caravan
+    pantheon twice -- which show up as the same wikilink rendered side by side.
+    Order is preserved so the original reading order survives.
+    """
+    if "," not in val:
+        return val
+    seen: set[str] = set()
+    out: list[str] = []
+    for part in val.split(","):
+        key = part.strip().lower()
+        if not key or key in seen:
+            continue
+        seen.add(key)
+        out.append(part.strip())
+    return ", ".join(out) if out else val
+
+
 def page_title(category: str, entries: list[dict], stem: str) -> str:
     """Human title for a consolidated page.
 
@@ -755,7 +839,6 @@ def render_page(category: str, entries: list[dict], stem: str) -> str:
     title = page_title(category, entries, stem)
     fm = [
         "---",
-        "obsidianUIMode: preview",
         # Singular, matching the per-entry notes these replace, so one CSS rule
         # covers both forms.
         f"cssclasses: pf2e,pf2e-{category}",
@@ -827,8 +910,20 @@ def main() -> int:
         args.snapshot.write_text(json.dumps(docs))
         print(f"Snapshotted {len(docs)} docs")
 
-    live = [d for d in docs if not superseded(d)]
-    print(f"Excluded {len(docs) - len(live)} superseded (pre-Remaster) entries")
+    parents = {d["id"]: (d.get("markdown") or "") for d in docs}
+    live, dropped = [], collections.Counter()
+    for d in docs:
+        if superseded(d):
+            dropped["superseded (pre-Remaster)"] += 1
+            continue
+        why = synthetic(d, parents)
+        if why:
+            dropped[why] += 1
+            continue
+        live.append(d)
+    print(f"Excluded {len(docs) - len(live)} non-content records:")
+    for k, n in dropped.most_common():
+        print(f"  {n:6d}  {k}")
 
     if args.all:
         selection = live

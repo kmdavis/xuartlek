@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Orc Gamekeeper"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Orc Gamekeeper"
 level: 4
 source: "NPC Core"
-aon_id: "creature-3663"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3663"
 ---
 
@@ -38,7 +36,7 @@ abilities_top:
   - name: "Insistent Command"
     desc: "When the gamekeeper rolls a success to [[srd/pf2e/compendium/rules-elements/actions/player-core#Command an Animal|Command an Animal]], they get a critical success instead; if they roll a critical failure, they get a failure instead."
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/weapons/sling/bola|Bola]] (4), [[srd/pf2e/compendium/equipment/snares/hampering-snare|hampering snare]] (2), Net, Whip"
+    desc: "Bola (4), [[srd/pf2e/compendium/equipment/snares/hampering-snare|hampering snare]] (2), Net, Whip"
 ac: 20
 armorclass:
   - name: "AC"

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/rare
 - ritual/level/9
 aliases: ["Fantastic Facade"]
-aon_id: "ritual-146"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=146"
 source: "Player Core 2"
 ---
 
@@ -16,7 +15,7 @@ source: "Player Core 2"
 `Illusion`  `Rare`
 
 - **Cast**: 1 week
-- **Cost**: mystical paint, elaborate veils, and powdered minerals worth 20,000 gp total
+- **Cost**: mystical paint, elaborate veils, and powdered minerals worth 20, 000 gp total
 - **Secondary Casters**: 3
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] or [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (legendary)
 - **Secondary Checks**: Deception ; Society or Survival ; Stealth

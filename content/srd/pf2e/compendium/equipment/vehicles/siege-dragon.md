@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/battlecry
 - trait/rare
 - vehicle/level/19
 aliases: ["Siege Dragon"]
-aon_id: "vehicle-95"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=95"
 source: "Battlecry!"
 ---
 
@@ -14,7 +13,7 @@ source: "Battlecry!"
 
 `Rare`
 
-- **Price**: 120,000 gp
+- **Price**: 120, 000 gp
 
 Crafted to appear as a chunky [[srd/pf2e/bestiary/monster-core/dragon/young-adamantine-dragon|adamantine dragon]] at a distance, this vehicle is designed to scare civilians and intimidate enemy armies on the battlefield below.
 

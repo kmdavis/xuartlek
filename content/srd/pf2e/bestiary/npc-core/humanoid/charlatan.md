@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Charlatan"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Charlatan"
 level: 3
 source: "NPC Core"
-aon_id: "creature-3428"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3428"
 ---
 
@@ -38,7 +36,7 @@ abilities_top:
   - name: "Versatile Performance"
     desc: "The charlatan can use their [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] skill to [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]], to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]], and they can use an acting Performance to [[srd/pf2e/compendium/rules-elements/actions/player-core#Impersonate|Impersonate]]."
   - name: "Items"
-    desc: "Disguise Kit, lute, Shortsword, [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit-infiltrator-picks|Thieves' Toolkit]], Whip"
+    desc: "Disguise Kit, lute, Shortsword, [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit|Thieves' Toolkit]], Whip"
 ac: 18
 armorclass:
   - name: "AC"

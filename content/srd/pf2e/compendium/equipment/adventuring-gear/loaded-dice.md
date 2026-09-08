@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/npc-core
 - equipment/level/1
 aliases: ["Loaded Dice"]
-aon_id: "equipment-3582"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3582"
 source: "NPC Core"
 ---
 

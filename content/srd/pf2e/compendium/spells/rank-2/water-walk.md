@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/water
 - spell/level/2
 aliases: ["Water Walk"]
-aon_id: "spell-1756"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1756"
 source: "Player Core"
 ---
 

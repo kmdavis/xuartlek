@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - feat/level/2
 aliases: ["Iridian Choirmaster Dedication"]
-aon_id: "feat-7943"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7943"
 source: "Battlecry!"
 ---
 

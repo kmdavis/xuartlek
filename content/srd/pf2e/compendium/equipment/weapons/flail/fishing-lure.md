@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/war-of-immortals
 - trait/uncommon
 - weapon/level/0
 aliases: ["Fishing Lure"]
-aon_id: "weapon-515"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=515"
 source: "War of Immortals"
 ---
 

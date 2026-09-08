@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/8
 aliases: ["Moment of Renewal"]
-aon_id: "spell-1607"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1607"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Healing`  `Manipulate`
 
 - **Traditions**: Divine, Primal
-- **Bloodline**: Angelic
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Angelic|Angelic]]
 - **Range**: touch
 - **Target**: up to 6 creatures
 

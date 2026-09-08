@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - spell/level/3
 aliases: ["Fey Disappearance"]
-aon_id: "spell-2109"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2109"
 source: "Player Core 2"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core 2"
 
 `Focus`  `Manipulate`  `Sorcerer`  `Uncommon`
 
-- **Bloodline**: Fey
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Fey|Fey]]
 - **Duration**: until the end of your next turn
 
 You become [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]] and ignore natural difficult terrain (such as underbrush). Any hostile action you use ends this invisibility, but you still ignore natural difficult terrain.

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/runesmith
 - feat/level/4
 aliases: ["Terrifying Invocation"]
-aon_id: "feat-9184"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9184"
 source: "Impossible Magic"
 ---
 

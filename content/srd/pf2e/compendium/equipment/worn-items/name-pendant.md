@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/magical
 - equipment/level/2
 aliases: ["Name Pendant"]
-aon_id: "equipment-3974"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3974"
 source: "Battlecry!"
 ---
 

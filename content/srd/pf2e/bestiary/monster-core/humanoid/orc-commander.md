@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Orc Commander"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Orc Commander"
 level: 2
 source: "Monster Core"
-aon_id: "creature-3132"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3132"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Warden of Ocean and Rivers"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Warden of Ocean and Rivers"
 level: 22
 source: "Howl of the Wild"
-aon_id: "creature-3327"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3327"
 ---
 

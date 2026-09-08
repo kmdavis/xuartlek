@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/2
 aliases: ["Web"]
-aon_id: "spell-2045"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2045"
 source: "Player Core 2"
 ---
 
@@ -16,7 +15,7 @@ source: "Player Core 2"
 `Concentrate`  `Manipulate`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Followers of Fate, Grandmother Spider
+- **Deities**: Followers of Fate, [[srd/pf2e/compendium/deities/other-gods/grandmother-spider|Grandmother Spider]]
 - **Range**: 30 feet
 - **Area**: 10-foot burst
 - **Duration**: 1 minute

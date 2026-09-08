@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/1
 aliases: ["Sacred Beasts"]
-aon_id: "spell-1958"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1958"
 source: "Howl of the Wild"
 ---
 
@@ -21,7 +20,7 @@ source: "Howl of the Wild"
 - **Area**: 5-foot burst
 - **Defense**: basic Reflex
 
-You call out to the creatures of the wild favored by your deity. You quickly summon your deity’s sacred animal (or a small swarm of them if the animal is usually Tiny). For example, you would call forth a [[srd/pf2e/bestiary/monster-core/animal/lion|lion]] if you worship Iomedae or a swarm of [[srd/pf2e/compendium/gm/creature-families/spider|spiders]] if you worship Norgorber. If your deity doesn’t have a known sacred animal, work with the GM to find a thematic one. The animal or swarm assaults all creatures in the area, dealing 2d6 damage. The damage is either bludgeoning, piercing, or slashing based on the animal that was conjured, as determined by the GM. After their attacks, the animals return to your deity’s plane.
+You call out to the creatures of the wild favored by your deity. You quickly summon your deity’s sacred animal (or a small swarm of them if the animal is usually Tiny). For example, you would call forth a [[srd/pf2e/bestiary/monster-core/animal/lion|lion]] if you worship [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/iomedae|Iomedae]] or a swarm of [[srd/pf2e/compendium/gm/creature-families/spider|spiders]] if you worship [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/norgorber|Norgorber]]. If your deity doesn’t have a known sacred animal, work with the GM to find a thematic one. The animal or swarm assaults all creatures in the area, dealing 2d6 damage. The damage is either bludgeoning, piercing, or slashing based on the animal that was conjured, as determined by the GM. After their attacks, the animals return to your deity’s plane.
 
 ---
 **Heightened (+1)** The damage increases by 2d6.

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
 - trait/shove
 - weapon/level/0
 aliases: ["Mace"]
-aon_id: "weapon-362"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=362"
 source: "Player Core"
 ---
 
@@ -14,7 +13,7 @@ source: "Player Core"
 
 `Shove`
 
-- **Favored Weapon**: Asmodeus, Bolka, Dispater, Nurgal, Orcus, Otilaz, Otolmens, Qi Zhong, Ragdya, Razmir, Rivethun, The Anointing of Kings, Winlas
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/asmodeus|Asmodeus]], [[srd/pf2e/compendium/deities/dwarven-gods/bolka|Bolka]], [[srd/pf2e/compendium/deities/archdevils/dispater|Dispater]], [[srd/pf2e/compendium/deities/demon-lords/nurgal|Nurgal]], Orcus, Otilaz, Otolmens, Qi Zhong, [[srd/pf2e/compendium/deities/vudrani-gods/ragdya|Ragdya]], [[srd/pf2e/compendium/deities/other-gods/razmir|Razmir]], [[srd/pf2e/compendium/deities/faiths-philosophies/rivethun|Rivethun]], The Anointing of Kings, Winlas
 - **Price**: 1 gp
 - **Damage**: 1d6 B
 - **Bulk**: 1

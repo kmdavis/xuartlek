@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Pairaka"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Pairaka"
 level: 7
 source: "Monster Core 2"
-aon_id: "creature-4341"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4341"
 ---
 
@@ -43,7 +41,7 @@ armorclass:
 hp: 105
 health:
   - name: "HP"
-    desc: "105; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]]; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 5"
+    desc: "105; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]]; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 5"
 abilities_mid:
   - name: "Hatred of Red"
     desc: "Pairakas hate the color red. They won't wear the color or willingly enter any place painted in a shade of red. Given a choice, they'll attack a creature wearing red before others, seeing their choice to do so as a personal affront. If barred from expressing their displeasure toward the color by force or some magical effect, they take 2d6 mental damage at the end of their turn."

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Gnome Daredevil"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Gnome Daredevil"
 level: 2
 source: "NPC Core"
-aon_id: "creature-3637"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3637"
 ---
 

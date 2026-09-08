@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/reflection
 - feat/level/1
 aliases: ["Clone-Risen"]
-aon_id: "feat-8433"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8433"
 source: "Dark Archives (Remastered)"
 ---
 

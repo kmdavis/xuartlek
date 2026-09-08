@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -9,7 +8,7 @@ tags:
 - trait/teleportation
 - feat/level/10
 aliases: ["Transpose"]
-aon_id: "feat-9263"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9263"
 source: "Impossible Magic"
 ---
 

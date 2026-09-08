@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/wand
 - equipment/level/6
 aliases: ["Wand of Hybrid Form"]
-aon_id: "equipment-2280"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2280"
 source: "Treasure Vault (Remastered)"
 ---
 

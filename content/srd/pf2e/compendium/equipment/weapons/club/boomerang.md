@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - weapon/level/0
 aliases: ["Boomerang"]
-aon_id: "weapon-332"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=332"
 source: "Treasure Vault (Remastered)"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Mirror Seer"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Mirror Seer"
 level: 9
 source: "NPC Core"
-aon_id: "creature-3541"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3541"
 ---
 
@@ -44,7 +42,7 @@ abilities_top:
   - name: "Enchanted Hand Mirror"
     desc: "Without their enchanted hand mirror on their person, the mirror seer takes a –2 circumstance penalty to spell attack rolls and DCs and can't cast their 7th-rank spells. If it's not attended by the mirror seer, the hand mirror has AC 10, Hardness 0, and 1 HP."
   - name: "Items"
-    desc: "_+1 dagger_, _enchanted hand mirror_, [[srd/pf2e/compendium/spells/rank-5/false-vision|_scroll of false vision_]], _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/club/staff|staff]]_"
+    desc: "_+1 dagger_, _enchanted hand mirror_, [[srd/pf2e/compendium/spells/rank-5/false-vision|_scroll of false vision_]], _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/club/staff|staff]]_"
 ac: 27
 armorclass:
   - name: "AC"

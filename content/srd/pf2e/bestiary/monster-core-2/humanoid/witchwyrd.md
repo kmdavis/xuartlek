@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Witchwyrd"
 tags:
@@ -12,7 +11,6 @@ name: "Witchwyrd"
 level: 6
 source: "Monster Core 2"
 other_sources: "Pathfinder #149: Against the Scarlet Triad"
-aon_id: "creature-4617"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4617"
 ---
 
@@ -37,7 +35,7 @@ skills:
 abilityMods: [3, 3, 1, 4, 3, 5]
 abilities_top:
   - name: "Items"
-    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1]] [[srd/pf2e/compendium/equipment/weapons/polearm/ranseur|ranseur]]_"
+    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1]] [[srd/pf2e/compendium/equipment/weapons/polearm/ranseur|ranseur]]_"
 ac: 22
 armorclass:
   - name: "AC"

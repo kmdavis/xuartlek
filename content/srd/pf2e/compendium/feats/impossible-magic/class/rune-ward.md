@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/runesmith
 - feat/level/1
 aliases: ["Rune Ward"]
-aon_id: "feat-9172"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9172"
 source: "Impossible Magic"
 ---
 

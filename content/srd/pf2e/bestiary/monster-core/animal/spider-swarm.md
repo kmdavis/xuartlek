@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Spider Swarm"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Spider Swarm"
 level: 0
 source: "Monster Core"
-aon_id: "creature-3206"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3206"
 ---
 

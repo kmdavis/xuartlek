@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - equipment/level/13
 aliases: ["Cauthooj Bagpipes"]
-aon_id: "equipment-3221"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3221"
 source: "Howl of the Wild"
 ---
 
@@ -15,7 +14,7 @@ source: "Howl of the Wild"
 
 `Magical`  `Uncommon`
 
-- **Price**: 2,600 gp
+- **Price**: 2, 600 gp
 - **Usage**: held in 2 hands
 - **Bulk**: 2
 

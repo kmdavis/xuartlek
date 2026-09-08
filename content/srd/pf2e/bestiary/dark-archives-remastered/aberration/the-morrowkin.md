@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "The Morrowkin"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "The Morrowkin"
 level: 14
 source: "Dark Archives (Remastered)"
-aon_id: "creature-4650"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4650"
 ---
 

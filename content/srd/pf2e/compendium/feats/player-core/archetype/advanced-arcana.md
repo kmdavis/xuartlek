@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/archetype
 - feat/level/6
 aliases: ["Advanced Arcana"]
-aon_id: "feat-5110"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5110"
 source: "Player Core"
 ---
 
@@ -14,7 +13,7 @@ source: "Player Core"
 
 `Archetype`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/wizard|Wizard]], [[srd/pf2e/compendium/character/archetypes/spellshot|Spellshot]] (Level 6), [[srd/pf2e/compendium/character/archetypes/spellshot|Spellshot]] (Level 6)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/wizard|Wizard]], [[srd/pf2e/compendium/character/archetypes/spellshot|Spellshot]] (Level 6)
 - **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/basic-arcana|Basic Arcana]]
 
 You gain one wizard feat. For the purpose of meeting its prerequisites, your wizard level is equal to half your character level.

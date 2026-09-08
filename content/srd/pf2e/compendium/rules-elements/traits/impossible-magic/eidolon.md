@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/eidolon
 aliases: ["Eidolon"]
-aon_id: "trait-958"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=958"
 source: "Impossible Magic"
 ---
 

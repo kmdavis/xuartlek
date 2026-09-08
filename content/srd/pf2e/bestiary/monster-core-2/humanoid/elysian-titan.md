@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Elysian Titan"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Elysian Titan"
 level: 21
 source: "Monster Core 2"
-aon_id: "creature-4581"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4581"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [10, 7, 8, 6, 8, 6]
 abilities_top:
   - name: "Items"
-    desc: "_[[srd/pf2e/compendium/equipment/armor/magic-armor-3-major-resilient|+2 greater resilient]] [[srd/pf2e/compendium/equipment/armor#Breastplate|breastplate]]_, _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+3 greater striking]] [[srd/pf2e/compendium/equipment/weapons/pick/greatpick|greatpick]]_"
+    desc: "_[[srd/pf2e/compendium/equipment/armor/magic-armor|+2 greater resilient]] [[srd/pf2e/compendium/equipment/armor#Breastplate|breastplate]]_, _[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+3 greater striking]] [[srd/pf2e/compendium/equipment/weapons/pick/greatpick|greatpick]]_"
 ac: 46
 armorclass:
   - name: "AC"

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
 - trait/magical
 - equipment/level/12
 aliases: ["Marvelous Medicines"]
-aon_id: "equipment-3027"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3027"
 source: "GM Core"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
@@ -9,7 +8,7 @@ tags:
 - trait/whetstone
 - equipment/level/14
 aliases: ["Dimensional Cleavestone"]
-aon_id: "equipment-3879"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3879"
 source: "Battlecry!"
 ---
 

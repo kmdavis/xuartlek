@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - spell/level/4
 aliases: ["False Nature"]
-aon_id: "spell-2565"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2565"
 source: "Dark Archives (Remastered)"
 ---
 
@@ -18,7 +17,7 @@ source: "Dark Archives (Remastered)"
 `Concentrate`  `Illusion`  `Manipulate`  `Uncommon`
 
 - **Traditions**: Arcane, Occult
-- **Deity**: Nyuo-Ogh
+- **Deity**: [[srd/pf2e/compendium/deities/qlippoth-lords/nyuo-ogh|Nyuo-Ogh]]
 - **Range**: touch
 - **Target**: one unattended item or one item you’re holding
 - **Duration**: until your next daily preparations

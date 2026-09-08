@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -8,7 +7,7 @@ tags:
 - trait/negative
 - feat/level/14
 aliases: ["History of Violence"]
-aon_id: "feat-7306"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7306"
 source: "War of Immortals"
 ---
 

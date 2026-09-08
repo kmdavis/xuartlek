@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ikon
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -9,7 +8,7 @@ entries: 21
 
 # Ikons
 
-## Bands Of Imprisonment  *Exemplar Worn Ikon*
+## Bands Of Imprisonment
 
 - **Usage**: worn anklets, bracers, or circlet (often a headband)
 
@@ -21,7 +20,7 @@ These weighted bands don’t enhance your power—rather, they keep your strengt
 
 *Source: War of Immortals p. 43*
 
-## Barrow's Edge  *Exemplar Weapon Ikon*
+## Barrow's Edge
 
 - **Usage**: melee weapon that deals slashing or piercing damage
 
@@ -33,7 +32,7 @@ This blade subtly rattles in its scabbard, as if it wants to be unsheathed so it
 
 *Source: War of Immortals p. 43*
 
-## Eye-Catching Spot  *Exemplar Body Ikon*
+## Eye-Catching Spot
 
 - **Usage**: imbued on the face
 
@@ -45,7 +44,7 @@ A fetching beauty spot under an eye or a smile as warm as the sun distracts foes
 
 *Source: War of Immortals p. 44*
 
-## Fetching Bangles  *Exemplar Worn Ikon*
+## Fetching Bangles
 
 - **Usage**: worn bracers
 
@@ -57,7 +56,7 @@ These lovely armbands sparkle and gleam, reflecting your own incredible magnetis
 
 *Source: War of Immortals p. 44*
 
-## Gaze Sharp As Steel  *Exemplar Body Ikon*
+## Gaze Sharp As Steel
 
 - **Usage**: imbued in the eyes
 
@@ -69,7 +68,7 @@ Your eyes glint with an almost-tangible sharpness, letting you spot the tiniest 
 
 *Source: War of Immortals p. 44*
 
-## Gleaming Blade  *Exemplar Weapon Ikon*
+## Gleaming Blade
 
 - **Usage**: a weapon in the sword or knife group, or a melee unarmed attack that deals slashing damage
 
@@ -81,7 +80,7 @@ This blade glitters with such sharpness it seems to cut the very air in front of
 
 *Source: War of Immortals p. 44*
 
-## Hands Of The Wildling  *Exemplar Weapon Ikon*
+## Hands Of The Wildling
 
 - **Usage**: a melee [[srd/pf2e/compendium/rules-elements/traits/player-core/free-hand|free-hand]] weapon or a melee [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] Strike
 
@@ -93,13 +92,13 @@ Tattooed fists, savage claws, or even powerful gauntlets—you swing each with t
 
 *Source: War of Immortals p. 44*
 
-## Horn Of Plenty  *Exemplar Worn Ikon*
+## Horn Of Plenty
 
 - **Usage**: a wallet, bag, or similar container of 1 Bulk you can wear on your body
 
 Whether a bag, gourd, wallet, cornucopia, or similar food receptacle, this ikon recalls the harvest and hearth. The receptacle can store up to 1 Bulk of potions and elixirs, but no other items. The receptacle can’t be opened except by the ikon’s immanence and transcendence abilities.
 
-Each day during your [[srd/pf2e/books/gm-core/chapter-1-running-the-game/running-exploration#Daily Preparations|daily preparations]], the ikon produces one temporary [[srd/pf2e/compendium/equipment/alchemical-items/elixir-of-life-true|elixir of life]]. You can choose to have it make a different [[srd/pf2e/compendium/rules-elements/traits/player-core/elixir|elixir]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/potion|potion]] you know the formula for. The level of any elixir or potion created by the horn must be your level or lower. The number of elixirs the horn creates increases to two at 8th level and three at 16th level, and you can choose each item individually. These temporary items vanish the next time you make your daily preparations, and any remaining effects of the temporary items end. A temporary elixir or potion has no value.
+Each day during your [[srd/pf2e/books/gm-core/chapter-1-running-the-game/running-exploration#Daily Preparations|daily preparations]], the ikon produces one temporary [[srd/pf2e/compendium/equipment/alchemical-items/elixir-of-life|elixir of life]]. You can choose to have it make a different [[srd/pf2e/compendium/rules-elements/traits/player-core/elixir|elixir]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/potion|potion]] you know the formula for. The level of any elixir or potion created by the horn must be your level or lower. The number of elixirs the horn creates increases to two at 8th level and three at 16th level, and you can choose each item individually. These temporary items vanish the next time you make your daily preparations, and any remaining effects of the temporary items end. A temporary elixir or potion has no value.
 
 **Immanence** The _horn of plenty_ shimmers, allowing access to the stored consumables inside. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Interact|Interact]] to draw a consumable and drink it in a single action while your divine spark rests within the horn. Other creatures can’t access the contents unless you allow them to.
 
@@ -107,7 +106,7 @@ Each day during your [[srd/pf2e/books/gm-core/chapter-1-running-the-game/running
 
 *Source: War of Immortals p. 44*
 
-## Mirrored Aegis  *Exemplar Worn Ikon*
+## Mirrored Aegis
 
 - **Usage**: any shield
 
@@ -119,7 +118,7 @@ This shield is polished so brightly it can reflect even [[srd/pf2e/compendium/ru
 
 *Source: War of Immortals p. 45*
 
-## Mortal Harvest  *Exemplar Weapon Ikon*
+## Mortal Harvest
 
 - **Usage**: a [[srd/pf2e/compendium/equipment/weapons/knife/sickle|sickle]] or any weapon from the axe, flail, or polearm group
 
@@ -131,7 +130,7 @@ This weapon, once used for felling trees or crops, now harvests lives instead.
 
 *Source: War of Immortals p. 45*
 
-## Noble Branch  *Exemplar Weapon Ikon*
+## Noble Branch
 
 - **PFS Note**: The phrase “damage equal to your weapon's damage dice.” is used. This is not the number of damage dice, but refers to rolling the weapon's damage dice.
 - **Usage**: a [[srd/pf2e/compendium/equipment/weapons/club/staff|staff]], [[srd/pf2e/compendium/equipment/weapons/club/bo-staff|bo staff]], fighting stick, [[srd/pf2e/compendium/equipment/weapons/club/khakkhara|khakkara]], or any weapon in the spear or polearm weapon group
@@ -140,11 +139,11 @@ This humble stick-like weapon has an elegant simplicity to it, affording you rel
 
 **Immanence** The _noble branch_ deals 2 additional [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]] damage per weapon damage die to creatures it Strikes.
 
-**Transcendence** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|Spirit]], [[srd/pf2e/compendium/rules-elements/traits/war-of-immortals/transcendence|Transcendence]])Strike, Breathe, Rend; **Requirements** Your last action this turn was a successful Strike with the _noble branch_; **Effect** You channel a rending pulse of energy down your weapon in the moment of contact. The target of the Strike takes spirit damage equal to the _noble branch’s_ weapon damage dice. This includes any extra dice from [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] runes, but not from special abilities, [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/armor-armaments#Property Runes|property runes]], or the like.
+**Transcendence** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|Spirit]], [[srd/pf2e/compendium/rules-elements/traits/war-of-immortals/transcendence|Transcendence]])Strike, Breathe, Rend; **Requirements** Your last action this turn was a successful Strike with the _noble branch_; **Effect** You channel a rending pulse of energy down your weapon in the moment of contact. The target of the Strike takes spirit damage equal to the _noble branch’s_ weapon damage dice. This includes any extra dice from [[srd/pf2e/compendium/equipment/runes/striking|striking]] runes, but not from special abilities, [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/armor-armaments#Property Runes|property runes]], or the like.
 
 *Source: War of Immortals p. 45*
 
-## Pelt Of The Beast  *Exemplar Worn Ikon*
+## Pelt Of The Beast
 
 - **Usage**: worn cloak or belt
 
@@ -156,7 +155,7 @@ This animal hide, whether worn about the shoulders or waist, is all you need to 
 
 *Source: War of Immortals p. 45*
 
-## Scar Of The Survivor  *Exemplar Body Ikon*
+## Scar Of The Survivor
 
 - **Usage**: imbued in the skin
 
@@ -168,7 +167,7 @@ A scar on your body commemorates a time someone tried to end your story and fail
 
 *Source: War of Immortals p. 45*
 
-## Shadow Sheath  *Exemplar Weapon Ikon*
+## Shadow Sheath
 
 - **Usage**: a holster or sheath shaped for a one-handed [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown]] weapon of light Bulk or less
 
@@ -180,7 +179,7 @@ With an infinite array of darts, throwing knives, or similar weapons, you never 
 
 *Source: War of Immortals p. 45*
 
-## Skin Hard As Horn  *Exemplar Body Ikon*
+## Skin Hard As Horn
 
 - **Usage**: imbued in the skin
 
@@ -192,7 +191,7 @@ Tempered in your spirit, your very skin is as a suit of armor, though a single l
 
 *Source: War of Immortals p. 46*
 
-## Skybearer's Belt  *Exemplar Worn Ikon*
+## Skybearer's Belt
 
 - **Usage**: worn belt
 
@@ -204,7 +203,7 @@ This girdle wraps around your waist, magnifying your strength to the point you f
 
 *Source: War of Immortals p. 46*
 
-## Starshot  *Exemplar Weapon Ikon*
+## Starshot
 
 - **Usage**: a ranged weapon
 
@@ -216,7 +215,7 @@ You might be the only one capable of stringing this bow or pulling this trigger;
 
 *Source: War of Immortals p. 46*
 
-## Thousand-League Sandals  *Exemplar Worn Ikon*
+## Thousand-League Sandals
 
 - **Usage**: worn shoes
 
@@ -228,7 +227,7 @@ Threadbare but trustworthy, your sandals have carried you this far, and they’l
 
 *Source: War of Immortals p. 46*
 
-## Titan's Breaker  *Exemplar Weapon Ikon*
+## Titan's Breaker
 
 - **Usage**: any melee weapon in the club, hammer, or axe group, or any your melee [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] [[srd/pf2e/books/gm-core/chapter-2-building-games/building-creatures#Strikes|Strikes]] that deals bludgeoning damage
 
@@ -240,7 +239,7 @@ You wield a weapon whose blows shatter mountains with ease.
 
 *Source: War of Immortals p. 46*
 
-## Unfailing Bow  *Exemplar Weapon Ikon*
+## Unfailing Bow
 
 - **Usage**: a ranged weapon
 
@@ -252,7 +251,7 @@ The shots fired by this weapon seem guided by divine accuracy, finding the swift
 
 *Source: War of Immortals p. 47*
 
-## Victor's Wreath  *Exemplar Worn Ikon*
+## Victor's Wreath
 
 - **PFS Note**: The Transcendence effect of _Victor’s Wreath_ allows a new saving throw, so anything that happens on a failed save still occurs if a PC fails. It cannot target curses.
 - **Usage**: worn headwear or belt (typically a sash)

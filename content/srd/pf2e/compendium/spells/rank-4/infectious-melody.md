@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -9,7 +8,7 @@ tags:
 - trait/mental
 - spell/level/4
 aliases: ["Infectious Melody"]
-aon_id: "spell-2749"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2749"
 source: "Impossible Magic"
 ---
 
@@ -18,7 +17,7 @@ source: "Impossible Magic"
 `Auditory`  `Concentrate`  `Manipulate`  `Mental`
 
 - **Tradition**: Occult
-- **Deities**: Seramaydiel, Winlas
+- **Deities**: [[srd/pf2e/compendium/deities/empyreal-lords/seramaydiel|Seramaydiel]], Winlas
 - **Area**: 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]]
 - **Target**: enemies in the area
 - **Defense**: Will

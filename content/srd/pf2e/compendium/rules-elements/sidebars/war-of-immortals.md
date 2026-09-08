@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-sidebar
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -9,7 +8,7 @@ entries: 4
 
 # Sidebars: War of Immortals
 
-## Key Terms  *Sidebar*
+## Key Terms
 
 - **Parent page**: [[srd/pf2e/compendium/character/classes/animist|Animist]]
 
@@ -25,7 +24,7 @@ You'll see the following new key terms in many animist class features.
 
 *Source: War of Immortals p. 10*
 
-## Key Terms  *Sidebar*
+## Key Terms
 
 - **Parent page**: [[srd/pf2e/compendium/character/classes/exemplar|Exemplar]]
 
@@ -41,7 +40,7 @@ The following new key terms appear in many exemplar class features and feats.
 
 *Source: War of Immortals p. 28*
 
-## Retraining Callings  *Sidebar*
+## Retraining Callings
 
 - **Parent page**: [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-progression|Mythic Progression]]
 
@@ -49,7 +48,7 @@ In the right circumstances, you can retrain your Calling to a different one. Ret
 
 *Source: War of Immortals p. 77*
 
-## Unlocking New Paths Forward  *Sidebar*
+## Unlocking New Paths Forward
 
 - **Parent page**: [[srd/pf2e/books/war-of-immortals/mythic-rules/designing-mythic-encounters|Designing Mythic Encounters]]
 

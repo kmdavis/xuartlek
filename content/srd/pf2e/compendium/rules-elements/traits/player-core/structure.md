@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/structure
 aliases: ["Structure"]
-aon_id: "trait-704"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=704"
 source: "Player Core"
 ---
 

@@ -53,7 +53,41 @@ DB_CATEGORY = {
     "Monsters": "__creature__",
     "NPCs": "__creature__",
     "Rules": "__rules__",
+    # Databases that only ever appear as a bare category link.
+    "Elements": "element",
+    "Innovations": "innovation",
+    "Vehicles": "vehicle",
+    "Eidolons": "eidolon",
+    "Ways": "way",
+    "Implements": "implement",
+    "SiegeWeapons": "siege-weapon",
+    "RunesmithRunes": "runesmith-rune",
+    "Companions": "animal-companion",
+    "Bloodlines": "bloodline",
+    "Tactics": "tactic",
+    "Causes": "cause",
+    "Ikons": "ikon",
+    "ConsciousMinds": "conscious-mind",
+    "SubconsciousMinds": "subconscious-mind",
+    "Patrons": "patron",
+    "Muses": "muse",
+    "Instincts": "instinct",
+    "Doctrines": "doctrine",
+    "Methodologies": "methodology",
+    "Rackets": "racket",
+    "ResearchFields": "research-field",
+    "HuntersEdge": "hunters-edge",
+    "Lessons": "lesson",
+    "Mysteries": "mystery",
+    "Apparitions": "apparition",
+    "ArcaneSchools": "arcane-school",
+    "DraconicExemplars": "draconic-exemplar",
+    "Curricula": "curriculum",
 }
+
+# "[here](Elements.aspx)" -- a link to a whole AoN category listing rather than
+# to one entry. These have no ?ID=, so the main pattern never sees them.
+BARE_LINK = re.compile(r"\[([^\[\]]+)\]\(/?(\w+)\.aspx\)")
 
 LINK_RE = re.compile(r"\[([^\[\]]*(?:\[[^\[\]]*\][^\[\]]*)*)\]\(/(\w+)\.aspx\?ID=(\d+)[^)]*\)")
 
@@ -74,6 +108,7 @@ class LinkMap:
         self.vault_root = vault_root
         self._by_key: dict[tuple[str, int], str] = {}
         self._by_name: dict[tuple[str, str], str] = {}
+        self._by_category: dict[str, str] = {}
 
     # -- registration ----------------------------------------------------
 
@@ -97,6 +132,15 @@ class LinkMap:
 
     def add_creature(self, aon_id: str | int, path: Path) -> None:
         self.add("__creature__", aon_id, path)
+
+    def add_category_page(self, category: str, path: Path) -> None:
+        """The single page listing every entry of a category.
+
+        Only registered when the category really does live on one page; a
+        category split across sourcebooks or alphabetical shards has no single
+        destination, so its bare links stay as plain text.
+        """
+        self._by_category[category] = self._target(path, None)
 
     def add_rule(self, aon_id: str | int, path: Path, anchor: str | None = None) -> None:
         self.add("__rules__", aon_id, path, anchor)
@@ -134,7 +178,17 @@ class LinkMap:
             stats[0] += 1
             return f"[[{target}|{label}]]"
 
+        def bare(m: re.Match) -> str:
+            label, db = m.group(1).strip(), m.group(2)
+            target = self._by_category.get(DB_CATEGORY.get(db, ""))
+            if not target:
+                stats[1] += 1
+                return label
+            stats[0] += 1
+            return f"[[{target}|{label}]]"
+
         out = LINK_RE.sub(repl, text)
+        out = BARE_LINK.sub(bare, out)
         # AoN sometimes wraps a link in literal brackets, which would leave
         # "[[[target|label]]" once the inner link is converted.
         out = re.sub(r"\[(\[\[[^\]]+\]\])\]", r"\1", out)
@@ -147,6 +201,7 @@ class LinkMap:
         path.write_text(json.dumps({
             "by_id": {f"{c}:{i}": t for (c, i), t in sorted(self._by_key.items())},
             "by_name": {f"{c}:{n}": t for (c, n), t in sorted(self._by_name.items())},
+            "by_category": dict(sorted(self._by_category.items())),
         }, indent=0), encoding="utf-8")
 
     def load(self, path: Path) -> int:
@@ -159,6 +214,7 @@ class LinkMap:
         for k, v in data.get("by_name", {}).items():
             cat, _, nm = k.partition(":")
             self._by_name[(cat, nm)] = v
+        self._by_category.update(data.get("by_category", {}))
         return len(self._by_key)
 
     def __len__(self) -> int:

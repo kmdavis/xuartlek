@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Vishkanya Infiltrator"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Vishkanya Infiltrator"
 level: 3
 source: "Monster Core 2"
-aon_id: "creature-4613"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4613"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [2, 4, 1, 0, 1, 2]
 abilities_top:
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/disguise-kit-elite-cosmetics|Disguise Kit]], [[srd/pf2e/compendium/equipment/weapons/knife/kukri|Kukri]], [[srd/pf2e/compendium/equipment/armor#Leather Armor|Leather Armor]], [[srd/pf2e/compendium/equipment/weapons/dart/shuriken|Shuriken]] (10), [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit-infiltrator-picks|Thieves' Toolkit]]"
+    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/disguise-kit|Disguise Kit]], [[srd/pf2e/compendium/equipment/weapons/knife/kukri|Kukri]], [[srd/pf2e/compendium/equipment/armor#Leather Armor|Leather Armor]], [[srd/pf2e/compendium/equipment/weapons/dart/shuriken|Shuriken]] (10), [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit|Thieves' Toolkit]]"
 ac: 19
 armorclass:
   - name: "AC"

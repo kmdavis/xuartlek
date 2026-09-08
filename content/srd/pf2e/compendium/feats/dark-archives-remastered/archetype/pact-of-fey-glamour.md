@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - feat/level/4
 aliases: ["Pact of Fey Glamour"]
-aon_id: "feat-8465"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8465"
 source: "Dark Archives (Remastered)"
 ---
 

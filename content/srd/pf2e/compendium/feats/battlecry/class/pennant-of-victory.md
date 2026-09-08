@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
@@ -8,7 +7,7 @@ tags:
 - trait/visual
 - feat/level/20
 aliases: ["Pennant of Victory"]
-aon_id: "feat-7830"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7830"
 source: "Battlecry!"
 ---
 

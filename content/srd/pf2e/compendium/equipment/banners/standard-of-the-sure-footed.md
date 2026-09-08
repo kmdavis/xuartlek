@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - equipment/level/11
 aliases: ["Standard of the Sure-Footed"]
-aon_id: "equipment-3915"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3915"
 source: "Battlecry!"
 ---
 
@@ -17,7 +16,7 @@ source: "Battlecry!"
 
 `Air`  `Aura`  `Magical`  `Uncommon`
 
-- **Price**: 1,200 gp
+- **Price**: 1, 200 gp
 - **Usage**: affixed or held in 1 hand
 - **Bulk**: L
 

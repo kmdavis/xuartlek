@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Draxie"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Draxie"
 level: 3
 source: "Monster Core"
-aon_id: "creature-3211"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3211"
 ---
 

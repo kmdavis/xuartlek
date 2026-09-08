@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/alchemist
 - feat/level/16
 aliases: ["Persistent Mutagen"]
-aon_id: "feat-5799"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5799"
 source: "Player Core 2"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - spell/level/1
 aliases: ["Embodiment of Battle"]
-aon_id: "spell-2146"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2146"
 source: "War of Immortals"
 ---
 

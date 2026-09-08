@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
 - trait/commander
 - feat/level/18
 aliases: ["Practiced Reflexes"]
-aon_id: "feat-7828"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7828"
 source: "Battlecry!"
 ---
 

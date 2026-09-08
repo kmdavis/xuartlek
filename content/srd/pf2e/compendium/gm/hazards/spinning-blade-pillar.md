@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
 tags:
 - compendium/src/pf2e/gm-core
@@ -8,7 +7,7 @@ tags:
 - trait/trap
 - hazard/level/4
 aliases: ["Spinning Blade Pillar"]
-aon_id: "hazard-494"
+aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=494"
 source: "GM Core"
 ---
 

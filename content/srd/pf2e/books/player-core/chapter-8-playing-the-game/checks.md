@@ -7,7 +7,6 @@ cssclasses:
 tags:
   - srd/pf2e/player-core
 source: "Player Core"
-aon_id: 2278
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2278"
 citation: "Player Core pg. 400"
 ---
@@ -75,7 +74,7 @@ There are three other types of bonus that frequently appear: circumstance bonuse
 
 **Circumstance bonuses** involve the situation you find yourself in when attempting a check. For instance, using [[srd/pf2e/compendium/rules-elements/actions/player-core#Raise a Shield|Raise a Shield]] with a [[srd/pf2e/compendium/equipment/shields#Buckler|buckler]] grants you a +1 circumstance bonus to AC. Being behind [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Cover|cover]] grants you a +2 circumstance bonus to AC.
 
-**Item bonuses** are granted by some item that you are wearing or using, either mundane or magical. For example, armor gives you an item bonus to AC, while an [[srd/pf2e/compendium/equipment/adventuring-gear/alchemists-lab-expanded|expanded alchemist's toolkit]] grants you an item bonus to [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] checks when making alchemical items.
+**Item bonuses** are granted by some item that you are wearing or using, either mundane or magical. For example, armor gives you an item bonus to AC, while an [[srd/pf2e/compendium/equipment/adventuring-gear/alchemists-lab|expanded alchemist's toolkit]] grants you an item bonus to [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] checks when making alchemical items.
 
 **Status bonuses** typically come from spells, other magical effects, or something applying a helpful, often temporary, condition to you. For instance, the 3rd-rank [[srd/pf2e/compendium/spells/rank-3/heroism|heroism]] spell grants a +1 status bonus to attack rolls, Perception checks, saving throws, and skill checks.
 
@@ -129,7 +128,7 @@ When you use a Strike action or make a spell attack, you attempt a check called 
 
 When attacking with a weapon, whether melee or ranged, you add your proficiency bonus for the weapon you're using. Your class determines your proficiency rank for various weapons. Sometimes, you'll have different proficiency ranks for different weapons or groups of weapons.
 
-The bonuses you might apply to attack rolls can come from a variety of sources. Circumstance bonuses can come from the aid of an ally or a beneficial situation. Status bonuses are typically granted by spells and other magical aids. The item bonus to attack rolls comes from magic weapons—notably, a weapon's [[srd/pf2e/compendium/equipment/runes/weapon-potency-3|potency rune]].
+The bonuses you might apply to attack rolls can come from a variety of sources. Circumstance bonuses can come from the aid of an ally or a beneficial situation. Status bonuses are typically granted by spells and other magical aids. The item bonus to attack rolls comes from magic weapons—notably, a weapon's [[srd/pf2e/compendium/equipment/runes/weapon-potency|potency rune]].
 
 Penalties to attack rolls come from situations and effects as well. Circumstance penalties come from risky tactics or detrimental circumstances, status penalties come from spells and magic working against you, and item penalties occur when you use a [[srd/pf2e/books/player-core/chapter-6-equipment/shoddy-items|shoddy item]]. When making attack rolls, two main types of untyped penalties are likely to apply. The first is the [[#Multiple Attack Penalty|multiple attack penalty]], and the second is the [[#Range Penalty|range penalty]]. The first applies anytime you make more than one attack action during the course of your turn, and the other applies only with ranged or thrown weapons. Both are described below.
 
@@ -205,7 +204,7 @@ Penalties to AC come from situations and effects in much the same way bonuses do
 
 ### Saving Throws
 
-There are three types of saving throws: Fortitude saves, Reflex saves, and Will saves. These are frequently called “saves”—it's the same thing. Saving throws measure your ability to shrug off harmful effects in the form of afflictions, damage, or conditions. You'll always add a proficiency bonus to each save. Your class might give a different proficiency to each save, but you'll be trained at minimum. Some circumstances and spells might give you circumstance or status bonuses to saves, and you might find [[srd/pf2e/compendium/equipment/runes/resilient-major|resilient]] armor or other magic items that give an item bonus.
+There are three types of saving throws: Fortitude saves, Reflex saves, and Will saves. These are frequently called “saves”—it's the same thing. Saving throws measure your ability to shrug off harmful effects in the form of afflictions, damage, or conditions. You'll always add a proficiency bonus to each save. Your class might give a different proficiency to each save, but you'll be trained at minimum. Some circumstances and spells might give you circumstance or status bonuses to saves, and you might find [[srd/pf2e/compendium/equipment/runes/resilient|resilient]] armor or other magic items that give an item bonus.
 
 **Fortitude** saving throws allow you to reduce the effects of abilities and afflictions that can debilitate the body. They use your Constitution modifier and are calculated as shown in the formula below.
 
@@ -238,7 +237,7 @@ Perception measures your ability to be aware of your environment. Every creature
 
 **Perception check result = d20 roll + Wisdom modifier + proficiency bonus + other bonuses + penalties**
 
-Nearly all creatures are at least trained in Perception, so you will almost always add a proficiency bonus to your Perception modifier. You might add a circumstance bonus for advantageous situations or environments and typically get status bonuses from spells or other magical effects. Items can also grant you a bonus to Perception, typically in a certain situation. For instance, a [[srd/pf2e/compendium/equipment/adventuring-gear/spyglass-fine|fine spyglass]] grants a +1 item bonus to Perception when attempting to see something a long distance away. Circumstance penalties to Perception occur when an environment or situation (such as [[srd/pf2e/books/gm-core/chapter-2-building-games/environment#Fog|fog]]) hampers your senses, while status penalties typically come from conditions, spells, and magic effects that foil the senses. You'll rarely encounter item penalties or untyped penalties for Perception.
+Nearly all creatures are at least trained in Perception, so you will almost always add a proficiency bonus to your Perception modifier. You might add a circumstance bonus for advantageous situations or environments and typically get status bonuses from spells or other magical effects. Items can also grant you a bonus to Perception, typically in a certain situation. For instance, a [[srd/pf2e/compendium/equipment/adventuring-gear/spyglass|fine spyglass]] grants a +1 item bonus to Perception when attempting to see something a long distance away. Circumstance penalties to Perception occur when an environment or situation (such as [[srd/pf2e/books/gm-core/chapter-2-building-games/environment#Fog|fog]]) hampers your senses, while status penalties typically come from conditions, spells, and magic effects that foil the senses. You'll rarely encounter item penalties or untyped penalties for Perception.
 
 Many abilities are compared to your **Perception DC** to determine whether they succeed. As with any DC based on a modifier, your Perception DC is 10 + your total Perception modifier. Item Bonuses
 

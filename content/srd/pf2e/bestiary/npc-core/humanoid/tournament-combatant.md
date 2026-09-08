@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Tournament Combatant"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Tournament Combatant"
 level: 5
 source: "NPC Core"
-aon_id: "creature-3501"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3501"
 ---
 

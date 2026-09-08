@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - siege-weapon/level/17
 aliases: ["Volley Gun"]
-aon_id: "siege-weapon-66"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=66"
 source: "Battlecry!"
 ---
 
@@ -15,7 +14,7 @@ source: "Battlecry!"
 
 `Mounted`  `Uncommon`
 
-- **Price**: 27,000 gp
+- **Price**: 27, 000 gp
 - **Ammunition**: nine-barrel block (5 gp, L Bulk)
 
 **Usage** mounted (black powder)

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/rare
 - equipment/level/17
 aliases: ["Stone of Unrivaled Skill"]
-aon_id: "equipment-4153"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4153"
 source: "Dark Archives (Remastered)"
 ---
 

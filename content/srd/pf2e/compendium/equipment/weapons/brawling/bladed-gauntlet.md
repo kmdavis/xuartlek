@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/battlecry
@@ -10,7 +9,7 @@ tags:
 - trait/uncommon
 - weapon/level/0
 aliases: ["Bladed Gauntlet"]
-aon_id: "weapon-532"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=532"
 source: "Battlecry!"
 ---
 
@@ -18,7 +17,7 @@ source: "Battlecry!"
 
 `Agile`  `Finesse`  `Free-Hand`  `Modular`  `Uncommon`
 
-- **Favored Weapon**: Genzaeri
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/other-gods/genzaeri|Genzaeri]]
 - **Price**: 5 gp
 - **Damage**: 1d4 modular
 - **Bulk**: L

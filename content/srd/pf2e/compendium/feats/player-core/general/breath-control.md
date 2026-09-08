@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/general
 - feat/level/1
 aliases: ["Breath Control"]
-aon_id: "feat-5129"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5129"
 source: "Player Core"
 ---
 

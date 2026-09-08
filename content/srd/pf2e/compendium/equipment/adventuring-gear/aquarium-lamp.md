@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - equipment/level/8
 aliases: ["Aquarium Lamp"]
-aon_id: "equipment-1140"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1140"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -16,7 +15,7 @@ source: "Guns & Gears (Remastered)"
 
 `Electricity`  `Light`  `Uncommon`
 
-- **Price**: 1,500 gp
+- **Price**: 1, 500 gp
 - **Bulk**: 20
 - **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") Interact
 

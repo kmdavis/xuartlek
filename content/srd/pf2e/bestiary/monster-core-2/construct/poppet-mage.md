@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Poppet Mage"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Poppet Mage"
 level: 2
 source: "Monster Core 2"
-aon_id: "creature-4515"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4515"
 ---
 
@@ -63,7 +61,7 @@ abilities_bot:
   - name: "Requirements"
     desc: "The poppet mage has a free hand"
   - name: "Effect"
-    desc: "The poppet mage pulls off their hat, and with a jaunty display, pulls one of the following items from their hat: a [[srd/pf2e/compendium/equipment/alchemical-items/glue-bomb-major|lesser glue bomb]], a [[srd/pf2e/compendium/equipment/alchemical-items/smoke-ball-greater|lesser smoke ball]], or a [[srd/pf2e/compendium/equipment/consumables/healing-potion-major|_minor healing potion_]]. This consumable lasts for 1 hour before becoming inert."
+    desc: "The poppet mage pulls off their hat, and with a jaunty display, pulls one of the following items from their hat: a [[srd/pf2e/compendium/equipment/alchemical-items/glue-bomb|lesser glue bomb]], a [[srd/pf2e/compendium/equipment/alchemical-items/smoke-ball|lesser smoke ball]], or a [[srd/pf2e/compendium/equipment/consumables/healing-potion|_minor healing potion_]]. This consumable lasts for 1 hour before becoming inert."
 spellcasting:
   - name: "Arcane Prepared Spells"
     desc: "DC 18, attack +10 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/daze|Daze]], [[srd/pf2e/compendium/spells/cantrips/figment|Figment]], [[srd/pf2e/compendium/spells/cantrips/prestidigitation|Prestidigitation]], [[srd/pf2e/compendium/spells/cantrips/shield|Shield]], [[srd/pf2e/compendium/spells/cantrips/telekinetic-projectile|Telekinetic Projectile]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/dizzying-colors|Dizzying Colors]], [[srd/pf2e/compendium/spells/rank-1/mending|Mending]], [[srd/pf2e/compendium/spells/rank-1/sleep|Sleep]]"

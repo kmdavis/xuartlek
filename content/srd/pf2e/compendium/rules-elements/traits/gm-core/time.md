@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/gm-core
 - trait/time
 aliases: ["Time"]
-aon_id: "trait-712"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=712"
 source: "GM Core"
 ---
 

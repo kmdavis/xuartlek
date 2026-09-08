@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-adjustment
 tags:
 - compendium/src/pf2e/war-of-immortals
 aliases: ["Mythic Ambusher"]
-aon_id: "creature-adjustment-31"
+aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=31"
 source: "War of Immortals"
 ---
 

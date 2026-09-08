@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -11,7 +10,7 @@ tags:
 - trait/subtle
 - spell/level/4
 aliases: ["Suggestion"]
-aon_id: "spell-1693"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1693"
 source: "Player Core"
 ---
 
@@ -20,8 +19,8 @@ source: "Player Core"
 `Concentrate`  `Incapacitation`  `Linguistic`  `Manipulate`  `Mental`  `Subtle`
 
 - **Traditions**: Arcane, Occult
-- **Bloodlines**: Diabolic, Fey
-- **Deities**: Ardad Lili, Asmodeus, Dispater, Kols, Nyarlathotep (The Crawling Chaos), Nyarlathotep (The Faceless Sphinx), Olheon, Sifkesh, The Green Mother, Ulon
+- **Bloodlines**: [[srd/pf2e/compendium/character/bloodlines#Diabolic|Diabolic]], [[srd/pf2e/compendium/character/bloodlines#Fey|Fey]]
+- **Deities**: [[srd/pf2e/compendium/deities/queens-of-the-night/ardad-lili|Ardad Lili]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/asmodeus|Asmodeus]], [[srd/pf2e/compendium/deities/archdevils/dispater|Dispater]], [[srd/pf2e/compendium/deities/dwarven-gods/kols|Kols]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-the-crawling-chaos|Nyarlathotep (The Crawling Chaos)]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-the-faceless-sphinx|Nyarlathotep (The Faceless Sphinx)]], [[srd/pf2e/compendium/deities/empyreal-lords/olheon|Olheon]], [[srd/pf2e/compendium/deities/demon-lords/sifkesh|Sifkesh]], [[srd/pf2e/compendium/deities/eldest/the-green-mother|The Green Mother]], [[srd/pf2e/compendium/deities/azlanti-pantheon/ulon|Ulon]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will

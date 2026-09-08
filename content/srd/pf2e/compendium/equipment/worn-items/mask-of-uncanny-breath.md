@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/occult
 - equipment/level/11
 aliases: ["Mask of Uncanny Breath"]
-aon_id: "equipment-2326"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2326"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -16,7 +15,7 @@ source: "Treasure Vault (Remastered)"
 
 `Focused`  `Invested`  `Occult`
 
-- **Price**: 1,200 gp
+- **Price**: 1, 200 gp
 - **Usage**: worn mask
 - **Bulk**: L
 

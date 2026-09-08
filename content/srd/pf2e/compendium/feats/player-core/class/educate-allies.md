@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/concentrate
 - feat/level/6
 aliases: ["Educate Allies"]
-aon_id: "feat-4599"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4599"
 source: "Player Core"
 ---
 

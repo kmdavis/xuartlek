@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/wand
 - equipment/level/14
 aliases: ["Wand of the Ash Puppet"]
-aon_id: "equipment-2293"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2293"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -15,7 +14,7 @@ source: "Treasure Vault (Remastered)"
 
 `Magical`  `Wand`
 
-- **Price**: 4,500 gp
+- **Price**: 4, 500 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
 

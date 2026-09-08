@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -12,7 +11,7 @@ tags:
 - trait/visual
 - spell/level/4
 aliases: ["Trickster's Twin"]
-aon_id: "spell-1841"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1841"
 source: "Player Core"
 ---
 

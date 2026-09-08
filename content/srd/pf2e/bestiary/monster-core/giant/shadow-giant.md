@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Shadow Giant"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Shadow Giant"
 level: 13
 source: "Monster Core"
-aon_id: "creature-3016"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3016"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [8, 2, 5, 0, 1, 3]
 abilities_top:
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/resilient-major|resilient]] [[srd/pf2e/compendium/equipment/armor#Breastplate|breastplate]]_, _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/flail/spiked-chain|spiked chain]]_"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/resilient|resilient]] [[srd/pf2e/compendium/equipment/armor#Breastplate|breastplate]]_, _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/flail/spiked-chain|spiked chain]]_"
 ac: 33
 armorclass:
   - name: "AC"

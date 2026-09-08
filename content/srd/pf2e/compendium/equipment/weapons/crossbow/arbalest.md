@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
 - trait/backstabber
 - weapon/level/0
 aliases: ["Arbalest"]
-aon_id: "weapon-432"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=432"
 source: "Player Core"
 ---
 
@@ -14,7 +13,7 @@ source: "Player Core"
 
 `Backstabber`
 
-- **Favored Weapon**: Tolte Coatl
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/coatl-tribunal/tolte-coatl|Tolte Coatl]]
 - **Price**: 8 gp
 - **Damage**: 1d10 P
 - **Bulk**: 2

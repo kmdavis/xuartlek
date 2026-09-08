@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core
 aliases: ["Herexen"]
-aon_id: "creature-family-428"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=428"
 source: "Monster Core"
 ---
 
@@ -21,7 +20,7 @@ When a cleric rebels against their deity and dies in the grip of blasphemous rag
 ### Building Herexens
 
 The herexen presented in the stat block below was originally a cleric of Pharasma, but there are as many kinds of herexens as there are deities. To create a herexen of a different deity, do the following. 
-Swap out the herexen's weapon for the deity's favored weapon. If the weapon is simple, increase the damage die by one step; if it's two-handed, decrease the herexen's attack bonus with that weapon by 2.Swap out the herexen's domain spell for a 1st-rank focus spell from a domain associated with that deity.Swap the defiled religious symbol for the correct deity. For example, an ex-Sarenite herexen carries a [[srd/pf2e/compendium/equipment/weapons/sword/scimitar|scimitar]] and a defiled religious symbol of Sarenrae, and can cast [[srd/pf2e/compendium/spells/focus/fire-ray|_fire ray_]] (attack +12) as a focus spell. 
+Swap out the herexen's weapon for the deity's favored weapon. If the weapon is simple, increase the damage die by one step; if it's two-handed, decrease the herexen's attack bonus with that weapon by 2.Swap out the herexen's domain spell for a 1st-rank focus spell from a domain associated with that deity.Swap the defiled religious symbol for the correct deity. For example, an ex-[[srd/pf2e/compendium/deities/gods-of-the-inner-sea/sarenrae|Sarenite]] herexen carries a [[srd/pf2e/compendium/equipment/weapons/sword/scimitar|scimitar]] and a defiled religious symbol of Sarenrae, and can cast [[srd/pf2e/compendium/spells/focus/fire-ray|_fire ray_]] (attack +12) as a focus spell. 
 
 ### Greater Herexens
 

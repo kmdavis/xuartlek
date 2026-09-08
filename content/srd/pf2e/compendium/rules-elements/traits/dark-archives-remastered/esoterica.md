@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 - trait/esoterica
 aliases: ["Esoterica"]
-aon_id: "trait-899"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=899"
 source: "Dark Archives (Remastered)"
 ---
 

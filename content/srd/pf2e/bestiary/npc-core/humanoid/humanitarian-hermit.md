@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Humanitarian Hermit"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Humanitarian Hermit"
 level: 9
 source: "NPC Core"
-aon_id: "creature-3486"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3486"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [4, 1, 3, 1, 4, 1]
 abilities_top:
   - name: "Items"
-    desc: "Hide Armor, expanded healer's toolkit, [[srd/pf2e/compendium/equipment/adventuring-gear/primal-symbol|Primal Symbol]], _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/staves/staff-of-healing-true|staff of healing]]_"
+    desc: "Hide Armor, expanded healer's toolkit, [[srd/pf2e/compendium/equipment/adventuring-gear/primal-symbol|Primal Symbol]], _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/staves/staff-of-healing|staff of healing]]_"
 ac: 26
 armorclass:
   - name: "AC"

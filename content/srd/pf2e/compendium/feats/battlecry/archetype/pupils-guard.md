@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/concentrate
 - feat/level/12
 aliases: ["Pupil's Guard"]
-aon_id: "feat-7954"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7954"
 source: "Battlecry!"
 ---
 

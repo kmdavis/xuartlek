@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/water
 - spell/level/1
 aliases: ["Hydraulic Push"]
-aon_id: "spell-1561"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1561"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Attack`  `Concentrate`  `Manipulate`  `Water`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Besmara, Bokrug, Dagon, Hanspur, Hataam, Kelizandri, Lysianassa, Ragadahn, Sobek, Wadjet, Waves of the Boundless Sea, Ytildos
+- **Deities**: [[srd/pf2e/compendium/deities/other-gods/besmara|Besmara]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/bokrug|Bokrug]], [[srd/pf2e/compendium/deities/demon-lords/dagon|Dagon]], [[srd/pf2e/compendium/deities/other-gods/hanspur|Hanspur]], [[srd/pf2e/compendium/deities/sakhil-tormentors/hataam|Hataam]], [[srd/pf2e/compendium/deities/elemental-lords/kelizandri|Kelizandri]], [[srd/pf2e/compendium/deities/elemental-lords/lysianassa|Lysianassa]], [[srd/pf2e/compendium/deities/eldest/ragadahn|Ragadahn]], Sobek, Wadjet, [[srd/pf2e/compendium/deities/covenants/waves-of-the-boundless-sea|Waves of the Boundless Sea]], Ytildos
 - **Range**: 60 feet
 - **Target**: 1 creature or unattended object
 - **Defense**: AC

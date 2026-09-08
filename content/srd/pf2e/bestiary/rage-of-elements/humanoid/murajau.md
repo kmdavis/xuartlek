@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Murajau"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Murajau"
 level: 5
 source: "Rage of Elements"
-aon_id: "creature-2663"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2663"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/talisman
 - equipment/level/4
 aliases: ["Dragonbone Arrowhead"]
-aon_id: "equipment-5102"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5102"
 source: "Impossible Magic"
 ---
 

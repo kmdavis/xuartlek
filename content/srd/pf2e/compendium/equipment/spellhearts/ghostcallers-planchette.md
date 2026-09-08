@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/spellheart
 - equipment/level/12
 aliases: ["Ghostcaller's Planchette"]
-aon_id: "equipment-2230"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2230"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -36,7 +35,7 @@ This miniature wooden planchette is engraved with symbols designed to attract sp
 
 ---
 
-The resistance when affixed to armor is 10. When the planchette is affixed to a weapon, casting a spell by activating the planchette grants the weapon the effects of both the _ghost touch_ and [[srd/pf2e/compendium/equipment/runes/vitalizing-greater|_greater vitalizing_]] property runes. The spell DC is 38.
+The resistance when affixed to armor is 10. When the planchette is affixed to a weapon, casting a spell by activating the planchette grants the weapon the effects of both the _ghost touch_ and [[srd/pf2e/compendium/equipment/runes/vitalizing|_greater vitalizing_]] property runes. The spell DC is 38.
 
 **Activate** Cast a Spell; **Frequency** once per day; **Effect** You cast 7th-rank _invoke spirits_.
 

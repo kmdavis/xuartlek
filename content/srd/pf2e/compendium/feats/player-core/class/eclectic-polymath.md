@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/bard
 - feat/level/12
 aliases: ["Eclectic Polymath"]
-aon_id: "feat-4617"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4617"
 source: "Player Core"
 ---
 

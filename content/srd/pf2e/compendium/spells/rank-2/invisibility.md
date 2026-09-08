@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/subtle
 - spell/level/2
 aliases: ["Invisibility"]
-aon_id: "spell-1577"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1577"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Illusion`  `Manipulate`  `Subtle`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Achaekek, Erecura, Fortune's Fate, Ketephys, Nalinivati, Ng, Nivi Rhombodazzle, Norgorber, Raumya, Shax, The Tides of Chaos, Yaezhing, Zugero
+- **Deities**: [[srd/pf2e/compendium/deities/other-gods/achaekek|Achaekek]], [[srd/pf2e/compendium/deities/other-gods/erecura|Erecura]], [[srd/pf2e/compendium/deities/pantheons/fortunes-fate|Fortune's Fate]], [[srd/pf2e/compendium/deities/elven-gods/ketephys|Ketephys]], Nalinivati, [[srd/pf2e/compendium/deities/eldest/ng|Ng]], [[srd/pf2e/compendium/deities/other-gods/nivi-rhombodazzle|Nivi Rhombodazzle]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/norgorber|Norgorber]], [[srd/pf2e/compendium/deities/vudrani-gods/raumya|Raumya]], [[srd/pf2e/compendium/deities/demon-lords/shax|Shax]], The Tides of Chaos, Yaezhing, [[srd/pf2e/compendium/deities/goblin-gods/zugero|Zugero]]
 - **Range**: touch
 - **Target**: 1 creature
 - **Duration**: 10 minutes

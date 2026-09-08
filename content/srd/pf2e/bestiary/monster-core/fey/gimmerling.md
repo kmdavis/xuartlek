@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Gimmerling"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Gimmerling"
 level: 12
 source: "Monster Core"
-aon_id: "creature-3018"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3018"
 ---
 
@@ -36,7 +34,7 @@ abilities_top:
   - name: "Hungersense"
     desc: "The gimmerling senses creatures that require food to live."
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/crossbow/hand-crossbow|hand crossbow]]_ (20 bolts)"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/crossbow/hand-crossbow|hand crossbow]]_ (20 bolts)"
 ac: 34
 armorclass:
   - name: "AC"
@@ -82,7 +80,7 @@ abilities_bot:
   - name: "Sneak Attack"
     desc: "The gimmerling deals 2d6 extra precision damage to [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creatures."
   - name: "Trickster's Step"
-    desc: "The gimmerling ignores difficult terrain and doesn't trigger traps with their movement. Gimmerling Keepsakes Gimmerlings collect weapons, traps, mechanical novelties, and dangerous magic items. A gimmerling is likely found with toolkits (like [[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit-sterling|artisan's toolkits]], [[srd/pf2e/compendium/equipment/adventuring-gear/repair-toolkit-superb|repair toolkits]], and [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit-infiltrator-picks|thieves' toolkits]]) and items it can use to appear more vulnerable, such as locks, manacles, and snare kits (which it feigns being trapped by). Hunting Grounds Gimmerlings are more common in the [[srd/pf2e/compendium/gm/planes#First World|First World]] than in [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]] proper and favor hunting grounds on the verges of dangerous places where they might encounter protective creatures to mislead with their disguises."
+    desc: "The gimmerling ignores difficult terrain and doesn't trigger traps with their movement. Gimmerling Keepsakes Gimmerlings collect weapons, traps, mechanical novelties, and dangerous magic items. A gimmerling is likely found with toolkits (like [[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit|artisan's toolkits]], [[srd/pf2e/compendium/equipment/adventuring-gear/repair-toolkit|repair toolkits]], and [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit|thieves' toolkits]]) and items it can use to appear more vulnerable, such as locks, manacles, and snare kits (which it feigns being trapped by). Hunting Grounds Gimmerlings are more common in the [[srd/pf2e/compendium/gm/planes#First World|First World]] than in [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]] proper and favor hunting grounds on the verges of dangerous places where they might encounter protective creatures to mislead with their disguises."
 sourcebook: "_Monster Core_, page 170."
 ```
 

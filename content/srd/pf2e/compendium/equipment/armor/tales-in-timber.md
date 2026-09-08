@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -8,7 +7,7 @@ tags:
 - trait/wood
 - equipment/level/10
 aliases: ["Tales in Timber"]
-aon_id: "equipment-2648"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2648"
 source: "Rage of Elements"
 ---
 

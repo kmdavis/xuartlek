@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
 - trait/magical
 - equipment/level/3
 aliases: ["Marshal's Baton"]
-aon_id: "equipment-3941"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3941"
 source: "Battlecry!"
 ---
 

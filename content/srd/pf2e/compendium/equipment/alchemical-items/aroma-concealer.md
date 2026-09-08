@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -8,7 +7,7 @@ tags:
 - trait/oil
 - equipment/level/1
 aliases: ["Aroma Concealer"]
-aon_id: "equipment-3229"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3229"
 source: "Howl of the Wild"
 ---
 

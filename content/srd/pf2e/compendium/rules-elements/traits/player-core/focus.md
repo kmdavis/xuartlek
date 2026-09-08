@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/focus
 aliases: ["Focus"]
-aon_id: "trait-511"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=511"
 source: "Player Core"
 ---
 

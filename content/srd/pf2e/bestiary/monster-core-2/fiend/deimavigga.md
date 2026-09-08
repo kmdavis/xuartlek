@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Deimavigga"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Deimavigga"
 level: 17
 source: "Monster Core 2"
-aon_id: "creature-4330"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4330"
 ---
 
@@ -40,7 +38,7 @@ abilities_top:
   - name: "Indomitable Oration"
     desc: "Any creature capable of comprehending speech understands the deimavigga, as if they constantly spoke in all languages at once."
   - name: "Items"
-    desc: "_[[srd/pf2e/compendium/equipment/armor/magic-armor-3-major-resilient|+2 resilient]] [[srd/pf2e/compendium/equipment/runes/raiment|raiment]] [[srd/pf2e/compendium/equipment/armor#Full Plate|full plate]]_"
+    desc: "_[[srd/pf2e/compendium/equipment/armor/magic-armor|+2 resilient]] [[srd/pf2e/compendium/equipment/runes/raiment|raiment]] [[srd/pf2e/compendium/equipment/armor#Full Plate|full plate]]_"
 ac: 40
 armorclass:
   - name: "AC"
@@ -48,7 +46,7 @@ armorclass:
 hp: 285
 health:
   - name: "HP"
-    desc: "285; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]; __Resistances__ physical 15 (except [[srd/pf2e/compendium/equipment/materials/silver-object-high-grade|silver]]); __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 15"
+    desc: "285; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]; __Resistances__ physical 15 (except [[srd/pf2e/compendium/equipment/materials/silver|silver]]); __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 15"
 abilities_mid:
   - name: "Whispers of Discord"
     desc: "⬲"

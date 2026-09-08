@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - ritual/level/9
 aliases: ["Separation"]
-aon_id: "ritual-267"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=267"
 source: "Impossible Magic"
 ---
 
@@ -18,7 +17,7 @@ source: "Impossible Magic"
 `Emotion`  `Incapacitation`  `Mental`  `Uncommon`
 
 - **Cast**: 1 week
-- **Cost**: protective emblems worth a total value of 5,000 gp
+- **Cost**: protective emblems worth a total value of 5, 000 gp
 - **Secondary Casters**: 3
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] (master) or [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (master)
 - **Secondary Checks**: Society

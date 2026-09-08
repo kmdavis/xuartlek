@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-adjustment
 tags:
 - compendium/src/pf2e/npc-core
 aliases: ["Tengu"]
-aon_id: "creature-adjustment-54"
+aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=54"
 source: "NPC Core"
 ---
 

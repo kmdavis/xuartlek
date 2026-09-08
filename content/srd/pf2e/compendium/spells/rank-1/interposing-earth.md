@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/1
 aliases: ["Interposing Earth"]
-aon_id: "spell-1337"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1337"
 source: "Rage of Elements"
 ---
 
@@ -16,7 +15,7 @@ source: "Rage of Elements"
 `Earth`  `Manipulate`
 
 - **Traditions**: Arcane, Primal
-- **Deity**: Dramindyr
+- **Deity**: [[srd/pf2e/compendium/deities/monitor-demigods/dramindyr|Dramindyr]]
 - **Trigger**: You are the target of a Strike or would attempt a Reflex save against a damaging area effect
 - **Duration**: 3 rounds
 

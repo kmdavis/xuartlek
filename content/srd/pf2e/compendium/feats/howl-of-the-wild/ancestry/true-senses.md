@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 - trait/awakened-animal
 - feat/level/17
 aliases: ["True Senses"]
-aon_id: "feat-5321"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5321"
 source: "Howl of the Wild"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/spirit
 - feat/level/4
 aliases: ["Ghostly Stride"]
-aon_id: "feat-9108"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9108"
 source: "Impossible Magic"
 ---
 

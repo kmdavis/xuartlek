@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-plane
 tags:
 - compendium/src/pf2e/gm-core
@@ -9,24 +8,24 @@ entries: 24
 
 # Planes
 
-## Abaddon  *Plane*
+## Abaddon
 
 - **Category**: Outer Sphere Planes
-- **Divinities**: [[srd/pf2e/compendium/character/deities#Ahriman|Ahriman]], [[srd/pf2e/compendium/gm/creature-families/daemon|daemon harbingers]], Fumeiyoshi, Horsemen of the Apocalypse, Lao Shu Po, Urgathoa, Zyphus
+- **Divinities**: [[srd/pf2e/compendium/deities/other-gods/ahriman|Ahriman]], [[srd/pf2e/compendium/gm/creature-families/daemon|daemon harbingers]], Fumeiyoshi, Horsemen of the Apocalypse, Lao Shu Po, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/urgathoa|Urgathoa]], [[srd/pf2e/compendium/deities/other-gods/zyphus|Zyphus]]
 - **Native Inhabitants**: [[srd/pf2e/compendium/gm/creature-families/daemon|daemons]], shades (the hunted)
 
 A perpetual eclipse looms above the bleak wastelands of Abaddon, shedding an eerie half-light over a landscape of toxic, disease-ridden swamps, volcanic wastes, fog-shrouded forests, and the glittering, memory-devouring ribbon of the River Styx. An unnatural silence blankets the plane, cut only by the wails of shades falling from the sky like screaming, falling stars, or those already condemned upon the ground, desperate to find safety that doesn’t exist. [[srd/pf2e/compendium/gm/creature-families/daemon|Daemons]], the physical embodiments of meaningless death and oblivion, roam unchecked, owing allegiance only to the Four Horsemen of the Apocalypse: Death, Famine, Pestilence, and War. In the courts of the Horsemen and the neutral grounds of trade cities such as Awaiting-Consumption, the soul trade serves daemonic hunger and industrialized extinction. [[srd/pf2e/compendium/gm/creature-families/hag|Hags]] and other creatures ply the trade or make their way along the margins of daemonic society, eager to avoid consumption themselves by the plane’s nihilistic masters.
 
-Urgathoa and Zyphus claim divine domains here, their shades granted freedom from predation, yet something far worse glares down upon these gods and the Horseman alike. Abaddon’s perpetual eclipse might be nothing less than the lidded, comatose eye of the Bound Prince, the First Horseman, betrayed and cast down by the Four, forgotten by the cosmos at large, but far too powerful for them to destroy—waiting, watching, and hungering.
+[[srd/pf2e/compendium/deities/gods-of-the-inner-sea/urgathoa|Urgathoa]] and [[srd/pf2e/compendium/deities/other-gods/zyphus|Zyphus]] claim divine domains here, their shades granted freedom from predation, yet something far worse glares down upon these gods and the Horseman alike. Abaddon’s perpetual eclipse might be nothing less than the lidded, comatose eye of the Bound Prince, the First Horseman, betrayed and cast down by the Four, forgotten by the cosmos at large, but far too powerful for them to destroy—waiting, watching, and hungering.
 
 *Source: GM Core p. 179*
 
-## Astral Plane  *Plane*
+## Astral Plane
 
 `Subjective Gravity`  `Timeless`
 
 - **Category**: Transitive Planes
-- **Divinities**: Alseta, Apsu
+- **Divinities**: [[srd/pf2e/compendium/deities/other-gods/alseta|Alseta]], Apsu
 - **Native Inhabitants**: shades (untethered), [[srd/pf2e/bestiary/monster-core/astral/shining-child|shining children]]
 
 The Silver Sea surrounds the [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/the-planes#Inner Sphere Planes|planes of the Inner Sphere]], separating them from those of the [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/the-planes#Outer Sphere Planes|Outer Sphere]]. The Astral Plane provides the backdrop against which the River of Souls flows from [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]], ushering departed spirits toward the [[srd/pf2e/compendium/gm/planes#Boneyard|Boneyard]] for final judgment. Far from an empty void, the Astral’s silver substance churns with currents and storms from the metaphysical heat of the [[srd/pf2e/compendium/gm/planes#Plane of Fire|Plane of Fire]], and where it touches the chaos of the [[srd/pf2e/compendium/gm/planes#Maelstrom|Maelstrom]], the resulting eddies interact with the memories of the dead to produce fleeting simulacra and even demiplanes.
@@ -37,35 +36,35 @@ Travelers within the Astral find the plane untouched by the passage of time, a p
 
 *Source: GM Core p. 177*
 
-## Axis  *Plane*
+## Axis
 
 - **Category**: Outer Sphere Planes
-- **Divinities**: Abadar, Brigh, Chaldira, halfling pantheon, Irori, Lissala, Milani, Norgorber, primal monitors
+- **Divinities**: [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/abadar|Abadar]], [[srd/pf2e/compendium/deities/other-gods/brigh|Brigh]], [[srd/pf2e/compendium/deities/other-gods/chaldira|Chaldira]], halfling pantheon, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/irori|Irori]], [[srd/pf2e/compendium/deities/azlanti-pantheon/lissala|Lissala]], [[srd/pf2e/compendium/deities/other-gods/milani|Milani]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/norgorber|Norgorber]], primal monitors
 - **Native Inhabitants**: [[srd/pf2e/compendium/gm/creature-families/aeon|aeons]], shades (remade)
 
-Axis is a realm of pure, absolute order, unhindered by moral concerns. The plane takes the form of a vast, gleaming, perfectly structured city. Built at the base of Pharasma’s Spire, the Perfect City is a bulwark against the chaos of the [[srd/pf2e/compendium/gm/planes#Maelstrom|Maelstrom]] and the [[srd/pf2e/compendium/gm/planes#Outer Rifts|Outer Rifts]], with vast mechanical armies marching forth to explore, define, and pacify an imperfect, unruly universe. Axis is also home to [[srd/pf2e/bestiary/monster-core/monitor/axiomite|axiomites]]: beings composed of living mathematics and equations. Axiomites continue to work on their organization of the cosmos but increasingly turn their attentions to the planar city of Axis itself; as with any city, Axis requires nonstop maintenance and improvement in order to resist the march of time.
+Axis is a realm of pure, absolute order, unhindered by moral concerns. The plane takes the form of a vast, gleaming, perfectly structured city. Built at the base of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma]]’s Spire, the Perfect City is a bulwark against the chaos of the [[srd/pf2e/compendium/gm/planes#Maelstrom|Maelstrom]] and the [[srd/pf2e/compendium/gm/planes#Outer Rifts|Outer Rifts]], with vast mechanical armies marching forth to explore, define, and pacify an imperfect, unruly universe. Axis is also home to [[srd/pf2e/bestiary/monster-core/monitor/axiomite|axiomites]]: beings composed of living mathematics and equations. Axiomites continue to work on their organization of the cosmos but increasingly turn their attentions to the planar city of Axis itself; as with any city, Axis requires nonstop maintenance and improvement in order to resist the march of time.
 
-Axis’s natives are far from the only inhabitants of their cosmopolitan realm. [[srd/pf2e/compendium/gm/creature-families/devil|Devils]] and [[srd/pf2e/compendium/gm/creature-families/archon|archons]] often visit along with shades, mortal travelers, and smaller numbers of most every other kind of extraplanar being. Abadar and other deities make their homes in the realm. The empty, former domain of Aroden languishes here, while below the streets lies Norgorber’s domain, a labyrinthine undercity.
+Axis’s natives are far from the only inhabitants of their cosmopolitan realm. [[srd/pf2e/compendium/gm/creature-families/devil|Devils]] and [[srd/pf2e/compendium/gm/creature-families/archon|archons]] often visit along with shades, mortal travelers, and smaller numbers of most every other kind of extraplanar being. [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/abadar|Abadar]] and other deities make their homes in the realm. The empty, former domain of Aroden languishes here, while below the streets lies [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/norgorber|Norgorber’s]] domain, a labyrinthine undercity.
 
 *Source: GM Core p. 179*
 
-## Boneyard  *Plane*
+## Boneyard
 
 `Timeless`
 
 - **Category**: Outer Sphere Planes
-- **Divinities**: Achaekek, Groetus, [[srd/pf2e/compendium/gm/creature-families/psychopomp|psychopomp ushers]], Pharasma
+- **Divinities**: [[srd/pf2e/compendium/deities/other-gods/achaekek|Achaekek]], [[srd/pf2e/compendium/deities/other-gods/groetus|Groetus]], [[srd/pf2e/compendium/gm/creature-families/psychopomp|psychopomp ushers]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma]]
 - **Native Inhabitants**: shades (the dead), [[srd/pf2e/compendium/gm/creature-families/psychopomp|psychopomps]]
 
-The Boneyard spans an impossibly tall and ever-growing spire of gleaming quintessence that rises up into the silver void of the [[srd/pf2e/compendium/gm/planes#Astral Plane|Astral Plane]]. As the destination of the River of Souls, the Boneyard is where the souls of the mortal dead arrive for judgment and for Pharasma and her psychopomp servitors to direct them to their respective afterlives. Pharasma’s domain is separated into eight courts, each corresponding to one of the other planes of the [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/the-planes#Outer Sphere Planes|Outer Sphere]] and collecting the souls due to that plane. Not every soul goes unchallenged, and proxies of gods and planes argue and debate over souls, with final arbitration conducted by Pharasma herself.
+The Boneyard spans an impossibly tall and ever-growing spire of gleaming quintessence that rises up into the silver void of the [[srd/pf2e/compendium/gm/planes#Astral Plane|Astral Plane]]. As the destination of the River of Souls, the Boneyard is where the souls of the mortal dead arrive for judgment and for [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma]] and her psychopomp servitors to direct them to their respective afterlives. Pharasma’s domain is separated into eight courts, each corresponding to one of the other planes of the [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/the-planes#Outer Sphere Planes|Outer Sphere]] and collecting the souls due to that plane. Not every soul goes unchallenged, and proxies of gods and planes argue and debate over souls, with final arbitration conducted by Pharasma herself.
 
-While Pharasma rules absolutely within the Boneyard, she isn’t the only divinity there. The demigod [[srd/pf2e/compendium/gm/creature-families/psychopomp|psychopomp]] ushers dwell within the plane in service to her, and the deity Achaekek dwells below at the spire’s root. Looming high above as a skull-faced moon waits Groetus, the god of the end times, his orbit slowly decaying in minuscule iterations supposedly counting down to the last days of the cosmos.
+While Pharasma rules absolutely within the Boneyard, she isn’t the only divinity there. The demigod [[srd/pf2e/compendium/gm/creature-families/psychopomp|psychopomp]] ushers dwell within the plane in service to her, and the deity [[srd/pf2e/compendium/deities/other-gods/achaekek|Achaekek]] dwells below at the spire’s root. Looming high above as a skull-faced moon waits [[srd/pf2e/compendium/deities/other-gods/groetus|Groetus]], the god of the end times, his orbit slowly decaying in minuscule iterations supposedly counting down to the last days of the cosmos.
 
 Pharasma’s courts and the surrounding Graveyard of Souls are not the only features atop the spire. Beyond the graveyard, the Spirelands manifest environments much like those of the varied worlds of [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]], filled with the souls of neutral shades who have nowhere else to go as they are unclaimed by any gods and did nothing in life to suggest any particular ethos.
 
 *Source: GM Core p. 179*
 
-## Creation's Forge  *Plane*
+## Creation's Forge
 
 `Subjective Gravity`  `Unbounded`  `Vitality`  `Positive`
 
@@ -79,7 +78,7 @@ Brilliant and blinding, the plane’s interior is sparsely populated, and the re
 
 *Source: GM Core p. 175*
 
-## Dimension of Time  *Plane*
+## Dimension of Time
 
 `Erratic`  `Static`
 
@@ -95,7 +94,7 @@ Supposedly, like an eye in a storm, at the dimension’s heart is a legendary re
 
 *Source: GM Core p. 181*
 
-## Dreamlands  *Plane*
+## Dreamlands
 
 `Flowing`
 
@@ -109,19 +108,19 @@ While most dreamscapes are safe, travelers in the deep, permanent Dreamlands fac
 
 *Source: GM Core p. 181*
 
-## Elysium  *Plane*
+## Elysium
 
 - **Category**: Outer Sphere Planes
-- **Divinities**: Calistria, Cayden Cailean, Desna, elven pantheon, empyreal lords, Gorum, giant pantheon, Kofusachi, Milani, Nocticula
+- **Divinities**: [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/calistria|Calistria]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/cayden-cailean|Cayden Cailean]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/desna|Desna]], elven pantheon, empyreal lords, [[srd/pf2e/compendium/deities/dead-or-missing-deities/gorum|Gorum]], giant pantheon, Kofusachi, [[srd/pf2e/compendium/deities/other-gods/milani|Milani]], [[srd/pf2e/compendium/deities/other-gods/nocticula|Nocticula]]
 - **Native Inhabitants**: [[srd/pf2e/compendium/gm/creature-families/azata|azatas]], shades (the chosen)
 
 Verdant, wild, and unrestrained by order, where passion and creation are fostered and rewarded, the plane of Elysium is a place of wild, idealized natural beauty. The so-called Promised Land and its inhabitants represent a wide variety of freely given benevolence, often willing to directly aid visitors but more often serving as inspirations and muses to foster positive change and self-realized success. Elysium’s shades, known as the chosen, appear as idealized versions of their mortal selves, each pursuing their own self-determined actions and finding their unique paths to join the ranks of the plane’s celestials.
 
-[[srd/pf2e/compendium/gm/creature-families/azata|Azatas]]—the plane’s primary denizens—organize into fleeting, competitive courts, each rewarding heroism and creativity above all else. Elysium hosts a number of resident deities, including Calistria and the elven pantheon, Cayden Cailean, Desna, Gorum, and various empyreal lords. Visitors from across the planes are drawn to Elysium’s Wandering City of Emerald Song, a mobile, impermanent, and ever-changing city of azatas organized by their princess, Anduarine the Muse, filled with art, craft, revelry, song, and trade.
+[[srd/pf2e/compendium/gm/creature-families/azata|Azatas]]—the plane’s primary denizens—organize into fleeting, competitive courts, each rewarding heroism and creativity above all else. Elysium hosts a number of resident deities, including [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/calistria|Calistria]] and the elven pantheon, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/cayden-cailean|Cayden Cailean]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/desna|Desna]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/gorum|Gorum]], and various empyreal lords. Visitors from across the planes are drawn to Elysium’s Wandering City of Emerald Song, a mobile, impermanent, and ever-changing city of azatas organized by their princess, Anduarine the Muse, filled with art, craft, revelry, song, and trade.
 
 *Source: GM Core p. 179*
 
-## Ethereal Plane  *Plane*
+## Ethereal Plane
 
 `Subjective Gravity`
 
@@ -135,7 +134,7 @@ While travelers can easily become lost in the mists with little to guide them, t
 
 *Source: GM Core p. 177*
 
-## First World  *Plane*
+## First World
 
 `Erratic`  `Metamorphic`
 
@@ -149,34 +148,34 @@ The First World stands outside the cycle of souls, something the fey call the Gr
 
 *Source: GM Core p. 177*
 
-## Heaven  *Plane*
+## Heaven
 
 - **Category**: Outer Sphere Planes
-- **Divinities**: dwarven pantheon, Easivra, empyreal lords, Erastil, Iomedae, Shizuru, Torag, Tsukiyo
+- **Divinities**: dwarven pantheon, Easivra, empyreal lords, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/erastil|Erastil]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/iomedae|Iomedae]], [[srd/pf2e/compendium/deities/tian-gods/shizuru|Shizuru]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/torag|Torag]], [[srd/pf2e/compendium/deities/tian-gods/tsukiyo|Tsukiyo]]
 - **Native Inhabitants**: [[srd/pf2e/compendium/gm/creature-families/archon|archons]], shades (the elect)
 
-The great mountain of Heaven is the realm of structured benevolence made manifest. Organized into seven tiers, the mountain’s solid appearance is actually malleable, making way for a vast assemblage of varied environments to accommodate both its own [[srd/pf2e/compendium/rules-elements/traits/player-core/celestial|celestials]] and the souls who migrate there. Devoted to defending the innocent and crusading against the wicked, Heaven’s [[srd/pf2e/compendium/gm/creature-families/archon|archons]] marshal into vast armies, commanded by their empyreal lords. [[srd/pf2e/compendium/gm/creature-families/angel|Angels]] collaborate with the archon legions but typically act in more direct service to Heaven’s resident deities, with Iomedae, Erastil, and Torag the most prominent among them.
+The great mountain of Heaven is the realm of structured benevolence made manifest. Organized into seven tiers, the mountain’s solid appearance is actually malleable, making way for a vast assemblage of varied environments to accommodate both its own [[srd/pf2e/compendium/rules-elements/traits/player-core/celestial|celestials]] and the souls who migrate there. Devoted to defending the innocent and crusading against the wicked, Heaven’s [[srd/pf2e/compendium/gm/creature-families/archon|archons]] marshal into vast armies, commanded by their empyreal lords. [[srd/pf2e/compendium/gm/creature-families/angel|Angels]] collaborate with the archon legions but typically act in more direct service to Heaven’s resident deities, with [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/iomedae|Iomedae]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/erastil|Erastil]], and [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/torag|Torag]] the most prominent among them.
 
 Shades known as the elect manifest at the mountain’s base, and their subsequent climb up the seemingly endless, unreachable heights is both a literal and figurative journey. Progress is about personal growth and spiritual purification as the shades grow more and more attuned to the plane. Likewise, progress from one layer to the next is often impossible without permission from the archons or spiritual alignment with Heaven itself. Most visitors arrive at the city of Heaven’s Shore, a place open to both traders and to pilgrims of good intent. Access beyond its heavily guarded walls is difficult, to say nothing of scaling the mountain. At its pinnacle is the Garden, Heaven’s ultimate layer. Unattended and empty, the Garden is a beautiful, transcendent mystery even to its resident deities and the source of the plane’s call of self-perfection to its shades.
 
 *Source: GM Core p. 180*
 
-## Hell  *Plane*
+## Hell
 
 - **Category**: Outer Sphere Planes
-- **Divinities**: archdevils, Asmodeus, Dahak, Erecura, General Susumu, infernal dukes, Minderhal, Yaezhing, Zursvaater, queens of the night
+- **Divinities**: archdevils, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/asmodeus|Asmodeus]], Dahak, [[srd/pf2e/compendium/deities/other-gods/erecura|Erecura]], General Susumu, infernal dukes, Minderhal, Yaezhing, Zursvaater, queens of the night
 - **Native Inhabitants**: [[srd/pf2e/compendium/gm/creature-families/devil|devils]], [[srd/pf2e/compendium/gm/creature-families/hell-hound|hell hounds]], shades (the damned)
 
-Hell is the realm of devils, the multiversal seat of tyranny and malignant laws, and the divine domain of Asmodeus, the Prince of Darkness. Here, every act is authorized, calculated, recorded, and set like perfectly ordered clockwork within a vast machine driven on methodical suffering and greased with pain and purification. The nine inverted layers of Hell violently oppose the surrounding fabric of the [[srd/pf2e/compendium/gm/planes#Maelstrom|Maelstrom]], each layer shaped to reflect the nature of its ruling archdevil. Avernus’s volcanic wastes, ruled by Barbatos, are the marshaling place of Hell’s armies and where newly damned souls are shackled and shuffled off to their assigned torment. Dispater’s layer of Dis is a great iron city: brutal, beautiful, and terrible. The layer of Erebus is comprised of both the sewers of Dis and the vaults and treasuries of Hell, ruled by Mammon, a great genius loci embodied by the very wealth locked within Hell’s coffers. Ruled by Belial, the layer of Phlegethon hosts Hell’s forges, while Geryon’s watery realm of Stygia houses Hell’s libraries. Moloch’s smoldering, ash-draped forest realm of Malebolge is the training site of the infernal armies, and Baalzebul’s frozen layer of Cocytus torments the imprisoned, starving damned. Mephistopheles rules the layer of Caina, a realm of cages and torture suspended above a pit of hungry darkness, while at the very bottom of Hell’s infinite pit, Asmodeus rules unquestioned from his throne in Nessus.
+Hell is the realm of devils, the multiversal seat of tyranny and malignant laws, and the divine domain of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/asmodeus|Asmodeus, the Prince of Darkness]]. Here, every act is authorized, calculated, recorded, and set like perfectly ordered clockwork within a vast machine driven on methodical suffering and greased with pain and purification. The nine inverted layers of Hell violently oppose the surrounding fabric of the [[srd/pf2e/compendium/gm/planes#Maelstrom|Maelstrom]], each layer shaped to reflect the nature of its ruling archdevil. Avernus’s volcanic wastes, ruled by [[srd/pf2e/compendium/deities/archdevils/barbatos|Barbatos]], are the marshaling place of Hell’s armies and where newly damned souls are shackled and shuffled off to their assigned torment. [[srd/pf2e/compendium/deities/archdevils/dispater|Dispater]]’s layer of Dis is a great iron city: brutal, beautiful, and terrible. The layer of Erebus is comprised of both the sewers of Dis and the vaults and treasuries of Hell, ruled by Mammon, a great genius loci embodied by the very wealth locked within Hell’s coffers. Ruled by [[srd/pf2e/compendium/deities/archdevils/belial|Belial]], the layer of Phlegethon hosts Hell’s forges, while [[srd/pf2e/compendium/deities/archdevils/geryon|Geryon]]’s watery realm of Stygia houses Hell’s libraries. Moloch’s smoldering, ash-draped forest realm of Malebolge is the training site of the infernal armies, and [[srd/pf2e/compendium/deities/archdevils/baalzebul|Baalzebul]]’s frozen layer of Cocytus torments the imprisoned, starving damned. [[srd/pf2e/compendium/deities/archdevils/mephistopheles|Mephistopheles]] rules the layer of Caina, a realm of cages and torture suspended above a pit of hungry darkness, while at the very bottom of Hell’s infinite pit, Asmodeus rules unquestioned from his throne in Nessus.
 
 *Source: GM Core p. 180*
 
-## Maelstrom  *Plane*
+## Maelstrom
 
 `Metamorphic`
 
 - **Category**: Outer Sphere Planes
-- **Divinities**: Besmara, Hanspur, Hei Feng, Naderi, Nalinivati, Nethys, orc pantheon, protean lords, Sivanah, Speakers of the Depths, Sun Wukong, Yamatsumi, Ydersius
+- **Divinities**: [[srd/pf2e/compendium/deities/other-gods/besmara|Besmara]], [[srd/pf2e/compendium/deities/other-gods/hanspur|Hanspur]], [[srd/pf2e/compendium/deities/tian-gods/hei-feng|Hei Feng]], Naderi, Nalinivati, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/nethys|Nethys]], orc pantheon, protean lords, [[srd/pf2e/compendium/deities/other-gods/sivanah|Sivanah]], Speakers of the Depths, Sun Wukong, Yamatsumi, [[srd/pf2e/compendium/deities/dead-or-missing-deities/ydersius|Ydersius]]
 - **Native Inhabitants**: [[srd/pf2e/compendium/gm/creature-families/protean|proteans]], shades (the shapeless)
 
 The Maelstrom, infinite and ancient, spawned the other [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/the-planes#Outer Sphere Planes|Outer Planes]] in cosmological prehistory and surrounds them like a vast metaphorical—and at times literal—ocean of raw, seething quintessence. Where the Maelstrom borders these other planes, its structure takes on their characteristics, albeit in an unpredictable, chaotic fashion. Beyond these so-called Borderlands, however, the Maelstrom reverts to its true nature, the Cerulean Void: a trackless, liquid infinity devoid of stability and permanence where serpentine [[srd/pf2e/compendium/gm/creature-families/protean|proteans]] create and destroy with profound frivolity. The proteans are paradoxically organized into discrete choruses, each with its own philosophy and goals in service to the Maelstrom.
@@ -185,31 +184,31 @@ Swirling with oddities and wild magic, bereft of laws and structure, the Maelstr
 
 *Source: GM Core p. 180*
 
-## Nirvana  *Plane*
+## Nirvana
 
 - **Category**: Outer Sphere Planes
-- **Divinities**: Daikitsu, empyreal lords, Gruhastha, Kazutal, Kurgess, Qi Zhong, Sarenrae, Shelyn
+- **Divinities**: Daikitsu, empyreal lords, [[srd/pf2e/compendium/deities/other-gods/gruhastha|Gruhastha]], [[srd/pf2e/compendium/deities/other-gods/kazutal|Kazutal]], [[srd/pf2e/compendium/deities/other-gods/kurgess|Kurgess]], Qi Zhong, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/sarenrae|Sarenrae]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/shelyn|Shelyn]]
 - **Native Inhabitants**: [[srd/pf2e/compendium/gm/creature-families/angel|angels]], shades (the cleansed)
 
 The pastoral paradise of Nirvana is the realm of purest benevolence, a plane that promises sanctuary to the weary and enlightenment and transcendence to those who seek it out. Filled with beautiful wilderness of all types in perfect harmony with its occupants, Nirvana’s wilds are home to [[srd/pf2e/compendium/gm/creature-families/angel|angels]] and others. The plane’s shades, known as the cleansed, most often take the forms of glorified, sapient wild animals, though many eventually leave their carefree existence to aid others, ascending to assist the benevolent works of angels. Devoted to guiding and assisting mortals, angels are often charged with delivering important messages that reflect the will of benevolent deities.
 
-Various divinities make their home amid Nirvana’s wilds, including a host of empyreal lords and, most prominently, Sarenrae and Shelyn. While the great cities of High Ninshabur and Llourith welcome visitors, most mortals visiting Nirvana witness the plane’s beauty and supernatural feeling of peace but rarely encounter many of its residents, as the plane protectively hides much of its contents from any but the most selfless and pure of heart. The plane’s hinterlands hint at hidden mysteries, including legends that the plane shelters the vanished heroes of innumerable mortal worlds, peacefully sleeping until their peoples’ times of greatest need.
+Various divinities make their home amid Nirvana’s wilds, including a host of empyreal lords and, most prominently, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/sarenrae|Sarenrae]] and [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/shelyn|Shelyn]]. While the great cities of High Ninshabur and Llourith welcome visitors, most mortals visiting Nirvana witness the plane’s beauty and supernatural feeling of peace but rarely encounter many of its residents, as the plane protectively hides much of its contents from any but the most selfless and pure of heart. The plane’s hinterlands hint at hidden mysteries, including legends that the plane shelters the vanished heroes of innumerable mortal worlds, peacefully sleeping until their peoples’ times of greatest need.
 
 *Source: GM Core p. 180*
 
-## Outer Rifts  *Plane*
+## Outer Rifts
 
 - **Category**: Outer Sphere Planes
-- **Divinities**: Camazotz, demon lords, Droskar, Ghlaunder, goblin hero-gods, Gyronna, Lady Nanbyo, Lamashtu, nascent demon lords, [[srd/pf2e/compendium/gm/creature-families/qlippoth|qlippoth lords]]
+- **Divinities**: Camazotz, demon lords, [[srd/pf2e/compendium/deities/dwarven-gods/droskar|Droskar]], [[srd/pf2e/compendium/deities/other-gods/ghlaunder|Ghlaunder]], goblin hero-gods, [[srd/pf2e/compendium/deities/dead-or-missing-deities/gyronna|Gyronna]], Lady Nanbyo, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/lamashtu|Lamashtu]], nascent demon lords, [[srd/pf2e/compendium/gm/creature-families/qlippoth|qlippoth lords]]
 - **Native Inhabitants**: [[srd/pf2e/compendium/gm/creature-families/demon|demons]], shades (larvae), [[srd/pf2e/compendium/gm/creature-families/qlippoth|qlippoth]]
 
-Like a corrosive rot in the roots of the [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/the-planes#Outer Sphere Planes|Outer Sphere]], or an antithetical, rival reality run aground into the [[srd/pf2e/compendium/gm/planes#Maelstrom|Maelstrom]] at the dawn of time, the Outer Rifts is a place of horror and destruction fed by mortal sin. Each of its innumerable regions is a unique iteration of chaos and malice, each with its own terrible and twisted environment, with one driving maxim: the strong survive, while the weak suffer and are destroyed. Ruled by demons, and before them by the alien, nightmarish [[srd/pf2e/compendium/gm/creature-families/qlippoth|qlippoth]], the Outer Rifts and its native beings seek only to ruin and destroy. Though [[srd/pf2e/compendium/gm/creature-families/demon|demons]] routinely rampage out into other planes when the Outer Rifts manifests a great planar rift, the denizens of the Outer Rifts are fractured and self-destructive. Demon lords such as Dagon, Pazuzu, and Zura, and even gods including the ascended demon lord Lamashtu, the Mother of Monsters, fight for dominion over the Outer Rifts as much or more than they threaten the other planes.
+Like a corrosive rot in the roots of the [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/the-planes#Outer Sphere Planes|Outer Sphere]], or an antithetical, rival reality run aground into the [[srd/pf2e/compendium/gm/planes#Maelstrom|Maelstrom]] at the dawn of time, the Outer Rifts is a place of horror and destruction fed by mortal sin. Each of its innumerable regions is a unique iteration of chaos and malice, each with its own terrible and twisted environment, with one driving maxim: the strong survive, while the weak suffer and are destroyed. Ruled by demons, and before them by the alien, nightmarish [[srd/pf2e/compendium/gm/creature-families/qlippoth|qlippoth]], the Outer Rifts and its native beings seek only to ruin and destroy. Though [[srd/pf2e/compendium/gm/creature-families/demon|demons]] routinely rampage out into other planes when the Outer Rifts manifests a great planar rift, the denizens of the Outer Rifts are fractured and self-destructive. Demon lords such as [[srd/pf2e/compendium/deities/demon-lords/dagon|Dagon]], [[srd/pf2e/compendium/deities/demon-lords/pazuzu|Pazuzu]], and Zura, and even gods including the ascended demon lord [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/lamashtu|Lamashtu, the Mother of Monsters]], fight for dominion over the Outer Rifts as much or more than they threaten the other planes.
 
-Though dangerous, not every realm of the Outer Rifts is immediately hostile to the prepared traveler. Shamira’s city of Alushinyrra in the Midnight Isles and Abraxas’s library-city of Diovengia in the realm of [[srd/pf2e/bestiary/monster-core/monitor/pleroma|Pleroma]] are each welcoming in their own dark ways. Even those who survive a journey through the Outer Rifts, however, inevitably must resist being deeply corrupted by the experience.
+Though dangerous, not every realm of the Outer Rifts is immediately hostile to the prepared traveler. Shamira’s city of Alushinyrra in the Midnight Isles and [[srd/pf2e/compendium/deities/demon-lords/abraxas|Abraxas]]’s library-city of Diovengia in the realm of [[srd/pf2e/bestiary/monster-core/monitor/pleroma|Pleroma]] are each welcoming in their own dark ways. Even those who survive a journey through the Outer Rifts, however, inevitably must resist being deeply corrupted by the experience.
 
 *Source: GM Core p. 181*
 
-## Plane of Air  *Plane*
+## Plane of Air
 
 `Air`  `Subjective Gravity`
 
@@ -219,16 +218,16 @@ Though dangerous, not every realm of the Outer Rifts is immediately hostile to t
 
 The Plane of Air, innermost of the Elemental Planes, is a vast realm of wind, storms, and skies. Illuminated by great artificial globes of flame and distant starlight from [[srd/pf2e/compendium/gm/planes#The Universe|the material universe]], the plane is populated by [[srd/pf2e/compendium/gm/creature-families/elemental-air|air elementals]], dragons, [[srd/pf2e/bestiary/monster-core/elemental/air-scamp|air scamps]], and a great empire of [[srd/pf2e/bestiary/monster-core/elemental/jaathoom|jaathoom genies]]. Though mostly clouds and empty skies, the plane isn’t entirely bereft of solid ground, including rock and ice created by the residents or dragged into their realm from the distant [[srd/pf2e/compendium/gm/planes#Plane of Earth|Plane of Earth]] or neighboring [[srd/pf2e/compendium/gm/planes#Plane of Water|Plane of Water]]. The returning pockets of the [[srd/pf2e/compendium/gm/planes#Plane of Wood|Plane of Wood]] have let loose giant pieces of driftwood into the plane as well. Bizarre, drifting spheres of brass and iron make for the most convenient navigational aids; the former housing the cities of the vast Jaathoom Empire, the latter almost entirely abandoned and shunned by the plane’s inhabitants, who believe them cursed, entrapping forgotten, ancient enemies who once ravaged the plane.
 
-The jaathooms rule from their shining capital city of Armun Kelisk, built atop a series of seven floating islands. Their vast trade network crisscrosses the skies and ventures to other planes, kept aloft by natural and magical flight, including great airships that allow visitors to quickly and safely traverse the skies. The jaathooms are welcoming and gracious hosts to extraplanar travelers and adventurers, a perspective not shared by Hshurha the Duchess of All Winds, one of the elemental lords of air.
+The jaathooms rule from their shining capital city of Armun Kelisk, built atop a series of seven floating islands. Their vast trade network crisscrosses the skies and ventures to other planes, kept aloft by natural and magical flight, including great [[srd/pf2e/compendium/equipment/vehicles/airship|airships]] that allow visitors to quickly and safely traverse the skies. The jaathooms are welcoming and gracious hosts to extraplanar travelers and adventurers, a perspective not shared by Hshurha the Duchess of All Winds, one of the elemental lords of air.
 
 *Source: GM Core p. 175*
 
-## Plane of Earth  *Plane*
+## Plane of Earth
 
 `Earth`
 
 - **Category**: Inner Sphere Planes
-- **Divinities**: elemental lords of earth, Nivi Rhombodazzle
+- **Divinities**: elemental lords of earth, [[srd/pf2e/compendium/deities/other-gods/nivi-rhombodazzle|Nivi Rhombodazzle]]
 - **Native Inhabitants**: crystal dragons, [[srd/pf2e/compendium/gm/creature-families/elemental-earth|earth elementals]], [[srd/pf2e/bestiary/monster-core/elemental/jabali|jabalis]], shades (earth pneuma)
 
 A great and rocky shell situated between the [[srd/pf2e/compendium/gm/planes#Plane of Fire|Plane of Fire]] and [[srd/pf2e/compendium/gm/planes#Plane of Water|Plane of Water]], the Eternal Delve hosts a unique and varied ecology of creatures at home in its rocky depths. Far from an endless, solid expanse, the [[srd/pf2e/compendium/gm/planes#Plane of Earth|Plane of Earth]] is riddled with great caverns and cave systems, excavated artificial vaults, vast crystalline geodes, and underground oceans and springs of magma where it borders its neighboring planes. Housing untold riches in gemstones and veins of precious metals, the Plane of Earth is an attractive setting for planar travelers seeking wealth and willing to risk danger and the wrath of [[srd/pf2e/compendium/gm/creature-families/elemental-earth|elementals]], [[srd/pf2e/bestiary/monster-core/elemental/jabali|jabalis]], and other inhabitants who resent the plunder of their home.
@@ -237,7 +236,7 @@ While elementals have little organized society, the jabali genies’ Peerless Em
 
 *Source: GM Core p. 175*
 
-## Plane of Fire  *Plane*
+## Plane of Fire
 
 `Fire`
 
@@ -247,17 +246,17 @@ While elementals have little organized society, the jabali genies’ Peerless Em
 
 Like a great, gleaming ball of flame situated at the heart of the [[srd/pf2e/compendium/gm/planes#Astral Plane|Astral Plane]], the Plane of Fire is the outermost plane of the [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/the-planes#Inner Sphere Planes|Inner Sphere]]. A perpetual ocean of fire with skies of smoke, storms of raining cinders, and lakes and rivers of magma flowing along its border with the [[srd/pf2e/compendium/gm/planes#Plane of Earth|Elemental Plane of Earth]], the plane is incredibly hostile to those unprepared for its natural hazards. Yet, it houses one of the most well-known and traversed cities in all the planes: Medina Mudii’a, capital of the Dominion of Flame. Floating above a sea of fire upon a great hemisphere of magical brass, Medina Mudii’a is a monument both to [[srd/pf2e/bestiary/monster-core/elemental/ifrit|ifrits’]] cosmopolitan grandeur and tyranny, the latter embodied by the grand sultana of the ifrits. Outside of the mercantile districts and the palaces and temples of the fire genies, the city houses a vast oppressed underclass, including creatures from other planes.
 
-The ifrit domain isn’t absolute, and elsewhere in the plane are nations of [[srd/pf2e/bestiary/monster-core/elemental/fire-scamp|fire scamps]] and the remains of an ancient [[srd/pf2e/compendium/gm/creature-families/munsahir|munsahir]] empire. While they don’t form any cohesive, organized nations, the plane’s [[srd/pf2e/compendium/gm/creature-families/elemental-fire|fire elementals]] are ruled over by the plane’s most powerful entity, Ymeri the Queen of the Inferno, the warlike elemental lord of fire whose reign has gone unquestioned since the imprisonment of her rival Atreia eons ago.
+The ifrit domain isn’t absolute, and elsewhere in the plane are nations of [[srd/pf2e/bestiary/monster-core/elemental/fire-scamp|fire scamps]] and the remains of an ancient [[srd/pf2e/compendium/gm/creature-families/munsahir|munsahir]] empire. While they don’t form any cohesive, organized nations, the plane’s [[srd/pf2e/compendium/gm/creature-families/elemental-fire|fire elementals]] are ruled over by the plane’s most powerful entity, Ymeri the Queen of the Inferno, the warlike elemental lord of fire whose reign has gone unquestioned since the imprisonment of her rival [[srd/pf2e/compendium/deities/elemental-lords/atreia|Atreia]] eons ago.
 
 *Source: GM Core p. 176*
 
-## Plane of Metal  *Plane*
+## Plane of Metal
 
 `Metal`
 
 - **Category**: Inner Sphere Planes
 - **Divinities**: elemental lords of metal
-- **Native Inhabitants**: [[srd/pf2e/compendium/gm/creature-families/elemental-metal|metal elementals]], shades (metal pneuma), [[srd/pf2e/compendium/character/ancestries/talos|taloses]], zuhras
+- **Native Inhabitants**: [[srd/pf2e/compendium/gm/creature-families/elemental-metal|metal elementals]], shades (metal pneuma), [[srd/pf2e/compendium/character/versatile-heritages/talos|taloses]], zuhras
 
 After being cut off since prehistory, the Plane of Metal recently returned to the planar cosmology. Still resuming its ancient form, it wedges between the Plane of Earth and Plane of Water, vast in scope but still expanding. Metal of every kind (liquid and solid), decaying cityscapes, and intense magnetic fields make up the chaotic structure of the plane. Creatures reflect the jumble of forces that make their home. Many have fluid forms of flowing metal or inhabit clouds of rust. The genies of the plane, zuhras, put on bold performances keyed into the plane’s dissonance.
 
@@ -265,7 +264,7 @@ The elemental lords of metal embody the slow disintegration of their home. After
 
 *Source: GM Core p. 176*
 
-## Plane of Water  *Plane*
+## Plane of Water
 
 `Subjective Gravity`  `Water`
 
@@ -279,13 +278,13 @@ While [[srd/pf2e/bestiary/monster-core/elemental/faydhaan|faydhaans]] once claim
 
 *Source: GM Core p. 176*
 
-## Plane of Wood  *Plane*
+## Plane of Wood
 
 `Subjective Gravity`  `Wood`
 
 - **Category**: Inner Sphere Planes
 - **Divinities**: elemental lords of wood
-- **Native Inhabitants**: [[srd/pf2e/compendium/character/ancestries/ardande|ardandes]], forest dragons, kizidhars, kodama, shades (wood pneuma), [[srd/pf2e/compendium/gm/creature-families/elemental-wood|wood elementals]]
+- **Native Inhabitants**: [[srd/pf2e/compendium/character/versatile-heritages/ardande|ardandes]], forest dragons, kizidhars, kodama, shades (wood pneuma), [[srd/pf2e/compendium/gm/creature-families/elemental-wood|wood elementals]]
 
 The Plane of Wood recently returned to the planar cosmology after an absence of eons. Still rebuilding to its ancient splendor, it climbs between the Plane of Water and Plane of Air. Fractal tree growth, eternally tended and shaped by the plane’s inhabitants, stretches across the plane with dizzying symmetry. Creatures either enforce and augment this ordered growth or exist as a byproduct thereof. Some drop from the trees as discarded seeds given fresh life, while others chisel or cultivate creatures’ natural beauty to suit their aesthetic tastes. The genies of the plane, kizidhars, are artisans in this field.
 
@@ -293,21 +292,21 @@ The elemental lords of wood embody the often-paradoxical rigidity and pliancy of
 
 *Source: GM Core p. 176*
 
-## The Netherworld  *Plane*
+## The Netherworld
 
 `Shadow`
 
 - **Category**: Transitive Planes
-- **Divinities**: velstrac demagogues, Zon-Kuthon
+- **Divinities**: velstrac demagogues, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/zon-kuthon|Zon-Kuthon]]
 - **Native Inhabitants**: d'ziriaks, kayals (fetchlings), shades (the mutilated), umbral dragons, velstracs
 
 A murky, distorted, and imperfect mirror of [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]], the Netherworld overlaps the Universe and serves as a buffer or conduit between it and [[srd/pf2e/compendium/gm/planes#The Void|the Void]]. The Netherworld exists in a state of perpetually dim half-light, the landscape containing similar features to the overlapping Universe, but in warped or twisted fashions. Cities in the Universe might exist in the Netherworld, sometimes in ruins and sometimes as terrible, frightening replicas. The darkness also holds points of beauty and relative safety, such as the great city of Shadow Absalom. The bleak doppelganger of Golarion’s own Absalom hosts cross-planar trade facilitated by a permanent, one-way portal out of the gloom.
 
-The Netherworld is populated by dark, altered versions of creatures from the Universe, many of them immigrants that have adapted to the shadow after being trapped in the realm for generations. The shadow natives known as kayals—also called fetchlings—were originally [[srd/pf2e/compendium/character/ancestries/human|humans]] before thousands of years of exposure to the Netherworld and intermarriage with strange beings forever altered them. Velstracs, who long ago fled from [[srd/pf2e/compendium/gm/planes#Hell|Hell]], have since adopted the Netherworld as their home, spreading their horrific message of perfection through mutilation in service to their victim and patron, the god Zon-Kuthon. In contrast, d’ziriaks originated within the Netherworld itself, as did the fearsome umbral dragons ruling self-crafted fiefdoms within the shadows. Greatest of them is Argrinyxia, who rules over Shadow Absalom.
+The Netherworld is populated by dark, altered versions of creatures from the Universe, many of them immigrants that have adapted to the shadow after being trapped in the realm for generations. The shadow natives known as kayals—also called fetchlings—were originally [[srd/pf2e/compendium/character/ancestries/human|humans]] before thousands of years of exposure to the Netherworld and intermarriage with strange beings forever altered them. Velstracs, who long ago fled from [[srd/pf2e/compendium/gm/planes#Hell|Hell]], have since adopted the Netherworld as their home, spreading their horrific message of perfection through mutilation in service to their victim and patron, the god [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/zon-kuthon|Zon-Kuthon]]. In contrast, d’ziriaks originated within the Netherworld itself, as did the fearsome umbral dragons ruling self-crafted fiefdoms within the shadows. Greatest of them is Argrinyxia, who rules over Shadow Absalom.
 
 *Source: GM Core p. 178*
 
-## The Universe  *Plane*
+## The Universe
 
 - **Category**: Inner Sphere Planes
 - **Divinities**: Dominion of the Black, Gozreh
@@ -321,7 +320,7 @@ The Universe serves as the destination for pre-incarnate souls, each mortal life
 
 *Source: GM Core p. 174*
 
-## The Void  *Plane*
+## The Void
 
 `Subjective Gravity`  `Unbounded`  `Void`  `Negative`
 

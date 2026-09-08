@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Infantry Soldier"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Infantry Soldier"
 level: 2
 source: "NPC Core"
-aon_id: "creature-3522"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3522"
 ---
 

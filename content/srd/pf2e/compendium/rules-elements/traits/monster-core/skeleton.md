@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/monster-core
 - trait/skeleton
 aliases: ["Skeleton"]
-aon_id: "trait-772"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=772"
 source: "Monster Core"
 ---
 

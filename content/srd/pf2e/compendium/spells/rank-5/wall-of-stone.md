@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/5
 aliases: ["Wall of Stone"]
-aon_id: "spell-1751"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1751"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Earth`  `Manipulate`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Anubis, Arqueros, Ashukharma, Mazludeh
+- **Deities**: [[srd/pf2e/compendium/deities/dead-or-missing-deities/anubis|Anubis]], Arqueros, [[srd/pf2e/compendium/deities/vudrani-gods/ashukharma|Ashukharma]], Mazludeh
 - **Range**: 120 feet
 
 You shape a wall of solid stone. You create a 1-inch-thick wall of stone up to 120 feet long, and 20 feet high. You can shape the wall's path, placing each 5 feet of the wall on the border between squares. The wall doesn't need to stand vertically, so you can use it to form a bridge or set of stairs, for example. You must conjure the wall in an unbroken open space so its edges don't pass through any creatures or objects, or the spell is lost. 

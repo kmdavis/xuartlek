@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Shikigami"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Shikigami"
 level: 1
 source: "Monster Core 2"
-aon_id: "creature-4453"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4453"
 ---
 
@@ -44,7 +42,7 @@ armorclass:
 hp: 18
 health:
   - name: "HP"
-    desc: "18; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]]; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 3"
+    desc: "18; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]]; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 3"
 speed: "20 feet; flatten"
 attacks:
   - name: "Melee"

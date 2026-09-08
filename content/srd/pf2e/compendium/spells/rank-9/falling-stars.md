@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/9
 aliases: ["Falling Stars"]
-aon_id: "spell-1521"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1521"
 source: "Player Core"
 ---
 
@@ -16,8 +15,8 @@ source: "Player Core"
 `Concentrate`  `Manipulate`
 
 - **Traditions**: Arcane, Primal
-- **Bloodline**: Diabolic
-- **Deities**: Apsu, Cosmic Caravan
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Diabolic|Diabolic]]
+- **Deities**: Apsu, [[srd/pf2e/compendium/deities/pantheons/cosmic-caravan|Cosmic Caravan]]
 - **Range**: 500 feet
 - **Area**: 4 40-foot bursts
 - **Defense**: basic Reflex

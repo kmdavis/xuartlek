@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/nephilim
 - feat/level/1
 aliases: ["Lawbringer"]
-aon_id: "feat-4545"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4545"
 source: "Player Core"
 ---
 

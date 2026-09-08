@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/gnoll
 - feat/level/9
 aliases: ["Breath Like Honey"]
-aon_id: "feat-5604"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5604"
 source: "Player Core 2"
 ---
 

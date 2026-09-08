@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
 - trait/magical
 - equipment/level/11
 aliases: ["Hunter's Anthem"]
-aon_id: "equipment-2867"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2867"
 source: "GM Core"
 ---
 
@@ -14,7 +13,7 @@ source: "GM Core"
 
 `Magical`
 
-- **Price**: 1,300 gp
+- **Price**: 1, 300 gp
 - **Usage**: held in 1 hand
 - **Bulk**: 2
 - **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/bow/longbow|Longbow]]

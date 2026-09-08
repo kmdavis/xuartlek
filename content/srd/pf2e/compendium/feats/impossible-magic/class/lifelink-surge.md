@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/summoner
 - feat/level/4
 aliases: ["Lifelink Surge"]
-aon_id: "feat-9238"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9238"
 source: "Impossible Magic"
 ---
 

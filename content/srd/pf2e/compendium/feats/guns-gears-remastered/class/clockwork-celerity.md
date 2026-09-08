@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/unstable
 - feat/level/6
 aliases: ["Clockwork Celerity"]
-aon_id: "feat-3060"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3060"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -16,7 +15,7 @@ source: "Guns & Gears (Remastered)"
 
 `Inventor`  `Manipulate`  `Unstable`
 
-- **Prerequisites**: armor, construct, or weapon innovation
+- **Prerequisites**: [[srd/pf2e/compendium/character/innovations#Armor|armor]], [[srd/pf2e/compendium/character/innovations#Construct|construct]], or [[srd/pf2e/compendium/character/innovations#Weapon|weapon]] innovation
 - **Trigger**: Your turn begins.
 
 You can use unstable clockwork devices in your innovation to push your invention to act more quickly. You are [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]] for this turn. How you can use the extra action depends on your innovation. 

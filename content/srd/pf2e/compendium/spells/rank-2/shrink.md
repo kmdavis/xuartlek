@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/polymorph
 - spell/level/2
 aliases: ["Shrink"]
-aon_id: "spell-1672"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1672"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Polymorph`
 
 - **Traditions**: Arcane, Primal
-- **Deity**: Atropos
+- **Deity**: [[srd/pf2e/compendium/deities/monitor-demigods/atropos|Atropos]]
 - **Range**: 30 feet
 - **Target**: 1 willing creature
 - **Duration**: 5 minutes

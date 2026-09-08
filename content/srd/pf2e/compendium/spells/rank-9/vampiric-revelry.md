@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -10,7 +9,7 @@ tags:
 - trait/negative
 - spell/level/9
 aliases: ["Vampiric Revelry"]
-aon_id: "spell-2856"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2856"
 source: "Impossible Magic"
 ---
 

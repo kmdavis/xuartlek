@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/primal
 - feat/level/12
 aliases: ["The World Devours"]
-aon_id: "feat-9385"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9385"
 source: "Impossible Magic"
 ---
 

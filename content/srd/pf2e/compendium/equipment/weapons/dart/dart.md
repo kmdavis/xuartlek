@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/thrown
 - weapon/level/0
 aliases: ["Dart"]
-aon_id: "weapon-426"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=426"
 source: "Player Core"
 ---
 
@@ -15,7 +14,7 @@ source: "Player Core"
 
 `Agile`  `Thrown`
 
-- **Favored Weapon**: Irez, Xsistaid
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/empyreal-lords/irez|Irez]], [[srd/pf2e/compendium/deities/daemon-harbingers/xsistaid|Xsistaid]]
 - **Price**: 1 cp
 - **Damage**: 1d4 P
 - **Bulk**: L

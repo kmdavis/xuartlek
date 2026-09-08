@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/2
 aliases: ["Dispel Magic"]
-aon_id: "spell-1493"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1493"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 
 - **Traditions**: Arcane, Divine, Occult, Primal
 - **Spell Lists**: Elemental
-- **Bloodline**: Imperial
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Imperial|Imperial]]
 - **Range**: 120 feet
 - **Target**: 1 spell effect or unattended magic item
 

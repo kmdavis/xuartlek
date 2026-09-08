@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Adult Diabolic Dragon"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Adult Diabolic Dragon"
 level: 15
 source: "Monster Core"
-aon_id: "creature-2939"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2939"
 ---
 

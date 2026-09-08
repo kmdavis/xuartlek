@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Worm Prophet"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Worm Prophet"
 level: 12
 source: "Monster Core 2"
-aon_id: "creature-4572"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4572"
 ---
 
@@ -40,7 +38,7 @@ skills:
 abilityMods: [5, 2, 4, 3, 7, 6]
 abilities_top:
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol-silver|silver religious symbol]] (10), _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/hammer/warhammer|warhammer]]_"
+    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol|silver religious symbol]] (10), _[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/hammer/warhammer|warhammer]]_"
 ac: 32
 armorclass:
   - name: "AC"

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/visual
 - spell/level/1
 aliases: ["Dizzying Colors"]
-aon_id: "spell-1500"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1500"
 source: "Player Core"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core"
 `Concentrate`  `Illusion`  `Incapacitation`  `Manipulate`  `Visual`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Lady Jingxi, Lalaci, Pulura, Shelyn, Thisamet
+- **Deities**: Lady Jingxi, [[srd/pf2e/compendium/deities/empyreal-lords/lalaci|Lalaci]], [[srd/pf2e/compendium/deities/empyreal-lords/pulura|Pulura]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/shelyn|Shelyn]], Thisamet
 - **Area**: 15-foot cone
 - **Defense**: Will
 - **Duration**: 1 or more rounds (see below)

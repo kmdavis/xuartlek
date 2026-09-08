@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/rage
 - feat/level/4
 aliases: ["Scars of Steel"]
-aon_id: "feat-5820"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5820"
 source: "Player Core 2"
 ---
 
@@ -16,7 +15,7 @@ source: "Player Core 2"
 `Barbarian`  `Rage`
 
 - **Frequency**: once per day
-- **Prerequisites**: fury instinct
+- **Prerequisites**: [[srd/pf2e/compendium/character/instincts/fury|fury instinct]]
 - **Trigger**: An opponent critically hits you with an attack that deals physical damage.
 
 When you are struck with the mightiest of blows, you can flex your muscles to turn aside some of the damage. You gain resistance to the triggering attack equal to your Constitution modifier plus half your level.

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/free-hand
 - weapon/level/0
 aliases: ["Spiked Gauntlet"]
-aon_id: "weapon-366"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=366"
 source: "Player Core"
 ---
 
@@ -15,7 +14,7 @@ source: "Player Core"
 
 `Agile`  `Free-Hand`
 
-- **Favored Weapon**: Anogetz, Marishi, The Divine Dare, Trelmarixian, Urazra, Zevgavizeb
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/daemon-harbingers/anogetz|Anogetz]], Marishi, The Divine Dare, [[srd/pf2e/compendium/deities/apocalypse-riders/trelmarixian|Trelmarixian]], [[srd/pf2e/compendium/deities/giant-gods/urazra|Urazra]], [[srd/pf2e/compendium/deities/demon-lords/zevgavizeb|Zevgavizeb]]
 - **Price**: 3 sp
 - **Damage**: 1d4 P
 - **Bulk**: L

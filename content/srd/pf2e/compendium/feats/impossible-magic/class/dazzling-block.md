@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/visual
 - feat/level/10
 aliases: ["Dazzling Block"]
-aon_id: "feat-9072"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9072"
 source: "Impossible Magic"
 ---
 

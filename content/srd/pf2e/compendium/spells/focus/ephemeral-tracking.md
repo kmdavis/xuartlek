@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/uncommon
 - spell/level/3
 aliases: ["Ephemeral Tracking"]
-aon_id: "spell-1870"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1870"
 source: "Player Core"
 ---
 

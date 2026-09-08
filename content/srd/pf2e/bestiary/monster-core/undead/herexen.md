@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Herexen"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Herexen"
 level: 2
 source: "Monster Core"
-aon_id: "creature-3049"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3049"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [2, 2, 1, 0, 4, 3]
 abilities_top:
   - name: "Items"
-    desc: "Dagger, defiled [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol-silver|religious symbol]] of Pharasma"
+    desc: "Dagger, defiled [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol|religious symbol]] of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma]]"
 ac: 17
 armorclass:
   - name: "AC"
@@ -56,7 +54,7 @@ attacks:
     desc: "⬻ dagger +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d6+4 piercing plus heretic's smite"
 abilities_bot:
   - name: "Heretic's Smite"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|Unholy]]) While wielding the favored weapon of its former deity (such as a [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]] for an ex-Pharasmin herexen), the herexen's Strikes deal an additional 1d6 spirit damage to creatures with the [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] trait. Herexen Lairs Most herexens settle down in a particular town or region to corrupt the local populace. Powerful herexens may boldly lair in a defiled temple, creating a vile parody of the building's former glory. However, most herexens hide in decrepit places such as ruins, forgotten basements, or tombs."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|Unholy]]) While wielding the favored weapon of its former deity (such as a [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]] for an ex-[[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasmin]] herexen), the herexen's Strikes deal an additional 1d6 spirit damage to creatures with the [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] trait. Herexen Lairs Most herexens settle down in a particular town or region to corrupt the local populace. Powerful herexens may boldly lair in a defiled temple, creating a vile parody of the building's former glory. However, most herexens hide in decrepit places such as ruins, forgotten basements, or tombs."
 spellcasting:
   - name: "Divine Prepared Spells"
     desc: "DC 18 - __1st__ [[srd/pf2e/compendium/spells/rank-1/harm|Harm]] (×4) __Cleric Domain Spells 1 Focus Point,__ DC 18 - __1st__ [[srd/pf2e/compendium/spells/focus/deaths-call|Death's Call]]"

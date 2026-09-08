@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -10,7 +9,7 @@ tags:
 - trait/unholy
 - equipment/level/10
 aliases: ["Rose of Loves Lost"]
-aon_id: "equipment-4145"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4145"
 source: "Dark Archives (Remastered)"
 ---
 

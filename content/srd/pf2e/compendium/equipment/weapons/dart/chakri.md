@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - weapon/level/0
 aliases: ["Chakri"]
-aon_id: "weapon-333"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=333"
 source: "Treasure Vault (Remastered)"
 ---
 

@@ -1,17 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/battlecry
 - vehicle/level/19
 aliases: ["Siege Barge"]
-aon_id: "vehicle-113"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=113"
 source: "Battlecry!"
 ---
 
 # Siege Barge  *Vehicle 19*
 
-- **Price**: 120,000 gp
+- **Price**: 120, 000 gp
 
 These special barges were designed to siege river and oceanside fortresses and enemy encampments. In addition to carrying two huge siege weapons and their crews, these barges also hold a variety of stones and other siege projectiles.
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -12,7 +11,7 @@ tags:
 - trait/uncommon
 - equipment/level/15
 aliases: ["Blightburn Bomb"]
-aon_id: "equipment-1902"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1902"
 source: "Treasure Vault (Remastered)"
 ---
 

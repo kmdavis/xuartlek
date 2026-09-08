@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
 - trait/mythic
 - feat/level/16
 aliases: ["Night Terror"]
-aon_id: "feat-7310"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7310"
 source: "War of Immortals"
 ---
 

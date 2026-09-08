@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - ritual/level/2
 aliases: ["Still Life Storage"]
-aon_id: "ritual-269"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=269"
 source: "Impossible Magic"
 ---
 

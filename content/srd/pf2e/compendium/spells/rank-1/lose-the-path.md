@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -9,7 +8,7 @@ tags:
 - trait/visual
 - spell/level/1
 aliases: ["Lose the Path"]
-aon_id: "spell-2760"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2760"
 source: "Impossible Magic"
 ---
 
@@ -18,7 +17,7 @@ source: "Impossible Magic"
 `Illusion`  `Manipulate`  `Mental`  `Visual`
 
 - **Traditions**: Occult, Primal
-- **Deities**: Il’Surrish, Uskyeria
+- **Deities**: [[srd/pf2e/compendium/deities/monitor-demigods/ilsurrish|Il’Surrish]], [[srd/pf2e/compendium/deities/empyreal-lords/uskyeria|Uskyeria]]
 - **Trigger**: A creature in range Strides.
 - **Range**: 60 feet
 - **Target**: the triggering creature

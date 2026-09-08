@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/unique
 - siege-weapon/level/20
 aliases: ["Fists of Divinity"]
-aon_id: "siege-weapon-51"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=51"
 source: "Battlecry!"
 ---
 
@@ -15,7 +14,7 @@ source: "Battlecry!"
 
 `Mounted`  `Unique`
 
-- **Price**: 140,000 gp
+- **Price**: 140, 000 gp
 - **Ammunition**: any item (variable gp, 1 to 10 Bulk)
 
 **Usage** mounted (black powder)

@@ -7,7 +7,6 @@ cssclasses:
 tags:
   - srd/pf2e/gm-core
 source: "GM Core"
-aon_id: 2874
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2874"
 citation: "GM Core pg. 112"
 ---
@@ -267,7 +266,7 @@ You can also add special, thematic modifiers for certain skill uses. For instanc
 
 ## Items
 
-If you gave a creature gear equivalent to a PC, your PCs would gain a huge amount of treasure by defeating a large group of them. Using the Safe Items table can help you avoid that. A creature can have a single permanent item of the listed level without issue. For example, if a 6th-level creature has a *[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 weapon]]*, that item's not worth enough that the PCs would be massively rich if they encountered many creatures of that type and sold everything they found. You can give a creature several lower-level items too. Just pay attention to your overall treasure as measured against the Safe Item table below. At the lowest levels, a creature can certainly have multiple level 0 items, even though normally a creature should have only one item of the level listed in the Safe Item Level column.
+If you gave a creature gear equivalent to a PC, your PCs would gain a huge amount of treasure by defeating a large group of them. Using the Safe Items table can help you avoid that. A creature can have a single permanent item of the listed level without issue. For example, if a 6th-level creature has a *[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 weapon]]*, that item's not worth enough that the PCs would be massively rich if they encountered many creatures of that type and sold everything they found. You can give a creature several lower-level items too. Just pay attention to your overall treasure as measured against the Safe Item table below. At the lowest levels, a creature can certainly have multiple level 0 items, even though normally a creature should have only one item of the level listed in the Safe Item Level column.
 
 Specific creatures or NPCs have more leeway to break these guidelines because you can plan the rest of your adventure's loot around them. Also, giving a boss a powerful magic item makes the fight and its aftermath more interesting.
 
@@ -555,7 +554,7 @@ The Strike Damage table entries include a damage expression (a die roll or rolls
 >
 > As noted in [[#Items|Items]], most creatures have less treasure than PCs, so those that rely on manufactured weapons are significantly weaker if you don't adjust the weapons' damage to compensate. The method for determining [[#Strike Damage|Strike damage]] abstracts the sources of damage, so you don't have to worry about adjusting the weapon's damage. If you do decide to calculate the weapon's damage, give your creature weapon specialization or greater weapon specialization much earlier than a PC would get it. You might also need to add sneak attack or similar abilities to make the creature deal more damage.
 >
-> On the flip side, you might want to use a one-off creature as a source of a particularly high-level piece of treasure, such as a magic weapon. In these cases, you might want to make the attack bonus higher for the [[srd/pf2e/compendium/equipment/runes/weapon-potency-3|potency rune]] or the damage higher for a potent [[srd/pf2e/compendium/equipment/runes/striking-major|striking rune]] so the PCs feel the weapon's effect before they obtain it. This will make the treasure feel more powerful since they've already been on the receiving end.
+> On the flip side, you might want to use a one-off creature as a source of a particularly high-level piece of treasure, such as a magic weapon. In these cases, you might want to make the attack bonus higher for the [[srd/pf2e/compendium/equipment/runes/weapon-potency|potency rune]] or the damage higher for a potent [[srd/pf2e/compendium/equipment/runes/striking|striking rune]] so the PCs feel the weapon's effect before they obtain it. This will make the treasure feel more powerful since they've already been on the receiving end.
 
 ## Spells
 

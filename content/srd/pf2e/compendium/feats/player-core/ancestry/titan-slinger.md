@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/halfling
 - feat/level/1
 aliases: ["Titan Slinger"]
-aon_id: "feat-4462"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4462"
 source: "Player Core"
 ---
 

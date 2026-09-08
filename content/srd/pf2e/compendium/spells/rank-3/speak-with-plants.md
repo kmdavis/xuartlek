@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/wood
 - spell/level/3
 aliases: ["Speak with Plants"]
-aon_id: "spell-1681"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1681"
 source: "Player Core"
 ---
 

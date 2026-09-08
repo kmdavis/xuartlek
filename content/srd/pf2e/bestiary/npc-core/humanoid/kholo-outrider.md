@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Kholo Outrider"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Kholo Outrider"
 level: 7
 source: "NPC Core"
-aon_id: "creature-3653"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3653"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/player-core-2
@@ -9,7 +8,7 @@ tags:
 - trait/poison
 - equipment/level/16
 aliases: ["Cerulean Scourge"]
-aon_id: "equipment-3329"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3329"
 source: "Player Core 2"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core 2"
 
 `Alchemical`  `Consumable`  `Injury`  `Poison`
 
-- **Price**: 1,450 gp
+- **Price**: 1, 450 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
 - **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])

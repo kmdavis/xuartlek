@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Wolf"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Wolf"
 level: 1
 source: "Monster Core"
-aon_id: "creature-3241"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3241"
 ---
 

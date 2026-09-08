@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -9,7 +8,7 @@ tags:
 - trait/unique
 - equipment/level/23
 aliases: ["Serithtial"]
-aon_id: "equipment-3123"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3123"
 source: "GM Core"
 ---
 
@@ -33,7 +32,7 @@ source: "GM Core"
 
 --- 
 
-The legendary blade _Serithtial_ is said to have been forged by Iomedae, goddess of honor, justice, and valor. She is an intelligent _+4 major striking holy bastard sword_. Although the sword is made of steel, Serithtial is also treated as cold iron and silver, allowing her to deal more damage to certain supernatural creatures. She glows as bright as a torch, but you or _Serithtial_ can suppress or resume this glow as a single action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait. In addition, Strikes with _Serithtial_ deal an additional 2d6 damage against creatures that are worshippers of Zon-Kuthon. While wielding _Serithtial_, against effects created by followers of Zon-Kuthon you gain the benefit of [[srd/pf2e/compendium/spells/rank-4/unfettered-movement|_unfettered movement_]], a +4 status bonus to saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]] effects, void resistance 10, and suppress the [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]] condition.
+The legendary blade _Serithtial_ is said to have been forged by [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/iomedae|Iomedae]], goddess of honor, justice, and valor. She is an intelligent _+4 major striking holy bastard sword_. Although the sword is made of steel, Serithtial is also treated as cold iron and silver, allowing her to deal more damage to certain supernatural creatures. She glows as bright as a torch, but you or _Serithtial_ can suppress or resume this glow as a single action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait. In addition, Strikes with _Serithtial_ deal an additional 2d6 damage against creatures that are worshippers of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/zon-kuthon|Zon-Kuthon]]. While wielding _Serithtial_, against effects created by followers of Zon-Kuthon you gain the benefit of [[srd/pf2e/compendium/spells/rank-4/unfettered-movement|_unfettered movement_]], a +4 status bonus to saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]] effects, void resistance 10, and suppress the [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]] condition.
 
  _Serithtial_ was forged as a bastard sword, and she reverts to this shape when no one wields her, but she can also detect what sort of blade her current wielder prefers and transform into it (choosing from dagger, shortsword, longsword, scimitar, falchion, greatsword, rapier, or bastard sword) using an action, which she does when first held. The wielder can empathically tell Serithtial to transform at any time by using a single action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait, after which Serithtial uses an action to transform.
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/necromancer
 - feat/level/2
 aliases: ["Invert Harm"]
-aon_id: "feat-9102"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9102"
 source: "Impossible Magic"
 ---
 

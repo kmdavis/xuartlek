@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/war-of-immortals
 - trait/rare
 - ritual/level/8
 aliases: ["Embodied Font"]
-aon_id: "ritual-187"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=187"
 source: "War of Immortals"
 ---
 
@@ -15,7 +14,7 @@ source: "War of Immortals"
 `Rare`
 
 - **Cast**: 1 Day
-- **Cost**: magic items with a value of at least 2,000 gp
+- **Cost**: magic items with a value of at least 2, 000 gp
 - **Primary Check**: skill corresponding to the target’s casting tradition (trained)
 - **Range**: 10 feet
 - **Target(s)**: the disembodied wildspell associated with the primary caster

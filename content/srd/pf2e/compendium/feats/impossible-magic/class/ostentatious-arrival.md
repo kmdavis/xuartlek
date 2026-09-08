@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -10,7 +9,7 @@ tags:
 - trait/metamagic
 - feat/level/6
 aliases: ["Ostentatious Arrival"]
-aon_id: "feat-9248"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9248"
 source: "Impossible Magic"
 ---
 

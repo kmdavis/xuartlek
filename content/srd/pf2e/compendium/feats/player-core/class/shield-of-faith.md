@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/cleric
 - feat/level/10
 aliases: ["Shield of Faith"]
-aon_id: "feat-4679"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4679"
 source: "Player Core"
 ---
 

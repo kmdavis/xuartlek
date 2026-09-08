@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-action
 tags:
 - compendium/src/pf2e/player-core
@@ -9,11 +8,13 @@ entries: 114
 
 # Actions: Player Core
 
-## Administer First Aid  *Action*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## Administer First Aid
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 `Manipulate`
 
-- **Requirements**: You're wearing or holding a [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit-expanded|healer's toolkit]].
+- **Requirements**: You're wearing or holding a [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit|healer's toolkit]].
 
 You perform first aid on an adjacent creature that is [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]] or bleeding. If a creature is both dying and bleeding, choose which ailment you're trying to treat before you roll. You can Administer First Aid again to attempt to remedy the other effect. 
 **Stabilize** Attempt a [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] check on a creature that has 0 Hit Points and the dying condition. The DC is equal to 5 + that creature's recovery roll DC (typically 15 + its dying value).**Stop Bleeding** Attempt a Medicine check on a creature that is taking persistent bleed damage. The DC is usually the DC of the effect that caused the bleed.
@@ -24,7 +25,9 @@ You perform first aid on an adjacent creature that is [[srd/pf2e/compendium/rule
 
 *Source: Player Core p. 241*
 
-## Aid  *Action*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
+## Aid
+
+[<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
 
 - **Trigger**: An ally is about to use an action that requires a skill check or attack roll.
 - **Requirements**: The ally is willing to accept your aid, and you have prepared to help (see below).
@@ -41,7 +44,9 @@ You try to help your ally with a task. To use this reaction, you must first prep
 
 *Source: Player Core p. 416*
 
-## Arrest a Fall  *Action*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
+## Arrest a Fall
+
+[<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
 
 - **Trigger**: You fall.
 - **Requirements**: You have a fly Speed.
@@ -52,13 +57,15 @@ You attempt your choice of an [[srd/pf2e/compendium/rules-elements/skills/acroba
 
 *Source: Player Core p. 418*
 
-## Avert Gaze  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Avert Gaze
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 You avert your gaze from danger, such as a medusa's gaze. You gain a +2 circumstance bonus to saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]] abilities that require you to look at a creature or object, such as a medusa's petrifying gaze. Your gaze remains averted until the start of your next turn.
 
 *Source: Player Core p. 419*
 
-## Avoid Notice  *Action*
+## Avoid Notice
 
 `Exploration`
 
@@ -66,7 +73,9 @@ You attempt a [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] chec
 
 *Source: Player Core p. 438*
 
-## Badger Rage  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Badger Rage
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Concentrate`  `Emotion`  `Mental`
 
@@ -77,7 +86,9 @@ It deals 4 additional damage with its bite attacks and 2 additional damage with 
 
 *Source: Player Core p. 207*
 
-## Balance  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Balance
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Move`
 
@@ -107,7 +118,9 @@ You move across a narrow surface or uneven ground, attempting an [[srd/pf2e/comp
 
 *Source: Player Core p. 233*
 
-## Bear Hug  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Bear Hug
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 - **Requirements**: The bear’s last action was a successful claw Strike.
 
@@ -115,13 +128,15 @@ The bear makes another claw Strike against the same target. If this Strike hits,
 
 *Source: Player Core p. 207*
 
-## Boar Charge  *Action*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## Boar Charge
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 The boar Strides twice in a straight line and then makes a tusk Strike. As long as it moved at least 20 feet, it gains a +2 circumstance bonus to its attack roll.
 
 *Source: Player Core p. 208*
 
-## Borrow an Arcane Spell  *Action*
+## Borrow an Arcane Spell
 
 `Concentrate`  `Exploration`
 
@@ -133,7 +148,9 @@ If you're an arcane spellcaster who prepares spells, you can attempt to prepare 
 
 *Source: Player Core p. 234*
 
-## Burrow  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Burrow
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Move`
 
@@ -143,7 +160,9 @@ You dig your way through dirt, sand, or a similar loose material at a rate up to
 
 *Source: Player Core p. 419*
 
-## Call on Ancient Blood  *Action*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
+## Call on Ancient Blood
+
+[<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
 
 - **Trigger**: You attempt a saving throw against a magical effect, but you haven't rolled yet.
 
@@ -151,7 +170,7 @@ Your ancestors' innate resistance to magic surges, before slowly ebbing down. Yo
 
 *Source: Player Core p. 43*
 
-## Cast a Spell  *Action*
+## Cast a Spell
 
 Spells can vary in how many actions they take, as shown in the spell’s stat block. You cast [[srd/pf2e/books/player-core/chapter-7-spells/cantrips|cantrips]], spells from [[srd/pf2e/books/player-core/chapter-7-spells/spell-slots|spell slots]], and [[srd/pf2e/books/player-core/chapter-7-spells/focus-spells|focus spells]] using the same process, but must expend the spell when casting a spell from a spell slot and must spend 1 Focus Point to cast a focus spell. Some rules will refer to the Cast a Spell activity, such as “if the next action you use is to Cast a Spell.” Any spell qualifies as a Cast a Spell activity, and any characteristics of the spell use those of the specific spell you’re casting.
 
@@ -159,7 +178,9 @@ See rules for [[srd/pf2e/books/player-core/chapter-7-spells/casting-spells|Casti
 
 *Source: Player Core p. 299*
 
-## Cat Pounce  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Cat Pounce
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Flourish`
 
@@ -167,7 +188,9 @@ The cat Strides and then Strikes. If it was [[srd/pf2e/compendium/rules-elements
 
 *Source: Player Core p. 208*
 
-## Climb  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Climb
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Move`
 
@@ -195,7 +218,7 @@ You attempt an Athletics check to move a maximum distance of 5 feet up, down, or
 
 *Source: Player Core p. 234*
 
-## Coerce  *Action*
+## Coerce
 
 `Auditory`  `Concentrate`  `Emotion`  `Exploration`  `Linguistic`  `Mental`
 
@@ -211,7 +234,9 @@ With threats either veiled or overt, you attempt to bully a creature into doing 
 
 *Source: Player Core p. 240*
 
-## Command an Animal  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Command an Animal
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Auditory`  `Concentrate`
 
@@ -227,7 +252,9 @@ You issue an order to an animal. Attempt a [[srd/pf2e/compendium/rules-elements/
 
 *Source: Player Core p. 242*
 
-## Conceal an Object  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Conceal an Object
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Manipulate`  `Secret`
 
@@ -241,7 +268,9 @@ You hide a small object on your person (such as a weapon of light Bulk). When yo
 
 *Source: Player Core p. 244*
 
-## Constrict  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Constrict
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 - **Requirements**: The snake has a smaller creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]].
 
@@ -249,7 +278,7 @@ The snake deals 12 bludgeoning damage to the grabbed creature; the creature must
 
 *Source: Player Core p. 210*
 
-## Cover Tracks  *Action*
+## Cover Tracks
 
 `Concentrate`  `Exploration`  `Move`
 
@@ -259,7 +288,7 @@ You cover your tracks, [[srd/pf2e/books/player-core/chapter-8-playing-the-game/e
 
 *Source: Player Core p. 246*
 
-## Craft  *Action*
+## Craft
 
 `Downtime`  `Manipulate`
 
@@ -286,7 +315,9 @@ The item is your level or lower. An item that doesn't list a level is level 0. I
 
 *Source: Player Core p. 237*
 
-## Crawl  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Crawl
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Move`
 
@@ -296,7 +327,9 @@ You move 5 feet by crawling and continue to stay prone.
 
 *Source: Player Core p. 416*
 
-## Create a Diversion  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Create a Diversion
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Mental`
 
@@ -310,7 +343,7 @@ With a gesture, a trick, or some distracting words, you can create a diversion t
 
 *Source: Player Core p. 237*
 
-## Create Forgery  *Action*
+## Create Forgery
 
 `Downtime`  `Secret`
 
@@ -324,7 +357,9 @@ You create a forged document, usually over the course of a day or a week. The GM
 
 *Source: Player Core p. 244*
 
-## Darting Attack  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Darting Attack
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Flourish`
 
@@ -332,15 +367,19 @@ The raptor Steps up to 10 feet and then Strikes, or Strikes and then Steps up to
 
 *Source: Player Core p. 209*
 
-## Death Roll  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Death Roll
 
-- **Requirements**: The crocodile has a creature [[srd/pf2e/compendium/rules-elements/actions/rage-of-elements|grabbed]].
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+
+- **Requirements**: The crocodile has a creature grabbed.
 
 The crocodile tucks its legs and rolls rapidly, twisting its victim. It makes a jaws Strike with a +2 circumstance bonus to the attack roll against the grabbed creature. If it hits, it also knocks the creature [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]. If it misses, it releases the creature.
 
 *Source: Player Core p. 208*
 
-## Debilitating Strike  *Action*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")
+## Debilitating Strike
+
+[ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")
 
 `Rogue`
 
@@ -351,7 +390,7 @@ You apply one of the following debilitations, which lasts until the end of your 
 
 *Source: Player Core p. 168*
 
-## Decipher Writing  *Action*
+## Decipher Writing
 
 `Concentrate`  `Exploration`  `Secret`
 
@@ -379,7 +418,7 @@ You attempt to decipher complicated writing or literature on an obscure topic. T
 
 *Source: Player Core p. 228*
 
-## Defend  *Action*
+## Defend
 
 `Exploration`
 
@@ -387,7 +426,9 @@ You move at half your travel speed with your shield raised. If combat breaks out
 
 *Source: Player Core p. 438*
 
-## Delay  *Action*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")
+## Delay
+
+[ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")
 
 - **Trigger**: Your turn begins.
 
@@ -397,7 +438,9 @@ You wait for the right moment to act. The rest of your turn doesn't happen yet. 
 
 *Source: Player Core p. 416*
 
-## Demoralize  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Demoralize
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Auditory`  `Concentrate`  `Emotion`  `Fear`  `Mental`
 
@@ -409,7 +452,7 @@ With a sudden shout, a well-timed taunt, or a cutting put-down, you can shake an
 
 *Source: Player Core p. 240*
 
-## Detect Magic  *Action*
+## Detect Magic
 
 `Concentrate`  `Exploration`
 
@@ -417,11 +460,13 @@ You cast _detect magic_ at regular intervals. You move at half your travel speed
 
 *Source: Player Core p. 438*
 
-## Disable a Device  *Action*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## Disable a Device
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 `Manipulate`
 
-This action allows you to disarm a trap or another complex device. Often, a device requires numerous successes before becoming disabled, depending on its construction and complexity. A [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit-infiltrator-picks|thieves' toolkit]] is helpful and sometimes even required to Disable a Device, as determined by the GM, and sometimes a device requires a higher proficiency rank in [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] to disable it.
+This action allows you to disarm a trap or another complex device. Often, a device requires numerous successes before becoming disabled, depending on its construction and complexity. A [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit|thieves' toolkit]] is helpful and sometimes even required to Disable a Device, as determined by the GM, and sometimes a device requires a higher proficiency rank in [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] to disable it.
 
  Your Thievery check result determines your progress.
 
@@ -433,7 +478,9 @@ This action allows you to disarm a trap or another complex device. Often, a devi
 
 *Source: Player Core p. 247*
 
-## Disarm  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Disarm
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Attack`
 
@@ -449,7 +496,9 @@ You try to knock an item out of a creature's grasp. Attempt an [[srd/pf2e/compen
 
 *Source: Player Core p. 236*
 
-## Dismiss  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Dismiss
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Concentrate`
 
@@ -457,7 +506,9 @@ You end an effect that states you can Dismiss it. Dismissing ends the entire eff
 
 *Source: Player Core p. 419*
 
-## Drain Bonded Item  *Action*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")
+## Drain Bonded Item
+
+[ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")
 
 `Arcane`  `Wizard`
 
@@ -468,7 +519,9 @@ You expend the magical power stored in your bonded item. During the current turn
 
 *Source: Player Core p. 197*
 
-## Drop Prone  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Drop Prone
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Move`
 
@@ -476,7 +529,7 @@ You fall [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
 
 *Source: Player Core p. 416*
 
-## Earn Income  *Action*
+## Earn Income
 
 `Downtime`
 
@@ -512,7 +565,9 @@ These examples use Alcohol Lore to work in a bar or Legal Lore to perform legal 
 
 *Source: Player Core p. 228*
 
-## Escape  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Escape
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Attack`
 
@@ -526,7 +581,9 @@ You attempt to escape from being [[srd/pf2e/compendium/rules-elements/conditions
 
 *Source: Player Core p. 416*
 
-## Feint  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Feint
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Mental`
 
@@ -542,7 +599,9 @@ With a misleading flourish, you leave an opponent unprepared for your real attac
 
 *Source: Player Core p. 239*
 
-## Fire Breath  *Action*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## Fire Breath
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 - **Frequency**: once per hour
 
@@ -550,7 +609,9 @@ The riding drake breathes a 30-foot cone of fire, dealing 1d6 fire damage for ev
 
 *Source: Player Core p. 209*
 
-## Fly  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Fly
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Move`
 
@@ -560,13 +621,15 @@ You move through the air up to your fly Speed. Moving upward (straight up or dia
 
 *Source: Player Core p. 419*
 
-## Flyby Attack  *Action*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## Flyby Attack
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 The bird Flies and makes a talon Strike at any point along the way.
 
 *Source: Player Core p. 208*
 
-## Follow the Expert  *Action*
+## Follow the Expert
 
 `Auditory`  `Concentrate`  `Exploration`  `Visual`
 
@@ -576,7 +639,9 @@ Choose an ally attempting a recurring skill check while exploring, such as climb
 
 *Source: Player Core p. 438*
 
-## Force Open  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Force Open
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Attack`
 
@@ -602,13 +667,17 @@ Using your body, a lever, or some other tool, you attempt to forcefully open a d
 
 *Source: Player Core p. 234*
 
-## Frightening Display  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Frightening Display
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 Your ape makes a loud and frightening display, throwing a foe off balance. The ape attempts to Demoralize the target creature; this display gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]] trait and doesn't require language. While frightened by this ability, the target is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to your ape.
 
 *Source: Player Core p. 206*
 
-## Gallop  *Action*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## Gallop
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 `Move`
 
@@ -616,7 +685,7 @@ The horse Strides twice at a +10-foot circumstance bonus to Speed.
 
 *Source: Player Core p. 209*
 
-## Gather Information  *Action*
+## Gather Information
 
 `Exploration`  `Secret`
 
@@ -640,7 +709,9 @@ You canvass local markets, taverns, and gathering places in an attempt to learn 
 
 *Source: Player Core p. 239*
 
-## Grab an Edge  *Action*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
+## Grab an Edge
+
+[<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
 
 `Manipulate`
 
@@ -657,13 +728,17 @@ When you fall off or past an edge or other handhold, you can try to grab it, pot
 
 *Source: Player Core p. 419*
 
-## Grab and Sting  *Action*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## Grab and Sting
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 The scorpion holds its foe in place with its pincers in order to sting it. It makes a pincer Strike. If the Strike hits, the target creature automatically becomes [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] by the scorpion, which then makes a stinger Strike against it. The grabbed condition lasts until the end of your next turn.
 
 *Source: Player Core p. 210*
 
-## Grapple  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Grapple
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Attack`
 
@@ -681,7 +756,9 @@ Attempt an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] che
 
 *Source: Player Core p. 235*
 
-## Hide  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Hide
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Secret`
 
@@ -695,7 +772,9 @@ You huddle behind cover or greater cover or deeper into concealment to become [[
 
 *Source: Player Core p. 244*
 
-## High Jump  *Action*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## High Jump
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 You Stride, then attempt a DC 30 Athletics check to jump vertically. If you didn't Stride at least 10 feet, you automatically fail. This DC might be increased or decreased due to the situation, as determined by the GM.
 
@@ -709,7 +788,9 @@ You Stride, then attempt a DC 30 Athletics check to jump vertically. If you didn
 
 *Source: Player Core p. 235*
 
-## Hunt Prey  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Hunt Prey
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Concentrate`  `Ranger`
 
@@ -719,7 +800,7 @@ You designate a single creature as your prey and focus your attacks against that
 
 *Source: Player Core p. 154*
 
-## Hustle  *Action*
+## Hustle
 
 `Exploration`  `Move`
 
@@ -727,7 +808,7 @@ You strain yourself to move at double your travel speed. You can Hustle only for
 
 *Source: Player Core p. 438*
 
-## Identify Alchemy  *Action*
+## Identify Alchemy
 
 `Concentrate`  `Exploration`  `Secret`
 
@@ -743,7 +824,7 @@ You can identify the nature of an [[srd/pf2e/compendium/rules-elements/traits/pl
 
 *Source: Player Core p. 237*
 
-## Identify Magic  *Action*
+## Identify Magic
 
 `Concentrate`  `Exploration`  `Secret`
 
@@ -759,7 +840,7 @@ Once you discover that an item, location, or ongoing effect is magical, you can 
 
 *Source: Player Core p. 230*
 
-## Impersonate  *Action*
+## Impersonate
 
 `Concentrate`  `Exploration`  `Manipulate`  `Secret`
 
@@ -777,7 +858,9 @@ You create a disguise to pass yourself off as someone or something you are not. 
 
 *Source: Player Core p. 238*
 
-## Interact  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Interact
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Manipulate`
 
@@ -785,7 +868,7 @@ You use your hand or hands to manipulate an object or the terrain. You can grab 
 
 *Source: Player Core p. 416*
 
-## Investigate  *Action*
+## Investigate
 
 `Concentrate`  `Exploration`
 
@@ -793,7 +876,9 @@ You seek out information about your surroundings while traveling at half speed. 
 
 *Source: Player Core p. 439*
 
-## Jinx  *Action*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## Jinx
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 `Curse`  `Occult`
 
@@ -809,7 +894,9 @@ You can curse another creature with clumsiness. This curse has a range of 30 fee
 
 *Source: Player Core p. 59*
 
-## Leap  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Leap
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Move`
 
@@ -818,7 +905,7 @@ You take a short horizontal or vertical jump. Jumping a greater distance require
 
 *Source: Player Core p. 417*
 
-## Learn a Spell  *Action*
+## Learn a Spell
 
 `Concentrate`  `Exploration`
 
@@ -848,7 +935,7 @@ Spend 1 hour per spell rank, during which you must remain in conversation with a
 
 *Source: Player Core p. 230*
 
-## Lie  *Action*
+## Lie
 
 `Auditory`  `Concentrate`  `Linguistic`  `Mental`  `Secret`
 
@@ -862,7 +949,9 @@ You try to fool someone with an untruth. Doing so takes at least 1 round, or lon
 
 *Source: Player Core p. 238*
 
-## Long Jump  *Action*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## Long Jump
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 You Stride, then attempt a DC 15 Athletics check to make a long jump in the direction you were Striding. If you didn't Stride at least 10 feet, you automatically fail your check. The GM might increase or decrease this DC depending on the situation.
 
@@ -874,7 +963,7 @@ You Stride, then attempt a DC 15 Athletics check to make a long jump in the dire
 
 *Source: Player Core p. 235*
 
-## Long-Term Rest  *Action*
+## Long-Term Rest
 
 `Downtime`
 
@@ -882,7 +971,7 @@ You can spend an entire day and night resting during downtime to recover Hit Poi
 
 *Source: Player Core p. 440*
 
-## Make an Impression  *Action*
+## Make an Impression
 
 `Auditory`  `Concentrate`  `Exploration`  `Linguistic`  `Mental`
 
@@ -896,7 +985,9 @@ With at least 1 minute of conversation, during which you engage in charismatic o
 
 *Source: Player Core p. 239*
 
-## Maneuver in Flight  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Maneuver in Flight
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Move`
 
@@ -922,7 +1013,9 @@ You try a difficult maneuver while flying. Attempt an [[srd/pf2e/compendium/rule
 
 *Source: Player Core p. 233*
 
-## Master Strike  *Action*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")
+## Master Strike
+
+[ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")
 
 `Incapacitation`  `Rogue`
 
@@ -940,7 +1033,9 @@ The target attempts a Fortitude save against your class DC. It then becomes temp
 
 *Source: Player Core p. 169*
 
-## Mount  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Mount
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Move`
 
@@ -950,7 +1045,9 @@ You move onto the creature and ride it. If you're already mounted, you can inste
 
 *Source: Player Core p. 419*
 
-## Palm an Object  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Palm an Object
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Manipulate`
 
@@ -962,7 +1059,9 @@ You pick up a small, unattended object and try not to be noticed. Roll a single 
 
 *Source: Player Core p. 246*
 
-## Perform  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Perform
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Concentrate`
 
@@ -990,11 +1089,13 @@ When making a brief performance—one song, a quick dance, or a few jokes—you 
 
 *Source: Player Core p. 243*
 
-## Pick a Lock  *Action*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## Pick a Lock
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 `Manipulate`
 
-- **Requirements**: You're holding or wearing a [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit-infiltrator-picks|thieves' toolkit]].
+- **Requirements**: You're holding or wearing a [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit|thieves' toolkit]].
 
 Opening a lock without a key is very similar to Disabling a Device, but the DC of the check is determined by the complexity and construction of the lock you are attempting to pick (locks and their DCs can be found on their page). Locks of higher quality might require multiple successes to unlock. If you lack the proper tools, the GM might let you use improvised picks, which are treated as a shoddy toolkit.
 
@@ -1002,11 +1103,13 @@ Opening a lock without a key is very similar to Disabling a Device, but the DC o
 
 **Success** You open the lock, or you achieve one success toward opening a lock that requires more than one success. You leave behind damage that indicates the lock was picked on close scrutiny.
 
-**Critical Failure** You break your toolkit and leave behind obvious damage. Fixing a broken toolkit requires using [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] to Repair it or else swapping in [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit-infiltrator-picks|replacement picks]] (costing 3 sp, or 3 gp for an infiltrator thieves' toolkit).
+**Critical Failure** You break your toolkit and leave behind obvious damage. Fixing a broken toolkit requires using [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] to Repair it or else swapping in [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit|replacement picks]] (costing 3 sp, or 3 gp for an infiltrator thieves' toolkit).
 
 *Source: Player Core p. 247*
 
-## Point Out  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Point Out
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Auditory`  `Manipulate`  `Visual`
 
@@ -1016,7 +1119,9 @@ You indicate a creature that you can see to one or more allies, gesturing in a d
 
 *Source: Player Core p. 419*
 
-## Raise a Shield  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Raise a Shield
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 - **Requirements**: You are wielding a shield.
 
@@ -1024,7 +1129,9 @@ You position your shield to protect yourself. When you have Raised a Shield, you
 
 *Source: Player Core p. 419*
 
-## Reactive Strike  *Action*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
+## Reactive Strike
+
+[<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
 
 - **Trigger**: A creature within your reach uses a [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] action or a [[srd/pf2e/compendium/rules-elements/traits/player-core/move|move]] action, makes a ranged attack, or leaves a square during a move action it's using.
 
@@ -1032,7 +1139,9 @@ You lash out at a foe that leaves an opening. Make a melee Strike against the tr
 
 *Source: Player Core p. 138*
 
-## Ready  *Action*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## Ready
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 `Concentrate`
 
@@ -1042,7 +1151,9 @@ You prepare to use an action that will occur outside your turn. Choose a single 
 
 *Source: Player Core p. 417*
 
-## Recall Knowledge  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Recall Knowledge
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Concentrate`  `Secret`
 
@@ -1070,7 +1181,7 @@ These examples use Society or Religion.
 
 *Source: Player Core p. 231*
 
-## Refocus  *Action*
+## Refocus
 
 `Concentrate`  `Exploration`
 
@@ -1080,7 +1191,9 @@ You spend 10 minutes performing deeds to restore your magical connection. This r
 
 *Source: Player Core p. 298*
 
-## Release  *Action*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")
+## Release
+
+[ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")
 
 `Manipulate`
 
@@ -1090,11 +1203,11 @@ You release something you're holding in your hand or hands. This might mean drop
 
 *Source: Player Core p. 417*
 
-## Repair  *Action*
+## Repair
 
 `Exploration`  `Manipulate`
 
-- **Requirements**: You are holding or wearing a [[srd/pf2e/compendium/equipment/adventuring-gear/repair-toolkit-superb|repair toolkit]].
+- **Requirements**: You are holding or wearing a [[srd/pf2e/compendium/equipment/adventuring-gear/repair-toolkit|repair toolkit]].
 
 You spend 10 minutes attempting to fix a damaged item, placing the item on a stable surface and using the repair toolkit with both hands. Roll a [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] check. The GM sets the DC, but it's usually about the same DC to Repair a given item as it is to Craft it in the first place. You can't Repair a destroyed item.
 
@@ -1106,7 +1219,7 @@ You spend 10 minutes attempting to fix a damaged item, placing the item on a sta
 
 *Source: Player Core p. 236*
 
-## Repeat a Spell  *Action*
+## Repeat a Spell
 
 `Concentrate`  `Exploration`
 
@@ -1114,7 +1227,9 @@ You repeatedly cast the same spell while moving at half speed. Typically, this s
 
 *Source: Player Core p. 439*
 
-## Reposition  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Reposition
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Attack`
 
@@ -1130,7 +1245,9 @@ You muscle a creature or object around. Attempt an [[srd/pf2e/compendium/rules-e
 
 *Source: Player Core p. 235*
 
-## Request  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Request
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Auditory`  `Concentrate`  `Linguistic`  `Mental`
 
@@ -1146,7 +1263,7 @@ You can make a request of a creature that's friendly or helpful to you. You must
 
 *Source: Player Core p. 239*
 
-## Retraining  *Action*
+## Retraining
 
 `Downtime`
 
@@ -1174,7 +1291,7 @@ Retraining offers a way to alter some of your character choices, which is helpfu
 
 *Source: Player Core p. 440*
 
-## Scout  *Action*
+## Scout
 
 `Concentrate`  `Exploration`
 
@@ -1182,7 +1299,7 @@ You scout ahead and behind the group to watch danger, moving at half speed. At t
 
 *Source: Player Core p. 439*
 
-## Search  *Action*
+## Search
 
 `Concentrate`  `Exploration`
 
@@ -1190,7 +1307,9 @@ You Seek meticulously for hidden doors, concealed hazards, and so on. You can us
 
 *Source: Player Core p. 439*
 
-## Seek  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Seek
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Concentrate`  `Secret`
 
@@ -1204,7 +1323,7 @@ You scan an area for signs of creatures or objects, possibly including secret do
 
 *Source: Player Core p. 417*
 
-## Sense Direction  *Action*
+## Sense Direction
 
 `Exploration`  `Secret`
 
@@ -1228,7 +1347,9 @@ Using the stars, the position of the sun, traits of the geography or flora, or t
 
 *Source: Player Core p. 246*
 
-## Sense Motive  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Sense Motive
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Concentrate`  `Secret`
 
@@ -1244,7 +1365,9 @@ You try to tell whether a creature's behavior is abnormal. Choose one creature a
 
 *Source: Player Core p. 417*
 
-## Shove  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Shove
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Attack`
 
@@ -1260,7 +1383,9 @@ You push a creature away from you. Attempt an [[srd/pf2e/compendium/rules-elemen
 
 *Source: Player Core p. 235*
 
-## Shred  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Shred
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 - **Requirements**: The shark hit with a jaws Strike on its most recent action this turn.
 
@@ -1268,7 +1393,9 @@ The shark viciously rips into the wound. The target of the shark’s Strike take
 
 *Source: Player Core p. 210*
 
-## Sneak  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Sneak
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Move`  `Secret`
 
@@ -1288,7 +1415,7 @@ You attempt to move to another place while becoming or staying [[srd/pf2e/compen
 
 *Source: Player Core p. 245*
 
-## Squeeze  *Action*
+## Squeeze
 
 `Exploration`  `Move`
 
@@ -1308,7 +1435,9 @@ You contort yourself to squeeze through a space so small you can barely fit thro
 
 *Source: Player Core p. 233*
 
-## Stand  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Stand
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Move`
 
@@ -1316,7 +1445,9 @@ You stand up from being [[srd/pf2e/compendium/rules-elements/conditions#Prone|pr
 
 *Source: Player Core p. 418*
 
-## Steal  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Steal
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Manipulate`
 
@@ -1332,7 +1463,9 @@ You try to take a small object from another creature without being noticed. Typi
 
 *Source: Player Core p. 246*
 
-## Step  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Step
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Move`
 
@@ -1344,7 +1477,9 @@ You carefully move 5 feet. Unlike most types of movement, Stepping doesn't trigg
 
 *Source: Player Core p. 418*
 
-## Stride  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Stride
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Move`
 
@@ -1352,7 +1487,9 @@ You move up to your [[srd/pf2e/books/player-core/chapter-8-playing-the-game/move
 
 *Source: Player Core p. 418*
 
-## Strike  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Strike
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Attack`
 
@@ -1364,7 +1501,7 @@ You attack with a weapon you're wielding or with an unarmed attack, targeting on
 
 *Source: Player Core p. 418*
 
-## Subsist  *Action*
+## Subsist
 
 `Downtime`
 
@@ -1392,7 +1529,9 @@ You try to provide food and shelter for yourself, and possibly others as well, w
 
 *Source: Player Core p. 232*
 
-## Support  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Support
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 - **Requirements**: The creature is an animal companion.
 
@@ -1400,7 +1539,9 @@ Your animal companion supports you. You gain the benefits listed in the companio
 
 *Source: Player Core p. 206*
 
-## Sustain  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Sustain
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Concentrate`
 
@@ -1412,7 +1553,7 @@ Choose one of your effects that has a sustained duration or lists a special bene
 
 *Source: Player Core p. 419*
 
-## Sustain an Effect  *Action*
+## Sustain an Effect
 
 `Concentrate`  `Exploration`
 
@@ -1420,7 +1561,9 @@ You [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|Sustain]] o
 
 *Source: Player Core p. 439*
 
-## Swim  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Swim
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Move`
 
@@ -1448,7 +1591,9 @@ You attempt an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
 
 *Source: Player Core p. 235*
 
-## Take Cover  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Take Cover
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 - **Requirements**: You are benefiting from [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Cover|standard cover]], are near a feature that allows you to take cover, or are [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
 
@@ -1456,7 +1601,9 @@ You press yourself against a wall or duck behind an obstacle to take better adva
 
 *Source: Player Core p. 418*
 
-## Takedown  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Takedown
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 - **Requirements**: The animal companion’s last action was a successful jaws Strike.
 
@@ -1464,13 +1611,15 @@ The wolf automatically knocks the target of its jaws Strike [[srd/pf2e/compendiu
 
 *Source: Player Core p. 210*
 
-## Throw Rock  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Throw Rock
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 The arboreal sapling Interacts to pick up a rock within reach or retrieve a stowed rock, then throws it with a ranged rock Strike that deals 2d6 bludgeoning (3d6 for a specialized companion) damage with a range increment of 30 feet.
 
 *Source: Player Core p. 206*
 
-## Track  *Action*
+## Track
 
 `Concentrate`  `Exploration`  `Move`
 
@@ -1500,11 +1649,11 @@ You follow tracks, [[srd/pf2e/books/player-core/chapter-8-playing-the-game/explo
 
 *Source: Player Core p. 246*
 
-## Treat Disease  *Action*
+## Treat Disease
 
 `Downtime`  `Manipulate`
 
-- **Requirements**: You're wearing or holding a [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit-expanded|healer's toolkit]].
+- **Requirements**: You're wearing or holding a [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit|healer's toolkit]].
 
 You spend at least 8 hours caring for a diseased creature. Attempt a [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] check against the [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease's]] DC. After you attempt to Treat a Disease for a creature, you can't try again until after that creature's next save against the disease.
 
@@ -1516,11 +1665,13 @@ You spend at least 8 hours caring for a diseased creature. Attempt a [[srd/pf2e/
 
 *Source: Player Core p. 242*
 
-## Treat Poison  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Treat Poison
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Manipulate`
 
-- **Requirements**: You're wearing or holding a [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit-expanded|healer's toolkit]].
+- **Requirements**: You're wearing or holding a [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit|healer's toolkit]].
 
 You treat a patient to prevent the spread of [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]]. Attempt a [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] check against the poison's DC. After you attempt to Treat a Poison for a creature, you can't try again until after the next time that creature attempts a save against the poison.
 
@@ -1532,11 +1683,11 @@ You treat a patient to prevent the spread of [[srd/pf2e/compendium/rules-element
 
 *Source: Player Core p. 242*
 
-## Treat Wounds  *Action*
+## Treat Wounds
 
 `Exploration`  `Healing`  `Manipulate`
 
-- **Requirements**: You're wearing or holding a [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit-expanded|healer's toolkit]].
+- **Requirements**: You're wearing or holding a [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit|healer's toolkit]].
 
 You spend 10 minutes treating one injured living creature (targeting yourself, if you so choose). The target is then temporarily immune to Treat Wounds actions for 1 hour, but this interval overlaps with the time you spent treating (so a patient can be treated once per hour, not once per 70 minutes).
 
@@ -1558,7 +1709,9 @@ You spend 10 minutes treating one injured living creature (targeting yourself, i
 
 *Source: Player Core p. 242*
 
-## Trip  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Trip
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Attack`
 
@@ -1574,7 +1727,9 @@ You try to knock a creature to the ground. Attempt an [[srd/pf2e/compendium/rule
 
 *Source: Player Core p. 236*
 
-## Tumble Through  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Tumble Through
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Move`
 
@@ -1586,7 +1741,9 @@ You Stride up to your Speed. During this movement, you can try to move through t
 
 *Source: Player Core p. 233*
 
-## Wing Thrash  *Action*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+## Wing Thrash
+
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
 The bat thrashes wildly with its wings, making wing Strikes against up to three adjacent foes. Each attack counts toward the bat's multiple attack penalty, but the penalty only increases after all the attacks have been made.
 

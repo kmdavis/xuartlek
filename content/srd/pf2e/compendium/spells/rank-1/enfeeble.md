@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/1
 aliases: ["Enfeeble"]
-aon_id: "spell-1513"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1513"
 source: "Player Core"
 ---
 
@@ -16,7 +15,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`
 
 - **Traditions**: Arcane, Divine, Occult
-- **Patron Themes**: Devourer of Decay, The Resentment
+- **Patron Themes**: [[srd/pf2e/compendium/character/patrons#Devourer of Decay|Devourer of Decay]], [[srd/pf2e/compendium/character/patrons#The Resentment|The Resentment]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Fortitude

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/scrying
 - spell/level/5
 aliases: ["Scouting Eye"]
-aon_id: "spell-1661"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1661"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Scrying`
 
 - **Traditions**: Arcane, Divine, Occult
-- **Bloodline**: Imperial
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Imperial|Imperial]]
 - **Cast**: 1 minute
 - **Range**: see text
 - **Duration**: sustained

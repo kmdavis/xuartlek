@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - spell/level/9
 aliases: ["Detonate Magic"]
-aon_id: "spell-1488"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1488"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Uncommon`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Abraxas, Groetus, Liisglan, Nethys, Wards of the Pharaoh
+- **Deities**: [[srd/pf2e/compendium/deities/demon-lords/abraxas|Abraxas]], [[srd/pf2e/compendium/deities/other-gods/groetus|Groetus]], [[srd/pf2e/compendium/deities/monitor-demigods/liisglan|Liisglan]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/nethys|Nethys]], Wards of the Pharaoh
 - **Range**: 120 feet
 - **Target**: 1 magic item or spell effect
 - **Defense**: basic Reflex (see text)

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Pitborn Adept"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Pitborn Adept"
 level: 3
 source: "Monster Core"
-aon_id: "creature-3140"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3140"
 ---
 

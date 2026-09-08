@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/archetype
 - feat/level/6
 aliases: ["Advanced Mysteries"]
-aon_id: "feat-6221"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6221"
 source: "Player Core 2"
 ---
 

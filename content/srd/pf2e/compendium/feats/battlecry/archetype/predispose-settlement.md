@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
@@ -8,7 +7,7 @@ tags:
 - trait/skill
 - feat/level/4
 aliases: ["Predispose Settlement"]
-aon_id: "feat-7924"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7924"
 source: "Battlecry!"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Iruxi Masked Mummer"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Iruxi Masked Mummer"
 level: 9
 source: "NPC Core"
-aon_id: "creature-3661"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3661"
 ---
 
@@ -38,7 +36,7 @@ abilities_top:
   - name: "Deep Breath"
     desc: "A masked mummer can [[srd/pf2e/books/player-core/chapter-8-playing-the-game/encounter-mode#Mounted Defenses|hold their breath]] for 20 minutes."
   - name: "Items"
-    desc: "ceremonial skull mask, _+1 striking [[srd/pf2e/compendium/equipment/worn-items/handwraps-of-mighty-blows-3-major-striking|handwraps of mighty blows]]_, mummer's costume, [[srd/pf2e/compendium/equipment/held-items/maestros-instrument-greater|lesser maestro instrument]] (hand drum)"
+    desc: "ceremonial skull mask, _+1 striking [[srd/pf2e/compendium/equipment/worn-items/handwraps-of-mighty-blows|handwraps of mighty blows]]_, mummer's costume, [[srd/pf2e/compendium/equipment/held-items/maestros-instrument|lesser maestro instrument]] (hand drum)"
 ac: 27
 armorclass:
   - name: "AC"

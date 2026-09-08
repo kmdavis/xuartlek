@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Harrow Reader"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Harrow Reader"
 level: -1
 source: "NPC Core"
-aon_id: "creature-3533"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3533"
 ---
 
@@ -61,7 +59,7 @@ abilities_bot:
   - name: "Anthomancy"
     desc: ": flowers"
   - name: "Astrology"
-    desc: ": the Cosmic Caravan"
+    desc: ": the [[srd/pf2e/compendium/deities/pantheons/cosmic-caravan|Cosmic Caravan]]"
   - name: "Astromancy"
     desc: ": movement and brightness of stars"
   - name: "Chiromancy"

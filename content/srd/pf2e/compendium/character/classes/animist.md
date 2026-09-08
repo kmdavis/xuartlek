@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class
 tags:
 - compendium/src/pf2e/war-of-immortals
 aliases: ["Animist"]
-aon_id: "class-64"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=64"
 source: "War of Immortals"
 ---
 
@@ -124,7 +123,7 @@ Animists have a gift for divine magic that allows them to serve as conduits or b
 
  When you [[srd/pf2e/compendium/rules-elements/actions/player-core#Refocus|Refocus]], you can change which of your currently attuned apparitions is your primary apparition, selecting from any of the apparitions you attuned to during your daily preparations. All your apparitions typically remain attuned to you until your next daily preparations, but some animist abilities can temporarily disperse them, usually in exchange for a powerful boon. If an apparition is dispersed, you lose access to its gifts—you forget its apparition skills, its spells are removed from your apparition spell repertoire, and you can't use its vessel spell or _avatar_ form—until you attune to it again. When you disperse your primary apparition, one of your remaining apparitions becomes your primary apparition, chosen by you at the time of dispersal.
 
- See Animist Apparitions for more information.
+ See [[srd/pf2e/compendium/character/apparitions|Animist Apparitions]] for more information.
 
 #### Animist & Apparition Spellcasting
 

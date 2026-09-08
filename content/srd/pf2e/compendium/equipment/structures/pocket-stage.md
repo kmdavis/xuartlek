@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -7,7 +6,7 @@ tags:
 - trait/structure
 - equipment/level/5
 aliases: ["Pocket Stage"]
-aon_id: "equipment-3028"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3028"
 source: "GM Core"
 ---
 

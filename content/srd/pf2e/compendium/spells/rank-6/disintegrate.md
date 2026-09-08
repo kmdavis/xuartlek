@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/6
 aliases: ["Disintegrate"]
-aon_id: "spell-1492"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1492"
 source: "Player Core"
 ---
 
@@ -17,8 +16,8 @@ source: "Player Core"
 `Attack`  `Concentrate`  `Manipulate`
 
 - **Tradition**: Arcane
-- **Bloodlines**: Demonic, Imperial
-- **Deities**: Kerkamoth, Ongalte, Pahti Coatl, Rovagug, Set, Smiad, Sorrow's Sword, The Devourer
+- **Bloodlines**: [[srd/pf2e/compendium/character/bloodlines#Demonic|Demonic]], [[srd/pf2e/compendium/character/bloodlines#Imperial|Imperial]]
+- **Deities**: Kerkamoth, Ongalte, [[srd/pf2e/compendium/deities/coatl-tribunal/pahti-coatl|Pahti Coatl]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/rovagug|Rovagug]], Set, [[srd/pf2e/compendium/deities/dead-or-missing-deities/smiad|Smiad]], Sorrow's Sword, [[srd/pf2e/compendium/deities/other-gods/the-devourer|The Devourer]]
 - **Range**: 120 feet
 - **Target**: 1 creature, unattended object, or force construct
 - **Defense**: AC and basic Fortitude

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 - trait/thaumaturge
 - feat/level/4
 aliases: ["Breached Defenses"]
-aon_id: "feat-8363"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8363"
 source: "Dark Archives (Remastered)"
 ---
 

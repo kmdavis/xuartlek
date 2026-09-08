@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -10,7 +9,7 @@ tags:
 - trait/rare
 - spell/level/9
 aliases: ["Beseech Arcanotheign"]
-aon_id: "spell-2153"
+aon_url: "https://2e.aonprd.com/MythicSpells.aspx?ID=2153"
 source: "War of Immortals"
 ---
 
@@ -22,7 +21,7 @@ source: "War of Immortals"
 - **Range**: 100 feet
 - **Duration**: until the end of your next turn
 
-With a whispered prayer or arcane sending, you conjure Arcanotheign, herald of Nethys. She's a storm of magic, half white and half black, roiling in a vaguely humanoid shape. She occupies the space of a Medium creature and has a Speed of 40 feet and a fly Speed of 60 feet.
+With a whispered prayer or arcane sending, you conjure Arcanotheign, herald of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/nethys|Nethys]]. She's a storm of magic, half white and half black, roiling in a vaguely humanoid shape. She occupies the space of a Medium creature and has a Speed of 40 feet and a fly Speed of 60 feet.
 
 **Arrive** ([[srd/pf2e/compendium/rules-elements/traits/player-core/sonic|sonic]]) _Storm's Unbridled Destruction_ Arcanotheign arrives with a flash of light and a cacophonous crash of colliding magic. All enemies in a 60-foot emanation take 8d12 sonic damage with a basic Reflex save. A creature that critically fails is additionally [[srd/pf2e/compendium/rules-elements/conditions#Deafened|deafened]] for 10 minutes. 
 

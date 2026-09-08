@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-skill
 tags:
 - compendium/src/pf2e/player-core
 aliases: ["Occultism"]
-aon_id: "skill-44"
+aon_url: "https://2e.aonprd.com/Skills.aspx?ID=44"
 source: "Player Core"
 ---
 
@@ -47,7 +46,7 @@ Other
 No
 Item Bonus
 
-[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen-major|Cognitive Mutagen (Lesser)]]
+[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen|Cognitive Mutagen (Lesser)]]
 +1
 1
 Alchemical Elixirs
@@ -67,7 +66,7 @@ Held Items
 No
 Item bonus to determine a fulu's function or authenticity.
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal]]
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal]]
 +2
 11
 Worn Items
@@ -88,7 +87,7 @@ Held Items
 No
 When worn with the black velvet lining facing out, the _stage magician’s cloak_ grants a +2 item bonus to Occultism checks.
 
-[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen-major|Cognitive Mutagen (Moderate)]]
+[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen|Cognitive Mutagen (Moderate)]]
 +2
 3
 Alchemical Elixirs
@@ -101,7 +100,7 @@ Other
 No
 Item Bonus
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal (Greater)]]
 +3
 18
 Worn Items
@@ -115,7 +114,7 @@ Apex Items
 No
 Item bonus to Occultism.
 
-[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen-major|Cognitive Mutagen (Greater)]]
+[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen|Cognitive Mutagen (Greater)]]
 +3
 11
 Alchemical Elixirs
@@ -128,7 +127,7 @@ Apex Items
 No
 Item bonus to Occultism when Investigating.
 
-[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen-major|Cognitive Mutagen (Major)]]
+[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen|Cognitive Mutagen (Major)]]
 +4
 17
 Alchemical Elixirs

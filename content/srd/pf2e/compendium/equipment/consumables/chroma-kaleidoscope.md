@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
@@ -8,7 +7,7 @@ tags:
 - trait/whetstone
 - equipment/level/7
 aliases: ["Chroma Kaleidoscope"]
-aon_id: "equipment-3878"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3878"
 source: "Battlecry!"
 ---
 
@@ -21,7 +20,7 @@ source: "Battlecry!"
 - **Bulk**: L
 - **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-These iron rings filled with kaleidoscopic glass are popular among Shelynites. A _chroma kaleidoscope’s_ effects last for 1 hour. When you critically Strike a creature with a weapon under the effects of a _chroma kaleidoscope_, a blast of color from the weapon forces them to attempt a Will saving throw against your class DC or spell DC, whichever is higher, with the following effects.
+These iron rings filled with kaleidoscopic glass are popular among [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/shelyn|Shelynites]]. A _chroma kaleidoscope’s_ effects last for 1 hour. When you critically Strike a creature with a weapon under the effects of a _chroma kaleidoscope_, a blast of color from the weapon forces them to attempt a Will saving throw against your class DC or spell DC, whichever is higher, with the following effects.
 
 **Critical Success** The creature is unaffected.
 

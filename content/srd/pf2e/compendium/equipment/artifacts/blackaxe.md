@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/monster-core
@@ -10,7 +9,7 @@ tags:
 - trait/unique
 - equipment/level/25
 aliases: ["Blackaxe"]
-aon_id: "equipment-3176"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3176"
 source: "Monster Core"
 ---
 
@@ -22,7 +21,7 @@ source: "Monster Core"
 - **Bulk**: 2
 - **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/axe/greataxe|Greataxe]]
 
-This potent weapon used by [[srd/pf2e/bestiary/monster-core/fiend/treerazer|Treerazer]] is a _+4 [[srd/pf2e/compendium/equipment/runes/corrosive-greater|greater corrosive]] [[srd/pf2e/compendium/equipment/runes/striking-major|major striking]] obsidian [[srd/pf2e/compendium/equipment/weapons/axe/greataxe|greataxe]]_ that grants a +4 item bonus to attack rolls, deals an extra 2d6 damage to [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plants]], and has the properties of [[srd/pf2e/compendium/equipment/weapons/adamantine-weapon-high-grade|adamantine]]. It deals an additional die of damage when wielded by Treerazer.
+This potent weapon used by [[srd/pf2e/bestiary/monster-core/fiend/treerazer|Treerazer]] is a _+4 [[srd/pf2e/compendium/equipment/runes/corrosive|greater corrosive]] [[srd/pf2e/compendium/equipment/runes/striking|major striking]] obsidian [[srd/pf2e/compendium/equipment/weapons/axe/greataxe|greataxe]]_ that grants a +4 item bonus to attack rolls, deals an extra 2d6 damage to [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plants]], and has the properties of [[srd/pf2e/compendium/equipment/weapons/adamantine-weapon|adamantine]]. It deals an additional die of damage when wielded by Treerazer.
 
 **Activate—Owner’s Authority** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/scrying|scrying]]) **Requirements** You aren’t wielding _Blackaxe_ and you are its true owner; **Effect** You sense the world around _Blackaxe_ as though you were in its location and can use any of your innate spells through the link as if it were the source of the spell. If another creature is wielding _Blackaxe_, it must succeed at a DC 50 Will save or be [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed 2]] until it relinquishes the weapon.
 

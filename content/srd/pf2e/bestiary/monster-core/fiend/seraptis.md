@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Seraptis"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Seraptis"
 level: 15
 source: "Monster Core"
-aon_id: "creature-2899"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2899"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [8, 7, 6, 3, 4, 6]
 abilities_top:
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/runes/wounding|wounding]] [[srd/pf2e/compendium/equipment/weapons/sword/scimitar|scimitar]]_ (2)"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/runes/wounding|wounding]] [[srd/pf2e/compendium/equipment/weapons/sword/scimitar|scimitar]]_ (2)"
 ac: 37
 armorclass:
   - name: "AC"

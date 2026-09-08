@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -8,7 +7,7 @@ tags:
 - trait/wood
 - spell/level/2
 aliases: ["Splinter Volley"]
-aon_id: "spell-1410"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1410"
 source: "Rage of Elements"
 ---
 

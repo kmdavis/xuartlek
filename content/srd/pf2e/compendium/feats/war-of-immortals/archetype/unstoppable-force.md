@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
 - trait/mythic
 - feat/level/18
 aliases: ["Unstoppable Force"]
-aon_id: "feat-7388"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7388"
 source: "War of Immortals"
 ---
 

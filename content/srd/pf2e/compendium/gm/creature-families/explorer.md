@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/npc-core
 aliases: ["Explorer"]
-aon_id: "creature-family-537"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=537"
 source: "NPC Core"
 ---
 
@@ -26,7 +25,7 @@ The **Verduran Forest** is the largest woodland on the continent of Avistan; the
 
 ### Foraging for Fun and Fortune
 
-For some, variety is the spice of life, as long as you're certain of the plant you've just plucked. In lieu of finding manufactured treasure in a natural setting, a GM might allow for certain herbs, flowers, and vegetables discovered in the wild to act as level 1 alchemical elixirs. For instance, the white flowers known as fairycups have a spicy flavor when nibbled on, granting the benefits of a [[srd/pf2e/compendium/equipment/alchemical-items/cheetahs-elixir-greater|lesser cheetah's elixir]]. A nutritious knotted longbean restores health like a [[srd/pf2e/compendium/equipment/alchemical-items/elixir-of-life-true|minor elixir of life]]. Such foraged items last only 24 hours after being plucked and can't be sold.
+For some, variety is the spice of life, as long as you're certain of the plant you've just plucked. In lieu of finding manufactured treasure in a natural setting, a GM might allow for certain herbs, flowers, and vegetables discovered in the wild to act as level 1 alchemical elixirs. For instance, the white flowers known as fairycups have a spicy flavor when nibbled on, granting the benefits of a [[srd/pf2e/compendium/equipment/alchemical-items/cheetahs-elixir|lesser cheetah's elixir]]. A nutritious knotted longbean restores health like a [[srd/pf2e/compendium/equipment/alchemical-items/elixir-of-life|minor elixir of life]]. Such foraged items last only 24 hours after being plucked and can't be sold.
 
 ### Knowledge Exploration
 

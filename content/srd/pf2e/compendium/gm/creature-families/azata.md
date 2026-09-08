@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core
 aliases: ["Azata"]
-aon_id: "creature-family-368"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=368"
 source: "Monster Core"
 ---
 
@@ -20,7 +19,7 @@ Azatas are manifestations of freedom and unrestrained joy—kindly celestials wi
 
 ### Azata Divinities
 
-The most powerful azatas belong to the host of demigods known as empyreal lords. These lesser deities maintain many cults across many worlds in the mortal Universe, and count among their kind such diverse demigods as Ashava, a protector of lost spirits and dancer in the moonlight; Black Butterfly, a mysterious agent of Desna and patron of the depths of outer space; and Sinashakti, joyful wanderer and deliverer of wisdom to vagabonds.
+The most powerful azatas belong to the host of demigods known as empyreal lords. These lesser deities maintain many cults across many worlds in the mortal Universe, and count among their kind such diverse demigods as [[srd/pf2e/compendium/deities/empyreal-lords/ashava|Ashava]], a protector of lost spirits and dancer in the moonlight; [[srd/pf2e/compendium/deities/empyreal-lords/black-butterfly|Black Butterfly]], a mysterious agent of Desna and patron of the depths of outer space; and Sinashakti, joyful wanderer and deliverer of wisdom to vagabonds.
 
 ### Azata Intercession
 

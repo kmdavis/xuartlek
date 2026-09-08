@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - feat/level/10
 aliases: ["Beast Dynamo Howl"]
-aon_id: "feat-3131"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3131"
 source: "Guns & Gears (Remastered)"
 ---
 

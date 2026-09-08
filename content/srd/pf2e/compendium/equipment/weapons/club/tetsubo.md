@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/monster-core
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - weapon/level/0
 aliases: ["Tetsubo"]
-aon_id: "weapon-444"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=493"
 source: "Monster Core"
 ---
 
@@ -17,6 +16,8 @@ source: "Monster Core"
 
 `Razing`  `Shove`  `Sweep`  `Uncommon`
 
+- **PFS Note**: Characters from Tian Xia have access to this option
+- **Access**: Tian Xia origin
 - **Price**: 3 gp
 - **Damage**: 1d10 B
 - **Bulk**: 3
@@ -25,7 +26,7 @@ source: "Monster Core"
 - **Category**: Martial
 - **Group**: Club
 
-_Nethys Note: no description was provided for this item_
+The tetsubo is a war club constructed out of heavy wood shod with iron studs, designed for smashing through armor and defenses. A tetsubo made entirely out of metal might also be referred to as a kanabo.
 
 ### Critical Specialization Effects
 

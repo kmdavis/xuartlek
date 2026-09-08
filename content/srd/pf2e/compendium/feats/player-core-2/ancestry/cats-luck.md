@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/fortune
 - feat/level/1
 aliases: ["Cat's Luck"]
-aon_id: "feat-5544"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5544"
 source: "Player Core 2"
 ---
 

@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-adjustment
 tags:
 - compendium/src/pf2e/war-of-immortals
 aliases: ["Mythic Striker"]
-aon_id: "creature-adjustment-34"
+aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=34"
 source: "War of Immortals"
 ---
 

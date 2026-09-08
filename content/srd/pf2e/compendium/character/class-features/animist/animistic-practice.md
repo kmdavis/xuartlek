@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class-feature
 tags:
 - compendium/src/pf2e/war-of-immortals
 - class-feature/level/1
 aliases: ["Animistic Practice"]
-aon_id: "class-feature-1039"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=64"
 source: "War of Immortals"
 ---
 

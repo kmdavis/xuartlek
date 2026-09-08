@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Coil Spy"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Coil Spy"
 level: 4
 source: "Monster Core"
-aon_id: "creature-3183"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3183"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [2, 4, 1, 4, 2, 5]
 abilities_top:
   - name: "Items"
-    desc: "Hand Crossbow (20 bolts), [[srd/pf2e/compendium/equipment/alchemical-items/spider-venom|Spider Venom]] (2), Shortsword, [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit-infiltrator-picks|Thieves' Toolkit]]"
+    desc: "Hand Crossbow (20 bolts), Spider Venom (2), Shortsword, [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit|Thieves' Toolkit]]"
 ac: 22
 armorclass:
   - name: "AC"

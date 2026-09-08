@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -9,7 +8,7 @@ tags:
 - trait/manipulate
 - feat/level/8
 aliases: ["Rejoice in Solstice Storm"]
-aon_id: "feat-7170"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7170"
 source: "War of Immortals"
 ---
 

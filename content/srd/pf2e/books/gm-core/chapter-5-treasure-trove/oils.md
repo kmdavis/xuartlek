@@ -7,7 +7,6 @@ cssclasses:
 tags:
   - srd/pf2e/gm-core
 source: "GM Core"
-aon_id: 3195
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3195"
 citation: "GM Core pg. 257"
 ---

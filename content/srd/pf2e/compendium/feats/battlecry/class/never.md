@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
 - trait/guardian
 - feat/level/16
 aliases: ["Never!"]
-aon_id: "feat-7879"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7879"
 source: "Battlecry!"
 ---
 

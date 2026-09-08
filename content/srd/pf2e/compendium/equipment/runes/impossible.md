@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
 - trait/magical
 - equipment/level/20
 aliases: ["Impossible"]
-aon_id: "equipment-1868"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1868"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -14,7 +13,7 @@ source: "Treasure Vault (Remastered)"
 
 `Magical`
 
-- **Price**: 70,000 gp
+- **Price**: 70, 000 gp
 - **Usage**: etched onto a weapon
 
 This rune makes a weapon capable of impossible offense and defense. The etched weapon is immune to _dispel magic_ and similar effects that could counteract its magic. If it's a ranged weapon or [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown]] weapon, its range increment is doubled.

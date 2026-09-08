@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/magical
 - equipment/level/9
 aliases: ["Gravitational Flux"]
-aon_id: "equipment-3870"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3870"
 source: "Battlecry!"
 ---
 
@@ -16,7 +15,7 @@ source: "Battlecry!"
 `Consumable`  `Magical`
 
 - **Price**: 150 gp
-- **Ammunition**: large stone sphere (heavy bombard)
+- **Ammunition**: large stone sphere ([[srd/pf2e/compendium/equipment/siege-weapons/heavy-bombard|heavy bombard]])
 
 Small unattended objects tend to levitate slightly around this star-flecked onyx sphere. When Launched, gravity in the area of the burst is briefly inverted. Creatures in the [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]] must attempt a DC 25 Fortitude save with the following results.
 

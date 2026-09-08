@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Zealot of Asmodeus"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Zealot of Asmodeus"
 level: 4
 source: "NPC Core"
-aon_id: "creature-3444"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3444"
 ---
 
@@ -53,7 +51,7 @@ abilities_mid:
   - name: "Swear Vengeance"
     desc: "⬲"
   - name: "Trigger"
-    desc: "A creature the zealot can see damages a follower of Asmodeus other than the zealot"
+    desc: "A creature the zealot can see damages a follower of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/asmodeus|Asmodeus]] other than the zealot"
   - name: "Effect"
     desc: "The zealot is affected by a [[srd/pf2e/compendium/spells/rank-1/sure-strike|_sure strike_]] spell. If the zealot makes an attack roll against anyone other than the triggering creature, the _sure strike_ ends with no effect."
 speed: "20 feet"

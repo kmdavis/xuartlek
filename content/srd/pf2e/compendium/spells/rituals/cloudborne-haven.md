@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/rare
 - ritual/level/8
 aliases: ["Cloudborne Haven"]
-aon_id: "ritual-248"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=248"
 source: "Impossible Magic"
 ---
 
@@ -16,7 +15,7 @@ source: "Impossible Magic"
 `Air`  `Rare`
 
 - **Cast**: 1 week
-- **Cost**: a replica keystone of the target building crafted from quartz worth 4,500 gp
+- **Cost**: a replica keystone of the target building crafted from quartz worth 4, 500 gp
 - **Secondary Casters**: 3
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] (legendary) or [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (legendary)
 - **Secondary Checks**: Arcana or Nature, Athletics

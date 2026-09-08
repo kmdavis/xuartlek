@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ancestry
 tags:
 - compendium/src/pf2e/player-core
 - trait/gnome
 - trait/humanoid
 aliases: ["Gnome"]
-aon_id: "ancestry-61"
+aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=61"
 source: "Player Core"
 ---
 
@@ -36,7 +35,7 @@ While most gnomes adopt some of the cultural practices of the region in which th
 
 ### Alignment and Religion
 
-Though gnomes are impulsive tricksters with inscrutable motives and confusing methods, many at least attempt to make the world a better place. They are prone to fits of powerful emotion and are rarely shy about helping those they believe deserve it. Gnomes most commonly worship deities that value individuality and nature, such as Cayden Cailean, Desna, Gozreh, and Shelyn.
+Though gnomes are impulsive tricksters with inscrutable motives and confusing methods, many at least attempt to make the world a better place. They are prone to fits of powerful emotion and are rarely shy about helping those they believe deserve it. Gnomes most commonly worship deities that value individuality and nature, such as [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/cayden-cailean|Cayden Cailean]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/desna|Desna]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/gozreh|Gozreh]], and [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/shelyn|Shelyn]].
 
  **Popular Edicts** seek new experiences, embrace your inspiration, move from obsession to obsession
  **Popular Anathema** slow down to explain yourself, deprive someone of all stimulation

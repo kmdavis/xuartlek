@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Shokasura"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Shokasura"
 level: 1
 source: "Monster Core 2"
-aon_id: "creature-4085"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4085"
 ---
 

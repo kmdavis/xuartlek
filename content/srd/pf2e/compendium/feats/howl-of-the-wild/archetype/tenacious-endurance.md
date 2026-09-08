@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -8,7 +7,7 @@ tags:
 - trait/mental
 - feat/level/6
 aliases: ["Tenacious Endurance"]
-aon_id: "feat-5426"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5426"
 source: "Howl of the Wild"
 ---
 

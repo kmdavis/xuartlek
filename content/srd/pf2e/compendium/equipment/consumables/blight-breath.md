@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -10,7 +9,7 @@ tags:
 - trait/poison
 - equipment/level/12
 aliases: ["Blight Breath"]
-aon_id: "equipment-2577"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2577"
 source: "Rage of Elements"
 ---
 

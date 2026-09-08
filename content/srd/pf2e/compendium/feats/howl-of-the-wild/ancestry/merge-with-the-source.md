@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 - trait/centaur
 - feat/level/17
 aliases: ["Merge with the Source"]
-aon_id: "feat-5341"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5341"
 source: "Howl of the Wild"
 ---
 

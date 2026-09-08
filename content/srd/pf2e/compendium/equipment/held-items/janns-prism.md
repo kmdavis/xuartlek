@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/rage-of-elements
 - trait/magical
 - equipment/level/9
 aliases: ["Jann's Prism"]
-aon_id: "equipment-2655"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2655"
 source: "Rage of Elements"
 ---
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/magical
 - equipment/level/6
 aliases: ["Coward's Shield"]
-aon_id: "equipment-5000"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5000"
 source: "Impossible Magic"
 ---
 

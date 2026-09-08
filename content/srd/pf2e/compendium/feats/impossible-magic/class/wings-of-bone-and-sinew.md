@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/occult
 - feat/level/8
 aliases: ["Wings of Bone and Sinew"]
-aon_id: "feat-9129"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9129"
 source: "Impossible Magic"
 ---
 

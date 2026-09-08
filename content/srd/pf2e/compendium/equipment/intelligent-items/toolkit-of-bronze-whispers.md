@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/rare
 - equipment/level/5
 aliases: ["Toolkit of Bronze Whispers"]
-aon_id: "equipment-2402"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2402"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -31,6 +30,6 @@ source: "Treasure Vault (Remastered)"
 
 --- 
 
-Sacred to the faith of Brigh, a _toolkit of bronze whispers_ has been used with such devotion it has developed a consciousness and personality that can be a blessing to a partnered crafter. A _toolkit of bronze whispers_ functions as a set of sterling artisan's tools. Such toolkits focus on new creations and enthusiastically suggest crafting techniques to wielders. A _toolkit of bronze whispers_ knows common item formulas of its level or lower and any other formulas the GM chooses. It can teach these formulas. You must still spend the time to copy a formula before you can use it.
+Sacred to the faith of [[srd/pf2e/compendium/deities/other-gods/brigh|Brigh]], a _toolkit of bronze whispers_ has been used with such devotion it has developed a consciousness and personality that can be a blessing to a partnered crafter. A _toolkit of bronze whispers_ functions as a set of sterling artisan's tools. Such toolkits focus on new creations and enthusiastically suggest crafting techniques to wielders. A _toolkit of bronze whispers_ knows common item formulas of its level or lower and any other formulas the GM chooses. It can teach these formulas. You must still spend the time to copy a formula before you can use it.
 
 *Source: Treasure Vault (Remastered) p. 197*

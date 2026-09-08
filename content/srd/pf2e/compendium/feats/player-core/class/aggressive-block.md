@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/guardian
 - feat/level/2
 aliases: ["Aggressive Block"]
-aon_id: "feat-4776"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4776"
 source: "Player Core"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Ice Linnorm"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Ice Linnorm"
 level: 17
 source: "Monster Core"
-aon_id: "creature-3084"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3084"
 ---
 
@@ -43,7 +41,7 @@ armorclass:
 hp: 330
 health:
   - name: "HP"
-    desc: "330 , regeneration 10 (deactivated by [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]]; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]], [[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Weaknesses__ cold iron 15, [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 10"
+    desc: "330 , regeneration 10 (deactivated by [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]]; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]], [[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Weaknesses__ cold iron 15, [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 10"
 abilities_mid:
   - name: "Curse of Frost"
     desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]], [[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]) When a creature slays the ice linnorm, it must succeed at a DC 40 Will save or gain weakness to cold 15 with an unlimited duration."

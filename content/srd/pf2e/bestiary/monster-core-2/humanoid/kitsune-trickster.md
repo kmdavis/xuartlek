@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Kitsune Trickster"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Kitsune Trickster"
 level: 2
 source: "Monster Core 2"
-aon_id: "creature-4459"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4459"
 ---
 

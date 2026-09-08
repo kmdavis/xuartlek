@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class-feature
 tags:
 - compendium/src/pf2e/player-core
 - class-feature/level/1
 aliases: ["Druid Spellcasting"]
-aon_id: "class-feature-666"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=34"
 source: "Player Core"
 ---
 

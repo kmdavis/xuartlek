@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/visual
 - spell/level/1
 aliases: ["Illusory Disguise"]
-aon_id: "spell-1568"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1568"
 source: "Player Core"
 ---
 
@@ -18,8 +17,8 @@ source: "Player Core"
 `Concentrate`  `Illusion`  `Manipulate`  `Visual`
 
 - **Traditions**: Arcane, Occult
-- **Bloodline**: Hag
-- **Deities**: Children of the Night, Cormion, Hastur, Likha, Mahathallah, Musagani, Nivi Rhombodazzle, Norgorber, Shadow Cabinet, Sivanah, Skrymir, The Lantern King, Turvu, Venkelvore
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Hag|Hag]]
+- **Deities**: [[srd/pf2e/compendium/deities/pantheons/children-of-the-night|Children of the Night]], Cormion, [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/hastur|Hastur]], [[srd/pf2e/compendium/deities/vudrani-gods/likha|Likha]], [[srd/pf2e/compendium/deities/queens-of-the-night/mahathallah|Mahathallah]], Musagani, [[srd/pf2e/compendium/deities/other-gods/nivi-rhombodazzle|Nivi Rhombodazzle]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/norgorber|Norgorber]], [[srd/pf2e/compendium/deities/covenants/shadow-cabinet|Shadow Cabinet]], [[srd/pf2e/compendium/deities/other-gods/sivanah|Sivanah]], [[srd/pf2e/compendium/deities/giant-gods/skrymir|Skrymir]], [[srd/pf2e/compendium/deities/eldest/the-lantern-king|The Lantern King]], Turvu, [[srd/pf2e/compendium/deities/goblin-gods/venkelvore|Venkelvore]]
 - **Range**: 30 feet
 - **Target**: 1 willing creature
 - **Duration**: 1 hour

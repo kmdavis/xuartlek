@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/gm-core
 - trait/low-gravity
 aliases: ["Low Gravity"]
-aon_id: "trait-643"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=643"
 source: "GM Core"
 ---
 

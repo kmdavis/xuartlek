@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/monster-core
 - trait/xulgath
 aliases: ["Xulgath"]
-aon_id: "trait-781"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=781"
 source: "Monster Core"
 ---
 

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/rage-of-elements
 - trait/bottled-breath
 aliases: ["Bottled Breath"]
-aon_id: "trait-499"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=499"
 source: "Rage of Elements"
 ---
 

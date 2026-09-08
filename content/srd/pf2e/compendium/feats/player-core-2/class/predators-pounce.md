@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -8,7 +7,7 @@ tags:
 - trait/rage
 - feat/level/12
 aliases: ["Predator's Pounce"]
-aon_id: "feat-5857"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5857"
 source: "Player Core 2"
 ---
 
@@ -16,7 +15,7 @@ source: "Player Core 2"
 
 `Barbarian`  `Flourish`  `Rage`
 
-- **Prerequisites**: animal instinct
+- **Prerequisites**: [[srd/pf2e/compendium/character/instincts/animal|animal instinct]]
 - **Requirements**: You are unarmored or wearing light armor.
 
 You close the distance to your prey in a blur, pouncing on the creature before it can react. You Stride up to your Speed and make a Strike at the end of your movement.

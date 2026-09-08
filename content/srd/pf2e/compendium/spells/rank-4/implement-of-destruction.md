@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -10,7 +9,7 @@ tags:
 - trait/mental
 - spell/level/4
 aliases: ["Implement of Destruction"]
-aon_id: "spell-2572"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2572"
 source: "Dark Archives (Remastered)"
 ---
 

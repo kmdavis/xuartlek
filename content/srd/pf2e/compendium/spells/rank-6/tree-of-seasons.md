@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/wood
 - spell/level/6
 aliases: ["Tree of Seasons"]
-aon_id: "spell-1725"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1725"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Plant`  `Wood`
 
 - **Tradition**: Primal
-- **Deities**: Amaznen, Baekho, Kugaptee
+- **Deities**: [[srd/pf2e/compendium/deities/azlanti-pantheon/amaznen|Amaznen]], Baekho, Kugaptee
 - **Range**: 60 feet
 - **Duration**: 1 minute
 

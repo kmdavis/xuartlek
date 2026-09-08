@@ -1,28 +1,24 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
 - trait/invested
 - trait/magical
-- trait/necromancy
 - trait/uncommon
 - equipment/level/8
 aliases: ["Mask of the Cursed Eye"]
-aon_id: "equipment-962"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2351"
 source: "Treasure Vault (Remastered)"
 ---
 
 # Mask of the Cursed Eye  *Item 8*
 
-`Invested`  `Magical`  `Necromancy`  `Uncommon`
+`Invested`  `Magical`  `Uncommon`
 
 - **Price**: 475 gp
 - **Usage**: worn mask
 
-These masks are always decorated with at least one wide, staring eye. 
-
-The first time each day a creature on your plane that you can't perceive targets you with a divination spell, the creature must attempt a DC 24 Will save. This effect is automatic and does not require you to Activate the item.
+A _mask of the cursed eye_ is decorated with at least one wide, staring eye. The first time each day you’re targeted with a detection, prediction, revelation, or scrying spell by a creature on your plane that you can’t perceive, the creature targeting you must attempt a DC 24 Will save. This effect is automatic and does not require you to Activate the item.
 
 **Critical Success** The creature is unaffected.
 

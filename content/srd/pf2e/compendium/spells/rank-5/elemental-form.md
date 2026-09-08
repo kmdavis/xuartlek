@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/polymorph
 - spell/level/5
 aliases: ["Elemental Form"]
-aon_id: "spell-1510"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1510"
 source: "Player Core"
 ---
 
@@ -18,8 +17,8 @@ source: "Player Core"
 
 - **Traditions**: Arcane, Primal
 - **Spell Lists**: Elemental
-- **Bloodline**: Elemental
-- **Deities**: Onos, Ristrentho, Zursvaater
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Elemental|Elemental]]
+- **Deities**: [[srd/pf2e/compendium/deities/azlanti-pantheon/onos|Onos]], [[srd/pf2e/compendium/deities/sarkorian-gods/ristrentho|Ristrentho]], [[srd/pf2e/compendium/deities/giant-gods/zursvaater|Zursvaater]]
 - **Duration**: 1 minute
 
 You call upon the power of the planes to transform into a Medium elemental battle form. When you Cast this Spell, choose a listed element. While in this form, you gain the corresponding trait and the [[srd/pf2e/compendium/rules-elements/traits/player-core/elemental|elemental]] trait. You have hands in this battle form and can take [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] actions. You can Dismiss the spell. 

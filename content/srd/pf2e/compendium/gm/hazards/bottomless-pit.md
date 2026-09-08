@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
 tags:
 - compendium/src/pf2e/gm-core
@@ -8,7 +7,7 @@ tags:
 - trait/trap
 - hazard/level/9
 aliases: ["Bottomless Pit"]
-aon_id: "hazard-467"
+aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=467"
 source: "GM Core"
 ---
 

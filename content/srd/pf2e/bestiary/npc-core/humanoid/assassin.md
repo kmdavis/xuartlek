@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Assassin"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Assassin"
 level: 8
 source: "NPC Core"
-aon_id: "creature-3434"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3434"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [3, 5, 2, 2, 2, 0]
 abilities_top:
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/bow/composite-shortbow|composite shortbow]]_ (20 arrows), lesser darkvision elixir, [[srd/pf2e/compendium/equipment/alchemical-items/giant-centipede-venom-equipment-3334|Giant Centipede Venom]] (4), [[srd/pf2e/compendium/equipment/consumables/invisibility-potion|_invisibility potion_]], Leather Armor, Lethargy Poison (3), _+1 [[srd/pf2e/compendium/equipment/weapons/sword/rapier|rapier]]_"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/bow/composite-shortbow|composite shortbow]]_ (20 arrows), lesser darkvision elixir, [[srd/pf2e/compendium/equipment/alchemical-items/giant-centipede-venom|Giant Centipede Venom]] (4), [[srd/pf2e/compendium/equipment/consumables/invisibility-potion|_invisibility potion_]], Leather Armor, Lethargy Poison (3), _+1 [[srd/pf2e/compendium/equipment/weapons/sword/rapier|rapier]]_"
 ac: 26
 armorclass:
   - name: "AC"

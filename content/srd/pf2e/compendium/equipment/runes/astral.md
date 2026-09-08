@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -7,7 +6,7 @@ tags:
 - trait/spirit
 - equipment/level/8
 aliases: ["Astral"]
-aon_id: "equipment-2832"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2832"
 source: "GM Core"
 ---
 

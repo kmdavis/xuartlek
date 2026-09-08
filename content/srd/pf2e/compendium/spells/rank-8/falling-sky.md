@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/8
 aliases: ["Falling Sky"]
-aon_id: "spell-2570"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2570"
 source: "Dark Archives (Remastered)"
 ---
 
@@ -17,7 +16,7 @@ source: "Dark Archives (Remastered)"
 `Concentrate`  `Incapacitation`  `Manipulate`
 
 - **Traditions**: Arcane, Occult
-- **Deity**: Vonymos
+- **Deity**: [[srd/pf2e/compendium/deities/monitor-demigods/vonymos|Vonymos]]
 - **Range**: 120 feet
 - **Area**: 60-foot tall, 30-foot radius cylinder
 

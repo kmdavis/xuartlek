@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/battlecry
 - trait/rare
 - vehicle/level/15
 aliases: ["Necro Roamer"]
-aon_id: "vehicle-103"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=103"
 source: "Battlecry!"
 ---
 
@@ -14,7 +13,7 @@ source: "Battlecry!"
 
 `Rare`
 
-- **Price**: 19,900 gp
+- **Price**: 19, 900 gp
 
 Favored by necromancers, this vehicle is a heavily fortified, armored wooden shed mounted on the legs of a dozen [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]] creatures.
 

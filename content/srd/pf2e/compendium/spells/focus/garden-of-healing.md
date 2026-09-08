@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -12,7 +11,7 @@ tags:
 - trait/uncommon
 - spell/level/1
 aliases: ["Garden of Healing"]
-aon_id: "spell-2166"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2166"
 source: "War of Immortals"
 ---
 

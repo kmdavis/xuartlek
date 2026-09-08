@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-conscious-mind
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 aliases: ["The Infinite Eye"]
-aon_id: "conscious-mind-8"
+aon_url: "https://2e.aonprd.com/ConsciousMinds.aspx?ID=8"
 source: "Dark Archives (Remastered)"
 ---
 

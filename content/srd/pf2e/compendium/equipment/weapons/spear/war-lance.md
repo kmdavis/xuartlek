@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/battlecry
@@ -10,7 +9,7 @@ tags:
 - trait/uncommon
 - weapon/level/0
 aliases: ["War Lance"]
-aon_id: "weapon-534"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=534"
 source: "Battlecry!"
 ---
 

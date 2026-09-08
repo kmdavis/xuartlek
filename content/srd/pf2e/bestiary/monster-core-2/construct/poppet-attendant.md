@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Poppet Attendant"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Poppet Attendant"
 level: 0
 source: "Monster Core 2"
-aon_id: "creature-4514"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4514"
 ---
 
@@ -40,7 +38,7 @@ abilities_top:
   - name: "Simple Doll"
     desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) The poppet attendant looks like an ordinary doll, fooling others into leaving them alone. When they're in their place of business, the poppet attendant can [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]] without cover or [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealment]]. Once a creature realizes that the poppet attendant is alive, the attendant can't Hide from them in this way again."
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit-sterling|Artisan's Toolkit]], [[srd/pf2e/compendium/equipment/adventuring-gear/repair-toolkit-superb|Repair Toolkit]], [[srd/pf2e/compendium/equipment/weapons/knife/shears|Shears]], Sling (10 sling bullets)"
+    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit|Artisan's Toolkit]], [[srd/pf2e/compendium/equipment/adventuring-gear/repair-toolkit|Repair Toolkit]], Shears, Sling (10 sling bullets)"
 ac: 15
 armorclass:
   - name: "AC"

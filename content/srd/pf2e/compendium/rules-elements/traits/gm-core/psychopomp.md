@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/gm-core
 - trait/psychopomp
 aliases: ["Psychopomp"]
-aon_id: "trait-679"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=679"
 source: "GM Core"
 ---
 

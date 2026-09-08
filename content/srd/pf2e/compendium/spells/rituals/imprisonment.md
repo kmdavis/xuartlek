@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - ritual/level/8
 aliases: ["Imprisonment"]
-aon_id: "ritual-194"
+aon_url: "https://2e.aonprd.com/MythicRituals.aspx?ID=194"
 source: "War of Immortals"
 ---
 
@@ -19,7 +18,7 @@ source: "War of Immortals"
 - **Cost**: reagents to construct the magical prison worth a total value of 800 gp × the target’s level
 - **Secondary Casters**: 6
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] (mythic) or [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (mythic)
-- **Secondary Checks**: Crafting , Society
+- **Secondary Checks**: Crafting, Society
 - **Range**: 10 feet
 - **Target(s)**: 1 creature of up to 16th level
 

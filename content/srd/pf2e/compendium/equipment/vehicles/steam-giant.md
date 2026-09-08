@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/gm-core
 - trait/rare
 - vehicle/level/14
 aliases: ["Steam Giant"]
-aon_id: "vehicle-69"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=69"
 source: "GM Core"
 ---
 
@@ -14,7 +13,7 @@ source: "GM Core"
 
 `Rare`
 
-- **Price**: 12,500 gp
+- **Price**: 12, 500 gp
 
 **Space** 20 feet long, 20 feet wide, 25 feet high
 

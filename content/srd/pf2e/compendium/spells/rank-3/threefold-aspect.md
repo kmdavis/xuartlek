@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -8,7 +7,7 @@ tags:
 - trait/polymorph
 - spell/level/3
 aliases: ["Threefold Aspect"]
-aon_id: "spell-2038"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2038"
 source: "Player Core 2"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core 2"
 `Concentrate`  `Manipulate`  `Polymorph`
 
 - **Traditions**: Occult, Primal
-- **Deities**: Brixori, Guardians of the Sacred Self, Lymnieris, Magdh, Mestama, Phlegyas, Ra
+- **Deities**: Brixori, [[srd/pf2e/compendium/deities/pantheons/guardians-of-the-sacred-self|Guardians of the Sacred Self]], Lymnieris, [[srd/pf2e/compendium/deities/eldest/magdh|Magdh]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/mestama|Mestama]], [[srd/pf2e/compendium/deities/monitor-demigods/phlegyas|Phlegyas]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/ra|Ra]]
 - **Cast**: 1 minute
 - **Duration**: until the next time you make your daily preparations
 

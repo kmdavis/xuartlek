@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/flourish
 - feat/level/4
 aliases: ["Cavalier's Charge"]
-aon_id: "feat-6288"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6288"
 source: "Player Core 2"
 ---
 

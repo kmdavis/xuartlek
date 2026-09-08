@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -11,7 +10,7 @@ tags:
 - trait/mental
 - spell/level/2
 aliases: ["Blistering Invective"]
-aon_id: "spell-1970"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1970"
 source: "Player Core 2"
 ---
 
@@ -20,7 +19,7 @@ source: "Player Core 2"
 `Auditory`  `Concentrate`  `Emotion`  `Fear`  `Manipulate`  `Mental`
 
 - **Tradition**: Occult
-- **Deities**: Angradd, Mephistopheles, Ydajisk
+- **Deities**: [[srd/pf2e/compendium/deities/dwarven-gods/angradd|Angradd]], [[srd/pf2e/compendium/deities/archdevils/mephistopheles|Mephistopheles]], [[srd/pf2e/compendium/deities/monitor-demigods/ydajisk|Ydajisk]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -9,7 +8,7 @@ tags:
 - trait/rare
 - hazard/level/7
 aliases: ["Wind Surge"]
-aon_id: "hazard-462"
+aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=462"
 source: "War of Immortals"
 ---
 

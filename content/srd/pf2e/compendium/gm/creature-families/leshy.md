@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core
 aliases: ["Leshy"]
-aon_id: "creature-family-437"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=437"
 source: "Monster Core"
 ---
 
@@ -30,7 +29,7 @@ Because of their relative frailty, leaf leshies frequently act as liaisons and c
 
 ### Phytoremediation
 
-Leshies and other plants can cleanse the environment of pollution, such as pesticides, oil, and even radiation. They can heal the land simply by building a leshy settlement and dwelling there over time. More ambitious leshies battle against corruption in whatever way they are best suited for. For example, a leshy might join the Sarkorian Reclaimers to liberate the land from [[srd/pf2e/compendium/gm/creature-families/demon|demonic]] influences, or they might worship Sarenrae and fight against the Whispering Tyrant's legion of [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]].
+Leshies and other plants can cleanse the environment of pollution, such as pesticides, oil, and even radiation. They can heal the land simply by building a leshy settlement and dwelling there over time. More ambitious leshies battle against corruption in whatever way they are best suited for. For example, a leshy might join the Sarkorian Reclaimers to liberate the land from [[srd/pf2e/compendium/gm/creature-families/demon|demonic]] influences, or they might worship [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/sarenrae|Sarenrae]] and fight against the Whispering Tyrant's legion of [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]].
 
 ### Plant Allies
 

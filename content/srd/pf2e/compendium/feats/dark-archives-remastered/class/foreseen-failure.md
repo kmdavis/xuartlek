@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/psychic
 - feat/level/12
 aliases: ["Foreseen Failure"]
-aon_id: "feat-8337"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8337"
 source: "Dark Archives (Remastered)"
 ---
 

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/player-core
 - equipment/level/0
 aliases: ["Oil"]
-aon_id: "equipment-2739"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2739"
 source: "Player Core"
 ---
 

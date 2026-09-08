@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -8,7 +7,7 @@ tags:
 - trait/potion
 - equipment/level/5
 aliases: ["Potion of Leaping"]
-aon_id: "equipment-2949"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2949"
 source: "GM Core"
 ---
 

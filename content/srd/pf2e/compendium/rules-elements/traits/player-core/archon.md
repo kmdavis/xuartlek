@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/archon
 aliases: ["Archon"]
-aon_id: "trait-536"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=536"
 source: "Player Core"
 ---
 

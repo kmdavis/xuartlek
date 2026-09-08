@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -8,7 +7,7 @@ tags:
 - trait/rage
 - feat/level/10
 aliases: ["Come and Get Me"]
-aon_id: "feat-5845"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5845"
 source: "Player Core 2"
 ---
 

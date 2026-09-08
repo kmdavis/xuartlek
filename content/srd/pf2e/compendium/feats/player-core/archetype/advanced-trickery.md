@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/archetype
 - feat/level/6
 aliases: ["Advanced Trickery"]
-aon_id: "feat-5095"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5095"
 source: "Player Core"
 ---
 

@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core
 aliases: ["Dragon, Mirage"]
-aon_id: "creature-family-402"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=402"
 source: "Monster Core"
 ---
 

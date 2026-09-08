@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core-2
 aliases: ["Dragon, Requiem"]
-aon_id: "creature-family-586"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=586"
 source: "Monster Core 2"
 ---
 
@@ -50,7 +49,7 @@ Divine Prepared Spells DC 42, attack +34; As adult requiem dragon, plus **9th** 
 
 ### Roum
 
-The requiem dragon Roum, a cleric of Brigh, tasked herself with escorting the souls of inventors down the River of Souls. She records their final ideas in a vast library she calls the Hall of Lost Invention. She keeps this lair secreted away in a cavern in the Brazen Peaks. From here, she can spy on the works of local inventors. Roum will occasionally petition for the resurrection of unfortunate inventors who lost their lives to their own risky but promising creations—magical or mundane—if their idea intrigues her.
+The requiem dragon Roum, a cleric of [[srd/pf2e/compendium/deities/other-gods/brigh|Brigh]], tasked herself with escorting the souls of inventors down the River of Souls. She records their final ideas in a vast library she calls the Hall of Lost Invention. She keeps this lair secreted away in a cavern in the Brazen Peaks. From here, she can spy on the works of local inventors. Roum will occasionally petition for the resurrection of unfortunate inventors who lost their lives to their own risky but promising creations—magical or mundane—if their idea intrigues her.
 
 ### Dragon
 

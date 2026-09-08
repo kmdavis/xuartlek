@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Ayngavhaul"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Ayngavhaul"
 level: 13
 source: "Monster Core 2"
-aon_id: "creature-4329"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4329"
 ---
 
@@ -46,7 +44,7 @@ armorclass:
 hp: 240
 health:
   - name: "HP"
-    desc: "240; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]; __Resistances__ physical 10 (except [[srd/pf2e/compendium/equipment/materials/silver-object-high-grade|silver]]); __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 10"
+    desc: "240; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]; __Resistances__ physical 10 (except [[srd/pf2e/compendium/equipment/materials/silver|silver]]); __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 10"
 abilities_mid:
   - name: "Spellblock Tome"
     desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])"

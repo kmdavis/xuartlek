@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Deadly Mantis"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Deadly Mantis"
 level: 11
 source: "Monster Core"
-aon_id: "creature-3095"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3095"
 ---
 
@@ -53,7 +51,7 @@ abilities_bot:
   - name: "Rending Mandibles"
     desc: "⬻ The mantis makes a mandibles Strike against a creature it has [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]]. If that Strike hits and the creature is wearing armor with Hardness 12 or lower, the armor is [[srd/pf2e/compendium/rules-elements/conditions#Broken|broken]]. This Strike doesn't further damage armor that's already broken."
   - name: "Sudden Strike"
-    desc: "On the first round of combat, creatures that haven't acted are [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to the deadly mantis. Sacred Insects Deadly mantises are sacrosanct to followers of Achaekek, the Mantis God. His adherents, including the infamous Red Mantis assassins, invite or lure deadly mantises close to their settlements, seeing the towering creatures as a sign of their god's favor. Achaekek's followers offer sacrifices of livestock or captured enemies to keep the massive insects well fed. Clerics of Achaekek defend a deadly mantis's territory as if it were their own, believing it to be holy ground."
+    desc: "On the first round of combat, creatures that haven't acted are [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to the deadly mantis. Sacred Insects Deadly mantises are sacrosanct to followers of [[srd/pf2e/compendium/deities/other-gods/achaekek|Achaekek]], the Mantis God. His adherents, including the infamous Red Mantis assassins, invite or lure deadly mantises close to their settlements, seeing the towering creatures as a sign of their god's favor. Achaekek's followers offer sacrifices of livestock or captured enemies to keep the massive insects well fed. Clerics of Achaekek defend a deadly mantis's territory as if it were their own, believing it to be holy ground."
 sourcebook: "_Monster Core_, page 229."
 ```
 

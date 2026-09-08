@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -12,7 +11,7 @@ tags:
 - trait/uncommon
 - spell/level/3
 aliases: ["Thunderburst"]
-aon_id: "spell-2088"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2088"
 source: "Player Core 2"
 ---
 
@@ -20,7 +19,7 @@ source: "Player Core 2"
 
 `Air`  `Concentrate`  `Focus`  `Manipulate`  `Oracle`  `Sonic`  `Uncommon`
 
-- **Mystery**: Tempest
+- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Tempest|Tempest]]
 - **Range**: 100 feet
 - **Area**: 20-foot burst
 - **Defense**: Fortitude

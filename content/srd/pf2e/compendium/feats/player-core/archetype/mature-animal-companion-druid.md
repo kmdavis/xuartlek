@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/druid
 - feat/level/4
 aliases: ["Mature Animal Companion (Druid)"]
-aon_id: "feat-4725"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4725"
 source: "Player Core"
 ---
 
@@ -14,7 +13,7 @@ source: "Player Core"
 
 `Druid`
 
-- **Archetypes**: Rivethun Involutionist (Level 6), Nidalese Horselord (Level 6)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/rivethun-involutionist|Rivethun Involutionist]] (Level 6), Nidalese Horselord (Level 6)
 - **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/class/animal-companion|Animal Companion]]
 
 Your animal companion has grown up over the course of your adventures, becoming a mature animal companion and gaining [[srd/pf2e/books/player-core/chapter-3-classes/companions#Mature Animal Companions|additional capabilities]].

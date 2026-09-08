@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/guardian
 - feat/level/16
 aliases: ["Improved Reflexive Shield"]
-aon_id: "feat-4849"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4849"
 source: "Player Core"
 ---
 

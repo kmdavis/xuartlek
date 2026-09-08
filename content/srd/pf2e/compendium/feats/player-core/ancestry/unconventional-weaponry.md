@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/human
 - feat/level/1
 aliases: ["Unconventional Weaponry"]
-aon_id: "feat-4480"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4480"
 source: "Player Core"
 ---
 

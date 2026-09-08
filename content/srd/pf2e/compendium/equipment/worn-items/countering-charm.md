@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - equipment/level/11
 aliases: ["Countering Charm"]
-aon_id: "equipment-3070"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3070"
 source: "GM Core"
 ---
 

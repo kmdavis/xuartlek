@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - equipment/level/0
 aliases: ["Earplugs"]
-aon_id: "equipment-1203"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1203"
 source: "Guns & Gears (Remastered)"
 ---
 

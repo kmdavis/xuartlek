@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core
 aliases: ["Dragon, Horned"]
-aon_id: "creature-family-401"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=401"
 source: "Monster Core"
 ---
 

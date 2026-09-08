@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Sumbreiva"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Sumbreiva"
 level: 16
 source: "Monster Core 2"
-aon_id: "creature-4570"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4570"
 ---
 

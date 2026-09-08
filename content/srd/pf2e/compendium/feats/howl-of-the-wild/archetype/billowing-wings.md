@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -7,7 +6,7 @@ tags:
 - trait/archetype
 - feat/level/12
 aliases: ["Billowing Wings"]
-aon_id: "feat-5433"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5433"
 source: "Howl of the Wild"
 ---
 

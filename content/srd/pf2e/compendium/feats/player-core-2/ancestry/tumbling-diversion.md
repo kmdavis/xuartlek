@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/kobold
 - feat/level/13
 aliases: ["Tumbling Diversion"]
-aon_id: "feat-5629"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5629"
 source: "Player Core 2"
 ---
 

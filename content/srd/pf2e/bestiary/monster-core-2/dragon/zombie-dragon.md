@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Zombie Dragon"
 tags:
@@ -14,7 +13,6 @@ statblock: inline
 name: "Zombie Dragon"
 level: 9
 source: "Monster Core 2"
-aon_id: "creature-4622"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4622"
 ---
 

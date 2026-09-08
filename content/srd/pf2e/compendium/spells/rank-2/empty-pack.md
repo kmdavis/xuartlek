@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/subtle
 - spell/level/2
 aliases: ["Empty Pack"]
-aon_id: "spell-2568"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2568"
 source: "Dark Archives (Remastered)"
 ---
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/cleric
 - feat/level/20
 aliases: ["Avatar's Protection"]
-aon_id: "feat-4705"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4705"
 source: "Player Core"
 ---
 

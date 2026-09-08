@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/negative
 - spell/level/8
 aliases: ["Desiccate"]
-aon_id: "spell-1484"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1484"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Void`  `Negative`
 
 - **Traditions**: Arcane, Primal
-- **Deity**: Tresmalvos
+- **Deity**: [[srd/pf2e/compendium/deities/daemon-harbingers/tresmalvos|Tresmalvos]]
 - **Range**: 500 feet
 - **Target**: any number of living creatures
 - **Defense**: basic Fortitude

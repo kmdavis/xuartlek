@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/npc-core
@@ -9,7 +8,7 @@ tags:
 - trait/teleportation
 - spell/level/4
 aliases: ["Infiltrator's Tunnel"]
-aon_id: "spell-2338"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2338"
 source: "NPC Core"
 ---
 

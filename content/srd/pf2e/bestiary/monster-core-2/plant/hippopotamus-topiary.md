@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Hippopotamus Topiary"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Hippopotamus Topiary"
 level: 11
 source: "Monster Core 2"
-aon_id: "creature-4466"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4466"
 ---
 

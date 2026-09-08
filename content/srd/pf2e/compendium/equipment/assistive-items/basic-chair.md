@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - equipment/level/0
 aliases: ["Basic Chair"]
-aon_id: "equipment-1160"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1160"
 source: "Guns & Gears (Remastered)"
 ---
 

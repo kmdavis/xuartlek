@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/rage-of-elements
 - trait/uncommon
 - ritual/level/5
 aliases: ["Elemental Servitor"]
-aon_id: "ritual-104"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=104"
 source: "Rage of Elements"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - equipment/level/17
 aliases: ["Benthic Drums"]
-aon_id: "equipment-3926"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3926"
 source: "Battlecry!"
 ---
 
@@ -15,7 +14,7 @@ source: "Battlecry!"
 
 `Magical`  `Uncommon`
 
-- **Price**: 14,000 gp
+- **Price**: 14, 000 gp
 - **Usage**: held in 2 hands
 - **Bulk**: 1
 

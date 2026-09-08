@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/rage-of-elements
 - trait/talos
 - feat/level/5
 aliases: ["Conductor's Redirection"]
-aon_id: "feat-4328"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4328"
 source: "Rage of Elements"
 ---
 

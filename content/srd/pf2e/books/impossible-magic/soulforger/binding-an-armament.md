@@ -7,7 +7,6 @@ cssclasses:
 tags:
   - srd/pf2e/impossible-magic
 source: "Impossible Magic"
-aon_id: 3690
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3690"
 citation: "Impossible Magic pg. 99"
 ---
@@ -24,7 +23,7 @@ You bind an armament—a weapon, shield, or suit of armor—to your soul in a sp
 
 **Special Armament Types:** The types of items you can choose for your armaments are fairly flexible, but some require special rules.
 
-*Specific Items:* You can turn a specific item for your armament, such as a [[srd/pf2e/compendium/equipment/weapons/searing-blade-greater|searing blade]] or [[srd/pf2e/compendium/equipment/shields/sturdy-shield-supreme|sturdy shield]]. Some unusual or special items, such as cursed items, artifacts, and intelligent items, can't be bonded, in addition to other story-specific items at the GM's discretion. Bonding a specific item follows the standard procedure for upgrading or reshaping your armament.
+*Specific Items:* You can turn a specific item for your armament, such as a [[srd/pf2e/compendium/equipment/weapons/searing-blade|searing blade]] or [[srd/pf2e/compendium/equipment/shields/sturdy-shield|sturdy shield]]. Some unusual or special items, such as cursed items, artifacts, and intelligent items, can't be bonded, in addition to other story-specific items at the GM's discretion. Bonding a specific item follows the standard procedure for upgrading or reshaping your armament.
 
 *Dual Weapons:* You can choose two one-handed weapons you want to wield simultaneously as your soulforged weapons. When you Manifest Soulforged Armament, both weapons appear. Because they're a pair, you must manifest them together, having two hands free to do so, and Dismiss them both simultaneously as well. The [[srd/pf2e/books/impossible-magic/soulforger/essence-powers|essence power]] applies to both weapons, so they share benefits like the new damage type and status bonus to damage from planar pain. However, you still get any effects the bond grants you only once, as the dual weapons are shared as a single armament. For instance, if your essence power is [[srd/pf2e/books/impossible-magic/soulforger/essence-powers|healing grace]], you could still cast only one heal spell when you manifest the essence form of your dual weapons, not two.
 

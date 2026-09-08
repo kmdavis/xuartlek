@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -9,7 +8,7 @@ tags:
 - trait/water
 - spell/level/3
 aliases: ["Dive and Breach"]
-aon_id: "spell-1386"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1386"
 source: "Rage of Elements"
 ---
 

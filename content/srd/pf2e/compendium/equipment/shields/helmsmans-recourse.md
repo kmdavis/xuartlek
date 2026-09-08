@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
 - trait/magical
 - equipment/level/5
 aliases: ["Helmsman's Recourse"]
-aon_id: "equipment-1858"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1858"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -18,7 +17,7 @@ source: "Treasure Vault (Remastered)"
 - **Bulk**: 1
 - **Base Shield**: [[srd/pf2e/compendium/equipment/shields#Meteor Shield|Meteor Shield]]
 
-This [[srd/pf2e/compendium/equipment/shields/duskwood-tower-shield-high-grade|standard-grade duskwood]] [[srd/pf2e/compendium/equipment/shields#Meteor Shield|meteor shield]] (Hardness 7, HP 28, BT 14) is a wheel from a ship. While wielding the shield, you gain a +1 item bonus to Sailing Lore and to [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] checks to Swim.
+This [[srd/pf2e/compendium/equipment/shields/duskwood-shield|standard-grade duskwood]] [[srd/pf2e/compendium/equipment/shields#Meteor Shield|meteor shield]] (Hardness 7, HP 28, BT 14) is a wheel from a ship. While wielding the shield, you gain a +1 item bonus to Sailing Lore and to [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] checks to Swim.
 
 **Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per hour; **Requirements** You're in a body of water; **Effect** For 10 minutes, you don't sink if you haven't succeeded at a Swim action on a turn, and if you're submerged, you automatically ascend 10 feet at the end of your turn.
 

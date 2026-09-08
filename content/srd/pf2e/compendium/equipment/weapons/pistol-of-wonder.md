@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/rare
 - equipment/level/13
 aliases: ["Pistol of Wonder"]
-aon_id: "equipment-1187"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1187"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -15,12 +14,12 @@ source: "Guns & Gears (Remastered)"
 
 `Magical`  `Rare`
 
-- **Price**: 3,000 gp
+- **Price**: 3, 000 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/firearm/flintlock-pistol|Flintlock Pistol]]
+- **Base Weapon**: Flintlock Pistol
 
-This _+2 greater striking [[srd/pf2e/compendium/equipment/weapons/firearm/flintlock-pistol|flintlock pistol]]_ bears strange, jagged markings of erratic design and has an oddly squishy grip. It can be activated to produce a variety of unusual effects.
+This _+2 greater striking flintlock pistol_ bears strange, jagged markings of erratic design and has an oddly squishy grip. It can be activated to produce a variety of unusual effects.
 
 **Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** Choose a creature within 60 feet and roll a percentile die on the table below to determine the pistol's effect. If an entry lists a spell, the pistol Casts that Spell at the indicated level (or at its lowest level, if no level is listed). You make any decisions for a spell cast by the pistol unless otherwise indicated, except that it must only target the creature you chose, or the creature you chose must be the center of the spell's area, if it has an area but no targets. The only exception to the limitation on targeting is if the effect specifically states it targets you. If the spell's range is less than 60 feet, increase the range to 60 feet.
 

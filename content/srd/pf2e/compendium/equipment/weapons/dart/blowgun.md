@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/nonlethal
 - weapon/level/0
 aliases: ["Blowgun"]
-aon_id: "weapon-424"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=424"
 source: "Player Core"
 ---
 
@@ -15,7 +14,7 @@ source: "Player Core"
 
 `Agile`  `Nonlethal`
 
-- **Favored Weapon**: Picoperi, Seramaydiel
+- **Favored Weapon**: Picoperi, [[srd/pf2e/compendium/deities/empyreal-lords/seramaydiel|Seramaydiel]]
 - **Price**: 1 sp
 - **Damage**: 1 P
 - **Bulk**: L

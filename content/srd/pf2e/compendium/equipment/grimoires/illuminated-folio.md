@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/magical
 - equipment/level/14
 aliases: ["Illuminated Folio"]
-aon_id: "equipment-2179"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2179"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -15,7 +14,7 @@ source: "Treasure Vault (Remastered)"
 
 `Grimoire`  `Magical`
 
-- **Price**: 4,200 gp
+- **Price**: 4, 200 gp
 - **Bulk**: L
 
 The pages of this part-spellbook, part-bestiary are illustrated with all manner of creatures, magical and mundane. The illustrations shift and move around the page when examined.

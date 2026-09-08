@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
 - trait/magical
 - equipment/level/12
 aliases: ["Flying Broomstick"]
-aon_id: "equipment-3023"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3023"
 source: "GM Core"
 ---
 
@@ -14,7 +13,7 @@ source: "GM Core"
 
 `Magical`
 
-- **Price**: 1,900 gp
+- **Price**: 1, 900 gp
 - **Usage**: held in 1 hand
 - **Bulk**: 1
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/stance
 - feat/level/14
 aliases: ["Whirling Blade Stance"]
-aon_id: "feat-6037"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6037"
 source: "Player Core 2"
 ---
 

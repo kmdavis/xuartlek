@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Jinkin"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Jinkin"
 level: 1
 source: "Monster Core"
-aon_id: "creature-3033"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3033"
 ---
 

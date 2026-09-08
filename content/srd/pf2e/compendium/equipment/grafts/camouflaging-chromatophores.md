@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - equipment/level/4
 aliases: ["Camouflaging Chromatophores"]
-aon_id: "equipment-3180"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3180"
 source: "Howl of the Wild"
 ---
 

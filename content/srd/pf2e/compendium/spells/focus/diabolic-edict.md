@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - spell/level/1
 aliases: ["Diabolic Edict"]
-aon_id: "spell-2099"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2099"
 source: "Player Core 2"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core 2"
 
 `Concentrate`  `Focus`  `Sorcerer`  `Uncommon`
 
-- **Bloodline**: Diabolic
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Diabolic|Diabolic]]
 - **Range**: 30 feet
 - **Target**: 1 willing living creature
 - **Duration**: 1 round

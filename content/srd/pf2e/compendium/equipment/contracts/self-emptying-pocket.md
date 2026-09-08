@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/rare
 - equipment/level/9
 aliases: ["Self-Emptying Pocket"]
-aon_id: "equipment-4155"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4155"
 source: "Dark Archives (Remastered)"
 ---
 

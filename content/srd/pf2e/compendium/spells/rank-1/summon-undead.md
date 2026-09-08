@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/summon
 - spell/level/1
 aliases: ["Summon Undead"]
-aon_id: "spell-1706"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1706"
 source: "Player Core"
 ---
 

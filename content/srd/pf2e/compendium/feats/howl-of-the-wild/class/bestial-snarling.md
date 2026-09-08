@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -10,7 +9,7 @@ tags:
 - trait/mental
 - feat/level/2
 aliases: ["Bestial Snarling"]
-aon_id: "feat-5416"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5416"
 source: "Howl of the Wild"
 ---
 
@@ -18,7 +17,7 @@ source: "Howl of the Wild"
 
 `Auditory`  `Bard`  `Emotion`  `Fear`  `Mental`
 
-- **Prerequisites**: zoophonia muse
+- **Prerequisites**: [[srd/pf2e/compendium/character/muses#Zoophonia|zoophonia muse]]
 
 You can convey the subtle menace of a low growl or predatory rumble. Attempt a [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] or [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] check, and compare it to the Will DC of each enemy adjacent to you. If you have an animal minion, such as an animal companion or summoned animal, you can also compare it to each enemy adjacent to them. For each creature that you succeed at, it's [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened 1]] (or frightened 2 if it's an animal). Regardless of the result, each target is temporarily immune to your Bestial Snarling for 10 minutes.
 

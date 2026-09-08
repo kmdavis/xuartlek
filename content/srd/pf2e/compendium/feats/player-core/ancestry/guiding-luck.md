@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/halfling
 - feat/level/9
 aliases: ["Guiding Luck"]
-aon_id: "feat-4468"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4468"
 source: "Player Core"
 ---
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
 - trait/uncommon
 - equipment/level/8
 aliases: ["Adamantine Shield"]
-aon_id: "equipment-2812"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2812"
 source: "GM Core"
 ---
 
@@ -15,7 +14,7 @@ source: "GM Core"
 `Uncommon`
 
 - **Usage**: varies by shield
-- **Base Material**: [[srd/pf2e/compendium/equipment/materials/adamantine-object-high-grade|Adamantine]]
+- **Base Material**: [[srd/pf2e/compendium/equipment/materials/adamantine|Adamantine]]
 
 Adamantine shields are particularly sturdy, and when used for a shield bash, they're adamantine weapons.
 

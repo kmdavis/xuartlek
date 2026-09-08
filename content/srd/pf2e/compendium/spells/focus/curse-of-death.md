@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -15,7 +14,7 @@ tags:
 - trait/negative
 - spell/level/5
 aliases: ["Curse of Death"]
-aon_id: "spell-1876"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1876"
 source: "Player Core"
 ---
 
@@ -23,7 +22,7 @@ source: "Player Core"
 
 `Concentrate`  `Curse`  `Death`  `Focus`  `Hex`  `Manipulate`  `Uncommon`  `Void`  `Witch`  `Negative`
 
-- **Lesson**: Lesson of Death
+- **Lesson**: [[srd/pf2e/compendium/character/lessons#Lesson of Death|Lesson of Death]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Fortitude

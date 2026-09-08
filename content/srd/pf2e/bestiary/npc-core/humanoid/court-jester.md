@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Court Jester"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Court Jester"
 level: 10
 source: "NPC Core"
-aon_id: "creature-3578"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3578"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [2, 4, 1, 2, 1, 5]
 abilities_top:
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]]_ (3), face paints"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]]_ (3), face paints"
 ac: 29
 armorclass:
   - name: "AC"

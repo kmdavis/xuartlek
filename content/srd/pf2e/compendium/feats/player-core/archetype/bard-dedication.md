@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/multiclass
 - feat/level/2
 aliases: ["Bard Dedication"]
-aon_id: "feat-5057"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5057"
 source: "Player Core"
 ---
 

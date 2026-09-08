@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -11,7 +10,7 @@ tags:
 - trait/focus
 - spell/level/9
 aliases: ["Arcane Explosion"]
-aon_id: "spell-2151"
+aon_url: "https://2e.aonprd.com/MythicSpells.aspx?ID=2151"
 source: "War of Immortals"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -11,7 +10,7 @@ tags:
 - trait/witch
 - spell/level/5
 aliases: ["Restorative Moment"]
-aon_id: "spell-1885"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1885"
 source: "Player Core"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core"
 
 `Concentrate`  `Focus`  `Hex`  `Manipulate`  `Uncommon`  `Witch`
 
-- **Lesson**: Lesson of Renewal
+- **Lesson**: [[srd/pf2e/compendium/character/lessons#Lesson of Renewal|Lesson of Renewal]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 

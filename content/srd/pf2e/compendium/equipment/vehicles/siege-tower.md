@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/uncommon
 - vehicle/level/4
 aliases: ["Siege Tower"]
-aon_id: "vehicle-17"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=17"
 source: "Guns & Gears (Remastered)"
 ---
 

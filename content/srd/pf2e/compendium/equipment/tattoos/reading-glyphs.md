@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/tattoo
 - equipment/level/4
 aliases: ["Reading Glyphs"]
-aon_id: "equipment-2215"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2215"
 source: "Treasure Vault (Remastered)"
 ---
 

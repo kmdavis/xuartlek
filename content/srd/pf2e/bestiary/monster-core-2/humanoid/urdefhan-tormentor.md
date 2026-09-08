@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Urdefhan Tormentor"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Urdefhan Tormentor"
 level: 5
 source: "Monster Core 2"
-aon_id: "creature-4600"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4600"
 ---
 

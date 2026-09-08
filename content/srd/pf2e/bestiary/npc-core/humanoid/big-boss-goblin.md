@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Big Boss Goblin"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Big Boss Goblin"
 level: 6
 source: "NPC Core"
-aon_id: "creature-3643"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3643"
 ---
 

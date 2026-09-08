@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/negative
 - ritual/level/4
 aliases: ["Blight"]
-aon_id: "ritual-111"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=111"
 source: "Player Core"
 ---
 

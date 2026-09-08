@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/investigator
 - feat/level/1
 aliases: ["That's Odd"]
-aon_id: "feat-5938"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5938"
 source: "Player Core 2"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/half-elf
 - feat/level/5
 aliases: ["Supernatural Charm"]
-aon_id: "feat-4570"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4570"
 source: "Player Core"
 ---
 

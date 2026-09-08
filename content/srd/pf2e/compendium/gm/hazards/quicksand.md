@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
 tags:
 - compendium/src/pf2e/gm-core
@@ -7,7 +6,7 @@ tags:
 - trait/environmental
 - hazard/level/3
 aliases: ["Quicksand"]
-aon_id: "hazard-493"
+aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=493"
 source: "GM Core"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/talisman
 - equipment/level/5
 aliases: ["Goblin-Eye Orb"]
-aon_id: "equipment-1229"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1229"
 source: "Guns & Gears (Remastered)"
 ---
 

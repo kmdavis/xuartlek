@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -10,7 +9,7 @@ tags:
 - trait/teleportation
 - equipment/level/18
 aliases: ["Maw of Hungry Shadows"]
-aon_id: "equipment-2181"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2181"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -18,7 +17,7 @@ source: "Treasure Vault (Remastered)"
 
 `Grimoire`  `Incapacitation`  `Magical`  `Shadow`  `Teleportation`
 
-- **Price**: 21,000 gp
+- **Price**: 21, 000 gp
 - **Bulk**: L
 
 Shadows swirl around this soot-black tome, swallowing up any light that touches them. A faint whispering emanates from the grimoire's pages when opened.

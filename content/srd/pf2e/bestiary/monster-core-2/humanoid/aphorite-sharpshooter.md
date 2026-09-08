@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Aphorite Sharpshooter"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Aphorite Sharpshooter"
 level: 4
 source: "Monster Core 2"
-aon_id: "creature-4513"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4513"
 ---
 

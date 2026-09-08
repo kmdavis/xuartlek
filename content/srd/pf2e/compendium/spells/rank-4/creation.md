@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/4
 aliases: ["Creation"]
-aon_id: "spell-1477"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1477"
 source: "Player Core"
 ---
 
@@ -16,7 +15,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Abadar, Aesocar, Alglenweis, Apsu, Bharnarol, Bolka, Brigh, Demon Bringers, Inna, Isis, Liisglan, Mammon, Nocticula, Radiant Prism, Shelyn, Stone's Blood, Sun Wukong, The Endless Road, The Laborer's Bastion, Torag, Varg, Wheels of Innovation, Wulgren, Zogmugot
+- **Deities**: [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/abadar|Abadar]], [[srd/pf2e/compendium/deities/azlanti-pantheon/aesocar|Aesocar]], [[srd/pf2e/compendium/deities/sarkorian-gods/alglenweis|Alglenweis]], Apsu, [[srd/pf2e/compendium/deities/empyreal-lords/bharnarol|Bharnarol]], [[srd/pf2e/compendium/deities/dwarven-gods/bolka|Bolka]], [[srd/pf2e/compendium/deities/other-gods/brigh|Brigh]], Demon Bringers, [[srd/pf2e/compendium/deities/monitor-demigods/inna|Inna]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/isis|Isis]], [[srd/pf2e/compendium/deities/monitor-demigods/liisglan|Liisglan]], [[srd/pf2e/compendium/deities/archdevils/mammon|Mammon]], [[srd/pf2e/compendium/deities/other-gods/nocticula|Nocticula]], [[srd/pf2e/compendium/deities/pantheons/radiant-prism|Radiant Prism]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/shelyn|Shelyn]], [[srd/pf2e/compendium/deities/pantheons/stones-blood|Stone's Blood]], Sun Wukong, The Endless Road, The Laborer's Bastion, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/torag|Torag]], [[srd/pf2e/compendium/deities/orc-gods/varg|Varg]], [[srd/pf2e/compendium/deities/pantheons/wheels-of-innovation|Wheels of Innovation]], [[srd/pf2e/compendium/deities/orc-gods/wulgren|Wulgren]], [[srd/pf2e/compendium/deities/goblin-gods/zogmugot|Zogmugot]]
 - **Cast**: 1 minute
 - **Range**: 0 feet
 - **Duration**: 1 hour

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/rage-of-elements
 - trait/kineticist
 - feat/level/18
 aliases: ["Elemental Apotheosis"]
-aon_id: "feat-4203"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4203"
 source: "Rage of Elements"
 ---
 

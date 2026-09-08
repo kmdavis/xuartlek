@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/rage
 - feat/level/10
 aliases: ["Furious Sprint"]
-aon_id: "feat-5846"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5846"
 source: "Player Core 2"
 ---
 

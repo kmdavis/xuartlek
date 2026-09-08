@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/fatal
 - weapon/level/0
 aliases: ["Light Pick"]
-aon_id: "weapon-385"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=385"
 source: "Player Core"
 ---
 
@@ -15,7 +14,7 @@ source: "Player Core"
 
 `Agile`  `Fatal`
 
-- **Favored Weapon**: Dranngvit
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/dwarven-gods/dranngvit|Dranngvit]]
 - **Price**: 4 sp
 - **Damage**: 1d4 P
 - **Bulk**: L

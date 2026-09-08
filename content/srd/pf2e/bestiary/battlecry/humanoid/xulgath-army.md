@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Xulgath Army"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Xulgath Army"
 level: 6
 source: "Battlecry!"
-aon_id: "creature-3944"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3944"
 ---
 

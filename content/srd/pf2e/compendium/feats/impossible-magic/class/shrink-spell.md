@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/wizard
 - feat/level/6
 aliases: ["Shrink Spell"]
-aon_id: "feat-9393"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9393"
 source: "Impossible Magic"
 ---
 

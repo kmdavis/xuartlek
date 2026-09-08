@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -11,7 +10,7 @@ tags:
 - trait/visual
 - spell/level/9
 aliases: ["Overwhelming Presence"]
-aon_id: "spell-1621"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1621"
 source: "Player Core"
 ---
 
@@ -20,7 +19,7 @@ source: "Player Core"
 `Auditory`  `Concentrate`  `Incapacitation`  `Manipulate`  `Mental`  `Visual`
 
 - **Traditions**: Divine, Occult
-- **Bloodline**: Draconic
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Draconic|Draconic]]
 - **Area**: 40-foot burst
 - **Target**: any number of creatures
 - **Defense**: Will

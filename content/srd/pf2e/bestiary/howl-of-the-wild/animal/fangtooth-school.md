@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Fangtooth School"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Fangtooth School"
 level: 3
 source: "Howl of the Wild"
-aon_id: "creature-3276"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3276"
 ---
 

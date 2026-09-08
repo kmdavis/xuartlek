@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/4
 aliases: ["Fly"]
-aon_id: "spell-1534"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1534"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 
 - **Traditions**: Arcane, Divine, Occult, Primal
 - **Spell Lists**: Elemental
-- **Bloodline**: Draconic
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Draconic|Draconic]]
 - **Deity**: Sky Keepers
 - **Range**: touch
 - **Target**: 1 creature

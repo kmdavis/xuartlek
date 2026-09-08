@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/finesse
 - weapon/level/0
 aliases: ["Sword Cane"]
-aon_id: "weapon-400"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=400"
 source: "Player Core"
 ---
 
@@ -16,7 +15,7 @@ source: "Player Core"
 
 `Agile`  `Concealable`  `Finesse`
 
-- **Favored Weapon**: Esoteric Order Of The Palatine Eye, Nin, The Freeing Flame
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/faiths-philosophies/esoteric-order-of-the-palatine-eye|Esoteric Order Of The Palatine Eye]], Nin, The Freeing Flame
 - **Price**: 5 gp
 - **Damage**: 1d6 P
 - **Bulk**: 1

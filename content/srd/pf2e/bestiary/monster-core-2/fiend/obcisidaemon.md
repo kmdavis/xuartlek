@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Obcisidaemon"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Obcisidaemon"
 level: 19
 source: "Monster Core 2"
-aon_id: "creature-4309"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4309"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [10, 4, 8, 4, 5, 7]
 abilities_top:
   - name: "Items"
-    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+2 greater striking]] [[srd/pf2e/compendium/equipment/weapons/polearm/halberd|halberd]]_"
+    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+2 greater striking]] [[srd/pf2e/compendium/equipment/weapons/polearm/halberd|halberd]]_"
 ac: 43
 armorclass:
   - name: "AC"
@@ -60,7 +58,7 @@ attacks:
     desc: "⬻ jaws +34 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]]) __Damage__ 4d6+20 piercing plus Grab"
 abilities_bot:
   - name: "Consume Soul"
-    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]]) The obcisidaemon consumes a soul from their cloak to gain one of the following effects. A soul consumed in this way can't be resurrected except by a wish ritual or a similarly powerful effect. _Empower Spell_ The obcisidaemon gains a +2 status bonus to their spell DCs and spell attack modifiers until the end of their next turn. _Empower Weapon_ The obcisidaemon's weapon gains the effects of a [[srd/pf2e/compendium/equipment/runes/flaming-greater|_greater flaming_]], [[srd/pf2e/compendium/equipment/runes/frost-greater|_greater frost_]], [[srd/pf2e/compendium/equipment/runes/shock-greater|_greater shock_]], or [[srd/pf2e/compendium/equipment/runes/wounding|_wounding_]] rune until the end of their next turn. _Healing_ ([[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]]) The daemon regains 8d8+64 Hit Points."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]]) The obcisidaemon consumes a soul from their cloak to gain one of the following effects. A soul consumed in this way can't be resurrected except by a wish ritual or a similarly powerful effect. _Empower Spell_ The obcisidaemon gains a +2 status bonus to their spell DCs and spell attack modifiers until the end of their next turn. _Empower Weapon_ The obcisidaemon's weapon gains the effects of a [[srd/pf2e/compendium/equipment/runes/flaming|_greater flaming_]], [[srd/pf2e/compendium/equipment/runes/frost|_greater frost_]], [[srd/pf2e/compendium/equipment/runes/shock|_greater shock_]], or [[srd/pf2e/compendium/equipment/runes/wounding|_wounding_]] rune until the end of their next turn. _Healing_ ([[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]]) The daemon regains 8d8+64 Hit Points."
   - name: "Inherit Soul"
     desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|incapacitation]])"
   - name: "Trigger"

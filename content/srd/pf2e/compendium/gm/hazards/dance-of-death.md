@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
 tags:
 - compendium/src/pf2e/gm-core
@@ -7,7 +6,7 @@ tags:
 - trait/haunt
 - hazard/level/16
 aliases: ["Dance of Death"]
-aon_id: "hazard-488"
+aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=488"
 source: "GM Core"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -7,7 +6,7 @@ tags:
 - trait/apparition
 - feat/level/1
 aliases: ["Relinquish Control"]
-aon_id: "feat-7122"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7122"
 source: "War of Immortals"
 ---
 

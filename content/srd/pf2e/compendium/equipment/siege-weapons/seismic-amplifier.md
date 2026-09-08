@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -7,7 +6,7 @@ tags:
 - trait/rare
 - siege-weapon/level/15
 aliases: ["Seismic Amplifier"]
-aon_id: "siege-weapon-31"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=31"
 source: "Howl of the Wild"
 ---
 
@@ -15,7 +14,7 @@ source: "Howl of the Wild"
 
 `Mounted`  `Rare`
 
-- **Price**: 13,000 gp
+- **Price**: 13, 000 gp
 - **Ammunition**: resonance rods (25 gp, 5 Bulk)
 
 **Usage** mounted

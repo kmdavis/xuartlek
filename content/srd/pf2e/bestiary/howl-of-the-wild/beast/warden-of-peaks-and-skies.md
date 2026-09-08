@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Warden of Peaks and Skies"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Warden of Peaks and Skies"
 level: 22
 source: "Howl of the Wild"
-aon_id: "creature-3328"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3328"
 ---
 

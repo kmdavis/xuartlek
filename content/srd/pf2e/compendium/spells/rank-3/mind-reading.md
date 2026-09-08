@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/uncommon
 - spell/level/3
 aliases: ["Mind Reading"]
-aon_id: "spell-1602"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1602"
 source: "Player Core"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core"
 `Concentrate`  `Detection`  `Manipulate`  `Mental`  `Uncommon`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Enkaar, Eyes That Watch, Grasping Iovett, Husk, Razmir, Reshmit of the Heavy Voice
+- **Deities**: Enkaar, Eyes That Watch, Grasping Iovett, Husk, [[srd/pf2e/compendium/deities/other-gods/razmir|Razmir]], Reshmit of the Heavy Voice
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will

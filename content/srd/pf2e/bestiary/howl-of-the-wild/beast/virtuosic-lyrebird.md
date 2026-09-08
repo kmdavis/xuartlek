@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Virtuosic Lyrebird"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Virtuosic Lyrebird"
 level: 6
 source: "Howl of the Wild"
-aon_id: "creature-3322"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3322"
 ---
 

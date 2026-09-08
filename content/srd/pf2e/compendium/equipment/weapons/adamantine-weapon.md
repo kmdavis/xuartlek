@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
 - trait/uncommon
 - equipment/level/11
 aliases: ["Adamantine Weapon"]
-aon_id: "equipment-2855"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2855"
 source: "GM Core"
 ---
 
@@ -16,7 +15,7 @@ source: "GM Core"
 
 - **Usage**: varies by weapon
 - **Bulk**: varies by weapon
-- **Base Material**: [[srd/pf2e/compendium/equipment/materials/adamantine-object-high-grade|Adamantine]]
+- **Base Material**: [[srd/pf2e/compendium/equipment/materials/adamantine|Adamantine]]
 
 Adamantine weapons have a shiny black appearance and cut through lesser items with ease. They treat any object they hit as if it had half as much Hardness as usual, unless the object's Hardness is greater than that of the adamantine weapon.
 

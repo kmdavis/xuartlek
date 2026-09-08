@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
 - trait/mythic
 - feat/level/14
 aliases: ["Scattering Shout"]
-aon_id: "feat-7379"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7379"
 source: "War of Immortals"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -8,7 +7,7 @@ tags:
 - trait/rare
 - siege-weapon/level/11
 aliases: ["Seedpod Shooter"]
-aon_id: "siege-weapon-30"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=30"
 source: "Howl of the Wild"
 ---
 
@@ -16,7 +15,7 @@ source: "Howl of the Wild"
 
 `Magical`  `Mounted`  `Rare`
 
-- **Price**: 3,000 gp
+- **Price**: 3, 000 gp
 - **Ammunition**: enchanted seedpods (10 gp, 1 Bulk)
 
 **Usage** mounted

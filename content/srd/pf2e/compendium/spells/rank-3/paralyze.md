@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/mental
 - spell/level/3
 aliases: ["Paralyze"]
-aon_id: "spell-1622"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1622"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Concentrate`  `Incapacitation`  `Manipulate`  `Mental`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Barbatos, Chamiaholom, Dammerich, Kabriri, Kalekot, Selket
+- **Deities**: [[srd/pf2e/compendium/deities/archdevils/barbatos|Barbatos]], [[srd/pf2e/compendium/deities/sakhil-tormentors/chamiaholom|Chamiaholom]], Dammerich, [[srd/pf2e/compendium/deities/demon-lords/kabriri|Kabriri]], Kalekot, Selket
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will

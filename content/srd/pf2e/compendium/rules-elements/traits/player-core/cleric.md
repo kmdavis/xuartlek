@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/cleric
 aliases: ["Cleric"]
-aon_id: "trait-554"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=554"
 source: "Player Core"
 ---
 

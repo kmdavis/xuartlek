@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -8,7 +7,7 @@ tags:
 - trait/rare
 - equipment/level/23
 aliases: ["Shot of the First Vault"]
-aon_id: "equipment-3124"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3124"
 source: "GM Core"
 ---
 

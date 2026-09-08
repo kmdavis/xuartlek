@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Druid Initiate"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Druid Initiate"
 level: 1
 source: "NPC Core"
-aon_id: "creature-3580"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3580"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [2, 1, 2, 0, 4, 0]
 abilities_top:
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit-expanded|Healer's Toolkit]], Leather Armor, [[srd/pf2e/compendium/equipment/adventuring-gear/primal-symbol|Primal Symbol]], Sling (10 bullets), Staff"
+    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit|Healer's Toolkit]], Leather Armor, [[srd/pf2e/compendium/equipment/adventuring-gear/primal-symbol|Primal Symbol]], Sling (10 bullets), Staff"
 ac: 15
 armorclass:
   - name: "AC"

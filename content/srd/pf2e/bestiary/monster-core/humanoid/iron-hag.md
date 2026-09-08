@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Iron Hag"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Iron Hag"
 level: 6
 source: "Monster Core"
-aon_id: "creature-3042"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3042"
 ---
 
@@ -57,7 +55,7 @@ abilities_bot:
   - name: "Frequency"
     desc: "once per day"
   - name: "Effect"
-    desc: "The hag causes a cage built of cold iron fingernails to spring out of nothingness around one creature within 30 feet, attempting an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grapple]] against the target's Fortitude DC; if the target has a weakness to [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]], the iron hag gains a +2 circumstance bonus to this check. On a success, the creature is [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] by the magical fingernails (or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] on a critical success). If the creature successfully [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]] (DC 24), the cage crumbles into rust. Any creature can attempt to destroy the cage by attacking it. It has an AC of 19, Hardness 10, and 40 Hit Points."
+    desc: "The hag causes a cage built of cold iron fingernails to spring out of nothingness around one creature within 30 feet, attempting an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grapple]] against the target's Fortitude DC; if the target has a weakness to [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]], the iron hag gains a +2 circumstance bonus to this check. On a success, the creature is [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] by the magical fingernails (or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] on a critical success). If the creature successfully [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]] (DC 24), the cage crumbles into rust. Any creature can attempt to destroy the cage by attacking it. It has an AC of 19, Hardness 10, and 40 Hit Points."
   - name: "Change Shape"
     desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]], [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|Polymorph]]) The iron hag can take on the appearance of any Medium female [[srd/pf2e/compendium/rules-elements/traits/player-core/humanoid|humanoid]]. This doesn't change their Speed or their attack and damage bonuses with their Strikes but might change the damage type their Strikes deal (typically to bludgeoning)."
   - name: "Embrace of Iron"

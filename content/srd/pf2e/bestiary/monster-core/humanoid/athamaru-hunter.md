@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Athamaru Hunter"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Athamaru Hunter"
 level: 3
 source: "Monster Core"
-aon_id: "creature-2837"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2837"
 ---
 

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/noisy
 aliases: ["Noisy"]
-aon_id: "trait-660"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=660"
 source: "Player Core"
 ---
 

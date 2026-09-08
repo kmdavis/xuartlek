@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/automaton
 - feat/level/17
 aliases: ["System Override"]
-aon_id: "feat-9407"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9407"
 source: "Impossible Magic"
 ---
 

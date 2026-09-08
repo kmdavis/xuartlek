@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -9,7 +8,7 @@ tags:
 - trait/manipulate
 - spell/level/1
 aliases: ["Scatter Scree"]
-aon_id: "spell-2021"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2021"
 source: "Player Core 2"
 ---
 

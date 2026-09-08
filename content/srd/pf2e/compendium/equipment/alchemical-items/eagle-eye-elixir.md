@@ -1,18 +1,17 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
-- compendium/src/pf2e/gm-core
+- compendium/src/pf2e/player-core-2
 - trait/alchemical
 - trait/consumable
 - trait/elixir
-- equipment/level/0
+- equipment/level/1
 aliases: ["Eagle-Eye Elixir"]
-aon_id: "equipment-2886"
-source: "GM Core"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3306"
+source: "Player Core 2"
 ---
 
-# Eagle-Eye Elixir  *Item 0*
+# Eagle-Eye Elixir  *Item 1+*
 
 `Alchemical`  `Consumable`  `Elixir`
 
@@ -20,6 +19,46 @@ source: "GM Core"
 - **Bulk**: L
 - **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-After you drink this elixir, you notice subtle visual details. For the next hour, you gain an item bonus to Perception checks that is greater when attempting to find secret doors and traps.
+After you drink this elixir, you notice subtle visual details. For the next hour, you gain an item bonus to Perception checks that's greater when attempting to find secret doors and traps.
 
-*Source: GM Core p. 247*
+### Eagle-Eye Elixir (Lesser)
+
+**Price** 4 gp
+
+**Bulk** L
+
+---
+
+The bonus is +1, or +2 to find secret doors and traps.
+
+### Eagle-Eye Elixir (Moderate)
+
+**Price** 27 gp
+
+**Bulk** L
+
+---
+
+The bonus is +2, or +3 to find secret doors and traps.
+
+### Eagle-Eye Elixir (Greater)
+
+**Price** 200 gp
+
+**Bulk** L
+
+---
+
+The bonus is +3, or +4 to find secret doors and traps.
+
+### Eagle-Eye Elixir (Major)
+
+**Price** 2,000 gp
+
+**Bulk** L
+
+---
+
+The bonus is +3, or +4 to find secret doors and traps. Each time you pass within 10 feet of a secret door or trap, the GM automatically rolls a secret check for you to find it.
+
+*Source: Player Core 2 p. 287*

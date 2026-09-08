@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -11,7 +10,7 @@ tags:
 - trait/spirit
 - spell/level/1
 aliases: ["Divine Lance"]
-aon_id: "spell-1498"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1498"
 source: "Player Core"
 ---
 

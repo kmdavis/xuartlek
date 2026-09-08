@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - equipment/level/3
 aliases: ["Deadlock Mint"]
-aon_id: "equipment-2021"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2021"
 source: "Treasure Vault (Remastered)"
 ---
 

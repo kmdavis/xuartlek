@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -11,7 +10,7 @@ tags:
 - trait/uncommon
 - spell/level/6
 aliases: ["Claim Undead"]
-aon_id: "spell-2074"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2074"
 source: "Player Core 2"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core 2"
 
 `Concentrate`  `Focus`  `Incapacitation`  `Manipulate`  `Oracle`  `Uncommon`
 
-- **Mystery**: Bones
+- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Bones|Bones]]
 - **Range**: 30 feet
 - **Target**: 1 undead creature
 - **Defense**: Will

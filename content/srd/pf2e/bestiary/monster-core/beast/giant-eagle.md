@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Giant Eagle"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Giant Eagle"
 level: 3
 source: "Monster Core"
-aon_id: "creature-2969"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2969"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/player-core-2
@@ -9,7 +8,7 @@ tags:
 - trait/healing
 - equipment/level/2
 aliases: ["Surging Serum"]
-aon_id: "equipment-3313"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3313"
 source: "Player Core 2"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Viking Guard"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Viking Guard"
 level: 11
 source: "Battlecry!"
-aon_id: "creature-3940"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3940"
 ---
 

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/olfactory
 aliases: ["Olfactory"]
-aon_id: "trait-664"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=664"
 source: "Player Core"
 ---
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
 - trait/guardian
 - feat/level/1
 aliases: ["Punishing Shove"]
-aon_id: "feat-7834"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7834"
 source: "Battlecry!"
 ---
 

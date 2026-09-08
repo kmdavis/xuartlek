@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/finesse
 - weapon/level/0
 aliases: ["Forked Bipod"]
-aon_id: "weapon-184"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=184"
 source: "Guns & Gears (Remastered)"
 ---
 

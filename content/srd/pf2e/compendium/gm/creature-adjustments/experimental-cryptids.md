@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-adjustment
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 aliases: ["Experimental Cryptids"]
-aon_id: "creature-adjustment-56"
+aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=56"
 source: "Dark Archives (Remastered)"
 ---
 

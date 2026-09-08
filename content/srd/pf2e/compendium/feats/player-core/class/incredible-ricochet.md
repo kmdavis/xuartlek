@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/press
 - feat/level/12
 aliases: ["Incredible Ricochet"]
-aon_id: "feat-4837"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4837"
 source: "Player Core"
 ---
 

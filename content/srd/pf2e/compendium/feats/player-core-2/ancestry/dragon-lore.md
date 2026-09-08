@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/dragonblood
 - feat/level/1
 aliases: ["Dragon Lore"]
-aon_id: "feat-5734"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5734"
 source: "Player Core 2"
 ---
 

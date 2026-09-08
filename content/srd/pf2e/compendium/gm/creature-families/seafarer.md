@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/npc-core
 aliases: ["Seafarer"]
-aon_id: "creature-family-549"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=549"
 source: "NPC Core"
 ---
 
@@ -26,7 +25,7 @@ Several of the NPCs elsewhere in NPC Core can fit well in this group: [[srd/pf2e
 
 ### Religion
 
-Faith for those who sail the waves is frequently a matter of appeasement rather than piety. Sailors will commonly pray to Gozreh and Hei Feng for favorable weather; to Besmara in the hopes of avoiding pirates and sea monsters; and to Desna and Sarenrae for aid in navigation. Navies with strong national religions turn a blind eye to this behavior. Rahadoumi vessels are an exception and prohibit such worship. Foreigners among their crews must be secretive in their devotions.
+Faith for those who sail the waves is frequently a matter of appeasement rather than piety. Sailors will commonly pray to [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/gozreh|Gozreh]] and [[srd/pf2e/compendium/deities/tian-gods/hei-feng|Hei Feng]] for favorable weather; to [[srd/pf2e/compendium/deities/other-gods/besmara|Besmara]] in the hopes of avoiding pirates and sea monsters; and to [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/desna|Desna]] and [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/sarenrae|Sarenrae]] for aid in navigation. Navies with strong national religions turn a blind eye to this behavior. Rahadoumi vessels are an exception and prohibit such worship. Foreigners among their crews must be secretive in their devotions.
 
 ### Sea Maps
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - equipment/level/13
 aliases: ["Energizing Lattice"]
-aon_id: "equipment-1846"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1846"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -16,7 +15,7 @@ source: "Treasure Vault (Remastered)"
 
 `Invested`  `Light`  `Magical`
 
-- **Price**: 3,000 gp
+- **Price**: 3, 000 gp
 - **Usage**: worn armor
 - **Bulk**: 2
 - **Base Armor**: [[srd/pf2e/compendium/equipment/armor#Lattice Armor|Lattice Armor]]

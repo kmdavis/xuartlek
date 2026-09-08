@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
 - trait/uncommon
 - equipment/level/8
 aliases: ["Dawnsilver Shield"]
-aon_id: "equipment-2814"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2814"
 source: "GM Core"
 ---
 
@@ -15,7 +14,7 @@ source: "GM Core"
 `Uncommon`
 
 - **Usage**: varies by shield
-- **Base Material**: [[srd/pf2e/compendium/equipment/materials/dawnsilver-object-high-grade|Dawnsilver]]
+- **Base Material**: [[srd/pf2e/compendium/equipment/materials/dawnsilver|Dawnsilver]]
 
 Dawnsilver shields are 1 Bulk lighter than normal (or light Bulk if their normal Bulk is 1, with no effect on a shield that normally has light Bulk). When used for a shield bash, they're treated as silver weapons.
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Stegosaurus"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Stegosaurus"
 level: 7
 source: "Monster Core"
-aon_id: "creature-2920"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2920"
 ---
 

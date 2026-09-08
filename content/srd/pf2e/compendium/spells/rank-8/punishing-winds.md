@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/8
 aliases: ["Punishing Winds"]
-aon_id: "spell-1643"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1643"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Air`  `Concentrate`  `Manipulate`
 
 - **Tradition**: Primal
-- **Deities**: Breath of the Endless Sky, Umarik
+- **Deities**: [[srd/pf2e/compendium/deities/covenants/breath-of-the-endless-sky|Breath of the Endless Sky]], Umarik
 - **Range**: 100 feet
 - **Area**: 30-foot radius, 100-foot-tall cylinder
 - **Duration**: sustained up to 1 minute

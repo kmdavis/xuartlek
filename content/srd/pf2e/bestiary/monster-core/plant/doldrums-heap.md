@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Doldrums Heap"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Doldrums Heap"
 level: 9
 source: "Monster Core"
-aon_id: "creature-3172"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3172"
 ---
 

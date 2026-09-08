@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/2
 aliases: ["Embed Message"]
-aon_id: "spell-1511"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1511"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Illusion`  `Manipulate`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Ceyannan, Eritrice, Nethys, Teki Stronggut
+- **Deities**: [[srd/pf2e/compendium/deities/monitor-demigods/ceyannan|Ceyannan]], [[srd/pf2e/compendium/deities/empyreal-lords/eritrice|Eritrice]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/nethys|Nethys]], [[srd/pf2e/compendium/deities/goblin-gods/teki-stronggut|Teki Stronggut]]
 - **Range**: touch
 - **Target**: 1 object or willing creature
 - **Duration**: unlimited

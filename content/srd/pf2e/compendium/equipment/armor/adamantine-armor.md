@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
 - trait/uncommon
 - equipment/level/12
 aliases: ["Adamantine Armor"]
-aon_id: "equipment-2797"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2797"
 source: "GM Core"
 ---
 
@@ -16,7 +15,7 @@ source: "GM Core"
 
 - **Usage**: worn armor
 - **Bulk**: varies by armor
-- **Base Material**: [[srd/pf2e/compendium/equipment/materials/adamantine-object-high-grade|Adamantine]]
+- **Base Material**: [[srd/pf2e/compendium/equipment/materials/adamantine|Adamantine]]
 
 Adamantine armor has a shiny, black appearance and is amazingly durable.
 

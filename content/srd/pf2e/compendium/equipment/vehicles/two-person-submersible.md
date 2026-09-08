@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/battlecry
 - trait/uncommon
 - vehicle/level/2
 aliases: ["Two-Person Submersible"]
-aon_id: "vehicle-116"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=116"
 source: "Battlecry!"
 ---
 

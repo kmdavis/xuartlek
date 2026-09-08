@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
 - trait/thrown
 - weapon/level/0
 aliases: ["Trident"]
-aon_id: "weapon-401"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=401"
 source: "Player Core"
 ---
 
@@ -14,7 +13,7 @@ source: "Player Core"
 
 `Thrown`
 
-- **Favored Weapon**: Aegirran, Dagon, Furcas, Gozreh, Hanspur, Kelizandri, Mephistopheles, Oaur-Ooung, Obari, Raumya, Ristrentho, Surveyors of the Deep, The Pale Horse, Umarik, Waves of the Boundless Sea
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/giant-gods/aegirran|Aegirran]], [[srd/pf2e/compendium/deities/demon-lords/dagon|Dagon]], [[srd/pf2e/compendium/deities/infernal-dukes/furcas|Furcas]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/gozreh|Gozreh]], [[srd/pf2e/compendium/deities/other-gods/hanspur|Hanspur]], [[srd/pf2e/compendium/deities/elemental-lords/kelizandri|Kelizandri]], [[srd/pf2e/compendium/deities/archdevils/mephistopheles|Mephistopheles]], [[srd/pf2e/compendium/deities/qlippoth-lords/oaur-ooung|Oaur-Ooung]], [[srd/pf2e/compendium/deities/other-gods/obari|Obari]], [[srd/pf2e/compendium/deities/vudrani-gods/raumya|Raumya]], [[srd/pf2e/compendium/deities/sarkorian-gods/ristrentho|Ristrentho]], Surveyors of the Deep, [[srd/pf2e/compendium/deities/monitor-demigods/the-pale-horse|The Pale Horse]], Umarik, [[srd/pf2e/compendium/deities/covenants/waves-of-the-boundless-sea|Waves of the Boundless Sea]]
 - **Price**: 1 gp
 - **Damage**: 1d8 P
 - **Bulk**: 1

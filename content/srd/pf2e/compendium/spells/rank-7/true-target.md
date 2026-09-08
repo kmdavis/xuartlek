@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/prediction
 - spell/level/7
 aliases: ["True Target"]
-aon_id: "spell-1726"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1726"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Fortune`  `Prediction`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Bifrons, Chinostes (Nightwarden), Chinostes (Redeemer), Cihua Coatl, Demon Bringers, Fortune's Fate, Kaldemash, Reymenda, Rokoga Gin, Skrymir
+- **Deities**: [[srd/pf2e/compendium/deities/infernal-dukes/bifrons|Bifrons]], Chinostes (Nightwarden), Chinostes (Redeemer), [[srd/pf2e/compendium/deities/coatl-tribunal/cihua-coatl|Cihua Coatl]], Demon Bringers, [[srd/pf2e/compendium/deities/pantheons/fortunes-fate|Fortune's Fate]], [[srd/pf2e/compendium/deities/other-gods/kaldemash|Kaldemash]], [[srd/pf2e/compendium/deities/empyreal-lords/reymenda|Reymenda]], Rokoga Gin, [[srd/pf2e/compendium/deities/giant-gods/skrymir|Skrymir]]
 - **Range**: 60 feet
 - **Target**: 4 creatures
 - **Duration**: until the start of your next turn

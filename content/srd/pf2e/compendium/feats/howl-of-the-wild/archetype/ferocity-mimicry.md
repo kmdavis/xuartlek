@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 - trait/archetype
 - feat/level/4
 aliases: ["Ferocity Mimicry"]
-aon_id: "feat-5516"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5516"
 source: "Howl of the Wild"
 ---
 

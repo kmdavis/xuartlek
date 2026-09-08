@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - ritual/level/8
 aliases: ["Freedom"]
-aon_id: "ritual-193"
+aon_url: "https://2e.aonprd.com/MythicRituals.aspx?ID=193"
 source: "War of Immortals"
 ---
 

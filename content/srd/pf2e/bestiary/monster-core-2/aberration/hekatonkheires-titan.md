@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Hekatonkheires Titan"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Hekatonkheires Titan"
 level: 24
 source: "Monster Core 2"
-aon_id: "creature-4584"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4584"
 ---
 
@@ -75,7 +73,7 @@ abilities_bot:
   - name: "Effect"
     desc: "The titan thrusts the creature into a nightmare realm full of lightless hands and eyes. This has the effects of [[srd/pf2e/compendium/spells/rank-8/quandary|_quandary_]] (DC 48). The titan can't use Send Beyond for 1d4 rounds."
   - name: "Shape Emptiness"
-    desc: "⭓ The titan molds a weapon from interstellar darkness. This empty weapon is a _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+3 major striking]] weapon_ in any form. The titan can't be disarmed of this weapon and it deals an additional 2d12 force damage. If Released, an empty weapon vanishes. Hekatonkheires Anatomy Artisans with exceptional skill can harvest a hekatonkheires's black bones before they dissolve upon the titan's death. These bones can be forged into shapeshifting weapons or refined into planar keys that allow travel to esoteric planes."
+    desc: "⭓ The titan molds a weapon from interstellar darkness. This empty weapon is a _[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+3 major striking]] weapon_ in any form. The titan can't be disarmed of this weapon and it deals an additional 2d12 force damage. If Released, an empty weapon vanishes. Hekatonkheires Anatomy Artisans with exceptional skill can harvest a hekatonkheires's black bones before they dissolve upon the titan's death. These bones can be forged into shapeshifting weapons or refined into planar keys that allow travel to esoteric planes."
 spellcasting:
   - name: "Occult Innate Spells"
     desc: "DC 48 - __9th__ [[srd/pf2e/compendium/spells/rank-7/interplanar-teleport|Interplanar Teleport]], [[srd/pf2e/compendium/spells/rank-9/phantasmagoria|Phantasmagoria]], [[srd/pf2e/compendium/spells/rank-9/seize-soul|Seize Soul]], [[srd/pf2e/compendium/spells/rank-4/translocate|Translocate]] - __Constant (10th)__ [[srd/pf2e/compendium/spells/rank-6/truesight|Truesight]], [[srd/pf2e/compendium/spells/rank-4/unfettered-movement|Unfettered Movement]]"

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/wizard
 - feat/level/18
 aliases: ["Infinite Possibilities"]
-aon_id: "feat-5050"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5050"
 source: "Player Core"
 ---
 

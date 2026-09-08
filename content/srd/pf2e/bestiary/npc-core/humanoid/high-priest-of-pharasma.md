@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "High Priest of Pharasma"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "High Priest of Pharasma"
 level: 9
 source: "NPC Core"
-aon_id: "creature-3447"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3447"
 ---
 
@@ -38,7 +36,7 @@ abilities_top:
   - name: "Religious Specialist"
     desc: "For encounters involving religious debates, church politics, and conflicts of doctrine, the high priest is a 13th-level challenge."
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]]_, Hand Crossbow (20 bolts), [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit-expanded|Healer's Toolkit]], [[srd/pf2e/compendium/equipment/consumables/holy-water|_holy water_]] (4), [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol-silver|religious symbol]] of Pharasma, [[srd/pf2e/compendium/equipment/adventuring-gear/religious-text|religious text]] of Pharasma, [[srd/pf2e/compendium/spells/rank-2/cleanse-affliction|_scroll of cleanse affliction_]] (4th rank)"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]]_, Hand Crossbow (20 bolts), [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit|Healer's Toolkit]], [[srd/pf2e/compendium/equipment/consumables/holy-water|_holy water_]] (4), [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol|religious symbol]] of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma]], [[srd/pf2e/compendium/equipment/adventuring-gear/religious-text|religious text]] of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma]], [[srd/pf2e/compendium/spells/rank-2/cleanse-affliction|_scroll of cleanse affliction_]] (4th rank)"
 ac: 26
 armorclass:
   - name: "AC"
@@ -49,7 +47,7 @@ health:
     desc: "150; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]] 5"
 abilities_mid:
   - name: "Steward of the Faithful"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]]) 30 feet. Each ally in the aura who worships Pharasma gains resistance 5 to void and a +1 status bonus to Will saves, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] checks, and [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] checks."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]]) 30 feet. Each ally in the aura who worships [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma]] gains resistance 5 to void and a +1 status bonus to Will saves, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] checks, and [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] checks."
   - name: "Unshakable Faith"
     desc: "During a religious debate, clash of church politics, or similar conflict, the high priest gains a +4 circumstance bonus to Perception check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Motive|Sense Motive]] and to their Perception DC against attempt to lie to them."
 speed: "25 feet"

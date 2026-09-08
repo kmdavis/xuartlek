@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/incapacitation
 - equipment/level/6
 aliases: ["Gearbinder Oil"]
-aon_id: "equipment-1940"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1940"
 source: "Treasure Vault (Remastered)"
 ---
 

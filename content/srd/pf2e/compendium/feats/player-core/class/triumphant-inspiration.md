@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/bard
 - feat/level/14
 aliases: ["Triumphant Inspiration"]
-aon_id: "feat-4625"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4625"
 source: "Player Core"
 ---
 

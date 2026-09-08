@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/3
 aliases: ["Blindness"]
-aon_id: "spell-1453"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1453"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Incapacitation`  `Manipulate`
 
 - **Traditions**: Arcane, Divine, Occult, Primal
-- **Bloodline**: Hag
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Hag|Hag]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Fortitude

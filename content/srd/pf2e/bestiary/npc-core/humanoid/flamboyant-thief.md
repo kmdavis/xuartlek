@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Flamboyant Thief"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Flamboyant Thief"
 level: 15
 source: "NPC Core"
-aon_id: "creature-3436"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3436"
 ---
 
@@ -42,7 +40,7 @@ abilities_top:
   - name: "Vanishing Act"
     desc: "The flamboyant thief can [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]] and [[srd/pf2e/compendium/rules-elements/actions/player-core#Sneak|Sneak]] even without having cover or being [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]]."
   - name: "Items"
-    desc: "_+2 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/runes/returning|returning]] [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]]_, elite disguise kit, fine clothes, _+1 [[srd/pf2e/compendium/equipment/runes/resilient-major|resilient]] [[srd/pf2e/compendium/equipment/armor#Leather Armor|leather armor]]_, _[[srd/pf2e/compendium/equipment/consumables/potion-of-flying-greater|potion of flying]]_, [[srd/pf2e/compendium/equipment/alchemical-items/smoke-ball-greater|greater smoke ball]], infiltrator thieves' toolkit"
+    desc: "_+2 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/runes/returning|returning]] [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]]_, elite disguise kit, fine clothes, _+1 [[srd/pf2e/compendium/equipment/runes/resilient|resilient]] [[srd/pf2e/compendium/equipment/armor#Leather Armor|leather armor]]_, _[[srd/pf2e/compendium/equipment/consumables/potion-of-flying|potion of flying]]_, [[srd/pf2e/compendium/equipment/alchemical-items/smoke-ball|greater smoke ball]], infiltrator thieves' toolkit"
 ac: 37
 armorclass:
   - name: "AC"

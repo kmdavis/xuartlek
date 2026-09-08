@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -12,7 +11,7 @@ tags:
 - trait/uncommon
 - spell/level/8
 aliases: ["Temporary Possession"]
-aon_id: "spell-2910"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2910"
 source: "Impossible Magic"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -11,7 +10,7 @@ tags:
 - trait/water
 - feat/level/8
 aliases: ["Impenetrable Fog"]
-aon_id: "feat-4275"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4275"
 source: "Rage of Elements"
 ---
 

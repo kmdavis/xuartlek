@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -8,7 +7,7 @@ tags:
 - trait/olfactory
 - equipment/level/5
 aliases: ["Pheromone Flare"]
-aon_id: "equipment-3230"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3230"
 source: "Howl of the Wild"
 ---
 
@@ -20,7 +19,7 @@ source: "Howl of the Wild"
 - **Bulk**: 1
 - **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-This alchemical candle is attached to a tall pole and grounding stake. When the flare is lit, it sprays a concentrated cloud of pheromones to attract the attention of a specific kind of animal (see [[srd/pf2e/compendium/equipment/alchemical-items/animal-pheromones-greater|alchemical pheromones]]). Similar to animal pheromones, when you learn the formula for a pheromone flare, you learn the formulas for all common animals.
+This alchemical candle is attached to a tall pole and grounding stake. When the flare is lit, it sprays a concentrated cloud of pheromones to attract the attention of a specific kind of animal (see [[srd/pf2e/compendium/equipment/alchemical-items/animal-pheromones|alchemical pheromones]]). Similar to animal pheromones, when you learn the formula for a pheromone flare, you learn the formulas for all common animals.
 
 A pheromone flare has a built-in delayed activation timer of up to 1 hour. When it's activated, the flare releases a cloud of pheromones in a 60-foot emanation that lasts for 1 hour. A strong wind reduces the emanation to 15 feet for as long as the wind lasts. Moving the flare after it has been activated ends the effect. A designated animal that enters the area must attempt a Will save with the following effects. Animals with an Intelligence modifier of –3 or higher increase the result of their save by one step.
 

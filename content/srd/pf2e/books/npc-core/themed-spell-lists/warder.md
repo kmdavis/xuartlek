@@ -7,7 +7,6 @@ cssclasses:
 tags:
   - srd/pf2e/npc-core
 source: "NPC Core"
-aon_id: 3394
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3394"
 citation: "NPC Core pg. 221"
 ---

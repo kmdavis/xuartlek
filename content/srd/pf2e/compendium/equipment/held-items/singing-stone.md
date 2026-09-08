@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - equipment/level/13
 aliases: ["Singing Stone"]
-aon_id: "equipment-2596"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2596"
 source: "Rage of Elements"
 ---
 
@@ -16,7 +15,7 @@ source: "Rage of Elements"
 
 `Earth`  `Magical`  `Uncommon`
 
-- **Price**: 3,000 gp
+- **Price**: 3, 000 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
 

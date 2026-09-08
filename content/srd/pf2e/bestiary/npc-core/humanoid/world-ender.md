@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "World Ender"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "World Ender"
 level: 16
 source: "NPC Core"
-aon_id: "creature-3622"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3622"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [4, 3, 7, 7, 3, 2]
 abilities_top:
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/staves/staff-of-fire-major|major staff of fire]]_"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/staves/staff-of-fire|major staff of fire]]_"
 ac: 36
 armorclass:
   - name: "AC"

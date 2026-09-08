@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - equipment/level/17
 aliases: ["Impenetrable Scale"]
-aon_id: "equipment-2806"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2806"
 source: "GM Core"
 ---
 
@@ -16,7 +15,7 @@ source: "GM Core"
 
 `Invested`  `Magical`  `Uncommon`
 
-- **Price**: 12,800 gp
+- **Price**: 12, 800 gp
 - **Usage**: worn armor
 - **Bulk**: 3
 - **Base Armor**: [[srd/pf2e/compendium/equipment/armor#Scale Mail|Scale Mail]]

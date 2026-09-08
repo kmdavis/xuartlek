@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Phantom Beast"
 tags:
@@ -14,7 +13,6 @@ statblock: inline
 name: "Phantom Beast"
 level: 8
 source: "Monster Core"
-aon_id: "creature-3136"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3136"
 ---
 

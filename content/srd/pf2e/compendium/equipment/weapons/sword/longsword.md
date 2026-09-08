@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
 - trait/versatile
 - weapon/level/0
 aliases: ["Longsword"]
-aon_id: "weapon-386"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=386"
 source: "Player Core"
 ---
 
@@ -14,7 +13,7 @@ source: "Player Core"
 
 `Versatile`
 
-- **Favored Weapon**: Abrogail, Aroden, Falayna, Good Neighbors, Iomedae, Lymnieris, Myr, Nameless, Pazuzu, Sithhud, Teki Stronggut, Titivilus, Vineshvakhi, Ymeri
+- **Favored Weapon**: Abrogail, [[srd/pf2e/compendium/deities/dead-or-missing-deities/aroden|Aroden]], Falayna, [[srd/pf2e/compendium/deities/covenants/good-neighbors|Good Neighbors]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/iomedae|Iomedae]], Lymnieris, [[srd/pf2e/compendium/deities/azlanti-pantheon/myr|Myr]], [[srd/pf2e/compendium/deities/sakhil-tormentors/nameless|Nameless]], [[srd/pf2e/compendium/deities/demon-lords/pazuzu|Pazuzu]], [[srd/pf2e/compendium/deities/demon-lords/sithhud|Sithhud]], [[srd/pf2e/compendium/deities/goblin-gods/teki-stronggut|Teki Stronggut]], [[srd/pf2e/compendium/deities/infernal-dukes/titivilus|Titivilus]], [[srd/pf2e/compendium/deities/vudrani-gods/vineshvakhi|Vineshvakhi]], [[srd/pf2e/compendium/deities/elemental-lords/ymeri|Ymeri]]
 - **Price**: 1 gp
 - **Damage**: 1d8 S
 - **Bulk**: 1
@@ -31,6 +30,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/chalice-of-justice|Chalice of Justice]], Fearcutter, Four-Tiger Blade, Jian of Life's Duality, [[srd/pf2e/compendium/equipment/weapons/last-hope|Last Hope]], [[srd/pf2e/compendium/equipment/weapons/righteous-fury|Righteous Fury]], [[srd/pf2e/compendium/equipment/weapons/searing-blade-greater|Searing Blade]], [[srd/pf2e/compendium/equipment/intelligent-items/singing-sword|Singing Sword]], [[srd/pf2e/compendium/equipment/weapons/smoking-sword|Smoking Sword]]
+[[srd/pf2e/compendium/equipment/weapons/chalice-of-justice|Chalice of Justice]], Fearcutter, Four-Tiger Blade, Jian of Life's Duality, [[srd/pf2e/compendium/equipment/weapons/last-hope|Last Hope]], [[srd/pf2e/compendium/equipment/weapons/righteous-fury|Righteous Fury]], [[srd/pf2e/compendium/equipment/weapons/searing-blade|Searing Blade]], [[srd/pf2e/compendium/equipment/intelligent-items/singing-sword|Singing Sword]], [[srd/pf2e/compendium/equipment/weapons/smoking-sword|Smoking Sword]]
 
 *Source: Player Core p. 278*

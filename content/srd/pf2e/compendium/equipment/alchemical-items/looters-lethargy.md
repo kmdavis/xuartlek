@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -10,7 +9,7 @@ tags:
 - trait/uncommon
 - equipment/level/2
 aliases: ["Looter's Lethargy"]
-aon_id: "equipment-2007"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2007"
 source: "Treasure Vault (Remastered)"
 ---
 

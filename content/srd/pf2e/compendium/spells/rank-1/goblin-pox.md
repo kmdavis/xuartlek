@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/1
 aliases: ["Goblin Pox"]
-aon_id: "spell-1545"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1545"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Disease`  `Manipulate`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Apollyon, Ghlaunder, Isph-Aun-Vuln, Kzininn, Urgathoa, Xsistaid
+- **Deities**: [[srd/pf2e/compendium/deities/apocalypse-riders/apollyon|Apollyon]], [[srd/pf2e/compendium/deities/other-gods/ghlaunder|Ghlaunder]], [[srd/pf2e/compendium/deities/qlippoth-lords/isph-aun-vuln|Isph-Aun-Vuln]], Kzininn, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/urgathoa|Urgathoa]], [[srd/pf2e/compendium/deities/daemon-harbingers/xsistaid|Xsistaid]]
 - **Range**: touch
 - **Target**: 1 creature
 - **Defense**: Fortitude

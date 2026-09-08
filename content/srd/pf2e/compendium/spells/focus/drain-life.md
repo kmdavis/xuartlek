@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -11,7 +10,7 @@ tags:
 - trait/negative
 - spell/level/3
 aliases: ["Drain Life"]
-aon_id: "spell-2118"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2118"
 source: "Player Core 2"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core 2"
 
 `Focus`  `Manipulate`  `Sorcerer`  `Uncommon`  `Void`  `Negative`
 
-- **Bloodline**: Undead
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Undead|Undead]]
 - **Range**: 30 feet
 - **Target**: 1 living creature
 - **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Fortitude

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Warmonger"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Warmonger"
 level: 10
 source: "NPC Core"
-aon_id: "creature-3620"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3620"
 ---
 
@@ -38,7 +36,7 @@ abilities_top:
   - name: "War Ready"
     desc: "The warmonger can always roll [[srd/pf2e/compendium/rules-elements/skills/lore|Warfare Lore]] for initiative."
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/axe/battle-axe|battle axe]]_ (2), _+1 [[srd/pf2e/compendium/equipment/weapons/bow/composite-longbow|composite longbow]]_ (10 arrows), _+1 [[srd/pf2e/compendium/equipment/armor#Hide Armor|hide armor]]_"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/axe/battle-axe|battle axe]]_ (2), _+1 [[srd/pf2e/compendium/equipment/weapons/bow/composite-longbow|composite longbow]]_ (10 arrows), _+1 [[srd/pf2e/compendium/equipment/armor#Hide Armor|hide armor]]_"
 ac: 29
 armorclass:
   - name: "AC"

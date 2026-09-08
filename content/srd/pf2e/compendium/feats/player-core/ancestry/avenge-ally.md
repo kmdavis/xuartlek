@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/fortune
 - feat/level/13
 aliases: ["Avenge Ally"]
-aon_id: "feat-4419"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4419"
 source: "Player Core"
 ---
 

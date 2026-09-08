@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/magical
 - equipment/level/13
 aliases: ["Scope of Truth"]
-aon_id: "equipment-1216"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1216"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -15,7 +14,7 @@ source: "Guns & Gears (Remastered)"
 `Magical`
 
 - **PFS Note**: Characters with access to firearms gain access to accessories that can be used with those weapons. Replace the word "transmutation" in the scope of truth with the word "polymorph."
-- **Price**: 3,000 gp
+- **Price**: 3, 000 gp
 - **Usage**: attached to firearm or crossbow (scope)
 - **Bulk**: L
 

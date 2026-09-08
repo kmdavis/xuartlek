@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/magical
 - equipment/level/7
 aliases: ["Lightning Rod Shot"]
-aon_id: "equipment-2053"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2053"
 source: "Treasure Vault (Remastered)"
 ---
 

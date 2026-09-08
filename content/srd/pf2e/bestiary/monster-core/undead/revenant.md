@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Revenant"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Revenant"
 level: 6
 source: "Monster Core"
-aon_id: "creature-3167"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3167"
 ---
 

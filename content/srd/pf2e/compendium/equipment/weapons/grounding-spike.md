@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - equipment/level/10
 aliases: ["Grounding Spike"]
-aon_id: "equipment-1874"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1874"
 source: "Treasure Vault (Remastered)"
 ---
 

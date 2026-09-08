@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/oil
 - equipment/level/3
 aliases: ["Serpent Oil"]
-aon_id: "equipment-2076"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2076"
 source: "Treasure Vault (Remastered)"
 ---
 

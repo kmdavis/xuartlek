@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
 - trait/mythic
 - feat/level/14
 aliases: ["Manipulate Realm"]
-aon_id: "feat-7323"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7323"
 source: "War of Immortals"
 ---
 

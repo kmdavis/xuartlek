@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/monster-core
 - trait/centaur
 aliases: ["Centaur"]
-aon_id: "trait-747"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=747"
 source: "Monster Core"
 ---
 

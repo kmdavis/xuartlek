@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/necromancer
 - feat/level/1
 aliases: ["Widespread Fascination"]
-aon_id: "feat-9097"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9097"
 source: "Impossible Magic"
 ---
 

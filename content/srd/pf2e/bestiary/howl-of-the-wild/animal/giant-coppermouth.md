@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Giant Coppermouth"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Giant Coppermouth"
 level: 7
 source: "Howl of the Wild"
-aon_id: "creature-3283"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3283"
 ---
 

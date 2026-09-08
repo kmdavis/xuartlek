@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Mummy Pharaoh"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Mummy Pharaoh"
 level: 9
 source: "Monster Core"
-aon_id: "creature-3102"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3102"
 ---
 
@@ -42,7 +40,7 @@ abilities_top:
   - name: "Rejuvenation"
     desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]]) When a mummy pharaoh is destroyed, necromantic energies rebuild its body in its tomb over 1d10 days. If the body is destroyed during that time, the process starts anew. A reforming mummy pharaoh is destroyed permanently if their tomb is [[srd/pf2e/compendium/spells/rituals/consecrate|_consecrated_]]."
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/spear/longspear|longspear]]_"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/spear/longspear|longspear]]_"
 ac: 27
 armorclass:
   - name: "AC"

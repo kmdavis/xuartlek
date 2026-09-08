@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/rage-of-elements
 - equipment/level/1
 aliases: ["Floating Tent"]
-aon_id: "equipment-2580"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2580"
 source: "Rage of Elements"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Megalodon"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Megalodon"
 level: 9
 source: "Monster Core"
-aon_id: "creature-3189"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3189"
 ---
 

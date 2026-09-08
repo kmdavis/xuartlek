@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class
 tags:
 - compendium/src/pf2e/player-core
 aliases: ["Witch"]
-aon_id: "class-38"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=38"
 source: "Player Core"
 ---
 
@@ -108,7 +107,7 @@ You weren't born with the power to cast spells, nor have you spent years dedicat
 
  Rather than interacting with you directly, your patron works through a familiar—a mystical creature that teaches you, serves as the conduit for your patron's magic, and maybe even keeps an eye on you to ensure you're furthering your patron's nebulous ends.
 
- At 1st level, choose your patron, which determines your spellcasting tradition and grants you the skill for that tradition of magic, your first witch's lesson and a unique familiar ability. The patron themes can be found here.
+ At 1st level, choose your patron, which determines your spellcasting tradition and grants you the skill for that tradition of magic, your first witch's lesson and a unique familiar ability. The patron themes can be found [[srd/pf2e/compendium/character/patrons|here]].
 
 #### Witch Spellcasting
 
@@ -130,7 +129,7 @@ Using your familiar as a conduit, your patron provides you the power to cast spe
 
 #### Familiar
 
-Your patron has sent you a familiar, a mystical creature that teaches you magic and facilitates your spells. This familiar follows the [[srd/pf2e/books/player-core/chapter-3-classes/companions#Familiars|familiar rules]], though as it's a direct conduit between you and your patron, it's more powerful than typical familiars. Your familiar gains two additional familiar abilities: one of these is a unique ability based on your patron and is always selected, and the other is an additional familiar ability that can be selected daily as normal. Your familiar gains another extra ability at 6th, 12th, and 18th levels.
+Your patron has sent you a [[srd/pf2e/compendium/character/familiar-abilities|familiar]], a mystical creature that teaches you magic and facilitates your spells. This familiar follows the [[srd/pf2e/books/player-core/chapter-3-classes/companions#Familiars|familiar rules]], though as it's a direct conduit between you and your patron, it's more powerful than typical familiars. Your familiar gains two additional familiar abilities: one of these is a unique ability based on your patron and is always selected, and the other is an additional familiar ability that can be selected daily as normal. Your familiar gains another extra ability at 6th, 12th, and 18th levels.
 
  **Spells**: Your familiar is the source and repository of the spells your patron has bestowed upon you, and you must commune with your familiar to prepare your spells each day using your witch spellcasting. Your familiar starts off knowing 10 cantrips, five 1st-rank spells, and one additional spell determined by your patron's initial lesson. You choose these spells from the common spells of the tradition determined by your patron or from other spells of that tradition you gain access to.
 
@@ -152,7 +151,7 @@ As a favored agent of your patron, you can invoke their power for a more direct 
 
 Hex cantrips are special hexes that don't cost Focus Points, so you can cast them as often as you like, though you can still use only one hex each turn. Hex cantrips are in addition to the cantrips you choose with witch spellcasting and aren't counted toward your prepared cantrips.
 
- You gain a hex cantrip determined by your choice of patron.
+ You gain a hex cantrip determined by your choice of [[srd/pf2e/compendium/character/patrons|patron]].
 
 | | |
 | --- | --- |

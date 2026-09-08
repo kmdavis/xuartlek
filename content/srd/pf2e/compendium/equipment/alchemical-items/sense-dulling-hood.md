@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/consumable
 - equipment/level/6
 aliases: ["Sense-Dulling Hood"]
-aon_id: "equipment-1944"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1944"
 source: "Treasure Vault (Remastered)"
 ---
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/changeling
 - feat/level/9
 aliases: ["Accursed Claws"]
-aon_id: "feat-4539"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4539"
 source: "Player Core"
 ---
 

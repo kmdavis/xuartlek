@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -8,7 +7,7 @@ tags:
 - trait/metamagic
 - feat/level/20
 aliases: ["Bloodline Conduit"]
-aon_id: "feat-6123"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6123"
 source: "Player Core 2"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-shield
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ entries: 16
 
 # Shields
 
-## Buckler  *Shield 0*
+## Buckler
 
 - **Price**: 1 gp
 - **AC Bonus**: 1
@@ -23,11 +22,11 @@ This very small shield is a favorite of duelists and quick, lightly armored warr
 
 ### Specific Magic Shields
 
-[[srd/pf2e/compendium/equipment/shields/archers-bulwark|Archer's Bulwark]], [[srd/pf2e/compendium/equipment/shields/bivouac-targe|Bivouac Targe]], Fan Buckler, [[srd/pf2e/compendium/equipment/shields/floating-shield-greater|Floating Shield]], [[srd/pf2e/compendium/equipment/shields/glamorous-buckler|Glamorous Buckler]], [[srd/pf2e/compendium/equipment/shields/reflecting-shield|Reflecting Shield]], Sapling Shield, [[srd/pf2e/compendium/equipment/shields/shield-of-mental-fortitude|Shield Of Mental Fortitude]], [[srd/pf2e/compendium/equipment/shields/shield-of-silent-words|Shield Of Silent Words]], [[srd/pf2e/compendium/equipment/shields/verdant-buckler|Verdant Buckler]], [[srd/pf2e/compendium/equipment/shields/war-mages-buckler|War Mage's Buckler]]
+[[srd/pf2e/compendium/equipment/shields/archers-bulwark|Archer's Bulwark]], [[srd/pf2e/compendium/equipment/shields/bivouac-targe|Bivouac Targe]], Fan Buckler, [[srd/pf2e/compendium/equipment/shields/floating-shield|Floating Shield]], [[srd/pf2e/compendium/equipment/shields/glamorous-buckler|Glamorous Buckler]], [[srd/pf2e/compendium/equipment/shields/reflecting-shield|Reflecting Shield]], Sapling Shield, [[srd/pf2e/compendium/equipment/shields/shield-of-mental-fortitude|Shield Of Mental Fortitude]], [[srd/pf2e/compendium/equipment/shields/shield-of-silent-words|Shield Of Silent Words]], [[srd/pf2e/compendium/equipment/shields/verdant-buckler|Verdant Buckler]], [[srd/pf2e/compendium/equipment/shields/war-mages-buckler|War Mage's Buckler]]
 
 *Source: Player Core p. 274*
 
-## Caster's Targe  *Shield 0*
+## Caster's Targe
 
 `Inscribed`
 
@@ -42,7 +41,7 @@ This small shield is made from wood. It features a special panel of parchment al
 
 *Source: Treasure Vault (Remastered) p. 20*
 
-## Dart Shield  *Shield 0*
+## Dart Shield
 
 `Launching`
 
@@ -57,7 +56,7 @@ This wooden shield features a spring-loaded device on its surface that can fire 
 
 *Source: Treasure Vault (Remastered) p. 20*
 
-## Fortress Shield  *Shield 1*
+## Fortress Shield
 
 `Hefty`
 
@@ -74,7 +73,7 @@ Also known as portable walls, these thick and heavy shields are slightly larger 
 
 *Source: Treasure Vault (Remastered) p. 20*
 
-## Gauntlet Buckler  *Shield 0*
+## Gauntlet Buckler
 
 `Foldaway`
 
@@ -89,7 +88,7 @@ This buckler-sized shield is segmented, allowing it to collapse into a housing b
 
 *Source: Treasure Vault (Remastered) p. 20*
 
-## Harnessed Shield  *Shield 0*
+## Harnessed Shield
 
 `Harnessed`
 
@@ -104,7 +103,7 @@ This large steel shield features a specialized opening to hold lances and simila
 
 *Source: Treasure Vault (Remastered) p. 20*
 
-## Heavy Rondache  *Shield 0*
+## Heavy Rondache
 
 - **Price**: 4 gp
 - **AC Bonus**: 1
@@ -121,7 +120,7 @@ Similar in size to a buckler, this steel shield is intended to absorb as many bl
 
 *Source: Treasure Vault (Remastered) p. 20*
 
-## Hide Shield  *Shield 0*
+## Hide Shield
 
 `Deflecting`
 
@@ -136,7 +135,7 @@ Hide shields come in a variety of shapes and sizes. Specialized tanning techniqu
 
 *Source: Treasure Vault (Remastered) p. 20*
 
-## Klar  *Shield 0*
+## Klar
 
 `Integrated`
 
@@ -151,11 +150,11 @@ This traditional Shoanti armament combines a short metal blade with the skull of
 
 ### Specific Magic Shields
 
-[[srd/pf2e/compendium/equipment/shields/hippopotamus-klar|Hippopotamus Klar]], [[srd/pf2e/compendium/equipment/shields/sanguine-klar-greater|Sanguine Klar]], Sanguine Klar
+[[srd/pf2e/compendium/equipment/shields/hippopotamus-klar|Hippopotamus Klar]], [[srd/pf2e/compendium/equipment/shields/sanguine-klar|Sanguine Klar]], Sanguine Klar
 
 *Source: Treasure Vault (Remastered) p. 20*
 
-## Meteor Shield  *Shield 0*
+## Meteor Shield
 
 `Shield Throw`
 
@@ -170,11 +169,11 @@ Meteor shields are specifically designed with throwing in mind. A meteor shield 
 
 ### Specific Magic Shields
 
-[[srd/pf2e/compendium/equipment/shields/helmsmans-recourse-major|Helmsman's Recourse]], Helmsman's Recourse
+[[srd/pf2e/compendium/equipment/shields/helmsmans-recourse|Helmsman's Recourse]], Helmsman's Recourse
 
 *Source: Treasure Vault (Remastered) p. 21*
 
-## Razor Disc  *Shield 0*
+## Razor Disc
 
 `Integrated`  `Shield Throw`
 
@@ -193,7 +192,7 @@ Highhelm War Shield
 
 *Source: Treasure Vault (Remastered) p. 21*
 
-## Salvo Shield  *Shield 0*
+## Salvo Shield
 
 `Deflecting`
 
@@ -212,7 +211,7 @@ This specialized steel shield features an outer layer of angled wooden or steel 
 
 *Source: Treasure Vault (Remastered) p. 21*
 
-## Steel Shield  *Shield 0*
+## Steel Shield
 
 - **Price**: 2 gp
 - **AC Bonus**: 2
@@ -225,11 +224,11 @@ Like wooden shields, steel shields come in a variety of shapes and sizes. Though
 
 ### Specific Magic Shields
 
-Clockwork Shield, [[srd/pf2e/compendium/equipment/shields/cowards-shield|Coward's Shield]], [[srd/pf2e/compendium/equipment/shields/dragon-shield|Dragon Shield]], [[srd/pf2e/compendium/equipment/shields/dragonslayers-shield|Dragonslayer's Shield]], [[srd/pf2e/compendium/equipment/shields/emergency-escape-shield|Emergency Escape Shield]], [[srd/pf2e/compendium/equipment/shields/major-energized-shield|Energized Shield]], [[srd/pf2e/compendium/equipment/shields/force-shield|Force Shield]], [[srd/pf2e/compendium/equipment/shields/forge-warden|Forge Warden]], Imposing Shield, [[srd/pf2e/compendium/equipment/shields/indestructible-shield|Indestructible Shield]], [[srd/pf2e/compendium/equipment/shields/lions-shield|Lion's Shield]], Magnetic Shield, [[srd/pf2e/compendium/equipment/alchemical-items/magnetic-shield|Magnetic Shield]], [[srd/pf2e/compendium/equipment/intelligent-items/martyrs-shield|Martyr's Shield]], Martyr's Shield, [[srd/pf2e/compendium/equipment/shields/medusas-scream-greater|Medusa's Scream]], Sensei's Parasol, [[srd/pf2e/compendium/equipment/shields/shield-of-endurance|Shield Of Endurance]], [[srd/pf2e/compendium/equipment/shields/shield-of-the-bear|Shield Of The Bear]], [[srd/pf2e/compendium/equipment/shields/spellguard-shield|Spellguard Shield]], [[srd/pf2e/compendium/equipment/shields/spellshock-shield|Spellshock Shield]], [[srd/pf2e/compendium/equipment/shields/spined-shield|Spined Shield]], [[srd/pf2e/compendium/equipment/shields/stifling-shield|Stifling Shield]], [[srd/pf2e/compendium/equipment/shields/sturdy-shield-supreme|Sturdy Shield]]
+Clockwork Shield, [[srd/pf2e/compendium/equipment/shields/cowards-shield|Coward's Shield]], [[srd/pf2e/compendium/equipment/shields/dragon-shield|Dragon Shield]], [[srd/pf2e/compendium/equipment/shields/dragonslayers-shield|Dragonslayer's Shield]], [[srd/pf2e/compendium/equipment/shields/emergency-escape-shield|Emergency Escape Shield]], [[srd/pf2e/compendium/equipment/shields/energized-shield|Energized Shield]], [[srd/pf2e/compendium/equipment/shields/force-shield|Force Shield]], [[srd/pf2e/compendium/equipment/shields/forge-warden|Forge Warden]], Imposing Shield, [[srd/pf2e/compendium/equipment/shields/indestructible-shield|Indestructible Shield]], [[srd/pf2e/compendium/equipment/shields/lions-shield|Lion's Shield]], Magnetic Shield, [[srd/pf2e/compendium/equipment/alchemical-items/magnetic-shield|Magnetic Shield]], [[srd/pf2e/compendium/equipment/intelligent-items/martyrs-shield|Martyr's Shield]], Martyr's Shield, [[srd/pf2e/compendium/equipment/shields/medusas-scream|Medusa's Scream]], Sensei's Parasol, [[srd/pf2e/compendium/equipment/shields/shield-of-endurance|Shield Of Endurance]], [[srd/pf2e/compendium/equipment/shields/shield-of-the-bear|Shield Of The Bear]], [[srd/pf2e/compendium/equipment/shields/spellguard-shield|Spellguard Shield]], [[srd/pf2e/compendium/equipment/shields/spellshock-shield|Spellshock Shield]], [[srd/pf2e/compendium/equipment/shields/spined-shield|Spined Shield]], [[srd/pf2e/compendium/equipment/shields/stifling-shield|Stifling Shield]], [[srd/pf2e/compendium/equipment/shields/sturdy-shield|Sturdy Shield]]
 
 *Source: Player Core p. 274*
 
-## Swordstealer Shield  *Shield 0*
+## Swordstealer Shield
 
 `Deflecting`
 
@@ -244,7 +243,7 @@ This specialized steel shield features several wide metal hooks along its surfac
 
 *Source: Treasure Vault (Remastered) p. 21*
 
-## Tower Shield  *Shield 0*
+## Tower Shield
 
 - **Price**: 10 gp
 - **AC Bonus**: 2 (+42)
@@ -259,11 +258,11 @@ These massive shields can be used to provide cover to nearly the entire body. Du
 
 ### Specific Magic Shields
 
-[[srd/pf2e/compendium/equipment/shields/arctic-worm-chitin-shield|Arctic Worm Chitin Shield]], [[srd/pf2e/compendium/equipment/shields/resolute-shield|Resolute Shield]], Sapling Shield, [[srd/pf2e/compendium/equipment/shields/siege-shield|Siege Shield]], [[srd/pf2e/compendium/equipment/shields/greater-testudo-shield|Testudo Shield]], Warding Escutcheon
+[[srd/pf2e/compendium/equipment/shields/arctic-worm-chitin-shield|Arctic Worm Chitin Shield]], [[srd/pf2e/compendium/equipment/shields/resolute-shield|Resolute Shield]], Sapling Shield, [[srd/pf2e/compendium/equipment/shields/siege-shield|Siege Shield]], [[srd/pf2e/compendium/equipment/shields/testudo-shield|Testudo Shield]], Warding Escutcheon
 
 *Source: Player Core p. 274*
 
-## Wooden Shield  *Shield 0*
+## Wooden Shield
 
 - **Price**: 1 gp
 - **AC Bonus**: 2

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
 - trait/jotunborn
 - feat/level/17
 aliases: ["Planar Traveler"]
-aon_id: "feat-7791"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7791"
 source: "Battlecry!"
 ---
 

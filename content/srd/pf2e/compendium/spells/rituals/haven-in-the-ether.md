@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/teleportation
 - ritual/level/9
 aliases: ["Haven in the Ether"]
-aon_id: "ritual-256"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=256"
 source: "Impossible Magic"
 ---
 
@@ -17,7 +16,7 @@ source: "Impossible Magic"
 `Extradimensional`  `Rare`  `Teleportation`
 
 - **Cast**: 1 week
-- **Cost**: building materials worth 25,000 gp
+- **Cost**: building materials worth 25, 000 gp
 - **Secondary Casters**: 3
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] (legendary) or [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (legendary)
 - **Secondary Checks**: Arcana or Occultism, or Crafting or Survival

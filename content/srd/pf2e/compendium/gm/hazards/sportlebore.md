@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
 tags:
 - compendium/src/pf2e/monster-core-2
 - hazard/level/7
 aliases: ["Sportlebore"]
-aon_id: "hazard-625"
+aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=625"
 source: "Monster Core 2"
 ---
 

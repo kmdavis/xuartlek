@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Lamia Matriarch"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Lamia Matriarch"
 level: 8
 source: "Monster Core"
-aon_id: "creature-3078"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3078"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [6, 4, 3, 3, 3, 6]
 abilities_top:
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/scimitar|scimitar]]_"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/scimitar|scimitar]]_"
 ac: 27
 armorclass:
   - name: "AC"

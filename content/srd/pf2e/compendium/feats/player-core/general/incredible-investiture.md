@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/general
 - feat/level/11
 aliases: ["Incredible Investiture"]
-aon_id: "feat-5161"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5161"
 source: "Player Core"
 ---
 

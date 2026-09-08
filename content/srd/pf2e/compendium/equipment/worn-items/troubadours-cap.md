@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - equipment/level/17
 aliases: ["Troubadour's Cap"]
-aon_id: "equipment-2144"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2144"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -16,7 +15,7 @@ source: "Treasure Vault (Remastered)"
 
 `Apex`  `Invested`  `Magical`
 
-- **Price**: 15,000 gp
+- **Price**: 15, 000 gp
 - **Usage**: worn headwear
 
 This jaunty cap can take the form and color of any type of hat you wish upon investing the item, but it always has a peacock feather jutting out from one side. You gain a +2 item bonus to [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] and [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] checks while wearing the cap. When you invest the cap, you either increase your Charisma modifer by 1 or increase it to +4, whichever would give you a higher value.

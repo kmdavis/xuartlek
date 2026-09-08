@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -10,7 +9,7 @@ tags:
 - trait/unique
 - equipment/level/11
 aliases: ["Wandering Pipe"]
-aon_id: "equipment-3513"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3513"
 source: "War of Immortals"
 ---
 

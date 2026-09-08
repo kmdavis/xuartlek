@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
 - trait/archetype
 - feat/level/20
 aliases: ["Immortal Bear"]
-aon_id: "feat-4095"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4095"
 source: "Treasure Vault (Remastered)"
 ---
 

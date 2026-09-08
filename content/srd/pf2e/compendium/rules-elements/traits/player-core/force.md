@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/force
 aliases: ["Force"]
-aon_id: "trait-610"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=610"
 source: "Player Core"
 ---
 

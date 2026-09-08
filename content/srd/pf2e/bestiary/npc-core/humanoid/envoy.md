@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Envoy"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Envoy"
 level: 0
 source: "NPC Core"
-aon_id: "creature-3416"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3416"
 ---
 
@@ -38,7 +36,7 @@ abilities_top:
   - name: "Diplomatic Specialist"
     desc: "When dealing with matters of statecraft and negotiation, the envoy is a 6th-level challenge."
   - name: "Items"
-    desc: "Dagger, [[srd/pf2e/compendium/equipment/adventuring-gear/clothing-desert|fine clothing]], letter of diplomatic status, signet ring"
+    desc: "Dagger, [[srd/pf2e/compendium/equipment/adventuring-gear/clothing|fine clothing]], letter of diplomatic status, signet ring"
 ac: 13
 armorclass:
   - name: "AC"

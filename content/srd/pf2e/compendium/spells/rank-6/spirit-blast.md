@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/spirit
 - spell/level/6
 aliases: ["Spirit Blast"]
-aon_id: "spell-1685"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1685"
 source: "Player Core"
 ---
 

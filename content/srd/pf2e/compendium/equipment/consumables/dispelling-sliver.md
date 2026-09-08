@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -8,7 +7,7 @@ tags:
 - trait/talisman
 - equipment/level/17
 aliases: ["Dispelling Sliver"]
-aon_id: "equipment-2969"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2969"
 source: "GM Core"
 ---
 
@@ -16,7 +15,7 @@ source: "GM Core"
 
 `Consumable`  `Magical`  `Talisman`
 
-- **Price**: 2,400 gp
+- **Price**: 2, 400 gp
 - **Usage**: affixed to a weapon
 - **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 - **Trigger**: Your Strike damages a target

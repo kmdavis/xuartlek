@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Boggard Scouting Party"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Boggard Scouting Party"
 level: 6
 source: "Battlecry!"
-aon_id: "creature-3905"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3905"
 ---
 

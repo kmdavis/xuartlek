@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core-2
 aliases: ["Spawn of Rovagug"]
-aon_id: "creature-family-621"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=621"
 source: "Monster Core 2"
 ---
 
 # Spawn of Rovagug  *Creature Family*
 
-Though the destroyer god Rovagug lies trapped in the core of the planet like a fly trapped in amber, imprisoned since the Age of Creation by a coalition of deities, his cage has weakened with the passing of time, allowing his influence to seep forth and take form as living calamities known as the Spawn of Rovagug. These massive creatures have plagued Golarion for eons, their rampages responsible for shattered mountains, blasted deserts, and oceans that now fill craters in the earth, and their regenerative abilities ensure they're an eternal threat, never fully killed. That these creatures of utter destruction hold such a inextinguishable grip on life is a paradox scholars struggle to resolve. Some believe that each Spawn possesses the smallest fragment of their divine parent's blessings; others posit that their immortality comes from the destruction they cause, gaining an eternal future for every one stolen from their victims.
+Though the destroyer god [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/rovagug|Rovagug]] lies trapped in the core of the planet like a fly trapped in amber, imprisoned since the Age of Creation by a coalition of deities, his cage has weakened with the passing of time, allowing his influence to seep forth and take form as living calamities known as the Spawn of Rovagug. These massive creatures have plagued Golarion for eons, their rampages responsible for shattered mountains, blasted deserts, and oceans that now fill craters in the earth, and their regenerative abilities ensure they're an eternal threat, never fully killed. That these creatures of utter destruction hold such a inextinguishable grip on life is a paradox scholars struggle to resolve. Some believe that each Spawn possesses the smallest fragment of their divine parent's blessings; others posit that their immortality comes from the destruction they cause, gaining an eternal future for every one stolen from their victims.
 
  Accounts of the Spawns' attacks throughout history have an odd through line: each attack is followed by a notable, if brief, golden age for the region. While most attribute this to the cooperation required to fend off or at the very least survive a Spawn's depredations, some see this is a twisted sign that the creatures are bringers of “true” peace. These believers often lead cults intent on calling forth or reviving any recently slain Spawn.
 
@@ -30,7 +29,7 @@ Though the destroyer god Rovagug lies trapped in the core of the planet like a f
 
 ### Lesser Spawn of Rovagug
 
-The history of Golarion includes stories of massive creatures that, while not conclusively Spawn of Rovagug, have earned the title of “lesser Spawn” due to their ferocity and similar regenerative abilities. Legends say that Old-Mage Jatembe, Azure Leopard, and more than 100 Tempest-Sun Mages trapped the insectile Agohbindi, the Splintering Child, in a forest of twisting roots near the Vanji River before liquefying the creature’s body. Cultists of Rovagug unleashed a thundering behemoth called Djakobu against the early Shory Empire; the magic invented for its defeat brought an age of prosperity to the empire. The manyheaded, crab-like Gray-Stag-Devourer terrorized the area that would become Irrisen and was driven off by the Grim White Stag, herald of Erastil.
+The history of Golarion includes stories of massive creatures that, while not conclusively Spawn of Rovagug, have earned the title of “lesser Spawn” due to their ferocity and similar regenerative abilities. Legends say that Old-Mage Jatembe, Azure Leopard, and more than 100 Tempest-Sun Mages trapped the insectile Agohbindi, the Splintering Child, in a forest of twisting roots near the Vanji River before liquefying the creature’s body. Cultists of Rovagug unleashed a thundering behemoth called Djakobu against the early Shory Empire; the magic invented for its defeat brought an age of prosperity to the empire. The manyheaded, crab-like Gray-Stag-Devourer terrorized the area that would become Irrisen and was driven off by the Grim White Stag, herald of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/erastil|Erastil]].
 
 ### Other Spawn
 
@@ -38,10 +37,10 @@ Tales and myths detail other Spawn of Rovagug that have appeared on Golarion. Ch
 
 ### Spawn in Your Campaigns
 
-Defeating (or even just surviving) a Spawn of Rovagug should be an important event in any campaign. It might even be the culmination of several adventures as the characters research ways to prevent the Spawn from rising immediately after it’s been slain and gather necessary allies for the fight. Along the way, the PCs might also have to deal with natural disasters precipitated by the Spawn’s approach and priests of Rovagug who believe the Spawn’s rampage will free their god.
+Defeating (or even just surviving) a Spawn of Rovagug should be an important event in any campaign. It might even be the culmination of several adventures as the characters research ways to prevent the Spawn from rising immediately after it’s been slain and gather necessary allies for the fight. Along the way, the PCs might also have to deal with natural disasters precipitated by the Spawn’s approach and priests of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/rovagug|Rovagug]] who believe the Spawn’s rampage will free their god.
 
 ### Verex-That-Was
 
-Not even gods are immune to Rovagug’s fell influence. While searching for means of greater power, the orc god [[srd/pf2e/bestiary/war-of-immortals/aberration/verex-that-was|Verex]] the Despoiler was caught by the Dead Vault’s corrupting energies and was nearly destroyed in his escape. However, when a drop of Gorum’s blood fell on his broken body, he was transformed into a horrible, twisted Spawn of Rovagug. Read more about this mythic threat in _Pathfinder War of Immortals_.
+Not even gods are immune to Rovagug’s fell influence. While searching for means of greater power, the orc god [[srd/pf2e/bestiary/war-of-immortals/aberration/verex-that-was|Verex]] the Despoiler was caught by the Dead Vault’s corrupting energies and was nearly destroyed in his escape. However, when a drop of [[srd/pf2e/compendium/deities/dead-or-missing-deities/gorum|Gorum’s]] blood fell on his broken body, he was transformed into a horrible, twisted Spawn of Rovagug. Read more about this mythic threat in _Pathfinder War of Immortals_.
 
 *Source: Monster Core 2 p. 298*

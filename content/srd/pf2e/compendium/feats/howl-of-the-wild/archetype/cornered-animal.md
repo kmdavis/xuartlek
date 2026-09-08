@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -7,7 +6,7 @@ tags:
 - trait/flourish
 - feat/level/8
 aliases: ["Cornered Animal"]
-aon_id: "feat-5499"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5499"
 source: "Howl of the Wild"
 ---
 

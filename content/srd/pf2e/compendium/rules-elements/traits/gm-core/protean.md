@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/gm-core
 - trait/protean
 aliases: ["Protean"]
-aon_id: "trait-678"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=678"
 source: "GM Core"
 ---
 

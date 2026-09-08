@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -12,7 +11,7 @@ tags:
 - trait/wood
 - spell/level/8
 aliases: ["Impaling Briars"]
-aon_id: "spell-1857"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1857"
 source: "Player Core"
 ---
 

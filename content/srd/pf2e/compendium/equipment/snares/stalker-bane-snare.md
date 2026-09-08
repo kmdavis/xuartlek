@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/player-core-2
@@ -10,7 +9,7 @@ tags:
 - trait/uncommon
 - equipment/level/4
 aliases: ["Stalker Bane Snare"]
-aon_id: "equipment-3386"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3386"
 source: "Player Core 2"
 ---
 

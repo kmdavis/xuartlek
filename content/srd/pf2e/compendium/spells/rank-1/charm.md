@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -11,7 +10,7 @@ tags:
 - trait/subtle
 - spell/level/1
 aliases: ["Charm"]
-aon_id: "spell-1463"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1463"
 source: "Player Core"
 ---
 
@@ -20,8 +19,8 @@ source: "Player Core"
 `Concentrate`  `Emotion`  `Incapacitation`  `Manipulate`  `Mental`  `Subtle`
 
 - **Traditions**: Arcane, Occult, Primal
-- **Bloodlines**: Diabolic, Fey
-- **Deities**: Ardad Lili, Asmodeus, Belial, Calistria, Conqueror Worm, Corosbel, Hathor, Kugaptee, Nalinivati, Nyarlathotep (The Faceless Sphinx), Ozranvial, Ravithra, Razmir, Sturovenen, The Green Mother, Ussharassim, Velgaas, Zura
+- **Bloodlines**: [[srd/pf2e/compendium/character/bloodlines#Diabolic|Diabolic]], [[srd/pf2e/compendium/character/bloodlines#Fey|Fey]]
+- **Deities**: [[srd/pf2e/compendium/deities/queens-of-the-night/ardad-lili|Ardad Lili]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/asmodeus|Asmodeus]], [[srd/pf2e/compendium/deities/archdevils/belial|Belial]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/calistria|Calistria]], Conqueror Worm, [[srd/pf2e/compendium/deities/daemon-harbingers/corosbel|Corosbel]], Hathor, Kugaptee, Nalinivati, [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-the-faceless-sphinx|Nyarlathotep (The Faceless Sphinx)]], [[srd/pf2e/compendium/deities/sakhil-tormentors/ozranvial|Ozranvial]], [[srd/pf2e/compendium/deities/vudrani-gods/ravithra|Ravithra]], [[srd/pf2e/compendium/deities/other-gods/razmir|Razmir]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/sturovenen|Sturovenen]], [[srd/pf2e/compendium/deities/eldest/the-green-mother|The Green Mother]], [[srd/pf2e/compendium/deities/infernal-dukes/ussharassim|Ussharassim]], [[srd/pf2e/compendium/deities/sakhil-tormentors/velgaas|Velgaas]], Zura
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will

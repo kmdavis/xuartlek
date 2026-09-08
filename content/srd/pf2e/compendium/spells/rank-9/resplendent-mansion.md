@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -8,7 +7,7 @@ tags:
 - trait/structure
 - spell/level/9
 aliases: ["Resplendent Mansion"]
-aon_id: "spell-2018"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2018"
 source: "Player Core 2"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core 2"
 `Concentrate`  `Manipulate`  `Structure`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Folgrit, Gaasham, The Deliberate Journey
+- **Deities**: [[srd/pf2e/compendium/deities/dwarven-gods/folgrit|Folgrit]], Gaasham, The Deliberate Journey
 - **Cast**: 1 minute
 - **Range**: 500 feet
 - **Duration**: until your next daily preparations

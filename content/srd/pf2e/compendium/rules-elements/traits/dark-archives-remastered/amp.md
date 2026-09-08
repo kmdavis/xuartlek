@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 - trait/amp
 aliases: ["Amp"]
-aon_id: "trait-897"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=897"
 source: "Dark Archives (Remastered)"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "D'ziriak"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "D'ziriak"
 level: 3
 source: "Monster Core 2"
-aon_id: "creature-4376"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4376"
 ---
 
@@ -65,7 +63,7 @@ abilities_bot:
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
-    desc: "The d'ziriak makes two claw Strikes. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses. This counts as two attacks for the d'ziriak's multiple attack penalty, and the penalty doesn't increase until after both attacks. Light Weavers The masters of d'ziriak light-weaving craft are occult practitioners, almost always [[srd/pf2e/compendium/character/classes/sorcerer|sorcerers]] of the aberrant bloodline. Light weavers prefer spells that provide light or create magical writing. In their hive cities, light weavers create art, lighting, signage, and magic wards. They also use their light weaving for entertainment and education."
+    desc: "The d'ziriak makes two claw Strikes. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses. This counts as two attacks for the d'ziriak's multiple attack penalty, and the penalty doesn't increase until after both attacks. Light Weavers The masters of d'ziriak light-weaving craft are occult practitioners, almost always [[srd/pf2e/compendium/character/classes/sorcerer|sorcerers]] of the [[srd/pf2e/compendium/character/bloodlines#Aberrant|aberrant]] bloodline. Light weavers prefer spells that provide light or create magical writing. In their hive cities, light weavers create art, lighting, signage, and magic wards. They also use their light weaving for entertainment and education."
 spellcasting:
   - name: "Occult Innate Spells"
     desc: "DC 19 - __7th__ [[srd/pf2e/compendium/spells/rank-7/interplanar-teleport|Interplanar Teleport]] (self only; to [[srd/pf2e/compendium/gm/planes#The Netherworld|Netherworld]] only)"

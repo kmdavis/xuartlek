@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - equipment/level/13
 aliases: ["Sidestepping"]
-aon_id: "equipment-4995"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4995"
 source: "Impossible Magic"
 ---
 
@@ -15,7 +14,7 @@ source: "Impossible Magic"
 
 `Magical`  `Uncommon`
 
-- **Price**: 3,000 gp
+- **Price**: 3, 000 gp
 - **Usage**: etched onto armor
 
 A suit of armor etched with this rune can cause its wearer’s form to vibrate slightly out of phase with the rest of the world, allowing them to impossibly pass through solid objects. 

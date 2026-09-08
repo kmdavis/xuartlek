@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class-feature
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 - class-feature/level/9
 aliases: ["Thaumaturgic Expertise"]
-aon_id: "class-feature-1184"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=69"
 source: "Dark Archives (Remastered)"
 ---
 

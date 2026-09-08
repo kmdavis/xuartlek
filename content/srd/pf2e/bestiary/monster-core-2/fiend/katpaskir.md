@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Katpaskir"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Katpaskir"
 level: 18
 source: "Monster Core 2"
-aon_id: "creature-4322"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4322"
 ---
 
@@ -46,7 +44,7 @@ armorclass:
 hp: 415
 health:
   - name: "HP"
-    desc: "415; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]]; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 15, [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 15"
+    desc: "415; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]]; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 15, [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 15"
 abilities_mid:
   - name: "Distortion Field"
     desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]]) 30 feet. Reality bends and warps all senses without displacing the katpaskir's actual location. Creatures of the katpaskir's choice who start their turn in the aura must succeed at a DC 37 Will save or treat the area as [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Difficult Terrain|greater difficult terrain]] and [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Uneven Ground|uneven ground]] (DC 20). A creature that succeeds still treats the area as difficult terrain. For chosen creatures, the distance through the aura is doubled for determining range penalty."

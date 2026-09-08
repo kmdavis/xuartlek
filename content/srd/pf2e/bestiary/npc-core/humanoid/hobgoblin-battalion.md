@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Hobgoblin Battalion"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Hobgoblin Battalion"
 level: 6
 source: "NPC Core"
-aon_id: "creature-3649"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3649"
 ---
 

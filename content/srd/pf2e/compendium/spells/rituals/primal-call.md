@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/player-core
 - trait/uncommon
 - ritual/level/6
 aliases: ["Primal Call"]
-aon_id: "ritual-122"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=122"
 source: "Player Core"
 ---
 
@@ -18,9 +17,9 @@ source: "Player Core"
 - **Cost**: faerie circle ingredients worth a total value of 1 gp × the spell rank × the target’s level
 - **Secondary Casters**: 4
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (master)
-- **Secondary Checks**: Crafting , Diplomacy , Survival
+- **Secondary Checks**: Crafting, Diplomacy, Survival
 - **Range**: 100 miles
-- **Target(s)**: 1 animal , beast , fey , fungus , or plant
+- **Target(s)**: 1 animal, beast, fey, fungus, or plant
 - **Duration**: see text
 
 This functions as _planar servitor_ except you craft a faerie circle and call an [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/beast|beast]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fey|fey]] &lt;%END>, [[srd/pf2e/compendium/rules-elements/traits/player-core/fungus|fungus]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plant]] from within 100 miles.

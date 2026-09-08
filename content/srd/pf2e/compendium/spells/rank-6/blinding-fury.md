@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -10,7 +9,7 @@ tags:
 - trait/mental
 - spell/level/6
 aliases: ["Blinding Fury"]
-aon_id: "spell-1968"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1968"
 source: "Player Core 2"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core 2"
 `Concentrate`  `Curse`  `Emotion`  `Incapacitation`  `Mental`
 
 - **Traditions**: Divine, Occult, Primal
-- **Bloodline**: Aesir
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Aesir|Aesir]]
 - **Trigger**: A creature damages you.
 - **Range**: 60 feet
 - **Target**: the triggering creature

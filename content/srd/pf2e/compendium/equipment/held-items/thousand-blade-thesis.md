@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - equipment/level/9
 aliases: ["Thousand-blade Thesis"]
-aon_id: "equipment-5146"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5146"
 source: "Impossible Magic"
 ---
 

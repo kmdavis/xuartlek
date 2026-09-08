@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/archetype
 - feat/level/6
 aliases: ["Advanced Maneuver"]
-aon_id: "feat-5085"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5085"
 source: "Player Core"
 ---
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/uncommon
 - ritual/level/3
 aliases: ["Guardian's Aegis"]
-aon_id: "ritual-255"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=255"
 source: "Impossible Magic"
 ---
 
@@ -18,7 +17,7 @@ source: "Impossible Magic"
 - **Cost**: rare oils worth 10 gp × the primary caster’s level
 - **Secondary Casters**: 1
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] or [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]
-- **Secondary Checks**: Athletics , Diplomacy , or Society
+- **Secondary Checks**: Athletics, Diplomacy, or Society
 - **Duration**: 1 week
 
 _Guardian's aegis_ is a ritual used across numerous cultures to bind a chosen guardian and ward together so that they can complete a quest of great import. When the ritual is completed, designate one of the casters as the guardian, while the other is the ward. As long as you're on the same plane of existence, both of you are always aware of each other's relative directions and state of being, including any conditions the other is affected by. As long as you're within 30 feet of each other, whenever the ward takes damage, the damage is reduced by the amount equal to half the guardian's level, and the guardian loses an equal number of Hit Points; the target still takes additional effects like poison even if _guardian's aegis_ reduces the damage to 0.

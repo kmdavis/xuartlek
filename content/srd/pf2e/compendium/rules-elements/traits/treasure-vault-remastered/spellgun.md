@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
 - trait/spellgun
 aliases: ["Spellgun"]
-aon_id: "trait-491"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=491"
 source: "Treasure Vault (Remastered)"
 ---
 

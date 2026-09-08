@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/gunslinger
 - feat/level/14
 aliases: ["Dance of Thunder"]
-aon_id: "feat-3199"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3199"
 source: "Guns & Gears (Remastered)"
 ---
 

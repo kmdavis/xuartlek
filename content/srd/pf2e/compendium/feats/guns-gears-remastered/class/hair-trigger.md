@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/gunslinger
 - feat/level/16
 aliases: ["Hair Trigger"]
-aon_id: "feat-3205"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3205"
 source: "Guns & Gears (Remastered)"
 ---
 

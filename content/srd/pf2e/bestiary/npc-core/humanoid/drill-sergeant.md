@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Drill Sergeant"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Drill Sergeant"
 level: 8
 source: "NPC Core"
-aon_id: "creature-3529"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3529"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [4, 3, 2, 2, 2, 4]
 abilities_top:
   - name: "Items"
-    desc: "Chain Shirt, Javelin (6), _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/longsword|longsword]]_"
+    desc: "Chain Shirt, Javelin (6), _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/longsword|longsword]]_"
 ac: 25
 armorclass:
   - name: "AC"

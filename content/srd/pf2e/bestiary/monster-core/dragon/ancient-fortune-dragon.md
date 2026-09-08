@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Ancient Fortune Dragon"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Ancient Fortune Dragon"
 level: 19
 source: "Monster Core"
-aon_id: "creature-2946"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2946"
 ---
 

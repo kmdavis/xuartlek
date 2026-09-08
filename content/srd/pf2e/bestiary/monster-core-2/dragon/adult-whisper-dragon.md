@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Adult Whisper Dragon"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Adult Whisper Dragon"
 level: 11
 source: "Monster Core 2"
-aon_id: "creature-4367"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4367"
 ---
 

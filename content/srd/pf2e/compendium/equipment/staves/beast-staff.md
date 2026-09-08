@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/staff
 - equipment/level/7
 aliases: ["Beast Staff"]
-aon_id: "equipment-2245"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2245"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -18,7 +17,7 @@ source: "Treasure Vault (Remastered)"
 - **Usage**: held in 1 hand
 - **Bulk**: 1
 
-The visages of beasts are carved into the painted wood of a _beast staff_, with a large head on top. The staff is a _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/club/staff|staff]]_. While wielding the staff while you have it prepared, you’re affected by [[srd/pf2e/compendium/spells/rank-2/speak-with-animals|_speak with animals_]]. If you have [[srd/pf2e/compendium/feats/player-core/archetype/animal-empathy-druid|Animal Empathy]], you gain a +1 circumstance bonus on checks using it. 
+The visages of beasts are carved into the painted wood of a _beast staff_, with a large head on top. The staff is a _[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/club/staff|staff]]_. While wielding the staff while you have it prepared, you’re affected by [[srd/pf2e/compendium/spells/rank-2/speak-with-animals|_speak with animals_]]. If you have [[srd/pf2e/compendium/feats/player-core/archetype/animal-empathy-druid|Animal Empathy]], you gain a +1 circumstance bonus on checks using it. 
 
 **Activate** Cast a Spell; **Effect** You expend a number of charges from the staff to cast a spell from its list.
 

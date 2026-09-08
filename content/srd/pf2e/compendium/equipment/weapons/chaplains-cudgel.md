@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
 - trait/magical
 - equipment/level/9
 aliases: ["Chaplain's Cudgel"]
-aon_id: "equipment-2864"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2864"
 source: "GM Core"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -11,7 +10,7 @@ tags:
 - trait/poison
 - equipment/level/6
 aliases: ["Sargassum Phial"]
-aon_id: "equipment-3232"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3232"
 source: "Howl of the Wild"
 ---
 

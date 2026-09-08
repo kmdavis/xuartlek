@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/uncommon
 - equipment/level/12
 aliases: ["Dragonhide Armor"]
-aon_id: "equipment-3269"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3269"
 source: "Player Core 2"
 ---
 
@@ -16,7 +15,7 @@ source: "Player Core 2"
 
 - **Usage**: worn armor
 - **Bulk**: L varies by armor
-- **Base Material**: [[srd/pf2e/compendium/equipment/materials/dragonhide-object-high-grade|Dragonhide]]
+- **Base Material**: [[srd/pf2e/compendium/equipment/materials/dragonhide|Dragonhide]]
 
 Dragonhide armor is immune to one damage type based on the type of dragon it's made from. Wearing armor made from dragonhide also grants you a +1 circumstance bonus to your AC and saving throws against attacks and spells that deal the corresponding damage type. 
 

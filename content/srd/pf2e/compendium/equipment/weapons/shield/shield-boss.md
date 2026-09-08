@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
 - trait/attached
 - weapon/level/0
 aliases: ["Shield Boss"]
-aon_id: "weapon-396"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=396"
 source: "Player Core"
 ---
 
@@ -14,7 +13,7 @@ source: "Player Core"
 
 `Attached`
 
-- **Favored Weapon**: Aleth, Granduncle Taproot, Guardians of the Sacred Self, Imot, Mazludeh, The Spirit Wall, Upion and Warrik
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/other-gods/aleth|Aleth]], Granduncle Taproot, [[srd/pf2e/compendium/deities/pantheons/guardians-of-the-sacred-self|Guardians of the Sacred Self]], Imot, Mazludeh, [[srd/pf2e/compendium/deities/sarkorian-covenants/the-spirit-wall|The Spirit Wall]], Upion and Warrik
 - **Price**: 5 sp
 - **Damage**: 1d6 B
 - **Bulk**: —

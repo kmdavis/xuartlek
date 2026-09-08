@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/battlecry
@@ -8,7 +7,7 @@ tags:
 - trait/rare
 - siege-weapon/level/11
 aliases: ["Nullifier Sling"]
-aon_id: "siege-weapon-58"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=58"
 source: "Battlecry!"
 ---
 
@@ -16,7 +15,7 @@ source: "Battlecry!"
 
 `Magical`  `Mounted`  `Rare`
 
-- **Price**: 2,600 gp
+- **Price**: 2, 600 gp
 - **Ammunition**: nullifier stones_ (10 gp, 3 Bulk)
 
 **Usage** mounted

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Equestrian Constable"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Equestrian Constable"
 level: 4
 source: "NPC Core"
-aon_id: "creature-3557"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3557"
 ---
 

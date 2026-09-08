@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -9,7 +8,7 @@ tags:
 - trait/sonic
 - spell/level/2
 aliases: ["Ignite Fireworks"]
-aon_id: "spell-2734"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2734"
 source: "Impossible Magic"
 ---
 

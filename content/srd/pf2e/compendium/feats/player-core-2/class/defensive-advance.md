@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -8,7 +7,7 @@ tags:
 - trait/guardian
 - feat/level/1
 aliases: ["Defensive Advance"]
-aon_id: "feat-5882"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5882"
 source: "Player Core 2"
 ---
 

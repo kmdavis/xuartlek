@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Ovinnik"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Ovinnik"
 level: 4
 source: "Monster Core 2"
-aon_id: "creature-4443"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4443"
 ---
 
@@ -42,7 +40,7 @@ armorclass:
 hp: 60
 health:
   - name: "HP"
-    desc: "60; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 5; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 5"
+    desc: "60; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 5; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 5"
 abilities_mid:
   - name: "Shy"
     desc: "A ovinnik is naturally [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]] while within sight of their bound home. The ovinnik can become visible, or even selectively visible— allowing some people to see them."

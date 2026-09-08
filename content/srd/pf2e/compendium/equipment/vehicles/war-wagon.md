@@ -1,17 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/battlecry
 - vehicle/level/8
 aliases: ["War Wagon"]
-aon_id: "vehicle-106"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=106"
 source: "Battlecry!"
 ---
 
 # War Wagon  *Vehicle 8*
 
-- **Price**: 1,500 gp
+- **Price**: 1, 500 gp
 
 Often adorned with spikes and other defensive countermeasures, a war wagon is an intimidating sight on any battlefield. It can carry both soldiers and a siege weapon.
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/polymorph
 - spell/level/10
 aliases: ["Nature Incarnate"]
-aon_id: "spell-1612"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1612"
 source: "Player Core"
 ---
 

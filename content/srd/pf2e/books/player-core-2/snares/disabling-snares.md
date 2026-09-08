@@ -7,7 +7,6 @@ cssclasses:
 tags:
   - srd/pf2e/player-core-2
 source: "Player Core 2"
-aon_id: 3319
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3319"
 citation: "Player Core 2 pg. 297"
 ---

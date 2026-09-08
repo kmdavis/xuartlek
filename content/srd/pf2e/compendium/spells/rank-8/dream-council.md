@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -10,7 +9,7 @@ tags:
 - trait/sleep
 - spell/level/8
 aliases: ["Dream Council"]
-aon_id: "spell-1988"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1988"
 source: "Player Core 2"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core 2"
 `Concentrate`  `Illusion`  `Manipulate`  `Mental`  `Sleep`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Alazhra, Naderi, Nyarlathotep (The Crawling Chaos)
+- **Deities**: [[srd/pf2e/compendium/deities/dead-or-missing-deities/alazhra|Alazhra]], Naderi, [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-the-crawling-chaos|Nyarlathotep (The Crawling Chaos)]]
 - **Cast**: 10 minutes
 - **Range**: planetary
 - **Target**: up to 12 creatures you know by name and have met in person

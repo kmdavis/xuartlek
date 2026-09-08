@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/psychic
 - feat/level/4
 aliases: ["Homing Beacon"]
-aon_id: "feat-8318"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8318"
 source: "Dark Archives (Remastered)"
 ---
 

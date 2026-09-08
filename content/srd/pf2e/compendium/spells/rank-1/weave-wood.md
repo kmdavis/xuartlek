@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -8,7 +7,7 @@ tags:
 - trait/wood
 - spell/level/1
 aliases: ["Weave Wood"]
-aon_id: "spell-1415"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1415"
 source: "Rage of Elements"
 ---
 
@@ -17,7 +16,7 @@ source: "Rage of Elements"
 `Concentrate`  `Manipulate`  `Wood`
 
 - **Traditions**: Primal, Arcane
-- **Deity**: Shumunue
+- **Deity**: [[srd/pf2e/compendium/deities/elemental-lords/shumunue|Shumunue]]
 - **Cast**: 1 minute
 - **Range**: touch
 - **Target**: 1 piece of unprocessed wood, reeds, or plant fiber of 1 Bulk or less

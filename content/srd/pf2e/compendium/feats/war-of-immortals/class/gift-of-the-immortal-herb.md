@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -11,7 +10,7 @@ tags:
 - trait/positive
 - feat/level/16
 aliases: ["Gift of the Immortal Herb"]
-aon_id: "feat-7184"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7184"
 source: "War of Immortals"
 ---
 

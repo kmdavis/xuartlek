@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/positive
 - spell/level/1
 aliases: ["Heal"]
-aon_id: "spell-1554"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1554"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Healing`  `Manipulate`  `Vitality`  `Positive`
 
 - **Traditions**: Divine, Primal
-- **Bloodline**: Angelic
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Angelic|Angelic]]
 - **Range**: varies
 - **Target**: 1 willing living creature or 1 undead creature
 

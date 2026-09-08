@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/npc-core
 aliases: ["Military"]
-aon_id: "creature-family-543"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=543"
 source: "NPC Core"
 ---
 
@@ -44,7 +43,7 @@ Individual military NPCs who find themselves in open terrain might need to close
 
 ### Signature Weapons
 
-Phalanx formations are classically seen using a [[srd/pf2e/compendium/equipment/weapons/spear/spear|spear]] as their weapon of choice. However, feel free to swap out this weapon for something more appropriate to the local culture. For example, a phalanx comprised of worshippers of Gozreh might wield [[srd/pf2e/compendium/equipment/weapons/spear/trident|tridents]] instead of spears.
+Phalanx formations are classically seen using a [[srd/pf2e/compendium/equipment/weapons/spear/spear|spear]] as their weapon of choice. However, feel free to swap out this weapon for something more appropriate to the local culture. For example, a phalanx comprised of worshippers of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/gozreh|Gozreh]] might wield [[srd/pf2e/compendium/equipment/weapons/spear/trident|tridents]] instead of spears.
 
 ### Spoils Of War
 

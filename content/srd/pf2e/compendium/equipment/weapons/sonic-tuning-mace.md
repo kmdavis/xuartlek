@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/sonic
 - equipment/level/9
 aliases: ["Sonic Tuning Mace"]
-aon_id: "equipment-5029"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5029"
 source: "Impossible Magic"
 ---
 
@@ -19,7 +18,7 @@ source: "Impossible Magic"
 - **Bulk**: L
 - **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/club/light-mace|Light Mace]]
 
-This _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 striking]] [[srd/pf2e/compendium/equipment/runes/thundering-greater|thundering]] [[srd/pf2e/compendium/equipment/weapons/club/light-mace|light mace]]_ has twin tips, perfectly spaced to resonate when striking foes. 
+This _[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 striking]] [[srd/pf2e/compendium/equipment/runes/thundering|thundering]] [[srd/pf2e/compendium/equipment/weapons/club/light-mace|light mace]]_ has twin tips, perfectly spaced to resonate when striking foes. 
 
 **Activate—Cacophony** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** You tap the _sonic tuning mace_ against a nearby surface to cast a 4th-rank _noise blast_ with a DC of 25.
 

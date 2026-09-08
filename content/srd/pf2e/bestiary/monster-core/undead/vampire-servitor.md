@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Vampire Servitor"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Vampire Servitor"
 level: 4
 source: "Monster Core"
-aon_id: "creature-3224"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3224"
 ---
 
@@ -43,7 +41,7 @@ armorclass:
 hp: 40
 health:
   - name: "HP"
-    desc: "40 (coffin restoration, fast healing 5, void healing); __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Resistances__ physical 5 (except [[srd/pf2e/compendium/equipment/materials/silver-object-high-grade|silver]])"
+    desc: "40 (coffin restoration, fast healing 5, void healing); __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Resistances__ physical 5 (except [[srd/pf2e/compendium/equipment/materials/silver|silver]])"
 abilities_mid:
   - name: "Vampire Vulnerabilities"
     desc: ""

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/4
 aliases: ["Shape Stone"]
-aon_id: "spell-1667"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1667"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Earth`  `Manipulate`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Ashukharma, Findeladlara, Mazludeh, Vudravati, Yuelral
+- **Deities**: [[srd/pf2e/compendium/deities/vudrani-gods/ashukharma|Ashukharma]], [[srd/pf2e/compendium/deities/elven-gods/findeladlara|Findeladlara]], Mazludeh, [[srd/pf2e/compendium/deities/other-gods/vudravati|Vudravati]], [[srd/pf2e/compendium/deities/elven-gods/yuelral|Yuelral]]
 - **Range**: touch
 - **Target**: cube of stone 10 feet across or smaller
 

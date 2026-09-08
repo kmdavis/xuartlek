@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 - trait/uncommon
 - equipment/level/0
 aliases: ["Traitor's Ring"]
-aon_id: "equipment-4129"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4129"
 source: "Dark Archives (Remastered)"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Irlgaunt"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Irlgaunt"
 level: 13
 source: "Monster Core 2"
-aon_id: "creature-4447"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4447"
 ---
 
@@ -52,7 +50,7 @@ abilities_bot:
   - name: "Regurgitate Gastrolith"
     desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/acid|Acid]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]) The irlgaunt violently regurgitates a melon-sized clot of brittle stone supernaturally infused with digestive enzymes. The stone and acid explode on impact within a range of 30 feet, dealing 7d6 piercing damage and 7d6 acid damage to creatures in a 20- foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]] (DC 33 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). The irlgaunt can't Regurgitate Gastroliths for 1d4 rounds."
   - name: "Stone Step"
-    desc: "The irlgaunt ignores [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Difficult Terrain|difficult terrain]] composed of rocks and stone. Irlgaunt Religion A small number of irlgaunts actively worship Rovagug, whom they believe to be the progenitor of their species. Instead of living solitary lives, these irlgaunts form groups that inhabit deep fissures, transforming them into grisly temples by decorating them with the corpses of their sacrifices. They also decorate their own bodies by carving prayers into their chitin and painting themselves with crude and disturbing images. Some claim these runes grant them divine powers of protection and the ability to summon Rovagug's otherworldly kin. Irlgaunts who worship in this way gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] trait."
+    desc: "The irlgaunt ignores [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Difficult Terrain|difficult terrain]] composed of rocks and stone. Irlgaunt Religion A small number of irlgaunts actively worship [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/rovagug|Rovagug]], whom they believe to be the progenitor of their species. Instead of living solitary lives, these irlgaunts form groups that inhabit deep fissures, transforming them into grisly temples by decorating them with the corpses of their sacrifices. They also decorate their own bodies by carving prayers into their chitin and painting themselves with crude and disturbing images. Some claim these runes grant them divine powers of protection and the ability to summon Rovagug's otherworldly kin. Irlgaunts who worship in this way gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] trait."
 spellcasting:
   - name: "Primal Innate Spells"
     desc: "DC 31 - __4th__ [[srd/pf2e/compendium/spells/rank-3/one-with-stone|One with Stone]] (at will), [[srd/pf2e/compendium/spells/rank-4/shape-stone|Shape Stone]] (at will) - __6th__ [[srd/pf2e/compendium/spells/rank-5/speak-with-stones|Speak with Stones]]"

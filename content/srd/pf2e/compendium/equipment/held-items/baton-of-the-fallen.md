@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
 - trait/magical
 - equipment/level/16
 aliases: ["Baton of the Fallen"]
-aon_id: "equipment-3923"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3923"
 source: "Battlecry!"
 ---
 
@@ -14,7 +13,7 @@ source: "Battlecry!"
 
 `Magical`
 
-- **Price**: 9,000 gp
+- **Price**: 9, 000 gp
 - **Usage**: held in 1 hand
 - **Bulk**: 1
 

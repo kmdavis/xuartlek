@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/uncommon
 - ritual/level/3
 aliases: ["Mystic Carriage"]
-aon_id: "ritual-260"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=260"
 source: "Impossible Magic"
 ---
 

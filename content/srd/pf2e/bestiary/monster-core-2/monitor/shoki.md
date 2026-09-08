@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Shoki"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Shoki"
 level: 9
 source: "Monster Core 2"
-aon_id: "creature-4524"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4524"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [4, 1, 4, 3, 6, 5]
 abilities_top:
   - name: "Items"
-    desc: "countless [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol-silver|religious symbols]], Staff"
+    desc: "countless [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol|religious symbols]], Staff"
 ac: 27
 armorclass:
   - name: "AC"
@@ -51,7 +49,7 @@ attacks:
     desc: "⬻ staff +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/two-hand|two-hand d8]]) __Damage__ 2d4+6 bludgeoning plus shepherd's touch"
 abilities_bot:
   - name: "Infuse Staff"
-    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]]) A shoki's staff becomes a _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] staff_ and is treated as if it were adamantine while the shoki wields it. A shoki's staff has Hardness 14 and HP 56 (BT 28) while possessed by the shoki and Hardness 5 and HP 20 (BT 10) while out of the shoki's possession. A shoki whose staff is taken or destroyed can infuse a new one with an hour of work."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]]) A shoki's staff becomes a _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] staff_ and is treated as if it were adamantine while the shoki wields it. A shoki's staff has Hardness 14 and HP 56 (BT 28) while possessed by the shoki and Hardness 5 and HP 20 (BT 10) while out of the shoki's possession. A shoki whose staff is taken or destroyed can infuse a new one with an hour of work."
   - name: "Soul Lock"
     desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|Incapacitation]])"
   - name: "Requirements"

@@ -1,17 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
 - weapon/level/0
 aliases: ["Crossbow"]
-aon_id: "weapon-425"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=425"
 source: "Player Core"
 ---
 
 # Crossbow  *Weapon 0*
 
-- **Favored Weapon**: Abadar, Laivatiniel, Malthus, The Deliberate Journey
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/abadar|Abadar]], [[srd/pf2e/compendium/deities/daemon-harbingers/laivatiniel|Laivatiniel]], [[srd/pf2e/compendium/deities/infernal-dukes/malthus|Malthus]], The Deliberate Journey
 - **Price**: 3 gp
 - **Damage**: 1d8 P
 - **Bulk**: 1

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
 - trait/adjustment
 - equipment/level/0
 aliases: ["Storage"]
-aon_id: "equipment-1825"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1825"
 source: "Treasure Vault (Remastered)"
 ---
 

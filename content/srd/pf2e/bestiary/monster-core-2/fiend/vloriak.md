@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Vloriak"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Vloriak"
 level: 5
 source: "Monster Core 2"
-aon_id: "creature-4319"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4319"
 ---
 
@@ -43,7 +41,7 @@ armorclass:
 hp: 90
 health:
   - name: "HP"
-    desc: "90; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]] 5; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 5"
+    desc: "90; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]] 5; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 5"
 abilities_mid:
   - name: "Restoration Vulnerability"
     desc: "A vloriak feels agonizing pain when a creature or object recovers from a debilitating effect in their proximity. The first time in a round in which a creature that is within sight of the demon reduces the value of their [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]], [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]], [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]], or [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] condition, the demon takes 3d6 mental damage and cannot Lick Rust on their next turn."

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-eidolon
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/dragon
 - trait/eidolon
 aliases: ["Dragon"]
-aon_id: "eidolon-21"
+aon_url: "https://2e.aonprd.com/Eidolons.aspx?ID=21"
 source: "Impossible Magic"
 ---
 

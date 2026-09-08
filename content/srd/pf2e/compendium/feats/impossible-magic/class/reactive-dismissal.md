@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/summoner
 - feat/level/4
 aliases: ["Reactive Dismissal"]
-aon_id: "feat-9239"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9239"
 source: "Impossible Magic"
 ---
 

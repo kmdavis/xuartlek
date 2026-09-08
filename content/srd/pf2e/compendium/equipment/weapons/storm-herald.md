@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - equipment/level/12
 aliases: ["Storm Herald"]
-aon_id: "equipment-3210"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3210"
 source: "Howl of the Wild"
 ---
 
@@ -17,12 +16,12 @@ source: "Howl of the Wild"
 
 `Electricity`  `Magical`  `Sonic`  `Uncommon`
 
-- **Price**: 2,000 gp
+- **Price**: 2, 000 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
 - **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/knife/fighting-fan|Fighting Fan]]
 
-This iridescent, black _[[srd/pf2e/compendium/equipment/runes/weapon-potency-3|+2]] [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/runes/shock-greater|shock]] [[srd/pf2e/compendium/equipment/runes/thundering-greater|thundering]] [[srd/pf2e/compendium/equipment/weapons/knife/fighting-fan|fighting fan]]_ is crafted from the crackling feathers of thunderbirds to resemble one of the beast’s mighty wings. Channeling the avian’s tempestuous nature, you are surrounded by a stormy shell of wind and electricity while wielding a storm herald, granting you resistance 5 to electricity and sonic damage.
+This iridescent, black _[[srd/pf2e/compendium/equipment/runes/weapon-potency|+2]] [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/runes/shock|shock]] [[srd/pf2e/compendium/equipment/runes/thundering|thundering]] [[srd/pf2e/compendium/equipment/weapons/knife/fighting-fan|fighting fan]]_ is crafted from the crackling feathers of thunderbirds to resemble one of the beast’s mighty wings. Channeling the avian’s tempestuous nature, you are surrounded by a stormy shell of wind and electricity while wielding a storm herald, granting you resistance 5 to electricity and sonic damage.
 
 **Activate—Call the Storm** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** You channel the full might of a storm with you as its epicenter. All creatures within 30 feet take 3d10 electricity damage and 3d10 sonic damage (DC 30 basic Reflex save).
 

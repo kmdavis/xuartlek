@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 - trait/thaumaturge
 - feat/level/14
 aliases: ["Esoteric Reflexes"]
-aon_id: "feat-8379"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8379"
 source: "Dark Archives (Remastered)"
 ---
 

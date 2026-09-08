@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/4
 aliases: ["Soft Landing"]
-aon_id: "spell-2581"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2581"
 source: "Dark Archives (Remastered)"
 ---
 
@@ -16,7 +15,7 @@ source: "Dark Archives (Remastered)"
 `Concentrate`  `Manipulate`
 
 - **Traditions**: Arcane, Occult, Primal
-- **Deity**: Lorris
+- **Deity**: [[srd/pf2e/compendium/deities/empyreal-lords/lorris|Lorris]]
 - **Range**: 1 mile
 - **Area**: 20-foot tall, 60-foot radius cylinder with the ground at the bottom
 - **Duration**: 1 minute

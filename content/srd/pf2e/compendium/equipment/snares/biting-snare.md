@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/player-core-2
@@ -9,7 +8,7 @@ tags:
 - trait/trap
 - equipment/level/4
 aliases: ["Biting Snare"]
-aon_id: "equipment-3364"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3364"
 source: "Player Core 2"
 ---
 

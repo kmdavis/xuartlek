@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
 - trait/archetype
 - feat/level/2
 aliases: ["First Frost"]
-aon_id: "feat-4096"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4096"
 source: "Treasure Vault (Remastered)"
 ---
 

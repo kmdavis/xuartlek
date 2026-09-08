@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/portable
 aliases: ["Portable"]
-aon_id: "trait-412"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=412"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -13,6 +12,6 @@ source: "Guns & Gears (Remastered)"
 
 `Portable`
 
-Portable siege weapons, such as battering rams, can be more easily carried and have a role in both warfare and smaller conflicts or exploration.
+Portable siege weapons, such as [[srd/pf2e/compendium/equipment/siege-weapons/battering-ram|battering rams]], can be more easily carried and have a role in both warfare and smaller conflicts or exploration.
 
 *Source: Guns & Gears (Remastered) p. 235*

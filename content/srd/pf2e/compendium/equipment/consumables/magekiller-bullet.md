@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -10,7 +9,7 @@ tags:
 - trait/uncommon
 - equipment/level/16
 aliases: ["Magekiller Bullet"]
-aon_id: "equipment-5039"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5039"
 source: "Impossible Magic"
 ---
 
@@ -18,7 +17,7 @@ source: "Impossible Magic"
 
 `Consumable`  `Curse`  `Force`  `Magical`  `Uncommon`
 
-- **Price**: 1,500 gp
+- **Price**: 1, 500 gp
 - **Ammunition**: round or sling bullet
 - **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 

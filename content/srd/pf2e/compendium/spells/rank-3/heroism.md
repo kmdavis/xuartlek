@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/mental
 - spell/level/3
 aliases: ["Heroism"]
-aon_id: "spell-1555"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1555"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Mental`
 
 - **Traditions**: Divine, Occult
-- **Bloodline**: Aesir
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Aesir|Aesir]]
 - **Range**: touch
 - **Target**: 1 creature
 - **Duration**: 10 minutes

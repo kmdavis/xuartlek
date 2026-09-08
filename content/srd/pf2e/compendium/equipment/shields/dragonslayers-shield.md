@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - equipment/level/9
 aliases: ["Dragonslayer's Shield"]
-aon_id: "equipment-2818"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2818"
 source: "GM Core"
 ---
 

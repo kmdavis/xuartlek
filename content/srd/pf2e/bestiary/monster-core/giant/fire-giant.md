@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Fire Giant"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Fire Giant"
 level: 10
 source: "Monster Core"
-aon_id: "creature-3014"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3014"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [7, 0, 5, 2, 2, 0]
 abilities_top:
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/greatsword|greatsword]]_, _+1 [[srd/pf2e/compendium/equipment/armor#Half Plate|half plate]]_"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/greatsword|greatsword]]_, _+1 [[srd/pf2e/compendium/equipment/armor#Half Plate|half plate]]_"
 ac: 31
 armorclass:
   - name: "AC"

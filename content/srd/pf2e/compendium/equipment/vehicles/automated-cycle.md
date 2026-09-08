@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/uncommon
 - vehicle/level/1
 aliases: ["Automated Cycle"]
-aon_id: "vehicle-18"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=18"
 source: "Guns & Gears (Remastered)"
 ---
 

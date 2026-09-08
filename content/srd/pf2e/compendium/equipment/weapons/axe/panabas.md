@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/two-hand
 - weapon/level/0
 aliases: ["Panabas"]
-aon_id: "weapon-299"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=299"
 source: "Treasure Vault (Remastered)"
 ---
 

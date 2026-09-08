@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Dwarf Stonecaster"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Dwarf Stonecaster"
 level: 4
 source: "Monster Core"
-aon_id: "creature-2966"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=2966"
 ---
 

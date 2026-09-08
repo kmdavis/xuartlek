@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/negative
 - spell/level/1
 aliases: ["Harm"]
-aon_id: "spell-1552"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1552"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Manipulate`  `Void`  `Negative`
 
 - **Tradition**: Divine
-- **Bloodline**: Undead
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Undead|Undead]]
 - **Range**: varies
 - **Target**: 1 living creature or 1 willing undead creature
 

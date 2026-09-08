@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/scrying
 - equipment/level/14
 aliases: ["Tattletale Orb"]
-aon_id: "equipment-2390"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2390"
 source: "Treasure Vault (Remastered)"
 ---
 

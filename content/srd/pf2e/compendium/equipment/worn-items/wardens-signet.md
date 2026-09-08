@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - equipment/level/11
 aliases: ["Warden's Signet"]
-aon_id: "equipment-2330"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2330"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -16,7 +15,7 @@ source: "Treasure Vault (Remastered)"
 
 `Focused`  `Invested`  `Magical`
 
-- **Price**: 1,250 gp
+- **Price**: 1, 250 gp
 - **Usage**: worn
 - **Bulk**: L
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/player-core-2
@@ -8,7 +7,7 @@ tags:
 - trait/talisman
 - equipment/level/12
 aliases: ["Iron Equalizer"]
-aon_id: "equipment-3410"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3410"
 source: "Player Core 2"
 ---
 

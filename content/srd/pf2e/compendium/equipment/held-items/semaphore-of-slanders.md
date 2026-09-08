@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
 - trait/magical
 - equipment/level/11
 aliases: ["Semaphore of Slanders"]
-aon_id: "equipment-3945"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3945"
 source: "Battlecry!"
 ---
 
@@ -14,7 +13,7 @@ source: "Battlecry!"
 
 `Magical`
 
-- **Price**: 1,250 gp
+- **Price**: 1, 250 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
 

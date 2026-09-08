@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/investigator
 - feat/level/12
 aliases: ["Empiricist's Eye"]
-aon_id: "feat-5961"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5961"
 source: "Player Core 2"
 ---
 
@@ -14,7 +13,7 @@ source: "Player Core 2"
 
 `Investigator`
 
-- **Prerequisites**: empiricism methodology
+- **Prerequisites**: [[srd/pf2e/compendium/character/methodologies#Alchemical Sciences|empiricism]] methodology
 
 Sharp and piercing, your eyes see all and convey more. Your [[srd/pf2e/compendium/rules-elements/actions/player-core#Point Out|Point Out]] actions lose the [[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]] trait, and you don't need to be heard to convey the information to your allies. In addition, a creature you Point Out is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to your allies until the start of your next turn.
 

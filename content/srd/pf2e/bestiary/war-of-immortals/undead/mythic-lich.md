@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Mythic Lich"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Mythic Lich"
 level: 12
 source: "War of Immortals"
-aon_id: "creature-3402"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3402"
 ---
 
@@ -40,7 +38,7 @@ skills:
 abilityMods: [0, 4, 0, 6, 4, 3]
 abilities_top:
   - name: "Items"
-    desc: "_[[srd/pf2e/compendium/equipment/consumables/invisibility-potion|invisibility potion]]_, _[[srd/pf2e/compendium/spells/rank-6/teleport|_scroll of teleport_]]_, _[[srd/pf2e/compendium/equipment/staves/staff-of-fire-major|greater staff of fire]]_"
+    desc: "_[[srd/pf2e/compendium/equipment/consumables/invisibility-potion|invisibility potion]]_, _[[srd/pf2e/compendium/spells/rank-6/teleport|_scroll of teleport_]]_, _[[srd/pf2e/compendium/equipment/staves/staff-of-fire|greater staff of fire]]_"
 ac: 31
 armorclass:
   - name: "AC"

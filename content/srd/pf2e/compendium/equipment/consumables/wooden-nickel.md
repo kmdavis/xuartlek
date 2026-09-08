@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -10,7 +9,7 @@ tags:
 - trait/visual
 - equipment/level/9
 aliases: ["Wooden Nickel"]
-aon_id: "equipment-2115"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2115"
 source: "Treasure Vault (Remastered)"
 ---
 

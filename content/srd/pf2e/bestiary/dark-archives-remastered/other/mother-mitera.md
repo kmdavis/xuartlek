@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Mother Mitera"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Mother Mitera"
 level: 8
 source: "Dark Archives (Remastered)"
-aon_id: "creature-4648"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=4648"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -9,7 +8,7 @@ tags:
 - trait/tengu
 - feat/level/13
 aliases: ["Harbinger's Claw"]
-aon_id: "feat-5688"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5688"
 source: "Player Core 2"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/player-core-2
@@ -9,7 +8,7 @@ tags:
 - trait/trap
 - equipment/level/1
 aliases: ["Caltrop Snare"]
-aon_id: "equipment-3367"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3367"
 source: "Player Core 2"
 ---
 

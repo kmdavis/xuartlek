@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Evangelist"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Evangelist"
 level: 6
 source: "Monster Core 2"
-aon_id: "creature-4608"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4608"
 ---
 
@@ -46,7 +44,7 @@ armorclass:
 hp: 90
 health:
   - name: "HP"
-    desc: "90 , regeneration 10 (deactivated by [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] or [[srd/pf2e/compendium/equipment/materials/silver-object-high-grade|silver]]); __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]]; __Weaknesses__ holy 5, silver 5"
+    desc: "90 , regeneration 10 (deactivated by [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] or [[srd/pf2e/compendium/equipment/materials/silver|silver]]); __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]]; __Weaknesses__ holy 5, silver 5"
 abilities_mid:
   - name: "Unnerving Gaze"
     desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]]) 30 feet. When a creature ends its turn in the aura, it sees the face of a departed loved one in place of the evangelist's face. The creature must succeed at a DC 21 Will save or become [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 2 (frightened 3 on a critical failure)."

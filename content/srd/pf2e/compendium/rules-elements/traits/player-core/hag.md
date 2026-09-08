@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/hag
 aliases: ["Hag"]
-aon_id: "trait-620"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=620"
 source: "Player Core"
 ---
 

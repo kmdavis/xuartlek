@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Gug"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Gug"
 level: 10
 source: "Monster Core 2"
-aon_id: "creature-4431"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4431"
 ---
 
@@ -55,7 +53,7 @@ abilities_bot:
   - name: "Furious Claws"
     desc: "⬺ The gug makes up to four claw Strikes, each against a different target. These attacks all count toward the gug's multiple attack penalty, but the penalty doesn't increase until after the gug makes all its attacks."
   - name: "Rend"
-    desc: "⬻ claw Eldritch Gods Gugs don't traditionally make religion and faith a key part of their society, but gug cities always feature prominent temples to obscure gods whose faith has passed from view on most mortal worlds. Most gugs certainly know of entities such as Azathoth, Nyarlathotep, and Yog-Sothoth, but even among gugs, these Outer Gods are more feared and respected than prayed to."
+    desc: "⬻ claw Eldritch Gods Gugs don't traditionally make religion and faith a key part of their society, but gug cities always feature prominent temples to obscure gods whose faith has passed from view on most mortal worlds. Most gugs certainly know of entities such as [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/azathoth|Azathoth]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-the-crawling-chaos|Nyarlathotep]], and [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/yog-sothoth|Yog-Sothoth]], but even among gugs, these Outer Gods are more feared and respected than prayed to."
 sourcebook: "_Monster Core 2_, page 184."
 ```
 

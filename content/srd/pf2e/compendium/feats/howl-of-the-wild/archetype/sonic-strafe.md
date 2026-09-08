@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -8,7 +7,7 @@ tags:
 - trait/sonic
 - feat/level/16
 aliases: ["Sonic Strafe"]
-aon_id: "feat-5541"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5541"
 source: "Howl of the Wild"
 ---
 

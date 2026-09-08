@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - feat/level/2
 aliases: ["Aldori Duelist Dedication"]
-aon_id: "feat-7899"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7899"
 source: "Battlecry!"
 ---
 
@@ -22,7 +21,7 @@ source: "Battlecry!"
 
 Your Aldori duelist training teaches you martial techniques and increases your dedication to the Aldori dueling sword. You become trained in your choice of [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] or [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]; if you were already trained in that skill, you become an expert instead. You gain the [[srd/pf2e/compendium/feats/player-core/skill/additional-lore|Additional Lore]] feat for Dueling Lore; if you were already trained in Dueling Lore, you also become trained in a Lore skill of your choice. 
 
-You have familiarity with [[srd/pf2e/compendium/equipment/weapons/sword/aldori-dueling-sword-weapon-535|Aldori dueling swords]], treating them as martial weapons for the purposes of proficiency. You gain access to Aldori dueling swords.
+You have familiarity with [[srd/pf2e/compendium/equipment/weapons/sword/aldori-dueling-sword|Aldori dueling swords]], treating them as martial weapons for the purposes of proficiency. You gain access to Aldori dueling swords.
 
 ### Aldori Duelist Dedication leads to...
 

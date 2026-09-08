@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
 - trait/archetype
 - feat/level/8
 aliases: ["Shielding Formation"]
-aon_id: "feat-7982"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7982"
 source: "Battlecry!"
 ---
 

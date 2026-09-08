@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Aapoph Granitescale"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Aapoph Granitescale"
 level: 6
 source: "Monster Core"
-aon_id: "creature-3184"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3184"
 ---
 

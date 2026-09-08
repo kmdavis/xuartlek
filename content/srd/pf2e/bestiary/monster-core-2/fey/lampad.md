@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Lampad"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Lampad"
 level: 5
 source: "Monster Core 2"
-aon_id: "creature-4490"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4490"
 ---
 
@@ -43,7 +41,7 @@ armorclass:
 hp: 85
 health:
   - name: "HP"
-    desc: "85; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 5"
+    desc: "85; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 5"
 abilities_mid:
   - name: "Cavern Dependent"
     desc: "A lampad is mystically bonded to a single cavern or other self-contained underground area and must remain within 300 feet of it. If they move beyond that range, they become [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1 and are unable to recover. They must attempt a DC 19 Fortitude save every hour or increase their sickened value by 1 (to a maximum of sickened 4). After 24 hours, they become [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] 1, with this value increasing by 1 every additional 24 hours. A lampad can perform a 24- hour ritual to bond to a new cavern."

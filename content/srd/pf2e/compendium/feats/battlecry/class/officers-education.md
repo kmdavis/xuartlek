@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
 - trait/commander
 - feat/level/8
 aliases: ["Officer's Education"]
-aon_id: "feat-7812"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7812"
 source: "Battlecry!"
 ---
 

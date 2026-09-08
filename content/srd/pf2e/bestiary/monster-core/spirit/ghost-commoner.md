@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Ghost Commoner"
 tags:
@@ -14,7 +13,6 @@ statblock: inline
 name: "Ghost Commoner"
 level: 4
 source: "Monster Core"
-aon_id: "creature-3007"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3007"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Young Resurrection Dragon"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Young Resurrection Dragon"
 level: 8
 source: "Monster Core 2"
-aon_id: "creature-4360"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4360"
 ---
 

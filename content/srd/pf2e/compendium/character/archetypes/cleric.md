@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-archetype
 tags:
 - compendium/src/pf2e/player-core
 - archetype/level/2
 aliases: ["Cleric"]
-aon_id: "archetype-212"
+aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=212"
 source: "Player Core"
 ---
 

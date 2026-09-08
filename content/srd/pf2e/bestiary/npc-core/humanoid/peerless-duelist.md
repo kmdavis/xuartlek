@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Peerless Duelist"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Peerless Duelist"
 level: 12
 source: "NPC Core"
-aon_id: "creature-3512"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3512"
 ---
 
@@ -38,7 +36,7 @@ abilities_top:
   - name: "I See You"
     desc: "The peerless duelist's Perception checks and firearm Strikes ignore lesser cover and the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition."
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/worn-items/obsidian-goggles-major|_obsidian goggles_]], _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/firearm/dueling-pistol-weapon-520|dueling pistol]]_ ( 2, 40 rounds)"
+    desc: "[[srd/pf2e/compendium/equipment/worn-items/obsidian-goggles|_obsidian goggles_]], _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/firearm/dueling-pistol|dueling pistol]]_ ( 2, 40 rounds)"
 ac: 33
 armorclass:
   - name: "AC"

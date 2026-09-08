@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class
 tags:
 - compendium/src/pf2e/player-core-2
 aliases: ["Oracle"]
-aon_id: "class-61"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=61"
 source: "Player Core 2"
 ---
 
@@ -152,7 +151,7 @@ An oracle wields divine power, but not from a single divine being. This power co
 
  Choose the mystery that empowers your magic. Your mystery grants you additional spells, and special focus spells called revelation spells. Your mystery also gives you a unique cursebound ability that lets you draw upon the divine, as well as dictating the effects of the oracular curse that falls upon you when you touch too much of this power.
 
-The list of oracle mysteries can be found here 
+The list of oracle mysteries can be found [[srd/pf2e/compendium/character/mysteries|here]] 
 
 #### Revelation Spells
 

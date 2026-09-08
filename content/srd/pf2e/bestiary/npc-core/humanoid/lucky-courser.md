@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Lucky Courser"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Lucky Courser"
 level: 8
 source: "NPC Core"
-aon_id: "creature-3625"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3625"
 ---
 
@@ -42,7 +40,7 @@ abilities_top:
   - name: "Effect"
     desc: "Their expressive ears twitch in alarm, granting allies within 10 feet a +2 circumstance bonus to initiative rolls."
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/crossbow/arbalest|arbalest]]_ (20 cold iron bolts, 20 dawnsilver bolts), +1 whip, Leather Armor"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/crossbow/arbalest|arbalest]]_ (20 cold iron bolts, 20 dawnsilver bolts), +1 whip, Leather Armor"
 ac: 27
 armorclass:
   - name: "AC"

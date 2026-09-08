@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - equipment/level/6
 aliases: ["Horselord's Longbow"]
-aon_id: "equipment-3848"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3848"
 source: "Battlecry!"
 ---
 
@@ -20,6 +19,6 @@ source: "Battlecry!"
 - **Bulk**: 2
 - **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/bow/longbow|Longbow]]
 
-These _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/bow/longbow|longbows]]_, usually decorated with intricate animal carvings and hawk feathers, are a favored weapon among the mounted warriors of the Shriikirri-Quah clan in north-central Varisia, although Shoanti travel widely enough that they find frequent use by cavalries of other nations and cultures as well. While you are mounted, Strikes with this bow gain a +2 circumstance bonus to damage against unmounted creatures who are smaller than your mount.
+These _[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/bow/longbow|longbows]]_, usually decorated with intricate animal carvings and hawk feathers, are a favored weapon among the mounted warriors of the Shriikirri-Quah clan in north-central Varisia, although Shoanti travel widely enough that they find frequent use by cavalries of other nations and cultures as well. While you are mounted, Strikes with this bow gain a +2 circumstance bonus to damage against unmounted creatures who are smaller than your mount.
 
 *Source: Battlecry! p. 128*

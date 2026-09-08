@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Aesra"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Aesra"
 level: 7
 source: "Monster Core"
-aon_id: "creature-2834"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2834"
 ---
 

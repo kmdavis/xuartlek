@@ -479,7 +479,6 @@ def render_page(entry: Entry, body: str, source: str | None, contents: list[str]
         "tags:",
         f"  - srd/pf2e/{slugify(entry.book)}",
         f"source: {yaml_escape(entry.book)}",
-        f"aon_id: {entry.aon_id}",
         f"aon_url: {yaml_escape(f'{BASE}/Rules.aspx?ID={entry.aon_id}')}",
     ]
     if source:

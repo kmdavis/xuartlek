@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Vault Keeper"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Vault Keeper"
 level: 14
 source: "Rage of Elements"
-aon_id: "creature-2629"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2629"
 ---
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/swashbuckler
 - feat/level/4
 aliases: ["Swaggering Initiative"]
-aon_id: "feat-6150"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6150"
 source: "Player Core 2"
 ---
 

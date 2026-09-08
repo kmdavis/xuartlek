@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Xiuh Coatl"
 tags:
@@ -14,7 +13,6 @@ statblock: inline
 name: "Xiuh Coatl"
 level: 12
 source: "Monster Core 2"
-aon_id: "creature-4299"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4299"
 ---
 
@@ -59,7 +57,7 @@ abilities_bot:
   - name: "Greater Constrict"
     desc: "⬻ 1d10+10 bludgeoning plus 1d8 electricity, DC 32"
   - name: "Instrument of Retribution"
-    desc: "⬽ ([[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]], [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorph]]) The xiuh coatl transforms into any simple or martial weapon. The weapon is always a _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+2 greater striking]] [[srd/pf2e/compendium/equipment/runes/flaming-greater|flaming]] [[srd/pf2e/compendium/equipment/runes/shock-greater|shock]] weapon_ and can be of any size, chosen by the xiuh coatl when they transform. In weapon form, the xiuh coatl gains [[srd/pf2e/books/player-core/chapter-6-equipment/shields#Hardness|Hardness]] equal to that of the weapon into which they transform, and they retain their Hit Points, saving throws, senses, telepathy, and traits while in weapon form. The xiuh coatl can [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|Sustain]] to revert to their normal form."
+    desc: "⬽ ([[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]], [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorph]]) The xiuh coatl transforms into any simple or martial weapon. The weapon is always a _[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+2 greater striking]] [[srd/pf2e/compendium/equipment/runes/flaming|flaming]] [[srd/pf2e/compendium/equipment/runes/shock|shock]] weapon_ and can be of any size, chosen by the xiuh coatl when they transform. In weapon form, the xiuh coatl gains [[srd/pf2e/books/player-core/chapter-6-equipment/shields#Hardness|Hardness]] equal to that of the weapon into which they transform, and they retain their Hit Points, saving throws, senses, telepathy, and traits while in weapon form. The xiuh coatl can [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|Sustain]] to revert to their normal form."
   - name: "Volcanic Lightning Breath"
     desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/fire|Fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]) The xiuh coatl breathes a gout of flame and lightning in an 80-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Line|line]] that deals 5d8 electricity damage and 5d8 fire damage (DC 32 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). The xiuh coatl can't use Volcanic Lightning Breath again for 1d4 rounds."
   - name: "Wrap in Coils"

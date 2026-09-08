@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -10,7 +9,7 @@ tags:
 - trait/unique
 - equipment/level/25
 aliases: ["World Forge"]
-aon_id: "equipment-3511"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3511"
 source: "War of Immortals"
 ---
 
@@ -29,6 +28,6 @@ The cost of using _Worldforge_, however, is prohibitive for mere mortals. In add
 
 If the value of your drained condition reaches 4, you must attempt a DC 46 Fortitude save or [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Death|die]]. If you fail this save or if you abandon the activity, what remains of your project shatters irrecoverably into a multitude of useless fragments.
 
-**Destruction** _Worldforge_ can’t be destroyed as long as Torag maintains his divinity.
+**Destruction** _Worldforge_ can’t be destroyed as long as [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/torag|Torag]] maintains his divinity.
 
 *Source: War of Immortals p. 152*

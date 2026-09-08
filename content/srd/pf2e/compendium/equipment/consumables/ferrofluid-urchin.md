@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -9,7 +8,7 @@ tags:
 - trait/talisman
 - equipment/level/7
 aliases: ["Ferrofluid Urchin"]
-aon_id: "equipment-2613"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2613"
 source: "Rage of Elements"
 ---
 

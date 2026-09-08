@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/negative
 - spell/level/9
 aliases: ["Massacre"]
-aon_id: "spell-1596"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1596"
 source: "Player Core"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core"
 `Concentrate`  `Death`  `Manipulate`  `Void`  `Negative`
 
 - **Traditions**: Arcane, Divine, Primal
-- **Bloodline**: Aesir
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Aesir|Aesir]]
 - **Area**: 60-foot line
 - **Defense**: Fortitude
 

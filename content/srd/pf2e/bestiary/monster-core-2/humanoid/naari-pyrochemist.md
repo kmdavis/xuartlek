@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Naari Pyrochemist"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Naari Pyrochemist"
 level: 1
 source: "Monster Core 2"
-aon_id: "creature-4507"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4507"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [0, 3, 2, 3, 0, 1]
 abilities_top:
   - name: "Alchemical Items"
-    desc: "A naari pyrochemist carries 5 [[srd/pf2e/compendium/equipment/alchemical-items/alchemists-fire-major|lesser alchemist's fires]], 2 [[srd/pf2e/compendium/equipment/alchemical-items/elixir-of-life-true|minor elixirs of life]] (GM Core 247), and a [[srd/pf2e/compendium/equipment/alchemical-items/smoke-ball-greater|lesser smoke ball]]. The pyrochemist replenishes these each day using alchemical reagents during their daily preparations."
+    desc: "A naari pyrochemist carries 5 [[srd/pf2e/compendium/equipment/alchemical-items/alchemists-fire|lesser alchemist's fires]], 2 [[srd/pf2e/compendium/equipment/alchemical-items/elixir-of-life|minor elixirs of life]] (GM Core 247), and a [[srd/pf2e/compendium/equipment/alchemical-items/smoke-ball|lesser smoke ball]]. The pyrochemist replenishes these each day using alchemical reagents during their daily preparations."
   - name: "Items"
     desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/alchemists-toolkit|Alchemist's Toolkit]], Dagger, Flint and Steel, formula book, studded leather"
 ac: 16

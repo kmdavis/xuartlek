@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/player-core-2
@@ -11,7 +10,7 @@ tags:
 - trait/negative
 - equipment/level/10
 aliases: ["Nethershade"]
-aon_id: "equipment-3342"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3342"
 source: "Player Core 2"
 ---
 

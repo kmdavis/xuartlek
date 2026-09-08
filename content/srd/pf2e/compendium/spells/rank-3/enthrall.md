@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/manipulate
 - spell/level/3
 aliases: ["Enthrall"]
-aon_id: "spell-1516"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1516"
 source: "Player Core"
 ---
 
@@ -18,8 +17,8 @@ source: "Player Core"
 `Auditory`  `Concentrate`  `Emotion`  `Manipulate`
 
 - **Traditions**: Arcane, Occult
-- **Bloodlines**: Diabolic, Fey
-- **Deities**: Ardad Lili, Belial, Bes, Calistria, Deshto, Eritrice, Grask Uldeth, Lady Jingxi, Laivatiniel, Likha, Lissala, Milani, Nyarlathotep (The Crawling Chaos), Nyarlathotep (The Faceless Sphinx), Ozranvial, Sarshallatu, Shelyn, The Anointing of Kings, Thisamet, Tlehar
+- **Bloodlines**: [[srd/pf2e/compendium/character/bloodlines#Diabolic|Diabolic]], [[srd/pf2e/compendium/character/bloodlines#Fey|Fey]]
+- **Deities**: [[srd/pf2e/compendium/deities/queens-of-the-night/ardad-lili|Ardad Lili]], [[srd/pf2e/compendium/deities/archdevils/belial|Belial]], Bes, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/calistria|Calistria]], Deshto, [[srd/pf2e/compendium/deities/empyreal-lords/eritrice|Eritrice]], [[srd/pf2e/compendium/deities/orc-gods/grask-uldeth|Grask Uldeth]], Lady Jingxi, [[srd/pf2e/compendium/deities/daemon-harbingers/laivatiniel|Laivatiniel]], [[srd/pf2e/compendium/deities/vudrani-gods/likha|Likha]], [[srd/pf2e/compendium/deities/azlanti-pantheon/lissala-deity-565|Lissala]], [[srd/pf2e/compendium/deities/other-gods/milani|Milani]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-the-crawling-chaos|Nyarlathotep (The Crawling Chaos)]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-the-faceless-sphinx|Nyarlathotep (The Faceless Sphinx)]], [[srd/pf2e/compendium/deities/sakhil-tormentors/ozranvial|Ozranvial]], Sarshallatu, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/shelyn|Shelyn]], The Anointing of Kings, Thisamet, Tlehar
 - **Range**: 120 feet
 - **Target**: all creatures in range
 - **Defense**: Will

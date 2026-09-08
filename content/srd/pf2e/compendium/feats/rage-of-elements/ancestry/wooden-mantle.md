@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/rage-of-elements
 - trait/ardande
 - feat/level/13
 aliases: ["Wooden Mantle"]
-aon_id: "feat-4322"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4322"
 source: "Rage of Elements"
 ---
 

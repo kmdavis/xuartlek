@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Skeleton Mob"
 tags:
@@ -14,7 +13,6 @@ statblock: inline
 name: "Skeleton Mob"
 level: 6
 source: "Battlecry!"
-aon_id: "creature-3938"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3938"
 ---
 

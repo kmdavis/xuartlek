@@ -382,7 +382,6 @@ def convert(c: dict) -> tuple[str, dict]:
     tag_traits = "\n".join(f"  - pf2e/creature/trait/{slugify(t)}" for t in traits)
     fm = [
         "---",
-        "obsidianUIMode: preview",
         "noteType: pf2eMonster",
         f"aliases: {y(name)}",
         "tags:",
@@ -397,8 +396,7 @@ def convert(c: dict) -> tuple[str, dict]:
         f"source: {y(primary)}",
         *([f"other_sources: {y('; '.join(s for s in sources if s != primary))}"]
           if len(sources) > 1 else []),
-        f"aon_id: {y(c.get('id',''))}",
-        f"aon_url: {y('https://2e.aonprd.com' + c.get('url','')) if c.get('url') else y('')}",
+        f"aon_url: {y('https://2e.aonprd.com' + c['url']) if c.get('url') else y('')}",
         "---",
         "",
     ]

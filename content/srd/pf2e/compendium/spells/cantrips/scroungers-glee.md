@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -13,7 +12,7 @@ tags:
 - trait/witch
 - spell/level/1
 aliases: ["Scrounger's Glee"]
-aon_id: "spell-1938"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1938"
 source: "Howl of the Wild"
 ---
 
@@ -21,7 +20,7 @@ source: "Howl of the Wild"
 
 `Auditory`  `Cantrip`  `Concentrate`  `Fear`  `Hex`  `Mental`  `Uncommon`  `Witch`
 
-- **Patron Theme**: Devourer of Decay
+- **Patron Theme**: [[srd/pf2e/compendium/character/patrons#Devourer of Decay|Devourer of Decay]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will

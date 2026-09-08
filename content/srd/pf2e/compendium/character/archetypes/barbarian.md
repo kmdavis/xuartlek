@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-archetype
 tags:
 - compendium/src/pf2e/player-core-2
 - archetype/level/2
 aliases: ["Barbarian"]
-aon_id: "archetype-229"
+aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=229"
 source: "Player Core 2"
 ---
 

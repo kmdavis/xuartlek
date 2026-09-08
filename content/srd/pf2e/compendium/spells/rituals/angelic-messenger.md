@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/monster-core
 - trait/uncommon
 - ritual/level/1
 aliases: ["Angelic Messenger"]
-aon_id: "ritual-141"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=141"
 source: "Monster Core"
 ---
 

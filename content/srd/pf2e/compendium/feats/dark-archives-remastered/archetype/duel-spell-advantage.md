@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 - trait/archetype
 - feat/level/6
 aliases: ["Duel Spell Advantage"]
-aon_id: "feat-8501"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8501"
 source: "Dark Archives (Remastered)"
 ---
 

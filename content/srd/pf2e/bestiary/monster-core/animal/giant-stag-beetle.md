@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Giant Stag Beetle"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Giant Stag Beetle"
 level: 4
 source: "Monster Core"
-aon_id: "creature-2853"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2853"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/monk
 - feat/level/6
 aliases: ["Whirling Throw"]
-aon_id: "feat-6008"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6008"
 source: "Player Core 2"
 ---
 
@@ -15,7 +14,7 @@ source: "Player Core 2"
 
 `Attack`  `Monk`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/wrestler|Wrestler]] (Level 8), [[srd/pf2e/compendium/character/archetypes/wrestler|Wrestler]] (Level 8)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/wrestler|Wrestler]] (Level 8)
 - **Requirements**: You have a creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]].
 
 You propel your enemy away. Attempt an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check against the foe's Fortitude DC. You take a –2 circumstance penalty to your check if the target is one size larger than you and a –4 circumstance penalty if it's larger than that. You gain a +2 circumstance bonus to your check if the target is one size smaller than you and a +4 circumstance bonus if it's smaller than that.

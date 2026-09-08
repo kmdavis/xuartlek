@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/npc-core
@@ -10,7 +9,7 @@ tags:
 - trait/unholy
 - equipment/level/11
 aliases: ["Malefic Mirror"]
-aon_id: "equipment-3590"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3590"
 source: "NPC Core"
 ---
 

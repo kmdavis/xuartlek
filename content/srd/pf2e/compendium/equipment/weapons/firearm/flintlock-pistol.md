@@ -1,15 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
-- compendium/src/pf2e/guns-gears-remastered
+- compendium/src/pf2e/npc-core
 - trait/concussive
 - trait/fatal
 - trait/uncommon
 - weapon/level/0
 aliases: ["Flintlock Pistol"]
-aon_id: "weapon-192"
-source: "Guns & Gears (Remastered)"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=522"
+source: "NPC Core"
 ---
 
 # Flintlock Pistol  *Weapon 0*
@@ -17,7 +16,6 @@ source: "Guns & Gears (Remastered)"
 `Concussive`  `Fatal`  `Uncommon`
 
 - **PFS Note**: All Pathfinder Society agents have access to all uncommon weapons, ammunition, and related items from Chapter 4
-- **Access**: The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 - **Price**: 4 gp
 - **Damage**: 1d4 P
 - **Bulk**: 1
@@ -29,7 +27,7 @@ source: "Guns & Gears (Remastered)"
 - **Group**: Firearm
 - **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/firearm/firearm-ammunition-10-rounds|Firearm Ammunition (10 rounds)]]
 
-Though less accurate and powerful than a [[srd/pf2e/compendium/equipment/weapons/firearm/flintlock-musket|flintlock musket]], the flintlock pistol is a preferred weapon of privateers thanks to its more compact size and affordability. Pirate captains often wear a brace of such pistols in a bandolier so they can draw and fire without stopping to reload.
+Though less accurate and powerful than a flintlock musket, the flintlock pistol is a preferred weapon of privateers thanks to its more compact size and affordability.
 
 ### Critical Specialization Effects
 
@@ -37,6 +35,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/mountebanks-passage|Mountebank's Passage]], [[srd/pf2e/compendium/equipment/weapons/pistol-of-wonder|Pistol of Wonder]]
+Duchy Defender, Mountebank's Passage, Pistol of Wonder, [[srd/pf2e/compendium/equipment/wands/pistol-wand|Pistol Wand]]
 
-*Source: Guns & Gears (Remastered) p. 153*
+*Source: NPC Core p. 50*

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/7
 aliases: ["Summon Stampede"]
-aon_id: "spell-1960"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1960"
 source: "Howl of the Wild"
 ---
 

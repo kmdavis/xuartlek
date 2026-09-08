@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -12,7 +11,7 @@ tags:
 - trait/mental
 - spell/level/8
 aliases: ["Canticle of Everlasting Grief"]
-aon_id: "spell-1459"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1459"
 source: "Player Core"
 ---
 
@@ -21,7 +20,7 @@ source: "Player Core"
 `Auditory`  `Concentrate`  `Curse`  `Emotion`  `Fear`  `Manipulate`  `Mental`
 
 - **Traditions**: Divine, Occult
-- **Bloodlines**: Demonic, Undead
+- **Bloodlines**: [[srd/pf2e/compendium/character/bloodlines#Demonic|Demonic]], [[srd/pf2e/compendium/character/bloodlines#Undead|Undead]]
 - **Deity**: Otilaz
 - **Range**: 120 feet
 - **Target**: 1 creature

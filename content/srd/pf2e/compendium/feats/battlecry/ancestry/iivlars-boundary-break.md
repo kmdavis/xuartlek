@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
 - trait/jotunborn
 - feat/level/13
 aliases: ["Iivlar's Boundary Break"]
-aon_id: "feat-7785"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7785"
 source: "Battlecry!"
 ---
 

@@ -7,7 +7,6 @@ cssclasses:
 tags:
   - srd/pf2e/gm-core
 source: "GM Core"
-aon_id: 3157
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3157"
 citation: "GM Core pg. 223"
 ---
@@ -40,8 +39,8 @@ Etching a rune largely follows the same process as Crafting items, though runes 
 
 Some items with multiple type entries get special treatment when it comes to formulas and upgrades. The existing knowledge you have about the item means you don't need to start from scratch with these items.
 
-If you have the formula for an item, you don't need a different formula to [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]] a different type of that item that's just a higher-level upgrade. For example, if you have the formula for a *[[srd/pf2e/compendium/equipment/runes/weapon-potency-3|+1 weapon potency rune]]*, you don't need to secure a new formula to etch a *+2 weapon potency rune*. This works similarly with items such as a spacious pouch with its multiple types or [[srd/pf2e/compendium/equipment/worn-items/doubling-rings-greater|doubling rings]] with a base version and greater version.
+If you have the formula for an item, you don't need a different formula to [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]] a different type of that item that's just a higher-level upgrade. For example, if you have the formula for a *[[srd/pf2e/compendium/equipment/runes/weapon-potency|+1 weapon potency rune]]*, you don't need to secure a new formula to etch a *+2 weapon potency rune*. This works similarly with items such as a spacious pouch with its multiple types or [[srd/pf2e/compendium/equipment/worn-items/doubling-rings|doubling rings]] with a base version and greater version.
 
-You can also upgrade an item or rune to a stronger version. This essentially means you Craft a permanent item from a lower-level version of the same item. For example, you might upgrade *+1 weapon potency rune* to a *+2 weapon potency rune* or upgrade a *[[srd/pf2e/compendium/equipment/held-items/spacious-pouch-type-iv|spacious pouch type I]]* to a *spacious pouch type II*. The cost for this upgrade is the full difference in Price between the items, and the Crafting check uses a DC for the item's new level. You don't have to upgrade step by step either! You could upgrade a *spacious pouch type I* directly to type III or type IV.
+You can also upgrade an item or rune to a stronger version. This essentially means you Craft a permanent item from a lower-level version of the same item. For example, you might upgrade *+1 weapon potency rune* to a *+2 weapon potency rune* or upgrade a *[[srd/pf2e/compendium/equipment/held-items/spacious-pouch|spacious pouch type I]]* to a *spacious pouch type II*. The cost for this upgrade is the full difference in Price between the items, and the Crafting check uses a DC for the item's new level. You don't have to upgrade step by step either! You could upgrade a *spacious pouch type I* directly to type III or type IV.
 
 If the different types in an item entry are wildly different, such as with *aeon stones or marvelous miniatures*, you need separate formulas and can't directly upgrade the items. If a type of the item has a higher rarity, that type requires its own formula. The GM will make the determination if it's unclear and might bypass these rules in special circumstances or if it suits the theme of their game.

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -7,7 +6,7 @@ tags:
 - trait/kineticist
 - feat/level/6
 aliases: ["Two-Element Infusion"]
-aon_id: "feat-4193"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4193"
 source: "Rage of Elements"
 ---
 

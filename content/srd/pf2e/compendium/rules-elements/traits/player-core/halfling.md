@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/halfling
 aliases: ["Halfling"]
-aon_id: "trait-621"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=621"
 source: "Player Core"
 ---
 

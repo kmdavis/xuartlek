@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
 - weapon/level/0
 aliases: ["8-Round Magazine"]
-aon_id: "weapon-349"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=349"
 source: "Treasure Vault (Remastered)"
 ---
 

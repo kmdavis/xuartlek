@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/trap
 - hazard/level/6
 aliases: ["False Step Floor"]
-aon_id: "hazard-634"
+aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=634"
 source: "Dark Archives (Remastered)"
 ---
 

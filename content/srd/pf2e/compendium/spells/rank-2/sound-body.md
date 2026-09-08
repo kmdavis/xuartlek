@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/positive
 - spell/level/2
 aliases: ["Sound Body"]
-aon_id: "spell-1679"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1679"
 source: "Player Core"
 ---
 

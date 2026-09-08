@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -10,7 +9,7 @@ tags:
 - trait/wood
 - equipment/level/7
 aliases: ["Blooming Lotus Seed Pod"]
-aon_id: "equipment-2637"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2637"
 source: "Rage of Elements"
 ---
 

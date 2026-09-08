@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Jailer"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Jailer"
 level: 3
 source: "NPC Core"
-aon_id: "creature-3555"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3555"
 ---
 
@@ -62,7 +60,7 @@ abilities_bot:
   - name: "Efficient Capture"
     desc: "⬽ ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|Attack]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]])"
   - name: "Requirements"
-    desc: "The jailer has [[srd/pf2e/compendium/equipment/adventuring-gear/manacles-superior|manacles]] in hand and is adjacent to a creature"
+    desc: "The jailer has [[srd/pf2e/compendium/equipment/adventuring-gear/manacles|manacles]] in hand and is adjacent to a creature"
   - name: "Effect"
     desc: "The jailer attempts to bind the creature's wrists or ankles with the manacles. If the jailer succeeds at an attack roll with a +9 modifier against the target's AC, they apply the manacles."
   - name: "Intimidating Strike"

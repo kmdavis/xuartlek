@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -7,7 +6,7 @@ tags:
 - trait/magical
 - equipment/level/10
 aliases: ["Tideplate"]
-aon_id: "equipment-2810"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2810"
 source: "GM Core"
 ---
 
@@ -15,7 +14,7 @@ source: "GM Core"
 
 `Invested`  `Magical`
 
-- **Price**: 1,000 gp
+- **Price**: 1, 000 gp
 - **Usage**: worn armor
 - **Bulk**: 4
 - **Base Armor**: [[srd/pf2e/compendium/equipment/armor#Full Plate|Full Plate]]

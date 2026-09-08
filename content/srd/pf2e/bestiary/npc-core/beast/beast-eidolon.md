@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Beast Eidolon"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Beast Eidolon"
 level: 10
 source: "NPC Core"
-aon_id: "creature-3679"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3679"
 ---
 

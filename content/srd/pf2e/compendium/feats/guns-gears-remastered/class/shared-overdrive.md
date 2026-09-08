@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/inventor
 - feat/level/12
 aliases: ["Shared Overdrive"]
-aon_id: "feat-3077"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3077"
 source: "Guns & Gears (Remastered)"
 ---
 

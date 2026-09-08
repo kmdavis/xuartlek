@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class-feature
 tags:
 - compendium/src/pf2e/battlecry
 - class-feature/level/1
 aliases: ["Tactics"]
-aon_id: "class-feature-1089"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=66"
 source: "Battlecry!"
 ---
 
@@ -13,7 +12,7 @@ source: "Battlecry!"
 
 - **Class**: Commander
 
-By studying and practicing the strategic arts of war, you can guide your allies to victory. You begin play with a folio containing five tactics from the list. These are combat techniques and coordinated maneuvers you can instruct your allies in, enabling them to respond to your signals in combat. As you increase in level, you gain the ability to learn more potent tactics. When you gain the expert tactician class feature, you gain the ability to add expert tactics to your folio; when you gain the master tactician class feature, you can add master tactics to your folio; and when you gain the legendary tactician class feature, you can add legendary tactics to your folio.
+By studying and practicing the strategic arts of war, you can guide your allies to victory. You begin play with a folio containing five tactics from the [[srd/pf2e/compendium/character/tactics|list]]. These are combat techniques and coordinated maneuvers you can instruct your allies in, enabling them to respond to your signals in combat. As you increase in level, you gain the ability to learn more potent tactics. When you gain the expert tactician class feature, you gain the ability to add expert tactics to your folio; when you gain the master tactician class feature, you can add master tactics to your folio; and when you gain the legendary tactician class feature, you can add legendary tactics to your folio.
 
 #### Preparing and Changing Tactics
 

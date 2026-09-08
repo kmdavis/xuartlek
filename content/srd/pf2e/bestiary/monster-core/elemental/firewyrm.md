@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Firewyrm"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Firewyrm"
 level: 9
 source: "Monster Core"
-aon_id: "creature-2983"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2983"
 ---
 

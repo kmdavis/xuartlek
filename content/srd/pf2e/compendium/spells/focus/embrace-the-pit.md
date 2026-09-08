@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -10,7 +9,7 @@ tags:
 - trait/uncommon
 - spell/level/3
 aliases: ["Embrace the Pit"]
-aon_id: "spell-2100"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2100"
 source: "Player Core 2"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core 2"
 
 `Concentrate`  `Focus`  `Morph`  `Sorcerer`  `Uncommon`
 
-- **Bloodline**: Diabolic
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Diabolic|Diabolic]]
 - **Duration**: 1 minute
 
 Devil horns grow from your skull, and your skin takes on features of the devil responsible for your diabolic bloodline. You gain resistance 5 to fire and [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], and resistance 1 to physical damage (except silver).

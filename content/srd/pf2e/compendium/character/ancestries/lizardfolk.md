@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ancestry
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/lizardfolk
 - trait/uncommon
 aliases: ["Lizardfolk"]
-aon_id: "ancestry-81"
+aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=81"
 source: "Player Core 2"
 ---
 
@@ -36,7 +35,7 @@ Known among themselves as iruxis, lizardfolk are raised communally from the mome
 
 ### Alignment and Religion
 
-Most iruxis are unconcerned with heavy questions of morality and focus their efforts on a local level. Iruxi religion plays a large role in their culture, but in a heavily practical way, blending animism and ancestor worship with druidic rites. Of the gods, only Gozreh is commonly revered.
+Most iruxis are unconcerned with heavy questions of morality and focus their efforts on a local level. Iruxi religion plays a large role in their culture, but in a heavily practical way, blending animism and ancestor worship with druidic rites. Of the gods, only [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/gozreh|Gozreh]] is commonly revered.
 
  **Popular Edicts** keep memories of the past alive, wait for your prey, adapt your plans to fit the environment
  **Popular Anathema** defy the will of the stars

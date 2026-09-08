@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Living Whirlwind"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Living Whirlwind"
 level: 5
 source: "Monster Core"
-aon_id: "creature-2974"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2974"
 ---
 

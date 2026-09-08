@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Marrmora"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Marrmora"
 level: 15
 source: "Monster Core 2"
-aon_id: "creature-4472"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4472"
 ---
 
@@ -41,7 +39,7 @@ armorclass:
 hp: 280
 health:
   - name: "HP"
-    desc: "280; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]; __Resistances__ physical 10 (except slashing); __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 15"
+    desc: "280; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]; __Resistances__ physical 10 (except slashing); __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 15"
 abilities_mid:
   - name: "Fascination of Flame"
     desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]) 30 feet. A creature that enters or begins its turn in this aura's emanation must attempt a DC 33 Will save. Regardless of the result of the saving throw, the creature is temporarily immune for 1 minute."

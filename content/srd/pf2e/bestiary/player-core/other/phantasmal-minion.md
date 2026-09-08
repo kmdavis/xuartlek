@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Phantasmal Minion"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Phantasmal Minion"
 level: -1
 source: "Player Core"
-aon_id: "creature-2750"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2750"
 ---
 

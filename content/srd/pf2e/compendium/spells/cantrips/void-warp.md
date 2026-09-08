@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -10,7 +9,7 @@ tags:
 - trait/negative
 - spell/level/1
 aliases: ["Void Warp"]
-aon_id: "spell-1745"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1745"
 source: "Player Core"
 ---
 
@@ -19,8 +18,8 @@ source: "Player Core"
 `Cantrip`  `Concentrate`  `Manipulate`  `Void`  `Negative`
 
 - **Traditions**: Arcane, Divine, Occult
-- **Bloodline**: Undead
-- **Mystery**: Bones
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Undead|Undead]]
+- **Mystery**: [[srd/pf2e/compendium/character/mysteries#Bones|Bones]]
 - **Range**: 30 feet
 - **Target**: 1 living creature
 - **Defense**: basic Fortitude

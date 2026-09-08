@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -7,7 +6,7 @@ tags:
 - trait/rare
 - feat/level/16
 aliases: ["Gird Champion"]
-aon_id: "feat-7398"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7398"
 source: "War of Immortals"
 ---
 

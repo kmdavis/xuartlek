@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
 - trait/archetype
 - feat/level/4
 aliases: ["Siege Ritualist"]
-aon_id: "feat-7979"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7979"
 source: "Battlecry!"
 ---
 

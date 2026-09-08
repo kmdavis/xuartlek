@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Traveling Priest of Desna"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Traveling Priest of Desna"
 level: 9
 source: "NPC Core"
-aon_id: "creature-3448"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3448"
 ---
 
@@ -40,7 +38,7 @@ abilities_top:
   - name: "Traveler's Lesson"
     desc: "Creatures that engage in conversation with the traveling priest gain a +2 circumstance bonus to all [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]] checks and [[srd/pf2e/compendium/rules-elements/actions/player-core#Gather Information|Gather Information]] checks for 4 hours related to any topics discussed with the traveling priest."
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/worn-items/shining-symbol-major|_shining symbol_]], _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/knife/starknife|starknife]]_"
+    desc: "[[srd/pf2e/compendium/equipment/worn-items/shining-symbol|_shining symbol_]], _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/knife/starknife|starknife]]_"
 ac: 27
 armorclass:
   - name: "AC"

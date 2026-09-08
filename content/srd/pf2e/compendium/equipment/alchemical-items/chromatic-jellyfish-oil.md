@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/elixir
 - equipment/level/9
 aliases: ["Chromatic Jellyfish Oil"]
-aon_id: "equipment-1959"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1959"
 source: "Treasure Vault (Remastered)"
 ---
 

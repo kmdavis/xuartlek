@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -10,7 +9,7 @@ tags:
 - trait/uncommon
 - weapon/level/1
 aliases: ["Spoon Gun"]
-aon_id: "weapon-225"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=225"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -30,7 +29,7 @@ source: "Guns & Gears (Remastered)"
 - **Category**: Martial
 - **Group**: Firearm
 
-No one's entirely certain who developed the spoon gun, but all authorities agree that it was probably a goblin. Essentially a terrible idea in firearm form, the spoon gun is a spring-powered [[srd/pf2e/compendium/equipment/weapons/firearm/hand-cannon|hand cannon]] with a modified grip that uses miscellaneous knives, forks, chopsticks, and spoons as ammunition. Users typically upend the entire contents of their cutlery drawer into the gun, aim it in the general direction of the foe, and hope it hits something.
+No one's entirely certain who developed the spoon gun, but all authorities agree that it was probably a goblin. Essentially a terrible idea in firearm form, the spoon gun is a spring-powered hand cannon with a modified grip that uses miscellaneous knives, forks, chopsticks, and spoons as ammunition. Users typically upend the entire contents of their cutlery drawer into the gun, aim it in the general direction of the foe, and hope it hits something.
 
  This hand cannon is a martial weapon, instead of a simple weapon. It has the [[srd/pf2e/compendium/rules-elements/traits/guns-gears-remastered/scatter|scatter]] (5 feet) trait and uses cutlery or similar-sized objects as ammunition instead of bullets (enough cheap cutlery to fire ten shots costs 1 sp). 
 

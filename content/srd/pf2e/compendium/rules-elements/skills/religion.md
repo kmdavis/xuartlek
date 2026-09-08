@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-skill
 tags:
 - compendium/src/pf2e/player-core
 aliases: ["Religion"]
-aon_id: "skill-46"
+aon_url: "https://2e.aonprd.com/Skills.aspx?ID=46"
 source: "Player Core"
 ---
 
@@ -33,20 +32,20 @@ Category
 Consumable
 Note
 
-[[srd/pf2e/compendium/equipment/staves/staff-of-providence-true|Staff of Providence]]
+[[srd/pf2e/compendium/equipment/staves/staff-of-providence|Staff of Providence]]
 +1
 0
 Staves
 No
 Religion checks to Recall Knowledge.
 
-[[srd/pf2e/compendium/equipment/worn-items/shining-symbol-major|Shining Symbol]]
+[[srd/pf2e/compendium/equipment/worn-items/shining-symbol|Shining Symbol]]
 +1
 3
 Worn Items
 No
 
-[[srd/pf2e/compendium/equipment/worn-items/symbol-of-conflict-major|Symbol of Conflict]]
+[[srd/pf2e/compendium/equipment/worn-items/symbol-of-conflict|Symbol of Conflict]]
 +1
 4
 Worn Items
@@ -66,7 +65,7 @@ Other
 No
 Item Bonus
 
-[[srd/pf2e/compendium/equipment/worn-items/shining-symbol-major|Shining Symbol (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/shining-symbol|Shining Symbol (Greater)]]
 +2
 9
 Worn Items
@@ -79,19 +78,19 @@ Held Items
 No
 Item bonus to determine a fulu's function or authenticity.
 
-[[srd/pf2e/compendium/equipment/worn-items/symbol-of-conflict-major|Symbol of Conflict (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/symbol-of-conflict|Symbol of Conflict (Greater)]]
 +2
 10
 Worn Items
 No
 
-[[srd/pf2e/compendium/equipment/worn-items/prognostic-veil-greater|Prognostic Veil]]
+[[srd/pf2e/compendium/equipment/worn-items/prognostic-veil|Prognostic Veil]]
 +2
 10
 Worn Items
 No
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal]]
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal]]
 +2
 11
 Worn Items
@@ -111,19 +110,19 @@ Runic Skullcap
 Other Worn Items
 No
 
-[[srd/pf2e/compendium/equipment/worn-items/shining-symbol-major|Shining Symbol (Major)]]
+[[srd/pf2e/compendium/equipment/worn-items/shining-symbol|Shining Symbol (Major)]]
 +3
 17
 Worn Items
 No
 
-[[srd/pf2e/compendium/equipment/worn-items/symbol-of-conflict-major|Symbol of Conflict (Major)]]
+[[srd/pf2e/compendium/equipment/worn-items/symbol-of-conflict|Symbol of Conflict (Major)]]
 +3
 18
 Worn Items
 No
 
-[[srd/pf2e/compendium/equipment/worn-items/prognostic-veil-greater|Prognostic Veil (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/prognostic-veil|Prognostic Veil (Greater)]]
 +3
 18
 Worn Items
@@ -136,7 +135,7 @@ Other
 No
 Item Bonus
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal (Greater)]]
 +3
 18
 Worn Items

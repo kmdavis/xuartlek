@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/gm-core
 - trait/incorporeal
 aliases: ["Incorporeal"]
-aon_id: "trait-632"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=632"
 source: "GM Core"
 ---
 

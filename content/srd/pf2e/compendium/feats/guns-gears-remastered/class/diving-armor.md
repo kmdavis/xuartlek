@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/modification
 - feat/level/4
 aliases: ["Diving Armor"]
-aon_id: "feat-3056"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3056"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -15,7 +14,7 @@ source: "Guns & Gears (Remastered)"
 
 `Inventor`  `Modification`
 
-- **Prerequisites**: armor innovation
+- **Prerequisites**: [[srd/pf2e/compendium/character/innovations#Armor|armor innovation]]
 
 You've modified your armor with fins, rotors, and other devices to make it easy for you to move through the water, plus mechanical gills that can help you extract breathable air from water. While wearing your armor innovation, you can breathe underwater and gain a swim Speed equal to your land Speed.
 

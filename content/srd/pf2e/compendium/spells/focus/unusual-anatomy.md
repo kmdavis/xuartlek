@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -10,7 +9,7 @@ tags:
 - trait/uncommon
 - spell/level/5
 aliases: ["Unusual Anatomy"]
-aon_id: "spell-2092"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2092"
 source: "Player Core 2"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core 2"
 
 `Focus`  `Manipulate`  `Polymorph`  `Sorcerer`  `Uncommon`
 
-- **Bloodline**: Aberrant
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Aberrant|Aberrant]]
 - **Duration**: 1 minute
 
 You transform your flesh and organs into a bizarre amalgam of glistening skin, rough scales, tufts of hair, and tumorous protuberances. This has the following effects. 

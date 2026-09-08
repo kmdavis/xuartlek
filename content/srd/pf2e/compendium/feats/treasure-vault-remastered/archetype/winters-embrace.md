@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
 - trait/archetype
 - feat/level/10
 aliases: ["Winter's Embrace"]
-aon_id: "feat-4100"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4100"
 source: "Treasure Vault (Remastered)"
 ---
 

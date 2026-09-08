@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-archetype
 tags:
 - compendium/src/pf2e/impossible-magic
 - archetype/level/2
 aliases: ["Magus"]
-aon_id: "archetype-386"
+aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=386"
 source: "Impossible Magic"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - feat/level/8
 aliases: ["Pact of Infernal Prowess"]
-aon_id: "feat-8467"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8467"
 source: "Dark Archives (Remastered)"
 ---
 

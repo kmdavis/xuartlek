@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/magical
 - equipment/level/12
 aliases: ["Spectacles of Inquiry"]
-aon_id: "equipment-2316"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2316"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -15,7 +14,7 @@ source: "Treasure Vault (Remastered)"
 
 `Invested`  `Magical`
 
-- **Price**: 1,750 gp
+- **Price**: 1, 750 gp
 - **Usage**: worn eyepiece
 
 Anything viewed through these thin spectacles looks crisp and clear, and the earpieces accentuate sounds around you. You gain a +2 item bonus to Perception checks.

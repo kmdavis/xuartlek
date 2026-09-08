@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -8,7 +7,7 @@ tags:
 - trait/rare
 - feat/level/2
 aliases: ["Werecreature Dedication"]
-aon_id: "feat-5486"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5486"
 source: "Howl of the Wild"
 ---
 

@@ -1,214 +1,14 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-action
 tags:
 - compendium/src/pf2e/player-core-2
 aliases: ["Actions: Player Core 2"]
-entries: 64
+entries: 23
 ---
 
 # Actions: Player Core 2
 
-## 
-
-**Activate—Ethereal Shot** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ; **Requirements** Ethereal Vision is active; **Effect** You Strike with the _spiritsight crossbow_. This shot travels through the Ethereal Plane, allowing it to pass through and ignore cover from physical objects within the range of your Ethereal Vision.
-
-*Source: Player Core 2 p. 280*
-
-## 
-
-**Activate—Final Surge** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ; **Effect** You Stride twice. The drakeheart mutagen's duration ends.
-
-*Source: Player Core 2 p. 289*
-
-## (attack, concentrate, manipulate)
-
-**Activate—Spirit's Wrath** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per round; **Effect** The urn shoots a bolt of void energy at a foe within 30 feet. Attempt a spell attack roll against the target's AC, using a modifier of +15 or your own spell attack modifier, whichever is higher. On a success, the bolt deals 4d4 void damage (doubled on a critical success).
-
-*Source: Player Core 2 p. 307*
-
-## (concentrate)
-
-**Activate—Celestial Flight** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** The armor sprouts glowing wings that grant you a fly Speed of 30 feet. The wings shed bright light in a 40-foot radius (and dim light to the next 40 feet). The wings fade away after 10 minutes.
-
-*Source: Player Core 2 p. 278*
-
-## (concentrate)
-
-**Activate—Demonic Slip** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** You cast [[srd/pf2e/compendium/spells/rank-4/translocate|_translocate_]].
-
-*Source: Player Core 2 p. 279*
-
-## (concentrate)
-
-**Activate—Command Bravery** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** You grant allies within 100 feet a +2 status bonus to saves against fear effects for 1 minute. When you activate this ability, each affected ally who's [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] reduces their frightened value by 1.
-
-*Source: Player Core 2 p. 279*
-
-## (concentrate)
-
-**Activate—Dazzling Feint** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Trigger** You [[srd/pf2e/compendium/rules-elements/actions/player-core#Feint|Feint]]; **Requirements** You have the glamorous buckler raised; **Effect** As you Feint, the _glamorous buckler_ sparkles mightily. On a successful Feint, the target is [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] for 1 round.
-
-*Source: Player Core 2 p. 279*
-
-## (concentrate)
-
-**Activate—Ethereal Vision** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per minute; **Effect** You aim through the crossbow's crystalline lenses, gaining imprecise vision onto the [[srd/pf2e/compendium/gm/planes#Ethereal Plane|Ethereal Plane]] with a range of 60 feet in addition to your normal senses until the end of your turn. You can sense through objects in the Universe this way, and the sense is precise for detecting creatures. Because this sense detects spiritual energy, a creature that's immune to spirit can't be detected in this way.
-
-*Source: Player Core 2 p. 280*
-
-## (concentrate)
-
-**Activate** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Trigger** You deal damage using the affixed weapon to a creature that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy trait]] or that you witnessed harm an ally, an innocent, or noncombatant within the last minute.;
-
-*Source: Player Core 2 p. 305*
-
-## (concentrate)
-
-**Activate** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Trigger** A [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] or [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]] enemy hits you with an attack; **Requirements** You're trained in Survivial.;
-
-*Source: Player Core 2 p. 305*
-
-## (concentrate)
-
-**Activate—Doom the Urn** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Trigger** You would become [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]], or your doomed value would increase; **Requirements** The ashes aren't doomed;; **Effect** The ashes in the urn intervene, taking the doomed condition in your place, and you don't gain or increase the value of your doomed condition. Each night when you get a full night's rest, you can reduce your own doomed condition or that of the urn, but not both.
-
-*Source: Player Core 2 p. 307*
-
-## (concentrate)
-
-**Activate—Rally to the cause** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** You gain 1 Focus Point, which you can spend only to cast a devotion spell. If you don't spend this Focus Point by the end of this turn, it's lost.
-
-*Source: Player Core 2 p. 310*
-
-## (concentrate)
-
-**Activate—Divine Fervor** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Trigger** You've just used your champion's reaction; **Effect** You gain an additional reaction you can use only for your champion's reaction. You lose this reaction if you don't use it by the start of your next turn.
-
-*Source: Player Core 2 p. 310*
-
-## (concentrate)
-
-**Activate—Remember the Future** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** You gain 1 Focus Point, which you can spend only to cast a revelation spell. If you don't spend this Focus Point by the end of this turn, it's lost.
-
-*Source: Player Core 2 p. 310*
-
-## (concentrate)
-
-**Activate—Twist the Skeins of Fate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** oncer per day; **Trigger** An ally within 30 feet is about to attempt a saving throw; **Requirements** You have the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/cursebound|cursebound]] condition; **Effect** The ally gains a status bonus to the saving throw equal to the value of your cursebound condition.
-
-*Source: Player Core 2 p. 310*
-
-## (concentrate)
-
-**Activate—Blood's Call** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** You gain 1 Focus Point, which you can spend only to cast a bloodline spell. If you don't spend this Focus Point by the end of this turn, it's lost.
-
-*Source: Player Core 2 p. 311*
-
-## (concentrate)
-
-**Activate—Effortless Mastery** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Requirements** You succeed at an Acrobatics or Athletics skill check; **Effect** You critically succeed instead.
-
-*Source: Player Core 2 p. 311*
-
-## (concentrate)
-
-**Activate—Reserves of Inner Strength** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** You gain 1 Focus Point, which you can spend only to cast a qi spell. If you don't spend this Focus Point by the end of this turn, it's lost.
-
-*Source: Player Core 2 p. 311*
-
-## (concentrate, manipulate, teleportation)
-
-**Activate—Fire Jump** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], manipulate, [[srd/pf2e/compendium/rules-elements/traits/player-core/teleportation|teleportation]]) **Frequency** once per day; **Effect** You Stride (or Burrow or Fly, if you have the corresponding Speed) into any fire large enough to contain you, including magical fires. You vanish into the fire and take no damage from it. You can sense all sufficiently large fires within 100 feet of where you vanish, and you reemerge from any of those fires, either within the fire or adjacent to it. If you end your movement in the fire, it affects you as normal.
-
-*Source: Player Core 2 p. 307*
-
-## (concentrate,manipulate)
-
-**Activate—Hideous Wail** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** The mask emits a soul-chilling scream that deals 6d10 void damage to each living creature in a 20-foot emanation (DC 25 basic Fortitude save).
-
-*Source: Player Core 2 p. 310*
-
-## (manipulate)
-
-**Activate—Dragon Breath** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** You unleash a 15-foot cone of energy with a damage type and saving throw corresponding to the tradition of the dragon used to make the armor (shown on the table below). The cone deals 14d6 damage; each creature in the area must attempt a DC 36 basic saving throw
-
-*Source: Player Core 2 p. 278*
-
-## (manipulate)
-
-**Activate—Splintering Boom** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Trigger** The exploding shield is destroyed; **Effect** The shield explodes outward, dealing 4d6 piercing damage to each creature in a 15-foot cone (DC 19 basic Reflex save).
-
-*Source: Player Core 2 p. 279*
-
-## (manipulate)
-
-**Activate—Sip of Justice** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** The pommel of the weapon transmutes into the shape of a miniature chalice. You drink deep from the chalice and regain HP equal to the chalice's level. If you're holy, you regain double the HP, and for 1 minute, whenever you critically hit an unholy creature with the chalice of justice, the creature takes 2d6 persistent spirit damage, and it's slowed 1 for 1 round. The persistent spirit damage has the [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] trait.
-
-*Source: Player Core 2 p. 280*
-
-## (manipulate)
-
-**Activate—Gem Twist** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** You twist the gem along the blade corresponding with the desired weapon property rune: red for [[srd/pf2e/compendium/equipment/runes/flaming-greater|flaming]], blue for [[srd/pf2e/compendium/equipment/runes/frost-greater|frost]], or yellow for [[srd/pf2e/compendium/equipment/runes/shock-greater|shock]]. You take 1d6 damage of the type the chosen rune deals. You can instead twist the black gem to disable the active property rune, taking no damage.
-
-*Source: Player Core 2 p. 280*
-
-## (manipulate)
-
-**Activate—Hide Magic** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** You twist the sword cane's hilt, magically merging the blade into the cane. While the blade is merged, it can't be drawn and gains the benefits of a 3rd-rank [[srd/pf2e/compendium/spells/rank-1/disguise-magic|_disguise magic_]] spell to appear non-magical. Passive observers can't attempt a check to notice the cane is anything more than a mundane, if superb, fashion accessory. Those carefully examining it can discern the cane is more than it appears, but doing so is extremely difficult (DC 30 Perception). Activating the sword cane again releases the blade, allowing it to be drawn normally.
-
-*Source: Player Core 2 p. 280*
-
-## (manipulate)
-
-**Activate—Nullify Magic** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** You cover a magic item with the cloth or wave the cloth near a magic effect and attempt to counteract the effect or item. The cloth's counteract check modifier is +32, and its counteract rank is 10. Regardless of the result, the _cloth of nullification_ can't be activated again for 2d6 hours. On a success, the effect or item is deactivated for the same amount of time, and its duration, if any, continues to expire during that time. With a successful counteract check, you can instead choose to completely absorb the magic from the effect or item into the _cloth of nullification_. If you do, both become completely non-magical and their magic can't be recovered, even by the [[srd/pf2e/compendium/spells/rank-10/remake|_remake_]] spell.
- The _cloth of nullification_ automatically fails to counteract most artifacts and similarly powerful items.
-
-*Source: Player Core 2 p. 307*
-
-## (manipulate)
-
-**Activate—Cheat Fate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** You rub your thumb on one side of the coin with the intent of slightly tweaking the strands of fate, then flip the coin into the air in a coin toss. No matter how the toss is resolved—letting the coin fall to the ground, slapping it down on the back of your hand, or catching it on your open palm—it always lands with the side you rubbed face up.
-
-*Source: Player Core 2 p. 307*
-
-## (manipulate)
-
-**Activate—Unravel Twine** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** You toss the ball of twine into a square within 20 feet. The twine then unravels and animates, attempting to Disarm or Trip (your choice) a creature in the square with a total of +9 to the Athletics check. At the end of your turn, the twine winds itself back into a ball and returns to your hand; if you don't have a free hand, it returns to your space instead.
-
-*Source: Player Core 2 p. 307*
-
-## (manipulate) or 1 or more days
-
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) or 1 or more days
-
-*Source: Player Core 2 p. 295*
-
-## (manipulate, visual)
-
-**Activate—Petrifying Gaze** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]]) **Frequency** once per day; **Effect** You reveal the medusa's face, focusing its gaze on one creature within 30 feet. The shield casts a DC 30 petrify spell with a range of 30 feet.
-
-*Source: Player Core 2 p. 279*
-
-## 1 minute (concentrate,manipulate)
-
-**Activate—Replicate Earth** 1 minute ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** You hold the box closed and, while envisioning the terrain, turn the box clockwise three times. When you open the box, the sand reveals, in miniature, the stone terrain surrounding you, to a range of 60 feet. This shows details of paths, hills, embankments, boulders, and even artificial structures like walls and ditches, as long as they're made of stone and earth. If you're underground, it reveals tunnels and voids in the earth within 60 feet at your current depth. The sand maintains its shape until you close the box.
-
-*Source: Player Core 2 p. 307*
-
-## 10 minutes (manipulate)
-
-**Activate—Fireball Trap** 10 minutes ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** You create the effects of a [[srd/pf2e/compendium/spells/rituals/rune-trap|_rune trap_]] ritual containing [[srd/pf2e/compendium/spells/rank-3/fireball|_fireball_]]. You can have only one trapped rune from a ring of maniacal devices active at a time, even if you have multiple rings, and the rune disappears if you lose your investiture in the ring.
-
-*Source: Player Core 2 p. 311*
-
-## Administer Stitch (manipulate)
-
-**Activate—Administer Stitch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** You [[srd/pf2e/compendium/rules-elements/actions/player-core#Administer First Aid|Administer First Aid]] without requiring healer's tools. You can either gain a +2 item bonus to the [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] check or use the salve's Medicine modifier of +13 instead of your own.
-
-*Source: Player Core 2 p. 296*
-
-## Call Companion  *Action*
+## Call Companion
 
 `Exploration`
 
@@ -216,49 +16,9 @@ You spend 1 minute calling for a different animal companion, switching your acti
 
 *Source: Player Core 2 p. 189*
 
-## Cast a Spell
+## Clue In
 
-**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast [[srd/pf2e/compendium/spells/rank-3/lightning-bolt|_lightning bolt_]], but the spell's area is twice as wide (two adjacent and parallel 120-foot lines) and creatures that fail their save are [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] for 1 round.
-
-*Source: Player Core 2 p. 309*
-
-## Cast a Spell
-
-**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast [[srd/pf2e/compendium/spells/rank-2/darkness|_darkness_]]. Each creature that ends its turn within the spell's area must succeed at a DC 20 Will save or become [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1 (frightened 2 on a critical failure).
-
-*Source: Player Core 2 p. 309*
-
-## Cast a Spell
-
-**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast [[srd/pf2e/compendium/spells/rank-1/heal|_heal_]] at the indicated rank. After you cast the spell, at the start of your next turn, excess healing magic wells up from the wand and heals you, as though you cast the 1-action version of _heal_ on yourself at the same spell rank. You gain this benefit only once per turn, even if you cast multiple _heal_ spells from wands of _overflowing life_ in the same turn.
-
-*Source: Player Core 2 p. 309*
-
-## Cast a Spell
-
-**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast [[srd/pf2e/compendium/spells/rank-7/execute|_execute_]] at the indicated rank. If the spell slays a living target, the corpse releases grim energy in a 20-foot emanation, dealing void damage equal to double the spell's rank.
-
-*Source: Player Core 2 p. 309*
-
-## Cast a Spell
-
-**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast [[srd/pf2e/compendium/spells/rank-3/fireball|_fireball_]] at the indicated rank. Each creature that fails its save takes persistent fire damage.
-
-*Source: Player Core 2 p. 309*
-
-## Cast a Spell
-
-**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast [[srd/pf2e/compendium/spells/rank-5/howling-blizzard|_howling blizzard_]]. Snow lingers in the spell's area, remaining as difficult terrain for 1 minute.
-
-*Source: Player Core 2 p. 309*
-
-## Cast a Spell
-
-**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast [[srd/pf2e/compendium/spells/rank-2/web|_web_]], but the strands of webbing are toxic. Any creature that fails its Athletics check or Reflex save to navigate the web takes 1d6 poison damage.
-
-*Source: Player Core 2 p. 309*
-
-## Clue In  *Action*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
+[<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
 
 `Concentrate`  `Investigator`
 
@@ -269,7 +29,9 @@ You share information with the triggering creature. They gain a circumstance bon
 
 *Source: Player Core 2 p. 102*
 
-## Confident Finisher  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Confident Finisher
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Finisher`  `Swashbuckler`
 
@@ -279,7 +41,9 @@ You make an incredibly graceful attack, piercing your foe’s defenses. Make a S
 
 *Source: Player Core 2 p. 161*
 
-## Destructive Vengeance  *Action*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
+## Destructive Vengeance
+
+[<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
 
 `Champion`  `Divine`
 
@@ -290,7 +54,9 @@ Bloodshed begets bloodshed as you drag your enemy toward oblivion. You increase 
 
 *Source: Player Core 2 p. 92*
 
-## Devise a Stratagem  *Action*  [?](books/player-core/chapter-8-playing-the-game/actions#Actions "Varies")
+## Devise a Stratagem
+
+[?](books/player-core/chapter-8-playing-the-game/actions#Actions "Varies")
 
 `Concentrate`  `Investigator`
 
@@ -304,7 +70,9 @@ You assess a foe's weaknesses in combat and use them to formulate a plan of atta
 
 *Source: Player Core 2 p. 103*
 
-## Expeditious Inspection  *Action*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")
+## Expeditious Inspection
+
+[ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")
 
 `Investigator`
 
@@ -314,7 +82,9 @@ You observe and assess your surroundings with great speed. You [[srd/pf2e/compen
 
 *Source: Player Core 2 p. 104*
 
-## Flash of Grandeur  *Action*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
+## Flash of Grandeur
+
+[<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
 
 `Champion`  `Divine`
 
@@ -324,7 +94,9 @@ Imperious divine light flashes out from you to surround your foe. The ally gains
 
 *Source: Player Core 2 p. 91*
 
-## Flurry of Blows  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Flurry of Blows
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Flourish`  `Monk`
 
@@ -332,7 +104,9 @@ Make two unarmed Strikes. If both hit the same creature, combine their damage fo
 
 *Source: Player Core 2 p. 116*
 
-## Glimpse of Redemption  *Action*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
+## Glimpse of Redemption
+
+[<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
 
 `Champion`  `Divine`
 
@@ -343,13 +117,15 @@ Your enemy hesitates under the weight of sin as visions of redemption play in th
 
 *Source: Player Core 2 p. 93*
 
-## Influence Rumor  *Action*
+## Influence Rumor
 
 ([[srd/pf2e/compendium/rules-elements/traits/player-core/downtime|downtime]]) You spend at least 1 day of downtime attempting to manipulate the course, tone, or content of a rumor to your benefit. You need to succeed at a Diplomacy check to shift the rumor as you intend. The difficulty is determined by the GM based on the size of the community, the relative perceptiveness of the inhabitants, and the agency of other rumormongers, but it typically is no lower than DC 15 for a small village, DC 20 for a town, DC 30 for a city, or DC 40 for a metropolis.
 
 *Source: Player Core 2 p. 195*
 
-## Iron Command  *Action*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
+## Iron Command
+
+[<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
 
 `Champion`  `Divine`  `Emotion`  `Mental`
 
@@ -361,7 +137,9 @@ You put an impertinent foe who dared harm you in their proper place. You command
 
 *Source: Player Core 2 p. 93*
 
-## Liberating Step  *Action*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
+## Liberating Step
+
+[<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
 
 `Champion`  `Divine`
 
@@ -371,7 +149,9 @@ You free an ally from restraint. If the trigger was an ally taking damage, the a
 
 *Source: Player Core 2 p. 92*
 
-## Mark For Death (concentrate)  *Action*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")
+## Mark For Death (concentrate)
+
+[>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")
 
 - **Requirements**: The creature you intend to mark is [[srd/pf2e/compendium/rules-elements/conditions#Observed|observed]] by you
 
@@ -381,7 +161,9 @@ You designate a single creature as your mark. Using Mark for Death while hidden 
 
 *Source: Player Core 2 p. 186*
 
-## Opportune Riposte  *Action*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
+## Opportune Riposte
+
+[<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
 
 `Bravado`  `Swashbuckler`
 
@@ -391,7 +173,9 @@ You take advantage of an opening from your enemy's fumbled attack. You either ma
 
 *Source: Player Core 2 p. 161*
 
-## Pointed Question  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Pointed Question
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Auditory`  `Concentrate`  `Investigator`  `Linguistic`  `Mental`
 
@@ -407,7 +191,7 @@ You ask a question that charms or needles someone in just the right way. Ask a q
 
 *Source: Player Core 2 p. 104*
 
-## Pursue a Lead  *Action*
+## Pursue a Lead
 
 `Concentrate`  `Exploration`  `Investigator`
 
@@ -419,7 +203,9 @@ You name one detail you've identified that you think is part of a larger mystery
 
 *Source: Player Core 2 p. 102*
 
-## Quick Alchemy  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Quick Alchemy
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Alchemist`  `Manipulate`
 
@@ -430,7 +216,9 @@ You can either use up a versatile vial to make another alchemical consumable at 
 
 *Source: Player Core 2 p. 59*
 
-## Quick Tincture  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Quick Tincture
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Investigator`  `Manipulate`
 
@@ -441,7 +229,9 @@ You quickly brew up a short-lived tincture. You create a single alchemical elixi
 
 *Source: Player Core 2 p. 103*
 
-## Quick-Tempered  *Action*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")
+## Quick-Tempered
+
+[ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")
 
 `Barbarian`
 
@@ -452,7 +242,9 @@ So long as you are able to move freely, your fury is instinctive and instantaneo
 
 *Source: Player Core 2 p. 72*
 
-## Rage  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+## Rage
+
+[>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Barbarian`  `Concentrate`  `Emotion`  `Mental`
 
@@ -463,7 +255,9 @@ You deal 2 additional damage on melee Strikes. This additional damage is halved 
 
 *Source: Player Core 2 p. 72*
 
-## Retributive Strike  *Action*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
+## Retributive Strike
+
+[<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
 
 `Champion`  `Divine`
 
@@ -473,7 +267,9 @@ You protect your ally and strike your enemy. The ally gains resistance to all da
 
 *Source: Player Core 2 p. 92*
 
-## Selfish Shield  *Action*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
+## Selfish Shield
+
+[<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
 
 `Champion`  `Divine`
 
@@ -484,13 +280,9 @@ Your self-interest keeps you safe. You gain resistance against the triggering da
 
 *Source: Player Core 2 p. 91*
 
-## Stitch Wounds (manipulate)
+## Upstage
 
-**Activate—Stitch Wounds** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Trigger** You [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Wounds|Treat Wounds]] or use [[srd/pf2e/compendium/feats/player-core/skill/battle-medicine|Battle Medicine]]; **Effect** You gain a +2 item bonus to the triggering [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] check. If you roll a success on the Medicine check, you get a critical success instead.
-
-*Source: Player Core 2 p. 296*
-
-## Upstage  *Action*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
+[<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
 
 - **Trigger**: An enemy attempts a skill check and doesn’t get a critical success
 

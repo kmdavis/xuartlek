@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/player-core
 - trait/uncommon
 - ritual/level/8
 aliases: ["Control Weather"]
-aon_id: "ritual-116"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=116"
 source: "Player Core"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/2
 aliases: ["Speak with Animals"]
-aon_id: "spell-1680"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1680"
 source: "Player Core"
 ---
 
@@ -16,7 +15,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`
 
 - **Tradition**: Primal
-- **Deities**: Etaris, Green Faith, Rowdrosh
+- **Deities**: Etaris, [[srd/pf2e/compendium/deities/faiths-philosophies/green-faith|Green Faith]], Rowdrosh
 - **Duration**: 1 hour
 
 You can ask questions of, receive answers from, and use the [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] skill with animals. The spell doesn't make them more friendly than normal. Cunning animals are likely to be terse and evasive, while less intelligent ones often make inane comments.

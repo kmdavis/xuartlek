@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/stance
 - feat/level/6
 aliases: ["Disarming Stance"]
-aon_id: "feat-4800"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4800"
 source: "Player Core"
 ---
 
@@ -15,7 +14,7 @@ source: "Player Core"
 
 `Fighter`  `Stance`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/duelist|Duelist]] (Level 8), [[srd/pf2e/compendium/character/archetypes/duelist|Duelist]] (Level 8)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/duelist|Duelist]] (Level 8)
 - **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
 - **Requirements**: You are wielding a single one-handed melee weapon and hold nothing else in your hands
 

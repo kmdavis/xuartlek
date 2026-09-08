@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Despot"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Despot"
 level: 5
 source: "NPC Core"
-aon_id: "creature-3614"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3614"
 ---
 
@@ -38,7 +36,7 @@ abilities_top:
   - name: "Persistent Lies"
     desc: "Any creature deceived by the despot's [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] skill believes the deception more readily on the next day. Any later Perception checks attempted against the despot's Deception DC take a –2 circumstance penalty, as do other creatures' attempts to convince the creature otherwise, such as through [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] or further Deception."
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/alchemical-items/darkvision-elixir-greater|lesser darkvision elixir]], [[srd/pf2e/compendium/equipment/consumables/healing-potion-major|lesser healing potion]] (2), Spiked Gauntlet"
+    desc: "[[srd/pf2e/compendium/equipment/alchemical-items/darkvision-elixir|lesser darkvision elixir]], [[srd/pf2e/compendium/equipment/consumables/healing-potion|lesser healing potion]] (2), Spiked Gauntlet"
 ac: 21
 armorclass:
   - name: "AC"

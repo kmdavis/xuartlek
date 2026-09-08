@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -7,7 +6,7 @@ tags:
 - trait/ikon
 - feat/level/10
 aliases: ["Breath of Vital Ash"]
-aon_id: "feat-7171"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7171"
 source: "War of Immortals"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/monster-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/unholy
 - ritual/level/7
 aliases: ["Ravenous Reanimation"]
-aon_id: "ritual-224"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=224"
 source: "Monster Core 2"
 ---
 
@@ -16,7 +15,7 @@ source: "Monster Core 2"
 `Rare`  `Unholy`
 
 - **Cast**: 1 day
-- **Cost**: valuable treasures from the target dragon’s hoard worth a total value of 50,000 gp
+- **Cost**: valuable treasures from the target dragon’s hoard worth a total value of 50, 000 gp
 - **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] (master), [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (master), or [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] (master)
 - **Requirements**: You must be a [[srd/pf2e/compendium/gm/creature-families/dragon|dragon]]
 

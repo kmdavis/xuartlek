@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
 tags:
 - compendium/src/pf2e/gm-core
 - trait/environmental
 - hazard/level/0
 aliases: ["Snowfall"]
-aon_id: "hazard-482"
+aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=482"
 source: "GM Core"
 ---
 

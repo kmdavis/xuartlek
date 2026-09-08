@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/spirit
 - spell/level/4
 aliases: ["Divine Wrath"]
-aon_id: "spell-1499"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1499"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Sanctified`  `Spirit`
 
 - **Tradition**: Divine
-- **Bloodlines**: Angelic, Demonic
+- **Bloodlines**: [[srd/pf2e/compendium/character/bloodlines#Angelic|Angelic]], [[srd/pf2e/compendium/character/bloodlines#Demonic|Demonic]]
 - **Range**: 120 feet
 - **Area**: 20-foot burst
 - **Defense**: Fortitude

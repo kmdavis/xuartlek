@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Animated Broom"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Animated Broom"
 level: -1
 source: "Monster Core"
-aon_id: "creature-2818"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2818"
 ---
 

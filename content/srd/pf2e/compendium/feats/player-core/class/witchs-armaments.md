@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/witch
 - feat/level/1
 aliases: ["Witch's Armaments"]
-aon_id: "feat-4995"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4995"
 source: "Player Core"
 ---
 

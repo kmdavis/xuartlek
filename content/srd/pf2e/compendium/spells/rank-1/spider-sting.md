@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/poison
 - spell/level/1
 aliases: ["Spider Sting"]
-aon_id: "spell-1684"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1684"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Poison`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Barbatos, Lamashtu, Teshallas, Vorasha
+- **Deities**: [[srd/pf2e/compendium/deities/archdevils/barbatos|Barbatos]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/lamashtu|Lamashtu]], [[srd/pf2e/compendium/deities/monitor-demigods/teshallas|Teshallas]], [[srd/pf2e/compendium/deities/daemon-harbingers/vorasha|Vorasha]]
 - **Range**: touch
 - **Target**: 1 creature
 - **Defense**: Fortitude

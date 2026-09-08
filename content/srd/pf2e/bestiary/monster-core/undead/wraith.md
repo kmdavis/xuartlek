@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Wraith"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Wraith"
 level: 6
 source: "Monster Core"
-aon_id: "creature-3243"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3243"
 ---
 

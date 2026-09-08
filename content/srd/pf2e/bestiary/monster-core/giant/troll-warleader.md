@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Troll Warleader"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Troll Warleader"
 level: 10
 source: "Monster Core"
-aon_id: "creature-3220"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3220"
 ---
 
@@ -42,7 +40,7 @@ abilities_top:
   - name: "Easily Misled"
     desc: "The troll warleader gets a –4 circumstance penalty to their Perception DC against [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] checks."
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/axe/battle-axe|battle axe]]_ (2), Half Plate"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/axe/battle-axe|battle axe]]_ (2), Half Plate"
 ac: 29
 armorclass:
   - name: "AC"

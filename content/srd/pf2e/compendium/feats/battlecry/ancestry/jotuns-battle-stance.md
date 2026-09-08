@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/stance
 - feat/level/5
 aliases: ["Jotun's Battle Stance"]
-aon_id: "feat-7777"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7777"
 source: "Battlecry!"
 ---
 

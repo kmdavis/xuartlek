@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/magical
 - equipment/level/15
 aliases: ["Energy Shield Tunic"]
-aon_id: "equipment-4977"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4977"
 source: "Impossible Magic"
 ---
 

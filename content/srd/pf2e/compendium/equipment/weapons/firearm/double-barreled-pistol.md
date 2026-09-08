@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - weapon/level/0
 aliases: ["Double-Barreled Pistol"]
-aon_id: "weapon-199"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=199"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -30,7 +29,7 @@ source: "Guns & Gears (Remastered)"
 - **Group**: Firearm
 - **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/firearm/firearm-ammunition-10-rounds|Firearm Ammunition (10 rounds)]]
 
-This [[srd/pf2e/compendium/equipment/weapons/firearm/flintlock-pistol|flintlock pistol]] has two side-by-side barrels. Though less accurate than a standard pistol, a double-barreled pistol is a useful and versatile weapon. It's generally banned in areas where duels with pistols are relatively common, in much the same way that arriving at an aristocratic duel with a [[srd/pf2e/compendium/equipment/weapons/firearm/dwarven-scattergun|scattergun]] would be considered crass, at best.
+This flintlock pistol has two side-by-side barrels. Though less accurate than a standard pistol, a double-barreled pistol is a useful and versatile weapon. It's generally banned in areas where duels with pistols are relatively common, in much the same way that arriving at an aristocratic duel with a [[srd/pf2e/compendium/equipment/weapons/firearm/dwarven-scattergun|scattergun]] would be considered crass, at best.
 
 ### Critical Specialization Effects
 

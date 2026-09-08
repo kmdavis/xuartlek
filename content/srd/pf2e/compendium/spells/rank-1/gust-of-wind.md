@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/1
 aliases: ["Gust of Wind"]
-aon_id: "spell-1550"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1550"
 source: "Player Core"
 ---
 
@@ -17,8 +16,8 @@ source: "Player Core"
 `Air`  `Concentrate`  `Manipulate`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Aegirran, Breath of the Endless Sky, Gozreh, Hei Feng, Hshurha, Onos, Pazuzu, Seafarer's Hope, Sky Keepers, Umarik, Weight of the World, Xiquiripat
-- **Patron Theme**: Silence in Snow
+- **Deities**: [[srd/pf2e/compendium/deities/giant-gods/aegirran|Aegirran]], [[srd/pf2e/compendium/deities/covenants/breath-of-the-endless-sky|Breath of the Endless Sky]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/gozreh|Gozreh]], [[srd/pf2e/compendium/deities/tian-gods/hei-feng|Hei Feng]], [[srd/pf2e/compendium/deities/elemental-lords/hshurha|Hshurha]], [[srd/pf2e/compendium/deities/azlanti-pantheon/onos|Onos]], [[srd/pf2e/compendium/deities/demon-lords/pazuzu|Pazuzu]], Seafarer's Hope, Sky Keepers, Umarik, [[srd/pf2e/compendium/deities/pantheons/weight-of-the-world|Weight of the World]], Xiquiripat
+- **Patron Theme**: [[srd/pf2e/compendium/character/patrons#Silence in Snow|Silence in Snow]]
 - **Area**: 60-foot line
 - **Defense**: Fortitude
 - **Duration**: until the start of your next turn

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/psychic
 - feat/level/8
 aliases: ["Brain Drain"]
-aon_id: "feat-8326"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8326"
 source: "Dark Archives (Remastered)"
 ---
 

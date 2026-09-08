@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class-feature
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 - class-feature/level/17
 aliases: ["Thaumaturgic Mastery"]
-aon_id: "class-feature-1193"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=69"
 source: "Dark Archives (Remastered)"
 ---
 

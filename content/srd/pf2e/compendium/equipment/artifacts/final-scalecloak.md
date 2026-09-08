@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -10,7 +9,7 @@ tags:
 - trait/unique
 - equipment/level/20
 aliases: ["Final Scalecloak"]
-aon_id: "equipment-3508"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3508"
 source: "War of Immortals"
 ---
 

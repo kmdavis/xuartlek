@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/player-core-2
@@ -8,7 +7,7 @@ tags:
 - trait/potion
 - equipment/level/1
 aliases: ["Potion of Retaliation"]
-aon_id: "equipment-3404"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3404"
 source: "Player Core 2"
 ---
 

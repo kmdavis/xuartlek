@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/polymorph
 - spell/level/4
 aliases: ["Sudden Swarm"]
-aon_id: "spell-2831"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2831"
 source: "Impossible Magic"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Sacristan"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Sacristan"
 level: 10
 source: "Monster Core 2"
-aon_id: "creature-4609"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4609"
 ---
 
@@ -46,7 +44,7 @@ armorclass:
 hp: 175
 health:
   - name: "HP"
-    desc: "175 , regeneration 10 (deactivated by [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] or [[srd/pf2e/compendium/equipment/materials/silver-object-high-grade|silver]]); __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]]; __Weaknesses__ holy 10, silver 10"
+    desc: "175 , regeneration 10 (deactivated by [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] or [[srd/pf2e/compendium/equipment/materials/silver|silver]]); __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]]; __Weaknesses__ holy 10, silver 10"
 abilities_mid:
   - name: "Staggering Servitude"
     desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]]) 30 feet. When a creature ends its turn in the aura, it sees a vision of the sacristan groveling in pitiable servitude. The creature must succeed at a DC 27 Will save or become [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] 1."

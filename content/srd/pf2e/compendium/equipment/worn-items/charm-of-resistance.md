@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -7,7 +6,7 @@ tags:
 - trait/magical
 - equipment/level/6
 aliases: ["Charm of Resistance"]
-aon_id: "equipment-3065"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3065"
 source: "GM Core"
 ---
 

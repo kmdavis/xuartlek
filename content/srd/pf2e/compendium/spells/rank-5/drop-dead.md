@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -10,7 +9,7 @@ tags:
 - trait/visual
 - spell/level/5
 aliases: ["Drop Dead"]
-aon_id: "spell-1989"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1989"
 source: "Player Core 2"
 ---
 

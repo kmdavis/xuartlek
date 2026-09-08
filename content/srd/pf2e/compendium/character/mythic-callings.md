@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-mythic-calling
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -9,7 +8,7 @@ entries: 11
 
 # Mythic Callings
 
-## Acrobat's Calling  *Mythic Calling*
+## Acrobat's Calling
 
 `Calling`  `Mythic`  `Uncommon`
 
@@ -19,7 +18,7 @@ entries: 11
 
 *Source: War of Immortals p. 79*
 
-## Artisan's Calling  *Mythic Calling*
+## Artisan's Calling
 
 `Calling`  `Mythic`  `Uncommon`
 
@@ -29,7 +28,7 @@ entries: 11
 
 *Source: War of Immortals p. 79*
 
-## Bookkeeper's Calling  *Mythic Calling*
+## Bookkeeper's Calling
 
 `Calling`  `Mythic`  `Uncommon`
 
@@ -39,7 +38,7 @@ entries: 11
 
 *Source: War of Immortals p. 79*
 
-## Caretaker's Calling  *Mythic Calling*
+## Caretaker's Calling
 
 `Calling`  `Mythic`  `Uncommon`
 
@@ -49,7 +48,7 @@ entries: 11
 
 *Source: War of Immortals p. 80*
 
-## Demagogue's Calling  *Mythic Calling*
+## Demagogue's Calling
 
 `Calling`  `Mythic`  `Uncommon`
 
@@ -59,7 +58,7 @@ entries: 11
 
 *Source: War of Immortals p. 80*
 
-## Guardian's Calling  *Mythic Calling*
+## Guardian's Calling
 
 `Calling`  `Mythic`  `Uncommon`
 
@@ -69,7 +68,7 @@ entries: 11
 
 *Source: War of Immortals p. 80*
 
-## Handler's Calling  *Mythic Calling*
+## Handler's Calling
 
 `Calling`  `Mythic`  `Uncommon`
 
@@ -79,7 +78,7 @@ entries: 11
 
 *Source: War of Immortals p. 80*
 
-## Hunter's Calling  *Mythic Calling*
+## Hunter's Calling
 
 `Calling`  `Mythic`  `Uncommon`
 
@@ -89,7 +88,7 @@ entries: 11
 
 *Source: War of Immortals p. 80*
 
-## Sage's Calling  *Mythic Calling*
+## Sage's Calling
 
 `Calling`  `Mythic`  `Uncommon`
 
@@ -99,7 +98,7 @@ entries: 11
 
 *Source: War of Immortals p. 80*
 
-## Thespian's Calling  *Mythic Calling*
+## Thespian's Calling
 
 `Calling`  `Mythic`  `Uncommon`
 
@@ -109,7 +108,7 @@ entries: 11
 
 *Source: War of Immortals p. 80*
 
-## Thief's Calling  *Mythic Calling*
+## Thief's Calling
 
 `Calling`  `Mythic`  `Uncommon`
 

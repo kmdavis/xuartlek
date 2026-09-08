@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Tor Linnorm"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Tor Linnorm"
 level: 21
 source: "Monster Core"
-aon_id: "creature-3086"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3086"
 ---
 
@@ -43,7 +41,7 @@ armorclass:
 hp: 440
 health:
   - name: "HP"
-    desc: "440 , regeneration 20 (deactivated by [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]]); __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Weaknesses__ cold iron 15"
+    desc: "440 , regeneration 20 (deactivated by [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]]); __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Weaknesses__ cold iron 15"
 abilities_mid:
   - name: "Curse of Boiling Blood"
     desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]) When a creature slays the linnorm, it must succeed at a DC 48 Will save or gain weakness to fire 20 and [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed 1]] from the agonizing pain it now endures at all times, with an unlimited duration. As long as a character continues to suffer this curse, its slowed condition can never be reduced below slowed 1."

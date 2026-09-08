@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - feat/level/14
 aliases: ["Death Rattle"]
-aon_id: "feat-7974"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7974"
 source: "Battlecry!"
 ---
 

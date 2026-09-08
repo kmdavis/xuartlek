@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/lozenge
 - equipment/level/5
 aliases: ["Crackling Bubble Gum"]
-aon_id: "equipment-1912"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1912"
 source: "Treasure Vault (Remastered)"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/skill
 - feat/level/7
 aliases: ["Wall Jump"]
-aon_id: "feat-5236"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5236"
 source: "Player Core"
 ---
 

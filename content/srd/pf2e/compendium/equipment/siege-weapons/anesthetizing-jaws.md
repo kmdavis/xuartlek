@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -9,7 +8,7 @@ tags:
 - trait/rare
 - siege-weapon/level/13
 aliases: ["Anesthetizing Jaws"]
-aon_id: "siege-weapon-21"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=21"
 source: "Howl of the Wild"
 ---
 
@@ -17,7 +16,7 @@ source: "Howl of the Wild"
 
 `Magical`  `Mounted`  `Nonlethal`  `Rare`
 
-- **Price**: 6,000 gp
+- **Price**: 6, 000 gp
 - **Ammunition**: spring-loaded iron jaw (25 gp, 2 Bulk)
 
 **Usage** mounted

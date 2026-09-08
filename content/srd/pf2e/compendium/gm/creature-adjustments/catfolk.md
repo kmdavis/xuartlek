@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-adjustment
 tags:
 - compendium/src/pf2e/npc-core
 aliases: ["Catfolk"]
-aon_id: "creature-adjustment-41"
+aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=41"
 source: "NPC Core"
 ---
 

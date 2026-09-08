@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/monster-core-2
 - trait/asura
 aliases: ["Asura"]
-aon_id: "trait-873"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=873"
 source: "Monster Core 2"
 ---
 

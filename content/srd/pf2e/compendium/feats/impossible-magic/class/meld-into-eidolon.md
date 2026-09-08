@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/summoner
 - feat/level/1
 aliases: ["Meld Into Eidolon"]
-aon_id: "feat-9227"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9227"
 source: "Impossible Magic"
 ---
 

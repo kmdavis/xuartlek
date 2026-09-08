@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/healing
 - equipment/level/3
 aliases: ["Blood Booster"]
-aon_id: "equipment-1957"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1957"
 source: "Treasure Vault (Remastered)"
 ---
 

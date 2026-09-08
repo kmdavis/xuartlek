@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -11,7 +10,7 @@ tags:
 - trait/visual
 - spell/level/5
 aliases: ["Illusory Scene"]
-aon_id: "spell-1570"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1570"
 source: "Player Core"
 ---
 
@@ -20,7 +19,7 @@ source: "Player Core"
 `Auditory`  `Concentrate`  `Illusion`  `Manipulate`  `Olfactory`  `Visual`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Daikitsu, Likha, Mahathallah, Neshen, Shawnari, Skrymir, Zugero
+- **Deities**: Daikitsu, [[srd/pf2e/compendium/deities/vudrani-gods/likha|Likha]], [[srd/pf2e/compendium/deities/queens-of-the-night/mahathallah|Mahathallah]], [[srd/pf2e/compendium/deities/empyreal-lords/neshen|Neshen]], [[srd/pf2e/compendium/deities/sakhil-tormentors/shawnari|Shawnari]], [[srd/pf2e/compendium/deities/giant-gods/skrymir|Skrymir]], [[srd/pf2e/compendium/deities/goblin-gods/zugero|Zugero]]
 - **Cast**: 10 minutes
 - **Range**: 500 feet
 - **Area**: 30-foot burst

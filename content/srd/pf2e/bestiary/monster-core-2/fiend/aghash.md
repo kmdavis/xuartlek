@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Aghash"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Aghash"
 level: 4
 source: "Monster Core 2"
-aon_id: "creature-4340"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4340"
 ---
 
@@ -43,7 +41,7 @@ armorclass:
 hp: 75
 health:
   - name: "HP"
-    desc: "75; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]]; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 5"
+    desc: "75; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]]; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 5"
 abilities_mid:
   - name: "Hatred of Art"
     desc: "While aghashes hate all mortals, they particularly despise beautiful objects and artistic mortals. When not in physical peril, an aghash is compelled to destroy art and other works of beauty. An aghash can't enter an area of pristine beauty without first marring it in some way. Given a choice, an aghash will attack a foe who is an obvious crafter or performer of some kind. A [[srd/pf2e/compendium/character/classes/bard|bard]] casting a composition spell, a runesmith tracing a rune, a street magician performing a daring escape, and similar abilities as determined by the GM draw the aghash's ire. If the aghash is barred from attacking such foes, either by force or some magical effect, they take 1d6 mental damage at the end of their turn."

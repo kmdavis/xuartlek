@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-instinct
 tags:
 - compendium/src/pf2e/rage-of-elements
 aliases: ["Elemental"]
-aon_id: "instinct-7"
+aon_url: "https://2e.aonprd.com/Instincts.aspx?ID=7"
 source: "Rage of Elements"
 ---
 

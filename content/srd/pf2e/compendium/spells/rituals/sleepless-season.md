@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/battlecry
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - ritual/level/6
 aliases: ["Sleepless Season"]
-aon_id: "ritual-215"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=215"
 source: "Battlecry!"
 ---
 

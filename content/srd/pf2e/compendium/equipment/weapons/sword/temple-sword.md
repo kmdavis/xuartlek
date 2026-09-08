@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - weapon/level/0
 aliases: ["Temple Sword"]
-aon_id: "weapon-418"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=418"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Monk`  `Trip`  `Uncommon`
 
 - **PFS Note**: Characters from Tian Xia, Vudra, or Impossible Lands have access to this option
-- **Favored Weapon**: Dhalavei
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/vudrani-gods/dhalavei|Dhalavei]]
 - **Price**: 2 gp
 - **Damage**: 1d8 S
 - **Bulk**: 1

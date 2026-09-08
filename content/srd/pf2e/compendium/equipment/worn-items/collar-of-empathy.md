@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -8,7 +7,7 @@ tags:
 - trait/primal
 - equipment/level/9
 aliases: ["Collar of Empathy"]
-aon_id: "equipment-3015"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3015"
 source: "GM Core"
 ---
 

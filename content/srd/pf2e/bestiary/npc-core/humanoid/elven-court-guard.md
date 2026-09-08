@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Elven Court Guard"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Elven Court Guard"
 level: 13
 source: "NPC Core"
-aon_id: "creature-3634"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3634"
 ---
 
@@ -38,7 +36,7 @@ abilities_top:
   - name: "Vigilance"
     desc: "A court guard gains a +1 circumstance bonus on Perception checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Motive|Sense Motive]] and [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]] creatures, and if they succeed, they get a critical success instead."
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/resilient-major|resilient]] [[srd/pf2e/compendium/equipment/armor#Chain Shirt|chain shirt]]_, _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] low-grade cold iron [[srd/pf2e/compendium/equipment/weapons/sword/elven-curve-blade|elven curve blade]]_, _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/bow/composite-longbow|composite longbow]]_"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/resilient|resilient]] [[srd/pf2e/compendium/equipment/armor#Chain Shirt|chain shirt]]_, _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] low-grade cold iron [[srd/pf2e/compendium/equipment/weapons/sword/elven-curve-blade|elven curve blade]]_, _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/bow/composite-longbow|composite longbow]]_"
 ac: 35
 armorclass:
   - name: "AC"

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Tide Giant"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Tide Giant"
 level: 13
 source: "Monster Core 2"
-aon_id: "creature-4412"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4412"
 ---
 
@@ -40,7 +38,7 @@ skills:
 abilityMods: [8, 6, 6, 0, 4, 2]
 abilities_top:
   - name: "Items"
-    desc: "_+[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|1 striking]] [[srd/pf2e/compendium/equipment/runes/returning|returning]] [[srd/pf2e/compendium/equipment/weapons/spear/trident|trident]]_"
+    desc: "_+[[srd/pf2e/compendium/equipment/weapons/magic-weapon|1 striking]] [[srd/pf2e/compendium/equipment/runes/returning|returning]] [[srd/pf2e/compendium/equipment/weapons/spear/trident|trident]]_"
 ac: 33
 armorclass:
   - name: "AC"

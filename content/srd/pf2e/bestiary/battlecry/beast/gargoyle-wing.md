@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Gargoyle Wing"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Gargoyle Wing"
 level: 9
 source: "Battlecry!"
-aon_id: "creature-3917"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3917"
 ---
 
@@ -43,7 +41,7 @@ armorclass:
 hp: 150
 health:
   - name: "HP"
-    desc: "150 (4 segments); __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]]; __Resistances__ physical 10 (except [[srd/pf2e/compendium/equipment/materials/adamantine-object-high-grade|adamantine]]); __Weaknesses__ area damage 10, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 10"
+    desc: "150 (4 segments); __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]]; __Resistances__ physical 10 (except [[srd/pf2e/compendium/equipment/materials/adamantine|adamantine]]); __Weaknesses__ area damage 10, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 10"
 abilities_mid:
   - name: "Death From Above"
     desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]])"

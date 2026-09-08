@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - equipment/level/6
 aliases: ["Bloodletting Kukri"]
-aon_id: "equipment-2862"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2862"
 source: "GM Core"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -10,7 +9,7 @@ tags:
 - trait/uncommon
 - equipment/level/17
 aliases: ["Breathtaking Vapor"]
-aon_id: "equipment-1993"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1993"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -18,7 +17,7 @@ source: "Treasure Vault (Remastered)"
 
 `Alchemical`  `Consumable`  `Inhaled`  `Poison`  `Uncommon`
 
-- **Price**: 3,000 gp
+- **Price**: 3, 000 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
 - **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])

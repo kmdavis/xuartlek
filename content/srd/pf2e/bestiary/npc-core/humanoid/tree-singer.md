@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Tree Singer"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Tree Singer"
 level: 13
 source: "NPC Core"
-aon_id: "creature-3585"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3585"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [4, 3, 1, 2, 3, 4]
 abilities_top:
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/resilient-major|resilient]] [[srd/pf2e/compendium/equipment/armor#Leather Armor|leather armor]]_, _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/spear/longspear|longspear]]_, _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/bow/composite-longbow|composite longbow]]_"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/resilient|resilient]] [[srd/pf2e/compendium/equipment/armor#Leather Armor|leather armor]]_, _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/spear/longspear|longspear]]_, _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/bow/composite-longbow|composite longbow]]_"
 ac: 32
 armorclass:
   - name: "AC"

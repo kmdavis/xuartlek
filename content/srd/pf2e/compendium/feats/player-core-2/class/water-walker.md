@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/oracle
 - feat/level/8
 aliases: ["Water Walker"]
-aon_id: "feat-6069"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6069"
 source: "Player Core 2"
 ---
 

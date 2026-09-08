@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
@@ -10,7 +9,7 @@ tags:
 - trait/negative
 - equipment/level/10
 aliases: ["Revenant Blade"]
-aon_id: "equipment-3857"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3857"
 source: "Battlecry!"
 ---
 
@@ -23,7 +22,7 @@ source: "Battlecry!"
 - **Bulk**: L
 - **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/knife/sickle|Sickle]]
 
-The mortal agents of powerful necromancers are a varied lot, but they tend to share two things in common: a deep and abiding fear of death, and a desperate hope that loyalty to their foul masters might be rewarded with some means of transcending it. To most of these wretched souls, this simple _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/knife/sickle|sickle]]_ is as close as they will ever come to realizing that desire.
+The mortal agents of powerful necromancers are a varied lot, but they tend to share two things in common: a deep and abiding fear of death, and a desperate hope that loyalty to their foul masters might be rewarded with some means of transcending it. To most of these wretched souls, this simple _[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/knife/sickle|sickle]]_ is as close as they will ever come to realizing that desire.
 
 _Revenant blades_ are usually created in large numbers to arm a necromancer’s mortal troops before sending them into battle, and despite their name, they can be crafted from whichever base weapon is best suited for the expected conflict. Whatever form it takes, every revenant blade is adorned in some way with a small gem of deep black onyx. When you invest in the weapon, a small portion of your soul is transferred into the gem, bonding it to you and granting the weapon the effects of the decaying rune for as long as it remains invested.
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/olfactory
 - equipment/level/1
 aliases: ["Animal Repellent"]
-aon_id: "equipment-1936"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1936"
 source: "Treasure Vault (Remastered)"
 ---
 

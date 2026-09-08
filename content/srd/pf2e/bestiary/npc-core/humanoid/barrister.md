@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Barrister"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Barrister"
 level: -1
 source: "NPC Core"
-aon_id: "creature-3546"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3546"
 ---
 
@@ -40,7 +38,7 @@ abilities_top:
   - name: "Sway the Judge and Jury"
     desc: "A barrister gains a +2 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Request|Request]] something of the deciding members within a courtroom. If the barrister successfully [[srd/pf2e/compendium/rules-elements/actions/player-core#Perform|Performs]] against a DC of 20 during the 20 minutes prior to the check, they increase the circumstance bonus to +4."
   - name: "Items"
-    desc: "court garb (functions as [[srd/pf2e/compendium/equipment/adventuring-gear/clothing-desert|fine clothing]]), law book (functions as [[srd/pf2e/compendium/equipment/adventuring-gear/scholarly-journal-compendium|scholarly journal]]), Writing Set"
+    desc: "court garb (functions as [[srd/pf2e/compendium/equipment/adventuring-gear/clothing|fine clothing]]), law book (functions as [[srd/pf2e/compendium/equipment/adventuring-gear/scholarly-journal|scholarly journal]]), Writing Set"
 ac: 13
 armorclass:
   - name: "AC"

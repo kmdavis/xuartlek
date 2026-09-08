@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Girtablilu Sentry"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Girtablilu Sentry"
 level: 8
 source: "Monster Core 2"
-aon_id: "creature-4413"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4413"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [6, 4, 6, 3, 4, 3]
 abilities_top:
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/armor#Hide Armor|Hide Armor]], _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/spear/longspear|longspear]]_"
+    desc: "[[srd/pf2e/compendium/equipment/armor#Hide Armor|Hide Armor]], _[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/spear/longspear|longspear]]_"
 ac: 27
 armorclass:
   - name: "AC"

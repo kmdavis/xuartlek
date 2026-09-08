@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - feat/level/4
 aliases: ["Godspeed"]
-aon_id: "feat-7279"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7279"
 source: "War of Immortals"
 ---
 

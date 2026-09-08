@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/ranger
 - feat/level/12
 aliases: ["Second Sting"]
-aon_id: "feat-4895"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4895"
 source: "Player Core"
 ---
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/ranger
 - feat/level/16
 aliases: ["Warden’s Reload"]
-aon_id: "feat-4906"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4906"
 source: "Player Core"
 ---
 

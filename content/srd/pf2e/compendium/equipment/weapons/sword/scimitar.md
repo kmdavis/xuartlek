@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/sweep
 - weapon/level/0
 aliases: ["Scimitar"]
-aon_id: "weapon-393"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=393"
 source: "Player Core"
 ---
 
@@ -15,7 +14,7 @@ source: "Player Core"
 
 `Forceful`  `Sweep`
 
-- **Favored Weapon**: Cyth-V’sug, Deshto, Diomazul, Jezelda, Light of the Everlasting Flame, Mahja Firehair, Sarenrae, Uskyeria
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/demon-lords/cyth-vsug|Cyth-V’sug]], Deshto, [[srd/pf2e/compendium/deities/vudrani-gods/diomazul|Diomazul]], [[srd/pf2e/compendium/deities/demon-lords/jezelda|Jezelda]], [[srd/pf2e/compendium/deities/covenants/light-of-the-everlasting-flame|Light of the Everlasting Flame]], [[srd/pf2e/compendium/deities/orc-gods/mahja-firehair|Mahja Firehair]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/sarenrae|Sarenrae]], [[srd/pf2e/compendium/deities/empyreal-lords/uskyeria|Uskyeria]]
 - **Price**: 1 gp
 - **Damage**: 1d6 S
 - **Bulk**: 1

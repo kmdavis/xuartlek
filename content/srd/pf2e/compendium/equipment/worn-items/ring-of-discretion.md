@@ -1,26 +1,23 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
-- trait/illusion
 - trait/invested
 - trait/magical
-- trait/uncommon
 - trait/visual
 - equipment/level/1
 aliases: ["Ring of Discretion"]
-aon_id: "equipment-804"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2345"
 source: "Treasure Vault (Remastered)"
 ---
 
 # Ring of Discretion  *Item 1*
 
-`Illusion`  `Invested`  `Magical`  `Uncommon`  `Visual`
+`Invested`  `Magical`  `Visual`
 
 - **Price**: 15 gp
-- **Usage**: worn ring
+- **Usage**: worn
 
-This ring magically conceals any armor and sheathed weapons you're wearing by either turning them invisible or creating the illusion of ordinary clothes. The ring doesn't change your appearance beyond concealing weapons and armor. As soon as you wield a weapon, the weapon becomes obvious to onlookers and is no longer affected by the ring until you sheathe the weapon for at least 1 minute. A creature can disbelieve this illusion by Seeking or any time it hits you with an attack.
+A _ring of discretion_ magically conceals any armor and sheathed weapons you're wearing by either turning them [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]] or creating the illusion of ordinary clothes. The ring doesn't change your appearance beyond concealing weapons and armor. As soon as you wield a weapon affected by the ring, the weapon becomes obvious to onlookers and is no longer affected until you sheathe the weapon for at least 1 minute. A creature can use the Seek action to examine you and disbelieve this illusion (DC 15), and it can attempt to do so without using an action each time it hits you with an attack.
 
 *Source: Treasure Vault (Remastered) p. 154*

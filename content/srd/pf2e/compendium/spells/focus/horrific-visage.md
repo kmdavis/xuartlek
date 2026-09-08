@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -15,7 +14,7 @@ tags:
 - trait/visual
 - spell/level/3
 aliases: ["Horrific Visage"]
-aon_id: "spell-2112"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2112"
 source: "Player Core 2"
 ---
 
@@ -23,7 +22,7 @@ source: "Player Core 2"
 
 `Concentrate`  `Emotion`  `Fear`  `Focus`  `Illusion`  `Manipulate`  `Mental`  `Sorcerer`  `Uncommon`  `Visual`
 
-- **Bloodline**: Hag
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Hag|Hag]]
 - **Area**: 30-foot-radius emanation
 - **Defense**: Will
 

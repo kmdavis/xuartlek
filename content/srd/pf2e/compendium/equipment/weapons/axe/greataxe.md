@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
 - trait/sweep
 - weapon/level/0
 aliases: ["Greataxe"]
-aon_id: "weapon-376"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=376"
 source: "Player Core"
 ---
 
@@ -14,7 +13,7 @@ source: "Player Core"
 
 `Sweep`
 
-- **Favored Weapon**: Angradd, Dammerich, Narakaas, Nulgreth, Ongalte, Rovagug, Thremyr, Treerazer, Varg
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/dwarven-gods/angradd|Angradd]], Dammerich, Narakaas, [[srd/pf2e/compendium/deities/orc-gods/nulgreth|Nulgreth]], Ongalte, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/rovagug|Rovagug]], [[srd/pf2e/compendium/deities/giant-gods/thremyr|Thremyr]], [[srd/pf2e/compendium/deities/demon-lords/treerazer|Treerazer]], [[srd/pf2e/compendium/deities/orc-gods/varg|Varg]]
 - **Price**: 2 gp
 - **Damage**: 1d12 S
 - **Bulk**: 2

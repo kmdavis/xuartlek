@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Dwarf Longshot Squad"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Dwarf Longshot Squad"
 level: 10
 source: "Battlecry!"
-aon_id: "creature-3914"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3914"
 ---
 

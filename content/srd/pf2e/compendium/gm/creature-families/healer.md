@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/npc-core
 aliases: ["Healer"]
-aon_id: "creature-family-538"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=538"
 source: "NPC Core"
 ---
 
@@ -18,7 +17,7 @@ The world is a dangerous place. Thankfully, there are those who devote their liv
 
 ### Ailments
 
-Common diseases can be found here. These can be treated by most healers, though they may have longer-term physiological impacts. For unusual conditions, like [[srd/pf2e/bestiary/monster-core/aberration/bogwid|bogwid fever]] or [[srd/pf2e/bestiary/monster-core/undead/plague-zombie|zombie rot]], you might impose penalties on a normal healer attempting to remedy them.
+Common diseases can be found [[srd/pf2e/compendium/gm/diseases|here]]. These can be treated by most healers, though they may have longer-term physiological impacts. For unusual conditions, like [[srd/pf2e/bestiary/monster-core/aberration/bogwid|bogwid fever]] or [[srd/pf2e/bestiary/monster-core/undead/plague-zombie|zombie rot]], you might impose penalties on a normal healer attempting to remedy them.
 
 ### Alchemical Reputation
 

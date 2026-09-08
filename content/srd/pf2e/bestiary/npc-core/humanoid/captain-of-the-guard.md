@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Captain of the Guard"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Captain of the Guard"
 level: 6
 source: "NPC Core"
-aon_id: "creature-3560"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3560"
 ---
 

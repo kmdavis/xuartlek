@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/changeling
 - feat/level/5
 aliases: ["Called"]
-aon_id: "feat-4537"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4537"
 source: "Player Core"
 ---
 

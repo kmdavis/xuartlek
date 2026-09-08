@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Beetle Carapace"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Beetle Carapace"
 level: 6
 source: "Monster Core 2"
-aon_id: "creature-4547"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4547"
 ---
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/orc
 - feat/level/5
 aliases: ["Athletic Might"]
-aon_id: "feat-4520"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4520"
 source: "Player Core"
 ---
 

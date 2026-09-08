@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - equipment/level/11
 aliases: ["Endless Quiver"]
-aon_id: "equipment-3962"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3962"
 source: "Battlecry!"
 ---
 
@@ -21,7 +20,7 @@ source: "Battlecry!"
 
 Elite archers can go through countless arrows over the course of a battle. Smart ones carry an _endless quiver_ to ensure they never run out. This quiver holds 40 mundane arrows and regenerates 10 per hour. Once an arrow is removed from the _endless quiver_, it dissipates after 1 minute.
 
-**Activate—Convert Arrows** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** You tap the quiver, and the arrows inside transform into [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] or [[srd/pf2e/compendium/equipment/materials/silver-object-high-grade|silver]]. They revert to wood after 1 minute.
+**Activate—Convert Arrows** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** You tap the quiver, and the arrows inside transform into [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] or [[srd/pf2e/compendium/equipment/materials/silver|silver]]. They revert to wood after 1 minute.
 
 ### Endless Quiver
 
@@ -33,6 +32,6 @@ Elite archers can go through countless arrows over the course of a battle. Smart
 
 ---
 
-The quiver holds 100 arrows at once. You can use Convert Arrows to also transform your arrows into [[srd/pf2e/compendium/equipment/materials/adamantine-object-high-grade|adamantine]] or [[srd/pf2e/compendium/equipment/materials/dawnsilver-object-high-grade|dawnsilver]].
+The quiver holds 100 arrows at once. You can use Convert Arrows to also transform your arrows into [[srd/pf2e/compendium/equipment/materials/adamantine|adamantine]] or [[srd/pf2e/compendium/equipment/materials/dawnsilver|dawnsilver]].
 
 *Source: Battlecry! p. 149*

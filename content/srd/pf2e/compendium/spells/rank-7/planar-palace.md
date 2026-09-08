@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - spell/level/7
 aliases: ["Planar Palace"]
-aon_id: "spell-1634"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1634"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Concentrate`  `Extradimensional`  `Manipulate`  `Uncommon`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Abadar, Adanye, Findeladlara, Isis, Lurlup, Mammon, Shizuru, Vudravati
+- **Deities**: [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/abadar|Abadar]], Adanye, [[srd/pf2e/compendium/deities/elven-gods/findeladlara|Findeladlara]], [[srd/pf2e/compendium/deities/dead-or-missing-deities/isis|Isis]], [[srd/pf2e/compendium/deities/goblin-gods/lurlup|Lurlup]], [[srd/pf2e/compendium/deities/archdevils/mammon|Mammon]], [[srd/pf2e/compendium/deities/tian-gods/shizuru|Shizuru]], [[srd/pf2e/compendium/deities/other-gods/vudravati|Vudravati]]
 - **Cast**: 1 minute
 - **Range**: 30 feet
 - **Duration**: until your next daily preparations

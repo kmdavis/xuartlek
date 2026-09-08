@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Dig-Widget"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Dig-Widget"
 level: 5
 source: "Monster Core 2"
-aon_id: "creature-4332"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4332"
 ---
 
@@ -35,7 +33,7 @@ skills:
 abilityMods: [2, 5, 1, -5, 0, -5]
 abilities_top:
   - name: "Infiltration Tools"
-    desc: "A dig-widget's face consists of an [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit-infiltrator-picks|infiltrator thieves' toolkit]]. This toolkit can be salvaged from a destroyed dig-widget with a successful DC 20 [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] check. On a failed check, the tools are destroyed."
+    desc: "A dig-widget's face consists of an [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit|infiltrator thieves' toolkit]]. This toolkit can be salvaged from a destroyed dig-widget with a successful DC 20 [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] check. On a failed check, the tools are destroyed."
 ac: 22
 armorclass:
   - name: "AC"

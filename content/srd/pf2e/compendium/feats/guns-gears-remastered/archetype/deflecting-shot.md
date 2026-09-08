@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/gunslinger
 - feat/level/10
 aliases: ["Deflecting Shot"]
-aon_id: "feat-3183"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3183"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -14,7 +13,7 @@ source: "Guns & Gears (Remastered)"
 
 `Gunslinger`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/sniping-duo|Sniping Duo]] (Level 12), [[srd/pf2e/compendium/character/archetypes/sniping-duo|Sniping Duo]] (Level 12)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/sniping-duo|Sniping Duo]] (Level 12)
 - **Trigger**: An ally within the first range increment of your firearm or crossbow is hit by an attack, and you can see the attacker.
 - **Requirements**: You're wielding a loaded firearm or crossbow.
 

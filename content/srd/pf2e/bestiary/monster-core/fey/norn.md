@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Norn"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Norn"
 level: 20
 source: "Monster Core"
-aon_id: "creature-3108"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3108"
 ---
 
@@ -40,7 +38,7 @@ abilities_top:
   - name: "Triumvirate"
     desc: "This functions as the coven ability, except only norns can join a triumvirate, and it functions only as long as exactly three norns are part of the triumvirate. A triumvirate grants the following spells: [[srd/pf2e/compendium/spells/rank-10/cataclysm|_cataclysm_]], [[srd/pf2e/compendium/spells/rank-9/foresight|_foresight_]], [[srd/pf2e/compendium/spells/rank-10/manifestation|_manifestation_]] (once per day), [[srd/pf2e/compendium/spells/rank-8/pinpoint|_pinpoint_]], and [[srd/pf2e/compendium/spells/rank-10/revival|_revival_]]."
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/weapons/knife/shears|Shears]] (see favored weapon)"
+    desc: "Shears (see favored weapon)"
 ac: 46
 armorclass:
   - name: "AC"
@@ -48,7 +46,7 @@ armorclass:
 hp: 375
 health:
   - name: "HP"
-    desc: "375 , regeneration 20 (deactivated by [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]]); __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]; __Weaknesses__ cold iron 20"
+    desc: "375 , regeneration 20 (deactivated by [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]]); __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]; __Weaknesses__ cold iron 20"
 speed: "35 feet, fly 35 feet"
 attacks:
   - name: "Melee"
@@ -57,7 +55,7 @@ attacks:
     desc: "⬻ hand of fate +38 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 4d10+15 void plus sever fate"
 abilities_bot:
   - name: "Fated"
-    desc: "When a creature is subject to a [[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]] effect from a norn and a [[srd/pf2e/compendium/rules-elements/traits/player-core/misfortune|misfortune]] effect from any source other than a norn (or vice versa), the norn's effect automatically counteracts the other effect and then takes place normally, rather than the two effects canceling each other out. If both the fortune and misfortune effect are from a norn, then the two cancel each other out as normal. At the GM's discretion, powerful entities related to fate or luck, like Desna, Magdh, or Pharasma, can't have their effects negated by this ability."
+    desc: "When a creature is subject to a [[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]] effect from a norn and a [[srd/pf2e/compendium/rules-elements/traits/player-core/misfortune|misfortune]] effect from any source other than a norn (or vice versa), the norn's effect automatically counteracts the other effect and then takes place normally, rather than the two effects canceling each other out. If both the fortune and misfortune effect are from a norn, then the two cancel each other out as normal. At the GM's discretion, powerful entities related to fate or luck, like [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/desna|Desna]], [[srd/pf2e/compendium/deities/eldest/magdh|Magdh]], or [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma]], can't have their effects negated by this ability."
   - name: "Sever Fate"
     desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]]) When a norn deals void damage with a Strike, she regains 10 Hit Points. The target must succeed at a DC 39 Fortitude save or become [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained 1]] (drained 2 on a critical failure). Further void damage dealt by the norn increases the drained condition value by 1 on a failed save (or by 2 on a critical failure), to a maximum of drained 4."
   - name: "Shift Fate"

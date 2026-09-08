@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -8,7 +7,7 @@ tags:
 - trait/rare
 - equipment/level/20
 aliases: ["Whisper of the First Lie"]
-aon_id: "equipment-3118"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3118"
 source: "GM Core"
 ---
 
@@ -16,7 +15,7 @@ source: "GM Core"
 
 `Invested`  `Magical`  `Rare`
 
-- **Price**: 60,000 gp
+- **Price**: 60, 000 gp
 - **Usage**: worn
 
 This delicate necklace contains bottled whispers distilled from a source on the Astral Plane rumored to be connected to the first lie ever told. While wearing the necklace, you gain a +3 item bonus to Deception checks, and you can attempt to counteract effects that would force you to tell the truth or determine whether you are lying. Success on this counteract attempt lets you ignore the effect, rather than removing the effect entirely. The counteract rank is 9, with a counteract modifier of +35. 

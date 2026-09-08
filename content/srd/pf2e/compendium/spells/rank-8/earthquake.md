@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/manipulate
 - spell/level/8
 aliases: ["Earthquake"]
-aon_id: "spell-1507"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1507"
 source: "Player Core"
 ---
 
@@ -17,8 +16,8 @@ source: "Player Core"
 `Concentrate`  `Earth`  `Manipulate`
 
 - **Traditions**: Arcane, Primal
-- **Bloodline**: Elemental
-- **Deities**: Magrim, Treasures of the Eternal Delve, Zevgavizeb
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Elemental|Elemental]]
+- **Deities**: [[srd/pf2e/compendium/deities/dwarven-gods/magrim|Magrim]], [[srd/pf2e/compendium/deities/covenants/treasures-of-the-eternal-delve|Treasures of the Eternal Delve]], [[srd/pf2e/compendium/deities/demon-lords/zevgavizeb|Zevgavizeb]]
 - **Range**: 500 feet
 - **Area**: 60-foot burst
 - **Duration**: 1 round

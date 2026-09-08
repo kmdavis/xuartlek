@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/polymorph
 aliases: ["Polymorph"]
-aon_id: "trait-670"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=670"
 source: "Player Core"
 ---
 

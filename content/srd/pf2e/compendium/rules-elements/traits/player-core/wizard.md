@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/wizard
 aliases: ["Wizard"]
-aon_id: "trait-735"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=735"
 source: "Player Core"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Caligni Skulker"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Caligni Skulker"
 level: 2
 source: "Monster Core"
-aon_id: "creature-2863"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2863"
 ---
 

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/howl-of-the-wild
 - trait/awakened-animal
 aliases: ["Awakened Animal"]
-aon_id: "trait-787"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=787"
 source: "Howl of the Wild"
 ---
 

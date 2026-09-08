@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - equipment/level/12
 aliases: ["Psalter Of The Blessed"]
-aon_id: "equipment-5130"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5130"
 source: "Impossible Magic"
 ---
 
@@ -16,7 +15,7 @@ source: "Impossible Magic"
 
 `Grimoire`  `Holy`  `Magical`
 
-- **Price**: 1,800 gp
+- **Price**: 1, 800 gp
 - **Bulk**: L
 
 These gold-leafed volumes bear the religious symbol of a deity who allows or requires [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] sanctification. [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|Unholy]] creatures are [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] 2 as long as they keep the tome in their possession and can’t recover from this condition. 

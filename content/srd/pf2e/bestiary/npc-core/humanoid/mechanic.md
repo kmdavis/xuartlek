@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Mechanic"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Mechanic"
 level: 1
 source: "NPC Core"
-aon_id: "creature-3457"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3457"
 ---
 
@@ -39,7 +37,7 @@ abilities_top:
   - name: "Mechanical Specialist"
     desc: "For encounters involving mechanical repair, the mechanic is an 8th-level challenge."
   - name: "Items"
-    desc: "[[srd/pf2e/compendium/equipment/weapons/crossbow/arbalest|Arbalest]] (20 bolts), heavy wrench, [[srd/pf2e/compendium/equipment/adventuring-gear/repair-toolkit-superb|Repair Toolkit]]"
+    desc: "[[srd/pf2e/compendium/equipment/weapons/crossbow/arbalest|Arbalest]] (20 bolts), heavy wrench, [[srd/pf2e/compendium/equipment/adventuring-gear/repair-toolkit|Repair Toolkit]]"
 ac: 14
 armorclass:
   - name: "AC"

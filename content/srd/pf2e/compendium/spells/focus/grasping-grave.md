@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -10,7 +9,7 @@ tags:
 - trait/uncommon
 - spell/level/5
 aliases: ["Grasping Grave"]
-aon_id: "spell-2119"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2119"
 source: "Player Core 2"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core 2"
 
 `Concentrate`  `Focus`  `Manipulate`  `Sorcerer`  `Uncommon`
 
-- **Bloodline**: Undead
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Undead|Undead]]
 - **Range**: 60 feet
 - **Area**: 20-foot radius on the ground
 - **Defense**: Reflex

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Mixed Martial Artist"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Mixed Martial Artist"
 level: 7
 source: "NPC Core"
-aon_id: "creature-3502"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3502"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [4, 2, 3, 1, 2, 1]
 abilities_top:
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/worn-items/handwraps-of-mighty-blows-3-major-striking|handwraps of mighty blows]]_"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/worn-items/handwraps-of-mighty-blows|handwraps of mighty blows]]_"
 ac: 24
 armorclass:
   - name: "AC"

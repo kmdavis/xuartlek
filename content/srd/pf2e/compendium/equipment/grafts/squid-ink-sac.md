@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - equipment/level/5
 aliases: ["Squid Ink Sac"]
-aon_id: "equipment-3190"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3190"
 source: "Howl of the Wild"
 ---
 

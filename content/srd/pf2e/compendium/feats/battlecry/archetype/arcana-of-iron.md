@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
 - trait/archetype
 - feat/level/6
 aliases: ["Arcana of Iron"]
-aon_id: "feat-7980"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7980"
 source: "Battlecry!"
 ---
 

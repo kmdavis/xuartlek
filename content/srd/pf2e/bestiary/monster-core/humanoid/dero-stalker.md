@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Dero Stalker"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Dero Stalker"
 level: 2
 source: "Monster Core"
-aon_id: "creature-2902"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2902"
 ---
 
@@ -64,7 +62,7 @@ abilities_bot:
   - name: "Effect"
     desc: "The dero excises damaged flesh and crudely stitches wounds shut, healing themself or an ally in reach for 2d8 Hit Points. For 1 hour, the target has slashing weakness 2 and is immune to Dero Medicine."
   - name: "Exploit Lethargy"
-    desc: "A creature afflicted with [[srd/pf2e/compendium/equipment/alchemical-items/lethargy-poison|lethargy poison]] is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to the dero stalker, and the stalker can choose to add the [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] trait to their attacks against the creature without taking the normal penalty."
+    desc: "A creature afflicted with lethargy poison is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to the dero stalker, and the stalker can choose to add the [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] trait to their attacks against the creature without taking the normal penalty."
   - name: "Sneak Attack"
     desc: "A dero stalker deals 1d6 extra precision damage to creatures who are [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]]."
 spellcasting:

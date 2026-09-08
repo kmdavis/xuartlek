@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/magical
 - equipment/level/6
 aliases: ["Wind Ocarina"]
-aon_id: "equipment-2131"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2131"
 source: "Treasure Vault (Remastered)"
 ---
 

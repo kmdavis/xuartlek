@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/3
 aliases: ["Sea of Thought"]
-aon_id: "spell-2579"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2579"
 source: "Dark Archives (Remastered)"
 ---
 
@@ -16,7 +15,7 @@ source: "Dark Archives (Remastered)"
 `Concentrate`  `Manipulate`
 
 - **Traditions**: Arcane, Occult
-- **Deity**: Thoth
+- **Deity**: [[srd/pf2e/compendium/deities/dead-or-missing-deities/thoth|Thoth]]
 - **Range**: 60 feet
 - **Area**: 15-foot burst
 - **Defense**: Fortitude

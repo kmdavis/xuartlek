@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/fortune
 - feat/level/6
 aliases: ["Assured Knowledge"]
-aon_id: "feat-4596"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4596"
 source: "Player Core"
 ---
 

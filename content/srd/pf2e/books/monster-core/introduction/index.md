@@ -7,7 +7,6 @@ cssclasses:
 tags:
   - srd/pf2e/monster-core
 source: "Monster Core"
-aon_id: 3258
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3258"
 citation: "Monster Core pg. 5"
 ---

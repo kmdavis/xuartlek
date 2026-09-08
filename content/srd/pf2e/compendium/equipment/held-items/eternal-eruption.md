@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -7,7 +6,7 @@ tags:
 - trait/magical
 - equipment/level/5
 aliases: ["Eternal Eruption"]
-aon_id: "equipment-3020"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3020"
 source: "GM Core"
 ---
 
@@ -18,7 +17,7 @@ source: "GM Core"
 - **Usage**: held in 1 hand
 - **Bulk**: L
 
-Resembling [[srd/pf2e/compendium/equipment/consumables/frozen-lava-of-barrowsiege|frozen lava]], an eternal eruption is made with the same type of time magic, but is built to loop through time, reforming itself after it's used. Determining the difference between the two requires a close examination to see a faint, repeating pattern of red runes. 
+Resembling [[srd/pf2e/compendium/equipment/consumables/frozen-lava|frozen lava]], an eternal eruption is made with the same type of time magic, but is built to loop through time, reforming itself after it's used. Determining the difference between the two requires a close examination to see a faint, repeating pattern of red runes. 
 
 **Activate—Lava Bomb** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** You fling the eternal eruption, with the effect of frozen lava of the same item level. After 2d4 hours, the eternal eruption reforms itself in a container on your person, typically the one you most recently stored it in.
 

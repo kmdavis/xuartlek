@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -8,7 +7,7 @@ tags:
 - trait/primal
 - feat/level/8
 aliases: ["Purify Element"]
-aon_id: "feat-4195"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4195"
 source: "Rage of Elements"
 ---
 

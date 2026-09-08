@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
 - trait/reach
 - weapon/level/0
 aliases: ["Longspear"]
-aon_id: "weapon-361"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=361"
 source: "Player Core"
 ---
 
@@ -14,7 +13,7 @@ source: "Player Core"
 
 `Reach`
 
-- **Favored Weapon**: Haborym, Lubaiko, Vudravati
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/infernal-dukes/haborym|Haborym]], Lubaiko, [[srd/pf2e/compendium/deities/other-gods/vudravati|Vudravati]]
 - **Price**: 5 sp
 - **Damage**: 1d8 P
 - **Bulk**: 2

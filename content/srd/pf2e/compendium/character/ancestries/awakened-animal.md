@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ancestry
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -7,7 +6,7 @@ tags:
 - trait/beast
 - trait/rare
 aliases: ["Awakened Animal"]
-aon_id: "ancestry-72"
+aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=72"
 source: "Howl of the Wild"
 ---
 
@@ -43,7 +42,7 @@ Awakened animals are rare enough and separate enough that few find themselves tr
 
 Awakened animals tend to see the world through a lens of natural order. Those who are unsettled by humans or have been traumatized by them typically live within nature, while those driven by curiosity or structure seek to find a place in the more ordered and rule-bound nature of humanoid society.
 
- There is no uniform religion among awakened animals, but it is unsurprising that gods with domains in the natural world, like Gozreh, are popular. There are small groups of awakened animals who worship destructive gods such as Lamashtu and Rovagug. Those who were awakened by a companion might adopt that companion's outlook, and possibly adopt that companion's religion as well.
+ There is no uniform religion among awakened animals, but it is unsurprising that gods with domains in the natural world, like [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/gozreh|Gozreh]], are popular. There are small groups of awakened animals who worship destructive gods such as [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/lamashtu|Lamashtu]] and [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/rovagug|Rovagug]]. Those who were awakened by a companion might adopt that companion's outlook, and possibly adopt that companion's religion as well.
 
  **Popular Edicts** explore your newfound sentience, enjoy the creature comforts of humanoid civilization; often other edicts related to your animal side, such as “keep the pack together” for a canine or “always wash your food” for a raccoon
  **Popular Anathema** revert to purely animalistic behaviors

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/versatile
 - weapon/level/0
 aliases: ["Shortsword"]
-aon_id: "weapon-398"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=398"
 source: "Player Core"
 ---
 
@@ -16,7 +15,7 @@ source: "Player Core"
 
 `Agile`  `Finesse`  `Versatile`
 
-- **Favored Weapon**: Chaldira, Dammar, Grasping Iovett, Hathor, Husk, Jaidz, Kelinahat, Norgorber, Radiant Prism, Thisamet
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/other-gods/chaldira|Chaldira]], [[srd/pf2e/compendium/deities/monitor-demigods/dammar|Dammar]], Grasping Iovett, Hathor, Husk, Jaidz, [[srd/pf2e/compendium/deities/empyreal-lords/kelinahat|Kelinahat]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/norgorber|Norgorber]], [[srd/pf2e/compendium/deities/pantheons/radiant-prism|Radiant Prism]], Thisamet
 - **Price**: 9 sp
 - **Damage**: 1d6 P
 - **Bulk**: L
@@ -33,6 +32,6 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 ### Specific Magic Weapons
 
-[[srd/pf2e/compendium/equipment/weapons/greater-blade-of-four-energies|Blade Of Four Energies]], Celestial Peachwood Sword, [[srd/pf2e/compendium/equipment/weapons/gloom-blade|Gloom Blade]], [[srd/pf2e/compendium/equipment/weapons/radiant-victory|Radiant Victory]]
+[[srd/pf2e/compendium/equipment/weapons/blade-of-four-energies|Blade Of Four Energies]], Celestial Peachwood Sword, [[srd/pf2e/compendium/equipment/weapons/gloom-blade|Gloom Blade]], [[srd/pf2e/compendium/equipment/weapons/radiant-victory|Radiant Victory]]
 
 *Source: Player Core p. 278*

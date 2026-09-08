@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Ancient Omen Dragon"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Ancient Omen Dragon"
 level: 16
 source: "Monster Core"
-aon_id: "creature-2955"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2955"
 ---
 

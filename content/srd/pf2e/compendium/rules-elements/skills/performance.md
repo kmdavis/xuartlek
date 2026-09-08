@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-skill
 tags:
 - compendium/src/pf2e/player-core
 aliases: ["Performance"]
-aon_id: "skill-45"
+aon_url: "https://2e.aonprd.com/Skills.aspx?ID=45"
 source: "Player Core"
 ---
 
@@ -39,14 +38,14 @@ Category
 Consumable
 Note
 
-[[srd/pf2e/compendium/equipment/adventuring-gear/musical-instrument-virtuoso-heavy|Musical Instrument (Virtuoso Handheld)]]
+[[srd/pf2e/compendium/equipment/adventuring-gear/musical-instrument|Musical Instrument (Virtuoso Handheld)]]
 +1
 3
 Adventuring Gear
 No
 checks using the instrument
 
-[[srd/pf2e/compendium/equipment/adventuring-gear/musical-instrument-virtuoso-heavy|Musical Instrument (Virtuoso Heavy)]]
+[[srd/pf2e/compendium/equipment/adventuring-gear/musical-instrument|Musical Instrument (Virtuoso Heavy)]]
 +1
 3
 Adventuring Gear
@@ -150,7 +149,7 @@ Held Items
 No
 Item bonus to Performance check using the item
 
-[[srd/pf2e/compendium/equipment/worn-items/entertainers-cincture-greater|Entertainer's Cincture]]
+[[srd/pf2e/compendium/equipment/worn-items/entertainers-cincture|Entertainer's Cincture]]
 +2
 10
 Worn Items
@@ -171,7 +170,7 @@ Other Worn Items
 No
 item bonus to all Performance checks
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal]]
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal]]
 +2
 11
 Worn Items
@@ -248,14 +247,14 @@ Coda
 No
 Performance checks
 
-[[srd/pf2e/compendium/equipment/worn-items/entertainers-cincture-greater|Entertainer's Cincture (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/entertainers-cincture|Entertainer's Cincture (Greater)]]
 +3
 17
 Worn Items
 No
 Item bonus to Performance if selected
 
-[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal (Greater)]]
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal|Helm of Zeal (Greater)]]
 +3
 18
 Worn Items

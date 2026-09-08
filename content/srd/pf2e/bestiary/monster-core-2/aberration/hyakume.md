@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Hyakume"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Hyakume"
 level: 15
 source: "Monster Core 2"
-aon_id: "creature-4444"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4444"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Animated Statue"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Animated Statue"
 level: 3
 source: "Monster Core"
-aon_id: "creature-2820"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2820"
 ---
 

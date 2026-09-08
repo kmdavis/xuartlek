@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-eidolon
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/eidolon
 - trait/swarm
 aliases: ["Swarm"]
-aon_id: "eidolon-13"
+aon_url: "https://2e.aonprd.com/Eidolons.aspx?ID=13"
 source: "Battlecry!"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/rare
 - equipment/level/19
 aliases: ["Ouroboros Buckles"]
-aon_id: "equipment-1850"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1850"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -16,12 +15,12 @@ source: "Treasure Vault (Remastered)"
 
 `Invested`  `Magical`  `Rare`
 
-- **Price**: 40,000 gp
+- **Price**: 40, 000 gp
 - **Usage**: worn armor
 - **Bulk**: 1
 - **Base Armor**: [[srd/pf2e/compendium/equipment/armor#Buckle Armor|Buckle Armor]]
 
-This ominous-looking _+3 greater resilient greater acid-resistant [[srd/pf2e/compendium/equipment/armor#Buckle Armor|buckle armor]]_ is deep red in color, favored by assassins who worship Norgorber or Asmodeus, and if unfastened, the many belts and buckles writhe like living snakes. _Ouroboros buckles_ have the [[srd/pf2e/compendium/rules-elements/traits/player-core/comfort|comfort]] trait. However, while wearing _ouroboros buckles_, the unfathomable concept of infinity pulls at your mind, and each time you awaken, you'd swear the armor hissed into your ear while you were asleep. The hissing suggested secret wisdom to you in [[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], though you only ever remember it vaguely, like a fading dream.
+This ominous-looking _+3 greater resilient greater acid-resistant [[srd/pf2e/compendium/equipment/armor#Buckle Armor|buckle armor]]_ is deep red in color, favored by assassins who worship [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/norgorber|Norgorber]] or [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/asmodeus|Asmodeus]], and if unfastened, the many belts and buckles writhe like living snakes. _Ouroboros buckles_ have the [[srd/pf2e/compendium/rules-elements/traits/player-core/comfort|comfort]] trait. However, while wearing _ouroboros buckles_, the unfathomable concept of infinity pulls at your mind, and each time you awaken, you'd swear the armor hissed into your ear while you were asleep. The hissing suggested secret wisdom to you in [[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], though you only ever remember it vaguely, like a fading dream.
 
 **Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** You call forth the cursed regenerative blood of an ouroboros to recover from your wounds. You gain regeneration 15 for 1 minute; [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] damage deactivates this regeneration. Each time you regain Hit Points from this regeneration, if you're in your normal form, you collapse into a large swarm of Tiny snakes. This is a [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorph]] effect that changes you into a battle form.
 

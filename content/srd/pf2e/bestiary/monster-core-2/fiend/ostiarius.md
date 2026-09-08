@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Ostiarius"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Ostiarius"
 level: 5
 source: "Monster Core 2"
-aon_id: "creature-4607"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4607"
 ---
 
@@ -48,7 +46,7 @@ armorclass:
 hp: 65
 health:
   - name: "HP"
-    desc: "65 , regeneration 5 (deactivated by [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] or [[srd/pf2e/compendium/equipment/materials/silver-object-high-grade|silver]]); __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]]; __Weaknesses__ holy 5, silver 5"
+    desc: "65 , regeneration 5 (deactivated by [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] or [[srd/pf2e/compendium/equipment/materials/silver|silver]]); __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]]; __Weaknesses__ holy 5, silver 5"
 abilities_mid:
   - name: "Whispering Wounds"
     desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]]) 30 feet. When a creature ends its turn in the aura, it hears the wounds on the ostiarius's body whisper obscene truths. The creature must succeed at a DC 21 Will save or become [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1."

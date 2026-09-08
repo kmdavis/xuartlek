@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -10,7 +9,7 @@ tags:
 - trait/wandering
 - feat/level/16
 aliases: ["Spiritual Spellshape Stance"]
-aon_id: "feat-7149"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7149"
 source: "War of Immortals"
 ---
 

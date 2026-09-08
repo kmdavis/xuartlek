@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/player-core-2
@@ -10,7 +9,7 @@ tags:
 - trait/uncommon
 - equipment/level/20
 aliases: ["Elixir of Rejuvenation"]
-aon_id: "equipment-3309"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3309"
 source: "Player Core 2"
 ---
 
@@ -26,6 +25,6 @@ The elixir of rejuvenation restores a creature to full health and eradicates tox
 
 You can instead administer this elixir to a creature that has been dead for a week or less. When you do, that creature is instantly brought back to life with 1 Hit Point and no spell slots, Focus Points, or other daily resources.
 
-**Craft Requirements** [[srd/pf2e/compendium/equipment/alchemical-items/philosophers-stone-equipment-3357|philosopher's stone]], true [[srd/pf2e/compendium/equipment/alchemical-items/elixir-of-life-true|elixir of life]]
+**Craft Requirements** [[srd/pf2e/compendium/equipment/alchemical-items/philosophers-stone|philosopher's stone]], true [[srd/pf2e/compendium/equipment/alchemical-items/elixir-of-life|elixir of life]]
 
 *Source: Player Core 2 p. 288*

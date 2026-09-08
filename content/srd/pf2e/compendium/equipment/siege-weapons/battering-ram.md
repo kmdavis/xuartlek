@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - siege-weapon/level/5
 aliases: ["Battering Ram"]
-aon_id: "siege-weapon-3"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=3"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -34,7 +33,7 @@ Simple but powerful, a battering ram is a full tree stripped of limbs with one e
 
 ---
 
-Though it has the same Ram activity as the basic battering ram, a covered battering ram is additionally suspended from a protective roof attached to large wheels. This gives the crew members greater cover against attacks from outside. The cover is on the left and right flank, but open on the front and rear to allow for operating the ram. The roof has AC 23, Hardness 12, HP 48, and BT 24. Breaking the roof doesn't affect the operation of the battering ram but eliminates the cover.
+Though it has the same Ram activity as the [[srd/pf2e/compendium/equipment/siege-weapons/battering-ram|basic battering ram]], a covered battering ram is additionally suspended from a protective roof attached to large wheels. This gives the crew members greater cover against attacks from outside. The cover is on the left and right flank, but open on the front and rear to allow for operating the ram. The roof has AC 23, Hardness 12, HP 48, and BT 24. Breaking the roof doesn't affect the operation of the battering ram but eliminates the cover.
 
 ### Battering Ram
 

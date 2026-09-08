@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/necromancer
 - feat/level/12
 aliases: ["Sanguine Mastery"]
-aon_id: "feat-9142"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9142"
 source: "Impossible Magic"
 ---
 

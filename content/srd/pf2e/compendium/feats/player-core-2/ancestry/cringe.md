@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -9,7 +8,7 @@ tags:
 - trait/visual
 - feat/level/1
 aliases: ["Cringe"]
-aon_id: "feat-5612"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5612"
 source: "Player Core 2"
 ---
 

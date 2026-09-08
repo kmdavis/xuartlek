@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -8,7 +7,7 @@ tags:
 - trait/oil
 - equipment/level/11
 aliases: ["Oil of Repulsion"]
-aon_id: "equipment-2937"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2937"
 source: "GM Core"
 ---
 

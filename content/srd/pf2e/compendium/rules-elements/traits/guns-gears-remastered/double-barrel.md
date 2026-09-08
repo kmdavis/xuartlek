@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/double-barrel
 aliases: ["Double Barrel"]
-aon_id: "trait-403"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=403"
 source: "Guns & Gears (Remastered)"
 ---
 

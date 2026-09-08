@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Hesperid"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Hesperid"
 level: 9
 source: "Monster Core 2"
-aon_id: "creature-4491"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4491"
 ---
 
@@ -43,7 +41,7 @@ armorclass:
 hp: 175
 health:
   - name: "HP"
-    desc: "175; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 10"
+    desc: "175; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 10"
 abilities_mid:
   - name: "Sunset Dependent"
     desc: "A hesperid is mystically bonded to a single remote location with a good view of the sunset—usually an island, coastal cliff, or valley. If they aren't at that location and able to see the sky at sunset on any given day, they become [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] 1, increasing the value by 1 for each missed sunset and reducing by 1 only when they see a sunset. A hesperid can perform a 24-hour ritual to bond to a new location."

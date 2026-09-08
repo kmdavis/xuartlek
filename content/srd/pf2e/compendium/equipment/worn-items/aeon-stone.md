@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - equipment/level/1
 aliases: ["Aeon Stone"]
-aon_id: "equipment-3055"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3055"
 source: "GM Core"
 ---
 
@@ -101,7 +100,7 @@ This spherical piece of silvery stone helps you ignore minor issues. You can ign
 
 Encouraging the natural growth of life, this green ovoid can often be found surrounded by new seedlings. Its resonant power allows you to cast [[srd/pf2e/compendium/spells/cantrips/tangle-vine|_tangle vine_]] as a primal innate cantrip. 
 
-**Activate—Flow of Life** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/light|light]], [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]]) **Frequency** once per day; **Effect** The crescent aeon stone fires a blast of silvery moonlight in a 100-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Line|line]], dealing 4d12 spirit damage to all creatures in the area (DC 22 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). This is [[srd/pf2e/compendium/equipment/materials/silver-object-high-grade|silver]] damage for the purposes of weaknesses, resistances, and the like.
+**Activate—Flow of Life** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/light|light]], [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]]) **Frequency** once per day; **Effect** The crescent aeon stone fires a blast of silvery moonlight in a 100-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Line|line]], dealing 4d12 spirit damage to all creatures in the area (DC 22 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). This is [[srd/pf2e/compendium/equipment/materials/silver|silver]] damage for the purposes of weaknesses, resistances, and the like.
 
 ### Aeon Stone (Vital amplification)
 

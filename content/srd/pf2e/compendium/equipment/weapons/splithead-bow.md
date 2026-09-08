@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - equipment/level/7
 aliases: ["Splithead Bow"]
-aon_id: "equipment-3209"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3209"
 source: "Howl of the Wild"
 ---
 
@@ -20,7 +19,7 @@ source: "Howl of the Wild"
 - **Bulk**: 2
 - **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/bow/longbow|Longbow]]
 
-This _[[srd/pf2e/compendium/equipment/runes/weapon-potency-3|+1]] [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] hauling [[srd/pf2e/compendium/equipment/weapons/bow/longbow|longbow]]_ is lined with the flesh of a fallen [[srd/pf2e/bestiary/monster-core/beast/hydra|hydra]] and ornate carvings on the grip that depict the hydra’s number of heads it had before it was slain. When you wield the bow in combat, you regain 2 Hit Points at the start of each of your turns.
+This _[[srd/pf2e/compendium/equipment/runes/weapon-potency|+1]] [[srd/pf2e/compendium/equipment/runes/striking|striking]] hauling [[srd/pf2e/compendium/equipment/weapons/bow/longbow|longbow]]_ is lined with the flesh of a fallen [[srd/pf2e/bestiary/monster-core/beast/hydra|hydra]] and ornate carvings on the grip that depict the hydra’s number of heads it had before it was slain. When you wield the bow in combat, you regain 2 Hit Points at the start of each of your turns.
 
 **Activate—Two-Headed Arrow** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** You imbue your arrow with the properties of a hydra, splitting it in two and sending each at a different foe. Make two ranged [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strikes]], each against a separate target. Both targets must be in your line of sight, and within 50 feet of you. Both Strikes count toward your multiple attack penalty, but the penalty doesn’t increase until after you’ve made both attacks. Additionally, after using this ability, you do not regain Hit Points from wielding the bow on your next turn.
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-eidolon
 tags:
 - compendium/src/pf2e/rage-of-elements
 - trait/eidolon
 - trait/elemental
 aliases: ["Elemental"]
-aon_id: "eidolon-12"
+aon_url: "https://2e.aonprd.com/Eidolons.aspx?ID=12"
 source: "Rage of Elements"
 ---
 

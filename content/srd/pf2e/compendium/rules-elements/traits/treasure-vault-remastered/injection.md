@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
 - trait/injection
 aliases: ["Injection"]
-aon_id: "trait-407"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=407"
 source: "Treasure Vault (Remastered)"
 ---
 

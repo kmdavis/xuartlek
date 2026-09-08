@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/gnome
 - feat/level/9
 aliases: ["Vivacious Conduit"]
-aon_id: "feat-4435"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4435"
 source: "Player Core"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Departmental Chair"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Departmental Chair"
 level: 7
 source: "NPC Core"
-aon_id: "creature-3594"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3594"
 ---
 

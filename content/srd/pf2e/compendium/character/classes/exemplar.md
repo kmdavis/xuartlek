@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class
 tags:
 - compendium/src/pf2e/war-of-immortals
 - trait/rare
 aliases: ["Exemplar"]
-aon_id: "class-65"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=65"
 source: "War of Immortals"
 ---
 
@@ -110,7 +109,7 @@ In addition to what you get from your class at 1st level, you have four free boo
 
 #### Divine Spark and Ikons
 
-Within your soul is a tiny spark of divine power that belongs not to a deity, but is something you've claimed all your own. You can focus this divine power through special items known as ikons. Ikons are items or bodily features intrinsically linked to you—sacred vessels forged from your divinity that are capable of conducting its power. Select three ikons.
+Within your soul is a tiny spark of divine power that belongs not to a deity, but is something you've claimed all your own. You can focus this divine power through special items known as ikons. Ikons are items or bodily features intrinsically linked to you—sacred vessels forged from your divinity that are capable of conducting its power. Select three [[srd/pf2e/compendium/character/ikons|ikons]].
 
  By placing your divine spark into one of your ikons, you empower that ikon to accomplish deeds beyond what it could in mortal hands. Each ikon has both a passive immanence effect and an active transcendence effect. Both of these effects require your divine spark to be in the item. You can place your spark into an ikon by using the Shift Immanence action. 
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Gravedigger"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Gravedigger"
 level: 1
 source: "NPC Core"
-aon_id: "creature-3495"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3495"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [4, 1, 3, 0, 2, 0]
 abilities_top:
   - name: "Items"
-    desc: "bull's-eye lantern (2 oils), gravedigger's garb (functions as [[srd/pf2e/compendium/equipment/armor#Leather Armor|leather armor]]), [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol-silver|religious symbol]] of Pharasma, shovel"
+    desc: "bull's-eye lantern (2 oils), gravedigger's garb (functions as [[srd/pf2e/compendium/equipment/armor#Leather Armor|leather armor]]), [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol|religious symbol]] of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma]], shovel"
 ac: 15
 armorclass:
   - name: "AC"
@@ -55,7 +53,7 @@ abilities_bot:
   - name: "Light in the Dark"
     desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|Vitality]])"
   - name: "Requirements"
-    desc: "The gravedigger is holding a [[srd/pf2e/compendium/equipment/adventuring-gear/lantern-hooded|bull's-eye lantern]] in one hand and their [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol-silver|religious symbol]] in the other, and the lantern contains [[srd/pf2e/compendium/equipment/adventuring-gear/oil|oil]]"
+    desc: "The gravedigger is holding a [[srd/pf2e/compendium/equipment/adventuring-gear/lantern|bull's-eye lantern]] in one hand and their [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol|religious symbol]] in the other, and the lantern contains [[srd/pf2e/compendium/equipment/adventuring-gear/oil|oil]]"
   - name: "Effect"
     desc: "The gravedigger recites a brief chant to ignite their lantern with vital energy. Each [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]] creature in a 15-foot line takes 3d6 vitality damage with a DC 14 basic Fortitude save. This action uses all remaining oil in the bull's-eye lantern."
 sourcebook: "_NPC Core_, page 69."

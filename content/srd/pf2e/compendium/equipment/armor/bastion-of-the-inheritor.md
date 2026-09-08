@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - equipment/level/12
 aliases: ["Bastion of the Inheritor"]
-aon_id: "equipment-1841"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1841"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -16,7 +15,7 @@ source: "Treasure Vault (Remastered)"
 
 `Invested`  `Magical`  `Uncommon`
 
-- **Price**: 1,750 gp
+- **Price**: 1, 750 gp
 - **Usage**: worn armor
 - **Bulk**: 5
 - **Base Armor**: [[srd/pf2e/compendium/equipment/armor#Bastion Plate|Bastion Plate]]

@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/agile
 aliases: ["Agile"]
-aon_id: "trait-526"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=526"
 source: "Player Core"
 ---
 

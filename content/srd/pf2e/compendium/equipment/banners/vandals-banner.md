@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/battlecry
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - equipment/level/4
 aliases: ["Vandal's Banner"]
-aon_id: "equipment-3920"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3920"
 source: "Battlecry!"
 ---
 

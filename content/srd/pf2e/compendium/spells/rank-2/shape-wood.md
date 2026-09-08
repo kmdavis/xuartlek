@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/wood
 - spell/level/2
 aliases: ["Shape Wood"]
-aon_id: "spell-1668"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1668"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Plant`  `Wood`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Hearth and Harvest, Sovyrian Conclave, Yuelral
+- **Deities**: Hearth and Harvest, [[srd/pf2e/compendium/deities/pantheons/sovyrian-conclave|Sovyrian Conclave]], [[srd/pf2e/compendium/deities/elven-gods/yuelral|Yuelral]]
 - **Range**: touch
 - **Target**: an unworked piece of wood up to 20 cubic feet in volume
 

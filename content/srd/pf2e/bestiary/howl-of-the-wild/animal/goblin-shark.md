@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Goblin Shark"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Goblin Shark"
 level: 5
 source: "Howl of the Wild"
-aon_id: "creature-3307"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3307"
 ---
 

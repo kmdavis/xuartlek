@@ -7,7 +7,6 @@ cssclasses:
 tags:
   - srd/pf2e/gm-core
 source: "GM Core"
-aon_id: 3248
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3248"
 citation: "GM Core pg. 308"
 ---
@@ -96,12 +95,12 @@ The more gifts there are of one aspect, the more the relic reflects that aspect,
 >
 > ### Air
 >
-> **Armor** (Major) [[srd/pf2e/compendium/equipment/runes/energy-resistant-greater|energy-resistant]] or greater energy resistant (cold or electricity), [[srd/pf2e/compendium/equipment/runes/invisibility-greater|invisibility]]; **Armor** (Grand) [[srd/pf2e/compendium/equipment/runes/winged-greater|winged]]
-> **Weapon** (Minor) [[srd/pf2e/compendium/equipment/runes/returning|returning]]; **Weapon** (Major) [[srd/pf2e/compendium/equipment/runes/animated|animated]], [[srd/pf2e/compendium/equipment/runes/shock-greater|shock]], [[srd/pf2e/compendium/equipment/runes/thundering-greater|thundering]]; **Weapon** (Grand) greater shock, greater thundering
+> **Armor** (Major) [[srd/pf2e/compendium/equipment/runes/energy-resistant|energy-resistant]] or greater energy resistant (cold or electricity), [[srd/pf2e/compendium/equipment/runes/invisibility|invisibility]]; **Armor** (Grand) [[srd/pf2e/compendium/equipment/runes/winged|winged]]
+> **Weapon** (Minor) [[srd/pf2e/compendium/equipment/runes/returning|returning]]; **Weapon** (Major) [[srd/pf2e/compendium/equipment/runes/animated|animated]], [[srd/pf2e/compendium/equipment/runes/shock|shock]], [[srd/pf2e/compendium/equipment/runes/thundering|thundering]]; **Weapon** (Grand) greater shock, greater thundering
 >
 > ### Beast
 >
-> **Weapon** (Minor) [[srd/pf2e/compendium/equipment/runes/fearsome-greater|fearsome]], [[srd/pf2e/compendium/equipment/runes/wounding|wounding]]; **Weapon** (Major) greater fearsome, [[srd/pf2e/compendium/equipment/runes/quickstrike|quickstrike]]
+> **Weapon** (Minor) [[srd/pf2e/compendium/equipment/runes/fearsome|fearsome]], [[srd/pf2e/compendium/equipment/runes/wounding|wounding]]; **Weapon** (Major) greater fearsome, [[srd/pf2e/compendium/equipment/runes/quickstrike|quickstrike]]
 >
 > ### Celestial
 >
@@ -113,7 +112,7 @@ The more gifts there are of one aspect, the more the relic reflects that aspect,
 >
 > ### Earth
 >
-> **Armor** (Minor) energy-resistant or greater energy resistant (acid); **Armor** (Major) [[srd/pf2e/compendium/equipment/runes/fortification-greater|fortification]]; **Armor** (Grand) greater fortification
+> **Armor** (Minor) energy-resistant or greater energy resistant (acid); **Armor** (Major) [[srd/pf2e/compendium/equipment/runes/fortification|fortification]]; **Armor** (Grand) greater fortification
 > **Weapon** (Minor) [[srd/pf2e/compendium/equipment/runes/shifting|shifting]]
 >
 > ### Fiend
@@ -124,11 +123,11 @@ The more gifts there are of one aspect, the more the relic reflects that aspect,
 > ### Fire
 >
 > **Armor** (Minor) energy-resistant or greater energy resistant (fire)
-> **Weapon** (Minor) [[srd/pf2e/compendium/equipment/runes/flaming-greater|flaming]]; **Weapon** (Major) greater flaming
+> **Weapon** (Minor) [[srd/pf2e/compendium/equipment/runes/flaming|flaming]]; **Weapon** (Major) greater flaming
 >
 > ### Life
 >
-> **Weapon** (Minor) [[srd/pf2e/compendium/equipment/runes/vitalizing-greater|vitalizing]]; **Weapon** (Major) greater vitalizing
+> **Weapon** (Minor) [[srd/pf2e/compendium/equipment/runes/vitalizing|vitalizing]]; **Weapon** (Major) greater vitalizing
 >
 > ### Mind
 >
@@ -140,12 +139,12 @@ The more gifts there are of one aspect, the more the relic reflects that aspect,
 >
 > ### Shadow
 >
-> **Armor** (Minor) [[srd/pf2e/compendium/equipment/runes/shadow-major|shadow]]; **Armor** (Major) greater shadow;
+> **Armor** (Minor) [[srd/pf2e/compendium/equipment/runes/shadow|shadow]]; **Armor** (Major) greater shadow;
 > **Armor** (Grand) major shadow
 >
 > ### Water
 >
-> **Armor** (Minor) energy-resistant or greater energy resistant (cold or fire), [[srd/pf2e/compendium/equipment/runes/slick-major|slick]]; **Armor** (Major) greater or major slick
+> **Armor** (Minor) energy-resistant or greater energy resistant (cold or fire), [[srd/pf2e/compendium/equipment/runes/slick|slick]]; **Armor** (Major) greater or major slick
 > **Weapon** (Minor) shifting
 
 ###### Gift Saves and Spell Attack Modifiers

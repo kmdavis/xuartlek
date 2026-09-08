@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 - trait/psychic
 - feat/level/1
 aliases: ["Psychic Rapport"]
-aon_id: "feat-8313"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8313"
 source: "Dark Archives (Remastered)"
 ---
 

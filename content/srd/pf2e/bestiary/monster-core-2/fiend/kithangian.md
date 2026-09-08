@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Kithangian"
 tags:
@@ -13,7 +12,6 @@ name: "Kithangian"
 level: 9
 source: "Monster Core 2"
 other_sources: "Gatewalkers (Hardcover)"
-aon_id: "creature-4320"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4320"
 ---
 
@@ -44,7 +42,7 @@ armorclass:
 hp: 180
 health:
   - name: "HP"
-    desc: "180; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 10, [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 10"
+    desc: "180; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 10, [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 10"
 abilities_mid:
   - name: "Animal Kindness"
     desc: "Vulnerability Kithangians find kindness to animals revolting. The first time each round that a kithangian sees someone heal or otherwise provide aid to a creature that has the animal trait, the kithangian takes 3d6 mental damage."
@@ -80,7 +78,7 @@ abilities_bot:
   - name: "Requirements"
     desc: "The kithangian has a creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] in one or both pincers"
   - name: "Effect"
-    desc: "Barbed tongues slither out of the faces in the kithangian's pincers. The tongues burrow into grabbed creatures and inject their minds with haunting psychic screams. Each grabbed creature takes 2d8 piercing damage and 2d8 mental damage. A creature can try to resist the mental damage by attempting a DC 25 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Will save. Demon Hunters Reclaimers of the Sarkoris Scar who follow the Green Faith consider kithangians particularly heinous foes. They take grim satisfaction in hunting and slaying such demons, viewing their extermination as just vengeance for the evils these demons visit upon wildlife. Demon Hunters Reclaimers of the Sarkoris Scar who follow the Green Faith consider kithangians particularly heinous foes. They take grim satisfaction in hunting and slaying such demons, viewing their extermination as just vengeance for the evils these demons visit upon wildlife."
+    desc: "Barbed tongues slither out of the faces in the kithangian's pincers. The tongues burrow into grabbed creatures and inject their minds with haunting psychic screams. Each grabbed creature takes 2d8 piercing damage and 2d8 mental damage. A creature can try to resist the mental damage by attempting a DC 25 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Will save. Demon Hunters Reclaimers of the Sarkoris Scar who follow the [[srd/pf2e/compendium/deities/faiths-philosophies/green-faith|Green Faith]] consider kithangians particularly heinous foes. They take grim satisfaction in hunting and slaying such demons, viewing their extermination as just vengeance for the evils these demons visit upon wildlife. Demon Hunters Reclaimers of the Sarkoris Scar who follow the [[srd/pf2e/compendium/deities/faiths-philosophies/green-faith|Green Faith]] consider kithangians particularly heinous foes. They take grim satisfaction in hunting and slaying such demons, viewing their extermination as just vengeance for the evils these demons visit upon wildlife."
 spellcasting:
   - name: "Divine Innate Spells"
     desc: "DC 25 - __1st__ [[srd/pf2e/compendium/spells/rank-1/command|Command]] (at will; animals only) - __3rd__ [[srd/pf2e/compendium/spells/rank-3/paralyze|Paralyze]] (×2) - __4th__ [[srd/pf2e/compendium/spells/rank-4/fly|Fly]], [[srd/pf2e/compendium/spells/rank-4/translocate|Translocate]] - __Constant (4th)__ [[srd/pf2e/compendium/spells/rank-2/speak-with-animals|Speak with Animals]]"

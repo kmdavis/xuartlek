@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - ritual/level/3
 aliases: ["Rolling Boulders"]
-aon_id: "ritual-265"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=265"
 source: "Impossible Magic"
 ---
 

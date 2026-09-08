@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/wizard
 - feat/level/12
 aliases: ["Clever Counterspell"]
-aon_id: "feat-5041"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5041"
 source: "Player Core"
 ---
 

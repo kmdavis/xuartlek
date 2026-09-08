@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "K.H.W.'S Echo"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "K.H.W.'S Echo"
 level: 14
 source: "Dark Archives (Remastered)"
-aon_id: "creature-4651"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4651"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Concert Frog"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Concert Frog"
 level: 8
 source: "Howl of the Wild"
-aon_id: "creature-3281"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3281"
 ---
 

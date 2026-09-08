@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/howl-of-the-wild
@@ -7,7 +6,7 @@ tags:
 - trait/mental
 - feat/level/9
 aliases: ["Fierce Competitor"]
-aon_id: "feat-5332"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5332"
 source: "Howl of the Wild"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - equipment/level/6
 aliases: ["Spider Gun"]
-aon_id: "equipment-1170"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1170"
 source: "Guns & Gears (Remastered)"
 ---
 

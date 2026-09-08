@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/secrets-of-the-unlit-star-game-masters-guide
 - trait/magical
 - equipment/level/3
 aliases: ["Hunter's Bow"]
-aon_id: "equipment-4351"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4351"
 source: "Secrets of the Unlit Star Game Master's Guide"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Army Ant Swarm"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Army Ant Swarm"
 level: 5
 source: "Monster Core"
-aon_id: "creature-2825"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2825"
 ---
 

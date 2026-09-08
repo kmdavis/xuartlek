@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Hero Hunter"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Hero Hunter"
 level: 13
 source: "NPC Core"
-aon_id: "creature-3621"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3621"
 ---
 
@@ -38,7 +36,7 @@ abilities_top:
   - name: "Prepared Trapper"
     desc: "A hero hunter carries the materials to [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]] two [[srd/pf2e/compendium/equipment/snares/alarm-snare|alarm snares]], two [[srd/pf2e/compendium/equipment/snares/grasping-snare|grasping snares]], one [[srd/pf2e/compendium/equipment/snares/snagging-hook-snare|snagging hook snare]], and one [[srd/pf2e/compendium/equipment/snares/stunning-snare|stunning snare]]. The hero hunter replenishes any used supplies each time they make their daily preparations. Snare rules can be found [[srd/pf2e/books/player-core-2/snares/index|here]]."
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/axe/greataxe|greataxe]]_, _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/crossbow/hand-crossbow|hand crossbow]]_ (20 bolts), _+1 [[srd/pf2e/compendium/equipment/runes/resilient-major|resilient]] [[srd/pf2e/compendium/equipment/armor#Studded Leather Armor|studded leather]]_"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/axe/greataxe|greataxe]]_, _+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] [[srd/pf2e/compendium/equipment/weapons/crossbow/hand-crossbow|hand crossbow]]_ (20 bolts), _+1 [[srd/pf2e/compendium/equipment/runes/resilient|resilient]] [[srd/pf2e/compendium/equipment/armor#Studded Leather Armor|studded leather]]_"
 ac: 33
 armorclass:
   - name: "AC"

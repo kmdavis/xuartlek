@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -7,7 +6,7 @@ tags:
 - trait/morph
 - spell/level/6
 aliases: ["Tentacular Innervation"]
-aon_id: "spell-2838"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2838"
 source: "Impossible Magic"
 ---
 

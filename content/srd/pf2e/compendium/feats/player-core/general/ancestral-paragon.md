@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/general
 - feat/level/3
 aliases: ["Ancestral Paragon"]
-aon_id: "feat-5118"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5118"
 source: "Player Core"
 ---
 

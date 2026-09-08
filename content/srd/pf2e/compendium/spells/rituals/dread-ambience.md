@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -10,7 +9,7 @@ tags:
 - trait/uncommon
 - ritual/level/5
 aliases: ["Dread Ambience"]
-aon_id: "ritual-251"
+aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=251"
 source: "Impossible Magic"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -9,7 +8,7 @@ tags:
 - trait/visual
 - feat/level/12
 aliases: ["Beguiling Aura"]
-aon_id: "feat-9322"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9322"
 source: "Impossible Magic"
 ---
 

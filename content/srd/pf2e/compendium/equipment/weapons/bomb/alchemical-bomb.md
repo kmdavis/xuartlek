@@ -1,17 +1,16 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/player-core
 - weapon/level/0
 aliases: ["Alchemical Bomb"]
-aon_id: "weapon-431"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=431"
 source: "Player Core"
 ---
 
 # Alchemical Bomb  *Weapon 0*
 
-- **Favored Weapon**: Inna, Laudinmio
+- **Favored Weapon**: [[srd/pf2e/compendium/deities/monitor-demigods/inna|Inna]], [[srd/pf2e/compendium/deities/elemental-lords/laudinmio|Laudinmio]]
 - **Price**: (Varies)
 - **Damage**: Varies
 - **Bulk**: L

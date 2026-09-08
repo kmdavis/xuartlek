@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ancestry
 tags:
 - compendium/src/pf2e/battlecry
@@ -8,7 +7,7 @@ tags:
 - trait/jotunborn
 - trait/rare
 aliases: ["Jotunborn"]
-aon_id: "ancestry-95"
+aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=95"
 source: "Battlecry!"
 ---
 

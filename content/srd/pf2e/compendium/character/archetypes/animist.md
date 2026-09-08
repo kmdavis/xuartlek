@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-archetype
 tags:
 - compendium/src/pf2e/war-of-immortals
 - archetype/level/2
 aliases: ["Animist"]
-aon_id: "archetype-280"
+aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=280"
 source: "War of Immortals"
 ---
 

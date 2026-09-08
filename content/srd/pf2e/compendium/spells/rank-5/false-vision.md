@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - spell/level/5
 aliases: ["False Vision"]
-aon_id: "spell-1522"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1522"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Concentrate`  `Illusion`  `Manipulate`  `Uncommon`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Bifrons, Pavnuri
+- **Deities**: [[srd/pf2e/compendium/deities/infernal-dukes/bifrons|Bifrons]], [[srd/pf2e/compendium/deities/daemon-harbingers/pavnuri|Pavnuri]]
 - **Cast**: 10 minutes
 - **Range**: touch
 - **Area**: 100-foot burst

@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-archetype
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
 aliases: ["Gelid Shard"]
-aon_id: "archetype-201"
+aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=201"
 source: "Treasure Vault (Remastered)"
 ---
 

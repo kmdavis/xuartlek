@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/lizardfolk
 - feat/level/1
 aliases: ["Parthenogenic Hatchling"]
-aon_id: "feat-5636"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5636"
 source: "Player Core 2"
 ---
 

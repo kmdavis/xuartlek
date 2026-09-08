@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/psychic
 - feat/level/8
 aliases: ["Mental Static"]
-aon_id: "feat-8328"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8328"
 source: "Dark Archives (Remastered)"
 ---
 

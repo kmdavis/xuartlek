@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - equipment/level/13
 aliases: ["Piston Gauntlets"]
-aon_id: "equipment-1872"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1872"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -16,7 +15,7 @@ source: "Treasure Vault (Remastered)"
 
 `Clockwork`  `Magical`  `Uncommon`
 
-- **Price**: 2,800 gp
+- **Price**: 2, 800 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
 - **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/brawling/pantograph-gauntlet|Pantograph Gauntlet]]

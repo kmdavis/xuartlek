@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - weapon/level/0
 aliases: ["Khopesh"]
-aon_id: "weapon-94"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=290"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -24,7 +23,7 @@ source: "Treasure Vault (Remastered)"
 - **Category**: Martial
 - **Group**: Sword
 
-This curved sickle sword has a pointed tip, allowing it to be swung like a handaxe or thrust like a short sword. The tip of a khopesh is usually hooked so that it can be used to disarm an opponent’s shield or weapon.
+This curved sickle sword has a pointed tip, allowing it to be swung like a handaxe or thrust like a short sword. The tip of a khopesh is usually hooked so it can be used to disarm an opponent's shield or weapon.
 
 ### Critical Specialization Effects
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -8,7 +7,7 @@ tags:
 - trait/polymorph
 - spell/level/4
 aliases: ["Dinosaur Form"]
-aon_id: "spell-1489"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1489"
 source: "Player Core"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Polymorph`
 
 - **Tradition**: Primal
-- **Deities**: Balumbdar, Sobek, Valani, Zevgavizeb
+- **Deities**: Balumbdar, Sobek, [[srd/pf2e/compendium/deities/empyreal-lords/valani|Valani]], [[srd/pf2e/compendium/deities/demon-lords/zevgavizeb|Zevgavizeb]]
 - **Duration**: 1 minute
 
 You channel the primal forces of nature to transform into a Large animal battle form, specifically that of a powerful and terrifying dinosaur. When you Cast this Spell, choose a listed battle form. You can decide the specific type of animal, but this has no effect on the form's Size or statistics. While in this form, you gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animal]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/dinosaur|dinosaur]] traits. You can Dismiss the spell.

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/5
 aliases: ["Stagnate Time"]
-aon_id: "spell-2605"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2605"
 source: "Dark Archives (Remastered)"
 ---
 
@@ -16,7 +15,7 @@ source: "Dark Archives (Remastered)"
 `Concentrate`  `Manipulate`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Atropos, Charg
+- **Deities**: [[srd/pf2e/compendium/deities/monitor-demigods/atropos|Atropos]], [[srd/pf2e/compendium/deities/sakhil-tormentors/charg|Charg]]
 - **Range**: 120 feet
 - **Area**: 20-foot burst
 - **Duration**: 1 minute

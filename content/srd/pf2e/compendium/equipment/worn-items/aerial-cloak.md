@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -8,7 +7,7 @@ tags:
 - trait/magical
 - equipment/level/3
 aliases: ["Aerial Cloak"]
-aon_id: "equipment-2575"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2575"
 source: "Rage of Elements"
 ---
 

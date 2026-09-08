@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/uncommon
 - equipment/level/5
 aliases: ["Large Bore Modifications"]
-aon_id: "equipment-1223"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1223"
 source: "Guns & Gears (Remastered)"
 ---
 

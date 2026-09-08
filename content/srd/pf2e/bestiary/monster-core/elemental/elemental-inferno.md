@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Elemental Inferno"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Elemental Inferno"
 level: 11
 source: "Monster Core"
-aon_id: "creature-2984"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2984"
 ---
 

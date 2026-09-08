@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Goliath Spider"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Goliath Spider"
 level: 11
 source: "Monster Core"
-aon_id: "creature-3209"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3209"
 ---
 

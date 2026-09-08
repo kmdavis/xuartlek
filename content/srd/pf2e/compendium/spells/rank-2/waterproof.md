@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -8,7 +7,7 @@ tags:
 - trait/water
 - spell/level/2
 aliases: ["Waterproof"]
-aon_id: "spell-1397"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1397"
 source: "Rage of Elements"
 ---
 

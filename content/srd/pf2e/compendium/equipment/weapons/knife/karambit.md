@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -10,7 +9,7 @@ tags:
 - trait/versatile
 - weapon/level/0
 aliases: ["Karambit"]
-aon_id: "weapon-289"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=289"
 source: "Treasure Vault (Remastered)"
 ---
 

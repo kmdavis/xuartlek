@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Will-O'-Wisp"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Will-O'-Wisp"
 level: 6
 source: "Monster Core"
-aon_id: "creature-3240"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3240"
 ---
 
@@ -61,7 +59,7 @@ abilities_bot:
   - name: "Effect"
     desc: "The will-o'-wisp feeds on the creature's terror. It regains 2d4 Hit Points, and if it has Gone Dark, its glow reignites."
   - name: "Go Dark"
-    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]]) The will-o'-wisp extinguishes its glow, becoming [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]]. It can end this effect with another use of this action. If it uses its shock attack while invisible, the arc of electricity lets any observer determine its location, making the will-o'-wisp only [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] to all observers until it moves. Eyes of the Dead The elder goddess Nhimbaloth, the so-called “Empty Death,” is said by many to be the source of all will-o'-wisps. Cultists of Nhimbaloth claim she has no true form but is merely a presence that can be felt by all in danger of a pointless and futile death. These same cultists maintain that all will-o'-wisps are Nhimbaloth's eyes, and it's through these fear-devouring creatures that she looks upon all worlds from an eldritch realm beyond even the very concept of death."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]]) The will-o'-wisp extinguishes its glow, becoming [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]]. It can end this effect with another use of this action. If it uses its shock attack while invisible, the arc of electricity lets any observer determine its location, making the will-o'-wisp only [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] to all observers until it moves. Eyes of the Dead The elder goddess [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nhimbaloth|Nhimbaloth]], the so-called “Empty Death,” is said by many to be the source of all will-o'-wisps. Cultists of Nhimbaloth claim she has no true form but is merely a presence that can be felt by all in danger of a pointless and futile death. These same cultists maintain that all will-o'-wisps are Nhimbaloth's eyes, and it's through these fear-devouring creatures that she looks upon all worlds from an eldritch realm beyond even the very concept of death."
 sourcebook: "_Monster Core_, page 349."
 ```
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -12,7 +11,7 @@ tags:
 - trait/positive
 - spell/level/7
 aliases: ["Shock to the System"]
-aon_id: "spell-1320"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1320"
 source: "Rage of Elements"
 ---
 

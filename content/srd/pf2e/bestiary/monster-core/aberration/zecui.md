@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Zecui"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Zecui"
 level: 6
 source: "Monster Core"
-aon_id: "creature-3248"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3248"
 ---
 

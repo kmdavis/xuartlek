@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/tattoo
 - equipment/level/12
 aliases: ["Chiromantic Lines"]
-aon_id: "equipment-5175"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5175"
 source: "Impossible Magic"
 ---
 
@@ -16,7 +15,7 @@ source: "Impossible Magic"
 
 `Invested`  `Magical`  `Tattoo`
 
-- **Price**: 1,700 gp
+- **Price**: 1, 700 gp
 - **Usage**: tattooed on the body
 
 These tattoos boast minute, intricate inscriptions, inked with dust ground from the eyelashes of omen dragons. The process is incredibly painful, involving tattooing one’s pupils as well as one’s palm lines with an almost [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]] series of tracings. 

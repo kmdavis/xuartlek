@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-implement
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 aliases: ["Lantern"]
-aon_id: "implement-20"
+aon_url: "https://2e.aonprd.com/Implements.aspx?ID=20"
 source: "Dark Archives (Remastered)"
 ---
 

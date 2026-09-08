@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/rogue
 - feat/level/2
 aliases: ["Underhanded Assault"]
-aon_id: "feat-4929"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4929"
 source: "Player Core"
 ---
 

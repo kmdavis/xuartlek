@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Vermin Catcher"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Vermin Catcher"
 level: 2
 source: "NPC Core"
-aon_id: "creature-3499"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3499"
 ---
 

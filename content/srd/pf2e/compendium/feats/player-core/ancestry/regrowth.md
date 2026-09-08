@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/leshy
 - feat/level/17
 aliases: ["Regrowth"]
-aon_id: "feat-4511"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4511"
 source: "Player Core"
 ---
 

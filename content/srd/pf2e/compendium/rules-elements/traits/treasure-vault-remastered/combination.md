@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
 - trait/combination
 aliases: ["Combination"]
-aon_id: "trait-417"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=417"
 source: "Treasure Vault (Remastered)"
 ---
 

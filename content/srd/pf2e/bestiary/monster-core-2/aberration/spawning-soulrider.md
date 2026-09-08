@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Spawning Soulrider"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Spawning Soulrider"
 level: 1
 source: "Monster Core 2"
-aon_id: "creature-4558"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4558"
 ---
 

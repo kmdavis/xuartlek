@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/modification
 - feat/level/2
 aliases: ["Collapse Construct"]
-aon_id: "feat-3052"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3052"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -16,7 +15,7 @@ source: "Guns & Gears (Remastered)"
 
 `Inventor`  `Manipulate`  `Modification`
 
-- **Prerequisites**: construct innovation
+- **Prerequisites**: [[srd/pf2e/compendium/character/innovations#Construct|construct innovation]]
 
 You've modified your construct companion and built it out of light materials, enabling you to collapse it into a carrying case or other compact and innocuous form. Either your construct or you (if you're adjacent to it) can Collapse your Construct to turn it into its compact form or back into its normal form.
 

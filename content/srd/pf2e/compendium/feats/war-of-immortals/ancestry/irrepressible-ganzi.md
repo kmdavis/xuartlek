@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
 - trait/nephilim
 - feat/level/1
 aliases: ["Irrepressible (Ganzi)"]
-aon_id: "feat-7201"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7201"
 source: "War of Immortals"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/battlecry
@@ -9,7 +8,7 @@ tags:
 - trait/rare
 - spell/level/10
 aliases: ["Jassim's Allegiance"]
-aon_id: "spell-2510"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2510"
 source: "Battlecry!"
 ---
 

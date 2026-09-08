@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/divine
 - feat/level/4
 aliases: ["Channel Smite"]
-aon_id: "feat-4655"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4655"
 source: "Player Core"
 ---
 

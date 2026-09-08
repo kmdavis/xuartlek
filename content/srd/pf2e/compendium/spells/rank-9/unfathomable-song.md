@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -12,7 +11,7 @@ tags:
 - trait/mental
 - spell/level/9
 aliases: ["Unfathomable Song"]
-aon_id: "spell-1731"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1731"
 source: "Player Core"
 ---
 
@@ -21,8 +20,8 @@ source: "Player Core"
 `Auditory`  `Concentrate`  `Emotion`  `Fear`  `Incapacitation`  `Manipulate`  `Mental`
 
 - **Tradition**: Occult
-- **Bloodline**: Aberrant
-- **Deities**: Azathoth, Cormigus, Sarshallatu
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Aberrant|Aberrant]]
+- **Deities**: [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/azathoth|Azathoth]], Cormigus, Sarshallatu
 - **Range**: 120 feet
 - **Target**: up to 5 creatures
 - **Defense**: Will

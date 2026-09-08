@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
 - trait/nephilim
 - feat/level/5
 aliases: ["Amorphous Aspect"]
-aon_id: "feat-7203"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7203"
 source: "War of Immortals"
 ---
 

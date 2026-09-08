@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -10,7 +9,7 @@ tags:
 - trait/positive
 - feat/level/10
 aliases: ["Fish from the Falls' Edge"]
-aon_id: "feat-7173"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7173"
 source: "War of Immortals"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -8,7 +7,7 @@ tags:
 - trait/multiclass
 - feat/level/2
 aliases: ["Monk Dedication"]
-aon_id: "feat-6210"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6210"
 source: "Player Core 2"
 ---
 

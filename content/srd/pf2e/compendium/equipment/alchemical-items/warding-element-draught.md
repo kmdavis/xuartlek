@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/elixir
 - equipment/level/7
 aliases: ["Warding Element Draught"]
-aon_id: "equipment-1934"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1934"
 source: "Treasure Vault (Remastered)"
 ---
 

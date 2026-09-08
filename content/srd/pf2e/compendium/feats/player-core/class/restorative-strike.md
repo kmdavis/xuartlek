@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/cleric
 - feat/level/4
 aliases: ["Restorative Strike"]
-aon_id: "feat-4659"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4659"
 source: "Player Core"
 ---
 

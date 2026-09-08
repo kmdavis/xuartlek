@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/war-of-immortals
@@ -9,7 +8,7 @@ tags:
 - trait/rare
 - spell/level/3
 aliases: ["Travel by Turtle"]
-aon_id: "spell-2164"
+aon_url: "https://2e.aonprd.com/MythicSpells.aspx?ID=2164"
 source: "War of Immortals"
 ---
 
@@ -21,7 +20,7 @@ source: "War of Immortals"
 - **Range**: 60 feet
 - **Duration**: 1 hour
 
-You conjure an intelligent sea turtle, who agrees to carry you upon its shell on a water journey. This turtle must be conjured into a large body of water within range, such as a lake or broad river. The turtle conjured is Large, is capable of carrying one Medium creature or up to four Small creatures, and has a swim Speed of 30 feet. The turtle doesn't engage in combat and doesn't put itself intentionally into harm's way, but it does convey you to a destination of your choice and follows your suggestions. The turtle otherwise functions as a [[srd/pf2e/compendium/equipment/services/transportation-sailing-ship|boat]], save that it controls itself and doesn't need to be piloted.
+You conjure an intelligent sea turtle, who agrees to carry you upon its shell on a water journey. This turtle must be conjured into a large body of water within range, such as a lake or broad river. The turtle conjured is Large, is capable of carrying one Medium creature or up to four Small creatures, and has a swim Speed of 30 feet. The turtle doesn't engage in combat and doesn't put itself intentionally into harm's way, but it does convey you to a destination of your choice and follows your suggestions. The turtle otherwise functions as a [[srd/pf2e/compendium/equipment/services/transportation|boat]], save that it controls itself and doesn't need to be piloted.
 
 ---
 **Heightened (5th)** The turtle’s size increases to Huge, making it capable of carrying one Large creature, up to four Medium creatures, or up to 16 Small creatures. Its swim Speed increases to 40 feet, and the duration increases to 1 day.

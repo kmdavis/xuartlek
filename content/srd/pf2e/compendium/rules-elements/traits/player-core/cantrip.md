@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/cantrip
 aliases: ["Cantrip"]
-aon_id: "trait-550"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=550"
 source: "Player Core"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/prediction
 - spell/level/9
 aliases: ["Foresight"]
-aon_id: "spell-1537"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1537"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Mental`  `Prediction`
 
 - **Traditions**: Arcane, Divine, Occult
-- **Bloodline**: Angelic
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Angelic|Angelic]]
 - **Range**: touch
 - **Target**: 1 creature
 - **Duration**: 1 hour

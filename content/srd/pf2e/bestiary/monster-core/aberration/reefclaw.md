@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Reefclaw"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Reefclaw"
 level: 1
 source: "Monster Core"
-aon_id: "creature-3166"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3166"
 ---
 

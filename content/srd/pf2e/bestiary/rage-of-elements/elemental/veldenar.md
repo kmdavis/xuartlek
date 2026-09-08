@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Veldenar"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Veldenar"
 level: 11
 source: "Rage of Elements"
-aon_id: "creature-2621"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2621"
 ---
 

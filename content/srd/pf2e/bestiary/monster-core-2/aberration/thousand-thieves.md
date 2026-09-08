@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Thousand Thieves"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Thousand Thieves"
 level: 16
 source: "Monster Core 2"
-aon_id: "creature-4573"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4573"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [4, 8, 7, 6, 5, 4]
 abilities_top:
   - name: "Items"
-    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+2 greater striking]] [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]]_, [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit-infiltrator-picks|sterling thieves' toolkit]]"
+    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+2 greater striking]] [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]]_, [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit|sterling thieves' toolkit]]"
 ac: 40
 armorclass:
   - name: "AC"

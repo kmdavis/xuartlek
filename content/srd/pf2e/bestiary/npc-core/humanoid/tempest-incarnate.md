@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Tempest Incarnate"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Tempest Incarnate"
 level: 19
 source: "NPC Core"
-aon_id: "creature-3586"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3586"
 ---
 
@@ -40,7 +38,7 @@ abilities_top:
   - name: "Wind Rider"
     desc: "A tempest incarnate ignores penalties and difficult terrain from strong winds. When flying, they don't need to Fly each round to avoid falling."
   - name: "Items"
-    desc: "_+2 [[srd/pf2e/compendium/equipment/runes/resilient-major|greater resilient]] [[srd/pf2e/compendium/equipment/armor#Explorer's Clothing|explorer's clothing]]_, _+2 [[srd/pf2e/compendium/equipment/runes/striking-major|greater striking]] [[srd/pf2e/compendium/equipment/worn-items/handwraps-of-mighty-blows-3-major-striking|handwraps of mighty blows]]_"
+    desc: "_+2 [[srd/pf2e/compendium/equipment/runes/resilient|greater resilient]] [[srd/pf2e/compendium/equipment/armor#Explorer's Clothing|explorer's clothing]]_, _+2 [[srd/pf2e/compendium/equipment/runes/striking|greater striking]] [[srd/pf2e/compendium/equipment/worn-items/handwraps-of-mighty-blows|handwraps of mighty blows]]_"
 ac: 40
 armorclass:
   - name: "AC"

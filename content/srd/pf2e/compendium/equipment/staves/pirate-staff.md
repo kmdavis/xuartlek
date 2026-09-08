@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -7,7 +6,7 @@ tags:
 - trait/staff
 - equipment/level/12
 aliases: ["Pirate Staff"]
-aon_id: "equipment-2256"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2256"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -15,7 +14,7 @@ source: "Treasure Vault (Remastered)"
 
 `Magical`  `Staff`
 
-- **Price**: 2,000 gp
+- **Price**: 2, 000 gp
 - **Usage**: held in 1 hand
 - **Bulk**: 1
 

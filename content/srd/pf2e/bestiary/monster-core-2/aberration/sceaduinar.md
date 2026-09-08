@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Sceaduinar"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Sceaduinar"
 level: 7
 source: "Monster Core 2"
-aon_id: "creature-4540"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4540"
 ---
 
@@ -45,7 +43,7 @@ armorclass:
 hp: 100
 health:
   - name: "HP"
-    desc: "100 (void healing (page 363)); __Immunities__ [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Death Effects|death effects]], [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]] 10, Resistances physical 5 (except [[srd/pf2e/compendium/equipment/materials/adamantine-object-high-grade|adamantine]])"
+    desc: "100 (void healing (page 363)); __Immunities__ [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Death Effects|death effects]], [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]] 10, Resistances physical 5 (except [[srd/pf2e/compendium/equipment/materials/adamantine|adamantine]])"
 abilities_mid:
   - name: "Void Child"
     desc: "Sceaduinar have neither souls nor the ability to create. A sceaduinar is immune to effects that target a soul (such as [[srd/pf2e/compendium/spells/rank-9/seize-soul|_seize soul_]] or a [[srd/pf2e/compendium/spells/rituals/resurrect|_resurrect_]] ritual) or that require knowledge of a creature's identity (such as [[srd/pf2e/compendium/spells/rank-6/scrying|_scrying_]]), and critically fails [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] checks."

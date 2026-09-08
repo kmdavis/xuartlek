@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core-2
 aliases: ["Dragon, Despair"]
-aon_id: "creature-family-584"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=584"
 source: "Monster Core 2"
 ---
 
@@ -32,7 +31,7 @@ Despair dragons who specialize in whipping a populace into hysteria using urban 
 
 The best place to sow fear is from the shadows. To make a dragon with this ability, replace Draconic Frenzy with the following.
 
-**Lights Out** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/darkness|darkness]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]]) The despair dragon belches an impenetrable darkness that encompasses a 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]]. Light does not enter the area and any non-magical light sources, such as a [[srd/pf2e/compendium/equipment/adventuring-gear/torch|torch]] or [[srd/pf2e/compendium/equipment/adventuring-gear/lantern-hooded|lantern]], do not emanate any light while inside the area, even if their light radius would extend beyond the darkness. This also suppresses magical light of a spell rank equal to half the dragon's level or lower. Light can't pass through, so all creatures in the area except for the dragon can't see outside.
+**Lights Out** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/darkness|darkness]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]]) The despair dragon belches an impenetrable darkness that encompasses a 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]]. Light does not enter the area and any non-magical light sources, such as a [[srd/pf2e/compendium/equipment/adventuring-gear/torch|torch]] or [[srd/pf2e/compendium/equipment/adventuring-gear/lantern|lantern]], do not emanate any light while inside the area, even if their light radius would extend beyond the darkness. This also suppresses magical light of a spell rank equal to half the dragon's level or lower. Light can't pass through, so all creatures in the area except for the dragon can't see outside.
 
 ### Despair Dragon Spellcasting
 

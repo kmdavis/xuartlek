@@ -7,7 +7,6 @@ cssclasses:
 tags:
   - srd/pf2e/player-core
 source: "Player Core"
-aon_id: 2421
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2421"
 citation: "Player Core pg. 435"
 ---
@@ -143,7 +142,7 @@ Use these rules for battles in water or underwater:
 - You gain [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Resistance|resistance]] 5 to [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]].
 - You take a –2 circumstance penalty to your attack roll for bludgeoning or slashing attacks that pass through water.
 - Ranged attacks made by an underwater creature or against an underwater target have their [[srd/pf2e/books/player-core/chapter-8-playing-the-game/effects#Range and Reach|range increments]] halved.
-- You can't cast fire spells or use actions with the fire trait underwater. As normal for how traits work, any part of the effect that's unrelated to fire still works. For example, an attack with a [[srd/pf2e/compendium/equipment/runes/flaming-greater|flaming]] battle axe could still deal its physical damage, just not its fire damage.
+- You can't cast fire spells or use actions with the fire trait underwater. As normal for how traits work, any part of the effect that's unrelated to fire still works. For example, an attack with a [[srd/pf2e/compendium/equipment/runes/flaming|flaming]] battle axe could still deal its physical damage, just not its fire damage.
 - At the GM's discretion, some ground-based actions might not work underwater or while floating.
 
 #### Drowning and Suffocating

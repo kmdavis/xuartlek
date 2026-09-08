@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/magical
 - equipment/level/5
 aliases: ["Moonweave"]
-aon_id: "equipment-4992"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4992"
 source: "Impossible Magic"
 ---
 

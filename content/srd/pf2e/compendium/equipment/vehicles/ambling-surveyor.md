@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-vehicle
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/rare
 - vehicle/level/14
 aliases: ["Ambling Surveyor"]
-aon_id: "vehicle-33"
+aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=33"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -14,7 +13,7 @@ source: "Guns & Gears (Remastered)"
 
 `Rare`
 
-- **Price**: 13,000 gp
+- **Price**: 13, 000 gp
 
 This huge, magical clockwork rover moves on a continuous band of heavy treads, which make it easier to for the device to navigate across various adverse conditions. It contains magical clockwork birds which can transmit visual information back to the surveyor.
 

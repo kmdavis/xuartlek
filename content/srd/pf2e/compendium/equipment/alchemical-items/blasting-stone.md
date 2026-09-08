@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/player-core-2
@@ -10,7 +9,7 @@ tags:
 - trait/splash
 - equipment/level/1
 aliases: ["Blasting Stone"]
-aon_id: "equipment-3288"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3288"
 source: "Player Core 2"
 ---
 

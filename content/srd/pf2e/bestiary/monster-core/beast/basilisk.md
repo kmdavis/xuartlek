@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Basilisk"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Basilisk"
 level: 5
 source: "Monster Core"
-aon_id: "creature-2847"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2847"
 ---
 

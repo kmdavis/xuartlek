@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Lizardfolk Defender"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Lizardfolk Defender"
 level: 1
 source: "Monster Core"
-aon_id: "creature-3090"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3090"
 ---
 

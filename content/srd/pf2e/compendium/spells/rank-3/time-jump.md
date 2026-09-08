@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
 - trait/concentrate
 - spell/level/3
 aliases: ["Time Jump"]
-aon_id: "spell-2843"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2843"
 source: "Impossible Magic"
 ---
 
@@ -15,7 +14,7 @@ source: "Impossible Magic"
 `Concentrate`
 
 - **Traditions**: Arcane, Occult
-- **Deity**: Dachzerul
+- **Deity**: [[srd/pf2e/compendium/deities/sakhil-tormentors/dachzerul|Dachzerul]]
 
 You leap through time, appearing across the battlefield in the blink of an eye. You gain 2 actions, each of which must be used to [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leap]], Stand, Step, or Stride. If you have an appropriate Speed, you can add Burrow, Climb, Fly, or Swim to this list.
 

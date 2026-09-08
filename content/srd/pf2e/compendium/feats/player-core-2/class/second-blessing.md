@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
 - trait/champion
 - feat/level/8
 aliases: ["Second Blessing"]
-aon_id: "feat-5907"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5907"
 source: "Player Core 2"
 ---
 

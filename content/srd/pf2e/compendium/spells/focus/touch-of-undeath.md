@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -11,7 +10,7 @@ tags:
 - trait/negative
 - spell/level/1
 aliases: ["Touch of Undeath"]
-aon_id: "spell-1846"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1846"
 source: "Player Core"
 ---
 

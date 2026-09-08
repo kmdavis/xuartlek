@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
 - trait/reflection
 - feat/level/13
 aliases: ["Redirect Attention"]
-aon_id: "feat-8446"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8446"
 source: "Dark Archives (Remastered)"
 ---
 

@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/fighter
 - feat/level/8
 aliases: ["Dueling Riposte"]
-aon_id: "feat-4811"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4811"
 source: "Player Core"
 ---
 
@@ -14,7 +13,7 @@ source: "Player Core"
 
 `Fighter`
 
-- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/duelist|Duelist]] (Level 10), [[srd/pf2e/compendium/character/archetypes/duelist|Duelist]] (Level 10)
+- **Archetypes**: [[srd/pf2e/compendium/character/archetypes/duelist|Duelist]] (Level 10)
 - **Prerequisites**: [[srd/pf2e/compendium/feats/player-core/archetype/dueling-parry-fighter|Dueling Parry (Fighter)]]
 - **Trigger**: A creature within your reach critically fails a Strike against you
 - **Requirements**: You are benefiting from Dueling Parry

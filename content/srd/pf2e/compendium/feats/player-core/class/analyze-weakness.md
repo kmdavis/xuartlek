@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
 - trait/rogue
 - feat/level/6
 aliases: ["Analyze Weakness"]
-aon_id: "feat-4940"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4940"
 source: "Player Core"
 ---
 

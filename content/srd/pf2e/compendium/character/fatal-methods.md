@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-fatal-method
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -9,7 +8,7 @@ entries: 2
 
 # Fatal Methods
 
-## Puppeteer  *Necromancer Fatal Method*
+## Puppeteer
 
 You prefer to study life and death from afar. You gain the Consume Thrall action and the thrall proliferation ability.
 
@@ -21,7 +20,7 @@ Once per round when you cast [[srd/pf2e/compendium/spells/cantrips/create-thrall
 
 *Source: Impossible Magic p. 29*
 
-## Reaper  *Necromancer Fatal Method*
+## Reaper
 
 You study flesh up close by clashing blade against bone. You gain the reaper’s edge and thrall teamwork abilities.
 

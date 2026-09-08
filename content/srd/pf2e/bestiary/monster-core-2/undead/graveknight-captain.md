@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Graveknight Captain"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Graveknight Captain"
 level: 6
 source: "Monster Core 2"
-aon_id: "creature-4418"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4418"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [5, 3, 4, 1, 2, 3]
 abilities_top:
   - name: "Items"
-    desc: "_[[srd/pf2e/compendium/equipment/armor/magic-armor-3-major-resilient|+1]] [[srd/pf2e/compendium/equipment/armor#Full Plate|full plate]]_, _graveknight's shield_, [[srd/pf2e/compendium/equipment/weapons/hammer/warhammer|Warhammer]]"
+    desc: "_[[srd/pf2e/compendium/equipment/armor/magic-armor|+1]] [[srd/pf2e/compendium/equipment/armor#Full Plate|full plate]]_, _graveknight's shield_, [[srd/pf2e/compendium/equipment/weapons/hammer/warhammer|Warhammer]]"
 ac: 24
 armorclass:
   - name: "AC"
@@ -72,7 +70,7 @@ abilities_bot:
   - name: "Stage 3"
     desc: "dies and transforms into the armor's graveknight."
   - name: "Ruinous Weapons"
-    desc: "Any weapon or unarmed attack the graveknight uses gains the effects of a _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 striking]] weapon_ and a [[srd/pf2e/compendium/equipment/runes/corrosive-greater|_caustic_]] weapon rune."
+    desc: "Any weapon or unarmed attack the graveknight uses gains the effects of a _[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 striking]] weapon_ and a [[srd/pf2e/compendium/equipment/runes/corrosive|_caustic_]] weapon rune."
   - name: "Weapon Master"
     desc: "The graveknight captain has access to the [[srd/pf2e/books/player-core/chapter-6-equipment/weapons#Critical Specialization|critical specialization]] effects of any weapons they wield."
 sourcebook: "_Monster Core 2_, page 172."

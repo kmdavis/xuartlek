@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/4
 aliases: ["Chroma Leach"]
-aon_id: "spell-1976"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1976"
 source: "Player Core 2"
 ---
 

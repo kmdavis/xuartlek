@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-archetype
 tags:
 - compendium/src/pf2e/war-of-immortals
 aliases: ["Ascended Celestial"]
-aon_id: "archetype-289"
+aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=289"
 source: "War of Immortals"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Danava Titan"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Danava Titan"
 level: 23
 source: "Monster Core 2"
-aon_id: "creature-4583"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4583"
 ---
 
@@ -40,7 +38,7 @@ skills:
 abilityMods: [11, 8, 10, 10, 8, 6]
 abilities_top:
   - name: "Items"
-    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+3 major striking]] [[srd/pf2e/compendium/equipment/weapons/club/greatclub|greatclub]]_"
+    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+3 major striking]] [[srd/pf2e/compendium/equipment/weapons/club/greatclub|greatclub]]_"
 ac: 49
 armorclass:
   - name: "AC"

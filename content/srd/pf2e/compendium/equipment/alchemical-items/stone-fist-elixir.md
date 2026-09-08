@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
-- compendium/src/pf2e/gm-core
+- compendium/src/pf2e/player-core-2
 - trait/alchemical
 - trait/consumable
 - trait/elixir
 - trait/morph
 - equipment/level/4
 aliases: ["Stone Fist Elixir"]
-aon_id: "equipment-2890"
-source: "GM Core"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3312"
+source: "Player Core 2"
 ---
 
 # Stone Fist Elixir  *Item 4*
@@ -22,6 +21,6 @@ source: "GM Core"
 - **Bulk**: L
 - **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-Your fists become hard as stone. For 1 hour, your fists deal 1d6 bludgeoning damage and lose the nonlethal trait.
+Your fists become hard as stone. For 1 hour, your fists deal 1d6 bludgeoning damage and lose the [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] trait.
 
-*Source: GM Core p. 247*
+*Source: Player Core 2 p. 288*

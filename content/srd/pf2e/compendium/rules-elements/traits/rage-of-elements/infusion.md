@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/rage-of-elements
 - trait/infusion
 aliases: ["Infusion"]
-aon_id: "trait-503"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=503"
 source: "Rage of Elements"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Strix Aerialist"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Strix Aerialist"
 level: 9
 source: "Monster Core 2"
-aon_id: "creature-4568"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4568"
 ---
 
@@ -38,7 +36,7 @@ skills:
 abilityMods: [3, 5, 2, 1, 2, 3]
 abilities_top:
   - name: "Items"
-    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]]_ (2), _[[srd/pf2e/compendium/equipment/armor/magic-armor-3-major-resilient|+1]] [[srd/pf2e/compendium/equipment/armor#Leather Armor|leather armor]]_"
+    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]]_ (2), _[[srd/pf2e/compendium/equipment/armor/magic-armor|+1]] [[srd/pf2e/compendium/equipment/armor#Leather Armor|leather armor]]_"
 ac: 28
 armorclass:
   - name: "AC"

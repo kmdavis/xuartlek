@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -8,7 +7,7 @@ tags:
 - trait/potion
 - equipment/level/16
 aliases: ["Truesight Potion"]
-aon_id: "equipment-2960"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2960"
 source: "GM Core"
 ---
 
@@ -16,7 +15,7 @@ source: "GM Core"
 
 `Consumable`  `Magical`  `Potion`
 
-- **Price**: 1,500 gp
+- **Price**: 1, 500 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
 - **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])

@@ -1,16 +1,15 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
-- compendium/src/pf2e/gm-core
+- compendium/src/pf2e/player-core-2
 - trait/alchemical
 - trait/consumable
 - trait/ingested
 - trait/poison
 - equipment/level/1
 aliases: ["Arsenic"]
-aon_id: "equipment-2891"
-source: "GM Core"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3322"
+source: "Player Core 2"
 ---
 
 # Arsenic  *Item 1*
@@ -22,7 +21,8 @@ source: "GM Core"
 - **Bulk**: L
 - **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-This toxin is a compound of arsenic and other substances. You can't reduce your sickened condition while affected.
- Saving Throw DC 18 Fortitude; **Onset** 10 minutes; **Maximum Duration** 5 minutes; **Stage 1** 1d4 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1 (1 minute); **Stage 2** 1d6 poison damage and sickened 2 (1 minute); **Stage 3** 1d8 poison damage and sickened 3 (1 minute)
+This toxin is a compound of arsenic and other substances. You can't reduce your [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] condition while affected. 
 
-*Source: GM Core p. 248*
+**Saving Throw** DC 18 Fortitude; **Onset** 10 minutes; **Maximum Duration** 5 minutes; **Stage 1** 1d4 poison damage and sickened 1 (1 minute); **Stage 2** 1d6 poison damage and sickened 2 (1 minute); **Stage 3** 1d8 poison damage and sickened 3 (1 minute)
+
+*Source: Player Core 2 p. 291*

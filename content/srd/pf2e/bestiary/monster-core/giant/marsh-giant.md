@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Marsh Giant"
 tags:
@@ -13,7 +12,6 @@ statblock: inline
 name: "Marsh Giant"
 level: 8
 source: "Monster Core"
-aon_id: "creature-3011"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3011"
 ---
 
@@ -40,7 +38,7 @@ skills:
 abilityMods: [6, 3, 4, 0, 3, 1]
 abilities_top:
   - name: "Items"
-    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] gaff_"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking|striking]] gaff_"
 ac: 27
 armorclass:
   - name: "AC"

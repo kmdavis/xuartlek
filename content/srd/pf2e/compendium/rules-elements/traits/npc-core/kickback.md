@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/npc-core
 - trait/kickback
 aliases: ["Kickback"]
-aon_id: "trait-847"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=847"
 source: "NPC Core"
 ---
 

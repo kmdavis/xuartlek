@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Acolyte of Iomedae"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Acolyte of Iomedae"
 level: 1
 source: "NPC Core"
-aon_id: "creature-3440"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3440"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [1, 2, -1, 1, 4, 2]
 abilities_top:
   - name: "Items"
-    desc: "Crossbow (10 bolts), Longsword, [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol-silver|religious symbol]] of Iomedae, [[srd/pf2e/compendium/equipment/adventuring-gear/religious-text|religious text]] of Iomedae"
+    desc: "Crossbow (10 bolts), Longsword, [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol|religious symbol]] of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/iomedae|Iomedae]], [[srd/pf2e/compendium/equipment/adventuring-gear/religious-text|religious text]] of [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/iomedae|Iomedae]]"
 ac: 15
 armorclass:
   - name: "AC"

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Two-Headed Troll"
 tags:
@@ -15,7 +14,6 @@ statblock: inline
 name: "Two-Headed Troll"
 level: 8
 source: "Monster Core 2"
-aon_id: "creature-4593"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4593"
 ---
 
@@ -74,7 +72,7 @@ attacks:
     desc: "⬻ club +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]]) __Damage__ 2d6+8 bludgeoning"
 abilities_bot:
   - name: "Collaborative Chomp"
-    desc: "⬺ The troll makes a claw Strike and Grabs a single target. If both are successful, the other head can use their reaction to make a jaws Strike against that creature. Severed Spiral Although most two-headed trolls have difficulty seeing past their confusion and rage, some have founded a nuanced faith emulating the dualistic gods Gozreh, Nethys, and Pharasma. The obscure philosophy seeks enlightenment at menhirs of black and white stones, most notably the Severed Spiral in Mendev."
+    desc: "⬺ The troll makes a claw Strike and Grabs a single target. If both are successful, the other head can use their reaction to make a jaws Strike against that creature. Severed Spiral Although most two-headed trolls have difficulty seeing past their confusion and rage, some have founded a nuanced faith emulating the dualistic gods [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/gozreh|Gozreh]], [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/nethys|Nethys]], and [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/pharasma|Pharasma]]. The obscure philosophy seeks enlightenment at menhirs of black and white stones, most notably the Severed Spiral in Mendev."
 sourcebook: "_Monster Core 2_, page 329."
 ```
 

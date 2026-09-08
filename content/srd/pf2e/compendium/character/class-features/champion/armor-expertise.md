@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class-feature
 tags:
 - compendium/src/pf2e/player-core-2
 - class-feature/level/7
 aliases: ["Armor Expertise"]
-aon_id: "class-feature-882"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=58"
 source: "Player Core 2"
 ---
 

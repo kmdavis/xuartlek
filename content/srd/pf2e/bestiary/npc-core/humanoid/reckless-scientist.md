@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Reckless Scientist"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Reckless Scientist"
 level: 6
 source: "NPC Core"
-aon_id: "creature-3616"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3616"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [1, 4, 4, 4, 2, -1]
 abilities_top:
   - name: "Unstable Collection"
-    desc: "A reckless scientist carries a collection of poorly stowed alchemical items: 3 [[srd/pf2e/compendium/equipment/alchemical-items/elixir-of-life-true|elixirs of life]] and 6 alchemical grenades. The scientist replenishes these items each day using scavenged materials. The alchemical grenades deal either acid, cold, or fire damage plus 2 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent damage]] and 2 [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage of the same type (typically the collection contains two of each grenade)."
+    desc: "A reckless scientist carries a collection of poorly stowed alchemical items: 3 [[srd/pf2e/compendium/equipment/alchemical-items/elixir-of-life|elixirs of life]] and 6 alchemical grenades. The scientist replenishes these items each day using scavenged materials. The alchemical grenades deal either acid, cold, or fire damage plus 2 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent damage]] and 2 [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage of the same type (typically the collection contains two of each grenade)."
   - name: "Items"
     desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/alchemists-toolkit|Alchemist's Toolkit]], _+1 [[srd/pf2e/compendium/equipment/weapons/knife/sickle|sickle]]_, work coat (functions as [[srd/pf2e/compendium/equipment/armor#Leather Armor|leather armor]])"
 ac: 23

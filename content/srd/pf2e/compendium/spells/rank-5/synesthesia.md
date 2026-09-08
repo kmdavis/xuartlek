@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -8,7 +7,7 @@ tags:
 - trait/mental
 - spell/level/5
 aliases: ["Synesthesia"]
-aon_id: "spell-2035"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2035"
 source: "Player Core 2"
 ---
 
@@ -17,7 +16,7 @@ source: "Player Core 2"
 `Concentrate`  `Manipulate`  `Mental`
 
 - **Tradition**: Occult
-- **Deity**: Narriseminek
+- **Deity**: [[srd/pf2e/compendium/deities/monitor-demigods/narriseminek|Narriseminek]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will

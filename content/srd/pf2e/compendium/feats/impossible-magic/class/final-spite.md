@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -8,7 +7,7 @@ tags:
 - trait/poison
 - feat/level/8
 aliases: ["Final Spite"]
-aon_id: "feat-9124"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9124"
 source: "Impossible Magic"
 ---
 

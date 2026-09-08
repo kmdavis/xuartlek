@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -8,7 +7,7 @@ tags:
 - trait/primal
 - feat/level/10
 aliases: ["Elemental Transformation"]
-aon_id: "feat-4198"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4198"
 source: "Rage of Elements"
 ---
 

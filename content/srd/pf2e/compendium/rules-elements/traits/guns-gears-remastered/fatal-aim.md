@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/guns-gears-remastered
 - trait/fatal-aim
 aliases: ["Fatal Aim"]
-aon_id: "trait-404"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=404"
 source: "Guns & Gears (Remastered)"
 ---
 

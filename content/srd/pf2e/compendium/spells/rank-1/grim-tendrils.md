@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/negative
 - spell/level/1
 aliases: ["Grim Tendrils"]
-aon_id: "spell-1548"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1548"
 source: "Player Core"
 ---
 
@@ -18,7 +17,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Void`  `Negative`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Ah Pook, Aonaurious, Apep, Charon, Cthulhu, Dajermube, Fumeiyoshi, Iggeret, Neshen, Nhimbaloth, Nulgreth, [[srd/pf2e/compendium/character/deities#Nyarlathotep (Haunter in the Dark)|Nyarlathotep (Haunter in the Dark)]], Orcus, Treerazer
+- **Deities**: [[srd/pf2e/compendium/deities/other-gods/ah-pook|Ah Pook]], [[srd/pf2e/compendium/deities/qlippoth-lords/aonaurious|Aonaurious]], Apep, [[srd/pf2e/compendium/deities/apocalypse-riders/charon|Charon]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/cthulhu|Cthulhu]], [[srd/pf2e/compendium/deities/other-gods/dajermube|Dajermube]], Fumeiyoshi, [[srd/pf2e/compendium/deities/sakhil-tormentors/iggeret|Iggeret]], [[srd/pf2e/compendium/deities/empyreal-lords/neshen|Neshen]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nhimbaloth|Nhimbaloth]], [[srd/pf2e/compendium/deities/orc-gods/nulgreth|Nulgreth]], [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-haunter-in-the-dark|Nyarlathotep (Haunter in the Dark)]], Orcus, [[srd/pf2e/compendium/deities/demon-lords/treerazer|Treerazer]]
 - **Area**: 30-foot line
 - **Defense**: Fortitude
 

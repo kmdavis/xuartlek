@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-archetype
 tags:
 - compendium/src/pf2e/impossible-magic
 - archetype/level/2
 aliases: ["Veil Dancer"]
-aon_id: "archetype-395"
+aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=395"
 source: "Impossible Magic"
 ---
 

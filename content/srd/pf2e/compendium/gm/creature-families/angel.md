@@ -1,10 +1,9 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-creature-family
 tags:
 - compendium/src/pf2e/monster-core
 aliases: ["Angel"]
-aon_id: "creature-family-359"
+aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=359"
 source: "Monster Core"
 ---
 
@@ -20,7 +19,7 @@ The celestial hosts of angels are messengers and warriors, divided into choirs b
 
 ### Angelic Divinities
 
-The most powerful angels belong to a category of demigods known as the empyreal lords—a title shared with other powerful holy demigods among the host of [[srd/pf2e/compendium/gm/creature-families/archon|archons]], [[srd/pf2e/compendium/gm/creature-families/azata|azatas]], and other inhabitants of the celestial planes. The most famous and powerful empyreal lord, Sarenrae, ascended to godhood and now reigns above the other empyreal lords
+The most powerful angels belong to a category of demigods known as the empyreal lords—a title shared with other powerful holy demigods among the host of [[srd/pf2e/compendium/gm/creature-families/archon|archons]], [[srd/pf2e/compendium/gm/creature-families/azata|azatas]], and other inhabitants of the celestial planes. The most famous and powerful empyreal lord, [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/sarenrae|Sarenrae]], ascended to godhood and now reigns above the other empyreal lords
 
 ### Angelic Locations
 

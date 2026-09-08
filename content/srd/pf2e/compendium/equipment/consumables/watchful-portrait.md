@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/scrying
 - equipment/level/9
 aliases: ["Watchful Portrait"]
-aon_id: "equipment-2129"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2129"
 source: "Treasure Vault (Remastered)"
 ---
 

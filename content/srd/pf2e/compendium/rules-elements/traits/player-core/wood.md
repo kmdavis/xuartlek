@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
 tags:
 - compendium/src/pf2e/player-core
 - trait/wood
 aliases: ["Wood"]
-aon_id: "trait-508"
+aon_url: "https://2e.aonprd.com/Traits.aspx?ID=508"
 source: "Player Core"
 ---
 

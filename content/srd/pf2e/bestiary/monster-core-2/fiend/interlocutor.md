@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Interlocutor"
 tags:
@@ -12,7 +11,6 @@ statblock: inline
 name: "Interlocutor"
 level: 12
 source: "Monster Core 2"
-aon_id: "creature-4610"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4610"
 ---
 
@@ -46,7 +44,7 @@ armorclass:
 hp: 215
 health:
   - name: "HP"
-    desc: "215 , regeneration 20 (deactivated by [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] or [[srd/pf2e/compendium/equipment/materials/silver-object-high-grade|silver]]); __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]]; __Weaknesses__ holy 15, silver 15"
+    desc: "215 , regeneration 20 (deactivated by [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] or [[srd/pf2e/compendium/equipment/materials/silver|silver]]); __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]]; __Weaknesses__ holy 15, silver 15"
 abilities_mid:
   - name: "Glimpse of Stolen Flesh"
     desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]]) 30 feet. When a creature ends its turn in the aura, it sees pieces of its own body amid the interlocutor's form. The creature must succeed at a DC 29 Will save or become [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] 1."

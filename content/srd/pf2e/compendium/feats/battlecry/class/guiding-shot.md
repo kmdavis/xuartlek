@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/flourish
 - feat/level/2
 aliases: ["Guiding Shot"]
-aon_id: "feat-7799"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7799"
 source: "Battlecry!"
 ---
 

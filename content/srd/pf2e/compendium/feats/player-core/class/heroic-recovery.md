@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -9,7 +8,7 @@ tags:
 - trait/metamagic
 - feat/level/10
 aliases: ["Heroic Recovery"]
-aon_id: "feat-4676"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4676"
 source: "Player Core"
 ---
 

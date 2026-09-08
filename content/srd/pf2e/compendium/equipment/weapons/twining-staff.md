@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/gm-core
@@ -7,7 +6,7 @@ tags:
 - trait/wood
 - equipment/level/6
 aliases: ["Twining Staff"]
-aon_id: "equipment-2874"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2874"
 source: "GM Core"
 ---
 

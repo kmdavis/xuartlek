@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core-2
@@ -7,7 +6,7 @@ tags:
 - trait/investigator
 - feat/level/12
 aliases: ["Foresee Danger"]
-aon_id: "feat-5962"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5962"
 source: "Player Core 2"
 ---
 

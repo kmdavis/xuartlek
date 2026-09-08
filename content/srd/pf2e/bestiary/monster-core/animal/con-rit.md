@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Con Rit"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "Con Rit"
 level: 7
 source: "Monster Core"
-aon_id: "creature-2884"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2884"
 ---
 

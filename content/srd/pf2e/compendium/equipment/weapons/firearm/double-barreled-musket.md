@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - weapon/level/1
 aliases: ["Double-Barreled Musket"]
-aon_id: "weapon-198"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=198"
 source: "Guns & Gears (Remastered)"
 ---
 
@@ -30,7 +29,7 @@ source: "Guns & Gears (Remastered)"
 - **Group**: Firearm
 - **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/firearm/firearm-ammunition-10-rounds|Firearm Ammunition (10 rounds)]]
 
-This flintlock breech-loader has two side-by-side barrels. Though less accurate than a standard [[srd/pf2e/compendium/equipment/weapons/firearm/flintlock-musket|musket]], a double-barreled musket offers versatility in firing options. Many of Alkenstar's famous shield marshals save their earnings to buy a double-barreled musket as their first personal firearm.
+This flintlock breech-loader has two side-by-side barrels. Though less accurate than a standard musket, a double-barreled musket offers versatility in firing options. Many of Alkenstar's famous shield marshals save their earnings to buy a double-barreled musket as their first personal firearm.
 
 ### Critical Specialization Effects
 

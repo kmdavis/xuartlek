@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Millindemalion"
 tags:
@@ -10,7 +9,6 @@ statblock: inline
 name: "Millindemalion"
 level: 13
 source: "Monster Core 2"
-aon_id: "creature-4474"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4474"
 ---
 
@@ -34,7 +32,7 @@ skills:
 abilityMods: [4, 8, 1, 7, 4, 2]
 abilities_top:
   - name: "Items"
-    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/knife/shears-weapon-446|shears]]_"
+    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/knife/shears|shears]]_"
 ac: 33
 armorclass:
   - name: "AC"
@@ -42,7 +40,7 @@ armorclass:
 hp: 275
 health:
   - name: "HP"
-    desc: "275; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 10"
+    desc: "275; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron|cold iron]] 10"
 abilities_mid:
   - name: "Unsettling Mind"
     desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) Attempting to touch the frenetic mind of a millindemalion is a dangerous task. When the millindemalion succeeds at a saving throw against a [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] effect, the creature originating that effect takes 4d6 mental damage."

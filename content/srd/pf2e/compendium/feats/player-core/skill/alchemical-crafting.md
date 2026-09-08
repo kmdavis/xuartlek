@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/skill
 - feat/level/1
 aliases: ["Alchemical Crafting"]
-aon_id: "feat-5117"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5117"
 source: "Player Core"
 ---
 

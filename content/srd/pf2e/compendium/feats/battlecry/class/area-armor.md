@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
 - trait/guardian
 - feat/level/4
 aliases: ["Area Armor"]
-aon_id: "feat-7844"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7844"
 source: "Battlecry!"
 ---
 

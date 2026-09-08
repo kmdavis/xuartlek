@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core-2
@@ -11,7 +10,7 @@ tags:
 - trait/uncommon
 - spell/level/5
 aliases: ["Fey Glamour"]
-aon_id: "spell-2110"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2110"
 source: "Player Core 2"
 ---
 
@@ -19,7 +18,7 @@ source: "Player Core 2"
 
 `Concentrate`  `Focus`  `Illusion`  `Manipulate`  `Sorcerer`  `Uncommon`
 
-- **Bloodline**: Fey
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Fey|Fey]]
 - **Range**: 30 feet
 - **Area**: 30-foot burst or
 - **Target**: up to 10 willing creatures

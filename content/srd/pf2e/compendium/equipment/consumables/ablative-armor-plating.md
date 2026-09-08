@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/guns-gears-remastered
@@ -8,7 +7,7 @@ tags:
 - trait/uncommon
 - equipment/level/1
 aliases: ["Ablative Armor Plating"]
-aon_id: "equipment-1102"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1102"
 source: "Guns & Gears (Remastered)"
 ---
 

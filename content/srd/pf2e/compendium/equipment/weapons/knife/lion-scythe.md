@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-weapon
 tags:
 - compendium/src/pf2e/battlecry
@@ -9,7 +8,7 @@ tags:
 - trait/uncommon
 - weapon/level/0
 aliases: ["Lion Scythe"]
-aon_id: "weapon-533"
+aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=533"
 source: "Battlecry!"
 ---
 

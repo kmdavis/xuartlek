@@ -1,11 +1,10 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-class-feature
 tags:
 - compendium/src/pf2e/player-core
 - class-feature/level/1
 aliases: ["Reactive Strike"]
-aon_id: "class-feature-691"
+aon_url: "https://2e.aonprd.com/Classes.aspx?ID=35"
 source: "Player Core"
 ---
 

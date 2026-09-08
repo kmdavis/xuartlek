@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "False Priest"
 tags:
@@ -11,7 +10,6 @@ statblock: inline
 name: "False Priest"
 level: 4
 source: "NPC Core"
-aon_id: "creature-3537"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3537"
 ---
 
@@ -36,7 +34,7 @@ skills:
 abilityMods: [0, 4, 3, 0, 2, 4]
 abilities_top:
   - name: "Items"
-    desc: "alchemical tools (used as “blessed items” to fool marks), Backpack, cloak, collection of fake relics, Hand Crossbow (20 bolts), Rapier, [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol-silver|wooden religious symbol]], Studded Leather Armor"
+    desc: "alchemical tools (used as “blessed items” to fool marks), Backpack, cloak, collection of fake relics, Hand Crossbow (20 bolts), Rapier, [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol|wooden religious symbol]], Studded Leather Armor"
 ac: 21
 armorclass:
   - name: "AC"

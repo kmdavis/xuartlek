@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/battlecry
@@ -9,7 +8,7 @@ tags:
 - trait/occult
 - feat/level/5
 aliases: ["Call the First Tools"]
-aon_id: "feat-7776"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7776"
 source: "Battlecry!"
 ---
 

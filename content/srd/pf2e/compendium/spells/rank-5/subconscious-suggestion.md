@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -11,7 +10,7 @@ tags:
 - trait/subtle
 - spell/level/5
 aliases: ["Subconscious Suggestion"]
-aon_id: "spell-1692"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1692"
 source: "Player Core"
 ---
 
@@ -20,8 +19,8 @@ source: "Player Core"
 `Concentrate`  `Incapacitation`  `Linguistic`  `Manipulate`  `Mental`  `Subtle`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Cormion, Corosbel, Droskar, Erecura, Lissala, Mephistopheles, Nalinivati, Nyarlathotep (The Veiled Voice), The Tides of Chaos, Titivilus, Velgaas
-- **Lesson**: Lesson of Bargains
+- **Deities**: Cormion, [[srd/pf2e/compendium/deities/daemon-harbingers/corosbel|Corosbel]], [[srd/pf2e/compendium/deities/dwarven-gods/droskar|Droskar]], [[srd/pf2e/compendium/deities/other-gods/erecura|Erecura]], [[srd/pf2e/compendium/deities/azlanti-pantheon/lissala-deity-565|Lissala]], [[srd/pf2e/compendium/deities/archdevils/mephistopheles|Mephistopheles]], Nalinivati, [[srd/pf2e/compendium/deities/outer-gods-and-great-old-ones/nyarlathotep-the-veiled-voice|Nyarlathotep (The Veiled Voice)]], The Tides of Chaos, [[srd/pf2e/compendium/deities/infernal-dukes/titivilus|Titivilus]], [[srd/pf2e/compendium/deities/sakhil-tormentors/velgaas|Velgaas]]
+- **Lesson**: [[srd/pf2e/compendium/character/lessons#Lesson of Bargains|Lesson of Bargains]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will

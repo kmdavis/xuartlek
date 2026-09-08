@@ -1,12 +1,11 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/war-of-immortals
 - trait/mythic
 - feat/level/14
 aliases: ["You Can't Hide From Us"]
-aon_id: "feat-7349"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7349"
 source: "War of Immortals"
 ---
 

@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-equipment
 tags:
 - compendium/src/pf2e/treasure-vault-remastered
@@ -11,7 +10,7 @@ tags:
 - trait/positive
 - equipment/level/11
 aliases: ["Dawnflower Beads"]
-aon_id: "equipment-2394"
+aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2394"
 source: "Treasure Vault (Remastered)"
 ---
 
@@ -33,7 +32,7 @@ source: "Treasure Vault (Remastered)"
 
 --- 
 
-Prayer beads given prolonged exposure to spiritual energies at sacred Sarenite sites can attain sapience as _Dawnflower beads_. Other such objects hold the spirits of Sarenite priests who dedicated themselves to their work beyond death. Dawnflower beads function as a [[srd/pf2e/compendium/equipment/worn-items/shining-symbol-major|_greater shining symbol_]]. They don’t re-attune to other deities but allow any divine spellcaster who isn’t [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] to use them, though they attempt to talk their wielder out of morally questionable acts. Dawnflower beads have the following additional activations.
+Prayer beads given prolonged exposure to spiritual energies at sacred [[srd/pf2e/compendium/deities/gods-of-the-inner-sea/sarenrae|Sarenite]] sites can attain sapience as _Dawnflower beads_. Other such objects hold the spirits of Sarenite priests who dedicated themselves to their work beyond death. Dawnflower beads function as a [[srd/pf2e/compendium/equipment/worn-items/shining-symbol|_greater shining symbol_]]. They don’t re-attune to other deities but allow any divine spellcaster who isn’t [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] to use them, though they attempt to talk their wielder out of morally questionable acts. Dawnflower beads have the following additional activations.
 
 **Activate** Cast a Spell; **Effect** The beads cast 4th-rank _light_.
 

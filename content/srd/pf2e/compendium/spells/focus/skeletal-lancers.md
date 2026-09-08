@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -11,7 +10,7 @@ tags:
 - trait/uncommon
 - spell/level/7
 aliases: ["Skeletal Lancers"]
-aon_id: "spell-2908"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2908"
 source: "Impossible Magic"
 ---
 

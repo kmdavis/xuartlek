@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -10,7 +9,7 @@ tags:
 - trait/wizard
 - feat/level/8
 aliases: ["Spellbinding Speech"]
-aon_id: "feat-9395"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9395"
 source: "Impossible Magic"
 ---
 

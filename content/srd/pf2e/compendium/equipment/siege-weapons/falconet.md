@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-siege-weapon
 tags:
 - compendium/src/pf2e/battlecry
@@ -7,7 +6,7 @@ tags:
 - trait/uncommon
 - siege-weapon/level/4
 aliases: ["Falconet"]
-aon_id: "siege-weapon-50"
+aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=50"
 source: "Battlecry!"
 ---
 

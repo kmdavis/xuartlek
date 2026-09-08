@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/player-core
@@ -7,7 +6,7 @@ tags:
 - trait/manipulate
 - spell/level/4
 aliases: ["Unfettered Movement"]
-aon_id: "spell-1732"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1732"
 source: "Player Core"
 ---
 
@@ -16,7 +15,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`
 
 - **Traditions**: Arcane, Divine, Primal
-- **Bloodline**: Elemental
+- **Bloodline**: [[srd/pf2e/compendium/character/bloodlines#Elemental|Elemental]]
 - **Range**: touch
 - **Target**: 1 creature touched
 - **Duration**: 10 minutes

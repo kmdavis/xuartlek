@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/rage-of-elements
@@ -12,7 +11,7 @@ tags:
 - trait/uncommon
 - spell/level/3
 aliases: ["Stone Lance"]
-aon_id: "spell-1307"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1307"
 source: "Rage of Elements"
 ---
 

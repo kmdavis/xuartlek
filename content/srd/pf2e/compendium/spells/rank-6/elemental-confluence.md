@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -13,7 +12,7 @@ tags:
 - trait/wood
 - spell/level/6
 aliases: ["Elemental Confluence"]
-aon_id: "spell-2689"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2689"
 source: "Impossible Magic"
 ---
 
@@ -22,7 +21,7 @@ source: "Impossible Magic"
 `Air`  `Concentrate`  `Earth`  `Fire`  `Manipulate`  `Metal`  `Water`  `Wood`
 
 - **Traditions**: Arcane, Primal
-- **Deity**: Valani
+- **Deity**: [[srd/pf2e/compendium/deities/empyreal-lords/valani|Valani]]
 - **Range**: 60 feet
 - **Area**: 20-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]]
 - **Duration**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|sustained]] up to 1 minute

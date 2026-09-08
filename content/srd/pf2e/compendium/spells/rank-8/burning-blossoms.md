@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/impossible-magic
@@ -9,7 +8,7 @@ tags:
 - trait/plant
 - spell/level/8
 aliases: ["Burning Blossoms"]
-aon_id: "spell-2650"
+aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2650"
 source: "Impossible Magic"
 ---
 
@@ -18,7 +17,7 @@ source: "Impossible Magic"
 `Concentrate`  `Fire`  `Manipulate`  `Plant`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Arundhat, Yuelral
+- **Deities**: [[srd/pf2e/compendium/deities/vudrani-gods/arundhat|Arundhat]], [[srd/pf2e/compendium/deities/elven-gods/yuelral|Yuelral]]
 - **Range**: 120 feet
 - **Area**: 30-foot radius, 100-foot tall cylinder
 - **Defense**: Will

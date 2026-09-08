@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 cssclasses: pf2e,pf2e-feat
 tags:
 - compendium/src/pf2e/dark-archives-remastered
@@ -9,7 +8,7 @@ tags:
 - trait/subtle
 - feat/level/8
 aliases: ["Fey's Trickery"]
-aon_id: "feat-8460"
+aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8460"
 source: "Dark Archives (Remastered)"
 ---
 
