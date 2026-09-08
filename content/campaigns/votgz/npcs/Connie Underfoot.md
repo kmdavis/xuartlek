@@ -102,13 +102,28 @@ meeting, along with what she paid for it and the fact that the two are different
 She will not say how much less she paid. That spread is her margin and she is
 straight about having one.
 
-**PROPOSED -- the arithmetic.** The Book carries **what she paid, plus a stated
-margin, plus per-opening transit costs as they accrue**, not the ruinous face
-value of the original debt. A factor who buys at a fifth and collects the whole
-is a predator. A factor who buys at a fifth and collects a third is a business,
-and only the second version survives contact with "crews genuinely get free."
-This is the single fact that makes her chaotic good: the empire destroyed these
-people, and Connie is the discount.
+**The arithmetic.** The Book carries **what she paid, plus a stated margin, plus
+per-mission transit costs as they accrue**, not the ruinous face value of the
+original debt. A factor who buys at a sixth and collects the whole is a predator.
+A factor who buys at a sixth and collects a third is a business, and only the
+second version survives contact with "crews genuinely get free." This is the
+single fact that makes her chaotic good: the empire destroyed these people, and
+Connie is the discount.
+
+| | gp | |
+|---|---|---|
+| Face value assessed by the empire | 34,261 | discharged by the sale |
+| Her winning bid, ship and crew as one lot | 6,000 | 17.5% of face |
+| **The Book** | **12,000** | 35% of face, **6.7x their net worth** |
+
+6,000 gp is far beyond a broker who lives hand to mouth on opening fees, so **she
+borrowed to buy them**. Keep that bind: she cannot afford to be gentle with the
+schedule, because somebody is charging her interest on the four of them. It is why
+the work never stops, and it never requires the party to meet her creditor.
+
+Full schedule, fees and reputation bands are in the Book arc file. Short version:
+four arcs of three sessions, one per player in the GM chair, clears it at 5th
+level.
 
 ### The Call
 
@@ -190,20 +205,32 @@ the Book, in no particular order, and she can tell you which ones they are.
 
 Nobody rescued them. They walked into it, and every step was legitimate.
 
-1. The *Grim Zephyr* came through the Issoire portal a year ago showing obvious
-   damage, and without paying the transit toll. **Non-payment plus daily
-   failure-to-pay fees begins accruing from that day.**
-2. She was logged inbound and never logged back within a week, the usual turn for
-   an airship. That triggers a salvage notice.
-3. A salvage operator out of Issoire went looking, took a few days, and found her
-   at Thelonésë. They offered transport back to Issoire for what sounded like a
-   reasonable fee.
-4. The yard at Issoire offered to repair the crystal for what sounded like a
-   reasonable-ish fee. Nothing a bank loan would not cover.
-5. Then the **Transit Office** arrived with the bill: months of tolls, interest,
-   late fees, and interest on the late fees. It annihilated every financial
-   option they had, including the loan.
-6. Ship and crew were taken into bondage and sold at market. **Connie bought.**
+They were not found. They were **cross-referenced**.
+
+1. The *Grim Zephyr* came through the Issoire portal showing obvious damage and
+   without paying the 100 gp toll. Non-payment, statutory penalties and a daily
+   failure-to-pay fee begin accruing from that day.
+2. Separately, the party sold a captured prize sloop at Sielmoro and did not pay
+   the duty on the sale.
+3. **Pender Holst came to collect that duty**, crossing a sea to Thelonésë to do
+   it. Collecting it meant opening the sellers' file. The file had another hull on
+   it: *Grim Zephyr*, registry unresolved, logged inbound at Issoire and never
+   logged out.
+4. He filed a note. The note raised the derelict flag. **Their own paperwork did
+   this**, and the man who did it was being conscientious.
+5. Provident Salvage of Issoire went looking, found her at Thelonésë, and offered
+   900 gp to tow her home. An honest price, honestly meant. Accepting it
+   crystallised a statutory salvage award of 8,000 gp that nobody mentioned,
+   because it is a claim against the vessel filed with the Office and not the
+   salvor's to discuss.
+6. Halloran's Yard repaired the crystal for 2,400 gp. A fair price, good work.
+7. Then the **Transit Office** presented the consolidated statement: 34,261 gp 2
+   sp. It annihilated every option they had, including the loan.
+8. Ship and crew were seized and sold at the debtors' market. **Connie bought.**
+
+The toll was one hundred gold. Everything else is the Office's opinion about being
+paid late. The full itemised statement is a player-facing prop; see
+[[statement-of-account]].
 
 Their Letter of Marque from Governor Thesalor is worth nothing here. It is an
 instrument of the Principality of Zolnuth and the creditor is imperial. The
@@ -218,15 +245,36 @@ and it gives the party nobody to punch.
 
 **PROPOSED -- the parties.** *Provident Salvage* of Issoire, whose name promises
 foresight and whose entire trade is other people's lack of it. *Halloran's Yard*,
-also Issoire. *The Transit Office*, imperial, everywhere. Pender Holst works for
-the last of these, and the 3 GP 4 SP transit duty he served in a monster den was
-the first drop of this rain. Having him serve the big one as well is free and
-devastating.
+also Issoire, the only party in the whole affair who behaved well and whose
+invoice is the smallest thing on the page. *The Transit Office*, imperial,
+everywhere.
+
+**Pender Holst is not cruel and not corrupt. He is correct.** He waives nothing,
+including the 2 gp late penalty. The 3 gp 4 sp the players heard in session 18 was
+true and was line 2 of a four-line demand for 278 gp 5 sp; combat started before
+he got through the rest. He does not mention the derelict flag, because he filed
+that note before he left and it is not his file any more. He would be genuinely
+distressed by what happens next and entirely unable to see that he did anything
+wrong, because he didn't.
+
+**Title, so nobody relitigates it.** The original owner of the *Verdant Zephyr*
+has no claim: they were made whole by underwriters, who took title by subrogation,
+declared a constructive total loss and struck the registration, which is why the
+hull matched no live registry entry. And the debtors' market sale was a judicial
+sale under Office authority, which passes clean title free of all prior liens.
+What survives instead is a claim file in an underwriter's office containing
+statements from a helmsman, two cooks and a longshoreman. Nobody has
+cross-referenced it. A cross-reference is what started all of this.
 
 **PROPOSED -- the ship.** Connie bought hull and crew as one lot, so she owns the
-*Grim Zephyr*. The party operate her. Clearing the Book returns the ship. That is
-leverage that never needs a threat attached, and it makes the win condition an
+*Grim Zephyr*, and she **re-registered her**, which is how the ship can now transit
+portals lawfully at 100 gp a time. The party operate her. Clearing the Book
+transfers the registry to them. Freedom is a document, and the win condition is an
 object rather than an abstraction.
+
+Implied hull value, from the statutory salvage award: **24,000 gp**. They stole a
+24,000 gp airship and will pay 12,000 gp to own it lawfully. They are paying for
+the *Verdant Zephyr*. They are just paying Connie.
 
 ---
 
@@ -401,6 +449,8 @@ something.
 - **Who originally hired the party to hijack the *Verdant Zephyr*, and what the
   cargo was.** Unrelated to Connie, still unclaimed, still missing somewhere in
   the High City. Available to any GM who wants it.
-- **The size of the Book.** Set it backwards from the level you intend the
-  campaign to end at, using the PF2E wealth tables, and then never move it. If the
-  players ever see the number move, the whole device dies.
+- **The underwriters' claim file**, and who might one day read it.
+
+**Settled, and not to be reopened at the table:** the Book opens at 12,000 gp and
+the figure never moves. If the players ever see it move for any reason other than
+the arithmetic, the whole device dies.
