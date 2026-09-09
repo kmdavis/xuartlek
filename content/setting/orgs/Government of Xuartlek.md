@@ -1,4 +1,7 @@
 ---
+title: Government of Xuartlek
+type: org
+publish: true
 aliases: ["Government", "The Assize", "The Authority", "The Assay", "The Concord"]
 tags:
 - setting/xuartlek
@@ -9,7 +12,7 @@ role: GM reference / constitutional history
 # Government
 
 Who actually holds power on Xuartlek, why the state is so weak, and how it got
-that way. Factions and the power map are in [[factions]].
+that way. Factions and the power map are in [[The High City Factions]].
 
 ---
 
@@ -263,6 +266,63 @@ functionary, not a politician, and most Delegates could not name them.
 **The Authority's only enforcement power is refusal of passage.** It cannot arrest,
 tax or seize except at a door. But declining to open a door to a House's cargo is
 economic warfare conducted with a ledger.
+
+### The org chart
+
+Every department runs the same way. A **Comptroller** at the top, a **Deputy
+Comptroller** chosen by them and confirmed by the Board, then **Directorates** under
+**Directors**, then **Sections** under **Section Officers**. Some departments use
+different labels for the same rungs, mostly out of spite.
+
+This matters at the table because it means any imperial official a party meets has a
+name, a title, a superior two rungs up, and something they want.
+
+**Transit**
+- Director of Portals
+  - Portal Master, {district} (one per Low City portal)
+  - Portal Master, {district A}-{district B} (one per secondary link)
+  - Director of Portal Construction
+- Director of Ports
+  - Harbourmaster, {district} (Low City ports and the four rim harbours)
+  - Director of High City Aerospace
+- Director of Tramways
+- **Officer of Transit**, the field rank that serves paper and collects duty
+- Admiral of the Air Guard
+
+**The Register**
+- Director of Persons (citizenship, the naturalisation rolls)
+- Director of Title (hulls, land, House charters)
+- Director of Bounds (district boundaries, and the reason nobody asks)
+- Keeper of Proposals (the archive of rejected district names, and the funniest
+  documents in the empire)
+
+**The Low City**
+- Deputy Comptroller for {world}
+  - **Administrator, {district}** -- your default imperial authority on any world
+    - Deputy Administrator of the Guard (the district constabulary)
+    - Deputy Administrator of Services
+    - Deputy Administrator of Infrastructure
+
+High City districts have Administrators too, under the same pattern. **Under City
+and Estate Administrators exist and are explicit sinecures.** Four people hold
+Haritza's four and do nothing at all.
+
+**The Mint**
+- Director of Coin
+- Director of Weights and Measures
+- Director of Imperial Time
+
+### Not departments
+
+Four functions people expect to find here are somewhere else entirely, and that is
+the most reliable guide to where power actually sits:
+
+| Function | Who really has it |
+|---|---|
+| Arcane research and regulation | The Academy, sovereign in Akademinin Evi |
+| Commerce | The banking guilds, and every House's own trade arm |
+| Foreign relations | The Houses, individually, and always have |
+| Defence | The military, on a treaty clause, outside the Authority |
 
 ### Revenue
 

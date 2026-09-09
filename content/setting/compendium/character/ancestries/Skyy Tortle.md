@@ -1,4 +1,7 @@
 ---
+title: Skyy Tortle
+type: ancestry
+publish: true
 cssclasses: pf2e,pf2e-ancestry
 tags:
 - setting/xuartlek
@@ -8,7 +11,7 @@ tags:
 - trait/rare
 aliases: ["Skyy Tortle", "Tortle"]
 source: "Xuartlek homebrew"
-ported_from: "Myrrhina 5E — people/races/Skyy Tortle"
+ported_from: "Myrrhina 5E -- people/races/Skyy Tortle"
 ---
 
 # Skyy Tortle  *Ancestry*
@@ -16,7 +19,7 @@ ported_from: "Myrrhina 5E — people/races/Skyy Tortle"
 `Humanoid`  `Skyy Tortle`  `Rare`
 
 Skyy Tortles hail from Tortleheim, in the Chelon system, and keep the Tortlian
-calendar — the oldest still in continuous use. They never stop growing and never
+calendar -- the oldest still in continuous use. They never stop growing and never
 die of age. The eldest do not so much retire as slow to a stop, and their
 descendants build villages on their backs.
 
@@ -33,7 +36,7 @@ Your shell is part of you and cannot be removed. It grants a **+1 item bonus to
 AC**, has a **Dexterity modifier cap of +4**, and imposes no check penalty and no
 speed penalty. You can't wear armor.
 
-**You count as unarmored for every effect that cares** — monk stances, *mage
+**You count as unarmored for every effect that cares** -- monk stances, *mage
 armor*, an unarmored-defense proficiency, and anything else with the same
 requirement.
 
@@ -106,8 +109,8 @@ though you still pay the cost and spend the time.
 
 `Skyy Tortle`
 
-Your people measure a grudge in decades. Once per day, when you fail — but do not
-critically fail — a saving throw against an effect that would make you
+Your people measure a grudge in decades. Once per day, when you fail -- but do not
+critically fail -- a saving throw against an effect that would make you
 frightened, fleeing or controlled, you get a success instead.
 
 ## Cumbersome Flight  *Feat 9*

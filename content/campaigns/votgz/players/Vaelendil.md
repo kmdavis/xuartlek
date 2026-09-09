@@ -101,7 +101,7 @@ Staff Nexus
 
 `wizard`
 
-Magic is power, and there are always those who will use power for the art of battle. You may have studied in the military of a nation of the brink of war—Cheliax and Andoran perhaps, or Geb and Nex. You summon whirling energies that can lay waste to both soldiers and armies, while being sure not to neglect arcane countermeasures for common tactical complications or the shields and defenses that keep combatants alive on the battlefield.
+Magic is power, and there are always those who will use power for the art of battle. You may have studied in the military of a nation of the brink of war--Cheliax and Andoran perhaps, or Geb and Nex. You summon whirling energies that can lay waste to both soldiers and armies, while being sure not to neglect arcane countermeasures for common tactical complications or the shields and defenses that keep combatants alive on the battlefield.
 
 **Curriculum**
 
@@ -151,7 +151,7 @@ Heightening Spells
 When you get spell slots of 2nd rank and higher, you can fill those slots with stronger versions of lower-rank spells. This increases the spell's rank, heightening it to match the spell slot. Many spells have specific improvements when they are heightened to certain ranks.
 
 Cantrips
-Some of your spells are cantrips. A cantrip is a special type of spell that doesn't use spell slots. You can cast a cantrip at will, any number of times per day. A cantrip is always automatically heightened to half your level rounded up—this is usually equal to the highest rank of wizard spell slot you have. For example, as a 1st-level wizard, your cantrips are 1st-rank spells, and as a 5th-level wizard, your cantrips are 3rd-rank spells.
+Some of your spells are cantrips. A cantrip is a special type of spell that doesn't use spell slots. You can cast a cantrip at will, any number of times per day. A cantrip is always automatically heightened to half your level rounded up--this is usually equal to the highest rank of wizard spell slot you have. For example, as a 1st-level wizard, your cantrips are 1st-rank spells, and as a 5th-level wizard, your cantrips are 3rd-rank spells.
 
 Spellbook
 Every arcane spell has a written version, which you record in your personalized book of spells. You start with a spellbook worth 10 sp or less, which you receive for free and must study each day to prepare your spells. Your spellbook's form and name are up to you. It might be a musty, leather-bound tome or an assortment of thin metal disks connected to a brass ring; its name might be esoteric, like *The Tome of Silent Shadows* or something more academic, like *Advanced Pyromantic Applications of Jalmeri Elemental Theory*.
@@ -193,7 +193,7 @@ Pirate
 
 `elf`
 
-You favor bows and other elegant weapons. You gain access to all uncommon weapons with the elf trait. You have familiarity with weapons with the elf trait plus Longbows, Composite Longbows, Rapiers, Shortbows, and Composite Shortbows—for the purposes of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.
+You favor bows and other elegant weapons. You gain access to all uncommon weapons with the elf trait. You have familiarity with weapons with the elf trait plus Longbows, Composite Longbows, Rapiers, Shortbows, and Composite Shortbows--for the purposes of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.
 
 At 5th level, whenever you get a critical hit with one of these weapons, you get its critical specialization effect.
 
@@ -211,7 +211,7 @@ Your knowledge has expanded to encompass a new field. Choose a Lore skill subcat
 
 `general`  `skill`
 
-You often smuggle things past the authorities. When the GM rolls your Stealth check to see if a passive observer notices a small item you've Concealed, the GM uses the number rolled or 10—whichever is higher—as the result of your die roll, adding it to your Stealth modifier to determine your Stealth check result. If you're a master in Stealth, the GM uses the number rolled or 15, and if you're legendary in Stealth, you automatically succeed at hiding a small concealed item from passive observers. This provides no benefits when a creature attempts a Perception check while actively searching you for Hidden items.
+You often smuggle things past the authorities. When the GM rolls your Stealth check to see if a passive observer notices a small item you've Concealed, the GM uses the number rolled or 10--whichever is higher--as the result of your die roll, adding it to your Stealth modifier to determine your Stealth check result. If you're a master in Stealth, the GM uses the number rolled or 15, and if you're legendary in Stealth, you automatically succeed at hiding a small concealed item from passive observers. This provides no benefits when a creature attempts a Perception check while actively searching you for Hidden items.
 
 **PFS Note** This feat allows you to Earn Income with Underworld Lore with tasks of your level -1 (instead of the normal level -2).
 

@@ -106,10 +106,10 @@ costs, fee, her cut, remainder, new balance.
 | *Grim Zephyr* portal tolls, four transits at 100 | 400 |
 | **Total, added to the Book before anyone is paid** | **1,200** |
 
-**Read the toll line out loud every arc.** They were destroyed by unpaid tolls,
-and now they pay tolls, on time, forever, and it goes on their tab. Pender Holst
-processes those transits. Correctly. Every time. He has never once made an error
-in their favour.
+**Read the toll line out loud every arc.** They were destroyed by unpaid tolls, and
+now they pay tolls, on time, forever, and it goes on their tab. Every transit is an
+Officer of Transit at a window, doing the paperwork correctly, and never once making
+an error in their favour.
 
 ### The schedule
 

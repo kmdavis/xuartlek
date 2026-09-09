@@ -212,12 +212,14 @@ They were not found. They were **cross-referenced**.
    failure-to-pay fee begin accruing from that day.
 2. Separately, the party sold a captured prize sloop at Sielmoro and did not pay
    the duty on the sale.
-3. **Pender Holst came to collect that duty**, crossing a sea to Thelonésë to do
-   it. Collecting it meant opening the sellers' file. The file had another hull on
-   it: *Grim Zephyr*, registry unresolved, logged inbound at Issoire and never
-   logged out.
-4. He filed a note. The note raised the derelict flag. **Their own paperwork did
-   this**, and the man who did it was being conscientious.
+3. **Pender Holst came to collect that duty**, crossing a sea to Thelonésë to do it.
+   He is a revenue officer for the **Principality of Zolnuth**, out of Sielmoro, not
+   an imperial official. Collecting the duty meant opening the sellers' file. The
+   file had another hull on it: *Grim Zephyr*, registry unresolved, logged inbound at
+   Issoire and never logged out.
+4. Not a Zolnuth matter, so he reported it upward to the imperial Authority. That
+   note raised the derelict flag. **Their own paperwork did this**, and a parish
+   clerk's thoroughness is what put an imperial body onto them.
 5. Provident Salvage of Issoire went looking, found her at Thelonésë, and offered
    900 gp to tow her home. An honest price, honestly meant. Accepting it
    crystallised a statutory salvage award of 8,000 gp that nobody mentioned,

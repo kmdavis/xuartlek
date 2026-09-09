@@ -21,17 +21,17 @@ Both are player-facing. Hand them over as printed props if you can.
 He crossed a sea to serve this. He will read every line. He waives nothing.
 
 ```
-              THE AUTHORITY -- OFFICE OF TRANSIT -- DEMAND FOR PAYMENT
-              Re: prize sloop, sold at Sielmoro
-              Sellers: the crew of the vessel presently styled GRIM ZEPHYR
-              Serving officer: P. HOLST
+         PRINCIPALITY OF ZOLNUTH -- REVENUE OFFICE, SIELMORO
+         DEMAND FOR PAYMENT
+         Re: prize sloop, sold at Sielmoro
+         Sellers: the crew of the vessel presently styled GRIM ZEPHYR
+         Serving officer: P. HOLST, Revenue Officer (Second Class)
 
    1  Prize share, Principality of Zolnuth,
          one-third of prize sold (700 gp) .....................  233 gp 4 sp
    2  Vessel transfer duty, prize sloop,
          assessed value 680 gp at 1/200 .......................    3 gp 4 sp
-   3  Collection agency fee, the Authority acting
-         as agent for the Principality, 5% ....................   11 gp 7 sp
+   3  Collection fee, Revenue Office, 5% ......................   11 gp 7 sp
    4  Late penalty, 30 days at 1 gp/day .......................   30 gp
 
                                      TOTAL DUE ................  278 gp 5 sp
@@ -55,11 +55,17 @@ started before he got through the rest. Nobody misheard anything.
 **The Office assessed the hull at 680 gp**, not the 700 they actually got.
 Nobody asked them.
 
-**He does not mention the other thing.** Opening their file to collect this is how
-he found the *Grim Zephyr*: logged inbound at Issoire, never logged out, registry
-unresolved. He filed a note before he left. The derelict flag is already raised and
-Provident Salvage is already coming. It is not his file any more and he will not
-raise it.
+**He does not work for the empire.** Pender is a revenue officer for the Principality
+of Zolnuth, out of Sielmoro. Local government, local duties, local prize shares. The
+imperial Authority is something he files reports to, not something he belongs to.
+
+**And he does not mention the other thing.** Opening their file to collect this is
+how he found the *Grim Zephyr*: logged inbound at Issoire, never logged out, registry
+unresolved. That is not a Zolnuth matter, so he did the correct thing and **reported
+it upward to the Authority** before he left. The derelict flag is already raised and
+Provident Salvage is already coming. It is out of his hands and he will not raise it.
+
+A parish clerk's thoroughness is what put an imperial body onto them.
 
 Pender is not cruel and not corrupt. He is *correct*. He would be genuinely
 distressed by what happens next and entirely unable to see that he did anything
@@ -82,7 +88,7 @@ after the repairs. This is the one that ends them.
    1  Prize share, Principality of Zolnuth,
          one-third of prize sold at Sielmoro ..................  233 gp 4 sp
    2  Vessel transfer duty, prize sloop, 680 gp at 1/200 ......    3 gp 4 sp
-   3  Collection agency fee, acting for the Principality, 5% ..   11 gp 7 sp
+   3  Collection fee, Zolnuth Revenue Office, 5% ..............   11 gp 7 sp
    4  Late penalty, 30 days at 1 gp/day .......................   30 gp
    5  Portal toll, heavy freighter class, flat ................  100 gp
                                                   schedule A       378 gp 5 sp
@@ -146,8 +152,9 @@ way through, in a panic, with a stolen ship, eleven months ago.
 **Lines 14 and 15.** The Office charges them to raise the derelict flag and
 charges them again to take it down.
 
-**Line 18.** They are billed 66 gp for Pender's travel and subsistence while he
-came to the jungle to serve them Document 1.
+**Line 18.** They are billed 66 gp for a *Zolnuth* revenue officer's travel and
+subsistence while he came to the jungle to serve them Document 1. The Authority did
+not send him. It passes the charge through anyway.
 
 **Line 8 is canon.** They renamed the *Verdant Zephyr*. The registry knows the
 hull by its old name, which is why the header reads UNRESOLVED.
