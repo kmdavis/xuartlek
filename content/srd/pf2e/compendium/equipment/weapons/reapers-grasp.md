@@ -9,6 +9,7 @@ tags:
 aliases: ["Reaper's Grasp"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1184"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Reaper's Grasp  *Item 11*

@@ -11,6 +11,7 @@ tags:
 aliases: ["Touch of the Moon"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1821"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Touch of the Moon  *Focus 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

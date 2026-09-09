@@ -9,6 +9,7 @@ tags:
 aliases: ["Animist Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7219"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Animist Dedication  *Feat 2*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Gaff"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=530"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Gaff  *Weapon 0*

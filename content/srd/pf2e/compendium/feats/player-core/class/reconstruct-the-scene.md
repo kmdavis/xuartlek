@@ -9,6 +9,7 @@ tags:
 aliases: ["Reconstruct The Scene"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4984"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Reconstruct The Scene  *Feat 16*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Injection"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=407"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Injection  *Trait*

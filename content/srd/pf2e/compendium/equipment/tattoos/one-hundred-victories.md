@@ -9,6 +9,7 @@ tags:
 aliases: ["One Hundred Victories"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2214"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # One Hundred Victories  *Item 3*

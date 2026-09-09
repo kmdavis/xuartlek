@@ -7,6 +7,7 @@ tags:
 aliases: ["Energy Beam"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3094"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Energy Beam  *Feat 1*

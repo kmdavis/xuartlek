@@ -7,6 +7,7 @@ tags:
 aliases: ["Constant Crosier"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3930"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Constant Crosier  *Item 10*

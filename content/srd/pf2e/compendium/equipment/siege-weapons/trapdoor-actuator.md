@@ -8,6 +8,7 @@ tags:
 aliases: ["Trapdoor Actuator"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=33"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Trapdoor Actuator  *Siege Weapon 3*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Pharaoh's Ward"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=475"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Pharaoh's Ward  *Hazard 7*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Animist's Power"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7222"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Animist's Power  *Feat 6*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Inexplicable Apparatus"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3090"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Inexplicable Apparatus  *Item 18*

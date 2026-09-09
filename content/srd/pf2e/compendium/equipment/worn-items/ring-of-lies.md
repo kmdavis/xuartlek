@@ -9,6 +9,7 @@ tags:
 aliases: ["Ring of Lies"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3104"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Ring of Lies  *Item 10*

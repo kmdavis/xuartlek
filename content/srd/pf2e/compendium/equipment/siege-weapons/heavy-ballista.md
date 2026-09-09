@@ -8,6 +8,7 @@ tags:
 aliases: ["Heavy Ballista"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=7"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Heavy Ballista  *Siege Weapon 8*

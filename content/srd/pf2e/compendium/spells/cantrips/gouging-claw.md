@@ -11,6 +11,7 @@ tags:
 aliases: ["Gouging Claw"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1546"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Gouging Claw  *Cantrip 1*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

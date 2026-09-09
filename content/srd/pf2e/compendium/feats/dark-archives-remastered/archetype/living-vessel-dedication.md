@@ -9,6 +9,7 @@ tags:
 aliases: ["Living Vessel Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8456"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Living Vessel Dedication  *Feat 2*

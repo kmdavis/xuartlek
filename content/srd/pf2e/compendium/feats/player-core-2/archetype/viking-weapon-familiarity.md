@@ -7,6 +7,7 @@ tags:
 aliases: ["Viking Weapon Familiarity"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6437"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Viking Weapon Familiarity  *Feat 4*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Endless Grimoire"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5127"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Endless Grimoire  *Item 6+*

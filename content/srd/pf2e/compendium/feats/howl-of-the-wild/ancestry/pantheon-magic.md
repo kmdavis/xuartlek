@@ -7,6 +7,7 @@ tags:
 aliases: ["Pantheon Magic"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5368"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Pantheon Magic  *Feat 1*

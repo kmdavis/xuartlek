@@ -11,6 +11,7 @@ tags:
 aliases: ["Karambit"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=289"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Karambit  *Weapon 0*

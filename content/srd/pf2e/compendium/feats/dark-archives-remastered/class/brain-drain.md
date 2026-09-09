@@ -9,6 +9,7 @@ tags:
 aliases: ["Brain Drain"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8326"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Brain Drain  *Feat 8*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

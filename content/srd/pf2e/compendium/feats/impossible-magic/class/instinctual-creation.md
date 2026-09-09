@@ -9,6 +9,7 @@ tags:
 aliases: ["Instinctual Creation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9146"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Instinctual Creation  *Feat 14*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

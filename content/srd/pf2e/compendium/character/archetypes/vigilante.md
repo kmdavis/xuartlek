@@ -7,6 +7,7 @@ tags:
 aliases: ["Vigilante"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=267"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Vigilante  *Archetype 2*

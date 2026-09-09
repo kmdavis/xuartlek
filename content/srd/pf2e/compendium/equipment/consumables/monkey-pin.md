@@ -9,6 +9,7 @@ tags:
 aliases: ["Monkey Pin"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2985"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Monkey Pin  *Item 2*

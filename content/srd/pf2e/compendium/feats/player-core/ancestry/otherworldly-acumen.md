@@ -7,6 +7,7 @@ tags:
 aliases: ["Otherworldly Acumen"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4417"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Otherworldly Acumen  *Feat 9*

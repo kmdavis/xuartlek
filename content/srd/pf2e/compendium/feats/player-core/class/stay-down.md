@@ -7,6 +7,7 @@ tags:
 aliases: ["Stay Down!"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4978"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Stay Down!  *Feat 14*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

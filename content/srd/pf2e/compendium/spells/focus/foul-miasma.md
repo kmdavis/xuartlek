@@ -12,6 +12,7 @@ tags:
 aliases: ["Foul Miasma"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2404"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Foul Miasma  *Focus 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

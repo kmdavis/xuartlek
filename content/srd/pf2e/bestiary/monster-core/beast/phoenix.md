@@ -13,6 +13,7 @@ name: "Phoenix"
 level: 15
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3137"
+socialImage: og-image.png
 ---
 
 ```statblock

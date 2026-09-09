@@ -9,6 +9,7 @@ tags:
 aliases: ["Sprite Apple"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1932"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sprite Apple  *Item 3+*

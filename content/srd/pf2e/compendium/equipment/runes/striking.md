@@ -7,6 +7,7 @@ tags:
 aliases: ["Striking"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2829"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Striking  *Item 4+*

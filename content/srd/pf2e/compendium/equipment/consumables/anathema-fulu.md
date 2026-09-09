@@ -9,6 +9,7 @@ tags:
 aliases: ["Anathema Fulu"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2029"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Anathema Fulu  *Item 11*

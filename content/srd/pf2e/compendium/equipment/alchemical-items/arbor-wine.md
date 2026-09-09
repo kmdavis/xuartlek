@@ -9,6 +9,7 @@ tags:
 aliases: ["Arbor Wine"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1908"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Arbor Wine  *Item 9+*

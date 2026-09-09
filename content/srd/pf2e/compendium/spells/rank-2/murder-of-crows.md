@@ -9,6 +9,7 @@ tags:
 aliases: ["Murder of Crows"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2772"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Murder of Crows  *Spell 2*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

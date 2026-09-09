@@ -9,6 +9,7 @@ tags:
 aliases: ["Constricting Hold"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9252"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Constricting Hold  *Feat 8*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

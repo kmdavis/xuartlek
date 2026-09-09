@@ -7,6 +7,7 @@ tags:
 aliases: ["Greater Debilitating Bomb"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5789"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Greater Debilitating Bomb  *Feat 10*

@@ -7,6 +7,7 @@ tags:
 aliases: ["The Harder They Fall (Rogue)"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4938"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # The Harder They Fall (Rogue)  *Feat 4*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Marking Powder Cannon"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=27"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Marking Powder Cannon  *Siege Weapon 5*

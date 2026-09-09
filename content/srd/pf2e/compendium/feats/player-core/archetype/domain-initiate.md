@@ -7,6 +7,7 @@ tags:
 aliases: ["Domain Initiate"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4644"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Domain Initiate  *Feat 1*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Rivethun Adept"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7579"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Rivethun Adept  *Feat 16*

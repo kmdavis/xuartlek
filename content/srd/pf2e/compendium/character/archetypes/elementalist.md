@@ -6,6 +6,7 @@ tags:
 aliases: ["Elementalist"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=207"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Elementalist  *Archetype 2*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Elven Curve Blade"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=406"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Elven Curve Blade  *Weapon 0*

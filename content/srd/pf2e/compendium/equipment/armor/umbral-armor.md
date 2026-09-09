@@ -9,6 +9,7 @@ tags:
 aliases: ["Umbral Armor"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3824"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Umbral Armor  *Item 10*

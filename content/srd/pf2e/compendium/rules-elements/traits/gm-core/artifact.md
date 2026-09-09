@@ -6,6 +6,7 @@ tags:
 aliases: ["Artifact"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=537"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Artifact  *Trait*

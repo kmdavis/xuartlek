@@ -5,6 +5,7 @@ tags:
 aliases: ["Munavri"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=611"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Munavri  *Creature Family*

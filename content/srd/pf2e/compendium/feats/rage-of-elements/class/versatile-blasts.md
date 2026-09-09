@@ -7,6 +7,7 @@ tags:
 aliases: ["Versatile Blasts"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4185"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Versatile Blasts  *Feat 1*

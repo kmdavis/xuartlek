@@ -5,6 +5,7 @@ tags:
 aliases: ["Vanara"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=631"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Vanara  *Creature Family*

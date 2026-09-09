@@ -8,6 +8,7 @@ tags:
 aliases: ["Viper Arrow"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3397"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Viper Arrow  *Item 4*

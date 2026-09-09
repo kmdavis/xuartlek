@@ -7,6 +7,7 @@ tags:
 aliases: ["Incredible Initiative"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5160"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Incredible Initiative  *Feat 1*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Recall Knowledge"]
 aon_url: "https://2e.aonprd.com/Skills.aspx?ID=24&General=true"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Recall Knowledge  *General Skill Action*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Tracing Studies"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9304"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Tracing Studies  *Feat 6*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Supreme Psychic Center"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8502"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Supreme Psychic Center  *Feat 8*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

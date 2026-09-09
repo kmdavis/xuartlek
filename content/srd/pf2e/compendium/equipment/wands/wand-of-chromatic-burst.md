@@ -9,6 +9,7 @@ tags:
 aliases: ["Wand of Chromatic Burst"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2273"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wand of Chromatic Burst  *Item 10+*

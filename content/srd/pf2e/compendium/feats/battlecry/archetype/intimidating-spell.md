@@ -12,6 +12,7 @@ tags:
 aliases: ["Intimidating Spell"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7981"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Intimidating Spell  *Feat 6*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

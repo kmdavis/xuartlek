@@ -7,6 +7,7 @@ tags:
 aliases: ["To the Ends of the Earth"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4913"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # To the Ends of the Earth  *Feat 20*

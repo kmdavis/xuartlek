@@ -7,6 +7,7 @@ tags:
 aliases: ["Glorious Banner"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7829"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Glorious Banner  *Feat 20*

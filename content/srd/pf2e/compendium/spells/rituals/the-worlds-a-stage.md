@@ -8,6 +8,7 @@ tags:
 aliases: ["The World's a stage"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=272"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # The World's a stage  *Ritual 5*

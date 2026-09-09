@@ -6,6 +6,7 @@ tags:
 aliases: ["Move"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=658"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Move  *Trait*

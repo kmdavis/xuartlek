@@ -5,6 +5,7 @@ tags:
 aliases: ["Halfling"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=426"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Halfling  *Creature Family*

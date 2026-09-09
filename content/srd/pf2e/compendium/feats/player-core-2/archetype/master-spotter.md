@@ -7,6 +7,7 @@ tags:
 aliases: ["Master Spotter"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6209"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Master Spotter  *Feat 12*

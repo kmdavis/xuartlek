@@ -6,6 +6,7 @@ tags:
 aliases: ["Auditory"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=541"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Auditory  *Trait*

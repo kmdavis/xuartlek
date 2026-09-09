@@ -9,6 +9,7 @@ tags:
 aliases: ["Halfling Sling Staff"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=438"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Halfling Sling Staff  *Weapon 0*

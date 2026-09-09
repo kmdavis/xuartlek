@@ -13,6 +13,7 @@ level: 9
 source: "Monster Core 2"
 other_sources: "Gatewalkers (Hardcover)"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4320"
+socialImage: og-image.png
 ---
 
 ```statblock

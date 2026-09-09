@@ -8,6 +8,7 @@ tags:
 aliases: ["Deadeye"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3191"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Deadeye  *Feat 12*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

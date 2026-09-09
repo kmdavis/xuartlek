@@ -8,6 +8,7 @@ tags:
 aliases: ["Light Pick"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=385"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Light Pick  *Weapon 0*

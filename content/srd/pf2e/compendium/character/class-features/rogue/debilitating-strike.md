@@ -6,6 +6,7 @@ tags:
 aliases: ["Debilitating Strike"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=37"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Debilitating Strike  *Class Feature 9*

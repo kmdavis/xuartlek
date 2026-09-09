@@ -13,6 +13,7 @@ tags:
 aliases: ["Life Link"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2081"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Life Link  *Focus 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

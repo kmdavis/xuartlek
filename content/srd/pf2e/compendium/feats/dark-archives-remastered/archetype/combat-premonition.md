@@ -7,6 +7,7 @@ tags:
 aliases: ["Combat Premonition"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8496"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Combat Premonition  *Feat 12*

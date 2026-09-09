@@ -7,6 +7,7 @@ tags:
 aliases: ["Lesson of Bonded Eyes"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7947"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Lesson of Bonded Eyes  *Feat 6*

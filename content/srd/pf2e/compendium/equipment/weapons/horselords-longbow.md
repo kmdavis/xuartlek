@@ -8,6 +8,7 @@ tags:
 aliases: ["Horselord's Longbow"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3848"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Horselord's Longbow  *Item 6*

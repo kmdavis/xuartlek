@@ -10,6 +10,7 @@ tags:
 aliases: ["Bo Staff"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=372"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Bo Staff  *Weapon 0*

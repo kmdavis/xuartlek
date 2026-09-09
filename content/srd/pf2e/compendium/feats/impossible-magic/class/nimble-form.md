@@ -8,6 +8,7 @@ tags:
 aliases: ["Nimble Form"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9261"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Nimble Form  *Feat 10*

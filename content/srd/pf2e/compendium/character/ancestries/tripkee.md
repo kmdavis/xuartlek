@@ -8,6 +8,7 @@ tags:
 aliases: ["Tripkee"]
 aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=84"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Tripkee  *Ancestry*

@@ -11,6 +11,7 @@ tags:
 aliases: ["Umbral Journey"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1729"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Umbral Journey  *Spell 5*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Flesh Tsunami"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9155"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Flesh Tsunami  *Feat 16*

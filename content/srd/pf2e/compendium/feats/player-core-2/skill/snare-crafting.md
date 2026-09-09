@@ -8,6 +8,7 @@ tags:
 aliases: ["Snare Crafting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6506"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Snare Crafting  *Feat 1*

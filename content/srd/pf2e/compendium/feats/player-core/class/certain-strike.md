@@ -8,6 +8,7 @@ tags:
 aliases: ["Certain Strike"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4820"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Certain Strike  *Feat 10*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

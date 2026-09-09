@@ -5,6 +5,7 @@ tags:
 aliases: ["Devastating Weapons"]
 source: "Gamemastery Guide p. 197"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=1368"
+socialImage: og-image.png
 ---
 
 # Devastating Weapons

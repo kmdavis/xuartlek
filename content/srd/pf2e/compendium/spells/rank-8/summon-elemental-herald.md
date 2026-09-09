@@ -9,6 +9,7 @@ tags:
 aliases: ["Summon Elemental Herald"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1423"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Summon Elemental Herald  *Spell 8*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

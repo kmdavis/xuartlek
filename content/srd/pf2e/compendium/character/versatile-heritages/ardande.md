@@ -7,6 +7,7 @@ tags:
 aliases: ["Ardande"]
 aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=57"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Ardande  *Versatile Heritage*

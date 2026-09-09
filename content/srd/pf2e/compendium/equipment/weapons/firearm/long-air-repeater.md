@@ -9,6 +9,7 @@ tags:
 aliases: ["Long Air Repeater"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=194"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Long Air Repeater  *Weapon 0*

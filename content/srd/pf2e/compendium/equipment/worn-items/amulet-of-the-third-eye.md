@@ -9,6 +9,7 @@ tags:
 aliases: ["Amulet of the Third Eye"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2132"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Amulet of the Third Eye  *Item 17*

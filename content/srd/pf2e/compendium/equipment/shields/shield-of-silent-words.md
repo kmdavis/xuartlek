@@ -7,6 +7,7 @@ tags:
 aliases: ["Shield Of Silent Words"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5006"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Shield Of Silent Words  *Item 5*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Arcane Countermeasure"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2116"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Arcane Countermeasure  *Focus 5*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

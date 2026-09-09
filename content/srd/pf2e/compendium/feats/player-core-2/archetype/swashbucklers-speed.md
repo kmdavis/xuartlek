@@ -7,6 +7,7 @@ tags:
 aliases: ["Swashbuckler's Speed"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6238"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Swashbuckler's Speed  *Feat 8*

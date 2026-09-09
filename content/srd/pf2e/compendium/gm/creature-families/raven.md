@@ -5,6 +5,7 @@ tags:
 aliases: ["Raven"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=616"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Raven  *Creature Family*

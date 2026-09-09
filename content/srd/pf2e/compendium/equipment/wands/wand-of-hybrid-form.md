@@ -10,6 +10,7 @@ tags:
 aliases: ["Wand of Hybrid Form"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2280"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wand of Hybrid Form  *Item 6+*

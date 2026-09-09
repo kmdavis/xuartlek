@@ -5,6 +5,7 @@ tags:
 aliases: ["Graveknight"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=423"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Graveknight  *Creature Family*

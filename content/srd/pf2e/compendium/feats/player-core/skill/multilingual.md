@@ -8,6 +8,7 @@ tags:
 aliases: ["Multilingual"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5181"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Multilingual  *Feat 1*

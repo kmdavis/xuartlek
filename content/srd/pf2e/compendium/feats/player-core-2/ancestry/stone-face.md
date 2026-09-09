@@ -7,6 +7,7 @@ tags:
 aliases: ["Stone Face"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5575"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Stone Face  *Feat 1*

@@ -11,6 +11,7 @@ name: "Poacher"
 level: 2
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3469"
+socialImage: og-image.png
 ---
 
 ```statblock
@@ -36,7 +37,7 @@ abilities_top:
   - name: "Expert Subsistence"
     desc: "While using [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] to [[srd/pf2e/compendium/rules-elements/actions/player-core#Subsist|Subsist]], if the poacher rolls any result worse than a success, they get a success. On a success, they can provide subsistence living for themselves and four additional creatures, and on a critical success, they can take care of twice as many creatures as on a success"
   - name: "Snare Crafting"
-    desc: "The poacher knows how to craft the following [[srd/pf2e/books/player-core-2/snares/index|snares]]: [[srd/pf2e/compendium/equipment/snares/alarm-snare|alarm snare]], [[srd/pf2e/compendium/equipment/snares/hampering-snare|hampering snare]], [[srd/pf2e/compendium/equipment/snares/marking-snare|marking snare]], and [[srd/pf2e/compendium/equipment/snares/signaling-snare|signaling snare]]. The poacher can create up to four snares each day without paying for the materials, using 3 Interact actions to deploy a snare. The snare becomes inert after 24 hours."
+    desc: "The poacher knows how to craft the following [[srd/pf2e/books/player-core-2/snares/snares|snares]]: [[srd/pf2e/compendium/equipment/snares/alarm-snare|alarm snare]], [[srd/pf2e/compendium/equipment/snares/hampering-snare|hampering snare]], [[srd/pf2e/compendium/equipment/snares/marking-snare|marking snare]], and [[srd/pf2e/compendium/equipment/snares/signaling-snare|signaling snare]]. The poacher can create up to four snares each day without paying for the materials, using 3 Interact actions to deploy a snare. The snare becomes inert after 24 hours."
   - name: "Items"
     desc: "Composite Shortbow (20 arrows), Light Mace, Padded Armor, snare toolkit (functions as [[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit|artisan's toolkit]])"
 ac: 18

@@ -9,6 +9,7 @@ tags:
 aliases: ["Turn Back the Clock"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8490"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Turn Back the Clock  *Feat 4*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

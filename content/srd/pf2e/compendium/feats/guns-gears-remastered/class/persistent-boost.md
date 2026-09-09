@@ -7,6 +7,7 @@ tags:
 aliases: ["Persistent Boost"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3083"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Persistent Boost  *Feat 16*

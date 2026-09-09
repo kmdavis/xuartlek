@@ -7,6 +7,7 @@ tags:
 aliases: ["Maestro's Instrument"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3026"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Maestro's Instrument  *Item 3+*

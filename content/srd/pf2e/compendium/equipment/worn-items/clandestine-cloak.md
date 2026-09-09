@@ -9,6 +9,7 @@ tags:
 aliases: ["Clandestine Cloak"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3067"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Clandestine Cloak  *Item 6+*

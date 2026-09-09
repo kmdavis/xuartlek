@@ -6,6 +6,7 @@ tags:
 aliases: ["High Gravity"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=625"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # High Gravity  *Trait*

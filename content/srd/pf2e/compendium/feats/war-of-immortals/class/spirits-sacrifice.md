@@ -8,6 +8,7 @@ tags:
 aliases: ["Spirit's Sacrifice"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7151"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Spirit's Sacrifice  *Feat 18*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

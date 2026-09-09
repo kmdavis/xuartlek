@@ -7,6 +7,7 @@ tags:
 aliases: ["Spellshot"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=122"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Spellshot  *Archetype 2*

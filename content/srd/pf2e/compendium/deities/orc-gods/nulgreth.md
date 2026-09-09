@@ -5,6 +5,7 @@ tags:
 aliases: ["Nulgreth"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=558"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Nulgreth  *Deity*

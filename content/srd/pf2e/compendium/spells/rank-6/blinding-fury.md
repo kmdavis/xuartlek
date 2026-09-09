@@ -11,6 +11,7 @@ tags:
 aliases: ["Blinding Fury"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1968"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Blinding Fury  *Spell 6*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

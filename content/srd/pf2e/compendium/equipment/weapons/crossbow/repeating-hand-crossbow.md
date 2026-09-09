@@ -8,6 +8,7 @@ tags:
 aliases: ["Repeating Hand Crossbow"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=539"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Repeating Hand Crossbow  *Weapon 0*

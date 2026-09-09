@@ -7,6 +7,7 @@ tags:
 aliases: ["Wind Caller"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4740"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Wind Caller  *Feat 8*

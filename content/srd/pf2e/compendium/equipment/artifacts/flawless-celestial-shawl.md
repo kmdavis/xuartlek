@@ -10,6 +10,7 @@ tags:
 aliases: ["Flawless Celestial Shawl"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4048"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Flawless Celestial Shawl  *Item 9*

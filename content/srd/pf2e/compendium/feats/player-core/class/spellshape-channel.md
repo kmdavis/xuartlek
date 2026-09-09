@@ -8,6 +8,7 @@ tags:
 aliases: ["Spellshape Channel"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4707"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Spellshape Channel  *Feat 20*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

@@ -7,6 +7,7 @@ tags:
 aliases: ["Become as Spirit"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9137"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Become as Spirit  *Feat 12*

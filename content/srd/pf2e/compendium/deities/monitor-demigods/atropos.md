@@ -5,6 +5,7 @@ tags:
 aliases: ["Atropos"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=533"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Atropos  *Deity*

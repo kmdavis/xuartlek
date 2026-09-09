@@ -11,6 +11,7 @@ tags:
 aliases: ["Wandering Pipe"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3513"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Wandering Pipe  *Item 11*

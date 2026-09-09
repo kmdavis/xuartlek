@@ -6,6 +6,7 @@ tags:
 aliases: ["Vehicular"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=493"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Vehicular  *Trait*

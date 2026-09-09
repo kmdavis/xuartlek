@@ -5,6 +5,7 @@ tags:
 aliases: ["Secret Society Member"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=60"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Secret Society Member  *Creature Adjustment*

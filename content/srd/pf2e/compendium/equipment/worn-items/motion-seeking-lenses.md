@@ -8,6 +8,7 @@ tags:
 aliases: ["Motion-Seeking Lenses"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3973"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Motion-Seeking Lenses  *Item 3*

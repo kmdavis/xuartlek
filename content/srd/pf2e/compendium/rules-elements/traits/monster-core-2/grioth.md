@@ -6,6 +6,7 @@ tags:
 aliases: ["Grioth"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=877"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Grioth  *Trait*

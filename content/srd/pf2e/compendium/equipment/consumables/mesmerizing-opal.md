@@ -9,6 +9,7 @@ tags:
 aliases: ["Mesmerizing Opal"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2984"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Mesmerizing Opal  *Item 2*

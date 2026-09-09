@@ -7,6 +7,7 @@ tags:
 aliases: ["Well-Groomed"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5556"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Well-Groomed  *Feat 5*

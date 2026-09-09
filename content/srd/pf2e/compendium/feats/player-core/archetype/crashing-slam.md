@@ -7,6 +7,7 @@ tags:
 aliases: ["Crashing Slam"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4821"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Crashing Slam  *Feat 10*

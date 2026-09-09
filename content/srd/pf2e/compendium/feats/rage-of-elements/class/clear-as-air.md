@@ -12,6 +12,7 @@ tags:
 aliases: ["Clear as Air"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4212"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Clear as Air  *Feat 6*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

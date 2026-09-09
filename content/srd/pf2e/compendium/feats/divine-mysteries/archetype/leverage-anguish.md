@@ -8,6 +8,7 @@ tags:
 aliases: ["Leverage Anguish"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7583"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Leverage Anguish  *Feat 6*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

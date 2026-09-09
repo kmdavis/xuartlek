@@ -11,6 +11,7 @@ tags:
 aliases: ["Lamentation of the Faithless"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3852"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Lamentation of the Faithless  *Item 25*

@@ -7,6 +7,7 @@ tags:
 aliases: ["First World Magic"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4425"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # First World Magic  *Feat 1*

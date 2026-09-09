@@ -9,6 +9,7 @@ tags:
 aliases: ["Heartblood Ring"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2371"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Heartblood Ring  *Item 15*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Acid Storm"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2339"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Acid Storm  *Spell 5*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

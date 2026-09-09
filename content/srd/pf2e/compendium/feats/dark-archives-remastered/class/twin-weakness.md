@@ -8,6 +8,7 @@ tags:
 aliases: ["Twin Weakness"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8374"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Twin Weakness  *Feat 10*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

@@ -8,6 +8,7 @@ tags:
 aliases: ["Rope Runner"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6380"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Rope Runner  *Feat 4*

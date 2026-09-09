@@ -6,6 +6,7 @@ tags:
 aliases: ["Expert Runes"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=76"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Expert Runes  *Class Feature 7*

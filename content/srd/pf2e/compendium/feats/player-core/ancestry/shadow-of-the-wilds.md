@@ -7,6 +7,7 @@ tags:
 aliases: ["Shadow of the Wilds"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4498"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Shadow of the Wilds  *Feat 1*

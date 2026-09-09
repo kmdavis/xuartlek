@@ -8,6 +8,7 @@ tags:
 aliases: ["Hobnobber"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5157"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Hobnobber  *Feat 1*

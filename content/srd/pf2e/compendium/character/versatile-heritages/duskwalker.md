@@ -7,6 +7,7 @@ tags:
 aliases: ["Duskwalker"]
 aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=87"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Duskwalker  *Versatile Heritage*

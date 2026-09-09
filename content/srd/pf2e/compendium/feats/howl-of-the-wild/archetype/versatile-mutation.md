@@ -7,6 +7,7 @@ tags:
 aliases: ["Versatile Mutation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5454"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Versatile Mutation  *Feat 4*

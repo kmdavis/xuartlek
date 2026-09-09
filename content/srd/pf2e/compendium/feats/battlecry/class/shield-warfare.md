@@ -7,6 +7,7 @@ tags:
 aliases: ["Shield Warfare"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7835"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Shield Warfare  *Feat 1*

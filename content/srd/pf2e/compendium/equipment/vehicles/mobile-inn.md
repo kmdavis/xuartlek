@@ -7,6 +7,7 @@ tags:
 aliases: ["Mobile Inn"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=29"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mobile Inn  *Vehicle 8*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Wave Speaker"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5348"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Wave Speaker  *Feat 1*

@@ -15,6 +15,7 @@ tags:
 aliases: ["Tree of Life and Death"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2851"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Tree of Life and Death  *Spell 5*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

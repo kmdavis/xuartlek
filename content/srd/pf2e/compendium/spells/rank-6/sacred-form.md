@@ -9,6 +9,7 @@ tags:
 aliases: ["Sacred Form"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2020"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Sacred Form  *Spell 6*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

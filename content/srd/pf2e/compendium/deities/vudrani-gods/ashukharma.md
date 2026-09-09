@@ -5,6 +5,7 @@ tags:
 aliases: ["Ashukharma"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=611"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Ashukharma  *Deity*

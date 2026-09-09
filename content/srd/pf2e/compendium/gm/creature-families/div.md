@@ -5,6 +5,7 @@ tags:
 aliases: ["Div"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=580"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Div  *Creature Family*

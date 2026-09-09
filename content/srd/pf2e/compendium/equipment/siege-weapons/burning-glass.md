@@ -8,6 +8,7 @@ tags:
 aliases: ["Burning Glass"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=49"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Burning Glass  *Siege Weapon 15*

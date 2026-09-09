@@ -10,6 +10,7 @@ tags:
 aliases: ["Undertaker's Manifest"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2185"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Undertaker's Manifest  *Item 6*

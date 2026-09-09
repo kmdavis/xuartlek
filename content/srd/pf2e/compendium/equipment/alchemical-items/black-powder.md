@@ -9,6 +9,7 @@ tags:
 aliases: ["Black Powder"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1190"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Black Powder  *Item 0+*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Dragon, Conspirator"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=397"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Dragon, Conspirator  *Creature Family*

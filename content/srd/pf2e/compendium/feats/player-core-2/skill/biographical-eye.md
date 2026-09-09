@@ -9,6 +9,7 @@ tags:
 aliases: ["Biographical Eye"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6465"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Biographical Eye  *Feat 7*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Zombie Horde"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9122"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Zombie Horde  *Feat 6*

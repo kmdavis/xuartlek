@@ -7,6 +7,7 @@ tags:
 aliases: ["Share Eidolon Magic"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9274"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Share Eidolon Magic  *Feat 14*

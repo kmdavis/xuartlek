@@ -8,6 +8,7 @@ tags:
 aliases: ["Tentacle Cannon"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1172"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Tentacle Cannon  *Item 7+*

@@ -11,6 +11,7 @@ tags:
 aliases: ["Fury Cocktail"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1917"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Fury Cocktail  *Item 4+*

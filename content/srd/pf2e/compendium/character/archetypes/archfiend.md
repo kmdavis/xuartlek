@@ -5,6 +5,7 @@ tags:
 aliases: ["Archfiend"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=288"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Archfiend  *Archetype*

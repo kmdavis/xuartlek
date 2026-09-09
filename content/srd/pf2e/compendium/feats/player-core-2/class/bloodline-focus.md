@@ -7,6 +7,7 @@ tags:
 aliases: ["Bloodline Focus"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6111"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Bloodline Focus  *Feat 12*

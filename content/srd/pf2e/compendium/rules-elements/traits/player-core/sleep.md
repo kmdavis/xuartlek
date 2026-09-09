@@ -6,6 +6,7 @@ tags:
 aliases: ["Sleep"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=696"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Sleep  *Trait*

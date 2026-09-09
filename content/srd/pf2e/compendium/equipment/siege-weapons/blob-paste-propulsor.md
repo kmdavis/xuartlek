@@ -9,6 +9,7 @@ tags:
 aliases: ["Blob Paste Propulsor"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=23"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Blob Paste Propulsor  *Siege Weapon 8*

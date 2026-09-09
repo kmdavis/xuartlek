@@ -7,6 +7,7 @@ tags:
 aliases: ["Advanced Hunter's Trick"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5090"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Advanced Hunter's Trick  *Feat 6*

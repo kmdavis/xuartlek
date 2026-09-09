@@ -9,6 +9,7 @@ tags:
 aliases: ["Iron Cube"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2980"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Iron Cube  *Item 6*

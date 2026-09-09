@@ -8,6 +8,7 @@ tags:
 aliases: ["Retrieving Hook"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2804"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Retrieving Hook  *Spell 2*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

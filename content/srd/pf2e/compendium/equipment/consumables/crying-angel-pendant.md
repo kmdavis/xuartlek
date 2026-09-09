@@ -9,6 +9,7 @@ tags:
 aliases: ["Crying Angel Pendant"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2967"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Crying Angel Pendant  *Item 2*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Ghostly Resonance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9182"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Ghostly Resonance  *Feat 4*

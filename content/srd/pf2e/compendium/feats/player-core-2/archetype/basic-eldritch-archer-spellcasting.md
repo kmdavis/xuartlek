@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Eldritch Archer Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6318"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Basic Eldritch Archer Spellcasting  *Feat 8*

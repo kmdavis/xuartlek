@@ -9,6 +9,7 @@ tags:
 - compendium/src/pf2e/player-core-2
 aliases: ["Heritages"]
 entries: 139
+socialImage: og-image.png
 ---
 
 # Heritages

@@ -8,6 +8,7 @@ tags:
 aliases: ["Exhort the Faithful"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6479"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Exhort the Faithful  *Feat 2*

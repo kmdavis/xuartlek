@@ -5,6 +5,7 @@ tags:
 aliases: ["Ant"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=362"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Ant  *Creature Family*

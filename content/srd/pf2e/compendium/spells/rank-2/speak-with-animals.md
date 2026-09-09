@@ -8,6 +8,7 @@ tags:
 aliases: ["Speak with Animals"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1680"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Speak with Animals  *Spell 2*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

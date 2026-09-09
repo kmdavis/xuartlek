@@ -5,6 +5,7 @@ tags:
 aliases: ["Clockwork"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=575"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Clockwork  *Creature Family*

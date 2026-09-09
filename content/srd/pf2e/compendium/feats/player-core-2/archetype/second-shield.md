@@ -7,6 +7,7 @@ tags:
 aliases: ["Second Shield"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6438"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Second Shield  *Feat 6*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

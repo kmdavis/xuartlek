@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/player-core
 aliases: ["Druidic Orders"]
 entries: 4
+socialImage: og-image.png
 ---
 
 # Druidic Orders

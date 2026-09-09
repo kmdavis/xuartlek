@@ -7,6 +7,7 @@ tags:
 aliases: ["Just the Thing!"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3082"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Just the Thing!  *Feat 16*

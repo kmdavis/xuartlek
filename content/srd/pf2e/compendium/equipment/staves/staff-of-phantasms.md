@@ -8,6 +8,7 @@ tags:
 aliases: ["Staff of Phantasms"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3044"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Staff of Phantasms  *Item 6+*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Astral"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=538"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Astral  *Trait*

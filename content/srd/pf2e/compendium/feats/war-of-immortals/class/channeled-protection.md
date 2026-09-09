@@ -9,6 +9,7 @@ tags:
 aliases: ["Channeled Protection"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7128"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Channeled Protection  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

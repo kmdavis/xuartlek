@@ -10,6 +10,7 @@ tags:
 aliases: ["Giant's Stature"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5828"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Giant's Stature  *Feat 6*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

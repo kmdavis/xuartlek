@@ -7,6 +7,7 @@ tags:
 aliases: ["Hunter's Anthem"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2867"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Hunter's Anthem  *Item 11*

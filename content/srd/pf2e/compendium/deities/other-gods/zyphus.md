@@ -5,6 +5,7 @@ tags:
 aliases: ["Zyphus"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=361"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Zyphus  *Deity*

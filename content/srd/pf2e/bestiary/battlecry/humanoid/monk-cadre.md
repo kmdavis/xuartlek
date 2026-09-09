@@ -12,6 +12,7 @@ name: "Monk Cadre"
 level: 14
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3928"
+socialImage: og-image.png
 ---
 
 ```statblock

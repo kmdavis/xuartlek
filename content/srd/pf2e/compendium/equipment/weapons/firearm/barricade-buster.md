@@ -12,6 +12,7 @@ tags:
 aliases: ["Barricade Buster"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=330"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Barricade Buster  *Weapon 1*

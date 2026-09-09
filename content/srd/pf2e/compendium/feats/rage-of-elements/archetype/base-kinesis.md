@@ -7,6 +7,7 @@ tags:
 aliases: ["Base Kinesis"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4334"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Base Kinesis  *Feat 4*

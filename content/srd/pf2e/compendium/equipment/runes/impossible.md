@@ -7,6 +7,7 @@ tags:
 aliases: ["Impossible"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1868"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Impossible  *Item 20*

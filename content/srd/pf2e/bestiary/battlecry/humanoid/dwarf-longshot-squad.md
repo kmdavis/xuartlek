@@ -12,6 +12,7 @@ name: "Dwarf Longshot Squad"
 level: 10
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3914"
+socialImage: og-image.png
 ---
 
 ```statblock

@@ -7,6 +7,7 @@ tags:
 aliases: ["Bathysphere"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=73"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Bathysphere  *Vehicle 5*

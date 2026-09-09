@@ -6,6 +6,7 @@ tags:
 aliases: ["Press"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=675"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Press  *Trait*

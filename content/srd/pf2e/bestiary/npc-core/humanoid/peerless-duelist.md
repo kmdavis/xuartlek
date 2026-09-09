@@ -11,6 +11,7 @@ name: "Peerless Duelist"
 level: 12
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3512"
+socialImage: og-image.png
 ---
 
 ```statblock

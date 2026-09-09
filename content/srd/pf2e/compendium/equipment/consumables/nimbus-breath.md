@@ -10,6 +10,7 @@ tags:
 aliases: ["Nimbus Breath"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2583"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Nimbus Breath  *Item 8*

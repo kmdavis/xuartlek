@@ -10,6 +10,7 @@ tags:
 aliases: ["Potion Of Living Light"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5098"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Potion Of Living Light  *Item 10*

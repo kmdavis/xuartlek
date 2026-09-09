@@ -5,6 +5,7 @@ tags:
 aliases: ["Dragon, Adamantine"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=396"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Dragon, Adamantine  *Creature Family*

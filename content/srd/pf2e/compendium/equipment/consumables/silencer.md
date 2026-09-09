@@ -8,6 +8,7 @@ tags:
 aliases: ["Silencer"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1206"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Silencer  *Item 0*

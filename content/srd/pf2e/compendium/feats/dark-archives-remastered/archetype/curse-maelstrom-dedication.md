@@ -9,6 +9,7 @@ tags:
 aliases: ["Curse Maelstrom Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8470"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Curse Maelstrom Dedication  *Feat 2*

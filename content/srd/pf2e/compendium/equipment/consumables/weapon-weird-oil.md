@@ -9,6 +9,7 @@ tags:
 aliases: ["Weapon-Weird Oil"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2077"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Weapon-Weird Oil  *Item 7*

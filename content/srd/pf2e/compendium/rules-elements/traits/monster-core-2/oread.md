@@ -6,6 +6,7 @@ tags:
 aliases: ["Oread"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=882"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Oread  *Trait*

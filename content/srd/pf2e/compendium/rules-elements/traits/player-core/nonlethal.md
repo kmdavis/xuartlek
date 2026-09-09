@@ -6,6 +6,7 @@ tags:
 aliases: ["Nonlethal"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=661"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Nonlethal  *Trait*

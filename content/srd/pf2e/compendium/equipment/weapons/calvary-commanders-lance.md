@@ -8,6 +8,7 @@ tags:
 aliases: ["Calvary Commander's Lance"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3838"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Calvary Commander's Lance  *Item 6*

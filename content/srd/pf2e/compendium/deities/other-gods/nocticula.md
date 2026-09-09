@@ -5,6 +5,7 @@ tags:
 aliases: ["Nocticula"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=355"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Nocticula  *Deity*

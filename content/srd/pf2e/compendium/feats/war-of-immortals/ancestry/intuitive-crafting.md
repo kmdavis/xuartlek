@@ -7,6 +7,7 @@ tags:
 aliases: ["Intuitive Crafting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7200"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Intuitive Crafting  *Feat 1*

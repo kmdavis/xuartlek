@@ -8,6 +8,7 @@ tags:
 aliases: ["Earworm"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4623"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Earworm  *Feat 14*

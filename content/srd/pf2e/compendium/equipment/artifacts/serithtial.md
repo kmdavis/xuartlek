@@ -10,6 +10,7 @@ tags:
 aliases: ["Serithtial"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3123"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Serithtial  *Item 23*

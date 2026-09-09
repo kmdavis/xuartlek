@@ -8,6 +8,7 @@ tags:
 aliases: ["Crystal Lattice"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4980"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Crystal Lattice  *Item 12*

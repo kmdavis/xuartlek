@@ -8,6 +8,7 @@ tags:
 aliases: ["Cloister Robe"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2321"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Cloister Robe  *Item 9+*

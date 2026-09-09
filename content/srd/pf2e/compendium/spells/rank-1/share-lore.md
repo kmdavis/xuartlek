@@ -9,6 +9,7 @@ tags:
 aliases: ["Share Lore"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2363"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Share Lore  *Spell 1*

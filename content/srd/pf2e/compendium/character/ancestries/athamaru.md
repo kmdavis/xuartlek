@@ -10,6 +10,7 @@ tags:
 aliases: ["Athamaru"]
 aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=71"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Athamaru  *Ancestry*

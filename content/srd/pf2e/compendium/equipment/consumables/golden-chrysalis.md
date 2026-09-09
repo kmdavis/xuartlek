@@ -8,6 +8,7 @@ tags:
 aliases: ["Golden Chrysalis"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5037"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Golden Chrysalis  *Item 5*

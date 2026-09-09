@@ -7,6 +7,7 @@ tags:
 aliases: ["Advanced Thoughtform"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8394"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Advanced Thoughtform  *Feat 6*

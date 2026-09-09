@@ -5,6 +5,7 @@ tags:
 aliases: ["Aonaurious"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=581"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Aonaurious  *Deity*

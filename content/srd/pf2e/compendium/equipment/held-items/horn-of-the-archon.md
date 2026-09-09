@@ -8,6 +8,7 @@ tags:
 aliases: ["Horn of the Archon"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3938"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Horn of the Archon  *Item 16*

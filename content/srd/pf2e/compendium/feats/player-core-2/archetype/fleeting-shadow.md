@@ -8,6 +8,7 @@ tags:
 aliases: ["Fleeting Shadow"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6397"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Fleeting Shadow  *Feat 6*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

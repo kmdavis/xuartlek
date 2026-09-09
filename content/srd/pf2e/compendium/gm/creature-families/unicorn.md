@@ -5,6 +5,7 @@ tags:
 aliases: ["Unicorn"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=504"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Unicorn  *Creature Family*

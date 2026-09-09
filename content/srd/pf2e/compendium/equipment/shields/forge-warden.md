@@ -8,6 +8,7 @@ tags:
 aliases: ["Forge Warden"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2821"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Forge Warden  *Item 10*

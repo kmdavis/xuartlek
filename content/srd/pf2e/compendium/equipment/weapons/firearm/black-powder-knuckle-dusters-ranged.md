@@ -11,6 +11,7 @@ tags:
 aliases: ["Black Powder Knuckle Dusters (Ranged)"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=214"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Black Powder Knuckle Dusters (Ranged)  *Weapon 0*

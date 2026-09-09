@@ -11,6 +11,7 @@ tags:
 aliases: ["Vitality Lash"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1744"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Vitality Lash  *Cantrip 1*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

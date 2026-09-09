@@ -9,6 +9,7 @@ tags:
 aliases: ["Bracers of Devotion"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2320"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Bracers of Devotion  *Item 11*

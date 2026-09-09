@@ -9,6 +9,7 @@ tags:
 aliases: ["Scalding Gauntlets"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2608"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Scalding Gauntlets  *Item 11+*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Dual Onslaught"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6312"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Dual Onslaught  *Feat 14*

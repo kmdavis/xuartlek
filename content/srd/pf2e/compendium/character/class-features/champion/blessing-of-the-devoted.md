@@ -6,6 +6,7 @@ tags:
 aliases: ["Blessing of the Devoted"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=58"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Blessing of the Devoted  *Class Feature 3*

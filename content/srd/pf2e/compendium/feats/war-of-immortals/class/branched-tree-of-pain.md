@@ -8,6 +8,7 @@ tags:
 aliases: ["Branched Tree Of Pain"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7188"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Branched Tree Of Pain  *Feat 18*

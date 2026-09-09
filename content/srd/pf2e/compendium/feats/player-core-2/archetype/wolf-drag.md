@@ -7,6 +7,7 @@ tags:
 aliases: ["Wolf Drag"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6009"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Wolf Drag  *Feat 6*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

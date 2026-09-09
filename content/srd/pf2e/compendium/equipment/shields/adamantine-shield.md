@@ -7,6 +7,7 @@ tags:
 aliases: ["Adamantine Shield"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2812"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Adamantine Shield  *Item 8+*

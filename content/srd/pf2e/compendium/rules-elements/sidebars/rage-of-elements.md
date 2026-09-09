@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/rage-of-elements
 aliases: ["Sidebars: Rage of Elements"]
 entries: 7
+socialImage: og-image.png
 ---
 
 # Sidebars: Rage of Elements

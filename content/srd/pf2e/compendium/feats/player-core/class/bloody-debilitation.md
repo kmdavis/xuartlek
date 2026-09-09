@@ -7,6 +7,7 @@ tags:
 aliases: ["Bloody Debilitation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4967"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Bloody Debilitation  *Feat 12*

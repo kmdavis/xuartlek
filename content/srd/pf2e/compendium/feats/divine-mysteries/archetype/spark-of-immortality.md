@@ -8,6 +8,7 @@ tags:
 aliases: ["Spark of Immortality"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7556"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Spark of Immortality  *Feat 20*

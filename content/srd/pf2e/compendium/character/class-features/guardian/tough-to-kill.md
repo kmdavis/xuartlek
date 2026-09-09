@@ -6,6 +6,7 @@ tags:
 aliases: ["Tough to Kill"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=67"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Tough to Kill  *Class Feature 3*

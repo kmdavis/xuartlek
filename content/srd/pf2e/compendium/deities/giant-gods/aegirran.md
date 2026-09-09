@@ -5,6 +5,7 @@ tags:
 aliases: ["Aegirran"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=490"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Aegirran  *Deity*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Elemental Familiar"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4342"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Elemental Familiar  *Feat 4*

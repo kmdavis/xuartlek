@@ -8,6 +8,7 @@ tags:
 aliases: ["Radiant Victory"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3855"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Radiant Victory  *Item 6*

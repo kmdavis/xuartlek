@@ -10,6 +10,7 @@ tags:
 aliases: ["Oil of Dynamism"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3398"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Oil of Dynamism  *Item 8+*

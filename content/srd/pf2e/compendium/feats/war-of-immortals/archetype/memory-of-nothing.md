@@ -10,6 +10,7 @@ tags:
 aliases: ["Memory of Nothing"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7317"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Memory of Nothing  *Feat 18*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
@@ -19,7 +20,7 @@ source: "War of Immortals"
 - **Archetype**: [[srd/pf2e/compendium/character/archetypes/apocalypse-rider|Apocalypse Rider]]
 - **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/apocalypse-rider-dedication|Apocalypse Rider Dedication]]
 
-With a look and a gesture, you turn a thinking creature’s mind against itself, causing the creature to struggle to remember how to perform more complex actions. Choose a target within 30 feet and spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/index|Mythic Point]]. The target must attempt a Will save against your class DC or spell DC (whichever is higher) at mythic proficiency.
+With a look and a gesture, you turn a thinking creature’s mind against itself, causing the creature to struggle to remember how to perform more complex actions. Choose a target within 30 feet and spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]]. The target must attempt a Will save against your class DC or spell DC (whichever is higher) at mythic proficiency.
 
 **Critical Success** The target is unaffected.
 

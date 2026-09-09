@@ -7,6 +7,7 @@ tags:
 aliases: ["Called"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4537"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Called  *Feat 5*

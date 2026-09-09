@@ -6,6 +6,7 @@ tags:
 aliases: ["Angel"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=530"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Angel  *Trait*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Impose Order"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7216"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Impose Order  *Feat 13*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

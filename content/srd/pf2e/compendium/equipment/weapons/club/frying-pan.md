@@ -8,6 +8,7 @@ tags:
 aliases: ["Frying Pan"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=286"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Frying Pan  *Weapon 0*

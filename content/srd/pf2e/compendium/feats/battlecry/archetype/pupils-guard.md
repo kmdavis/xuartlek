@@ -8,6 +8,7 @@ tags:
 aliases: ["Pupil's Guard"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7954"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Pupil's Guard  *Feat 12*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

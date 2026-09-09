@@ -7,6 +7,7 @@ tags:
 aliases: ["Waking Dream"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8519"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Waking Dream  *Feat 8*

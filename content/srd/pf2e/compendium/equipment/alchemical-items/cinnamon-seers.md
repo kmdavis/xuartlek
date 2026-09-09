@@ -9,6 +9,7 @@ tags:
 aliases: ["Cinnamon Seers"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1910"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Cinnamon Seers  *Item 4*

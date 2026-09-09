@@ -8,6 +8,7 @@ tags:
 aliases: ["Monster Crafting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5180"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Monster Crafting  *Feat 7*

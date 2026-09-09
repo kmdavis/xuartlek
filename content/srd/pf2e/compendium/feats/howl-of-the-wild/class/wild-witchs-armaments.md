@@ -7,6 +7,7 @@ tags:
 aliases: ["Wild Witch's Armaments"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5414"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Wild Witch's Armaments  *Feat 6*

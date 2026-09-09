@@ -9,6 +9,7 @@ tags:
 aliases: ["Spellslasher"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3895"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Spellslasher  *Item 15*

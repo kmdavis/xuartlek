@@ -9,6 +9,7 @@ tags:
 aliases: ["Juggernaut Plate"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3815"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Juggernaut Plate  *Item 19*

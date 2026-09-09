@@ -9,6 +9,7 @@ tags:
 aliases: ["Dragon Turtle Scale"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2970"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Dragon Turtle Scale  *Item 4+*

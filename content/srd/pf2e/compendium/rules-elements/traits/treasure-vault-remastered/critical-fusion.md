@@ -6,6 +6,7 @@ tags:
 aliases: ["Critical Fusion"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=402"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Critical Fusion  *Trait*

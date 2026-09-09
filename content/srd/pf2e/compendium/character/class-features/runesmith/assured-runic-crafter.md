@@ -6,6 +6,7 @@ tags:
 aliases: ["Assured Runic Crafter"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=76"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Assured Runic Crafter  *Class Feature 9*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Quick Jump"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5196"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Quick Jump  *Feat 1*

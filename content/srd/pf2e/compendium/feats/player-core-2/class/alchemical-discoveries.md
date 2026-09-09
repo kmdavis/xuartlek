@@ -7,6 +7,7 @@ tags:
 aliases: ["Alchemical Discoveries"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5946"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Alchemical Discoveries  *Feat 4*

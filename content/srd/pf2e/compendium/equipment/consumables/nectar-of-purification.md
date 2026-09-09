@@ -9,6 +9,7 @@ tags:
 aliases: ["Nectar of Purification"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2931"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Nectar of Purification  *Item 1*

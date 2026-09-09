@@ -5,6 +5,7 @@ tags:
 aliases: ["Dragon, Coral"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=583"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Dragon, Coral  *Creature Family*

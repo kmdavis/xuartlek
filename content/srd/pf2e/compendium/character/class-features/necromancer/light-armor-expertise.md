@@ -6,6 +6,7 @@ tags:
 aliases: ["Light Armor Expertise"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=75"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Light Armor Expertise  *Class Feature 13*

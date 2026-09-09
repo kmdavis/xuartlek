@@ -9,6 +9,7 @@ tags:
 aliases: ["Vapor Sphere"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5112"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Vapor Sphere  *Item 14*

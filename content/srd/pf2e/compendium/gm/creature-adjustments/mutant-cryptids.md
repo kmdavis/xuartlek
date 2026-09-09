@@ -5,6 +5,7 @@ tags:
 aliases: ["Mutant Cryptids"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=57"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mutant Cryptids  *Creature Adjustment*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Glowing Lantern Fruit"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2641"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Glowing Lantern Fruit  *Item 1*

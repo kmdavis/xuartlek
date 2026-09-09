@@ -10,6 +10,7 @@ tags:
 aliases: ["Confounding Portal"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=628"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Confounding Portal  *Hazard 0*

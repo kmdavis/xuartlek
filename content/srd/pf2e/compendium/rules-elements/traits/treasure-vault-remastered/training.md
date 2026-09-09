@@ -6,6 +6,7 @@ tags:
 aliases: ["Training"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=492"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Training  *Trait*

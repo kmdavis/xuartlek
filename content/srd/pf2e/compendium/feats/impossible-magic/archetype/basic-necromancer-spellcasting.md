@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Necromancer Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9294"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Basic Necromancer Spellcasting  *Feat 4*

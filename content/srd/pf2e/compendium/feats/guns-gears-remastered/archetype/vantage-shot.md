@@ -7,6 +7,7 @@ tags:
 aliases: ["Vantage Shot"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3263"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Vantage Shot  *Feat 8*

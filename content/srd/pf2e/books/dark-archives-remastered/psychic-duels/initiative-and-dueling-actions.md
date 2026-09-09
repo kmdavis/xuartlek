@@ -9,6 +9,7 @@ tags:
 source: "Dark Archives (Remastered)"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3516"
 citation: "Dark Archives (Remastered) pg. 201"
+socialImage: og-image.png
 ---
 
 # Initiative and Dueling Actions

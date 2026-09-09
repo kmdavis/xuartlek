@@ -13,6 +13,7 @@ name: "Hellknight Cavalry Brigade"
 level: 8
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3530"
+socialImage: og-image.png
 ---
 
 ```statblock

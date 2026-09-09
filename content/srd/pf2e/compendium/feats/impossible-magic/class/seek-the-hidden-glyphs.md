@@ -7,6 +7,7 @@ tags:
 aliases: ["Seek the Hidden Glyphs"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9174"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Seek the Hidden Glyphs  *Feat 1*

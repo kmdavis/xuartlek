@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Scroll Cache"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6401"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Basic Scroll Cache  *Feat 6*

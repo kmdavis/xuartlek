@@ -7,6 +7,7 @@ tags:
 aliases: ["Swift Tracker"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4882"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Swift Tracker  *Feat 6*

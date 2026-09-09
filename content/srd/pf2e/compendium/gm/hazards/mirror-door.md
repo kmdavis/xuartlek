@@ -9,6 +9,7 @@ tags:
 aliases: ["Mirror Door"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=626"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mirror Door  *Hazard -1*

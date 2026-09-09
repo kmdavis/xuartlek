@@ -8,6 +8,7 @@ tags:
 aliases: ["Cloudborne Haven"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=248"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Cloudborne Haven  *Ritual 8*

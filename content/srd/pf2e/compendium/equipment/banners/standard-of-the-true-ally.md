@@ -9,6 +9,7 @@ tags:
 aliases: ["Standard of the True Ally"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3916"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Standard of the True Ally  *Item 10*

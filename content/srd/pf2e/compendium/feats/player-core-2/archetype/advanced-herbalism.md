@@ -7,6 +7,7 @@ tags:
 aliases: ["Advanced Herbalism"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6342"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Advanced Herbalism  *Feat 6*

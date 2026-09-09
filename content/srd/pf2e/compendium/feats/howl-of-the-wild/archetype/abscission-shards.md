@@ -7,6 +7,7 @@ tags:
 aliases: ["Abscission Shards"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5440"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Abscission Shards  *Feat 6*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

@@ -7,6 +7,7 @@ tags:
 aliases: ["Backpack Catapult Stones"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=180"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Backpack Catapult Stones  *Weapon 0*

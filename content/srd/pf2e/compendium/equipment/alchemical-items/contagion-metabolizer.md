@@ -10,6 +10,7 @@ tags:
 aliases: ["Contagion Metabolizer"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1960"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Contagion Metabolizer  *Item 5+*

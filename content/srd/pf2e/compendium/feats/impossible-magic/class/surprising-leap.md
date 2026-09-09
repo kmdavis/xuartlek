@@ -9,6 +9,7 @@ tags:
 aliases: ["Surprising Leap"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9257"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Surprising Leap  *Feat 8*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

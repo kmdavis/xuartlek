@@ -9,6 +9,7 @@ tags:
 aliases: ["Perfect Droplet"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5157"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Perfect Droplet  *Item 3+*

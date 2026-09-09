@@ -8,6 +8,7 @@ tags:
 aliases: ["Invoke Defense"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7584"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Invoke Defense  *Feat 8*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

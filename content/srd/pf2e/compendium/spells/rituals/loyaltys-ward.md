@@ -7,6 +7,7 @@ tags:
 aliases: ["Loyalty's Ward"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=258"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Loyalty's Ward  *Ritual 5*

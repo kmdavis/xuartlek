@@ -7,6 +7,7 @@ tags:
 aliases: ["Death Speaker"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9092"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Death Speaker  *Feat 1*

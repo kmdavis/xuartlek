@@ -6,6 +6,7 @@ tags:
 aliases: ["Divine"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=579"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Divine  *Trait*

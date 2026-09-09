@@ -11,6 +11,7 @@ tags:
 aliases: ["Bounty of The Sky"]
 aon_url: "https://2e.aonprd.com/MythicSpells.aspx?ID=2154"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Bounty of The Sky  *Spell 6*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

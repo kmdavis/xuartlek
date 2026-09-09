@@ -11,6 +11,7 @@ tags:
 aliases: ["Hobbling Snare"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3375"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Hobbling Snare  *Item 4*

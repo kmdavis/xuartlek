@@ -7,6 +7,7 @@ tags:
 aliases: ["Kinetic Pinnacle"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4204"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Kinetic Pinnacle  *Feat 20*

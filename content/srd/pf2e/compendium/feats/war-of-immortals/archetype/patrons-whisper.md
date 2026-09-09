@@ -8,6 +8,7 @@ tags:
 aliases: ["Patron's Whisper"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7253"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Patron's Whisper  *Feat 10*

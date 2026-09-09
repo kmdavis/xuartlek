@@ -10,6 +10,7 @@ tags:
 aliases: ["Retrieval Prism"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5108"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Retrieval Prism  *Item 3+*

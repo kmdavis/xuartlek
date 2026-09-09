@@ -7,6 +7,7 @@ tags:
 aliases: ["Triumphant Inspiration"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4625"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Triumphant Inspiration  *Feat 14*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

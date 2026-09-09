@@ -9,6 +9,7 @@ tags:
 aliases: ["Belt of Long Life"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3007"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Belt of Long Life  *Item 17*

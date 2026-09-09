@@ -10,6 +10,7 @@ tags:
 aliases: ["Thundering Surge"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7428"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Thundering Surge  *Feat 16*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

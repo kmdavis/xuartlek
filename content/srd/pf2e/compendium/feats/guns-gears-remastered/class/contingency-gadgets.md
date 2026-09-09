@@ -7,6 +7,7 @@ tags:
 aliases: ["Contingency Gadgets"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3074"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Contingency Gadgets  *Feat 12*

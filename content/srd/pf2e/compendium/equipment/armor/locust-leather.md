@@ -8,6 +8,7 @@ tags:
 aliases: ["Locust Leather"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3817"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Locust Leather  *Item 8*

@@ -9,6 +9,7 @@ tags:
 aliases: ["War Javelin"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=512"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # War Javelin  *Weapon 0*

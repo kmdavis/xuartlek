@@ -7,6 +7,7 @@ tags:
 aliases: ["Sinking Jaws"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5430"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Sinking Jaws  *Feat 10*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Groetus"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=345"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Groetus  *Deity*

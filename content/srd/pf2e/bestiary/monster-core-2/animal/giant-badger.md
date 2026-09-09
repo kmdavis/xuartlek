@@ -10,6 +10,7 @@ name: "Giant Badger"
 level: 2
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4277"
+socialImage: og-image.png
 ---
 
 ```statblock

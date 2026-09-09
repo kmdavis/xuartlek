@@ -6,6 +6,7 @@ tags:
 aliases: ["Rune"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=951"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Rune  *Trait*

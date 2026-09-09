@@ -7,6 +7,7 @@ tags:
 aliases: ["Enigma's Knowledge"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4618"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Enigma's Knowledge  *Feat 12*

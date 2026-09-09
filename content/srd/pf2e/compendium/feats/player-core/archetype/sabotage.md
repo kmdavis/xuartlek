@@ -8,6 +8,7 @@ tags:
 aliases: ["Sabotage"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4936"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Sabotage  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

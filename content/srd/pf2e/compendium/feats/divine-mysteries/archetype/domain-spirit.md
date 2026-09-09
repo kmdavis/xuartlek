@@ -9,6 +9,7 @@ tags:
 aliases: ["Domain Spirit"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7573"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Domain Spirit  *Feat 6*

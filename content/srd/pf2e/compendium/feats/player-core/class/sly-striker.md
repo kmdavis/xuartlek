@@ -7,6 +7,7 @@ tags:
 aliases: ["Sly Striker"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4958"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Sly Striker  *Feat 8*

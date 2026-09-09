@@ -8,6 +8,7 @@ tags:
 aliases: ["Glacier Hammer"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4355"
 source: "Secrets of the Unlit Star Game Master's Guide"
+socialImage: og-image.png
 ---
 
 # Glacier Hammer  *Item 3*

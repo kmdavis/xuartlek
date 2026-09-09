@@ -10,6 +10,7 @@ tags:
 aliases: ["Necromancer's Generosity"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2775"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Necromancer's Generosity  *Spell 1*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

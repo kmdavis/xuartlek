@@ -7,6 +7,7 @@ tags:
 aliases: ["Violet Ray"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1139"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Violet Ray  *Item 12*

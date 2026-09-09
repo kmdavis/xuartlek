@@ -9,6 +9,7 @@ tags:
 aliases: ["Leverage Connections"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6493"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Leverage Connections  *Feat 2*

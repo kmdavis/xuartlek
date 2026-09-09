@@ -10,6 +10,7 @@ tags:
 aliases: ["Infuse Vitality"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1574"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Infuse Vitality  *Spell 1*  [?](books/player-core/chapter-8-playing-the-game/actions#Actions "Varies")

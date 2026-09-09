@@ -6,6 +6,7 @@ tags:
 aliases: ["Virulent"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=726"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Virulent  *Trait*

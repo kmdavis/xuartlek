@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/monster-core-2
 aliases: ["Creature Theme Templates"]
 entries: 1
+socialImage: og-image.png
 ---
 
 # Creature Theme Templates

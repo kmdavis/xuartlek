@@ -7,6 +7,7 @@ tags:
 aliases: ["Cube of Recall"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2189"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Cube of Recall  *Item 19*

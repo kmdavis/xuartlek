@@ -5,6 +5,7 @@ tags:
 aliases: ["Ahriman"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=563"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Ahriman  *Deity*

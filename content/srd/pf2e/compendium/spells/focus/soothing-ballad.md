@@ -15,6 +15,7 @@ tags:
 aliases: ["Soothing Ballad"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1776"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Soothing Ballad  *Focus 7*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

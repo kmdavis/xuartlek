@@ -7,6 +7,7 @@ tags:
 aliases: ["Mask of The 12th Step"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7568"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Mask of The 12th Step  *Feat 10*

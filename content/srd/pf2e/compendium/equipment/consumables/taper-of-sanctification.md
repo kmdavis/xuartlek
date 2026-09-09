@@ -9,6 +9,7 @@ tags:
 aliases: ["Taper of Sanctification"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3415"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Taper of Sanctification  *Item 13*

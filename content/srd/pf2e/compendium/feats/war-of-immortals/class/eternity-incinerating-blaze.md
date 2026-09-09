@@ -10,6 +10,7 @@ tags:
 aliases: ["Eternity-Incinerating Blaze"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7189"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Eternity-Incinerating Blaze  *Feat 18*

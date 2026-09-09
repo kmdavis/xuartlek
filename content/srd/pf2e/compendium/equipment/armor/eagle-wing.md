@@ -9,6 +9,7 @@ tags:
 aliases: ["Eagle Wing"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3811"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Eagle Wing  *Item 10*

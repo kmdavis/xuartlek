@@ -8,6 +8,7 @@ tags:
 aliases: ["Bastion Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6262"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Bastion Dedication  *Feat 2*

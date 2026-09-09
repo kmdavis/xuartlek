@@ -9,6 +9,7 @@ tags:
 aliases: ["Drowning Pit"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=489"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Drowning Pit  *Hazard 3*

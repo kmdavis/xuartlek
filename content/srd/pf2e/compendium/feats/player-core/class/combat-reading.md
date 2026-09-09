@@ -8,6 +8,7 @@ tags:
 aliases: ["Combat Reading"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4588"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Combat Reading  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

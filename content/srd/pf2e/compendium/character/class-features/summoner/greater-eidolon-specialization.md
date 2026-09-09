@@ -6,6 +6,7 @@ tags:
 aliases: ["Greater Eidolon Specialization"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=77"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Greater Eidolon Specialization  *Class Feature 15*

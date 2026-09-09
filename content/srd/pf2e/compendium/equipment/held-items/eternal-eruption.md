@@ -8,6 +8,7 @@ tags:
 aliases: ["Eternal Eruption"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3020"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Eternal Eruption  *Item 5+*

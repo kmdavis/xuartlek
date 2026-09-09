@@ -9,6 +9,7 @@ tags:
 aliases: ["Flash of Omniscience"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7546"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Flash of Omniscience  *Feat 18*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

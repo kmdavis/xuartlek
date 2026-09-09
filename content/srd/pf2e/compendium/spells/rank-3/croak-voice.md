@@ -10,6 +10,7 @@ tags:
 aliases: ["Croak Voice"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1951"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Croak Voice  *Spell 3*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

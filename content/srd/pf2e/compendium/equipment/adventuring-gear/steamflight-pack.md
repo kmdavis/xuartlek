@@ -9,6 +9,7 @@ tags:
 aliases: ["Steamflight Pack"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1157"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Steamflight Pack  *Item 15*

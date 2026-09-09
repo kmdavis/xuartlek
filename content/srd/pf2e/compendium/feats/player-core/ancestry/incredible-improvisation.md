@@ -7,6 +7,7 @@ tags:
 aliases: ["Incredible Improvisation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4487"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Incredible Improvisation  *Feat 9*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

@@ -7,6 +7,7 @@ tags:
 aliases: ["Phalanx Formation (Guardian)"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7839"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Phalanx Formation (Guardian)  *Feat 2*

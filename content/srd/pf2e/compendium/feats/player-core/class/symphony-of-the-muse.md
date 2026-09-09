@@ -7,6 +7,7 @@ tags:
 aliases: ["Symphony of the Muse"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4640"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Symphony of the Muse  *Feat 20*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Desna"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=281"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Desna  *Deity*

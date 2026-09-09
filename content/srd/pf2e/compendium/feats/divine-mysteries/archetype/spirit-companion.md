@@ -7,6 +7,7 @@ tags:
 aliases: ["Spirit Companion"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7590"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Spirit Companion  *Feat 4*

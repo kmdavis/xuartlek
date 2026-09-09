@@ -8,6 +8,7 @@ tags:
 aliases: ["Magnetic Shield"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1979"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Magnetic Shield  *Item 5*

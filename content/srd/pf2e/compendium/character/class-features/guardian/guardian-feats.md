@@ -6,6 +6,7 @@ tags:
 aliases: ["Guardian Feats"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=67"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Guardian Feats  *Class Feature 1*

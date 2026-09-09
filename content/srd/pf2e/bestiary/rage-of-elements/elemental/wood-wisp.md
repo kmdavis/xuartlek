@@ -12,6 +12,7 @@ name: "Wood Wisp"
 level: 0
 source: "Rage of Elements"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2668"
+socialImage: og-image.png
 ---
 
 ```statblock

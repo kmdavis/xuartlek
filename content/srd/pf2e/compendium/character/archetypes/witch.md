@@ -6,6 +6,7 @@ tags:
 aliases: ["Witch"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=217"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Witch  *Archetype 2*

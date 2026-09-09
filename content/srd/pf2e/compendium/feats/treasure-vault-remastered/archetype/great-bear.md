@@ -7,6 +7,7 @@ tags:
 aliases: ["Great Bear"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4091"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Great Bear  *Feat 12*

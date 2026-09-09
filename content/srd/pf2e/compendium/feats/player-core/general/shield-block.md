@@ -7,6 +7,7 @@ tags:
 aliases: ["Shield Block"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5212"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Shield Block  *Feat 1*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

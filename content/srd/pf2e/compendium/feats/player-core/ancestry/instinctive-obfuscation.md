@@ -9,6 +9,7 @@ tags:
 aliases: ["Instinctive Obfuscation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4436"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Instinctive Obfuscation  *Feat 13*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

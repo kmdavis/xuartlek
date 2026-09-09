@@ -7,6 +7,7 @@ tags:
 aliases: ["Cutting Without Blade"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7192"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Cutting Without Blade  *Feat 20*

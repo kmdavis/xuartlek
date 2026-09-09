@@ -9,6 +9,7 @@ tags:
 aliases: ["Exude Demonic Corruption"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8459"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Exude Demonic Corruption  *Feat 8*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

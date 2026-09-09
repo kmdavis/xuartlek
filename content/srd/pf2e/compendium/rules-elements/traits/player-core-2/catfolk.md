@@ -6,6 +6,7 @@ tags:
 aliases: ["Catfolk"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=746"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Catfolk  *Trait*

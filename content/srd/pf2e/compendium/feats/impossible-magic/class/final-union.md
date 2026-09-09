@@ -7,6 +7,7 @@ tags:
 aliases: ["Final Union"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9162"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Final Union  *Feat 20*

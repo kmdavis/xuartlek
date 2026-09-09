@@ -7,6 +7,7 @@ tags:
 aliases: ["Shared Dream"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8523"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Shared Dream  *Feat 16*

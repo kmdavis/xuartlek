@@ -9,6 +9,7 @@ tags:
 aliases: ["Schadenfreude"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2022"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Schadenfreude  *Spell 1*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

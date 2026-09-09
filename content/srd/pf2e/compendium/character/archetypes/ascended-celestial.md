@@ -5,6 +5,7 @@ tags:
 aliases: ["Ascended Celestial"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=289"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Ascended Celestial  *Archetype*

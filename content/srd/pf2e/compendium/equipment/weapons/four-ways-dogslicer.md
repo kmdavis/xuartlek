@@ -11,6 +11,7 @@ tags:
 aliases: ["Four-Ways Dogslicer"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3282"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Four-Ways Dogslicer  *Item 12*

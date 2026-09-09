@@ -5,6 +5,7 @@ tags:
 aliases: ["Mercenary"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=542"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Mercenary  *Creature Family*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Winged Warrior"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=227"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Winged Warrior  *Archetype 2*

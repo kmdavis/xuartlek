@@ -14,6 +14,7 @@ tags:
 aliases: ["Widen Spell"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4715"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Widen Spell  *Feat 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

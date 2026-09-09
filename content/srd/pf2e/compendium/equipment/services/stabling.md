@@ -6,6 +6,7 @@ tags:
 aliases: ["Stabling"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2768"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Stabling  *Item 0*

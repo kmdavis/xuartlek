@@ -9,6 +9,7 @@ tags:
 aliases: ["Tales in Timber"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2648"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Tales in Timber  *Item 10+*

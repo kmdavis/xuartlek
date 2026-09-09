@@ -7,6 +7,7 @@ tags:
 aliases: ["Incredible Companion (Druid)"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4737"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Incredible Companion (Druid)  *Feat 8*

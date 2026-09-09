@@ -7,6 +7,7 @@ tags:
 aliases: ["Legendary Summoner"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9282"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Legendary Summoner  *Feat 20*

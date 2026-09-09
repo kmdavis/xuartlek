@@ -9,6 +9,7 @@ tags:
 aliases: ["Elder Seed"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2370"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Elder Seed  *Item 11*

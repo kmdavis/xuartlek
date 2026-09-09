@@ -9,6 +9,7 @@ tags:
 aliases: ["Smoke Veil"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2609"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Smoke Veil  *Item 3*

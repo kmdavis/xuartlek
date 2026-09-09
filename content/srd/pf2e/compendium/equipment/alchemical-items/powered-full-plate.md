@@ -8,6 +8,7 @@ tags:
 aliases: ["Powered Full Plate"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1982"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Powered Full Plate  *Item 7*

@@ -12,6 +12,7 @@ tags:
 aliases: ["Owl Screech Egg"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1924"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Owl Screech Egg  *Item 7*

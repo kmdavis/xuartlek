@@ -7,6 +7,7 @@ tags:
 aliases: ["Metallic Envisionment"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8513"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Metallic Envisionment  *Feat 12*

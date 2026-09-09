@@ -7,6 +7,7 @@ tags:
 aliases: ["Aldori Parry"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7901"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Aldori Parry  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

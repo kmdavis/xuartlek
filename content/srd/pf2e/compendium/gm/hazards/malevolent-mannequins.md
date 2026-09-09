@@ -11,6 +11,7 @@ tags:
 aliases: ["Malevolent Mannequins"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=97"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Malevolent Mannequins  *Hazard 14*

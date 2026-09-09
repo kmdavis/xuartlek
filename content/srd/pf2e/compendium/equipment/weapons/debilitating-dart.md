@@ -7,6 +7,7 @@ tags:
 aliases: ["Debilitating Dart"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5017"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Debilitating Dart  *Item 9*

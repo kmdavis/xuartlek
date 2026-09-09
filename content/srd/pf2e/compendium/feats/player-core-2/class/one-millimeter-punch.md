@@ -7,6 +7,7 @@ tags:
 aliases: ["One-millimeter Punch"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6041"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # One-millimeter Punch  *Feat 16*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Reinforced Skeleton"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9141"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Reinforced Skeleton  *Feat 12*

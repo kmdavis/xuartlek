@@ -7,6 +7,7 @@ tags:
 aliases: ["Bloodletting Fangs"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5722"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Bloodletting Fangs  *Feat 9*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Dajermube"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=338"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Dajermube  *Deity*

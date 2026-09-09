@@ -7,6 +7,7 @@ tags:
 aliases: ["Elemental"]
 aon_url: "https://2e.aonprd.com/Eidolons.aspx?ID=12"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Elemental  *Summoner Eidolon*

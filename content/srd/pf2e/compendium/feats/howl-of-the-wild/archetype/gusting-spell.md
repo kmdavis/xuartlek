@@ -11,6 +11,7 @@ tags:
 aliases: ["Gusting Spell"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5529"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Gusting Spell  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

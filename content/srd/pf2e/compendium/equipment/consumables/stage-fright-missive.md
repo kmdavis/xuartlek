@@ -11,6 +11,7 @@ tags:
 aliases: ["Stage Fright Missive"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2066"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Stage Fright Missive  *Item 5*

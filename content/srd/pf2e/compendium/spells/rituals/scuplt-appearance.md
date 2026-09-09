@@ -7,6 +7,7 @@ tags:
 aliases: ["Scuplt Appearance"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=266"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Scuplt Appearance  *Ritual 3*

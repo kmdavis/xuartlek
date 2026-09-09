@@ -8,6 +8,7 @@ tags:
 aliases: ["Efficient Controls"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3151"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Efficient Controls  *Feat 7*

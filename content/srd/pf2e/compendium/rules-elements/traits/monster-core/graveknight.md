@@ -6,6 +6,7 @@ tags:
 aliases: ["Graveknight"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=755"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Graveknight  *Trait*

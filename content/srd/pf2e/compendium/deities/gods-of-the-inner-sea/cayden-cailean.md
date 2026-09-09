@@ -5,6 +5,7 @@ tags:
 aliases: ["Cayden Cailean"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=280"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Cayden Cailean  *Deity*

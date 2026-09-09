@@ -7,6 +7,7 @@ tags:
 aliases: ["Alchemical Gauntlet"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1971"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Alchemical Gauntlet  *Item 1*

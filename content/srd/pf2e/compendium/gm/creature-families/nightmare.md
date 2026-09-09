@@ -5,6 +5,7 @@ tags:
 aliases: ["Nightmare"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=447"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Nightmare  *Creature Family*

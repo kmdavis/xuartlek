@@ -10,6 +10,7 @@ tags:
 aliases: ["Phantom Piano"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2400"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Phantom Piano  *Item 12*

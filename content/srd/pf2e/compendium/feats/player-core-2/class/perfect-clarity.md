@@ -10,6 +10,7 @@ tags:
 aliases: ["Perfect Clarity"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5874"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Perfect Clarity  *Feat 18*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

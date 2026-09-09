@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/player-core-2
 aliases: ["Research Fields"]
 entries: 4
+socialImage: og-image.png
 ---
 
 # Research Fields

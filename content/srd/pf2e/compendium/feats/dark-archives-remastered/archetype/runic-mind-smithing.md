@@ -7,6 +7,7 @@ tags:
 aliases: ["Runic Mind Smithing"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8512"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Runic Mind Smithing  *Feat 10*

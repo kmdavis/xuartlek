@@ -5,6 +5,7 @@ tags:
 aliases: ["Horse"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=431"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Horse  *Creature Family*

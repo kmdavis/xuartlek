@@ -9,6 +9,7 @@ tags:
 aliases: ["Philosopher's Stone"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3357"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Philosopher's Stone  *Item 20*

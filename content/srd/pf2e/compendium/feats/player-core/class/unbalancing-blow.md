@@ -7,6 +7,7 @@ tags:
 aliases: ["Unbalancing Blow"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4928"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Unbalancing Blow  *Feat 2*

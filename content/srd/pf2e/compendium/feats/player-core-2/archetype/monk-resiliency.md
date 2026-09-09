@@ -7,6 +7,7 @@ tags:
 aliases: ["Monk Resiliency"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6212"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Monk Resiliency  *Feat 4*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Bodily Disintegration"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9404"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Bodily Disintegration  *Feat 9*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

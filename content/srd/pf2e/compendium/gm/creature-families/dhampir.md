@@ -5,6 +5,7 @@ tags:
 aliases: ["Dhampir"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=390"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Dhampir  *Creature Family*

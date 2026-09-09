@@ -10,6 +10,7 @@ tags:
 aliases: ["Bower Fruit"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2375"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Bower Fruit  *Item 13*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Reinforce Eidolon"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9233"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Reinforce Eidolon  *Feat 2*

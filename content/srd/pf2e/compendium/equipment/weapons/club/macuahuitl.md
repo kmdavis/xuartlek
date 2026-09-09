@@ -10,6 +10,7 @@ tags:
 aliases: ["Macuahuitl"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=511"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Macuahuitl  *Weapon 0*

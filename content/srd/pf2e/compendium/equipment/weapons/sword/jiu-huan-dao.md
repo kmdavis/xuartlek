@@ -8,6 +8,7 @@ tags:
 aliases: ["Jiu Huan Dao"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=288"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Jiu Huan Dao  *Weapon 0*

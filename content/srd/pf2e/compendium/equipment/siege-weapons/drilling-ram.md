@@ -8,6 +8,7 @@ tags:
 aliases: ["Drilling Ram"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=45"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Drilling Ram  *Siege Weapon 6*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Critical Debilitation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4968"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Critical Debilitation  *Feat 12*

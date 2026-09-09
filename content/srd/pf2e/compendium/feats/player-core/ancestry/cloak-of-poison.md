@@ -8,6 +8,7 @@ tags:
 aliases: ["Cloak of Poison"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4509"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Cloak of Poison  *Feat 13*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

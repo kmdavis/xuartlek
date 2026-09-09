@@ -6,6 +6,7 @@ tags:
 aliases: ["Magus Spellcasting"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=74"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Magus Spellcasting  *Class Feature 1*

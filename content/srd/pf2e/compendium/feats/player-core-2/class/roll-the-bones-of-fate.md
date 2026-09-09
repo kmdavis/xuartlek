@@ -10,6 +10,7 @@ tags:
 aliases: ["Roll the Bones of Fate"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6070"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Roll the Bones of Fate  *Feat 10*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

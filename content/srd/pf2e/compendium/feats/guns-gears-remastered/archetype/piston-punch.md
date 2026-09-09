@@ -7,6 +7,7 @@ tags:
 aliases: ["Piston Punch"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3129"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Piston Punch  *Feat 6*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

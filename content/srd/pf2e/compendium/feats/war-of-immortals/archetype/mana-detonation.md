@@ -7,6 +7,7 @@ tags:
 aliases: ["Mana Detonation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7430"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Mana Detonation  *Feat 18*

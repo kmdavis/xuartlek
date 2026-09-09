@@ -13,6 +13,7 @@ tags:
 aliases: ["Stupor Poison"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2016"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Stupor Poison  *Item 7*

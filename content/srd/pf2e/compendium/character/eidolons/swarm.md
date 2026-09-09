@@ -8,6 +8,7 @@ tags:
 aliases: ["Swarm"]
 aon_url: "https://2e.aonprd.com/Eidolons.aspx?ID=13"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Swarm  *Summoner Eidolon*

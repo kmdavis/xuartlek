@@ -8,6 +8,7 @@ tags:
 aliases: ["Gate Attenuator"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2654"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Gate Attenuator  *Item 3+*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Drilled Reactions"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=66"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Drilled Reactions  *Class Feature 1*

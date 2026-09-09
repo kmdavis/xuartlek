@@ -7,6 +7,7 @@ tags:
 aliases: ["Unstable Redundancies"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3081"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Unstable Redundancies  *Feat 14*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

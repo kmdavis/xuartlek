@@ -7,6 +7,7 @@ tags:
 aliases: ["Expanded Domain Initiate"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7595"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Expanded Domain Initiate  *Feat 4*

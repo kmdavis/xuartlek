@@ -11,6 +11,7 @@ tags:
 aliases: ["Desperate Revival"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9153"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Desperate Revival  *Feat 16*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

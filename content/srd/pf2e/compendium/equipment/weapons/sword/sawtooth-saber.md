@@ -10,6 +10,7 @@ tags:
 aliases: ["Sawtooth Saber"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=423"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Sawtooth Saber  *Weapon 0*

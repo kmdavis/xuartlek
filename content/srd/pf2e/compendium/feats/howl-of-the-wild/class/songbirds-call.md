@@ -7,6 +7,7 @@ tags:
 aliases: ["Songbird's Call"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5419"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Songbird's Call  *Feat 8*

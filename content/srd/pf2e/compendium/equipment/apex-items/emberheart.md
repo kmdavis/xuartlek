@@ -9,6 +9,7 @@ tags:
 aliases: ["Emberheart"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5114"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Emberheart  *Item 18*

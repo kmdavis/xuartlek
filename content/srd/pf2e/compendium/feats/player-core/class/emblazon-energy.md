@@ -7,6 +7,7 @@ tags:
 aliases: ["Emblazon Energy"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4668"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Emblazon Energy  *Feat 8*

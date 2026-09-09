@@ -7,6 +7,7 @@ tags:
 aliases: ["Incredible Ferocity"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4526"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Incredible Ferocity  *Feat 13*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Exemplar"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=839"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Exemplar  *Trait*

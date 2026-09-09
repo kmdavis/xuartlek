@@ -11,6 +11,7 @@ tags:
 aliases: ["Flare Snare"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3370"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Flare Snare  *Item 2*

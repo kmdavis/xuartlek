@@ -7,6 +7,7 @@ tags:
 aliases: ["Keen Recollection"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6207"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Keen Recollection  *Feat 6*

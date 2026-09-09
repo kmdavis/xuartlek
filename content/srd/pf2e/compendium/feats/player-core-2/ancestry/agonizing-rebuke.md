@@ -7,6 +7,7 @@ tags:
 aliases: ["Agonizing Rebuke"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5577"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Agonizing Rebuke  *Feat 5*

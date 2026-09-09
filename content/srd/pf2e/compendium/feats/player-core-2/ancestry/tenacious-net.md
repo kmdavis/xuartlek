@@ -7,6 +7,7 @@ tags:
 aliases: ["Tenacious Net"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5703"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Tenacious Net  *Feat 5*

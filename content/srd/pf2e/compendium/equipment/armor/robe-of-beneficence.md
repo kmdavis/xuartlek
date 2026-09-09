@@ -8,6 +8,7 @@ tags:
 aliases: ["Robe Of Beneficence"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4984"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Robe Of Beneficence  *Item 17*

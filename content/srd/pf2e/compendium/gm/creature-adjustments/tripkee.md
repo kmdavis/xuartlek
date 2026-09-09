@@ -5,6 +5,7 @@ tags:
 aliases: ["Tripkee"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=55"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Tripkee  *Creature Adjustment*

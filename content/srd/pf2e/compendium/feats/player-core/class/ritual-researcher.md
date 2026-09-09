@@ -8,6 +8,7 @@ tags:
 aliases: ["Ritual Researcher"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4593"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Ritual Researcher  *Feat 4*

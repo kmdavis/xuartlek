@@ -7,6 +7,7 @@ tags:
 aliases: ["Aberrant"]
 aon_url: "https://2e.aonprd.com/Eidolons.aspx?ID=14"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Aberrant  *Summoner Eidolon*

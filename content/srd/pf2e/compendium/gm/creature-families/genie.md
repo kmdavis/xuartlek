@@ -5,6 +5,7 @@ tags:
 aliases: ["Genie"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=417"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Genie  *Creature Family*

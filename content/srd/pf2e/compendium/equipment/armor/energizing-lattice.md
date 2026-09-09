@@ -9,6 +9,7 @@ tags:
 aliases: ["Energizing Lattice"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1846"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Energizing Lattice  *Item 13*

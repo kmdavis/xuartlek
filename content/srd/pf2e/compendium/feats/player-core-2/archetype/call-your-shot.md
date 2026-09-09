@@ -7,6 +7,7 @@ tags:
 aliases: ["Call Your Shot"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6338"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Call Your Shot  *Feat 8*

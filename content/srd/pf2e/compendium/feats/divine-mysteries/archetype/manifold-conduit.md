@@ -7,6 +7,7 @@ tags:
 aliases: ["Manifold Conduit"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7578"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Manifold Conduit  *Feat 12*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

@@ -7,6 +7,7 @@ tags:
 aliases: ["Grand Talisman Esoterica"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8380"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Grand Talisman Esoterica  *Feat 14*

@@ -11,6 +11,7 @@ tags:
 aliases: ["Pummeling Whirlpool"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5357"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Pummeling Whirlpool  *Feat 13*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

@@ -7,6 +7,7 @@ tags:
 aliases: ["Resolute"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8403"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Resolute  *Feat 12*

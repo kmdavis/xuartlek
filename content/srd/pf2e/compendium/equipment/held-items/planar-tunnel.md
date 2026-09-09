@@ -9,6 +9,7 @@ tags:
 aliases: ["Planar Tunnel"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2195"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Planar Tunnel  *Item 15*

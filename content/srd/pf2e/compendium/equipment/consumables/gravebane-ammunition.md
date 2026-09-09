@@ -10,6 +10,7 @@ tags:
 aliases: ["Gravebane Ammunition"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5038"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Gravebane Ammunition  *Item 4+*

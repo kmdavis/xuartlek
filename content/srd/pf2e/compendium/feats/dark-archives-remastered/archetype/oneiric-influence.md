@@ -10,6 +10,7 @@ tags:
 aliases: ["Oneiric Influence"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8520"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Oneiric Influence  *Feat 12*

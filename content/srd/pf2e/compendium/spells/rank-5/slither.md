@@ -9,6 +9,7 @@ tags:
 aliases: ["Slither"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1676"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Slither  *Spell 5*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

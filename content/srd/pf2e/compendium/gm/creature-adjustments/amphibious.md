@@ -5,6 +5,7 @@ tags:
 aliases: ["Amphibious"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=24"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Amphibious  *Creature Adjustment*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Draconic Resistance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5732"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Draconic Resistance  *Feat 1*

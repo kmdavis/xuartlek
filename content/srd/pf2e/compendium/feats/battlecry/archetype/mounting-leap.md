@@ -8,6 +8,7 @@ tags:
 aliases: ["Mounting Leap"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7987"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Mounting Leap  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

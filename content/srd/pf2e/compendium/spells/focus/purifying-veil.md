@@ -14,6 +14,7 @@ tags:
 aliases: ["Purifying Veil"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2590"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Purifying Veil  *Focus 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

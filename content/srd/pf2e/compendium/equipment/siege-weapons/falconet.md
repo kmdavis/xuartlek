@@ -8,6 +8,7 @@ tags:
 aliases: ["Falconet"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=50"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Falconet  *Siege Weapon 4*

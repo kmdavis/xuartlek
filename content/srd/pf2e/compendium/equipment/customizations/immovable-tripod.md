@@ -8,6 +8,7 @@ tags:
 aliases: ["Immovable Tripod"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1218"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Immovable Tripod  *Item 10*

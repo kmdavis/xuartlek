@@ -9,6 +9,7 @@ tags:
 aliases: ["Solar Shellflower"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1892"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Solar Shellflower  *Item 5*

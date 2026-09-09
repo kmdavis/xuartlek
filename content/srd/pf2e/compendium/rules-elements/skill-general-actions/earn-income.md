@@ -5,6 +5,7 @@ tags:
 aliases: ["Earn Income"]
 aon_url: "https://2e.aonprd.com/Skills.aspx?ID=21&General=true"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Earn Income  *General Skill Action*

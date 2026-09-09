@@ -7,6 +7,7 @@ tags:
 aliases: ["Mist Child"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4538"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Mist Child  *Feat 5*

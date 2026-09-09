@@ -7,6 +7,7 @@ tags:
 aliases: ["Leshy Glide"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4501"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Leshy Glide  *Feat 5*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

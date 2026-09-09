@@ -9,6 +9,7 @@ tags:
 aliases: ["Flash of Omipotence"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7553"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Flash of Omipotence  *Feat 20*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

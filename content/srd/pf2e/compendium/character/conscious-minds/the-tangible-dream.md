@@ -5,6 +5,7 @@ tags:
 aliases: ["The Tangible Dream"]
 aon_url: "https://2e.aonprd.com/ConsciousMinds.aspx?ID=11"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # The Tangible Dream  *Psychic Conscious Mind*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Necrotic Bomber"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9295"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Necrotic Bomber  *Feat 4*

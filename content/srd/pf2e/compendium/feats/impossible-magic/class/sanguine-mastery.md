@@ -7,6 +7,7 @@ tags:
 aliases: ["Sanguine Mastery"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9142"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Sanguine Mastery  *Feat 12*

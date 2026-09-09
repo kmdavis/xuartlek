@@ -5,6 +5,7 @@ tags:
 aliases: ["Baalzebul"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=394"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Baalzebul  *Deity*

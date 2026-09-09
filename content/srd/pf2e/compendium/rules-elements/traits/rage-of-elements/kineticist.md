@@ -6,6 +6,7 @@ tags:
 aliases: ["Kineticist"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=504"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Kineticist  *Trait*

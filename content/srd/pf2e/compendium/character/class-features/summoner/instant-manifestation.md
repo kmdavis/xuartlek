@@ -6,6 +6,7 @@ tags:
 aliases: ["Instant Manifestation"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=77"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Instant Manifestation  *Class Feature 19*

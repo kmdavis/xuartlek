@@ -12,6 +12,7 @@ tags:
 aliases: ["Extend Boost"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2916"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Extend Boost  *Focus 1*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

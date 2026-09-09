@@ -8,6 +8,7 @@ tags:
 aliases: ["Wyrm Spindle"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2243"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wyrm Spindle  *Item 12+*

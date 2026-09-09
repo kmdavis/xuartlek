@@ -8,6 +8,7 @@ tags:
 aliases: ["Halfling Luck"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4458"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Halfling Luck  *Feat 1*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

@@ -8,6 +8,7 @@ tags:
 aliases: ["Attuned Electroreceptors"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5290"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Attuned Electroreceptors  *Feat 13*

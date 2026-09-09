@@ -9,6 +9,7 @@ tags:
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3432"
 citation: "Battlecry! pg. 198"
+socialImage: og-image.png
 ---
 
 # Behind Enemy Lines

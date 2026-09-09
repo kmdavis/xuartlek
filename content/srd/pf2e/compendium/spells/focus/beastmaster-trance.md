@@ -12,6 +12,7 @@ tags:
 aliases: ["Beastmaster Trance"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1962"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Beastmaster Trance  *Focus 3*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

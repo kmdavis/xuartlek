@@ -13,6 +13,7 @@ tags:
 aliases: ["Clockwork Monkey"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1124"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Clockwork Monkey  *Item 2*

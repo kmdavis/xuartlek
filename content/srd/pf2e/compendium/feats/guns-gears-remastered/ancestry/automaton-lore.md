@@ -7,6 +7,7 @@ tags:
 aliases: ["Automaton Lore"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3093"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Automaton Lore  *Feat 1*

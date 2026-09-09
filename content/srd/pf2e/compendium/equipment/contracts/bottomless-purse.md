@@ -10,6 +10,7 @@ tags:
 aliases: ["Bottomless Purse"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4148"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Bottomless Purse  *Item 8*

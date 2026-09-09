@@ -10,6 +10,7 @@ name: "Larabay"
 level: 11
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4460"
+socialImage: og-image.png
 ---
 
 ```statblock

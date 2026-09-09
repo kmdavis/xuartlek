@@ -7,6 +7,7 @@ tags:
 aliases: ["Expert Wizard Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5112"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Expert Wizard Spellcasting  *Feat 12*

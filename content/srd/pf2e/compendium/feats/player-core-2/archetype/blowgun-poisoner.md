@@ -7,6 +7,7 @@ tags:
 aliases: ["Blowgun Poisoner"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5762"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Blowgun Poisoner  *Feat 1*

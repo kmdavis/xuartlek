@@ -7,6 +7,7 @@ tags:
 aliases: ["Mariner's Fire"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5673"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Mariner's Fire  *Feat 1*

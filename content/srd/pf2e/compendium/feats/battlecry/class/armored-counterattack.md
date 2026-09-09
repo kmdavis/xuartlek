@@ -7,6 +7,7 @@ tags:
 aliases: ["Armored Counterattack"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7868"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Armored Counterattack  *Feat 12*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

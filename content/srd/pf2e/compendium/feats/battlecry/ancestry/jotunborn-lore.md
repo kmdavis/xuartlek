@@ -7,6 +7,7 @@ tags:
 aliases: ["Jotunborn Lore"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7773"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Jotunborn Lore  *Feat 1*

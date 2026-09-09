@@ -8,6 +8,7 @@ tags:
 aliases: ["Ghost Ink"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3354"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Ghost Ink  *Item 1*

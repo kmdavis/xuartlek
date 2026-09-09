@@ -8,6 +8,7 @@ tags:
 aliases: ["Cascading Ray"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9071"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Cascading Ray  *Feat 10*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

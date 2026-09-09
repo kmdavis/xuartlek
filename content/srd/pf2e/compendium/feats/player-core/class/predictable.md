@@ -7,6 +7,7 @@ tags:
 aliases: ["Predictable!"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4934"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Predictable!  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

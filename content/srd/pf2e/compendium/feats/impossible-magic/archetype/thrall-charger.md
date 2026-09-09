@@ -7,6 +7,7 @@ tags:
 aliases: ["Thrall Charger"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9296"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Thrall Charger  *Feat 4*

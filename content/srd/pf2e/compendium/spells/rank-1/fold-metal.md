@@ -9,6 +9,7 @@ tags:
 aliases: ["Fold Metal"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1371"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Fold Metal  *Spell 1*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

@@ -8,6 +8,7 @@ tags:
 aliases: ["Mark of The Sage"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7185"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Mark of The Sage  *Feat 16*

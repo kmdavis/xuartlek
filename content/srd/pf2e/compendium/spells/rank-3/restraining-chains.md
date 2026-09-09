@@ -9,6 +9,7 @@ tags:
 aliases: ["Restraining Chains"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2802"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Restraining Chains  *Spell 3*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

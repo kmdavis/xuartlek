@@ -7,6 +7,7 @@ tags:
 aliases: ["Skill Mastery (Rogue)"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5096"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Skill Mastery (Rogue)  *Feat 8*

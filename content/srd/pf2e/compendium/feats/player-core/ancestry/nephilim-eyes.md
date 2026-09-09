@@ -7,6 +7,7 @@ tags:
 aliases: ["Nephilim Eyes"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4550"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Nephilim Eyes  *Feat 1*

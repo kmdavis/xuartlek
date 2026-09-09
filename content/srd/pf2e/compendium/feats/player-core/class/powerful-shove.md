@@ -7,6 +7,7 @@ tags:
 aliases: ["Powerful Shove"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4791"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Powerful Shove  *Feat 4*

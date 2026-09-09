@@ -6,6 +6,7 @@ tags:
 aliases: ["Armor Mastery"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=66"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Armor Mastery  *Class Feature 17*

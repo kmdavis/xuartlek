@@ -7,6 +7,7 @@ tags:
 aliases: ["Wyvern Nafir"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3952"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Wyvern Nafir  *Item 10*

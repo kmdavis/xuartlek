@@ -6,6 +6,7 @@ tags:
 aliases: ["Fortune"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=612"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Fortune  *Trait*

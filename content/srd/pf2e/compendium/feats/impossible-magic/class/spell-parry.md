@@ -7,6 +7,7 @@ tags:
 aliases: ["Spell Parry"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9049"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Spell Parry  *Feat 2*

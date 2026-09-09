@@ -7,6 +7,7 @@ tags:
 aliases: ["Tongue Tether"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5709"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Tongue Tether  *Feat 9*

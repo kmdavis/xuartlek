@@ -8,6 +8,7 @@ tags:
 aliases: ["Warp Space"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8316"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Warp Space  *Feat 2*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Signal Skyrocket"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1362"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Signal Skyrocket  *Spell 1*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

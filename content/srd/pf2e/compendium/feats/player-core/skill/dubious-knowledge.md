@@ -8,6 +8,7 @@ tags:
 aliases: ["Dubious Knowledge"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5142"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Dubious Knowledge  *Feat 1*

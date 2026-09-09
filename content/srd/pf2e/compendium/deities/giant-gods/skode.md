@@ -5,6 +5,7 @@ tags:
 aliases: ["Skode"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=495"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Skode  *Deity*

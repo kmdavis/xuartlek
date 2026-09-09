@@ -10,6 +10,7 @@ tags:
 aliases: ["Lost Ember"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4152"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Lost Ember  *Item 10*

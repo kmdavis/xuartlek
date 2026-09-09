@@ -7,6 +7,7 @@ tags:
 aliases: ["Fast Recovery"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5148"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Fast Recovery  *Feat 1*

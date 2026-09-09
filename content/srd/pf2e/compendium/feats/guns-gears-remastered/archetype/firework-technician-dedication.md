@@ -9,6 +9,7 @@ tags:
 aliases: ["Firework Technician Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8528"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Firework Technician Dedication  *Feat 2*

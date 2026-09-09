@@ -7,6 +7,7 @@ tags:
 aliases: ["Deadly Mutation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5459"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Deadly Mutation  *Feat 8*

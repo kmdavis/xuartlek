@@ -10,6 +10,7 @@ tags:
 aliases: ["Compound Eyes"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3181"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Compound Eyes  *Item 4*

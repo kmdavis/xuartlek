@@ -8,6 +8,7 @@ tags:
 aliases: ["Submersible Helm"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2337"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Submersible Helm  *Item 9+*

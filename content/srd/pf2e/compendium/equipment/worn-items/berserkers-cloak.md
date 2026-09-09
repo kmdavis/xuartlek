@@ -8,6 +8,7 @@ tags:
 aliases: ["Berserker's Cloak"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3432"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Berserker's Cloak  *Item 12+*

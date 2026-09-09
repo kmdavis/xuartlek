@@ -11,6 +11,7 @@ tags:
 aliases: ["Pact-Bound Pistol"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1176"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Pact-Bound Pistol  *Item 10*

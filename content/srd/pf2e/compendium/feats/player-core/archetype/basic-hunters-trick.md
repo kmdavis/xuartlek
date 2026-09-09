@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Hunter's Trick"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5088"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Basic Hunter's Trick  *Feat 4*

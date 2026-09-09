@@ -7,6 +7,7 @@ tags:
 aliases: ["Animal Fleetness"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5487"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Animal Fleetness  *Feat 4*

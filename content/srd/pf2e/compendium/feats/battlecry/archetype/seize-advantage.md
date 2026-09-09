@@ -8,6 +8,7 @@ tags:
 aliases: ["Seize Advantage"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7952"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Seize Advantage  *Feat 10*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

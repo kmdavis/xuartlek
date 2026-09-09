@@ -5,6 +5,7 @@ tags:
 aliases: ["Ofalth"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=450"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Ofalth  *Creature Family*

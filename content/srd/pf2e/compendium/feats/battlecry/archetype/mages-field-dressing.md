@@ -7,6 +7,7 @@ tags:
 aliases: ["Mage's Field Dressing"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7977"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Mage's Field Dressing  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

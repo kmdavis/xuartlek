@@ -8,6 +8,7 @@ tags:
 aliases: ["Mortar"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=19"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mortar  *Siege Weapon 7*

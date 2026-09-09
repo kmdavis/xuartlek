@@ -8,6 +8,7 @@ tags:
 aliases: ["Mountebank's Passage"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1183"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mountebank's Passage  *Item 15*

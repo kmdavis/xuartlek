@@ -7,6 +7,7 @@ tags:
 aliases: ["Ice Breaker"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=110"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Ice Breaker  *Vehicle 20*

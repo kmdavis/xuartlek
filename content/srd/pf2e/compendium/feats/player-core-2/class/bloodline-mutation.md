@@ -7,6 +7,7 @@ tags:
 aliases: ["Bloodline Mutation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6124"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Bloodline Mutation  *Feat 20*

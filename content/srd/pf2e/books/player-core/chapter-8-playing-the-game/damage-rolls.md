@@ -9,6 +9,7 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2301"
 citation: "Player Core pg. 406"
+socialImage: og-image.png
 ---
 
 # Damage Rolls

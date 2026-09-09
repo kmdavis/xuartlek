@@ -7,6 +7,7 @@ tags:
 aliases: ["Invisible Ink"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9178"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Invisible Ink  *Feat 2*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Magus Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9285"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Basic Magus Spellcasting  *Feat 4*

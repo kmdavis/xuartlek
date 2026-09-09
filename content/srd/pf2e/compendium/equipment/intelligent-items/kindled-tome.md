@@ -10,6 +10,7 @@ tags:
 aliases: ["Kindled Tome"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2397"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Kindled Tome  *Item 11*

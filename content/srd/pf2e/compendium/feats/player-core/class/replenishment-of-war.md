@@ -7,6 +7,7 @@ tags:
 aliases: ["Replenishment of War"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4677"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Replenishment of War  *Feat 10*

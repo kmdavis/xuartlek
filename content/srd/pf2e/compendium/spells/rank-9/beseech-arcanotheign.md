@@ -11,6 +11,7 @@ tags:
 aliases: ["Beseech Arcanotheign"]
 aon_url: "https://2e.aonprd.com/MythicSpells.aspx?ID=2153"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Beseech Arcanotheign  *Spell 9*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

@@ -9,6 +9,7 @@ tags:
 aliases: ["Martyr's Shield"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3126"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Martyr's Shield  *Item 7*

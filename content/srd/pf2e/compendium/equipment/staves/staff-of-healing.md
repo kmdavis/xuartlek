@@ -8,6 +8,7 @@ tags:
 aliases: ["Staff of Healing"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3042"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Staff of Healing  *Item 4+*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Rowboat"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=78"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Rowboat  *Vehicle 0*

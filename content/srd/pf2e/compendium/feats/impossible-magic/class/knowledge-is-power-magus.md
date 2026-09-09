@@ -7,6 +7,7 @@ tags:
 aliases: ["Knowledge is Power (Magus)"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9062"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Knowledge is Power (Magus)  *Feat 6*

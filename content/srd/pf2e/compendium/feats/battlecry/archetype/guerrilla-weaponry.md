@@ -7,6 +7,7 @@ tags:
 aliases: ["Guerrilla Weaponry"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7932"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Guerrilla Weaponry  *Feat 4*

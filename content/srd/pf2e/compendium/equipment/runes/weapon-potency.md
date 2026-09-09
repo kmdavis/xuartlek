@@ -7,6 +7,7 @@ tags:
 aliases: ["Weapon Potency"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2830"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Weapon Potency  *Item 2+*

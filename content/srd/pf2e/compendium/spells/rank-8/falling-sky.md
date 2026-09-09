@@ -9,6 +9,7 @@ tags:
 aliases: ["Falling Sky"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2570"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Falling Sky  *Spell 8*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

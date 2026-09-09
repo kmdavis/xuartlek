@@ -7,6 +7,7 @@ tags:
 aliases: ["Trapsmith"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=111"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Trapsmith  *Archetype 4*

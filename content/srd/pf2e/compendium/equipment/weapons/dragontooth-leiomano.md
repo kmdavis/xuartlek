@@ -7,6 +7,7 @@ tags:
 aliases: ["Dragontooth Leiomano"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1885"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Dragontooth Leiomano  *Item 13*

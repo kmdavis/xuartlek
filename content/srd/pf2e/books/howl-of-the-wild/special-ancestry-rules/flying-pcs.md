@@ -9,6 +9,7 @@ tags:
 source: "Howl of the Wild"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3274"
 citation: "Howl of the Wild pg. 9"
+socialImage: og-image.png
 ---
 
 # Flying PCs

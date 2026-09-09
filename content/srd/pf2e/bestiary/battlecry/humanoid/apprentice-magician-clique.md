@@ -12,6 +12,7 @@ name: "Apprentice Magician Clique"
 level: 5
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3900"
+socialImage: og-image.png
 ---
 
 ```statblock

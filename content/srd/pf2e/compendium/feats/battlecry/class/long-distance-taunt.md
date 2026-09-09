@@ -7,6 +7,7 @@ tags:
 aliases: ["Long-distance Taunt"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7833"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Long-distance Taunt  *Feat 1*

@@ -7,6 +7,7 @@ tags:
 aliases: ["System Override"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9407"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # System Override  *Feat 17*

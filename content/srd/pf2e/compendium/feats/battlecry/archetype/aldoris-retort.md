@@ -7,6 +7,7 @@ tags:
 aliases: ["Aldori's Retort"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7907"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Aldori's Retort  *Feat 14*

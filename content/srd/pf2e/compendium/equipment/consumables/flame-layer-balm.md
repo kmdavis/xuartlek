@@ -9,6 +9,7 @@ tags:
 aliases: ["Flame Layer Balm"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5090"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Flame Layer Balm  *Item 17*

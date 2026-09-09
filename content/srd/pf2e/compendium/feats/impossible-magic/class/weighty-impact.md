@@ -8,6 +8,7 @@ tags:
 aliases: ["Weighty Impact"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9264"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Weighty Impact  *Feat 10*

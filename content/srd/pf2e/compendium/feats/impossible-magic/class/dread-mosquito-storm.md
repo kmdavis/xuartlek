@@ -7,6 +7,7 @@ tags:
 aliases: ["Dread Mosquito Storm"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9158"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Dread Mosquito Storm  *Feat 18*

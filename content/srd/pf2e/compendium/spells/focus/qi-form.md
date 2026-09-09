@@ -11,6 +11,7 @@ tags:
 aliases: ["Qi Form"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2060"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Qi Form  *Focus 9*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

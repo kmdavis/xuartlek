@@ -8,6 +8,7 @@ tags:
 aliases: ["Ease the Burden"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7551"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Ease the Burden  *Feat 20*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

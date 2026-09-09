@@ -7,6 +7,7 @@ tags:
 aliases: ["Scizore of the Crab"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1887"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Scizore of the Crab  *Item 5*

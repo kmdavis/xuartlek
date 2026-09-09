@@ -8,6 +8,7 @@ tags:
 aliases: ["Wand of Mercy"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2283"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wand of Mercy  *Item 4+*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Fairy Bullet"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1194"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Fairy Bullet  *Item 7*

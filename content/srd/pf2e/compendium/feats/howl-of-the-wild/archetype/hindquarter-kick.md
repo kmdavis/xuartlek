@@ -7,6 +7,7 @@ tags:
 aliases: ["Hindquarter Kick"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5442"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Hindquarter Kick  *Feat 6*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

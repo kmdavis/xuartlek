@@ -6,6 +6,7 @@ tags:
 aliases: ["Snarecrafter"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=265"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Snarecrafter  *Archetype 2*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Cleave"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5826"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Cleave  *Feat 6*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

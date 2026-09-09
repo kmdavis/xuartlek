@@ -7,6 +7,7 @@ tags:
 aliases: ["Shambling March"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7967"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Shambling March  *Feat 8*

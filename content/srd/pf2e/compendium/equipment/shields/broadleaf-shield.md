@@ -9,6 +9,7 @@ tags:
 aliases: ["Broadleaf Shield"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2638"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Broadleaf Shield  *Item 6+*

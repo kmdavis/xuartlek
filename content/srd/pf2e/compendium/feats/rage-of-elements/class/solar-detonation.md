@@ -14,6 +14,7 @@ tags:
 aliases: ["Solar Detonation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4245"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Solar Detonation  *Feat 8*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

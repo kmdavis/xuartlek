@@ -8,6 +8,7 @@ tags:
 aliases: ["Reef Heart"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1851"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Reef Heart  *Item 12+*

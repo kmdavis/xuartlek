@@ -7,6 +7,7 @@ tags:
 aliases: ["Awakened Stride"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5319"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Awakened Stride  *Feat 17*

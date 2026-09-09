@@ -13,6 +13,7 @@ tags:
 aliases: ["Puff Dragon"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1131"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Puff Dragon  *Item 9*

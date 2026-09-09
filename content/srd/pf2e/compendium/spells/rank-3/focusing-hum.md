@@ -8,6 +8,7 @@ tags:
 aliases: ["Focusing Hum"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2571"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Focusing Hum  *Spell 3*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

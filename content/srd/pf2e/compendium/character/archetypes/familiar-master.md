@@ -6,6 +6,7 @@ tags:
 aliases: ["Familiar Master"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=250"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Familiar Master  *Archetype 2*

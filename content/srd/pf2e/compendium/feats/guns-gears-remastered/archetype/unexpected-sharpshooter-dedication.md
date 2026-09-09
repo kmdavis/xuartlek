@@ -9,6 +9,7 @@ tags:
 aliases: ["Unexpected Sharpshooter Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3272"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Unexpected Sharpshooter Dedication  *Feat 2*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Lucky Break"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5553"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Lucky Break  *Feat 5*

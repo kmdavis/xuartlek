@@ -8,6 +8,7 @@ tags:
 aliases: ["Expanded Senses"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9224"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Expanded Senses  *Feat 1*

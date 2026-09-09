@@ -8,6 +8,7 @@ tags:
 aliases: ["Eyes of the Cat"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3084"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Eyes of the Cat  *Item 9*

@@ -9,6 +9,7 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2266"
 citation: "Player Core pg. 398"
+socialImage: og-image.png
 ---
 
 # Rules Overview
@@ -77,7 +78,7 @@ The **[[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Step 4: Deg
 
 An effect is the rules term for anything that occurs in the game world. Effects might have limited **[[srd/pf2e/books/player-core/chapter-8-playing-the-game/effects#Range and Reach|range]]**, and you may need to designate **[[srd/pf2e/books/player-core/chapter-8-playing-the-game/effects#Targets|targets]]** or create **[[srd/pf2e/books/player-core/chapter-8-playing-the-game/effects#Areas|areas]]** for your effects. Areas include bursts from a single point, cones blasting out from you, emanations surrounding you or another creature, or straight lines.
 
-Effects that last for a period of time list a **[[srd/pf2e/books/player-core/chapter-8-playing-the-game/effects#Duration|duration]]**. These can last a set increment of time, or can end if certain requirements are met. Many effects apply **[[srd/pf2e/books/player-core/conditions-appendix/index|conditions]]**, which measure advantages or impediments like being [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]], [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]], or [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]].
+Effects that last for a period of time list a **[[srd/pf2e/books/player-core/chapter-8-playing-the-game/effects#Duration|duration]]**. These can last a set increment of time, or can end if certain requirements are met. Many effects apply **[[srd/pf2e/books/player-core/conditions-appendix/conditions-appendix|conditions]]**, which measure advantages or impediments like being [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]], [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]], or [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]].
 
 ## Movement
 
@@ -109,13 +110,13 @@ Damage reduces the **[[srd/pf2e/books/player-core/chapter-3-classes/reading-clas
 
 ## Spells
 
-Most of the rules for casting spells are in [[srd/pf2e/books/player-core/chapter-7-spells/index|Chapter 7]]. For a spell that requires an attack roll against the target's AC, you'll calculate your **[[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Spell Attack Rolls|spell attack modifier]]**. For one that causes its subject to attempt a saving throw, you'll need your **[[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Spell DC|spell DC]]**.
+Most of the rules for casting spells are in [[srd/pf2e/books/player-core/chapter-7-spells/chapter-7-spells|Chapter 7]]. For a spell that requires an attack roll against the target's AC, you'll calculate your **[[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Spell Attack Rolls|spell attack modifier]]**. For one that causes its subject to attempt a saving throw, you'll need your **[[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Spell DC|spell DC]]**.
 
 **Related:** [[srd/pf2e/compendium/rules-elements/actions/player-core#Dismiss|Dismiss]] and [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|Sustain]] basic actions
 
 ## Skills
 
-Skill checks are required for all sorts of other tasks related to adventuring and life in general. Most of their rules are in [[srd/pf2e/books/player-core/chapter-4-skills/index|Chapter 4]]. You'll find the rules for **calculating skill modifiers** [[srd/pf2e/books/player-core/chapter-4-skills/skill-checks-and-dcs|here]]. Many **[[srd/pf2e/books/player-core/chapter-8-playing-the-game/exploration-mode#Exploration Activities|exploration activities]]**, such as [[srd/pf2e/compendium/rules-elements/actions/player-core#Avoid Notice|Avoid Notice]] and [[srd/pf2e/compendium/rules-elements/actions/player-core#Investigate|Investigate]], also use skill checks.
+Skill checks are required for all sorts of other tasks related to adventuring and life in general. Most of their rules are in [[srd/pf2e/books/player-core/chapter-4-skills/chapter-4-skills|Chapter 4]]. You'll find the rules for **calculating skill modifiers** [[srd/pf2e/books/player-core/chapter-4-skills/skill-checks-and-dcs|here]]. Many **[[srd/pf2e/books/player-core/chapter-8-playing-the-game/exploration-mode#Exploration Activities|exploration activities]]**, such as [[srd/pf2e/compendium/rules-elements/actions/player-core#Avoid Notice|Avoid Notice]] and [[srd/pf2e/compendium/rules-elements/actions/player-core#Investigate|Investigate]], also use skill checks.
 
 ## Perception and Detection
 

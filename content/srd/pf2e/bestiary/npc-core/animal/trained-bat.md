@@ -10,6 +10,7 @@ name: "Trained Bat"
 level: 4
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3676"
+socialImage: og-image.png
 ---
 
 ```statblock

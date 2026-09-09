@@ -7,6 +7,7 @@ tags:
 aliases: ["Concentrated Assault"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3266"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Concentrated Assault  *Feat 14*

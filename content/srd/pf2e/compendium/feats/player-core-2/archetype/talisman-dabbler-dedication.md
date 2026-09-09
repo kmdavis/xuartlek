@@ -8,6 +8,7 @@ tags:
 aliases: ["Talisman Dabbler Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6420"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Talisman Dabbler Dedication  *Feat 2*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Sterling Dynamo"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=110"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sterling Dynamo  *Archetype 2*

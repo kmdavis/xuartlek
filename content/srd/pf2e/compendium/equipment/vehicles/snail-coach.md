@@ -7,6 +7,7 @@ tags:
 aliases: ["Snail Coach"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=28"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Snail Coach  *Vehicle 7*

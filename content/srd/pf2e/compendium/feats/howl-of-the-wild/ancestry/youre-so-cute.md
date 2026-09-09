@@ -7,6 +7,7 @@ tags:
 aliases: ["You're So Cute!"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5306"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # You're So Cute!  *Feat 1*

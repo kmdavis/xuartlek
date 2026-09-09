@@ -8,6 +8,7 @@ tags:
 aliases: ["Awakened Animal"]
 aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=72"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Awakened Animal  *Ancestry*

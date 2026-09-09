@@ -8,6 +8,7 @@ tags:
 aliases: ["Mystic Life Force"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7432"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Mystic Life Force  *Feat 20*

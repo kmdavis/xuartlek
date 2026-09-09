@@ -10,6 +10,7 @@ tags:
 aliases: ["Monkey's Paw"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3131"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Monkey's Paw  *Item 20*

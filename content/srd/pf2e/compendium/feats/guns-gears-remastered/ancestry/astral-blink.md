@@ -7,6 +7,7 @@ tags:
 aliases: ["Astral Blink"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3106"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Astral Blink  *Feat 13*

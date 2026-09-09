@@ -7,6 +7,7 @@ tags:
 aliases: ["Fortissimo Composition"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4606"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Fortissimo Composition  *Feat 8*

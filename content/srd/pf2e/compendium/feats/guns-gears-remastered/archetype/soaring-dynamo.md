@@ -7,6 +7,7 @@ tags:
 aliases: ["Soaring Dynamo"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3133"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Soaring Dynamo  *Feat 18*

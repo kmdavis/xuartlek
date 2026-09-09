@@ -9,6 +9,7 @@ tags:
 aliases: ["Stolen Countenance"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5066"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Stolen Countenance  *Item 11*

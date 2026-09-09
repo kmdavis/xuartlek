@@ -8,6 +8,7 @@ tags:
 aliases: ["Discreet Inquiry"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6473"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Discreet Inquiry  *Feat 2*

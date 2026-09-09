@@ -8,6 +8,7 @@ tags:
 aliases: ["Staff-storing Shield"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5008"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Staff-storing Shield  *Item 7*

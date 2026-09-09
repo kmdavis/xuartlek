@@ -7,6 +7,7 @@ tags:
 aliases: ["Gunner's Saddle"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1217"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Gunner's Saddle  *Item 2*

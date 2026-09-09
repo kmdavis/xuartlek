@@ -11,6 +11,7 @@ tags:
 aliases: ["Frightful Attrition"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7939"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Frightful Attrition  *Feat 12*

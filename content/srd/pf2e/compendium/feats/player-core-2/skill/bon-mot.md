@@ -13,6 +13,7 @@ tags:
 aliases: ["Bon Mot"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6466"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Bon Mot  *Feat 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

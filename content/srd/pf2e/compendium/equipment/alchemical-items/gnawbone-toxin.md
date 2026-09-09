@@ -10,6 +10,7 @@ tags:
 aliases: ["Gnawbone Toxin"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2005"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Gnawbone Toxin  *Item 11*

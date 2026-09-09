@@ -7,6 +7,7 @@ tags:
 aliases: ["Ricochet Legend"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3213"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Ricochet Legend  *Feat 20*

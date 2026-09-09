@@ -9,6 +9,7 @@ tags:
 aliases: ["Invoke Offense"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7582"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Invoke Offense  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

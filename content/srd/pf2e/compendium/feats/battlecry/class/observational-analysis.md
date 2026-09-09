@@ -7,6 +7,7 @@ tags:
 aliases: ["Observational Analysis"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7805"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Observational Analysis  *Feat 4*

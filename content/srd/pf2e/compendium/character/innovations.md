@@ -5,6 +5,7 @@ tags:
 - compendium/src/pf2e/guns-gears-remastered
 aliases: ["Innovations"]
 entries: 4
+socialImage: og-image.png
 ---
 
 # Innovations

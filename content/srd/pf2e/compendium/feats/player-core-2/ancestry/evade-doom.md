@@ -7,6 +7,7 @@ tags:
 aliases: ["Evade Doom"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5558"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Evade Doom  *Feat 9*

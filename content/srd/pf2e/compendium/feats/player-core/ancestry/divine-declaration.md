@@ -7,6 +7,7 @@ tags:
 aliases: ["Divine Declaration"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4565"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Divine Declaration  *Feat 17*

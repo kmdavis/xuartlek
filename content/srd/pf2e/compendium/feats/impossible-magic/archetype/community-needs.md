@@ -7,6 +7,7 @@ tags:
 aliases: ["Community Needs"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9336"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Community Needs  *Feat 14*

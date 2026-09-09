@@ -7,6 +7,7 @@ tags:
 aliases: ["Mobile Swarm"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5468"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Mobile Swarm  *Feat 6*

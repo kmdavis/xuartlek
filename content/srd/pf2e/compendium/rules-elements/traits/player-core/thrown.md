@@ -6,6 +6,7 @@ tags:
 aliases: ["Thrown"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=711"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Thrown  *Trait*

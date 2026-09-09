@@ -9,6 +9,7 @@ tags:
 source: "Howl of the Wild"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3277"
 citation: "Howl of the Wild pg. 97"
+socialImage: og-image.png
 ---
 
 # Implanting a Graft

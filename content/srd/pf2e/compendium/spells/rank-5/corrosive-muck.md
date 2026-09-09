@@ -9,6 +9,7 @@ tags:
 aliases: ["Corrosive Muck"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1982"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Corrosive Muck  *Spell 5*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

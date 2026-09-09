@@ -7,6 +7,7 @@ tags:
 aliases: ["Advanced Deity's Domain"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5902"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Advanced Deity's Domain  *Feat 8*

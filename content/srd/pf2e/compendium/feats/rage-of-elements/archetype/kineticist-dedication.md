@@ -9,6 +9,7 @@ tags:
 aliases: ["Kineticist Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4333"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Kineticist Dedication  *Feat 2*

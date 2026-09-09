@@ -9,6 +9,7 @@ tags:
 aliases: ["Flame Bellows"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=52"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Flame Bellows  *Siege Weapon 3*

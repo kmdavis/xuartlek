@@ -6,6 +6,7 @@ tags:
 aliases: ["Fishing Tackle"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2722"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Fishing Tackle  *Item 0+*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Undead Creator"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9105"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Undead Creator  *Feat 2*

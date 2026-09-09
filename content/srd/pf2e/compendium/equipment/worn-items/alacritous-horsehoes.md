@@ -9,6 +9,7 @@ tags:
 aliases: ["Alacritous Horsehoes"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3013"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Alacritous Horsehoes  *Item 7+*

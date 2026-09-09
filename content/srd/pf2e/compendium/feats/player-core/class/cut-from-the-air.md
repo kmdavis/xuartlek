@@ -7,6 +7,7 @@ tags:
 aliases: ["Cut from the Air"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4822"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Cut from the Air  *Feat 10*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

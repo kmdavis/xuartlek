@@ -10,6 +10,7 @@ tags:
 aliases: ["Filter Air"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2504"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Filter Air  *Spell 4*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

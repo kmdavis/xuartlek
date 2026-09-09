@@ -9,6 +9,7 @@ tags:
 aliases: ["Sparkshade Parasol"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2610"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Sparkshade Parasol  *Item 11*

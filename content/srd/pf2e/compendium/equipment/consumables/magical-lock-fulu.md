@@ -9,6 +9,7 @@ tags:
 aliases: ["Magical Lock Fulu"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5079"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Magical Lock Fulu  *Item 4*

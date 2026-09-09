@@ -9,6 +9,7 @@ tags:
 aliases: ["Spellshifter Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9355"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Spellshifter Dedication  *Feat 2*

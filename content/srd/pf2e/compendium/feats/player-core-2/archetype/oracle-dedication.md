@@ -9,6 +9,7 @@ tags:
 aliases: ["Oracle Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6217"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Oracle Dedication  *Feat 2*

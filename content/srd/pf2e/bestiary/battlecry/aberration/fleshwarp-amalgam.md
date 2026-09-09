@@ -13,6 +13,7 @@ name: "Fleshwarp Amalgam"
 level: 8
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3916"
+socialImage: og-image.png
 ---
 
 ```statblock

@@ -7,6 +7,7 @@ tags:
 aliases: ["Flask Of Fellowship"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5143"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Flask Of Fellowship  *Item 2*

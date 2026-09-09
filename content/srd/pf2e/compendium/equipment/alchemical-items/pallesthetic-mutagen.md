@@ -12,6 +12,7 @@ tags:
 aliases: ["Pallesthetic Mutagen"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3237"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Pallesthetic Mutagen  *Item 9*

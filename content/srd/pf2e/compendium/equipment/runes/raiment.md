@@ -8,6 +8,7 @@ tags:
 aliases: ["Raiment"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2791"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Raiment  *Item 5*

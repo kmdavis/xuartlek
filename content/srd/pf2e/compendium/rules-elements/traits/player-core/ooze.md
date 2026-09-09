@@ -6,6 +6,7 @@ tags:
 aliases: ["Ooze"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=665"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Ooze  *Trait*

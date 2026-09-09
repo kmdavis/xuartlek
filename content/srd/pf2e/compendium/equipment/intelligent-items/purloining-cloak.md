@@ -11,6 +11,7 @@ tags:
 aliases: ["Purloining Cloak"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2401"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Purloining Cloak  *Item 18*

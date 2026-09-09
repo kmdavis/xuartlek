@@ -9,6 +9,7 @@ tags:
 aliases: ["Healing Transformation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4742"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Healing Transformation  *Feat 10*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

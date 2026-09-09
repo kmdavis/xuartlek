@@ -7,6 +7,7 @@ tags:
 aliases: ["Rapid Manifestation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9352"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Rapid Manifestation  *Feat 6*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

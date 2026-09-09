@@ -10,6 +10,7 @@ name: "Leprechaun"
 level: 2
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4463"
+socialImage: og-image.png
 ---
 
 ```statblock

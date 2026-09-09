@@ -7,6 +7,7 @@ tags:
 aliases: ["Shared Warding"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8377"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Shared Warding  *Feat 12*

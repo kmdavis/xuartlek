@@ -8,6 +8,7 @@ tags:
 aliases: ["Infinite Blades Celestial Arrow"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7182"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Infinite Blades Celestial Arrow  *Feat 14*

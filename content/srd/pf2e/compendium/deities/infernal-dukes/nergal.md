@@ -5,6 +5,7 @@ tags:
 aliases: ["Nergal"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=529"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Nergal  *Deity*

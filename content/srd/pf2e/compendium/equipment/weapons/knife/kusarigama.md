@@ -12,6 +12,7 @@ tags:
 aliases: ["Kusarigama"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=291"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Kusarigama  *Weapon 0*

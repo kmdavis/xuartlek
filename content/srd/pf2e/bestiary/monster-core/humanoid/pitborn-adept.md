@@ -13,6 +13,7 @@ name: "Pitborn Adept"
 level: 3
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3140"
+socialImage: og-image.png
 ---
 
 ```statblock

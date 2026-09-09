@@ -7,6 +7,7 @@ tags:
 aliases: ["Mobility"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4926"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Mobility  *Feat 2*

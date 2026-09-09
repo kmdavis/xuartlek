@@ -8,6 +8,7 @@ tags:
 aliases: ["Obsidian Goggles"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3097"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Obsidian Goggles  *Item 5+*

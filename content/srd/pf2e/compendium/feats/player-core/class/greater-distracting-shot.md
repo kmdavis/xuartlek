@@ -7,6 +7,7 @@ tags:
 aliases: ["Greater Distracting Shot"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4902"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Greater Distracting Shot  *Feat 16*

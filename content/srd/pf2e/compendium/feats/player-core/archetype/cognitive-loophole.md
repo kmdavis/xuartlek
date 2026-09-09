@@ -7,6 +7,7 @@ tags:
 aliases: ["Cognitive Loophole"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4981"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Cognitive Loophole  *Feat 16*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

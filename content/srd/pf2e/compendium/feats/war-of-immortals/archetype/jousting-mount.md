@@ -7,6 +7,7 @@ tags:
 aliases: ["Jousting Mount"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7307"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Jousting Mount  *Feat 14*

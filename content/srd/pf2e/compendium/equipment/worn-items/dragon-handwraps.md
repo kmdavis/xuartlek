@@ -9,6 +9,7 @@ tags:
 aliases: ["Dragon Handwraps"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2138"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Dragon Handwraps  *Item 20*

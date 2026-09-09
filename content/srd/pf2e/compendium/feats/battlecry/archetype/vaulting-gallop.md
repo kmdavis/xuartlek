@@ -7,6 +7,7 @@ tags:
 aliases: ["Vaulting Gallop"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7989"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Vaulting Gallop  *Feat 6*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

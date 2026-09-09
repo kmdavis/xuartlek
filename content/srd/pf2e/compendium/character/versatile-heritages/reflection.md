@@ -7,6 +7,7 @@ tags:
 aliases: ["Reflection"]
 aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=97"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Reflection  *Versatile Heritage*

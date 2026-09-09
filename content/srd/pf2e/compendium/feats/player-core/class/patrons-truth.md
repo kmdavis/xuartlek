@@ -7,6 +7,7 @@ tags:
 aliases: ["Patron's Truth"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5022"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Patron's Truth  *Feat 20*

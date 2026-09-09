@@ -7,6 +7,7 @@ tags:
 aliases: ["Wind God's Fan"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5687"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Wind God's Fan  *Feat 9*

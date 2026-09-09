@@ -8,6 +8,7 @@ tags:
 aliases: ["Invisibility"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2790"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Invisibility  *Item 8+*

@@ -8,6 +8,7 @@ tags:
 aliases: ["The Taste of Magic"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9341"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # The Taste of Magic  *Feat 4*

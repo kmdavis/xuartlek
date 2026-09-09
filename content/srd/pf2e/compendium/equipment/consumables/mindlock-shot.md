@@ -8,6 +8,7 @@ tags:
 aliases: ["Mindlock Shot"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2055"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mindlock Shot  *Item 11*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Mender's Soup"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1922"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mender's Soup  *Item 2*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Wind Jump"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6022"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Wind Jump  *Feat 10*

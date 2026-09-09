@@ -8,6 +8,7 @@ tags:
 aliases: ["Dazzling Shortbow"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3841"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Dazzling Shortbow  *Item 5*

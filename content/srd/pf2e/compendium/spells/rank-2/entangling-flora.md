@@ -10,6 +10,7 @@ tags:
 aliases: ["Entangling Flora"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1515"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Entangling Flora  *Spell 2*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

@@ -6,6 +6,7 @@ tags:
 aliases: ["Shared Reflexes"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=77"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Shared Reflexes  *Class Feature 9*

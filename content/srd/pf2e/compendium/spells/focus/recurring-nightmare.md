@@ -12,6 +12,7 @@ tags:
 aliases: ["Recurring Nightmare"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2906"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Recurring Nightmare  *Focus 7*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

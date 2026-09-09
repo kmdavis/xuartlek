@@ -7,6 +7,7 @@ tags:
 aliases: ["Harbinger's Protection"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7509"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Harbinger's Protection  *Feat 6*

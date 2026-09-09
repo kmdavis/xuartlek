@@ -8,6 +8,7 @@ tags:
 aliases: ["Primeval Mistletoe"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3100"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Primeval Mistletoe  *Item 6+*

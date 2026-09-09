@@ -8,6 +8,7 @@ tags:
 aliases: ["Reverse Engineering"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6406"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Reverse Engineering  *Feat 4*

@@ -14,6 +14,7 @@ tags:
 aliases: ["Rebuke Death"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1809"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Rebuke Death  *Focus 4*  [?](books/player-core/chapter-8-playing-the-game/actions#Actions "Varies")

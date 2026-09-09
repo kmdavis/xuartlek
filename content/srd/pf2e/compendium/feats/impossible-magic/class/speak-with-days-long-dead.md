@@ -8,6 +8,7 @@ tags:
 aliases: ["Speak with Days Long Dead"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9136"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Speak with Days Long Dead  *Feat 10*

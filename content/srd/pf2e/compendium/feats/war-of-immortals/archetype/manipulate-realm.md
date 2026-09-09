@@ -7,6 +7,7 @@ tags:
 aliases: ["Manipulate Realm"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7323"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Manipulate Realm  *Feat 14*

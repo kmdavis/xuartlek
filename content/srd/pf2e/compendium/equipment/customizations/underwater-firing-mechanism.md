@@ -8,6 +8,7 @@ tags:
 aliases: ["Underwater Firing Mechanism"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1224"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Underwater Firing Mechanism  *Item 9*

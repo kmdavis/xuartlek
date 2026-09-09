@@ -6,6 +6,7 @@ tags:
 aliases: ["Disarm"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=577"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Disarm  *Trait*

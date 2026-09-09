@@ -7,6 +7,7 @@ tags:
 aliases: ["Hardy Traveler"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4486"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Hardy Traveler  *Feat 9*

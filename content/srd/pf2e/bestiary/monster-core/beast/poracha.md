@@ -11,6 +11,7 @@ name: "Poracha"
 level: 4
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3143"
+socialImage: og-image.png
 ---
 
 ```statblock

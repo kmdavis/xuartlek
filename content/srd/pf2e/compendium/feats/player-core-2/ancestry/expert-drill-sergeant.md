@@ -7,6 +7,7 @@ tags:
 aliases: ["Expert Drill Sergeant"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5578"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Expert Drill Sergeant  *Feat 5*

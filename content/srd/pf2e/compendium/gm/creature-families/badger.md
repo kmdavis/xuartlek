@@ -5,6 +5,7 @@ tags:
 aliases: ["Badger"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=573"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Badger  *Creature Family*

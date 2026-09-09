@@ -10,6 +10,7 @@ tags:
 aliases: ["Gun Sword (Ranged)"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=218"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Gun Sword (Ranged)  *Weapon 1*

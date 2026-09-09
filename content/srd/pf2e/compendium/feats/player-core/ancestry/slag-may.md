@@ -8,6 +8,7 @@ tags:
 aliases: ["Slag May"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4533"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Slag May  *Feat 1*

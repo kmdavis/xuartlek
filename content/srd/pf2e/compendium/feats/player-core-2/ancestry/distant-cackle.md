@@ -8,6 +8,7 @@ tags:
 aliases: ["Distant Cackle"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5597"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Distant Cackle  *Feat 5*

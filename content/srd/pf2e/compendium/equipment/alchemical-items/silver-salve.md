@@ -8,6 +8,7 @@ tags:
 aliases: ["Silver Salve"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3358"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Silver Salve  *Item 2*

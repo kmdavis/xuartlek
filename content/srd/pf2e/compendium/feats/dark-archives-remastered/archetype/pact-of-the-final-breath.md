@@ -9,6 +9,7 @@ tags:
 aliases: ["Pact of the Final Breath"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8468"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Pact of the Final Breath  *Feat 12*

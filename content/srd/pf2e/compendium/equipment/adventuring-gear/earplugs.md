@@ -6,6 +6,7 @@ tags:
 aliases: ["Earplugs"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1203"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Earplugs  *Item 0*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Time Pocket"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2610"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Time Pocket  *Spell 3*

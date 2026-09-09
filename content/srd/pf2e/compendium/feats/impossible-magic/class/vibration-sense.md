@@ -8,6 +8,7 @@ tags:
 aliases: ["Vibration Sense"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9243"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Vibration Sense  *Feat 4*

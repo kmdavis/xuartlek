@@ -14,6 +14,7 @@ tags:
 aliases: ["Dash of Herbs"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4287"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Dash of Herbs  *Feat 6*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

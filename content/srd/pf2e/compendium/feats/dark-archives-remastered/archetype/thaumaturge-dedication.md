@@ -9,6 +9,7 @@ tags:
 aliases: ["Thaumaturge Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8398"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Thaumaturge Dedication  *Feat 2*

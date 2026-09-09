@@ -11,6 +11,7 @@ tags:
 aliases: ["Soul Thief"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9167"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Soul Thief  *Feat 20*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

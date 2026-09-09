@@ -7,6 +7,7 @@ tags:
 aliases: ["Exalted Greatness"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7524"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Exalted Greatness  *Feat 14*

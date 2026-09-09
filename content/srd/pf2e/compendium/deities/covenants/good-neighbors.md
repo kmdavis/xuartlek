@@ -5,6 +5,7 @@ tags:
 aliases: ["Good Neighbors"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=368"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Good Neighbors  *Deity*

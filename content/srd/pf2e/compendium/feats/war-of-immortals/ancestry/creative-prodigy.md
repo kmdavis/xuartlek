@@ -7,6 +7,7 @@ tags:
 aliases: ["Creative Prodigy"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7199"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Creative Prodigy  *Feat 1*

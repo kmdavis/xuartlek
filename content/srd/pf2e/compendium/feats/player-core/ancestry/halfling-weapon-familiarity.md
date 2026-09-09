@@ -7,6 +7,7 @@ tags:
 aliases: ["Halfling Weapon Familiarity"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4459"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Halfling Weapon Familiarity  *Feat 1*

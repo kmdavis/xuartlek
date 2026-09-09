@@ -6,6 +6,7 @@ tags:
 aliases: ["Initial Proficiencies"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=19"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Initial Proficiencies  *Class Feature 1*

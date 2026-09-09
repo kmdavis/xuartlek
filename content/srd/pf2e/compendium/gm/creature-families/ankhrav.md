@@ -5,6 +5,7 @@ tags:
 aliases: ["Ankhrav"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=361"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Ankhrav  *Creature Family*

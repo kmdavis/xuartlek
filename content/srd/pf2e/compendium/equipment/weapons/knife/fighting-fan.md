@@ -12,6 +12,7 @@ tags:
 aliases: ["Fighting Fan"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=284"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Fighting Fan  *Weapon 0*

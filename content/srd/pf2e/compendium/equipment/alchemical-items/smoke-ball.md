@@ -8,6 +8,7 @@ tags:
 aliases: ["Smoke Ball"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3360"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Smoke Ball  *Item 1+*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Incarnate Skeletal Giant"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2743"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Incarnate Skeletal Giant  *Spell 5*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

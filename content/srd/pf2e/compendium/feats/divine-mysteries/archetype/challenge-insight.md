@@ -8,6 +8,7 @@ tags:
 aliases: ["Challenge Insight"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7562"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Challenge Insight  *Feat 8*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

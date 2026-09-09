@@ -5,6 +5,7 @@ tags:
 - compendium/src/pf2e/player-core
 aliases: ["Weapon Groups"]
 entries: 17
+socialImage: og-image.png
 ---
 
 # Weapon Groups

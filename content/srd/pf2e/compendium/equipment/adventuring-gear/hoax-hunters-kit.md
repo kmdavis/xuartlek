@@ -7,6 +7,7 @@ tags:
 aliases: ["Hoax-Hunter's Kit"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4115"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Hoax-Hunter's Kit  *Item 3*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Breath of Vital Ash"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7171"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Breath of Vital Ash  *Feat 10*

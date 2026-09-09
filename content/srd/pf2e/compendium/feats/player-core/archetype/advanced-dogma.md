@@ -7,6 +7,7 @@ tags:
 aliases: ["Advanced Dogma"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5069"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Advanced Dogma  *Feat 6*

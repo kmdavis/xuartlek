@@ -5,6 +5,7 @@ tags:
 aliases: ["Twinned"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=28"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Twinned  *Creature Adjustment*

@@ -9,6 +9,7 @@ tags:
 aliases: ["500 Toads"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2335"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # 500 Toads  *Spell 1*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

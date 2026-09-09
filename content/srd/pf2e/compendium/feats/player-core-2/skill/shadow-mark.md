@@ -8,6 +8,7 @@ tags:
 aliases: ["Shadow Mark"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6503"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Shadow Mark  *Feat 2*

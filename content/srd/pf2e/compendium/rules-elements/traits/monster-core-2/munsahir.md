@@ -6,6 +6,7 @@ tags:
 aliases: ["Munsahir"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=869"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Munsahir  *Trait*

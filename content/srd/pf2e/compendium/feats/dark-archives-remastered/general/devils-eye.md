@@ -9,6 +9,7 @@ tags:
 aliases: ["Devil's Eye"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8404"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Devil's Eye  *Feat 4*

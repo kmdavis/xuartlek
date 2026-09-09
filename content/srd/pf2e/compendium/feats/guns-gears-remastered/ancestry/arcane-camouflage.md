@@ -7,6 +7,7 @@ tags:
 aliases: ["Arcane Camouflage"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3099"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Arcane Camouflage  *Feat 9*

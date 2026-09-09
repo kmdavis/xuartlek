@@ -7,6 +7,7 @@ tags:
 aliases: ["Secure Siege Weapons"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=214"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Secure Siege Weapons  *Ritual 3*

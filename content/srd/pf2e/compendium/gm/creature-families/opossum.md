@@ -5,6 +5,7 @@ tags:
 aliases: ["Opossum"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=613"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Opossum  *Creature Family*

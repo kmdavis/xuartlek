@@ -7,6 +7,7 @@ tags:
 aliases: ["Shared Overdrive"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3077"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Shared Overdrive  *Feat 12*

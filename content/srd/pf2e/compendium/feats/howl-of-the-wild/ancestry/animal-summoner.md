@@ -7,6 +7,7 @@ tags:
 aliases: ["Animal Summoner"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5314"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Animal Summoner  *Feat 9*

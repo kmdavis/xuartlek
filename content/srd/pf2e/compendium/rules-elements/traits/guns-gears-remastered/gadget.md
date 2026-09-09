@@ -6,6 +6,7 @@ tags:
 aliases: ["Gadget"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=405"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Gadget  *Trait*

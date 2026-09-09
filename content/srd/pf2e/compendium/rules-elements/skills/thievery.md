@@ -5,6 +5,7 @@ tags:
 aliases: ["Thievery"]
 aon_url: "https://2e.aonprd.com/Skills.aspx?ID=50"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Thievery  *Skill*

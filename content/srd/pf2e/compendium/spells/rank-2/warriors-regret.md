@@ -11,6 +11,7 @@ tags:
 aliases: ["Warrior's Regret"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2861"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Warrior's Regret  *Spell 2*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

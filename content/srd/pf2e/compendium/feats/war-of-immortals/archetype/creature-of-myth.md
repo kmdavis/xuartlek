@@ -7,6 +7,7 @@ tags:
 aliases: ["Creature of Myth"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7354"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Creature of Myth  *Feat 18*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Primalist"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=547"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Primalist  *Creature Family*

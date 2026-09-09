@@ -9,6 +9,7 @@ tags:
 aliases: ["Stand Firm"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7368"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Stand Firm  *Feat 16*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

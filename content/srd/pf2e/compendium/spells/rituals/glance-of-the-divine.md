@@ -7,6 +7,7 @@ tags:
 aliases: ["Glance of the Divine"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=254"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Glance of the Divine  *Ritual 2*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Troll"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=478"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Troll  *Creature Family*

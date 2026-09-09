@@ -9,6 +9,7 @@ tags:
 aliases: ["Messenger Missive"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2064"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Messenger Missive  *Item 4+*

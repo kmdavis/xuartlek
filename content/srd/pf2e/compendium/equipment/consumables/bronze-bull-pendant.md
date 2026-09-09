@@ -9,6 +9,7 @@ tags:
 aliases: ["Bronze Bull Pendant"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2966"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Bronze Bull Pendant  *Item 2*

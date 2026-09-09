@@ -10,6 +10,7 @@ tags:
 aliases: ["Bloodburn Censer"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2600"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Bloodburn Censer  *Item 13*

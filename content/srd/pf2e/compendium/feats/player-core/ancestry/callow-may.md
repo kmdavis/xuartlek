@@ -8,6 +8,7 @@ tags:
 aliases: ["Callow May"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4531"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Callow May  *Feat 1*

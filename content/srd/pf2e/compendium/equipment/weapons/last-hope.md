@@ -8,6 +8,7 @@ tags:
 aliases: ["Last Hope"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3853"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Last Hope  *Item 16*

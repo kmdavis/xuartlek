@@ -5,6 +5,7 @@ tags:
 aliases: ["Elemental, Fire"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=410"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Elemental, Fire  *Creature Family*

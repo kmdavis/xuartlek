@@ -13,6 +13,7 @@ name: "Sceaduinar"
 level: 7
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4540"
+socialImage: og-image.png
 ---
 
 ```statblock

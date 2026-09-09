@@ -8,6 +8,7 @@ tags:
 aliases: ["Leap the Falls"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7159"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Leap the Falls  *Feat 2*

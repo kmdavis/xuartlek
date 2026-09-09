@@ -9,6 +9,7 @@ tags:
 aliases: ["Chromatic Jellyfish Oil"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1959"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Chromatic Jellyfish Oil  *Item 9+*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Revitalizing Rage"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=57"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Revitalizing Rage  *Class Feature 17*

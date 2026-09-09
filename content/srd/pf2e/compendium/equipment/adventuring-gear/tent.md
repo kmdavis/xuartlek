@@ -6,6 +6,7 @@ tags:
 aliases: ["Tent"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2757"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Tent  *Item 0+*

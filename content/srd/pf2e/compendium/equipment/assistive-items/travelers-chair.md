@@ -6,6 +6,7 @@ tags:
 aliases: ["Traveler's Chair"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1161"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Traveler's Chair  *Item 1*

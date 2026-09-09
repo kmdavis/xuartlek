@@ -8,6 +8,7 @@ tags:
 aliases: ["Straveika"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5713"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Straveika  *Feat 1*

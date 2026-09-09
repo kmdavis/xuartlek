@@ -7,6 +7,7 @@ tags:
 aliases: ["Mythic Weapon Specialization"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7387"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Mythic Weapon Specialization  *Feat 18*

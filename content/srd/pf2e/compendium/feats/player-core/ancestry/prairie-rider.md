@@ -7,6 +7,7 @@ tags:
 aliases: ["Prairie Rider"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4460"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Prairie Rider  *Feat 1*

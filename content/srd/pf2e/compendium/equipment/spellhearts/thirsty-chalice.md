@@ -8,6 +8,7 @@ tags:
 aliases: ["Thirsty Chalice"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5159"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Thirsty Chalice  *Item 3+*

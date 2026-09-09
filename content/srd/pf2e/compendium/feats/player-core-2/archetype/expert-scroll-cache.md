@@ -7,6 +7,7 @@ tags:
 aliases: ["Expert Scroll Cache"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6403"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Expert Scroll Cache  *Feat 12*

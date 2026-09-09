@@ -10,6 +10,7 @@ tags:
 aliases: ["Repulsion"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1650"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Repulsion  *Spell 6*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

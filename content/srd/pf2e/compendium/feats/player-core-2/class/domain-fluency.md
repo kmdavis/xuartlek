@@ -7,6 +7,7 @@ tags:
 aliases: ["Domain Fluency"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6074"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Domain Fluency  *Feat 12*

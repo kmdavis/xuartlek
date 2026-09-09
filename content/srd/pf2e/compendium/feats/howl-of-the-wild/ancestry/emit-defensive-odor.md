@@ -10,6 +10,7 @@ tags:
 aliases: ["Emit Defensive Odor"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5278"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Emit Defensive Odor  *Feat 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

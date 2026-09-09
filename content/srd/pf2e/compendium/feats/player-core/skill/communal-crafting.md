@@ -8,6 +8,7 @@ tags:
 aliases: ["Communal Crafting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5135"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Communal Crafting  *Feat 2*

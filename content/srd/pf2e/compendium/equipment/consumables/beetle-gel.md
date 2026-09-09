@@ -10,6 +10,7 @@ tags:
 aliases: ["Beetle Gel"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5089"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Beetle Gel  *Item 2+*

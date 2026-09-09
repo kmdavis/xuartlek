@@ -9,6 +9,7 @@ tags:
 aliases: ["Obfuscation Oil"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2932"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Obfuscation Oil  *Item 15*

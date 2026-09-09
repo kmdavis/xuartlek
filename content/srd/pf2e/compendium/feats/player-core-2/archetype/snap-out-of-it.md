@@ -10,6 +10,7 @@ tags:
 aliases: ["Snap Out of It!"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6354"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Snap Out of It!  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

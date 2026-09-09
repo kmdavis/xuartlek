@@ -8,6 +8,7 @@ tags:
 aliases: ["Shadow Spy"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2580"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Shadow Spy  *Spell 3*

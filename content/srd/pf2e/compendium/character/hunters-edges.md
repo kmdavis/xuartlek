@@ -5,6 +5,7 @@ tags:
 - compendium/src/pf2e/war-of-immortals
 aliases: ["Hunters Edges"]
 entries: 4
+socialImage: og-image.png
 ---
 
 # Hunters Edges

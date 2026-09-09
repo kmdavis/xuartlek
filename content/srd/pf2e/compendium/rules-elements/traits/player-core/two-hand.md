@@ -6,6 +6,7 @@ tags:
 aliases: ["Two-Hand"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=718"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Two-Hand  *Trait*

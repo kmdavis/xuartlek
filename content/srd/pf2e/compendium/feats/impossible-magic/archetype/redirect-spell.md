@@ -7,6 +7,7 @@ tags:
 aliases: ["Redirect Spell"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9362"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Redirect Spell  *Feat 12*

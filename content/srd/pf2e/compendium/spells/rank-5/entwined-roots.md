@@ -9,6 +9,7 @@ tags:
 aliases: ["Entwined Roots"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1400"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Entwined Roots  *Spell 5*

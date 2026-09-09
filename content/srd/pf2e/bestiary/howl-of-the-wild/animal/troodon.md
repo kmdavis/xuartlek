@@ -11,6 +11,7 @@ name: "Troodon"
 level: 1
 source: "Howl of the Wild"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3260"
+socialImage: og-image.png
 ---
 
 ```statblock

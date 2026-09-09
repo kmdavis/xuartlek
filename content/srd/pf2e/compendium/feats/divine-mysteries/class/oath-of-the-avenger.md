@@ -8,6 +8,7 @@ tags:
 aliases: ["Oath of The Avenger"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7517"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Oath of The Avenger  *Feat 2*

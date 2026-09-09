@@ -5,6 +5,7 @@ tags:
 aliases: ["Ardad Lili"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=588"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Ardad Lili  *Deity*

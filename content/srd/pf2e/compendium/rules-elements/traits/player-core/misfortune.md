@@ -6,6 +6,7 @@ tags:
 aliases: ["Misfortune"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=654"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Misfortune  *Trait*

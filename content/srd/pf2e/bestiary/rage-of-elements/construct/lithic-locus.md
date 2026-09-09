@@ -14,6 +14,7 @@ name: "Lithic Locus"
 level: 14
 source: "Rage of Elements"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2628"
+socialImage: og-image.png
 ---
 
 ```statblock

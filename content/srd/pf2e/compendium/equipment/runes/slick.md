@@ -7,6 +7,7 @@ tags:
 aliases: ["Slick"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2794"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Slick  *Item 5+*

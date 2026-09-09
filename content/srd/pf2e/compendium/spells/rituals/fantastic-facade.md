@@ -8,6 +8,7 @@ tags:
 aliases: ["Fantastic Facade"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=146"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Fantastic Facade  *Ritual 9*

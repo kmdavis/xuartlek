@@ -9,6 +9,7 @@ tags:
 aliases: ["Crackling Bubble Gum"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1912"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Crackling Bubble Gum  *Item 5+*

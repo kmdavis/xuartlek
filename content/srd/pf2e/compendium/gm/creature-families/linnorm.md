@@ -5,6 +5,7 @@ tags:
 aliases: ["Linnorm"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=439"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Linnorm  *Creature Family*

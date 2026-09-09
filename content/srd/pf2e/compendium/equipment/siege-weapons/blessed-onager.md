@@ -10,6 +10,7 @@ tags:
 aliases: ["Blessed Onager"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=48"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Blessed Onager  *Siege Weapon 10*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Acute Vision"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5806"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Acute Vision  *Feat 1*

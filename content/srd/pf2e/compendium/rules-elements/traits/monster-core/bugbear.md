@@ -6,6 +6,7 @@ tags:
 aliases: ["Bugbear"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=744"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Bugbear  *Trait*

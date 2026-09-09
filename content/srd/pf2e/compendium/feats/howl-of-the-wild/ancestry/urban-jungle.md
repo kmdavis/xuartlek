@@ -7,6 +7,7 @@ tags:
 aliases: ["Urban Jungle"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5312"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Urban Jungle  *Feat 5*

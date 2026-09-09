@@ -5,6 +5,7 @@ tags:
 aliases: ["Xulgath"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=486"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Xulgath  *Creature Family*

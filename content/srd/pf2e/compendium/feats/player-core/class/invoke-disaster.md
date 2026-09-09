@@ -7,6 +7,7 @@ tags:
 aliases: ["Invoke Disaster"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4762"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Invoke Disaster  *Feat 18*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Storyteller's Opus"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5134"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Storyteller's Opus  *Item 6*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Champion's Reaction"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6201"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Champion's Reaction  *Feat 6*

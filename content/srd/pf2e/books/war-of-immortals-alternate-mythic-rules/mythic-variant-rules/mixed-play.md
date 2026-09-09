@@ -9,6 +9,7 @@ tags:
 source: "War of Immortals Alternate Mythic Rules"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3344"
 citation: "War of Immortals Alternate Mythic Rules pg. 2"
+socialImage: og-image.png
 ---
 
 # Mixed Play

@@ -7,6 +7,7 @@ tags:
 aliases: ["Uplifting Overture"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4587"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Uplifting Overture  *Feat 2*

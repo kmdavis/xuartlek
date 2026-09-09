@@ -6,6 +6,7 @@ tags:
 aliases: ["Ghoul"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=754"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Ghoul  *Trait*

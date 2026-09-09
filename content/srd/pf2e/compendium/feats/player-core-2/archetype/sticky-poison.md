@@ -7,6 +7,7 @@ tags:
 aliases: ["Sticky Poison"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5781"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Sticky Poison  *Feat 6*

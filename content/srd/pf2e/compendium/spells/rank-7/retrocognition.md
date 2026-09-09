@@ -8,6 +8,7 @@ tags:
 aliases: ["Retrocognition"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1652"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Retrocognition  *Spell 7*

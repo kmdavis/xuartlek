@@ -6,6 +6,7 @@ tags:
 aliases: ["Cookware"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2717"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Cookware  *Item 0*

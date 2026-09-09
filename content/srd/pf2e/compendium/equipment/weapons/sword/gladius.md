@@ -9,6 +9,7 @@ tags:
 aliases: ["Gladius"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=510"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Gladius  *Weapon 0*

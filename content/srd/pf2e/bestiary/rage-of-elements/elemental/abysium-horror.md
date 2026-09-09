@@ -11,6 +11,7 @@ name: "Abysium Horror"
 level: 10
 source: "Rage of Elements"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2652"
+socialImage: og-image.png
 ---
 
 ```statblock

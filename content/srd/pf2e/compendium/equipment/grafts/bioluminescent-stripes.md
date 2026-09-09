@@ -10,6 +10,7 @@ tags:
 aliases: ["Bioluminescent Stripes"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3178"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Bioluminescent Stripes  *Item 1*

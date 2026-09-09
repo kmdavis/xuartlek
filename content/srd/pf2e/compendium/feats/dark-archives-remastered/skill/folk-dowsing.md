@@ -9,6 +9,7 @@ tags:
 aliases: ["Folk Dowsing"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8429"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Folk Dowsing  *Feat 3*

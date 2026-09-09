@@ -8,6 +8,7 @@ tags:
 aliases: ["Mending"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1597"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Mending  *Spell 1*

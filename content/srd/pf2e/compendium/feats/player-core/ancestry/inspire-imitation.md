@@ -8,6 +8,7 @@ tags:
 aliases: ["Inspire Imitation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4569"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Inspire Imitation  *Feat 5*

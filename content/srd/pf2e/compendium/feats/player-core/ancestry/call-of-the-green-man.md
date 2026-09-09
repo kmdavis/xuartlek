@@ -7,6 +7,7 @@ tags:
 aliases: ["Call of the Green Man"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4508"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Call of the Green Man  *Feat 13*

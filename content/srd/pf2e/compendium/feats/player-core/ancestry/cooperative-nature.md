@@ -7,6 +7,7 @@ tags:
 aliases: ["Cooperative Nature"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4475"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Cooperative Nature  *Feat 1*

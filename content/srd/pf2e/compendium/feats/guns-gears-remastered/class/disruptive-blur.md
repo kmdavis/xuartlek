@@ -7,6 +7,7 @@ tags:
 aliases: ["Disruptive Blur"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3200"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Disruptive Blur  *Feat 14*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Swimmer's Guidance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5347"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Swimmer's Guidance  *Feat 1*

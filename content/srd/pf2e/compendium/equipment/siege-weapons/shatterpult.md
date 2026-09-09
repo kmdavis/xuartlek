@@ -8,6 +8,7 @@ tags:
 aliases: ["Shatterpult"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=60"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Shatterpult  *Siege Weapon 9*

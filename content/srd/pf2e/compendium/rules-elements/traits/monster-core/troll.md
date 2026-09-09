@@ -6,6 +6,7 @@ tags:
 aliases: ["Troll"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=777"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Troll  *Trait*

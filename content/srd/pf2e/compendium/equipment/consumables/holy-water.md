@@ -10,6 +10,7 @@ tags:
 aliases: ["Holy Water"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3001"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Holy Water  *Item 1*

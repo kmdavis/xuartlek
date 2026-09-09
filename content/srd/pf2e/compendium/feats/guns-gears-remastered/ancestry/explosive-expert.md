@@ -8,6 +8,7 @@ tags:
 aliases: ["Explosive Expert"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3290"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Explosive Expert  *Feat 13*

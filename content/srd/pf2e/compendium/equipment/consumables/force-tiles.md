@@ -9,6 +9,7 @@ tags:
 aliases: ["Force Tiles"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5052"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Force Tiles  *Item 13*

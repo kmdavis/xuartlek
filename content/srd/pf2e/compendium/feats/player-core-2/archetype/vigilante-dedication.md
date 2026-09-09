@@ -9,6 +9,7 @@ tags:
 aliases: ["Vigilante Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6424"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Vigilante Dedication  *Feat 2*

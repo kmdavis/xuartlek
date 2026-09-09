@@ -6,6 +6,7 @@ tags:
 aliases: ["Poisoner"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=259"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Poisoner  *Archetype 2*

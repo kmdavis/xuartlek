@@ -9,6 +9,7 @@ tags:
 aliases: ["Tradecraft Tattoo"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2220"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Tradecraft Tattoo  *Item 9+*

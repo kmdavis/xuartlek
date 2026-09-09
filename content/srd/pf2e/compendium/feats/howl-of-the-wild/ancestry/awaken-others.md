@@ -8,6 +8,7 @@ tags:
 aliases: ["Awaken Others"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5316"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Awaken Others  *Feat 13*

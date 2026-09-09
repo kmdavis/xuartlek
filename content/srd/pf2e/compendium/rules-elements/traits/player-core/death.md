@@ -6,6 +6,7 @@ tags:
 aliases: ["Death"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=571"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Death  *Trait*

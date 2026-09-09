@@ -6,6 +6,7 @@ tags:
 aliases: ["Exalted Reaction"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=58"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Exalted Reaction  *Class Feature 11*

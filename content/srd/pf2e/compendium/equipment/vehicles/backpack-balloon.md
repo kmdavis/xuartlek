@@ -7,6 +7,7 @@ tags:
 aliases: ["Backpack Balloon"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=117"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Backpack Balloon  *Vehicle 6*

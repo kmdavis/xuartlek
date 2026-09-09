@@ -11,6 +11,7 @@ tags:
 aliases: ["Share Vision"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2434"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Share Vision  *Cantrip 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

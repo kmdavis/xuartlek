@@ -6,6 +6,7 @@ tags:
 aliases: ["Sanctified"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=519"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Sanctified  *Trait*

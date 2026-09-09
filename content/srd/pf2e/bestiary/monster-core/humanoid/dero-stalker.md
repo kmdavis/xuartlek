@@ -11,6 +11,7 @@ name: "Dero Stalker"
 level: 2
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2902"
+socialImage: og-image.png
 ---
 
 ```statblock

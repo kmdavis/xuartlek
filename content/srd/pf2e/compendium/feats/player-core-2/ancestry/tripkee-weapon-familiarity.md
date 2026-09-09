@@ -7,6 +7,7 @@ tags:
 aliases: ["Tripkee Weapon Familiarity"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5699"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Tripkee Weapon Familiarity  *Feat 1*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Tetsubo"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=493"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Tetsubo  *Weapon 0*

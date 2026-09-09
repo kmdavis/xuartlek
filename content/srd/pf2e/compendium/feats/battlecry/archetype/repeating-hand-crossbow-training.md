@@ -7,6 +7,7 @@ tags:
 aliases: ["Repeating Hand Crossbow Training"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7915"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Repeating Hand Crossbow Training  *Feat 4*

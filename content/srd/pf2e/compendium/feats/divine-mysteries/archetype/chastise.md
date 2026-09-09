@@ -9,6 +9,7 @@ tags:
 aliases: ["Chastise"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7535"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Chastise  *Feat 16*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

@@ -7,6 +7,7 @@ tags:
 aliases: ["Poisoner's Twist"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6383"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Poisoner's Twist  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

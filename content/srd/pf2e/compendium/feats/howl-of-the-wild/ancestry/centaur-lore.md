@@ -7,6 +7,7 @@ tags:
 aliases: ["Centaur Lore"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5322"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Centaur Lore  *Feat 1*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Vampiric Spell"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9112"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Vampiric Spell  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

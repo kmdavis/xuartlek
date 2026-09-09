@@ -7,6 +7,7 @@ tags:
 aliases: ["Unbound Leaper"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5712"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Unbound Leaper  *Feat 17*

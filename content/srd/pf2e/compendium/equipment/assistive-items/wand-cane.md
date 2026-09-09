@@ -8,6 +8,7 @@ tags:
 aliases: ["Wand Cane"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2154"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wand Cane  *Item 4*

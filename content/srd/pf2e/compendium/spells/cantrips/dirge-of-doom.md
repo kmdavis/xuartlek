@@ -14,6 +14,7 @@ tags:
 aliases: ["Dirge of Doom"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1764"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Dirge of Doom  *Cantrip 3*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

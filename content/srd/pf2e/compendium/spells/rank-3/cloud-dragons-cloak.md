@@ -8,6 +8,7 @@ tags:
 aliases: ["Cloud Dragon's Cloak"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1314"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Cloud Dragon's Cloak  *Spell 3*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

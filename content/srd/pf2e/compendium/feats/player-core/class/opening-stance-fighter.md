@@ -7,6 +7,7 @@ tags:
 aliases: ["Opening Stance (Fighter)"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4845"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Opening Stance (Fighter)  *Feat 14*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

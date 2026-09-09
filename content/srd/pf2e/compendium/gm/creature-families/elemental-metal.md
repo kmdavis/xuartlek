@@ -5,6 +5,7 @@ tags:
 aliases: ["Elemental, Metal"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=343"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Elemental, Metal  *Creature Family*

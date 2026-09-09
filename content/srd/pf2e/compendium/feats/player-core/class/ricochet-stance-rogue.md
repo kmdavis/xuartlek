@@ -8,6 +8,7 @@ tags:
 aliases: ["Ricochet Stance (Rogue)"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4956"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Ricochet Stance (Rogue)  *Feat 8*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

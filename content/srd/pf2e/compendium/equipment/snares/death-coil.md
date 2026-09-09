@@ -12,6 +12,7 @@ tags:
 aliases: ["Death Coil"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1125"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Death Coil  *Item 20*

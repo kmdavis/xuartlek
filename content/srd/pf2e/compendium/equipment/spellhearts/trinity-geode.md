@@ -9,6 +9,7 @@ tags:
 aliases: ["Trinity Geode"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5160"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Trinity Geode  *Item 3+*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Glass Shield"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1333"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Glass Shield  *Cantrip 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

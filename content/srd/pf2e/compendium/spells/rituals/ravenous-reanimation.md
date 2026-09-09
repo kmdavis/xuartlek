@@ -8,6 +8,7 @@ tags:
 aliases: ["Ravenous Reanimation"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=224"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Ravenous Reanimation  *Ritual 7*

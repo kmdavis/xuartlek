@@ -8,6 +8,7 @@ tags:
 aliases: ["Ring of Sigils"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3105"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Ring of Sigils  *Item 1+*

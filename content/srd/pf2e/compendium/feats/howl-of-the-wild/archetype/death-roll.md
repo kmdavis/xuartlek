@@ -7,6 +7,7 @@ tags:
 aliases: ["Death Roll"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5492"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Death Roll  *Feat 6*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

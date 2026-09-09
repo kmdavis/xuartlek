@@ -7,6 +7,7 @@ tags:
 aliases: ["Awakened Animal Lore"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5297"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Awakened Animal Lore  *Feat 1*

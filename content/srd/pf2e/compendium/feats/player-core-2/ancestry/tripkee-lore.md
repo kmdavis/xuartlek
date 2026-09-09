@@ -7,6 +7,7 @@ tags:
 aliases: ["Tripkee Lore"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5698"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Tripkee Lore  *Feat 1*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Esoterica"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=899"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Esoterica  *Trait*

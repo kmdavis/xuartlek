@@ -9,6 +9,7 @@ tags:
 aliases: ["Lucky Draw Bandolier"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1211"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Lucky Draw Bandolier  *Item 9+*

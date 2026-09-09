@@ -9,13 +9,14 @@ tags:
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3438"
 citation: "Battlecry! pg. 203"
+socialImage: og-image.png
 ---
 
 # Being in Command
 
 <sup>BC p. 203</sup>
 
-When the characters reach a point in their military career where they’re given command over soldiers of their own or if circumstances arise that require the characters take part in larger-scale battles, consider the new [[srd/pf2e/books/battlecry/skirmish-units/index|skirmish warfare subsystem]].
+When the characters reach a point in their military career where they’re given command over soldiers of their own or if circumstances arise that require the characters take part in larger-scale battles, consider the new [[srd/pf2e/books/battlecry/skirmish-units/skirmish-units|skirmish warfare subsystem]].
 
 This subsystem allows players to take control and act alongside troop creatures, usually in encounters against other troops and their leaders. These encounters function very similarly to standard encounters and can represent the tumult of armies clashing against each other. The section contains advice for GMs about creating and running such encounters. In addition, a plethora of troop stat blocks usable with this subsystem as both allies and enemies begins [[srd/pf2e/compendium/rules-elements/traits/npc-core/troop|here]]. That section also includes a table of troop stat blocks found in other sources to date.
 

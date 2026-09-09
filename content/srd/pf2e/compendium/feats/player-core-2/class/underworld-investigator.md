@@ -7,6 +7,7 @@ tags:
 aliases: ["Underworld Investigator"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5939"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Underworld Investigator  *Feat 1*

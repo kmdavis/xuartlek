@@ -7,6 +7,7 @@ tags:
 aliases: ["Cremate Undead"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4667"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Cremate Undead  *Feat 8*

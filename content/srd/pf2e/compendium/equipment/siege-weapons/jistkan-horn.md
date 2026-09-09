@@ -8,6 +8,7 @@ tags:
 aliases: ["Jistkan Horn"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=55"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Jistkan Horn  *Siege Weapon 13*

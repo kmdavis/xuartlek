@@ -7,6 +7,7 @@ tags:
 aliases: ["Unwavering Mien"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4411"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Unwavering Mien  *Feat 1*

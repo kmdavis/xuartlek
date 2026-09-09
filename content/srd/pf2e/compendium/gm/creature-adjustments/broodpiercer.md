@@ -5,6 +5,7 @@ tags:
 aliases: ["Broodpiercer"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=30"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Broodpiercer  *Creature Adjustment*

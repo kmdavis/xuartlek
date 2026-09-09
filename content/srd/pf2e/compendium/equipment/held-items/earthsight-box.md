@@ -9,6 +9,7 @@ tags:
 aliases: ["Earthsight Box"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3417"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Earthsight Box  *Item 9*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Arcane Breadth"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5111"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Arcane Breadth  *Feat 8*

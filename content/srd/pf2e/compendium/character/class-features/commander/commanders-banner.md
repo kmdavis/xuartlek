@@ -6,6 +6,7 @@ tags:
 aliases: ["Commander's Banner"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=66"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Commander's Banner  *Class Feature 1*

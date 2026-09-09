@@ -7,6 +7,7 @@ tags:
 aliases: ["Skeleton Key"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3030"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Skeleton Key  *Item 5+*

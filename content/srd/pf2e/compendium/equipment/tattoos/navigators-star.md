@@ -9,6 +9,7 @@ tags:
 aliases: ["Navigator's Star"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2212"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Navigator's Star  *Item 1*

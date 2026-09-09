@@ -8,6 +8,7 @@ tags:
 aliases: ["Shuln Fang Katar"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3208"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Shuln Fang Katar  *Item 12*

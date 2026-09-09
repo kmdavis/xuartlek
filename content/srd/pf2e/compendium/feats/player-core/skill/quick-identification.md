@@ -8,6 +8,7 @@ tags:
 aliases: ["Quick Identification"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5195"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Quick Identification  *Feat 1*

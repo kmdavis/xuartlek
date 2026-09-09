@@ -8,6 +8,7 @@ tags:
 aliases: ["Epiphany at the Crossroads"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6075"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Epiphany at the Crossroads  *Feat 12*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

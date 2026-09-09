@@ -6,6 +6,7 @@ tags:
 aliases: ["Offensive Boost"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=19"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Offensive Boost  *Class Feature 9*

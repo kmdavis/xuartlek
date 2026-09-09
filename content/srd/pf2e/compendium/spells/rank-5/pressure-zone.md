@@ -9,6 +9,7 @@ tags:
 aliases: ["Pressure Zone"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1318"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Pressure Zone  *Spell 5*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

@@ -14,6 +14,7 @@ tags:
 aliases: ["Dreamer's Call"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1797"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Dreamer's Call  *Focus 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

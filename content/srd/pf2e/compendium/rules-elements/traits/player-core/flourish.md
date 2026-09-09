@@ -6,6 +6,7 @@ tags:
 aliases: ["Flourish"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=606"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Flourish  *Trait*

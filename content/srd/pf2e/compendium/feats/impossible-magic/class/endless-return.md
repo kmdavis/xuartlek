@@ -7,6 +7,7 @@ tags:
 aliases: ["Endless Return"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9139"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Endless Return  *Feat 12*

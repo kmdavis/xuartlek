@@ -10,6 +10,7 @@ tags:
 aliases: ["Signaling Snare"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3383"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Signaling Snare  *Item 1*

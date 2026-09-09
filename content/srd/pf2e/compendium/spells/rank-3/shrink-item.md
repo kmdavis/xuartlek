@@ -9,6 +9,7 @@ tags:
 aliases: ["Shrink Item"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2026"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Shrink Item  *Spell 3*

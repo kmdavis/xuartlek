@@ -14,6 +14,7 @@ tags:
 aliases: ["You're Mine"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2113"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # You're Mine  *Focus 5*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

@@ -9,6 +9,7 @@ tags:
 aliases: ["Sun Dazzler"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1984"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sun Dazzler  *Item 8*

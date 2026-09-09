@@ -12,6 +12,7 @@ tags:
 aliases: ["Illusory Creature"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1567"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Illusory Creature  *Spell 2*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

@@ -5,6 +5,7 @@ tags:
 aliases: ["The Devourer"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=339"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # The Devourer  *Deity*

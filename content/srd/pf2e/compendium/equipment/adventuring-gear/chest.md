@@ -6,6 +6,7 @@ tags:
 aliases: ["Chest"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2712"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Chest  *Item 0*

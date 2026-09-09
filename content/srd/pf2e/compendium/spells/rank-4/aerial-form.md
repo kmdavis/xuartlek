@@ -9,6 +9,7 @@ tags:
 aliases: ["Aerial Form"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1437"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Aerial Form  *Spell 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

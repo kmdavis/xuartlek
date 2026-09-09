@@ -10,6 +10,7 @@ tags:
 aliases: ["Shooting Star"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2883"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Shooting Star  *Focus 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

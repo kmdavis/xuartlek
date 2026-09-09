@@ -7,6 +7,7 @@ tags:
 aliases: ["Smooth Hover"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5537"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Smooth Hover  *Feat 12*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

@@ -10,6 +10,7 @@ tags:
 aliases: ["Mourner's Dawnlight Fulu"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2039"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mourner's Dawnlight Fulu  *Item 9*

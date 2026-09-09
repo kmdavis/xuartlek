@@ -9,6 +9,7 @@ tags:
 aliases: ["Tooth and Claw Tattoo"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2219"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Tooth and Claw Tattoo  *Item 6+*

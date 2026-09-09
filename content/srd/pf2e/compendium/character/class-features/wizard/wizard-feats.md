@@ -6,6 +6,7 @@ tags:
 aliases: ["Wizard Feats"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=39"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Wizard Feats  *Class Feature 2*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Tethered"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=804"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Tethered  *Trait*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Adamantine"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2915"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Adamantine  *Item 8+*

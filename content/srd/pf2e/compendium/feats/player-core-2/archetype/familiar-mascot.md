@@ -7,6 +7,7 @@ tags:
 aliases: ["Familiar Mascot"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6329"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Familiar Mascot  *Feat 4*

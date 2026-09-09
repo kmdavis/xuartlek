@@ -5,6 +5,7 @@ tags:
 - compendium/src/pf2e/treasure-vault-remastered
 aliases: ["Shields"]
 entries: 16
+socialImage: og-image.png
 ---
 
 # Shields

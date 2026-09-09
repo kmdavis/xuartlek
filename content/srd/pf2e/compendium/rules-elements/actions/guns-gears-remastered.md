@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/guns-gears-remastered
 aliases: ["Actions: Guns & Gears (Remastered)"]
 entries: 26
+socialImage: og-image.png
 ---
 
 # Actions: Guns & Gears (Remastered)

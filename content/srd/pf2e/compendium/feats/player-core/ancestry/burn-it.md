@@ -7,6 +7,7 @@ tags:
 aliases: ["Burn It!"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4438"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Burn It!  *Feat 1*

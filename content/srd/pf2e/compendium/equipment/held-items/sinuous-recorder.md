@@ -7,6 +7,7 @@ tags:
 aliases: ["Sinuous Recorder"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3946"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Sinuous Recorder  *Item 5*

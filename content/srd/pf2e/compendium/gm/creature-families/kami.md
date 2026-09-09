@@ -5,6 +5,7 @@ tags:
 aliases: ["Kami"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=604"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Kami  *Creature Family*

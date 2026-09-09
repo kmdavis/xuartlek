@@ -9,6 +9,7 @@ tags:
 aliases: ["Faith Tattoo"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2207"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Faith Tattoo  *Item 4+*

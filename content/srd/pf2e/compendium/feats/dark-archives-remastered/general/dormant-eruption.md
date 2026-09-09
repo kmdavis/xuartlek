@@ -10,6 +10,7 @@ tags:
 aliases: ["Dormant Eruption"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8412"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Dormant Eruption  *Feat 14*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Mistaken Identity"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8438"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mistaken Identity  *Feat 5*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

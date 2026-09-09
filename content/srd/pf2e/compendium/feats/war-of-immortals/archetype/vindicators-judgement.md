@@ -7,6 +7,7 @@ tags:
 aliases: ["Vindicator's Judgement"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7259"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Vindicator's Judgement  *Feat 10*

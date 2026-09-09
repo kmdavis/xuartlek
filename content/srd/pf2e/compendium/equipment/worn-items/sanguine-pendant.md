@@ -9,6 +9,7 @@ tags:
 aliases: ["Sanguine Pendant"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3438"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Sanguine Pendant  *Item 10+*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Emissary Familiar"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7572"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Emissary Familiar  *Feat 4*

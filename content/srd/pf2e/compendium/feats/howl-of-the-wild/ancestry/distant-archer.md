@@ -7,6 +7,7 @@ tags:
 aliases: ["Distant Archer"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5328"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Distant Archer  *Feat 5*

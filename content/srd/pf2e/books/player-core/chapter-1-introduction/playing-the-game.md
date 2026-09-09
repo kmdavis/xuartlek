@@ -9,6 +9,7 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2005"
 citation: "Player Core pg. 8"
+socialImage: og-image.png
 ---
 
 # Playing the Game
@@ -63,7 +64,7 @@ During encounters, each creature gets three [[srd/pf2e/books/player-core/chapter
 
 ### Ancestry
 
-An ancestry is the broad family of people that a character belongs to. Ancestry determines a character's starting [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Hit Points|Hit Points]], [[srd/pf2e/books/player-core/chapter-2-ancestries-backgrounds/languages|languages]], [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Senses|senses]], and [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Speed|Speed]], and it grants access to ancestry feats. Ancestries can be found in [[srd/pf2e/books/player-core/chapter-2-ancestries-backgrounds/index|Chapter 2]].
+An ancestry is the broad family of people that a character belongs to. Ancestry determines a character's starting [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Hit Points|Hit Points]], [[srd/pf2e/books/player-core/chapter-2-ancestries-backgrounds/languages|languages]], [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Senses|senses]], and [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Speed|Speed]], and it grants access to ancestry feats. Ancestries can be found in [[srd/pf2e/books/player-core/chapter-2-ancestries-backgrounds/chapter-2-ancestries-backgrounds|Chapter 2]].
 
 ### Armor Class (AC)
 
@@ -71,7 +72,7 @@ All creatures in the game have an [[srd/pf2e/books/player-core/chapter-8-playing
 
 ### Attack
 
-When a creature tries to harm another creature, it makes a [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] or uses some other attack action. Most attacks are Strikes made with a weapon, but a character might Strike with their [[srd/pf2e/compendium/equipment/weapons/brawling/fist|fist]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|grapple]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|shove]] with their hands, or attack with a [[srd/pf2e/books/player-core/chapter-7-spells/index|spell]].
+When a creature tries to harm another creature, it makes a [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] or uses some other attack action. Most attacks are Strikes made with a weapon, but a character might Strike with their [[srd/pf2e/compendium/equipment/weapons/brawling/fist|fist]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|grapple]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|shove]] with their hands, or attack with a [[srd/pf2e/books/player-core/chapter-7-spells/chapter-7-spells|spell]].
 
 ### Attribute Modifier
 
@@ -91,11 +92,11 @@ When a character attempts an action where success is uncertain, they may roll a 
 
 ### Class
 
-A class represents the adventuring profession chosen by a character. A character's class determines most of their proficiencies, grants the character Hit Points each time they gain a new level, and gives access to a set of class feats. Classes appear in [[srd/pf2e/books/player-core/chapter-3-classes/index|Chapter 3]].
+A class represents the adventuring profession chosen by a character. A character's class determines most of their proficiencies, grants the character Hit Points each time they gain a new level, and gives access to a set of class feats. Classes appear in [[srd/pf2e/books/player-core/chapter-3-classes/chapter-3-classes|Chapter 3]].
 
 ### Condition
 
-An ongoing effect that changes how a character can act, or that alters some of their statistics, is called a condition. The rules for the basic conditions used in the game can be found in the [[srd/pf2e/books/player-core/conditions-appendix/index|Conditions Appendix]] at the back of this book.
+An ongoing effect that changes how a character can act, or that alters some of their statistics, is called a condition. The rules for the basic conditions used in the game can be found in the [[srd/pf2e/books/player-core/conditions-appendix/conditions-appendix|Conditions Appendix]] at the back of this book.
 
 ### Currency
 
@@ -107,7 +108,7 @@ A feat is an ability you can select for your character due to their ancestry, ba
 
 ### Game Master (GM)
 
-The Game Master is the player who adjudicates the rules and narrates the various elements of the Pathfinder story and world that the other players explore. The GM uses the rules found in [[srd/pf2e/books/gm-core/introduction/index|Pathfinder GM Core]].
+The Game Master is the player who adjudicates the rules and narrates the various elements of the Pathfinder story and world that the other players explore. The GM uses the rules found in [[srd/pf2e/books/gm-core/introduction/introduction|Pathfinder GM Core]].
 
 ### Golarion
 
@@ -161,7 +162,7 @@ There are three types of saving throws: Fortitude (to resist diseases, poisons, 
 
 ### Skill
 
-A skill represents a creature's ability to perform certain tasks that require instruction or practice. All characters are trained in certain skills due to their background and class. Skills are fully described in [[srd/pf2e/books/player-core/chapter-4-skills/index|Chapter 4]]. Each skill includes ways anyone can use that skill even if untrained, as well as uses that require a character to be trained in the skill.
+A skill represents a creature's ability to perform certain tasks that require instruction or practice. All characters are trained in certain skills due to their background and class. Skills are fully described in [[srd/pf2e/books/player-core/chapter-4-skills/chapter-4-skills|Chapter 4]]. Each skill includes ways anyone can use that skill even if untrained, as well as uses that require a character to be trained in the skill.
 
 ### Speed
 
@@ -169,7 +170,7 @@ Speed is the distance a character can move using a single action, measured in fe
 
 ### Spell
 
-Spells are magical effects created by performing mystical incantations and gestures known only to those with special training or inborn abilities. Casting a spell is an activity that usually uses 2 actions. Each spell specifies what it targets, the actions needed to cast it, its effects, and how it can be resisted. If a class grants spells, the basics of that ability are provided in the class description in [[srd/pf2e/books/player-core/chapter-3-classes/index|Chapter 3]], while the spells themselves are detailed in [[srd/pf2e/books/player-core/chapter-7-spells/index|Chapter 7]].
+Spells are magical effects created by performing mystical incantations and gestures known only to those with special training or inborn abilities. Casting a spell is an activity that usually uses 2 actions. Each spell specifies what it targets, the actions needed to cast it, its effects, and how it can be resisted. If a class grants spells, the basics of that ability are provided in the class description in [[srd/pf2e/books/player-core/chapter-3-classes/chapter-3-classes|Chapter 3]], while the spells themselves are detailed in [[srd/pf2e/books/player-core/chapter-7-spells/chapter-7-spells|Chapter 7]].
 
 Spells have ranks ranging from 1st to 10th, which measure their power; characters and monsters can usually cast only a certain number of spells of any given rank.
 

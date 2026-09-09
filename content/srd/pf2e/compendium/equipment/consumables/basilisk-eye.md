@@ -10,6 +10,7 @@ tags:
 aliases: ["Basilisk Eye"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2964"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Basilisk Eye  *Item 9*

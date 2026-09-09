@@ -8,6 +8,7 @@ tags:
 aliases: ["Squire's Tabard"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3980"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Squire's Tabard  *Item 2*

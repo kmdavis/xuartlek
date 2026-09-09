@@ -7,6 +7,7 @@ tags:
 aliases: ["Black Powder Boost"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3166"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Black Powder Boost  *Feat 4*  [?](books/player-core/chapter-8-playing-the-game/actions#Actions "Varies")

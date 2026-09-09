@@ -7,6 +7,7 @@ tags:
 aliases: ["Magical Scholastics"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6247"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Magical Scholastics  *Feat 4*

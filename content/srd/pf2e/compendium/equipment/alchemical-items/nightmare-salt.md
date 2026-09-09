@@ -11,6 +11,7 @@ tags:
 aliases: ["Nightmare Salt"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2009"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Nightmare Salt  *Item 20*

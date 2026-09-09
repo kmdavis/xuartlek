@@ -8,6 +8,7 @@ tags:
 aliases: ["Variable Core"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3050"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Variable Core  *Feat 1*

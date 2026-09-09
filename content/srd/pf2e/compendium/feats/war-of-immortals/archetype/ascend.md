@@ -7,6 +7,7 @@ tags:
 aliases: ["Ascend"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7333"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Ascend  *Feat 14*

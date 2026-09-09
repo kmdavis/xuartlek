@@ -6,6 +6,7 @@ tags:
 aliases: ["Acid"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=524"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Acid  *Trait*

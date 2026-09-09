@@ -8,6 +8,7 @@ tags:
 aliases: ["Staff of Earth"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2261"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Staff of Earth  *Item 3+*

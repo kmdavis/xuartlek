@@ -10,6 +10,7 @@ tags:
 aliases: ["Oaken Resilience"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1617"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Oaken Resilience  *Spell 2*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

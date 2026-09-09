@@ -6,6 +6,7 @@ tags:
 aliases: ["Shared Resolve"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=77"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Shared Resolve  *Class Feature 15*

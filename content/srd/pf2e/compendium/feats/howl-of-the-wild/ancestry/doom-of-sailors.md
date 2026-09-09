@@ -13,6 +13,7 @@ tags:
 aliases: ["Doom of Sailors"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5359"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Doom of Sailors  *Feat 17*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

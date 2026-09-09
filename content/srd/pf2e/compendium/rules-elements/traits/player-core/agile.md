@@ -6,6 +6,7 @@ tags:
 aliases: ["Agile"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=526"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Agile  *Trait*

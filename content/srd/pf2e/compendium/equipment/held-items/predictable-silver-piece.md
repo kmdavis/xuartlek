@@ -7,6 +7,7 @@ tags:
 aliases: ["Predictable Silver Piece"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3418"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Predictable Silver Piece  *Item 1*

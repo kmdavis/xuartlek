@@ -9,6 +9,7 @@ tags:
 aliases: ["Crown of Witchcraft"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3073"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Crown of Witchcraft  *Item 10+*

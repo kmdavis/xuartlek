@@ -6,6 +6,7 @@ tags:
 aliases: ["Tack"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2755"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Tack  *Item 0*

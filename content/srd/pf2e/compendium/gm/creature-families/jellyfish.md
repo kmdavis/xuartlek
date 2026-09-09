@@ -5,6 +5,7 @@ tags:
 aliases: ["Jellyfish"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=602"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Jellyfish  *Creature Family*

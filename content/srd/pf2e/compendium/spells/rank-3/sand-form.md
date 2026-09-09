@@ -9,6 +9,7 @@ tags:
 aliases: ["Sand Form"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1340"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Sand Form  *Spell 3*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

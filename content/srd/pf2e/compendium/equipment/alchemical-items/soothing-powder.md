@@ -9,6 +9,7 @@ tags:
 aliases: ["Soothing Powder"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1945"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Soothing Powder  *Item 5+*

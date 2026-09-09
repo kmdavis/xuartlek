@@ -8,6 +8,7 @@ tags:
 aliases: ["Pack Hunter"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5594"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Pack Hunter  *Feat 1*

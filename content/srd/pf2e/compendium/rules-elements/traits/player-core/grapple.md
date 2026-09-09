@@ -6,6 +6,7 @@ tags:
 aliases: ["Grapple"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=619"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Grapple  *Trait*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Implement's Empowerment"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=69"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Implement's Empowerment  *Class Feature 1*

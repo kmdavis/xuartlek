@@ -9,6 +9,7 @@ tags:
 aliases: ["Augury"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1445"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Augury  *Spell 2*

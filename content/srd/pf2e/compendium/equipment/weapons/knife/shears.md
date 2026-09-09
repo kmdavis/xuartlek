@@ -10,6 +10,7 @@ tags:
 aliases: ["Shears"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=446"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Shears  *Weapon 0*

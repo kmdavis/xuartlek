@@ -10,6 +10,7 @@ tags:
 aliases: ["Snarling Badger"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2114"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Snarling Badger  *Item 6+*

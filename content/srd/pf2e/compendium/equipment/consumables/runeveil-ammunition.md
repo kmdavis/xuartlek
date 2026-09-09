@@ -8,6 +8,7 @@ tags:
 aliases: ["Runeveil Ammunition"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5041"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Runeveil Ammunition  *Item 5*

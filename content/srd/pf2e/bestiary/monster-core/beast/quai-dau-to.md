@@ -10,6 +10,7 @@ name: "Quai Dau To"
 level: 13
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3158"
+socialImage: og-image.png
 ---
 
 ```statblock

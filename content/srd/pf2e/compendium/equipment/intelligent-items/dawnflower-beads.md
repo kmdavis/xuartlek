@@ -12,6 +12,7 @@ tags:
 aliases: ["Dawnflower Beads"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2394"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Dawnflower Beads  *Item 11*

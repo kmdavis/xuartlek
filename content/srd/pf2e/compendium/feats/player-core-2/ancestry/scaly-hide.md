@@ -7,6 +7,7 @@ tags:
 aliases: ["Scaly Hide"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5735"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Scaly Hide  *Feat 1*

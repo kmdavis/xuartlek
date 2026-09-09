@@ -7,6 +7,7 @@ tags:
 aliases: ["Iivlar's Deflection"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7782"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Iivlar's Deflection  *Feat 9*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

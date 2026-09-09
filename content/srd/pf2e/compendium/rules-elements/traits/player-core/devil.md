@@ -6,6 +6,7 @@ tags:
 aliases: ["Devil"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=575"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Devil  *Trait*

@@ -11,6 +11,7 @@ name: "Kobold Earth Diver"
 level: 4
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3680"
+socialImage: og-image.png
 ---
 
 ```statblock

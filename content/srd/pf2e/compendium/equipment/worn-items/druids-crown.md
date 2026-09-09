@@ -8,6 +8,7 @@ tags:
 aliases: ["Druid's Crown"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2335"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Druid's Crown  *Item 6*

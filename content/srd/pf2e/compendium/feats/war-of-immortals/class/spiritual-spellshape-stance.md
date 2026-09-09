@@ -11,6 +11,7 @@ tags:
 aliases: ["Spiritual Spellshape Stance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7149"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Spiritual Spellshape Stance  *Feat 16*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

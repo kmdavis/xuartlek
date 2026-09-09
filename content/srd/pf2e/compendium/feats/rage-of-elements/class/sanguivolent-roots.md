@@ -12,6 +12,7 @@ tags:
 aliases: ["Sanguivolent Roots"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4290"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Sanguivolent Roots  *Feat 8*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

@@ -6,6 +6,7 @@ tags:
 aliases: ["Celestial"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=551"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Celestial  *Trait*

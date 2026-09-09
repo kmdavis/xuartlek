@@ -5,6 +5,7 @@ tags:
 aliases: ["Hippocampus"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=429"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Hippocampus  *Creature Family*

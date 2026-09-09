@@ -6,6 +6,7 @@ tags:
 aliases: ["Greater Weapon Specialization"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=20"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Greater Weapon Specialization  *Class Feature 15*

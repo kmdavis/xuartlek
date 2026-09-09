@@ -9,6 +9,7 @@ tags:
 aliases: ["Spider Chair"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1163"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Spider Chair  *Item 12*

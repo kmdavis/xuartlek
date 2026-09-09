@@ -7,6 +7,7 @@ tags:
 aliases: ["Well-Met Traveler"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5549"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Well-Met Traveler  *Feat 1*

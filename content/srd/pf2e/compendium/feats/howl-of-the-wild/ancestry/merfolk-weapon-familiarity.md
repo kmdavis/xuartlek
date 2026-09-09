@@ -7,6 +7,7 @@ tags:
 aliases: ["Merfolk Weapon Familiarity"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5344"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Merfolk Weapon Familiarity  *Feat 1*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Battering Wings"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5528"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Battering Wings  *Feat 4*

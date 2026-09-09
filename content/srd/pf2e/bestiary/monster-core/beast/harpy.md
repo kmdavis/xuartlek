@@ -12,6 +12,7 @@ name: "Harpy"
 level: 5
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3046"
+socialImage: og-image.png
 ---
 
 ```statblock

@@ -6,6 +6,7 @@ tags:
 aliases: ["City"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=553"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # City  *Trait*

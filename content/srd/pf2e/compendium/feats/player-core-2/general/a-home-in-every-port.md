@@ -8,6 +8,7 @@ tags:
 aliases: ["A Home in Every Port"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6457"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # A Home in Every Port  *Feat 11*

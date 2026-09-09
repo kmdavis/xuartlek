@@ -7,6 +7,7 @@ tags:
 aliases: ["Esoteric Reflexes"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8379"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Esoteric Reflexes  *Feat 14*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Cursed Effigy"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8370"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Cursed Effigy  *Feat 8*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

@@ -11,6 +11,7 @@ tags:
 aliases: ["Lightning's Dance"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=460"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Lightning's Dance  *Hazard 11*

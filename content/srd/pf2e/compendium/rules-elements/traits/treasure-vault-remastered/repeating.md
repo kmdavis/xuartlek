@@ -6,6 +6,7 @@ tags:
 aliases: ["Repeating"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=374"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Repeating  *Trait*

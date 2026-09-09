@@ -9,6 +9,7 @@ tags:
 aliases: ["Resuscitate"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6377"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Resuscitate  *Feat 16*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

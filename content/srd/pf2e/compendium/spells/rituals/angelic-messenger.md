@@ -7,6 +7,7 @@ tags:
 aliases: ["Angelic Messenger"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=141"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Angelic Messenger  *Ritual 1*

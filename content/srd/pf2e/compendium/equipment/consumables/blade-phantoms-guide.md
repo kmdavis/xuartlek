@@ -9,6 +9,7 @@ tags:
 aliases: ["Blade Phantom's Guide"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3876"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Blade Phantom's Guide  *Item 11*

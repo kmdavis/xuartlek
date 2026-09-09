@@ -11,6 +11,7 @@ tags:
 aliases: ["Long Hammer"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=293"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Long Hammer  *Weapon 0*

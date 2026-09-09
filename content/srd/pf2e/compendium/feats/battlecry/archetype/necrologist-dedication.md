@@ -9,6 +9,7 @@ tags:
 aliases: ["Necrologist Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7964"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Necrologist Dedication  *Feat 6*

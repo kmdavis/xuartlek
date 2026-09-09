@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Devotion"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6197"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Basic Devotion  *Feat 4*

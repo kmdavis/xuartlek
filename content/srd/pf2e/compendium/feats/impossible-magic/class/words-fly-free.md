@@ -8,6 +8,7 @@ tags:
 aliases: ["Words, Fly Free"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9192"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Words, Fly Free  *Feat 6*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

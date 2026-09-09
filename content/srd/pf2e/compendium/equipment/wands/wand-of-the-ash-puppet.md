@@ -8,6 +8,7 @@ tags:
 aliases: ["Wand of the Ash Puppet"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2293"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wand of the Ash Puppet  *Item 14*

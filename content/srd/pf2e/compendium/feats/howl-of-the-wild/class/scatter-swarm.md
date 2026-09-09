@@ -8,6 +8,7 @@ tags:
 aliases: ["Scatter Swarm"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5412"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Scatter Swarm  *Feat 2*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

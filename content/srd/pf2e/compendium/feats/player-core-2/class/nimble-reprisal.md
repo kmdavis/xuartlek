@@ -7,6 +7,7 @@ tags:
 aliases: ["Nimble Reprisal"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5887"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Nimble Reprisal  *Feat 1*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Storm Chair"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1164"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Storm Chair  *Item 14*

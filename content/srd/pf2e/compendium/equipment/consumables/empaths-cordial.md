@@ -10,6 +10,7 @@ tags:
 aliases: ["Empath's Cordial"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2083"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Empath's Cordial  *Item 7*

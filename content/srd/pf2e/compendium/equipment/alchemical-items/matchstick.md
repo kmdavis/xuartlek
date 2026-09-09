@@ -8,6 +8,7 @@ tags:
 aliases: ["Matchstick"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3356"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Matchstick  *Item 1*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Swarmeater's Clasp"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2347"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Swarmeater's Clasp  *Item 8*

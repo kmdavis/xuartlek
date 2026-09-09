@@ -9,6 +9,7 @@ tags:
 aliases: ["Potion of Retaliation"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3404"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Potion of Retaliation  *Item 1+*

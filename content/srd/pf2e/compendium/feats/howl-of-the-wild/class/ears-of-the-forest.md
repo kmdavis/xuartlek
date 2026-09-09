@@ -7,6 +7,7 @@ tags:
 aliases: ["Ears of the Forest"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5418"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Ears of the Forest  *Feat 8*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Reverberating Stone"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2112"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Reverberating Stone  *Item 11+*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Elemental Subsitution"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9357"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Elemental Subsitution  *Feat 4*

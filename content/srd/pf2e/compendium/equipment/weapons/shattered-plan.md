@@ -8,6 +8,7 @@ tags:
 aliases: ["Shattered Plan"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1877"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Shattered Plan  *Item 11*

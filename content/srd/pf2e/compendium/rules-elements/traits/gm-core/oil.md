@@ -6,6 +6,7 @@ tags:
 aliases: ["Oil"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=663"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Oil  *Trait*

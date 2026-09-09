@@ -8,6 +8,7 @@ tags:
 aliases: ["Alicorn Trigger"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3214"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Alicorn Trigger  *Item 15*

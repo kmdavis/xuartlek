@@ -8,6 +8,7 @@ tags:
 aliases: ["Fossil Fragment"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2590"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Fossil Fragment  *Item 7+*

@@ -11,6 +11,7 @@ name: "Gamekeeper"
 level: 6
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3475"
+socialImage: og-image.png
 ---
 
 ```statblock

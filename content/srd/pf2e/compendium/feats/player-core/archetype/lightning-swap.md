@@ -9,6 +9,7 @@ tags:
 aliases: ["Lightning Swap"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4783"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Lightning Swap  *Feat 2*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

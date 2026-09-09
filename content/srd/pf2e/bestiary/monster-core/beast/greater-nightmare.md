@@ -12,6 +12,7 @@ name: "Greater Nightmare"
 level: 11
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3106"
+socialImage: og-image.png
 ---
 
 ```statblock

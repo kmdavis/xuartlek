@@ -11,6 +11,7 @@ name: "Dweomercat"
 level: 7
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4375"
+socialImage: og-image.png
 ---
 
 ```statblock

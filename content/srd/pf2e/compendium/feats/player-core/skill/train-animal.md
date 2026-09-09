@@ -10,6 +10,7 @@ tags:
 aliases: ["Train Animal"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5228"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Train Animal  *Feat 1*

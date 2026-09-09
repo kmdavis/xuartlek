@@ -12,6 +12,7 @@ name: "Curse Monger"
 level: 14
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3544"
+socialImage: og-image.png
 ---
 
 ```statblock

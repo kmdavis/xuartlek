@@ -7,6 +7,7 @@ tags:
 aliases: ["Magitaxis"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5396"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Magitaxis  *Feat 13*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

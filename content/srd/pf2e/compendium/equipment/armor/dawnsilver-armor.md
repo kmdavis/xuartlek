@@ -7,6 +7,7 @@ tags:
 aliases: ["Dawnsilver Armor"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2799"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Dawnsilver Armor  *Item 12+*

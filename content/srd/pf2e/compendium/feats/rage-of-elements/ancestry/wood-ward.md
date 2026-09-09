@@ -11,6 +11,7 @@ tags:
 aliases: ["Wood Ward"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4323"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Wood Ward  *Feat 17*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

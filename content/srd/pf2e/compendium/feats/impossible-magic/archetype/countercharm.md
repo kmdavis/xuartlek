@@ -7,6 +7,7 @@ tags:
 aliases: ["Countercharm"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9319"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Countercharm  *Feat 8*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

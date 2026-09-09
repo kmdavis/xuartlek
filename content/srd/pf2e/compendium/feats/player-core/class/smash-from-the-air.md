@@ -7,6 +7,7 @@ tags:
 aliases: ["Smash from the Air"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4856"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Smash from the Air  *Feat 18*

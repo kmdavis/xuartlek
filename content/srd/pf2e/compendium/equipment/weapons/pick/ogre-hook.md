@@ -9,6 +9,7 @@ tags:
 aliases: ["Ogre Hook"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=495"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Ogre Hook  *Weapon 0*

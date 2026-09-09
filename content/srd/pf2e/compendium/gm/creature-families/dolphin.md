@@ -5,6 +5,7 @@ tags:
 aliases: ["Dolphin"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=393"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Dolphin  *Creature Family*

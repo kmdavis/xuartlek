@@ -10,6 +10,7 @@ tags:
 aliases: ["Leeching Fangs"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3886"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Leeching Fangs  *Item 12*

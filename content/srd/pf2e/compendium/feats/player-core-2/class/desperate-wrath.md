@@ -8,6 +8,7 @@ tags:
 aliases: ["Desperate Wrath"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5868"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Desperate Wrath  *Feat 16*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

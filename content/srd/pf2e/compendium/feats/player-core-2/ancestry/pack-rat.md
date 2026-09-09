@@ -7,6 +7,7 @@ tags:
 aliases: ["Pack Rat"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5652"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Pack Rat  *Feat 1*

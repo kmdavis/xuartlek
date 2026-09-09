@@ -13,6 +13,7 @@ tags:
 aliases: ["Shaken Confidence"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2591"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Shaken Confidence  *Focus 4*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

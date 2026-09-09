@@ -7,6 +7,7 @@ tags:
 aliases: ["Elemental Sentinel"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=252"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Elemental Sentinel  *Ritual 1*

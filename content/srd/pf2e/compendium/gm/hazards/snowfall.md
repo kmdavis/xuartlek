@@ -7,6 +7,7 @@ tags:
 aliases: ["Snowfall"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=482"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Snowfall  *Hazard 0*

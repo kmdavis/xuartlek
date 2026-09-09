@@ -9,6 +9,7 @@ tags:
 aliases: ["Element Embodied"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2687"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Element Embodied  *Spell 10*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

@@ -9,6 +9,7 @@ tags:
 aliases: ["Animal Messenger"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1441"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Animal Messenger  *Spell 2*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Screech Shooter"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1169"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Screech Shooter  *Item 9+*

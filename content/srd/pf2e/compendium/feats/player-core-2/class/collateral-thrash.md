@@ -8,6 +8,7 @@ tags:
 aliases: ["Collateral Thrash"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5867"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Collateral Thrash  *Feat 16*

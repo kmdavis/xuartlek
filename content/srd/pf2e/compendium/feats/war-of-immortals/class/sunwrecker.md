@@ -8,6 +8,7 @@ tags:
 aliases: ["Sunwrecker"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7191"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Sunwrecker  *Feat 18*

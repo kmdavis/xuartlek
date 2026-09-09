@@ -14,6 +14,7 @@ name: "Treerazer"
 level: 25
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3218"
+socialImage: og-image.png
 ---
 
 ```statblock

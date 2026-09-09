@@ -9,6 +9,7 @@ tags:
 source: "GM Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3235"
 citation: "GM Core pg. 304"
+socialImage: og-image.png
 ---
 
 # Intelligent Items

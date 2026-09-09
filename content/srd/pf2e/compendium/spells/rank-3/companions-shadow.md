@@ -11,6 +11,7 @@ tags:
 aliases: ["Companion's Shadow"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2659"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Companion's Shadow  *Spell 3*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

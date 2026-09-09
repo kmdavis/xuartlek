@@ -8,6 +8,7 @@ tags:
 aliases: ["Charlatan's Gloves"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3064"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Charlatan's Gloves  *Item 3+*

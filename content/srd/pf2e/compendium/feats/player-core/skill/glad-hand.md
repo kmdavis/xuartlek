@@ -8,6 +8,7 @@ tags:
 aliases: ["Glad-Hand"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5153"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Glad-Hand  *Feat 2*

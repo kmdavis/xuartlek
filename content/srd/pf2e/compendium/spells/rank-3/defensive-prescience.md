@@ -9,6 +9,7 @@ tags:
 aliases: ["Defensive Prescience"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2671"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Defensive Prescience  *Spell 3*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

@@ -7,6 +7,7 @@ tags:
 aliases: ["Through the Gate"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4335"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Through the Gate  *Feat 4*

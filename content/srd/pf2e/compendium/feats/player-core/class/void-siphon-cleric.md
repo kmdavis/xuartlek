@@ -7,6 +7,7 @@ tags:
 aliases: ["Void Siphon (Cleric)"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4673"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Void Siphon (Cleric)  *Feat 8*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Wing Buffet"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5742"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Wing Buffet  *Feat 9*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

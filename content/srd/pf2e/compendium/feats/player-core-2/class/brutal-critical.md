@@ -7,6 +7,7 @@ tags:
 aliases: ["Brutal Critical"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5873"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Brutal Critical  *Feat 18*

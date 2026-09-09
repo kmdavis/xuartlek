@@ -9,6 +9,7 @@ tags:
 aliases: ["Quick Setup"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4085"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Quick Setup  *Feat 7*

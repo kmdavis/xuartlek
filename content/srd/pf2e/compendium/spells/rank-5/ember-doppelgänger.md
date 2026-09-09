@@ -9,6 +9,7 @@ tags:
 aliases: ["Ember Doppelgänger"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2692"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Ember Doppelgänger  *Spell 5*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

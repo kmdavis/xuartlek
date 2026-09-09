@@ -8,6 +8,7 @@ tags:
 aliases: ["Ustradi Long Cannon"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=65"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Ustradi Long Cannon  *Siege Weapon 18*

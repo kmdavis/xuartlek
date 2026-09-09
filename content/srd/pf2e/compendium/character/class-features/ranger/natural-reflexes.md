@@ -6,6 +6,7 @@ tags:
 aliases: ["Natural Reflexes"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=36"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Natural Reflexes  *Class Feature 7*

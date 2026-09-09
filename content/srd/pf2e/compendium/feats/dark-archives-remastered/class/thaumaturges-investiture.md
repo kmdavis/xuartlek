@@ -7,6 +7,7 @@ tags:
 aliases: ["Thaumaturge's Investiture"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8373"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Thaumaturge's Investiture  *Feat 10*

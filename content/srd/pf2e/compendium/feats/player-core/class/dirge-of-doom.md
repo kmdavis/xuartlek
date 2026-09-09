@@ -7,6 +7,7 @@ tags:
 aliases: ["Dirge of Doom"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4598"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Dirge of Doom  *Feat 6*

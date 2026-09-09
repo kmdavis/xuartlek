@@ -6,6 +6,7 @@ tags:
 aliases: ["Aeon"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=525"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Aeon  *Trait*

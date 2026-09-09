@@ -6,6 +6,7 @@ tags:
 - compendium/src/pf2e/war-of-immortals
 aliases: ["Armor"]
 entries: 35
+socialImage: og-image.png
 ---
 
 # Armor

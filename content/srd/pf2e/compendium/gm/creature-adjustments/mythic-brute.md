@@ -5,6 +5,7 @@ tags:
 aliases: ["Mythic Brute"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=32"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Mythic Brute  *Creature Adjustment*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Journeybread"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1921"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Journeybread  *Item 1+*

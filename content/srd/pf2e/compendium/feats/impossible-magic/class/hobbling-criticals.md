@@ -8,6 +8,7 @@ tags:
 aliases: ["Hobbling Criticals"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9278"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Hobbling Criticals  *Feat 18*

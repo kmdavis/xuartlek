@@ -8,6 +8,7 @@ tags:
 aliases: ["Fire Savvy"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3284"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Fire Savvy  *Feat 1*

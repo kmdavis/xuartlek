@@ -10,6 +10,7 @@ tags:
 aliases: ["Orc Necksplitter"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=422"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Orc Necksplitter  *Weapon 0*

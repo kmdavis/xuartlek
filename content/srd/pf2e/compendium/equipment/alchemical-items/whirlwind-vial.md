@@ -10,6 +10,7 @@ tags:
 aliases: ["Whirlwind Vial"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1954"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Whirlwind Vial  *Item 11*

@@ -11,6 +11,7 @@ tags:
 aliases: ["Unending Itch"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2018"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Unending Itch  *Item 14*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Chatterer Of Follies"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5015"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Chatterer Of Follies  *Item 6*

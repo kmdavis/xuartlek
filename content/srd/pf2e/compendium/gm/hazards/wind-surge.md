@@ -10,6 +10,7 @@ tags:
 aliases: ["Wind Surge"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=462"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Wind Surge  *Hazard 7*

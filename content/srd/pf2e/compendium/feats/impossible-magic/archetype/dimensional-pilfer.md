@@ -11,6 +11,7 @@ tags:
 aliases: ["Dimensional Pilfer"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9365"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Dimensional Pilfer  *Feat 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

@@ -5,6 +5,7 @@ tags:
 aliases: ["Official"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=545"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Official  *Creature Family*

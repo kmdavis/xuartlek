@@ -5,6 +5,7 @@ tags:
 aliases: ["Sargassum Heap"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=465"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Sargassum Heap  *Creature Family*

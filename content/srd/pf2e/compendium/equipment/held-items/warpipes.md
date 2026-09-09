@@ -7,6 +7,7 @@ tags:
 aliases: ["Warpipes"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3951"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Warpipes  *Item 5*

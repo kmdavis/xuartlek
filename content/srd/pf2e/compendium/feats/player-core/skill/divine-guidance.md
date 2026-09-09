@@ -8,6 +8,7 @@ tags:
 aliases: ["Divine Guidance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5141"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Divine Guidance  *Feat 15*

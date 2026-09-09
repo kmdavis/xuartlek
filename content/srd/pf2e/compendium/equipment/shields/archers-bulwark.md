@@ -7,6 +7,7 @@ tags:
 aliases: ["Archer's Bulwark"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4998"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Archer's Bulwark  *Item 4*

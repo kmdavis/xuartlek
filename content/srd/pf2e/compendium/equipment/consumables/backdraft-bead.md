@@ -9,6 +9,7 @@ tags:
 aliases: ["Backdraft Bead"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5044"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Backdraft Bead  *Item 5*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Mythic"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=835"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Mythic  *Trait*

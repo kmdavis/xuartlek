@@ -7,6 +7,7 @@ tags:
 aliases: ["Vampire-Fang Morningstar"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1888"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Vampire-Fang Morningstar  *Item 8*

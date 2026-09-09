@@ -7,6 +7,7 @@ tags:
 aliases: ["Flexible Transmogrification"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9266"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Flexible Transmogrification  *Feat 12*

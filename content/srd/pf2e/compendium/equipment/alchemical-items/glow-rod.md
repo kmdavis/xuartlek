@@ -8,6 +8,7 @@ tags:
 aliases: ["Glow Rod"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3355"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Glow Rod  *Item 1*

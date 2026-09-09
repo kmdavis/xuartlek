@@ -8,6 +8,7 @@ tags:
 aliases: ["Beastmaster Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6267"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Beastmaster Dedication  *Feat 2*

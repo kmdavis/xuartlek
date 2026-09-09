@@ -9,6 +9,7 @@ tags:
 aliases: ["Chakri"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=333"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Chakri  *Weapon 0*

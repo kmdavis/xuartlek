@@ -7,6 +7,7 @@ tags:
 aliases: ["Banshee Cry Display"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8533"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Banshee Cry Display  *Feat 12*

@@ -14,6 +14,7 @@ name: "Omox Slime Pool"
 level: 17
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3930"
+socialImage: og-image.png
 ---
 
 ```statblock

@@ -7,6 +7,7 @@ tags:
 aliases: ["Shround of Provinces"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=268"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Shround of Provinces  *Ritual 6*

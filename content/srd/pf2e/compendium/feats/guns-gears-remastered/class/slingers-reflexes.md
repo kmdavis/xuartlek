@@ -7,6 +7,7 @@ tags:
 aliases: ["Slinger's Reflexes"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3214"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Slinger's Reflexes  *Feat 20*

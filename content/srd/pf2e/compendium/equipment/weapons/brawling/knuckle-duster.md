@@ -9,6 +9,7 @@ tags:
 aliases: ["Knuckle Duster"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=185"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Knuckle Duster  *Weapon 0*

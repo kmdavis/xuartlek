@@ -6,6 +6,7 @@ tags:
 aliases: ["Undead Lore"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=75"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Undead Lore  *Class Feature 1*

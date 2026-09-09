@@ -10,6 +10,7 @@ tags:
 aliases: ["Ghostbane Fulu"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5078"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Ghostbane Fulu  *Item 6*

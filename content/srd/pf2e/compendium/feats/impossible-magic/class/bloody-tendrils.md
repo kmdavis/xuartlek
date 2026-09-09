@@ -7,6 +7,7 @@ tags:
 aliases: ["Bloody Tendrils"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9115"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Bloody Tendrils  *Feat 6*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Battle Lute"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=528"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Battle Lute  *Weapon 0*

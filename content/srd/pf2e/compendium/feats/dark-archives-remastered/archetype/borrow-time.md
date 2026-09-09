@@ -7,6 +7,7 @@ tags:
 aliases: ["Borrow Time"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8494"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Borrow Time  *Feat 10*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

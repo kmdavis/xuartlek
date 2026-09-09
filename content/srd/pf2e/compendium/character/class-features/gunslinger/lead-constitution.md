@@ -6,6 +6,7 @@ tags:
 aliases: ["Lead Constitution"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=20"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Lead Constitution  *Class Feature 17*

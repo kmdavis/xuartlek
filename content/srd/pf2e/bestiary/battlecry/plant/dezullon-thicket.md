@@ -11,6 +11,7 @@ name: "Dezullon Thicket"
 level: 15
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3910"
+socialImage: og-image.png
 ---
 
 ```statblock

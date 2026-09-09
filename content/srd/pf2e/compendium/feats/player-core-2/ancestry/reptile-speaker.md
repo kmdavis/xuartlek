@@ -7,6 +7,7 @@ tags:
 aliases: ["Reptile Speaker"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5637"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Reptile Speaker  *Feat 1*

@@ -11,6 +11,7 @@ tags:
 aliases: ["Exult in Violence"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7172"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Exult in Violence  *Feat 10*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

@@ -8,6 +8,7 @@ tags:
 aliases: ["Magic Ammunition"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6320"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Magic Ammunition  *Feat 8*

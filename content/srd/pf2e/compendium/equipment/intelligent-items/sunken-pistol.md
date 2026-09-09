@@ -9,6 +9,7 @@ tags:
 aliases: ["Sunken Pistol"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1180"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sunken Pistol  *Item 8*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Widespread Fascination"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9097"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Widespread Fascination  *Feat 1*

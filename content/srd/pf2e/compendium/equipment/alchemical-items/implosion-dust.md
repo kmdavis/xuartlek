@@ -8,6 +8,7 @@ tags:
 aliases: ["Implosion Dust"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1942"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Implosion Dust  *Item 6+*

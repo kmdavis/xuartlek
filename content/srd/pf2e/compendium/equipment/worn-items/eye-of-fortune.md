@@ -8,6 +8,7 @@ tags:
 aliases: ["Eye of Fortune"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3083"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Eye of Fortune  *Item 13*

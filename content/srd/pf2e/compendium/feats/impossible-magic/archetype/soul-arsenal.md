@@ -7,6 +7,7 @@ tags:
 aliases: ["Soul Arsenal"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9353"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Soul Arsenal  *Feat 6*

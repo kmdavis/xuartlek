@@ -9,6 +9,7 @@ tags:
 aliases: ["Escalation Ammunition"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5036"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Escalation Ammunition  *Item 12*

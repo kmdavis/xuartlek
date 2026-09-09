@@ -8,6 +8,7 @@ tags:
 aliases: ["Lizardfolk"]
 aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=81"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Lizardfolk  *Ancestry*

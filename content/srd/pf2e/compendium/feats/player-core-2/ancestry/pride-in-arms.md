@@ -10,6 +10,7 @@ tags:
 aliases: ["Pride in Arms"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5583"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Pride in Arms  *Feat 9*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

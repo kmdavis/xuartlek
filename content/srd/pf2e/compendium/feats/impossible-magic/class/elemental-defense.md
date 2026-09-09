@@ -9,6 +9,7 @@ tags:
 aliases: ["Elemental Defense"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9388"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Elemental Defense  *Feat 2*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

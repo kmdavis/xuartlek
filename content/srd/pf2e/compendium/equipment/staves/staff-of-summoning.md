@@ -8,6 +8,7 @@ tags:
 aliases: ["Staff of Summoning"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3046"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Staff of Summoning  *Item 6+*

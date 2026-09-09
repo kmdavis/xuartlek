@@ -8,6 +8,7 @@ tags:
 aliases: ["Quotidian Staff"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5167"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Quotidian Staff  *Item 3+*

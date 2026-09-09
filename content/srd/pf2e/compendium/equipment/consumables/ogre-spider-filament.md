@@ -9,6 +9,7 @@ tags:
 aliases: ["Ogre Spider Filament"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3262"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Ogre Spider Filament  *Item 1*

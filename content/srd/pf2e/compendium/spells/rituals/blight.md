@@ -10,6 +10,7 @@ tags:
 aliases: ["Blight"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=111"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Blight  *Ritual 4*

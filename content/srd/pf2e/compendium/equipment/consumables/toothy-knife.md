@@ -9,6 +9,7 @@ tags:
 aliases: ["Toothy Knife"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3896"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Toothy Knife  *Item 5+*

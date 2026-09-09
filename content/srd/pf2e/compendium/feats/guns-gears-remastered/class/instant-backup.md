@@ -7,6 +7,7 @@ tags:
 aliases: ["Instant Backup"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3167"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Instant Backup  *Feat 4*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

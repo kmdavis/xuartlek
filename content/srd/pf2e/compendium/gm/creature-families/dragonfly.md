@@ -5,6 +5,7 @@ tags:
 aliases: ["Dragonfly"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=591"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Dragonfly  *Creature Family*

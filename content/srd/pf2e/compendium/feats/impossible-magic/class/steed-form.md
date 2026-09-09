@@ -8,6 +8,7 @@ tags:
 aliases: ["Steed Form"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9234"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Steed Form  *Feat 2*

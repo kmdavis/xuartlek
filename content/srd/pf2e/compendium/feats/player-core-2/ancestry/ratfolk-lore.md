@@ -7,6 +7,7 @@ tags:
 aliases: ["Ratfolk Lore"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5654"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Ratfolk Lore  *Feat 1*

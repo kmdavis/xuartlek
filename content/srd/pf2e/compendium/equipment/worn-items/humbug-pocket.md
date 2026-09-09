@@ -8,6 +8,7 @@ tags:
 aliases: ["Humbug Pocket"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3089"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Humbug Pocket  *Item 9+*

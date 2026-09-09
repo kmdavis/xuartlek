@@ -8,6 +8,7 @@ tags:
 aliases: ["Assured Knowledge"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4596"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Assured Knowledge  *Feat 6*

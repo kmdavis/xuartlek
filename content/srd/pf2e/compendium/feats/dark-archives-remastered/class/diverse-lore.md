@@ -7,6 +7,7 @@ tags:
 aliases: ["Diverse Lore"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8354"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Diverse Lore  *Feat 1*

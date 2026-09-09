@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/war-of-immortals
 aliases: ["Actions: War of Immortals"]
 entries: 24
+socialImage: og-image.png
 ---
 
 # Actions: War of Immortals

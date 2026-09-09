@@ -13,6 +13,7 @@ tags:
 aliases: ["Reaper's Spellgun"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2124"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Reaper's Spellgun  *Item 13*

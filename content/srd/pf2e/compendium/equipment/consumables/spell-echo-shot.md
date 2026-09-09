@@ -8,6 +8,7 @@ tags:
 aliases: ["Spell Echo Shot"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2058"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Spell Echo Shot  *Item 19*

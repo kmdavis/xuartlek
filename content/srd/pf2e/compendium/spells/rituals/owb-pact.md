@@ -7,6 +7,7 @@ tags:
 aliases: ["Owb Pact"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=222"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Owb Pact  *Ritual 3*

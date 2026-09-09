@@ -9,6 +9,7 @@ tags:
 aliases: ["Siege Celerity"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7961"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Siege Celerity  *Feat 6*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

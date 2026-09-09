@@ -8,6 +8,7 @@ tags:
 aliases: ["Primal Dragonblood"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5729"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Primal Dragonblood  *Feat 1*

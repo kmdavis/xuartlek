@@ -6,6 +6,7 @@ tags:
 aliases: ["Celebrity"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=245"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Celebrity  *Archetype 2*

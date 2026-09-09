@@ -10,6 +10,7 @@ tags:
 aliases: ["Thrasher Tail"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2164"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Thrasher Tail  *Item 9*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Spellshot Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3267"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Spellshot Dedication  *Feat 2*

@@ -13,6 +13,7 @@ tags:
 aliases: ["Gnome Amalgam Musket (Melee)"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=217"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Gnome Amalgam Musket (Melee)  *Weapon 1*

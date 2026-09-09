@@ -7,6 +7,7 @@ tags:
 aliases: ["Hazard Finder"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4884"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Hazard Finder  *Feat 8*

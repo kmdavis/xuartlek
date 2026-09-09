@@ -6,6 +6,7 @@ tags:
 aliases: ["Bard Spellcasting"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=32"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Bard Spellcasting  *Class Feature 1*

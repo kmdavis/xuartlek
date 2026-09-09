@@ -5,6 +5,7 @@ tags:
 aliases: ["Angradd"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=444"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Angradd  *Deity*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Advanced Monastic Weaponry"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7108"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Advanced Monastic Weaponry  *Feat 6*

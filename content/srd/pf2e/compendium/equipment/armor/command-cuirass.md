@@ -8,6 +8,7 @@ tags:
 aliases: ["Command Cuirass"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3807"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Command Cuirass  *Item 8*

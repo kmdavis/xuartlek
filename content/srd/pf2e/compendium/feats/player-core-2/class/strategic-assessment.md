@@ -7,6 +7,7 @@ tags:
 aliases: ["Strategic Assessment"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5951"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Strategic Assessment  *Feat 4*

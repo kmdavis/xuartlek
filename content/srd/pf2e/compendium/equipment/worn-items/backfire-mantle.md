@@ -8,6 +8,7 @@ tags:
 aliases: ["Backfire Mantle"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5182"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Backfire Mantle  *Item 3+*

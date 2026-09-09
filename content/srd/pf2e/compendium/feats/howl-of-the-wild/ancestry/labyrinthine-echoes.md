@@ -7,6 +7,7 @@ tags:
 aliases: ["Labyrinthine Echoes"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5371"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Labyrinthine Echoes  *Feat 5*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Mahathallah"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=591"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Mahathallah  *Deity*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Armor Regiment Training"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7792"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Armor Regiment Training  *Feat 1*

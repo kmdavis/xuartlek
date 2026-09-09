@@ -7,6 +7,7 @@ tags:
 aliases: ["Known Weaknesses"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5936"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Known Weaknesses  *Feat 1*

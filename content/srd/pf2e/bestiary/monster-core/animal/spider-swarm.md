@@ -11,6 +11,7 @@ name: "Spider Swarm"
 level: 0
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3206"
+socialImage: og-image.png
 ---
 
 ```statblock

@@ -8,6 +8,7 @@ tags:
 aliases: ["Grit and Tenacity"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3178"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Grit and Tenacity  *Feat 8*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

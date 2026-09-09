@@ -10,6 +10,7 @@ tags:
 aliases: ["Cryolite Eye"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4149"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Cryolite Eye  *Item 6*

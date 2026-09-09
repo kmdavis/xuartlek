@@ -9,6 +9,7 @@ tags:
 aliases: ["Immaculate Holsters"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1210"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Immaculate Holsters  *Item 3*

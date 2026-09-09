@@ -8,6 +8,7 @@ tags:
 aliases: ["Fatal Shot"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6326"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Fatal Shot  *Feat 18*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

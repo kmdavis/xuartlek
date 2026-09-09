@@ -7,6 +7,7 @@ tags:
 aliases: ["Cauldron"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4993"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Cauldron  *Feat 1*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Hell Hound"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=427"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Hell Hound  *Creature Family*

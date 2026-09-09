@@ -11,6 +11,7 @@ tags:
 aliases: ["Whip Claw"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=482"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Whip Claw  *Weapon 0*

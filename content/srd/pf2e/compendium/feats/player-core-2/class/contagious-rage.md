@@ -10,6 +10,7 @@ tags:
 aliases: ["Contagious Rage"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5878"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Contagious Rage  *Feat 20*

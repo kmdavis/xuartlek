@@ -7,6 +7,7 @@ tags:
 aliases: ["Ratspeak"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5655"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Ratspeak  *Feat 1*

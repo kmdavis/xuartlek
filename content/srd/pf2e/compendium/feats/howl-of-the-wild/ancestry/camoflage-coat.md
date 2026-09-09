@@ -7,6 +7,7 @@ tags:
 aliases: ["Camoflage Coat"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5337"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Camoflage Coat  *Feat 13*

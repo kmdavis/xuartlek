@@ -8,6 +8,7 @@ tags:
 aliases: ["Smoke Sight"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3288"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Smoke Sight  *Feat 9*

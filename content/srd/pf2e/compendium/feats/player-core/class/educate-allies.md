@@ -8,6 +8,7 @@ tags:
 aliases: ["Educate Allies"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4599"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Educate Allies  *Feat 6*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

@@ -7,6 +7,7 @@ tags:
 aliases: ["Spellguard Blade"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3284"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Spellguard Blade  *Item 7*

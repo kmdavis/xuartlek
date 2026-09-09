@@ -9,6 +9,7 @@ tags:
 aliases: ["Minotaur"]
 aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=75"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Minotaur  *Ancestry*

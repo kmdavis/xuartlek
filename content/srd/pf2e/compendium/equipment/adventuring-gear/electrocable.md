@@ -9,6 +9,7 @@ tags:
 aliases: ["Electrocable"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1147"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Electrocable  *Item 3*

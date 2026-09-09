@@ -7,6 +7,7 @@ tags:
 aliases: ["Traveler's Any-Tool"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3034"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Traveler's Any-Tool  *Item 6*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Healing Flesh"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5351"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Healing Flesh  *Feat 5*

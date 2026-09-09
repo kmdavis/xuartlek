@@ -7,6 +7,7 @@ tags:
 aliases: ["Tengu Feather Fan"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5685"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Tengu Feather Fan  *Feat 5*

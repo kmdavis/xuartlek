@@ -9,6 +9,7 @@ tags:
 aliases: ["Cat's Eye Elixir"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3301"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Cat's Eye Elixir  *Item 2*

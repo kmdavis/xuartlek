@@ -7,6 +7,7 @@ tags:
 aliases: ["Reprisal of the Fallen"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7371"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Reprisal of the Fallen  *Feat 18*

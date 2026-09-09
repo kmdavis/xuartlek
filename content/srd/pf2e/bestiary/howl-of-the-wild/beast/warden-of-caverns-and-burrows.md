@@ -12,6 +12,7 @@ name: "Warden of Caverns and Burrows"
 level: 22
 source: "Howl of the Wild"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3325"
+socialImage: og-image.png
 ---
 
 ```statblock

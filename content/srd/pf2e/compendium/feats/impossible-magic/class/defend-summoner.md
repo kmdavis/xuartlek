@@ -9,6 +9,7 @@ tags:
 aliases: ["Defend Summoner"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9236"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Defend Summoner  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

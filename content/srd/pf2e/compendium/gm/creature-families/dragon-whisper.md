@@ -5,6 +5,7 @@ tags:
 aliases: ["Dragon, Whisper"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=589"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Dragon, Whisper  *Creature Family*

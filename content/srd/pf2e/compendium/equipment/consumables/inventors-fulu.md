@@ -10,6 +10,7 @@ tags:
 aliases: ["Inventor's Fulu"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2037"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Inventor's Fulu  *Item 6*

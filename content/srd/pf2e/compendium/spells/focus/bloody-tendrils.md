@@ -12,6 +12,7 @@ tags:
 aliases: ["Bloody Tendrils"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2888"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Bloody Tendrils  *Focus 3*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

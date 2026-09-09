@@ -11,6 +11,7 @@ tags:
 aliases: ["Murderous Vine"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2773"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Murderous Vine  *Spell 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

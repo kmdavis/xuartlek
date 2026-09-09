@@ -11,6 +11,7 @@ tags:
 aliases: ["Silvertongue Mutagen"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3321"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Silvertongue Mutagen  *Item 1+*

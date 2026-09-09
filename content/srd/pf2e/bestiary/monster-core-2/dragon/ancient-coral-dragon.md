@@ -13,6 +13,7 @@ name: "Ancient Coral Dragon"
 level: 17
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4350"
+socialImage: og-image.png
 ---
 
 ```statblock

@@ -12,6 +12,7 @@ name: "Tanuki Village Hero"
 level: 1
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4575"
+socialImage: og-image.png
 ---
 
 ```statblock

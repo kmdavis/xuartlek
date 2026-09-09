@@ -10,6 +10,7 @@ tags:
 aliases: ["Taw Launcher"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=342"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Taw Launcher  *Weapon 0*

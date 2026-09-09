@@ -7,6 +7,7 @@ tags:
 aliases: ["Fly Swat"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5475"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Fly Swat  *Feat 4*

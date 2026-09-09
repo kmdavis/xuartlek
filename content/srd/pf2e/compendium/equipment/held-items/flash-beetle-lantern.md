@@ -8,6 +8,7 @@ tags:
 aliases: ["Flash Beetle Lantern"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3222"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Flash Beetle Lantern  *Item 3*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Beasts of Slumbering Steel"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4264"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Beasts of Slumbering Steel  *Feat 18*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

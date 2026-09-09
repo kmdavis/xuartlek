@@ -8,6 +8,7 @@ tags:
 aliases: ["Collateral Reinforcement"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9117"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Collateral Reinforcement  *Feat 6*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

@@ -7,6 +7,7 @@ tags:
 aliases: ["Inexhaustible Countermoves"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6182"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Inexhaustible Countermoves  *Feat 20*

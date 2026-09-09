@@ -11,6 +11,7 @@ tags:
 aliases: ["Curious Teardrop"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2612"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Curious Teardrop  *Item 16*

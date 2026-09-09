@@ -11,6 +11,7 @@ tags:
 aliases: ["Khakkhara"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=412"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Khakkhara  *Weapon 0*

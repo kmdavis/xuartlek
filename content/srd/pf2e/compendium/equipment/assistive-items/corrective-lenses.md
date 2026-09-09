@@ -6,6 +6,7 @@ tags:
 aliases: ["Corrective Lenses"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2773"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Corrective Lenses  *Item 0*

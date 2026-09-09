@@ -6,6 +6,7 @@ tags:
 aliases: ["Finesse"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=602"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Finesse  *Trait*

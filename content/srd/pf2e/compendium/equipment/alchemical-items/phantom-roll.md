@@ -8,6 +8,7 @@ tags:
 aliases: ["Phantom Roll"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1925"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Phantom Roll  *Item 4*

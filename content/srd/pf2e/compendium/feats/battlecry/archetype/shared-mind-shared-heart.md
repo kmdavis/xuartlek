@@ -8,6 +8,7 @@ tags:
 aliases: ["Shared Mind, Shared Heart"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7957"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Shared Mind, Shared Heart  *Feat 16*

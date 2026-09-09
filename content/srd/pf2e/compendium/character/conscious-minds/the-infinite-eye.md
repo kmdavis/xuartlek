@@ -5,6 +5,7 @@ tags:
 aliases: ["The Infinite Eye"]
 aon_url: "https://2e.aonprd.com/ConsciousMinds.aspx?ID=8"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # The Infinite Eye  *Psychic Conscious Mind*

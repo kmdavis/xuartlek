@@ -8,6 +8,7 @@ tags:
 aliases: ["Fiend's Mouth Cannon"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=14"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Fiend's Mouth Cannon  *Siege Weapon 11*

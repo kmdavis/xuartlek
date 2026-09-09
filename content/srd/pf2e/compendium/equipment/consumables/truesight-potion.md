@@ -9,6 +9,7 @@ tags:
 aliases: ["Truesight Potion"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2960"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Truesight Potion  *Item 16*

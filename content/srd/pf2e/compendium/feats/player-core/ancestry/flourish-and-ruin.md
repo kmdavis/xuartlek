@@ -7,6 +7,7 @@ tags:
 aliases: ["Flourish and Ruin"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4510"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Flourish and Ruin  *Feat 17*

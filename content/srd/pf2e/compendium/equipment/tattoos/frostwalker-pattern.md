@@ -9,6 +9,7 @@ tags:
 aliases: ["Frostwalker Pattern"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2208"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Frostwalker Pattern  *Item 2*

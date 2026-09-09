@@ -7,6 +7,7 @@ tags:
 aliases: ["Heartbond"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=149"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Heartbond  *Ritual 2*

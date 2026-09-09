@@ -9,6 +9,7 @@ tags:
 aliases: ["Elysium's Cadence"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8407"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Elysium's Cadence  *Feat 6*

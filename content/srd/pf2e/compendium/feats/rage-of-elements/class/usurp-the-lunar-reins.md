@@ -11,6 +11,7 @@ tags:
 aliases: ["Usurp the Lunar Reins"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4280"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Usurp the Lunar Reins  *Feat 18*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

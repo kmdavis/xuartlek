@@ -11,6 +11,7 @@ tags:
 aliases: ["Careless Delight"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1995"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Careless Delight  *Item 9*

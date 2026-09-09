@@ -7,6 +7,7 @@ tags:
 aliases: ["Champion Resiliency"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6198"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Champion Resiliency  *Feat 4*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Legendary Survivalist"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5174"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Legendary Survivalist  *Feat 15*

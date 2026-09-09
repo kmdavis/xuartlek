@@ -7,6 +7,7 @@ tags:
 aliases: ["Enlarged Chassis"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3108"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Enlarged Chassis  *Feat 13*

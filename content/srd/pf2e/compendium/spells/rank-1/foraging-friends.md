@@ -8,6 +8,7 @@ tags:
 aliases: ["Foraging Friends"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1952"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Foraging Friends  *Spell 1*

@@ -11,6 +11,7 @@ tags:
 aliases: ["Malefic Mirror"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3590"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Malefic Mirror  *Item 11*

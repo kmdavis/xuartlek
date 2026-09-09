@@ -7,6 +7,7 @@ tags:
 aliases: ["Finessed Features"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3139"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Finessed Features  *Feat 12*

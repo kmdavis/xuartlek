@@ -5,6 +5,7 @@ tags:
 aliases: ["Martial Artist"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=540"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Martial Artist  *Creature Family*

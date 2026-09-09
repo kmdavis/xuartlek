@@ -8,6 +8,7 @@ tags:
 aliases: ["Cavalier's Charge"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6288"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Cavalier's Charge  *Feat 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

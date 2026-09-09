@@ -7,6 +7,7 @@ tags:
 aliases: ["Scurry!"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5310"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Scurry!  *Feat 5*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

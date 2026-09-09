@@ -13,6 +13,7 @@ tags:
 aliases: ["Clockwork Chirper"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1123"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Clockwork Chirper  *Item 3*

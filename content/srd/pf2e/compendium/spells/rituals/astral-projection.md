@@ -7,6 +7,7 @@ tags:
 aliases: ["Astral Projection"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=144"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Astral Projection  *Ritual 5*

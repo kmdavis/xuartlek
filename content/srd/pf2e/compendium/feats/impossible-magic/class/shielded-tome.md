@@ -8,6 +8,7 @@ tags:
 aliases: ["Shielded Tome"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9063"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Shielded Tome  *Feat 6*

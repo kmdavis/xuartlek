@@ -7,6 +7,7 @@ tags:
 aliases: ["Arbalest"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=432"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Arbalest  *Weapon 0*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Mythic Caster"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=33"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Mythic Caster  *Creature Adjustment*

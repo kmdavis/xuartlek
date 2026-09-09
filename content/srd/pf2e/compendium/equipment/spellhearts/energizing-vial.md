@@ -8,6 +8,7 @@ tags:
 aliases: ["Energizing Vial"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5151"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Energizing Vial  *Item 7+*

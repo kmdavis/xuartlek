@@ -9,6 +9,7 @@ tags:
 aliases: ["Elixir of Gender Transformation"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3307"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Elixir of Gender Transformation  *Item 1+*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Path of Iron"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6367"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Path of Iron  *Feat 14*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

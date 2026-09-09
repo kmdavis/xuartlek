@@ -8,6 +8,7 @@ tags:
 aliases: ["Whip-Tongue Sling"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3213"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Whip-Tongue Sling  *Item 11*

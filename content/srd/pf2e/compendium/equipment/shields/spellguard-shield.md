@@ -6,6 +6,7 @@ tags:
 aliases: ["Spellguard Shield"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2826"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Spellguard Shield  *Item 6*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Wand of Wearying Dance"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2298"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wand of Wearying Dance  *Item 18*

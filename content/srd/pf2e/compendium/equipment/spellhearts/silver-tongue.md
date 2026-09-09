@@ -8,6 +8,7 @@ tags:
 aliases: ["Silver Tongue"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5158"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Silver Tongue  *Item 8+*

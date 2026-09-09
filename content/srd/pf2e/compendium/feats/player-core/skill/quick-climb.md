@@ -8,6 +8,7 @@ tags:
 aliases: ["Quick Climb"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5192"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Quick Climb  *Feat 7*

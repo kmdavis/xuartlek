@@ -9,6 +9,7 @@ tags:
 aliases: ["Restful Sleep Fulu"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5082"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Restful Sleep Fulu  *Item 6*

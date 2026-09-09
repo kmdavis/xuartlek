@@ -7,6 +7,7 @@ tags:
 aliases: ["Advanced Thaumaturgy"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8400"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Advanced Thaumaturgy  *Feat 6*

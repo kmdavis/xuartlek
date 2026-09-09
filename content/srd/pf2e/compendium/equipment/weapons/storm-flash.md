@@ -8,6 +8,7 @@ tags:
 aliases: ["Storm Flash"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2873"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Storm Flash  *Item 14+*

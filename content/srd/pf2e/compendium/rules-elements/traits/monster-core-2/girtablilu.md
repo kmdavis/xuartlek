@@ -6,6 +6,7 @@ tags:
 aliases: ["Girtablilu"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=867"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Girtablilu  *Trait*

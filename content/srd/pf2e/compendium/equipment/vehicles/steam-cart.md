@@ -7,6 +7,7 @@ tags:
 aliases: ["Steam Cart"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=21"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Steam Cart  *Vehicle 2*

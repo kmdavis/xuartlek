@@ -10,6 +10,7 @@ tags:
 aliases: ["Chameleon Suit"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1106"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Chameleon Suit  *Item 4+*

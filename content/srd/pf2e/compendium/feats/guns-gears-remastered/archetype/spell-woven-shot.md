@@ -8,6 +8,7 @@ tags:
 aliases: ["Spell-Woven Shot"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7437"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Spell-Woven Shot  *Feat 4*

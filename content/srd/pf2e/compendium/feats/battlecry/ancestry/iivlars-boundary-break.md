@@ -7,6 +7,7 @@ tags:
 aliases: ["Iivlar's Boundary Break"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7785"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Iivlar's Boundary Break  *Feat 13*

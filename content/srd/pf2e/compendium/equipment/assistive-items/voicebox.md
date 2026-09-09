@@ -8,6 +8,7 @@ tags:
 aliases: ["Voicebox"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2169"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Voicebox  *Item 0*

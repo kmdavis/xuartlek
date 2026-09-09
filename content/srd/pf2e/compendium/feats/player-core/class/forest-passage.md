@@ -7,6 +7,7 @@ tags:
 aliases: ["Forest Passage"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4722"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Forest Passage  *Feat 4*

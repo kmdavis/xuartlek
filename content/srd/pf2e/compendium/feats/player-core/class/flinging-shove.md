@@ -7,6 +7,7 @@ tags:
 aliases: ["Flinging Shove"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4835"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Flinging Shove  *Feat 12*

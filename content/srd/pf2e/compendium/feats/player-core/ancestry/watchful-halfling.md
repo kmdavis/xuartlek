@@ -7,6 +7,7 @@ tags:
 aliases: ["Watchful Halfling"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4464"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Watchful Halfling  *Feat 1*

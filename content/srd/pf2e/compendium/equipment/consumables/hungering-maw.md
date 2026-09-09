@@ -10,6 +10,7 @@ tags:
 aliases: ["Hungering Maw"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2109"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Hungering Maw  *Item 17*

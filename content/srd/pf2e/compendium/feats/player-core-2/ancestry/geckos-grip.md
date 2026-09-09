@@ -7,6 +7,7 @@ tags:
 aliases: ["Gecko's Grip"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5640"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Gecko's Grip  *Feat 5*

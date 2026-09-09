@@ -7,6 +7,7 @@ tags:
 aliases: ["Methodical Magic"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7213"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Methodical Magic  *Feat 9*

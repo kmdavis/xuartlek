@@ -7,6 +7,7 @@ tags:
 aliases: ["Reanimate Foe"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9161"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Reanimate Foe  *Feat 18*

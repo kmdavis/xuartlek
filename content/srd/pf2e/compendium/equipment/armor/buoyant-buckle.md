@@ -9,6 +9,7 @@ tags:
 aliases: ["Buoyant Buckle"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3806"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Buoyant Buckle  *Item 6*

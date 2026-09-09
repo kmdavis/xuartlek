@@ -13,6 +13,7 @@ tags:
 aliases: ["Part the Mists To Paradise"]
 aon_url: "https://2e.aonprd.com/MythicSpells.aspx?ID=2158"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Part the Mists To Paradise  *Spell 8*

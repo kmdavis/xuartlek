@@ -9,6 +9,7 @@ tags:
 aliases: ["Pheromone Flare"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3230"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Pheromone Flare  *Item 5+*

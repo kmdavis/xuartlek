@@ -8,6 +8,7 @@ tags:
 aliases: ["Echo of the Fallen"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8405"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Echo of the Fallen  *Feat 4*

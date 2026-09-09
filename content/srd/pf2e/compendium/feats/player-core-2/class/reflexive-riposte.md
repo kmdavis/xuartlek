@@ -7,6 +7,7 @@ tags:
 aliases: ["Reflexive Riposte"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6164"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Reflexive Riposte  *Feat 10*

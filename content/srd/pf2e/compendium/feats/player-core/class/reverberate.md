@@ -7,6 +7,7 @@ tags:
 aliases: ["Reverberate"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4620"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Reverberate  *Feat 12*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

@@ -7,6 +7,7 @@ tags:
 aliases: ["Leader of All"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7997"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Leader of All  *Feat 4*

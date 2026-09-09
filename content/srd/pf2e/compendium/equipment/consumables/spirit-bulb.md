@@ -10,6 +10,7 @@ tags:
 aliases: ["Spirit Bulb"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3004"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Spirit Bulb  *Item 10+*

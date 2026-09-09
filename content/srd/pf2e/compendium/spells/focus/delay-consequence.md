@@ -10,6 +10,7 @@ tags:
 aliases: ["Delay Consequence"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2415"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Delay Consequence  *Focus 1*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

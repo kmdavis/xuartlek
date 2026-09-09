@@ -8,6 +8,7 @@ tags:
 aliases: ["Awakened Power"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8024"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Awakened Power  *Feat 4*

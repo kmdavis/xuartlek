@@ -8,6 +8,7 @@ tags:
 aliases: ["Infesting Shot"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3872"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Infesting Shot  *Item 10*

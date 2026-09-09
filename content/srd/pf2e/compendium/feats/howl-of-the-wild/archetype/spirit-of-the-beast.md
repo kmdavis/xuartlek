@@ -7,6 +7,7 @@ tags:
 aliases: ["Spirit of the Beast"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5423"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Spirit of the Beast  *Feat 4*

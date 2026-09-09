@@ -7,6 +7,7 @@ tags:
 aliases: ["Chosen Ward"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7346"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Chosen Ward  *Feat 14*
@@ -18,7 +19,7 @@ source: "War of Immortals"
 
 You have designated an ally to be you and your [[srd/pf2e/compendium/rules-elements/traits/gm-core/companion|companion’s]] ward, making it your primary directive to shield them from harm. During your daily preparations, choose an ally who isn’t your united companion. While either you or your united companion are adjacent to your ward, you grant them a +1 circumstance bonus to their AC and Reflex saves. 
 
-When your ward attempts a Reflex saving throw while adjacent to either you or your united companion, you can spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/index|Mythic Point]] as a reaction to allow your ward to roll that Reflex save twice and take the better result. This is a [[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]] effect.
+When your ward attempts a Reflex saving throw while adjacent to either you or your united companion, you can spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]] as a reaction to allow your ward to roll that Reflex save twice and take the better result. This is a [[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]] effect.
 
 **Special** If you have the [[srd/pf2e/compendium/feats/war-of-immortals/archetype/defend-our-union|Defend Our Union]] feat, it can also be triggered when a foe successfully Strikes your ward; if used in this way, the damage to your ward is reduced if your Strike is successful instead.
 

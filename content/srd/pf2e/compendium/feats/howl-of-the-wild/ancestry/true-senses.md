@@ -7,6 +7,7 @@ tags:
 aliases: ["True Senses"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5321"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # True Senses  *Feat 17*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

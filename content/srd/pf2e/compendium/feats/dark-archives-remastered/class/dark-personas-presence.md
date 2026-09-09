@@ -11,6 +11,7 @@ tags:
 aliases: ["Dark Persona's Presence"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8327"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Dark Persona's Presence  *Feat 8*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

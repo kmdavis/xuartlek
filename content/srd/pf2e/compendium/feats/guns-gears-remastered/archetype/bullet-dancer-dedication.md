@@ -9,6 +9,7 @@ tags:
 aliases: ["Bullet Dancer Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3235"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Bullet Dancer Dedication  *Feat 2*

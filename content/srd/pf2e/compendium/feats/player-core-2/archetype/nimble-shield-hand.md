@@ -7,6 +7,7 @@ tags:
 aliases: ["Nimble Shield Hand"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6264"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Nimble Shield Hand  *Feat 6*

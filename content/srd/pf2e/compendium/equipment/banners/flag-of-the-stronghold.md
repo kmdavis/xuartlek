@@ -9,6 +9,7 @@ tags:
 aliases: ["Flag of the Stronghold"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3910"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Flag of the Stronghold  *Item 10+*

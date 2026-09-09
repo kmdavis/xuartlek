@@ -7,6 +7,7 @@ tags:
 aliases: ["Acute Scent"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5812"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Acute Scent  *Feat 2*

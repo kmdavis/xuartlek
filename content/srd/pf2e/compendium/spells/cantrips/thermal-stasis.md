@@ -10,6 +10,7 @@ tags:
 aliases: ["Thermal Stasis"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2553"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Thermal Stasis  *Cantrip 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

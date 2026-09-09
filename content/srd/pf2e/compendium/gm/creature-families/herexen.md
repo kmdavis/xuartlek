@@ -5,6 +5,7 @@ tags:
 aliases: ["Herexen"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=428"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Herexen  *Creature Family*

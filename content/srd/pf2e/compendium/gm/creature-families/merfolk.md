@@ -5,6 +5,7 @@ tags:
 aliases: ["Merfolk"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=443"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Merfolk  *Creature Family*

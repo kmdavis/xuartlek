@@ -7,6 +7,7 @@ tags:
 aliases: ["Bloc Tactics"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7358"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Bloc Tactics  *Feat 14*

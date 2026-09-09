@@ -10,6 +10,7 @@ tags:
 aliases: ["Rebound Fulu"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5081"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Rebound Fulu  *Item 9*

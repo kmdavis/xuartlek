@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/impossible-magic
 aliases: ["Hybrid Studies"]
 entries: 7
+socialImage: og-image.png
 ---
 
 # Hybrid Studies

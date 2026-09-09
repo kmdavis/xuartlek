@@ -7,6 +7,7 @@ tags:
 aliases: ["Ceremonial Knife"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5001"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Ceremonial Knife  *Feat 6*

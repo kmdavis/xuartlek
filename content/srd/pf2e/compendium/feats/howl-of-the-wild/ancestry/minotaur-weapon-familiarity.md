@@ -7,6 +7,7 @@ tags:
 aliases: ["Minotaur Weapon Familiarity"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5367"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Minotaur Weapon Familiarity  *Feat 1*

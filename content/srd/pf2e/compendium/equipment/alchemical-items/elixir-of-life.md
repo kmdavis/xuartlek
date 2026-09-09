@@ -10,6 +10,7 @@ tags:
 aliases: ["Elixir of Life"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3308"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Elixir of Life  *Item 1+*

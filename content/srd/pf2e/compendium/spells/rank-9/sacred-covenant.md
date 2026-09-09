@@ -8,6 +8,7 @@ tags:
 aliases: ["Sacred Covenant"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2808"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Sacred Covenant  *Spell 9*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

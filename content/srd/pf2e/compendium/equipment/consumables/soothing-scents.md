@@ -9,6 +9,7 @@ tags:
 aliases: ["Soothing Scents"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5064"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Soothing Scents  *Item 3*

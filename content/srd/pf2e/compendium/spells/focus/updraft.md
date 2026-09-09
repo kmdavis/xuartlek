@@ -12,6 +12,7 @@ tags:
 aliases: ["Updraft"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1304"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Updraft  *Focus 1*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

@@ -7,6 +7,7 @@ tags:
 aliases: ["Nocturnal Tripkee"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5696"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Nocturnal Tripkee  *Feat 1*

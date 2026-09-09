@@ -7,6 +7,7 @@ tags:
 aliases: ["Extraplanar Haze"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7206"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Extraplanar Haze  *Feat 5*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

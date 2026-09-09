@@ -9,6 +9,7 @@ tags:
 aliases: ["Express Rider"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6480"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Express Rider  *Feat 1*

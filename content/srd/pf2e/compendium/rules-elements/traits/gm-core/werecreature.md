@@ -6,6 +6,7 @@ tags:
 aliases: ["Werecreature"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=733"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Werecreature  *Trait*

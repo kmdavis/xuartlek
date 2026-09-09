@@ -9,6 +9,7 @@ tags:
 aliases: ["Spry Sinews"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3189"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Spry Sinews  *Item 3+*

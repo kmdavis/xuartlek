@@ -11,6 +11,7 @@ tags:
 aliases: ["Remove Presence"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8329"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Remove Presence  *Feat 8*

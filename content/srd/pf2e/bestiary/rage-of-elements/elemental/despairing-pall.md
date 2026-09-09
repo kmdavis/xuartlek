@@ -11,6 +11,7 @@ name: "Despairing Pall"
 level: 1
 source: "Rage of Elements"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2617"
+socialImage: og-image.png
 ---
 
 ```statblock

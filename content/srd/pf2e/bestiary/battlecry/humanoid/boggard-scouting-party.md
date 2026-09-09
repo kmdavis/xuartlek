@@ -13,6 +13,7 @@ name: "Boggard Scouting Party"
 level: 6
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3905"
+socialImage: og-image.png
 ---
 
 ```statblock

@@ -7,6 +7,7 @@ tags:
 aliases: ["Ghostly Choir"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=470"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Ghostly Choir  *Hazard 6*

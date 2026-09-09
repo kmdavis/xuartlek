@@ -9,6 +9,7 @@ tags:
 - compendium/src/pf2e/rage-of-elements
 aliases: ["Languages"]
 entries: 40
+socialImage: og-image.png
 ---
 
 # Languages

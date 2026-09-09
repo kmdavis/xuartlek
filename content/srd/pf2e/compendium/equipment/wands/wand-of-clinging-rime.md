@@ -10,6 +10,7 @@ tags:
 aliases: ["Wand of Clinging Rime"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2274"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wand of Clinging Rime  *Item 16+*

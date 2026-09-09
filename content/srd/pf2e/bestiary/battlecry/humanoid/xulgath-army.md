@@ -12,6 +12,7 @@ name: "Xulgath Army"
 level: 6
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3944"
+socialImage: og-image.png
 ---
 
 ```statblock

@@ -11,6 +11,7 @@ tags:
 aliases: ["World Forge"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3511"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # World Forge  *Item 25*

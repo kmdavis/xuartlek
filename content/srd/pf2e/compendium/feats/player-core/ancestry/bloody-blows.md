@@ -7,6 +7,7 @@ tags:
 aliases: ["Bloody Blows"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4521"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Bloody Blows  *Feat 5*

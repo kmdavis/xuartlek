@@ -5,6 +5,7 @@ tags:
 aliases: ["Kobold"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=49"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Kobold  *Creature Adjustment*

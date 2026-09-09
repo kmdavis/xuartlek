@@ -8,6 +8,7 @@ tags:
 aliases: ["Frightening Appearance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6433"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Frightening Appearance  *Feat 12*

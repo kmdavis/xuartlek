@@ -7,6 +7,7 @@ tags:
 aliases: ["Incredible Beastmaster Companion"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6272"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Incredible Beastmaster Companion  *Feat 8*

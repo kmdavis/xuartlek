@@ -6,6 +6,7 @@ tags:
 aliases: ["Inhaled"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=634"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Inhaled  *Trait*

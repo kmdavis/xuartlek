@@ -10,6 +10,7 @@ tags:
 aliases: ["Disorienting Illusions"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=629"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Disorienting Illusions  *Hazard 1*

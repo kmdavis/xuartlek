@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/gm-core
 aliases: ["Planes"]
 entries: 24
+socialImage: og-image.png
 ---
 
 # Planes

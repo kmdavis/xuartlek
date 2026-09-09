@@ -7,6 +7,7 @@ tags:
 aliases: ["Bullet Dancer"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=117"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Bullet Dancer  *Archetype 2*

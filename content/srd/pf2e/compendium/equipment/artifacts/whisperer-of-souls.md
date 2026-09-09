@@ -9,6 +9,7 @@ tags:
 aliases: ["Whisperer of Souls"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2367"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Whisperer of Souls  *Item 28*

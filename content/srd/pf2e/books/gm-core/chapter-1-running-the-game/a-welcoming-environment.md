@@ -9,6 +9,7 @@ tags:
 source: "GM Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2469"
 citation: "GM Core pg. 6"
+socialImage: og-image.png
 ---
 
 # A Welcoming Environment

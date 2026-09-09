@@ -8,6 +8,7 @@ tags:
 aliases: ["Shared Focus"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9392"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Shared Focus  *Feat 10*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

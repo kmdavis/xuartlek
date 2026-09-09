@@ -10,6 +10,7 @@ tags:
 aliases: ["Clockwork Cloak"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2310"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Clockwork Cloak  *Item 18*

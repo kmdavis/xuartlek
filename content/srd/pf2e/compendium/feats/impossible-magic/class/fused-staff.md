@@ -8,6 +8,7 @@ tags:
 aliases: ["Fused Staff"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9067"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Fused Staff  *Feat 8*

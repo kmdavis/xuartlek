@@ -12,6 +12,7 @@ name: "Ratfolk Shank Squad"
 level: 7
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3934"
+socialImage: og-image.png
 ---
 
 ```statblock

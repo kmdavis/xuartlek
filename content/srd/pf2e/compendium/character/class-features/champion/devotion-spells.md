@@ -6,6 +6,7 @@ tags:
 aliases: ["Devotion Spells"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=58"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Devotion Spells  *Class Feature 1*

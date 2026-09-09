@@ -6,6 +6,7 @@ tags:
 aliases: ["Additive"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=795"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Additive  *Trait*

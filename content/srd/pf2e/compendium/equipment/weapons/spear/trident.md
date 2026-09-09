@@ -7,6 +7,7 @@ tags:
 aliases: ["Trident"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=401"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Trident  *Weapon 0*

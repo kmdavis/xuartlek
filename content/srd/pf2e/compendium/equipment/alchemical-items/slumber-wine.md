@@ -11,6 +11,7 @@ tags:
 aliases: ["Slumber Wine"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3344"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Slumber Wine  *Item 12*

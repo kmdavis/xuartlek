@@ -8,6 +8,7 @@ tags:
 aliases: ["Surki"]
 aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=76"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Surki  *Ancestry*

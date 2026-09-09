@@ -5,6 +5,7 @@ tags:
 aliases: ["Goblin Snake"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=597"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Goblin Snake  *Creature Family*

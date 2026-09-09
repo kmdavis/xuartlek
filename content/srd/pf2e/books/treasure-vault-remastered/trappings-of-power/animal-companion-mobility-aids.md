@@ -9,6 +9,7 @@ tags:
 source: "Treasure Vault (Remastered)"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=1958"
 citation: "Treasure Vault (Remastered) pg. 106"
+socialImage: og-image.png
 ---
 
 # Animal Companion Mobility Aids

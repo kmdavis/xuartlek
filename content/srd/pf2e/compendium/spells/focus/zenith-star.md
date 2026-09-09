@@ -12,6 +12,7 @@ tags:
 aliases: ["Zenith Star"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2411"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Zenith Star  *Focus 1*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

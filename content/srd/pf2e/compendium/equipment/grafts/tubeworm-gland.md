@@ -9,6 +9,7 @@ tags:
 aliases: ["Tubeworm Gland"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3193"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Tubeworm Gland  *Item 7*

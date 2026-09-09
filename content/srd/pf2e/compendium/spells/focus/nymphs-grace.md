@@ -14,6 +14,7 @@ tags:
 aliases: ["Nymph's Grace"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2141"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Nymph's Grace  *Focus 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

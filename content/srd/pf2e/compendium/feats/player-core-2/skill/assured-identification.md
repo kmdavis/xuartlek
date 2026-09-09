@@ -8,6 +8,7 @@ tags:
 aliases: ["Assured Identification"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6462"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Assured Identification  *Feat 2*

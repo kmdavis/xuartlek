@@ -11,6 +11,7 @@ tags:
 aliases: ["Void Harvest"]
 aon_url: "https://2e.aonprd.com/MythicRituals.aspx?ID=198"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Void Harvest  *Ritual 9*

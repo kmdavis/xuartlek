@@ -6,6 +6,7 @@ tags:
 aliases: ["Medium Armor Expertise"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=69"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Medium Armor Expertise  *Class Feature 11*

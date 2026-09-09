@@ -8,6 +8,7 @@ tags:
 aliases: ["Light Mortar"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=36"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Light Mortar  *Siege Weapon 1*

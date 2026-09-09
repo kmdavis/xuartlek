@@ -7,6 +7,7 @@ tags:
 aliases: ["Master Eldritch Archer Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6327"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Master Eldritch Archer Spellcasting  *Feat 18*

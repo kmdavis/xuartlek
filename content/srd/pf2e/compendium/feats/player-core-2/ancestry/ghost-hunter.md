@@ -7,6 +7,7 @@ tags:
 aliases: ["Ghost Hunter"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5751"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Ghost Hunter  *Feat 1*

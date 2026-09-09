@@ -7,6 +7,7 @@ tags:
 aliases: ["Improved Swift Banishment"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4700"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Improved Swift Banishment  *Feat 18*

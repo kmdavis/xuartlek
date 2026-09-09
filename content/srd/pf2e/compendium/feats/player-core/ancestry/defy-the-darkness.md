@@ -7,6 +7,7 @@ tags:
 aliases: ["Defy the Darkness"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4395"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Defy the Darkness  *Feat 5*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Resilient"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2786"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Resilient  *Item 8+*

@@ -12,6 +12,7 @@ tags:
 aliases: ["Evolution Surge"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2915"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Evolution Surge  *Focus 1*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

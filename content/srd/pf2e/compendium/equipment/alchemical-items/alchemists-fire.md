@@ -11,6 +11,7 @@ tags:
 aliases: ["Alchemist's Fire"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3287"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Alchemist's Fire  *Item 1+*

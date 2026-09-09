@@ -10,6 +10,7 @@ tags:
 aliases: ["Magic Passage"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1591"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Magic Passage  *Spell 5*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

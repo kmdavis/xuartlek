@@ -5,6 +5,7 @@ tags:
 aliases: ["Thremyr"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=497"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Thremyr  *Deity*

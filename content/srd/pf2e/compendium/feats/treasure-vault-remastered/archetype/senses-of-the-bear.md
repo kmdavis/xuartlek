@@ -7,6 +7,7 @@ tags:
 aliases: ["Senses of the Bear"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4087"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Senses of the Bear  *Feat 4*

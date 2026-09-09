@@ -7,6 +7,7 @@ tags:
 aliases: ["Morningstar"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=363"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Morningstar  *Weapon 0*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Standard-Bearer's Sacrifice"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7817"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Standard-Bearer's Sacrifice  *Feat 10*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

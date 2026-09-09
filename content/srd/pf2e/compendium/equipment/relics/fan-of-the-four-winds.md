@@ -10,6 +10,7 @@ tags:
 aliases: ["Fan of the Four Winds"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2405"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Fan of the Four Winds  *Item 4*

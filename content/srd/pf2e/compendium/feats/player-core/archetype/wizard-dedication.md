@@ -9,6 +9,7 @@ tags:
 aliases: ["Wizard Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5106"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Wizard Dedication  *Feat 2*

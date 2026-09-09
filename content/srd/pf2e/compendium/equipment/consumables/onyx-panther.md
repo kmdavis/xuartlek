@@ -9,6 +9,7 @@ tags:
 aliases: ["Onyx Panther"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2988"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Onyx Panther  *Item 2*

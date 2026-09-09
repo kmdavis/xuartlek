@@ -7,6 +7,7 @@ tags:
 aliases: ["Breath Control"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5129"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Breath Control  *Feat 1*

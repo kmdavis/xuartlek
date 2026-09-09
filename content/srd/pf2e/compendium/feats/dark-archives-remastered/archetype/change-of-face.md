@@ -8,6 +8,7 @@ tags:
 aliases: ["Change of Face"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8449"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Change of Face  *Feat 4*

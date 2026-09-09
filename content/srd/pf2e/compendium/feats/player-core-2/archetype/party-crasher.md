@@ -8,6 +8,7 @@ tags:
 aliases: ["Party Crasher"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6306"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Party Crasher  *Feat 7*

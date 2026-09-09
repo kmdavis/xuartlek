@@ -9,6 +9,7 @@ tags:
 aliases: ["Slayer's Stone"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3894"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Slayer's Stone  *Item 6*

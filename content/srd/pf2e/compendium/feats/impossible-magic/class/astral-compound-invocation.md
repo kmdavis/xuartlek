@@ -9,6 +9,7 @@ tags:
 aliases: ["Astral Compound Invocation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9202"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Astral Compound Invocation  *Feat 12*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

@@ -5,6 +5,7 @@ tags:
 aliases: ["Trilobite"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=628"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Trilobite  *Creature Family*

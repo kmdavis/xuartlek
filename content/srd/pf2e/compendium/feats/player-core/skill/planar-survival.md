@@ -8,6 +8,7 @@ tags:
 aliases: ["Planar Survival"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5188"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Planar Survival  *Feat 7*

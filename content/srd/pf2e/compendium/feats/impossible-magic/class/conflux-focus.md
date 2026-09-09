@@ -7,6 +7,7 @@ tags:
 aliases: ["Conflux Focus"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9080"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Conflux Focus  *Feat 12*

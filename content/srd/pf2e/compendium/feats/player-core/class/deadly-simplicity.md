@@ -7,6 +7,7 @@ tags:
 aliases: ["Deadly Simplicity"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4642"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Deadly Simplicity  *Feat 1*

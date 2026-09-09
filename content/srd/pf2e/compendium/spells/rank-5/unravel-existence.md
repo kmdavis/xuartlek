@@ -10,6 +10,7 @@ tags:
 aliases: ["Unravel Existence"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2854"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Unravel Existence  *Spell 5*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

@@ -7,6 +7,7 @@ tags:
 aliases: ["Ooze"]
 aon_url: "https://2e.aonprd.com/Eidolons.aspx?ID=23"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Ooze  *Summoner Eidolon*

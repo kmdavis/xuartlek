@@ -8,6 +8,7 @@ tags:
 aliases: ["Preserving Shot"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3865"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Preserving Shot  *Item 1*

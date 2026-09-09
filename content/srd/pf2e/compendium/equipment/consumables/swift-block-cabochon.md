@@ -10,6 +10,7 @@ tags:
 aliases: ["Swift Block Cabochon"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2994"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Swift Block Cabochon  *Item 7*

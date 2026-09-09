@@ -9,6 +9,7 @@ tags:
 aliases: ["Rhoka Sword"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=543"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Rhoka Sword  *Weapon 0*

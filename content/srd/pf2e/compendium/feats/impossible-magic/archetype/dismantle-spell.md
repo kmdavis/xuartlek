@@ -7,6 +7,7 @@ tags:
 aliases: ["Dismantle Spell"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9359"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Dismantle Spell  *Feat 6*

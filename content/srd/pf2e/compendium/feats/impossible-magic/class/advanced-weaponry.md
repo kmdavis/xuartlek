@@ -8,6 +8,7 @@ tags:
 aliases: ["Advanced Weaponry"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9221"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Advanced Weaponry  *Feat 1*

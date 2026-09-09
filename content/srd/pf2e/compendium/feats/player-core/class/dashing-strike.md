@@ -8,6 +8,7 @@ tags:
 aliases: ["Dashing Strike"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4833"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Dashing Strike  *Feat 12*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

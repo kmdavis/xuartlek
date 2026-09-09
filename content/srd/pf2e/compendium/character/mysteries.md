@@ -6,6 +6,7 @@ tags:
 - compendium/src/pf2e/player-core-2
 aliases: ["Mysteries"]
 entries: 12
+socialImage: og-image.png
 ---
 
 # Mysteries

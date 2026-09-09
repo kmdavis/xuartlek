@@ -8,6 +8,7 @@ tags:
 aliases: ["Redirecting Shot"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3187"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Redirecting Shot  *Feat 10*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

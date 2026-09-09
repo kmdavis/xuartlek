@@ -10,6 +10,7 @@ tags:
 aliases: ["Fulu Of The Stoic Ox"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5077"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Fulu Of The Stoic Ox  *Item 5*

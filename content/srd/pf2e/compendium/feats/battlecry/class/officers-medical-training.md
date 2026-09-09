@@ -7,6 +7,7 @@ tags:
 aliases: ["Officer's Medical Training"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7795"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Officer's Medical Training  *Feat 1*

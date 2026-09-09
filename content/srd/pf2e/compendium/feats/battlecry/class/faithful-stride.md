@@ -8,6 +8,7 @@ tags:
 aliases: ["Faithful Stride"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7992"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Faithful Stride  *Feat 8*  [?](books/player-core/chapter-8-playing-the-game/actions#Actions "Varies")

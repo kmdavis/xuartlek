@@ -5,6 +5,7 @@ tags:
 aliases: ["Minotaur"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=444"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Minotaur  *Creature Family*

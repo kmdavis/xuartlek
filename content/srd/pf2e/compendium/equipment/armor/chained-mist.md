@@ -9,6 +9,7 @@ tags:
 aliases: ["Chained Mist"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4979"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Chained Mist  *Item 13*

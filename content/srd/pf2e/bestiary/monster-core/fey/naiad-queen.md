@@ -14,6 +14,7 @@ name: "Naiad Queen"
 level: 7
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3113"
+socialImage: og-image.png
 ---
 
 ```statblock

@@ -7,6 +7,7 @@ tags:
 aliases: ["Skittering Sneak"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5669"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Skittering Sneak  *Feat 13*

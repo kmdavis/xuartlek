@@ -7,6 +7,7 @@ tags:
 aliases: ["Siege Dragon"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=95"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Siege Dragon  *Vehicle 19*

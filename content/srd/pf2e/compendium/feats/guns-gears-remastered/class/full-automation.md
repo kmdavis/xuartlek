@@ -7,6 +7,7 @@ tags:
 aliases: ["Full Automation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3088"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Full Automation  *Feat 20*

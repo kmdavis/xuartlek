@@ -7,6 +7,7 @@ tags:
 aliases: ["Supreme Spellstrike"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9090"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Supreme Spellstrike  *Feat 20*

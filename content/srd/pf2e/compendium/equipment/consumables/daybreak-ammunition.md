@@ -9,6 +9,7 @@ tags:
 aliases: ["Daybreak Ammunition"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5033"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Daybreak Ammunition  *Item 3*

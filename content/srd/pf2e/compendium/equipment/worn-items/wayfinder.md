@@ -9,6 +9,7 @@ tags:
 aliases: ["Wayfinder"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3117"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Wayfinder  *Item 2+*

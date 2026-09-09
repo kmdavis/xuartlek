@@ -7,6 +7,7 @@ tags:
 aliases: ["Warden's Step"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4892"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Warden's Step  *Feat 10*

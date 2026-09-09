@@ -7,6 +7,7 @@ tags:
 aliases: ["Expert Kinetic Control"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4339"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Expert Kinetic Control  *Feat 12*

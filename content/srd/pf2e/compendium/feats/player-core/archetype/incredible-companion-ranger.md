@@ -7,6 +7,7 @@ tags:
 aliases: ["Incredible Companion (Ranger)"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4888"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Incredible Companion (Ranger)  *Feat 10*

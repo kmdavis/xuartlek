@@ -9,6 +9,7 @@ tags:
 aliases: ["Kirin Echo Chime"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3260"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Kirin Echo Chime  *Item 2*

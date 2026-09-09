@@ -10,6 +10,7 @@ tags:
 aliases: ["Misty Memory"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1392"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Misty Memory  *Spell 4*

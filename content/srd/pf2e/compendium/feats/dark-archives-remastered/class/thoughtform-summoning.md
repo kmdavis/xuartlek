@@ -7,6 +7,7 @@ tags:
 aliases: ["Thoughtform Summoning"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8320"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Thoughtform Summoning  *Feat 4*

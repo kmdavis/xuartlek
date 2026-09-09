@@ -7,6 +7,7 @@ tags:
 aliases: ["Aura of Righteousness"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5921"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Aura of Righteousness  *Feat 14*

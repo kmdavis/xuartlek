@@ -7,6 +7,7 @@ tags:
 aliases: ["Hobgoblin Weapon Familiarity"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5571"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Hobgoblin Weapon Familiarity  *Feat 1*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Advanced School Spell"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5036"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Advanced School Spell  *Feat 8*

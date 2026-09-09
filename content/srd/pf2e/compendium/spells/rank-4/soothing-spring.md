@@ -12,6 +12,7 @@ tags:
 aliases: ["Soothing Spring"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2820"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Soothing Spring  *Spell 4*

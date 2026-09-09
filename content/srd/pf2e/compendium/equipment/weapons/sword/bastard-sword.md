@@ -7,6 +7,7 @@ tags:
 aliases: ["Bastard Sword"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=370"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Bastard Sword  *Weapon 0*

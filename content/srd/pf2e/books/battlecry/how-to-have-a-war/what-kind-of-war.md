@@ -9,6 +9,7 @@ tags:
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3434"
 citation: "Battlecry! pg. 199"
+socialImage: og-image.png
 ---
 
 # What Kind of War?

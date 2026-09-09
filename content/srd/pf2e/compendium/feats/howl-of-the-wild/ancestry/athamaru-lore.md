@@ -8,6 +8,7 @@ tags:
 aliases: ["Athamaru Lore"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5273"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Athamaru Lore  *Feat 1*

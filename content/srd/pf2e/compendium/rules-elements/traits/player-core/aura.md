@@ -6,6 +6,7 @@ tags:
 aliases: ["Aura"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=542"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Aura  *Trait*

@@ -9,6 +9,7 @@ tags:
 source: "GM Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2666"
 citation: "GM Core pg. 63"
+socialImage: og-image.png
 ---
 
 # To Create or Adapt

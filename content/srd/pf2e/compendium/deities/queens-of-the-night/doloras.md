@@ -5,6 +5,7 @@ tags:
 aliases: ["Doloras"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=589"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Doloras  *Deity*

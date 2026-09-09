@@ -9,6 +9,7 @@ tags:
 aliases: ["Demolition Fulu"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2030"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Demolition Fulu  *Item 3+*

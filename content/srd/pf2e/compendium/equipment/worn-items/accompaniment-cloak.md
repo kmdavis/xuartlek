@@ -9,6 +9,7 @@ tags:
 aliases: ["Accompaniment Cloak"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2318"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Accompaniment Cloak  *Item 11*

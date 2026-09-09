@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Kata"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6211"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Basic Kata  *Feat 4*

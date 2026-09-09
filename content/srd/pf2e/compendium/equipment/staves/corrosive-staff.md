@@ -8,6 +8,7 @@ tags:
 aliases: ["Corrosive Staff"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5163"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Corrosive Staff  *Item 4+*

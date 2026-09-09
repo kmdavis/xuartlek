@@ -8,6 +8,7 @@ tags:
 aliases: ["Wind at Your Back"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2201"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wind at Your Back  *Item 5*

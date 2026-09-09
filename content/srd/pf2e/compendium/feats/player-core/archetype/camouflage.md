@@ -7,6 +7,7 @@ tags:
 aliases: ["Camouflage"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4887"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Camouflage  *Feat 10*

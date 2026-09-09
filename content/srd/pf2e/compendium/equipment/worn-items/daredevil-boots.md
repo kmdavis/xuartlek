@@ -8,6 +8,7 @@ tags:
 aliases: ["Daredevil Boots"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3075"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Daredevil Boots  *Item 10+*

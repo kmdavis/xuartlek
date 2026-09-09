@@ -7,6 +7,7 @@ tags:
 aliases: ["Peerless Mascot Companion"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7825"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Peerless Mascot Companion  *Feat 16*

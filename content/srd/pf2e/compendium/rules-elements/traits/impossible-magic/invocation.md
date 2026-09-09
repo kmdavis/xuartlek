@@ -6,6 +6,7 @@ tags:
 aliases: ["Invocation"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=956"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Invocation  *Trait*

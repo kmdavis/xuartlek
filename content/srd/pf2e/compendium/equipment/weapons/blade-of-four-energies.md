@@ -7,6 +7,7 @@ tags:
 aliases: ["Blade Of Four Energies"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5013"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Blade Of Four Energies  *Item 13+*

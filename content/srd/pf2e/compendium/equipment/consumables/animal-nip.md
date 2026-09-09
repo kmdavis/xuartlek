@@ -11,6 +11,7 @@ tags:
 aliases: ["Animal Nip"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2636"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Animal Nip  *Item 4+*

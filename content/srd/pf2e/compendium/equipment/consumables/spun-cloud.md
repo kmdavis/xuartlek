@@ -10,6 +10,7 @@ tags:
 aliases: ["Spun Cloud"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2585"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Spun Cloud  *Item 2+*

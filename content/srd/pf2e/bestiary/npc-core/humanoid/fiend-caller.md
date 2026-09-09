@@ -13,6 +13,7 @@ name: "Fiend Caller"
 level: 3
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3609"
+socialImage: og-image.png
 ---
 
 ```statblock

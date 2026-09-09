@@ -11,6 +11,7 @@ tags:
 aliases: ["Viperous Elixir"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3238"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Viperous Elixir  *Item 5+*

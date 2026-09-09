@@ -9,6 +9,7 @@ tags:
 aliases: ["Sniper's Bead"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1234"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sniper's Bead  *Item 4+*

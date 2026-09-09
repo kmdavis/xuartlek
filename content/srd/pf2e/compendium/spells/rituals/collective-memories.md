@@ -7,6 +7,7 @@ tags:
 aliases: ["Collective Memories"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=113"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Collective Memories  *Ritual 7*

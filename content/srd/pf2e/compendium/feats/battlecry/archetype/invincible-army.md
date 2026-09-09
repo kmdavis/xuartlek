@@ -11,6 +11,7 @@ tags:
 aliases: ["Invincible Army"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7926"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Invincible Army  *Feat 6*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

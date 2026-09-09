@@ -8,6 +8,7 @@ tags:
 aliases: ["Dazzling Bullet"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3253"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Dazzling Bullet  *Feat 6*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

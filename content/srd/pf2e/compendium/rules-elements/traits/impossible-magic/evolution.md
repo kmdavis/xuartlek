@@ -6,6 +6,7 @@ tags:
 aliases: ["Evolution"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=959"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Evolution  *Trait*

@@ -4,6 +4,7 @@ tags:
 - table/decks
 aliases: ["Critical Hit Deck: Bludgeoning"]
 source: "Critical Hit Deck p. 0"
+socialImage: og-image.png
 ---
 
 # Critical Hit Deck: Bludgeoning

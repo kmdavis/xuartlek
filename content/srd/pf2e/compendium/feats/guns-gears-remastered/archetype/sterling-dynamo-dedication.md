@@ -9,6 +9,7 @@ tags:
 aliases: ["Sterling Dynamo Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3127"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sterling Dynamo Dedication  *Feat 2*

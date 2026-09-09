@@ -6,6 +6,7 @@ tags:
 aliases: ["Trundle Wheel"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3253"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Trundle Wheel  *Item 0*

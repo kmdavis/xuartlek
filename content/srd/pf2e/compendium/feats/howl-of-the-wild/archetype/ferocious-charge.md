@@ -7,6 +7,7 @@ tags:
 aliases: ["Ferocious Charge"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5428"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Ferocious Charge  *Feat 10*

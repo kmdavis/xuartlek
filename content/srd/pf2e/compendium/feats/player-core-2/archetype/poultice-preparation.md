@@ -7,6 +7,7 @@ tags:
 aliases: ["Poultice Preparation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6341"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Poultice Preparation  *Feat 4*

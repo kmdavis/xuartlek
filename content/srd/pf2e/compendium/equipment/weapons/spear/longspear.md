@@ -7,6 +7,7 @@ tags:
 aliases: ["Longspear"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=361"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Longspear  *Weapon 0*

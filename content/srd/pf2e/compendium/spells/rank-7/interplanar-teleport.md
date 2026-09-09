@@ -10,6 +10,7 @@ tags:
 aliases: ["Interplanar Teleport"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1576"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Interplanar Teleport  *Spell 7*

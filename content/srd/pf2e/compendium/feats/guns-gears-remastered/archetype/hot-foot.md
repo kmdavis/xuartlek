@@ -7,6 +7,7 @@ tags:
 aliases: ["Hot Foot"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3254"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Hot Foot  *Feat 8*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

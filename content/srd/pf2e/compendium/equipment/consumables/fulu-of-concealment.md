@@ -10,6 +10,7 @@ tags:
 aliases: ["Fulu Of Concealment"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5073"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Fulu Of Concealment  *Item 6*

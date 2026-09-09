@@ -9,6 +9,7 @@ tags:
 source: "Impossible Magic"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3685"
 citation: "Impossible Magic pg. 70"
+socialImage: og-image.png
 ---
 
 # Unarmed Attacks

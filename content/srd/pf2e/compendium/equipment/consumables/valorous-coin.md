@@ -9,6 +9,7 @@ tags:
 aliases: ["Valorous Coin"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3898"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Valorous Coin  *Item 8*

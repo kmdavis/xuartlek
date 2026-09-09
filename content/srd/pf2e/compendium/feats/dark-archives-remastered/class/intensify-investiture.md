@@ -7,6 +7,7 @@ tags:
 aliases: ["Intensify Investiture"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8376"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Intensify Investiture  *Feat 12*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

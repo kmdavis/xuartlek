@@ -9,6 +9,7 @@ tags:
 aliases: ["Broken Ram's Thorn"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3256"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Broken Ram's Thorn  *Item 9*

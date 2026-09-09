@@ -5,6 +5,7 @@ tags:
 aliases: ["Mosquito"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=610"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Mosquito  *Creature Family*

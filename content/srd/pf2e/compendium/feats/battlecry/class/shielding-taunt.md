@@ -8,6 +8,7 @@ tags:
 aliases: ["Shielding Taunt"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7842"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Shielding Taunt  *Feat 2*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

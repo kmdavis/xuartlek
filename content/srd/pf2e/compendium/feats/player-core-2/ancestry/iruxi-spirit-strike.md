@@ -7,6 +7,7 @@ tags:
 aliases: ["Iruxi Spirit Strike"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5647"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Iruxi Spirit Strike  *Feat 13*

@@ -9,6 +9,7 @@ tags:
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3262"
 citation: "Monster Core pg. 6"
+socialImage: og-image.png
 ---
 
 # Adjusting Creatures

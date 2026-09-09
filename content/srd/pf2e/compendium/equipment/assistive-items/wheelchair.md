@@ -6,6 +6,7 @@ tags:
 aliases: ["Wheelchair"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2777"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Wheelchair  *Item 0+*

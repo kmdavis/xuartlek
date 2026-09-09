@@ -7,6 +7,7 @@ tags:
 aliases: ["Meld Into Eidolon"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9227"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Meld Into Eidolon  *Feat 1*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

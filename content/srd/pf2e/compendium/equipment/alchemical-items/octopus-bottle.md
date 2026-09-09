@@ -10,6 +10,7 @@ tags:
 aliases: ["Octopus Bottle"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1952"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Octopus Bottle  *Item 8*

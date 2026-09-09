@@ -9,6 +9,7 @@ tags:
 aliases: ["Spy Staff"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2259"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Spy Staff  *Item 7+*

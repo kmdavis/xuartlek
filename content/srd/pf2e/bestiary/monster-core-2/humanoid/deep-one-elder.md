@@ -13,6 +13,7 @@ name: "Deep One Elder"
 level: 14
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4316"
+socialImage: og-image.png
 ---
 
 ```statblock

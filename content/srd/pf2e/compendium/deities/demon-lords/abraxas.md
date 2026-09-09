@@ -5,6 +5,7 @@ tags:
 aliases: ["Abraxas"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=425"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Abraxas  *Deity*

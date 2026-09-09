@@ -7,6 +7,7 @@ tags:
 aliases: ["Alchemical Assessment"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5761"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Alchemical Assessment  *Feat 1*

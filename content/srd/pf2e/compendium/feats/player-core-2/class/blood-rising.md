@@ -7,6 +7,7 @@ tags:
 aliases: ["Blood Rising"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6089"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Blood Rising  *Feat 1*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

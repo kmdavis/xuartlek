@@ -8,6 +8,7 @@ tags:
 aliases: ["Anchor of Aquatic Exploration"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2186"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Anchor of Aquatic Exploration  *Item 9*

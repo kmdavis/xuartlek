@@ -8,6 +8,7 @@ tags:
 aliases: ["Nocturnal Senses"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5831"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Nocturnal Senses  *Feat 6*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Protector's Sacrifice"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1832"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Protector's Sacrifice  *Focus 1*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

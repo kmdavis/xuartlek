@@ -7,6 +7,7 @@ tags:
 aliases: ["Ultimate Polymath"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4641"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Ultimate Polymath  *Feat 20*

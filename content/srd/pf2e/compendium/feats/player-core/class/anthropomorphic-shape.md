@@ -7,6 +7,7 @@ tags:
 aliases: ["Anthropomorphic Shape"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4720"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Anthropomorphic Shape  *Feat 4*

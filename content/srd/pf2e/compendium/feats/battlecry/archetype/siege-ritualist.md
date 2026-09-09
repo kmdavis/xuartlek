@@ -7,6 +7,7 @@ tags:
 aliases: ["Siege Ritualist"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7979"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Siege Ritualist  *Feat 4*

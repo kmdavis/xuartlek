@@ -6,6 +6,7 @@ tags:
 aliases: ["Military Expertise"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=66"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Military Expertise  *Class Feature 5*

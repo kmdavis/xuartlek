@@ -9,6 +9,7 @@ tags:
 aliases: ["Silent Bell"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4127"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Silent Bell  *Item 9*

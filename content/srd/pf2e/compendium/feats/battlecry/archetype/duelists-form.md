@@ -8,6 +8,7 @@ tags:
 aliases: ["Duelist's Form"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7908"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Duelist's Form  *Feat 16*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

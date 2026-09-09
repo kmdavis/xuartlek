@@ -7,6 +7,7 @@ tags:
 aliases: ["Magic Weapon"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2861"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Magic Weapon  *Item 2+*

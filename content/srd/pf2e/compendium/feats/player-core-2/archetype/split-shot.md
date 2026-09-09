@@ -10,6 +10,7 @@ tags:
 aliases: ["Split Shot"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6098"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Split Shot  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

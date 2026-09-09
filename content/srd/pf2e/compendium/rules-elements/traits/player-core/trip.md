@@ -6,6 +6,7 @@ tags:
 aliases: ["Trip"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=716"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Trip  *Trait*

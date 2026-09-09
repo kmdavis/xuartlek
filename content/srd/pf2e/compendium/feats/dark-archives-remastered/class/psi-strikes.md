@@ -8,6 +8,7 @@ tags:
 aliases: ["Psi Strikes"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8319"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Psi Strikes  *Feat 4*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

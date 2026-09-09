@@ -8,6 +8,7 @@ tags:
 aliases: ["Pernicious Poison"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5768"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Pernicious Poison  *Feat 2*

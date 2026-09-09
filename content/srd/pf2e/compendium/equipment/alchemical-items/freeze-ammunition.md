@@ -10,6 +10,7 @@ tags:
 aliases: ["Freeze Ammunition"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1898"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Freeze Ammunition  *Item 5*

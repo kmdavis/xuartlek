@@ -8,6 +8,7 @@ tags:
 aliases: ["Mist Sight"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2771"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Mist Sight  *Spell 2*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

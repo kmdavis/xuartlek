@@ -8,6 +8,7 @@ tags:
 aliases: ["Armor Assist"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6460"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Armor Assist  *Feat 1*

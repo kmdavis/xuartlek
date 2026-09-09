@@ -5,6 +5,7 @@ tags:
 aliases: ["Criminal"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=533"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Criminal  *Creature Family*

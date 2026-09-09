@@ -8,6 +8,7 @@ tags:
 aliases: ["Birchstaff"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5161"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Birchstaff  *Item 4+*

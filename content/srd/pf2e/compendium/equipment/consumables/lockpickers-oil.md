@@ -9,6 +9,7 @@ tags:
 aliases: ["Lockpicker's Oil"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5092"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Lockpicker's Oil  *Item 3+*

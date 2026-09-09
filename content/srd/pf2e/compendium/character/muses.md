@@ -5,6 +5,7 @@ tags:
 - compendium/src/pf2e/player-core
 aliases: ["Muses"]
 entries: 5
+socialImage: og-image.png
 ---
 
 # Muses

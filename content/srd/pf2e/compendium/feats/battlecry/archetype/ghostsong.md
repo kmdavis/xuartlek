@@ -8,6 +8,7 @@ tags:
 aliases: ["Ghostsong"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7969"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Ghostsong  *Feat 10*

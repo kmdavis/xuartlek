@@ -10,6 +10,7 @@ tags:
 aliases: ["Dragonscale Cameo"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2102"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Dragonscale Cameo  *Item 12*

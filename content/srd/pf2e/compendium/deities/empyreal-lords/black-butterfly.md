@@ -5,6 +5,7 @@ tags:
 aliases: ["Black Butterfly"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=468"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Black Butterfly  *Deity*

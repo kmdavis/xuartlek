@@ -9,6 +9,7 @@ tags:
 aliases: ["Dive of the Divine"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7537"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Dive of the Divine  *Feat 16*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

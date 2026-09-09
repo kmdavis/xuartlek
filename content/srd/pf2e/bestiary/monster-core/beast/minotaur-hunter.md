@@ -11,6 +11,7 @@ name: "Minotaur Hunter"
 level: 4
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3099"
+socialImage: og-image.png
 ---
 
 ```statblock

@@ -7,6 +7,7 @@ tags:
 aliases: ["Chronoskimmer"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=349"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Chronoskimmer  *Archetype 2*

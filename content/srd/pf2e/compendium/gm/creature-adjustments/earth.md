@@ -5,6 +5,7 @@ tags:
 aliases: ["Earth"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=17"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Earth  *Creature Adjustment*

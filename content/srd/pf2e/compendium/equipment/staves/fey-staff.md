@@ -8,6 +8,7 @@ tags:
 aliases: ["Fey Staff"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5165"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Fey Staff  *Item 6+*

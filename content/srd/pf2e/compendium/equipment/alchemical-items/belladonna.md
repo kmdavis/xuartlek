@@ -10,6 +10,7 @@ tags:
 aliases: ["Belladonna"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3323"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Belladonna  *Item 2*

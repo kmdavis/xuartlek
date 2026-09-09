@@ -7,6 +7,7 @@ tags:
 aliases: ["Distracting Bites"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5467"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Distracting Bites  *Feat 6*

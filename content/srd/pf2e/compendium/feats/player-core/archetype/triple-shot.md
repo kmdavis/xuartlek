@@ -7,6 +7,7 @@ tags:
 aliases: ["Triple Shot"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4808"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Triple Shot  *Feat 6*

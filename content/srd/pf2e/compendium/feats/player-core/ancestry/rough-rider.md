@@ -7,6 +7,7 @@ tags:
 aliases: ["Rough Rider"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4445"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Rough Rider  *Feat 1*

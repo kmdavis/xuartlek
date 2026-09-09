@@ -7,6 +7,7 @@ tags:
 aliases: ["Sukgung"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=341"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sukgung  *Weapon 1*

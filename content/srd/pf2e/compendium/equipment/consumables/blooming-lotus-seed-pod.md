@@ -11,6 +11,7 @@ tags:
 aliases: ["Blooming Lotus Seed Pod"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2637"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Blooming Lotus Seed Pod  *Item 7*

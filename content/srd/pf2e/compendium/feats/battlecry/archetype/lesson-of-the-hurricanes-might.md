@@ -7,6 +7,7 @@ tags:
 aliases: ["Lesson of the Hurricane's Might"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7955"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Lesson of the Hurricane's Might  *Feat 14*

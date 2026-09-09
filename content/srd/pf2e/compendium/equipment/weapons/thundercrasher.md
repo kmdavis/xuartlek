@@ -8,6 +8,7 @@ tags:
 aliases: ["Thundercrasher"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1894"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Thundercrasher  *Item 5*

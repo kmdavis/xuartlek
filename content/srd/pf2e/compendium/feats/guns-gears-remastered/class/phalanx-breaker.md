@@ -7,6 +7,7 @@ tags:
 aliases: ["Phalanx Breaker"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3173"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Phalanx Breaker  *Feat 6*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

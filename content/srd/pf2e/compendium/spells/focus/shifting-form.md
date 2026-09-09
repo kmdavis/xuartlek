@@ -11,6 +11,7 @@ tags:
 aliases: ["Shifting Form"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1905"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Shifting Form  *Focus 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

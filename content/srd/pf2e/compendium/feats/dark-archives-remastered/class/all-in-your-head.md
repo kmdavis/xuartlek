@@ -8,6 +8,7 @@ tags:
 aliases: ["All in your Head"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8346"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # All in your Head  *Feat 18*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

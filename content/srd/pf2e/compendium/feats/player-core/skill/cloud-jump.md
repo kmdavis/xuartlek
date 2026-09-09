@@ -8,6 +8,7 @@ tags:
 aliases: ["Cloud Jump"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5133"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Cloud Jump  *Feat 15*

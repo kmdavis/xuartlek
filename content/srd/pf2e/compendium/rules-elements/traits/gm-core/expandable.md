@@ -6,6 +6,7 @@ tags:
 aliases: ["Expandable"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=475"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Expandable  *Trait*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Eliminate Red Herrings"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5934"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Eliminate Red Herrings  *Feat 1*

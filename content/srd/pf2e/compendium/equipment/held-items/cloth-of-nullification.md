@@ -8,6 +8,7 @@ tags:
 aliases: ["Cloth of Nullification"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3416"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Cloth of Nullification  *Item 20*

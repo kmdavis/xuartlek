@@ -6,6 +6,7 @@ tags:
 aliases: ["Alchemical Bomb"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=431"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Alchemical Bomb  *Weapon 0*

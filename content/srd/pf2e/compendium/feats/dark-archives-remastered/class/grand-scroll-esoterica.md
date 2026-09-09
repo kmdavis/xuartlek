@@ -7,6 +7,7 @@ tags:
 aliases: ["Grand Scroll Esoterica"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8385"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Grand Scroll Esoterica  *Feat 18*

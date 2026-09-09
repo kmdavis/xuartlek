@@ -15,6 +15,7 @@ tags:
 aliases: ["Overflowing Sorrow"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2408"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Overflowing Sorrow  *Focus 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

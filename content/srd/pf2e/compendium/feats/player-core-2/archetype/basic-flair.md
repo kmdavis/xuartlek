@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Flair"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6234"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Basic Flair  *Feat 4*

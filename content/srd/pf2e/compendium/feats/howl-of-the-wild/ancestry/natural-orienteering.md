@@ -7,6 +7,7 @@ tags:
 aliases: ["Natural Orienteering"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5372"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Natural Orienteering  *Feat 5*

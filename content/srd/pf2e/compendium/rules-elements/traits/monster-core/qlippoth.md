@@ -6,6 +6,7 @@ tags:
 aliases: ["Qlippoth"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=767"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Qlippoth  *Trait*

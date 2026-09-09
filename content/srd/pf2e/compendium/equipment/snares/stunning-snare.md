@@ -10,6 +10,7 @@ tags:
 aliases: ["Stunning Snare"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3388"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Stunning Snare  *Item 12*

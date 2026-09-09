@@ -7,6 +7,7 @@ tags:
 aliases: ["Head Stomp"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4931"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Head Stomp  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

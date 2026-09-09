@@ -9,6 +9,7 @@ tags:
 aliases: ["Resonating Ammunition"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5040"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Resonating Ammunition  *Item 11*

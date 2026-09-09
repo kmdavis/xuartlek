@@ -7,6 +7,7 @@ tags:
 aliases: ["Defensive Swap"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7798"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Defensive Swap  *Feat 2*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

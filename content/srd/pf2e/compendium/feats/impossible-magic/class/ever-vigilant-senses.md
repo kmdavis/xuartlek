@@ -8,6 +8,7 @@ tags:
 aliases: ["Ever-Vigilant Senses"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9277"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Ever-Vigilant Senses  *Feat 16*

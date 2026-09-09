@@ -9,6 +9,7 @@ tags:
 aliases: ["In the Horde's Grip"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7975"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # In the Horde's Grip  *Feat 14*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

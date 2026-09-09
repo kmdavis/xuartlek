@@ -8,6 +8,7 @@ tags:
 aliases: ["Morph-Risen"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8435"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Morph-Risen  *Feat 1*

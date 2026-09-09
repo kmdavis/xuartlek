@@ -8,6 +8,7 @@ tags:
 aliases: ["Cornucopia of Plenty"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3932"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Cornucopia of Plenty  *Item 3*

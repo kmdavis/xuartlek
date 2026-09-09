@@ -7,6 +7,7 @@ tags:
 aliases: ["Gifted Power"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6064"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Gifted Power  *Feat 6*

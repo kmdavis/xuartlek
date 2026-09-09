@@ -10,6 +10,7 @@ tags:
 aliases: ["Ethersight Ring"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2342"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Ethersight Ring  *Item 7*

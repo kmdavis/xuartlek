@@ -7,6 +7,7 @@ tags:
 aliases: ["Clue Them All In"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5955"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Clue Them All In  *Feat 8*

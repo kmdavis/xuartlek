@@ -9,6 +9,7 @@ tags:
 aliases: ["Hippogriff in a Jar"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1949"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Hippogriff in a Jar  *Item 5*

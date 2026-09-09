@@ -8,6 +8,7 @@ tags:
 aliases: ["Athamaru Weapon Familiarity"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5274"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Athamaru Weapon Familiarity  *Feat 1*

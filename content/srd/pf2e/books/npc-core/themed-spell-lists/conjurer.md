@@ -9,6 +9,7 @@ tags:
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3385"
 citation: "NPC Core pg. 220"
+socialImage: og-image.png
 ---
 
 # Conjurer

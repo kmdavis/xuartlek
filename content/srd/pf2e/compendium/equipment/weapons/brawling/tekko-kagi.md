@@ -13,6 +13,7 @@ tags:
 aliases: ["Tekko-Kagi"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=304"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Tekko-Kagi  *Weapon 0*

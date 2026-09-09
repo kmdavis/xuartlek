@@ -12,6 +12,7 @@ tags:
 aliases: ["Diadem of Divine Radiance"]
 aon_url: "https://2e.aonprd.com/MythicSpells.aspx?ID=2163"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Diadem of Divine Radiance  *Spell 5*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

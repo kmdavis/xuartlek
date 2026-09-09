@@ -6,6 +6,7 @@ tags:
 aliases: ["Vishkanya"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=891"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Vishkanya  *Trait*

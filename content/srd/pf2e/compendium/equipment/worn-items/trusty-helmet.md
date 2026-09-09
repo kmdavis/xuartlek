@@ -8,6 +8,7 @@ tags:
 aliases: ["Trusty Helmet"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3983"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Trusty Helmet  *Item 2*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Predator's Pounce"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5857"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Predator's Pounce  *Feat 12*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

@@ -7,6 +7,7 @@ tags:
 aliases: ["Survey Map"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2764"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Survey Map  *Item 3+*

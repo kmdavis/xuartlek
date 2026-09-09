@@ -10,6 +10,7 @@ tags:
 aliases: ["Gunslinger Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3215"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Gunslinger Dedication  *Feat 2*

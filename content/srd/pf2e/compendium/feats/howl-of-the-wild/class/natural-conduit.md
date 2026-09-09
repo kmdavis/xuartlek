@@ -10,6 +10,7 @@ tags:
 aliases: ["Natural Conduit"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5409"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Natural Conduit  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

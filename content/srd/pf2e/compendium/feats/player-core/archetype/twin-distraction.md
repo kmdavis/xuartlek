@@ -7,6 +7,7 @@ tags:
 aliases: ["Twin Distraction"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4939"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Twin Distraction  *Feat 4*

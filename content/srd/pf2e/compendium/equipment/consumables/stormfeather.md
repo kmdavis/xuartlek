@@ -9,6 +9,7 @@ tags:
 aliases: ["Stormfeather"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5110"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Stormfeather  *Item 8*

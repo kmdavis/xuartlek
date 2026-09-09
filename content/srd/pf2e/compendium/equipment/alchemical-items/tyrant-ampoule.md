@@ -9,6 +9,7 @@ tags:
 aliases: ["Tyrant Ampoule"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1953"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Tyrant Ampoule  *Item 10*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Zombie Staff"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2264"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Zombie Staff  *Item 7+*

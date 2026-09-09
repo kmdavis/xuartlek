@@ -8,6 +8,7 @@ tags:
 aliases: ["Positioning Assault"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4815"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Positioning Assault  *Feat 8*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

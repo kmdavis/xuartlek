@@ -7,6 +7,7 @@ tags:
 aliases: ["Primal Rampage"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5648"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Primal Rampage  *Feat 13*

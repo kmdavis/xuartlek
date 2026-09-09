@@ -7,6 +7,7 @@ tags:
 aliases: ["Coatl"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=748"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Coatl  *Trait*

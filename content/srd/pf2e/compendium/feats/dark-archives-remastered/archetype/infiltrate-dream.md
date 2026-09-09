@@ -9,6 +9,7 @@ tags:
 aliases: ["Infiltrate Dream"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8516"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Infiltrate Dream  *Feat 6*

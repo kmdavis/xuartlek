@@ -8,6 +8,7 @@ tags:
 aliases: ["Climbing Bolt"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2922"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Climbing Bolt  *Item 4*

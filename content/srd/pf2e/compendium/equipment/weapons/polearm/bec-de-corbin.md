@@ -10,6 +10,7 @@ tags:
 aliases: ["Bec de Corbin"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=272"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Bec de Corbin  *Weapon 0*

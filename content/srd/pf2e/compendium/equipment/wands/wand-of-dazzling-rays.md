@@ -11,6 +11,7 @@ tags:
 aliases: ["Wand of Dazzling Rays"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2277"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wand of Dazzling Rays  *Item 8+*

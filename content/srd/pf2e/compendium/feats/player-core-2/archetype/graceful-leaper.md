@@ -8,6 +8,7 @@ tags:
 aliases: ["Graceful Leaper"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6243"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Graceful Leaper  *Feat 7*

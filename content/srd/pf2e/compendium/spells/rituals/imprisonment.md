@@ -8,6 +8,7 @@ tags:
 aliases: ["Imprisonment"]
 aon_url: "https://2e.aonprd.com/MythicRituals.aspx?ID=194"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Imprisonment  *Ritual 8*

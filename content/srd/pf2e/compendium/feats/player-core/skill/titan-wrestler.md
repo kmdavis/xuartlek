@@ -8,6 +8,7 @@ tags:
 aliases: ["Titan Wrestler"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5226"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Titan Wrestler  *Feat 1*

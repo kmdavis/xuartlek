@@ -11,6 +11,7 @@ tags:
 aliases: ["Vow of Mortal Defiance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7157"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Vow of Mortal Defiance  *Feat 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

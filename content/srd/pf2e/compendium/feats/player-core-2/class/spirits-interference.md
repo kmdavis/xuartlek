@@ -9,6 +9,7 @@ tags:
 aliases: ["Spirits' Interference"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5834"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Spirits' Interference  *Feat 6*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

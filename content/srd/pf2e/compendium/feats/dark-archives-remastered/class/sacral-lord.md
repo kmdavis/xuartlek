@@ -9,6 +9,7 @@ tags:
 aliases: ["Sacral Lord"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8478"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sacral Lord  *Feat 4*

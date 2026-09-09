@@ -5,6 +5,7 @@ tags:
 aliases: ["Light of the Everlasting Flame"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=369"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Light of the Everlasting Flame  *Deity*

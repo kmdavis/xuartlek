@@ -7,6 +7,7 @@ tags:
 aliases: ["Expert Combat Eidolon"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9312"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Expert Combat Eidolon  *Feat 12*

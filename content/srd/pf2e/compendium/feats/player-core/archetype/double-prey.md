@@ -7,6 +7,7 @@ tags:
 aliases: ["Double Prey"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4894"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Double Prey  *Feat 12*

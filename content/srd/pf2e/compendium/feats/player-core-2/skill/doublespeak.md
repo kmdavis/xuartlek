@@ -8,6 +8,7 @@ tags:
 aliases: ["Doublespeak"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6476"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Doublespeak  *Feat 7*

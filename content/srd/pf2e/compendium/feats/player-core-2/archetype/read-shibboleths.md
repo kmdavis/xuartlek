@@ -9,6 +9,7 @@ tags:
 aliases: ["Read Shibboleths"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6349"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Read Shibboleths  *Feat 7*

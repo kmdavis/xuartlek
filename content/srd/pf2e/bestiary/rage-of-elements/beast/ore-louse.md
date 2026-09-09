@@ -12,6 +12,7 @@ name: "Ore Louse"
 level: 5
 source: "Rage of Elements"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2665"
+socialImage: og-image.png
 ---
 
 ```statblock

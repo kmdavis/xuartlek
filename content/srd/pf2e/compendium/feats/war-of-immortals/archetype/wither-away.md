@@ -11,6 +11,7 @@ tags:
 aliases: ["Wither Away"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7314"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Wither Away  *Feat 16*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

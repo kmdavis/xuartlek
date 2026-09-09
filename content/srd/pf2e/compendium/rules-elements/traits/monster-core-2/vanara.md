@@ -6,6 +6,7 @@ tags:
 aliases: ["Vanara"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=889"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Vanara  *Trait*

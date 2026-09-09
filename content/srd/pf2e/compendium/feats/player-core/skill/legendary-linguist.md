@@ -8,6 +8,7 @@ tags:
 aliases: ["Legendary Linguist"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5168"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Legendary Linguist  *Feat 15*

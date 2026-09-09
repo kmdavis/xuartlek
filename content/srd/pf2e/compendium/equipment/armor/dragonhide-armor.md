@@ -7,6 +7,7 @@ tags:
 aliases: ["Dragonhide Armor"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3269"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Dragonhide Armor  *Item 12+*

@@ -11,6 +11,7 @@ tags:
 aliases: ["Reflected Desires"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=630"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Reflected Desires  *Hazard 1*

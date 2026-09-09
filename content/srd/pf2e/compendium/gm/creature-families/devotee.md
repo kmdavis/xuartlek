@@ -5,6 +5,7 @@ tags:
 aliases: ["Devotee"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=534"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Devotee  *Creature Family*

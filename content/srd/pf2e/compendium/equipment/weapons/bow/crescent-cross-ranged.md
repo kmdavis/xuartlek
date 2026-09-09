@@ -10,6 +10,7 @@ tags:
 aliases: ["Crescent Cross (Ranged)"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=345"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Crescent Cross (Ranged)  *Weapon 0*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Shield Bow"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=339"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Shield Bow  *Weapon 0*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Bloodrager"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=283"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Bloodrager  *Archetype 2*

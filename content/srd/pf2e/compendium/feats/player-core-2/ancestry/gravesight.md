@@ -7,6 +7,7 @@ tags:
 aliases: ["Gravesight"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5752"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Gravesight  *Feat 1*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Soulforger Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9350"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Soulforger Dedication  *Feat 2*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Air"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=527"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Air  *Trait*

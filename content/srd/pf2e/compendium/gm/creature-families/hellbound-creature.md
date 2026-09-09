@@ -5,6 +5,7 @@ tags:
 aliases: ["Hellbound Creature"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=670"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Hellbound Creature  *Creature Family*

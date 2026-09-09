@@ -8,6 +8,7 @@ tags:
 aliases: ["Aggressive Block"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4776"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Aggressive Block  *Feat 2*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

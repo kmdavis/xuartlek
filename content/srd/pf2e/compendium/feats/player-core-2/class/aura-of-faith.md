@@ -7,6 +7,7 @@ tags:
 aliases: ["Aura of Faith"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5913"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Aura of Faith  *Feat 12*

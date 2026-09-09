@@ -9,6 +9,7 @@ tags:
 aliases: ["Circle of Spirits"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7121"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Circle of Spirits  *Feat 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

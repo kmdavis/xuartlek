@@ -10,6 +10,7 @@ tags:
 aliases: ["Dullahan Codex"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2379"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Dullahan Codex  *Item 20*

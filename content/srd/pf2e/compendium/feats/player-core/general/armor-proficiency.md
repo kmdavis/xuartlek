@@ -7,6 +7,7 @@ tags:
 aliases: ["Armor Proficiency"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5120"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Armor Proficiency  *Feat 1*

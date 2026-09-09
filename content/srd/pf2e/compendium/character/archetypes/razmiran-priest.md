@@ -7,6 +7,7 @@ tags:
 aliases: ["Razmiran Priest"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=307"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Razmiran Priest  *Archetype 2*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Implausible Purchase"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5971"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Implausible Purchase  *Feat 16*

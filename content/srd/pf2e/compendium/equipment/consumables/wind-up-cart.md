@@ -10,6 +10,7 @@ tags:
 aliases: ["Wind-Up Cart"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1120"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wind-Up Cart  *Item 2*

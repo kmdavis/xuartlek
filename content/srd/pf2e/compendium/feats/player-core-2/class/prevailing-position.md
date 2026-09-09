@@ -7,6 +7,7 @@ tags:
 aliases: ["Prevailing Position"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6020"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Prevailing Position  *Feat 10*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

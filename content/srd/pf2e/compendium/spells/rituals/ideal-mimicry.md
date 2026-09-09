@@ -8,6 +8,7 @@ tags:
 aliases: ["Ideal Mimicry"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=257"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Ideal Mimicry  *Ritual 6*

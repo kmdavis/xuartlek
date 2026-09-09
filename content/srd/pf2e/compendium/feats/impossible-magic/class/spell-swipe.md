@@ -7,6 +7,7 @@ tags:
 aliases: ["Spell Swipe"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9069"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Spell Swipe  *Feat 8*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

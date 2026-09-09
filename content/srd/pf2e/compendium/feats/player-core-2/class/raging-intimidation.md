@@ -7,6 +7,7 @@ tags:
 aliases: ["Raging Intimidation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5810"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Raging Intimidation  *Feat 1*

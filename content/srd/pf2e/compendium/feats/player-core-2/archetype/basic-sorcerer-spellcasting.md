@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Sorcerer Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6226"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Basic Sorcerer Spellcasting  *Feat 4*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Halfling"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=621"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Halfling  *Trait*

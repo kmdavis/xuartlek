@@ -5,6 +5,7 @@ tags:
 aliases: ["Yog-Sothoth"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=580"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Yog-Sothoth  *Deity*

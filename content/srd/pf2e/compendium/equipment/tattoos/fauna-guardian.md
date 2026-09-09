@@ -10,6 +10,7 @@ tags:
 aliases: ["Fauna Guardian"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2205"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Fauna Guardian  *Item 9*

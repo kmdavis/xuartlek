@@ -5,6 +5,7 @@ tags:
 aliases: ["Dammar"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=536"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Dammar  *Deity*

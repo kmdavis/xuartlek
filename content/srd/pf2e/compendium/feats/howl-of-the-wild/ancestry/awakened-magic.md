@@ -7,6 +7,7 @@ tags:
 aliases: ["Awakened Magic"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5298"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Awakened Magic  *Feat 1*

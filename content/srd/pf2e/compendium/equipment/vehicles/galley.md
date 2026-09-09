@@ -6,6 +6,7 @@ tags:
 aliases: ["Galley"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=75"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Galley  *Vehicle 10*

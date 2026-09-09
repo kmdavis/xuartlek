@@ -7,6 +7,7 @@ tags:
 aliases: ["Expert Snowcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4101"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Expert Snowcasting  *Feat 12*

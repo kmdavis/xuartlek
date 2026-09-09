@@ -7,6 +7,7 @@ tags:
 aliases: ["Undying Ferocity"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4525"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Undying Ferocity  *Feat 9*

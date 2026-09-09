@@ -5,6 +5,7 @@ tags:
 aliases: ["Mythic Ambusher"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=31"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Mythic Ambusher  *Creature Adjustment*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Explosive Ammunition"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2923"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Explosive Ammunition  *Item 9+*

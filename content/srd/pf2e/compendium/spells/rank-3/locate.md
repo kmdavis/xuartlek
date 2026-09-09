@@ -10,6 +10,7 @@ tags:
 aliases: ["Locate"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1588"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Locate  *Spell 3*

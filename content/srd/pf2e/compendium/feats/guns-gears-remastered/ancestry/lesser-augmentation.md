@@ -7,6 +7,7 @@ tags:
 aliases: ["Lesser Augmentation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3103"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Lesser Augmentation  *Feat 9*

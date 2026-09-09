@@ -5,6 +5,7 @@ tags:
 aliases: ["Droskar"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=447"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Droskar  *Deity*

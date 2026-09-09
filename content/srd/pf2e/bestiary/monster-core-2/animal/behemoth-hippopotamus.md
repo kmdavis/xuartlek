@@ -10,6 +10,7 @@ name: "Behemoth Hippopotamus"
 level: 10
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4439"
+socialImage: og-image.png
 ---
 
 ```statblock

@@ -8,6 +8,7 @@ tags:
 aliases: ["Whispering Spirit Tome"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5138"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Whispering Spirit Tome  *Item 6*

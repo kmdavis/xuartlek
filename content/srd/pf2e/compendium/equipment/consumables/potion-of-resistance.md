@@ -9,6 +9,7 @@ tags:
 aliases: ["Potion of Resistance"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2951"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Potion of Resistance  *Item 6+*

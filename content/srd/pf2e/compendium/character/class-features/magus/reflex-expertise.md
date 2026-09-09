@@ -6,6 +6,7 @@ tags:
 aliases: ["Reflex Expertise"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=74"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Reflex Expertise  *Class Feature 5*

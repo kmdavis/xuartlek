@@ -13,6 +13,7 @@ tags:
 aliases: ["Blightburn Bomb"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1902"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Blightburn Bomb  *Item 15+*

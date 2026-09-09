@@ -8,6 +8,7 @@ tags:
 aliases: ["Magic Wand"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3050"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Magic Wand  *Item 3+*

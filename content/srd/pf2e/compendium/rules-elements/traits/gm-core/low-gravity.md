@@ -6,6 +6,7 @@ tags:
 aliases: ["Low Gravity"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=643"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Low Gravity  *Trait*

@@ -11,6 +11,7 @@ tags:
 aliases: ["Nunchaku"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=414"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Nunchaku  *Weapon 0*

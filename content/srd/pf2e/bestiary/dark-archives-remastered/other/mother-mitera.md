@@ -11,6 +11,7 @@ name: "Mother Mitera"
 level: 8
 source: "Dark Archives (Remastered)"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=4648"
+socialImage: og-image.png
 ---
 
 ```statblock

@@ -12,6 +12,7 @@ tags:
 aliases: ["Three Peaked Tree (Melee)"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=223"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Three Peaked Tree (Melee)  *Weapon 1*

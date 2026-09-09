@@ -6,6 +6,7 @@ tags:
 aliases: ["Spirit"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=737"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Spirit  *Trait*

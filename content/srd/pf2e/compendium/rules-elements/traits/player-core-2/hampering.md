@@ -6,6 +6,7 @@ tags:
 aliases: ["Hampering"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=806"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Hampering  *Trait*

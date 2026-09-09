@@ -6,6 +6,7 @@ tags:
 aliases: ["Dragon"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=581"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Dragon  *Trait*

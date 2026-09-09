@@ -7,6 +7,7 @@ tags:
 aliases: ["Seat of Power"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7326"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Seat of Power  *Feat 16*

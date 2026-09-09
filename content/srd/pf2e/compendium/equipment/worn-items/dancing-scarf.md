@@ -9,6 +9,7 @@ tags:
 aliases: ["Dancing Scarf"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3074"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Dancing Scarf  *Item 3+*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Unnerving Prowess"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7904"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Unnerving Prowess  *Feat 6*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

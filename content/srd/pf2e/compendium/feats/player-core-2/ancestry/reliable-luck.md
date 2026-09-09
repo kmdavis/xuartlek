@@ -7,6 +7,7 @@ tags:
 aliases: ["Reliable Luck"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5566"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Reliable Luck  *Feat 17*

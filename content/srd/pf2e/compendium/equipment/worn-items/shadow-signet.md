@@ -8,6 +8,7 @@ tags:
 aliases: ["Shadow Signet"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3108"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Shadow Signet  *Item 10*

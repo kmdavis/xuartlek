@@ -7,6 +7,7 @@ tags:
 aliases: ["Officer's Education"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7812"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Officer's Education  *Feat 8*

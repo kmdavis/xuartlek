@@ -10,6 +10,7 @@ tags:
 aliases: ["Shockguard Coil"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1137"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Shockguard Coil  *Item 10*

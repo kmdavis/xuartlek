@@ -11,6 +11,7 @@ tags:
 aliases: ["Bladed Gauntlet"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=532"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Bladed Gauntlet  *Weapon 0*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Greater Cruelty"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5903"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Greater Cruelty  *Feat 8*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Chimera Flail"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3205"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Chimera Flail  *Item 9*

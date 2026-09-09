@@ -5,6 +5,7 @@ tags:
 aliases: ["Inna"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=539"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Inna  *Deity*

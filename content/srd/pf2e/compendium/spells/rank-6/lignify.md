@@ -10,6 +10,7 @@ tags:
 aliases: ["Lignify"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1404"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Lignify  *Spell 6*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

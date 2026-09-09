@@ -7,6 +7,7 @@ tags:
 aliases: ["Order Spell"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5076"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Order Spell  *Feat 4*

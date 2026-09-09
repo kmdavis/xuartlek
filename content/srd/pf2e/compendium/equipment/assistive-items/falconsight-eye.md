@@ -8,6 +8,7 @@ tags:
 aliases: ["Falconsight Eye"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2157"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Falconsight Eye  *Item 6*

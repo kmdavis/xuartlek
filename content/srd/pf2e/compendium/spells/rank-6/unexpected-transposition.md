@@ -8,6 +8,7 @@ tags:
 aliases: ["Unexpected Transposition"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2853"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Unexpected Transposition  *Spell 6*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

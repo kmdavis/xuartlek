@@ -5,6 +5,7 @@ tags:
 aliases: ["Nephilim"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=569"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Nephilim  *Creature Family*

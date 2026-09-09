@@ -7,6 +7,7 @@ tags:
 aliases: ["Devastating Spellstrike"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9052"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Devastating Spellstrike  *Feat 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

@@ -7,6 +7,7 @@ tags:
 aliases: ["Exigent Aura"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7508"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Exigent Aura  *Feat 6*

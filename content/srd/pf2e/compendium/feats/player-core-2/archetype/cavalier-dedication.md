@@ -8,6 +8,7 @@ tags:
 aliases: ["Cavalier Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6286"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Cavalier Dedication  *Feat 2*

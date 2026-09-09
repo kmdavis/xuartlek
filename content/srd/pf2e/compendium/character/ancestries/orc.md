@@ -7,6 +7,7 @@ tags:
 aliases: ["Orc"]
 aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=66"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Orc  *Ancestry*

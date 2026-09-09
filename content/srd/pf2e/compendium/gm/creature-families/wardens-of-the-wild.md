@@ -5,6 +5,7 @@ tags:
 aliases: ["Wardens of the Wild"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=506"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Wardens of the Wild  *Creature Family*

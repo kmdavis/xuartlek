@@ -8,6 +8,7 @@ tags:
 aliases: ["Flaming"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2838"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Flaming  *Item 8+*

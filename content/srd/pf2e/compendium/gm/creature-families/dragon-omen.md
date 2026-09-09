@@ -5,6 +5,7 @@ tags:
 aliases: ["Dragon, Omen"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=403"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Dragon, Omen  *Creature Family*

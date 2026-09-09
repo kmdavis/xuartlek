@@ -6,6 +6,7 @@ tags:
 aliases: ["Cobbled"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=400"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Cobbled  *Trait*

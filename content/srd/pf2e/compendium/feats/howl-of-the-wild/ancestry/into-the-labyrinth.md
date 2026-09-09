@@ -7,6 +7,7 @@ tags:
 aliases: ["Into the Labyrinth"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5383"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Into the Labyrinth  *Feat 17*

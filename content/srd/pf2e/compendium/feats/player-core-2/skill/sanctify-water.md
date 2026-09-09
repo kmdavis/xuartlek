@@ -8,6 +8,7 @@ tags:
 aliases: ["Sanctify Water"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6502"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Sanctify Water  *Feat 2*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

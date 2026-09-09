@@ -7,6 +7,7 @@ tags:
 aliases: ["Spellbook Prodigy"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5025"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Spellbook Prodigy  *Feat 1*

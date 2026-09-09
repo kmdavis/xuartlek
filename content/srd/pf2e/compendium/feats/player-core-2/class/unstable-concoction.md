@@ -8,6 +8,7 @@ tags:
 aliases: ["Unstable Concoction"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5790"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Unstable Concoction  *Feat 10*

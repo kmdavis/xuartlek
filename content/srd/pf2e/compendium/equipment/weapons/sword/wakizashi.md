@@ -11,6 +11,7 @@ tags:
 aliases: ["Wakizashi"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=419"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Wakizashi  *Weapon 0*

@@ -14,6 +14,7 @@ tags:
 aliases: ["Delay Affliction"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2082"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Delay Affliction  *Focus 3*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

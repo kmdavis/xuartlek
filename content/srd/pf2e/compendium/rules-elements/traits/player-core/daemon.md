@@ -6,6 +6,7 @@ tags:
 aliases: ["Daemon"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=568"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Daemon  *Trait*

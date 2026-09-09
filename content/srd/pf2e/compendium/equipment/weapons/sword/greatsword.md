@@ -7,6 +7,7 @@ tags:
 aliases: ["Greatsword"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=379"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Greatsword  *Weapon 0*

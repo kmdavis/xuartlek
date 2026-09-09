@@ -9,6 +9,7 @@ tags:
 aliases: ["Gravemist Taper"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2025"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Gravemist Taper  *Item 5*

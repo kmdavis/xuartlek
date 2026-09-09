@@ -7,6 +7,7 @@ tags:
 aliases: ["Instinctive Support"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4731"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Instinctive Support  *Feat 6*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

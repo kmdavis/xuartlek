@@ -7,6 +7,7 @@ tags:
 aliases: ["Diverse Weapon Expert"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5086"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Diverse Weapon Expert  *Feat 12*

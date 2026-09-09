@@ -10,6 +10,7 @@ tags:
 aliases: ["Fist"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=356"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Fist  *Weapon 0*

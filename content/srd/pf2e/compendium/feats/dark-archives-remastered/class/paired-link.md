@@ -10,6 +10,7 @@ tags:
 aliases: ["Paired Link"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8365"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Paired Link  *Feat 4*

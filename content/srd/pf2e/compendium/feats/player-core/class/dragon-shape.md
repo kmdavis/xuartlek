@@ -7,6 +7,7 @@ tags:
 aliases: ["Dragon Shape"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4749"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Dragon Shape  *Feat 12*

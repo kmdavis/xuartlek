@@ -7,6 +7,7 @@ tags:
 aliases: ["Advanced Poisoncraft"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6384"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Advanced Poisoncraft  *Feat 6*

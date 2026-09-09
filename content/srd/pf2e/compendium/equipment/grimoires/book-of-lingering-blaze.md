@@ -8,6 +8,7 @@ tags:
 aliases: ["Book Of Lingering Blaze"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5123"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Book Of Lingering Blaze  *Item 10*

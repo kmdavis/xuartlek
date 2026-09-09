@@ -5,6 +5,7 @@ tags:
 aliases: ["Athamaru"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=39"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Athamaru  *Creature Adjustment*

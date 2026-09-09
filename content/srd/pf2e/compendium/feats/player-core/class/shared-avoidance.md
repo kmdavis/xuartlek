@@ -7,6 +7,7 @@ tags:
 aliases: ["Shared Avoidance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4678"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Shared Avoidance  *Feat 10*

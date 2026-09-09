@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/monster-core-2
 aliases: ["Sidebars: Monster Core 2"]
 entries: 1
+socialImage: og-image.png
 ---
 
 # Sidebars: Monster Core 2

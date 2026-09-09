@@ -9,6 +9,7 @@ tags:
 aliases: ["Voice from the Grave"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2200"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Voice from the Grave  *Item 10*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Raise Menhir"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4738"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Raise Menhir  *Feat 8*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

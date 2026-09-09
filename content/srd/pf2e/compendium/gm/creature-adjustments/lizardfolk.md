@@ -5,6 +5,7 @@ tags:
 aliases: ["Lizardfolk"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=51"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Lizardfolk  *Creature Adjustment*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Field Training"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7887"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Basic Field Training  *Feat 4*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Grappling Hook"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2725"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Grappling Hook  *Item 0*

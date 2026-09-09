@@ -9,6 +9,7 @@ tags:
 source: "GM Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3188"
 citation: "GM Core pg. 252"
+socialImage: og-image.png
 ---
 
 # Materials

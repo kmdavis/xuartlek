@@ -9,6 +9,7 @@ tags:
 aliases: ["Panabas"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=299"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Panabas  *Weapon 0*

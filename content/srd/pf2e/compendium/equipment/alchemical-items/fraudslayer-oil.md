@@ -12,6 +12,7 @@ tags:
 aliases: ["Fraudslayer Oil"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2006"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Fraudslayer Oil  *Item 14*

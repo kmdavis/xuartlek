@@ -6,6 +6,7 @@ tags:
 aliases: ["Necromancer"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=950"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Necromancer  *Trait*

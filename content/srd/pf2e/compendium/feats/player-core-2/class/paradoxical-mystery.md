@@ -7,6 +7,7 @@ tags:
 aliases: ["Paradoxical Mystery"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6088"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Paradoxical Mystery  *Feat 20*

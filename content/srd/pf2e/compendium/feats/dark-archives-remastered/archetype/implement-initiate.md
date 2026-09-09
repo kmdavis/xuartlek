@@ -7,6 +7,7 @@ tags:
 aliases: ["Implement Initiate"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8401"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Implement Initiate  *Feat 6*

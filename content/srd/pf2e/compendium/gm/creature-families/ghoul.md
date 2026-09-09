@@ -5,6 +5,7 @@ tags:
 aliases: ["Ghoul"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=419"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Ghoul  *Creature Family*

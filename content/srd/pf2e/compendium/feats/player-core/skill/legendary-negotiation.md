@@ -8,6 +8,7 @@ tags:
 aliases: ["Legendary Negotiation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5170"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Legendary Negotiation  *Feat 15*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

@@ -10,6 +10,7 @@ tags:
 aliases: ["Propelling Air Stream"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2792"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Propelling Air Stream  *Spell 1*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

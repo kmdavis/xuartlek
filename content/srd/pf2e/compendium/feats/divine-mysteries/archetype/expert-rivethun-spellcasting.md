@@ -7,6 +7,7 @@ tags:
 aliases: ["Expert Rivethun Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7591"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Expert Rivethun Spellcasting  *Feat 12*

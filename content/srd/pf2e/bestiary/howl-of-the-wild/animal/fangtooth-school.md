@@ -12,6 +12,7 @@ name: "Fangtooth School"
 level: 3
 source: "Howl of the Wild"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3276"
+socialImage: og-image.png
 ---
 
 ```statblock

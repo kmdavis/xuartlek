@@ -5,6 +5,7 @@ tags:
 aliases: ["Elemental, Water"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=412"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Elemental, Water  *Creature Family*

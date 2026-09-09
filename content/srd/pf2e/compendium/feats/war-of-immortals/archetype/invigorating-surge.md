@@ -8,6 +8,7 @@ tags:
 aliases: ["Invigorating Surge"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7420"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Invigorating Surge  *Feat 14*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
@@ -18,6 +19,6 @@ source: "War of Immortals"
 - **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/wildspell-dedication|Wildspell Dedication]]
 - **Requirements**: Your [[srd/pf2e/compendium/spells/focus/spellsurge|_spellsurge_]] aura is active.
 
-You alter the aura of magic surrounding you to protect a nearby ally. You grant one creature within your spellsurge aura [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Temporary Hit Points|temporary Hit Points]] equal to your level. These temporary Hit Points last for as long as the target is in the aura. Using this ability again cancels the temporary Hit Points from any previous usage. If you spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/index|Mythic Point]] as part of this action, you grant the temporary Hit Points to a number of creatures up to half your level that are within the aura.
+You alter the aura of magic surrounding you to protect a nearby ally. You grant one creature within your spellsurge aura [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Temporary Hit Points|temporary Hit Points]] equal to your level. These temporary Hit Points last for as long as the target is in the aura. Using this ability again cancels the temporary Hit Points from any previous usage. If you spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]] as part of this action, you grant the temporary Hit Points to a number of creatures up to half your level that are within the aura.
 
 *Source: War of Immortals p. 139*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Greater Magical Scholastics"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6251"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Greater Magical Scholastics  *Feat 10*

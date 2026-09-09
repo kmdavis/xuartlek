@@ -8,6 +8,7 @@ tags:
 aliases: ["Masquerade Scarf"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3095"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Masquerade Scarf  *Item 2+*

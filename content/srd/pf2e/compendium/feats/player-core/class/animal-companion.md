@@ -8,6 +8,7 @@ tags:
 aliases: ["Animal Companion"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4708"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Animal Companion  *Feat 1*

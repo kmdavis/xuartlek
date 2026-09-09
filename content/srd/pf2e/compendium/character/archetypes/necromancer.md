@@ -6,6 +6,7 @@ tags:
 aliases: ["Necromancer"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=387"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Necromancer  *Archetype 2*

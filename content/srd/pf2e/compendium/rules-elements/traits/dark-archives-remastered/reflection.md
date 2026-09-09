@@ -6,6 +6,7 @@ tags:
 aliases: ["Reflection"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=902"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Reflection  *Trait*

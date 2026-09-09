@@ -11,6 +11,7 @@ tags:
 aliases: ["Vital Compound Invocation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9191"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Vital Compound Invocation  *Feat 6*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

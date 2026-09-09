@@ -9,6 +9,7 @@ tags:
 aliases: ["Halt Death"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=210"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Halt Death  *Ritual 10*

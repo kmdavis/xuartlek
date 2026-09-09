@@ -11,6 +11,7 @@ tags:
 aliases: ["Unlimited Potential"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8351"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Unlimited Potential  *Feat 20*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

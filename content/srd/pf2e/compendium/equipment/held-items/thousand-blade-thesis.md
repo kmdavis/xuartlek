@@ -9,6 +9,7 @@ tags:
 aliases: ["Thousand-blade Thesis"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5146"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Thousand-blade Thesis  *Item 9*

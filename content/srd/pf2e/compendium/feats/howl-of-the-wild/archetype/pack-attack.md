@@ -7,6 +7,7 @@ tags:
 aliases: ["Pack Attack"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5496"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Pack Attack  *Feat 6*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Assassin Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6257"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Assassin Dedication  *Feat 2*

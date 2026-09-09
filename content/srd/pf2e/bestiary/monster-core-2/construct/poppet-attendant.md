@@ -12,6 +12,7 @@ name: "Poppet Attendant"
 level: 0
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4514"
+socialImage: og-image.png
 ---
 
 ```statblock

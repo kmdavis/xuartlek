@@ -11,6 +11,7 @@ tags:
 aliases: ["Confusing Colors"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1980"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Confusing Colors  *Spell 8*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

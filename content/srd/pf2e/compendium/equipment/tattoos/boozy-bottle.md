@@ -9,6 +9,7 @@ tags:
 aliases: ["Boozy Bottle"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2204"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Boozy Bottle  *Item 5*

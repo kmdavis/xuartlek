@@ -11,6 +11,7 @@ name: "Halfling Head Chef"
 level: 2
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3644"
+socialImage: og-image.png
 ---
 
 ```statblock

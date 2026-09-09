@@ -8,6 +8,7 @@ tags:
 aliases: ["Mindscape Door"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=232"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mindscape Door  *Ritual 3*

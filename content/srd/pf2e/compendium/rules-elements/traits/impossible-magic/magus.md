@@ -6,6 +6,7 @@ tags:
 aliases: ["Magus"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=953"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Magus  *Trait*

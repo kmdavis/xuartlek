@@ -5,6 +5,7 @@ tags:
 aliases: ["Oaur-Ooung"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=585"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Oaur-Ooung  *Deity*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Velstrac"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=565"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Velstrac  *Creature Family*

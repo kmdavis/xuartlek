@@ -7,6 +7,7 @@ tags:
 aliases: ["Safety Measures"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3241"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Safety Measures  *Feat 4*

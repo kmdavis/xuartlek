@@ -6,6 +6,7 @@ tags:
 aliases: ["Village"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=725"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Village  *Trait*

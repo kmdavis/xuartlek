@@ -11,6 +11,7 @@ name: "Melomach"
 level: 13
 source: "Rage of Elements"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2654"
+socialImage: og-image.png
 ---
 
 ```statblock

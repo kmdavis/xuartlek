@@ -9,6 +9,7 @@ tags:
 aliases: ["Anointed Waterskin"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5139"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Anointed Waterskin  *Item 9*

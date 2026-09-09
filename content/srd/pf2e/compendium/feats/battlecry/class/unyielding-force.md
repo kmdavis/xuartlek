@@ -7,6 +7,7 @@ tags:
 aliases: ["Unyielding Force"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7885"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Unyielding Force  *Feat 20*

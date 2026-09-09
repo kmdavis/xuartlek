@@ -8,6 +8,7 @@ tags:
 aliases: ["Fate Shot"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2050"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Fate Shot  *Item 6*

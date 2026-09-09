@@ -8,6 +8,7 @@ tags:
 aliases: ["Pirate Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6378"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Pirate Dedication  *Feat 2*

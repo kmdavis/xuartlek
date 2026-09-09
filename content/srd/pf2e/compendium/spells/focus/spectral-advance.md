@@ -12,6 +12,7 @@ tags:
 aliases: ["Spectral Advance"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2052"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Spectral Advance  *Focus 5*  [?](books/player-core/chapter-8-playing-the-game/actions#Actions "Varies")

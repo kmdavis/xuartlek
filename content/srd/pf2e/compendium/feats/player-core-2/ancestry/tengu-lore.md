@@ -7,6 +7,7 @@ tags:
 aliases: ["Tengu Lore"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5678"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Tengu Lore  *Feat 1*

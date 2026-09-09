@@ -11,6 +11,7 @@ tags:
 aliases: ["Matchmaker Fulu"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5080"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Matchmaker Fulu  *Item 3*

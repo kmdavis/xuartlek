@@ -10,6 +10,7 @@ tags:
 aliases: ["Essence of Mandragora"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3239"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Essence of Mandragora  *Item 4*

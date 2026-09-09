@@ -5,6 +5,7 @@ tags:
 aliases: ["Elemental, Wisp"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=592"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Elemental, Wisp  *Creature Family*

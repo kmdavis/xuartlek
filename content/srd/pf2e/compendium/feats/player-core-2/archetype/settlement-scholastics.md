@@ -8,6 +8,7 @@ tags:
 aliases: ["Settlement Scholastics"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6248"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Settlement Scholastics  *Feat 4*

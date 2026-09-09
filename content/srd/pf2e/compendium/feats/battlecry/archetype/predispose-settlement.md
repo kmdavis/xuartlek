@@ -9,6 +9,7 @@ tags:
 aliases: ["Predispose Settlement"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7924"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Predispose Settlement  *Feat 4*

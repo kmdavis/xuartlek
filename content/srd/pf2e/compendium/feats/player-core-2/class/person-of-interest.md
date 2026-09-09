@@ -7,6 +7,7 @@ tags:
 aliases: ["Person of Interest"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5943"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Person of Interest  *Feat 2*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

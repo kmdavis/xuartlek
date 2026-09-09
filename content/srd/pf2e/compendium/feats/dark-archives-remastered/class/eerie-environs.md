@@ -8,6 +8,7 @@ tags:
 aliases: ["Eerie Environs"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8419"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Eerie Environs  *Feat 8*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Battle-Tested Companion"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7808"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Battle-Tested Companion  *Feat 6*

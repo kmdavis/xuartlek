@@ -8,6 +8,7 @@ tags:
 aliases: ["Burrowing Form"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9258"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Burrowing Form  *Feat 10*

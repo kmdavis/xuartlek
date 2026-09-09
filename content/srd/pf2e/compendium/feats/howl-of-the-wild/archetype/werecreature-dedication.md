@@ -9,6 +9,7 @@ tags:
 aliases: ["Werecreature Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5486"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Werecreature Dedication  *Feat 2*

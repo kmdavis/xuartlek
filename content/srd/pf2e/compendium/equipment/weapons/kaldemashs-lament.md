@@ -8,6 +8,7 @@ tags:
 aliases: ["Kaldemash's Lament"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1890"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Kaldemash's Lament  *Item 20*

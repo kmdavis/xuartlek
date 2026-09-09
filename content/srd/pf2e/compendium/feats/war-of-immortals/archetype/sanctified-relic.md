@@ -8,6 +8,7 @@ tags:
 aliases: ["Sanctified Relic"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7400"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Sanctified Relic  *Feat 18*

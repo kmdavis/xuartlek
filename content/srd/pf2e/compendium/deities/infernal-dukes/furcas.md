@@ -5,6 +5,7 @@ tags:
 aliases: ["Furcas"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=526"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Furcas  *Deity*

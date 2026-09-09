@@ -8,6 +8,7 @@ tags:
 aliases: ["Falchion"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=373"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Falchion  *Weapon 0*

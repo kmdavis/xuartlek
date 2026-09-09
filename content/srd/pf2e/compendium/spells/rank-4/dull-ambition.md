@@ -11,6 +11,7 @@ tags:
 aliases: ["Dull Ambition"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1990"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Dull Ambition  *Spell 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

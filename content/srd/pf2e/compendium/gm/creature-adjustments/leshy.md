@@ -5,6 +5,7 @@ tags:
 aliases: ["Leshy"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=50"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Leshy  *Creature Adjustment*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Combination"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=417"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Combination  *Trait*

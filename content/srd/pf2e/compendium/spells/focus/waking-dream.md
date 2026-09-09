@@ -10,6 +10,7 @@ tags:
 aliases: ["Waking Dream"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2616"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Waking Dream  *Focus 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

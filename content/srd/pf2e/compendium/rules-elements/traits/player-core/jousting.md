@@ -6,6 +6,7 @@ tags:
 aliases: ["Jousting"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=638"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Jousting  *Trait*

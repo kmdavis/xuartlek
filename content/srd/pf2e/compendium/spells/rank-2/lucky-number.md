@@ -9,6 +9,7 @@ tags:
 aliases: ["Lucky Number"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2761"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Lucky Number  *Spell 2*

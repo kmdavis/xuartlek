@@ -8,6 +8,7 @@ tags:
 aliases: ["Subjective Truth"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6431"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Subjective Truth  *Feat 7*

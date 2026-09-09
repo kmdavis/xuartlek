@@ -7,6 +7,7 @@ tags:
 aliases: ["Hair Trigger"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3205"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Hair Trigger  *Feat 16*

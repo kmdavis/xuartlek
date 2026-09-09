@@ -6,6 +6,7 @@ tags:
 aliases: ["Oracle"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=817"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Oracle  *Trait*

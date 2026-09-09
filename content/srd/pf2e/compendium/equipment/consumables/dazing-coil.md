@@ -9,6 +9,7 @@ tags:
 aliases: ["Dazing Coil"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2968"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Dazing Coil  *Item 14*

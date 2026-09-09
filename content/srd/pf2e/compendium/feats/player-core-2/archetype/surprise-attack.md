@@ -7,6 +7,7 @@ tags:
 aliases: ["Surprise Attack"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6259"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Surprise Attack  *Feat 4*

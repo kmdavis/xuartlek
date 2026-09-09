@@ -6,6 +6,7 @@ tags:
 aliases: ["Summoner"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=954"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Summoner  *Trait*

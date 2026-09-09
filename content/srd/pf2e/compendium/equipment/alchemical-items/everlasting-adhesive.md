@@ -8,6 +8,7 @@ tags:
 aliases: ["Everlasting Adhesive"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3352"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Everlasting Adhesive  *Item 7*

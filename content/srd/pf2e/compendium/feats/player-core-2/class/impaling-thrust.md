@@ -8,6 +8,7 @@ tags:
 aliases: ["Impaling Thrust"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5864"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Impaling Thrust  *Feat 14*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

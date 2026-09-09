@@ -10,6 +10,7 @@ tags:
 aliases: ["Melodious Spell"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4591"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Melodious Spell  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

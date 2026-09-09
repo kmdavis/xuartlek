@@ -7,6 +7,7 @@ tags:
 aliases: ["Call The Hunt"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7260"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Call The Hunt  *Feat 12*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

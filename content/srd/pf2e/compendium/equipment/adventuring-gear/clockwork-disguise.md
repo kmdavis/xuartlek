@@ -8,6 +8,7 @@ tags:
 aliases: ["Clockwork Disguise"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1143"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Clockwork Disguise  *Item 6*

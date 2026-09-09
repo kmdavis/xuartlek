@@ -7,6 +7,7 @@ tags:
 aliases: ["Battle Axe"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=371"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Battle Axe  *Weapon 0*

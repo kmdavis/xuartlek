@@ -11,6 +11,7 @@ tags:
 aliases: ["Turn the Wheel of Seasons"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4295"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Turn the Wheel of Seasons  *Feat 18*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

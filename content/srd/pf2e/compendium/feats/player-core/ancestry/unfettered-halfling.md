@@ -7,6 +7,7 @@ tags:
 aliases: ["Unfettered Halfling"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4463"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Unfettered Halfling  *Feat 1*

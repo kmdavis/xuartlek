@@ -6,6 +6,7 @@ tags:
 aliases: ["Spellshot"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=414"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Spellshot  *Trait*

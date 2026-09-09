@@ -7,6 +7,7 @@ tags:
 aliases: ["Sand Diver"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=23"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sand Diver  *Vehicle 3*

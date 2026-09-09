@@ -7,6 +7,7 @@ tags:
 aliases: ["Draconic Veil"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5743"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Draconic Veil  *Feat 13*

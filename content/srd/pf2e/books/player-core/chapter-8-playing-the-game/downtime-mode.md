@@ -9,6 +9,7 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2444"
 citation: "Player Core pg. 440"
+socialImage: og-image.png
 ---
 
 # Downtime Mode
@@ -63,7 +64,7 @@ The Price of an item indicates the full cost to buy it. You can sell an item for
 
 > [!pf2-sidebar] SKILL DOWNTIME ACTIVITIES
 >
-> [[srd/pf2e/books/player-core/chapter-4-skills/index|Chapter 4: Skills]] includes several downtime activities, which are summarized here.
+> [[srd/pf2e/books/player-core/chapter-4-skills/chapter-4-skills|Chapter 4: Skills]] includes several downtime activities, which are summarized here.
 >
 > **[[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]]:** Using the [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] skill, you can create items from raw materials.
 > **[[srd/pf2e/compendium/rules-elements/actions/player-core#Create Forgery|Create Forgery]]:** You forge a document.

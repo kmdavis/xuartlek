@@ -9,6 +9,7 @@ tags:
 aliases: ["Improvise Admixture"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5767"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Improvise Admixture  *Feat 2*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

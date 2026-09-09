@@ -11,6 +11,7 @@ tags:
 aliases: ["Rain of Razors"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4261"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Rain of Razors  *Feat 12*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

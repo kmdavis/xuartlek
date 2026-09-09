@@ -7,6 +7,7 @@ tags:
 aliases: ["Guarded Advance (Guardian)"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7852"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Guarded Advance (Guardian)  *Feat 6*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

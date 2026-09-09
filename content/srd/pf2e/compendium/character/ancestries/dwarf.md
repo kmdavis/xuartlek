@@ -7,6 +7,7 @@ tags:
 aliases: ["Dwarf"]
 aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=59"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Dwarf  *Ancestry*

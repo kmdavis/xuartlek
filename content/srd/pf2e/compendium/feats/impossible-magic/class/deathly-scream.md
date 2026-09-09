@@ -7,6 +7,7 @@ tags:
 aliases: ["Deathly Scream"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9099"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Deathly Scream  *Feat 2*

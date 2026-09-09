@@ -11,6 +11,7 @@ name: "Toady"
 level: 0
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3607"
+socialImage: og-image.png
 ---
 
 ```statblock

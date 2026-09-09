@@ -6,6 +6,7 @@ tags:
 aliases: ["Tearing"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=841"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Tearing  *Trait*

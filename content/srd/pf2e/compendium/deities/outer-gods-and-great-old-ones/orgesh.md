@@ -5,6 +5,7 @@ tags:
 aliases: ["Orgesh"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=576"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Orgesh  *Deity*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Purifying Spoon"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2643"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Purifying Spoon  *Item 1+*

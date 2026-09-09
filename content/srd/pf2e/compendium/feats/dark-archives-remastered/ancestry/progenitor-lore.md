@@ -7,6 +7,7 @@ tags:
 aliases: ["Progenitor Lore"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8436"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Progenitor Lore  *Feat 1*

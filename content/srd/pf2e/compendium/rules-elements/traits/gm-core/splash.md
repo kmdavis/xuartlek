@@ -6,6 +6,7 @@ tags:
 aliases: ["Splash"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=699"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Splash  *Trait*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Siphon Torment"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5377"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Siphon Torment  *Feat 9*

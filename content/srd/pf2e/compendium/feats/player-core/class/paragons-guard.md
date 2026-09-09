@@ -9,6 +9,7 @@ tags:
 aliases: ["Paragon's Guard"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4839"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Paragon's Guard  *Feat 12*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

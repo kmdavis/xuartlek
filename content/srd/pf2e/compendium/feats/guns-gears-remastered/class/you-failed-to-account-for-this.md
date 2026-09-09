@@ -7,6 +7,7 @@ tags:
 aliases: ["You Failed to Account for… This!"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3084"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # You Failed to Account for… This!  *Feat 16*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

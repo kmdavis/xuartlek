@@ -7,6 +7,7 @@ tags:
 aliases: ["Expert Oracle Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6223"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Expert Oracle Spellcasting  *Feat 12*

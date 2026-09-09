@@ -8,6 +8,7 @@ tags:
 aliases: ["Drifter's Juke"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3171"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Drifter's Juke  *Feat 6*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

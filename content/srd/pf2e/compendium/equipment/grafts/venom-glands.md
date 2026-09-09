@@ -10,6 +10,7 @@ tags:
 aliases: ["Venom Glands"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3194"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Venom Glands  *Item 3*

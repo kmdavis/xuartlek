@@ -6,6 +6,7 @@ tags:
 aliases: ["Siege Barge"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=113"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Siege Barge  *Vehicle 19*

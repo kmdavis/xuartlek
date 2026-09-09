@@ -5,6 +5,7 @@ tags:
 aliases: ["Learn a Spell"]
 aon_url: "https://2e.aonprd.com/Skills.aspx?ID=23&General=true"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Learn a Spell  *General Skill Action*

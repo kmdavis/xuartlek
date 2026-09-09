@@ -9,6 +9,7 @@ tags:
 aliases: ["Arclord Eye"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5173"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Arclord Eye  *Item 7*

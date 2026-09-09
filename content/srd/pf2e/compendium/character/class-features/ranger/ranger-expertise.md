@@ -6,6 +6,7 @@ tags:
 aliases: ["Ranger Expertise"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=36"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Ranger Expertise  *Class Feature 9*

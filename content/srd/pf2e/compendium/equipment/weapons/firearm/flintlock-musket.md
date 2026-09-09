@@ -9,6 +9,7 @@ tags:
 aliases: ["Flintlock Musket"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=521"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Flintlock Musket  *Weapon 0*

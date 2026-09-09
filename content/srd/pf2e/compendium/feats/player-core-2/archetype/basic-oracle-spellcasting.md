@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Oracle Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6219"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Basic Oracle Spellcasting  *Feat 4*

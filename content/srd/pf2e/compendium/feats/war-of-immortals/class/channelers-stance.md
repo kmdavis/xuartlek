@@ -8,6 +8,7 @@ tags:
 aliases: ["Channeler's Stance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7434"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Channeler's Stance  *Feat 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

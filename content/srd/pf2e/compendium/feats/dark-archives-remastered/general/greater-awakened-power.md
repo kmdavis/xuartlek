@@ -8,6 +8,7 @@ tags:
 aliases: ["Greater Awakened Power"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8025"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Greater Awakened Power  *Feat 10*

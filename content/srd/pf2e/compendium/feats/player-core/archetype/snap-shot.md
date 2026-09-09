@@ -7,6 +7,7 @@ tags:
 aliases: ["Snap Shot"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4881"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Snap Shot  *Feat 6*

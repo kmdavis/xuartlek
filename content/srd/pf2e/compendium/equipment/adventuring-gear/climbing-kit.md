@@ -6,6 +6,7 @@ tags:
 aliases: ["Climbing Kit"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2713"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Climbing Kit  *Item 0+*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Cleric Feats"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=33"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Cleric Feats  *Class Feature 2*

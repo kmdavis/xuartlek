@@ -7,6 +7,7 @@ tags:
 aliases: ["Ghost Touch"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2840"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Ghost Touch  *Item 4*

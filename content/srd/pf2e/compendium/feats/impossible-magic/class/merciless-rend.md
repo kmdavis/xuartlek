@@ -9,6 +9,7 @@ tags:
 aliases: ["Merciless Rend"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9260"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Merciless Rend  *Feat 10*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

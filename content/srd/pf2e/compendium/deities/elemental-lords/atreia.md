@@ -5,6 +5,7 @@ tags:
 aliases: ["Atreia"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=686"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Atreia  *Deity*

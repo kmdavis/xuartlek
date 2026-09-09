@@ -9,6 +9,7 @@ tags:
 aliases: ["Thousand Visions"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6062"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Thousand Visions  *Feat 4*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

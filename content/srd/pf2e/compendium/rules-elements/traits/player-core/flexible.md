@@ -6,6 +6,7 @@ tags:
 aliases: ["Flexible"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=605"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Flexible  *Trait*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Master Sorcerer Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6232"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Master Sorcerer Spellcasting  *Feat 18*

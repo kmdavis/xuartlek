@@ -10,6 +10,7 @@ tags:
 aliases: ["False Death Vial"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2106"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # False Death Vial  *Item 13+*

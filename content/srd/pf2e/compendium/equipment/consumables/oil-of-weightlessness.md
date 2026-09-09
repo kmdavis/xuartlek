@@ -9,6 +9,7 @@ tags:
 aliases: ["Oil of Weightlessness"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2939"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Oil of Weightlessness  *Item 2+*

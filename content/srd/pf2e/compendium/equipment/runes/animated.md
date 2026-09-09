@@ -8,6 +8,7 @@ tags:
 aliases: ["Animated"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2831"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Animated  *Item 13*

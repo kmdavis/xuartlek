@@ -7,6 +7,7 @@ tags:
 aliases: ["Advanced Breakthrough"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3115"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Advanced Breakthrough  *Feat 6*

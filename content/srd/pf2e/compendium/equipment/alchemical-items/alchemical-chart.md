@@ -7,6 +7,7 @@ tags:
 aliases: ["Alchemical Chart"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1970"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Alchemical Chart  *Item 4+*

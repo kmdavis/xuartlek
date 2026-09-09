@@ -10,6 +10,7 @@ tags:
 aliases: ["Tear the Veil"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2837"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Tear the Veil  *Spell 10*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

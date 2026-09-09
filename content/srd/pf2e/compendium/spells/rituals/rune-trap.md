@@ -7,6 +7,7 @@ tags:
 aliases: ["Rune Trap"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=124"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Rune Trap  *Ritual 3*

@@ -13,6 +13,7 @@ name: "Ancient Cinder Dragon"
 level: 19
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4347"
+socialImage: og-image.png
 ---
 
 ```statblock

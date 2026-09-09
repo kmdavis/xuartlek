@@ -11,6 +11,7 @@ tags:
 aliases: ["Serene Mutagen"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3320"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Serene Mutagen  *Item 1+*

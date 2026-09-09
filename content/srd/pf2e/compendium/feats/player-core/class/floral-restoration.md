@@ -10,6 +10,7 @@ tags:
 aliases: ["Floral Restoration"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4736"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Floral Restoration  *Feat 8*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

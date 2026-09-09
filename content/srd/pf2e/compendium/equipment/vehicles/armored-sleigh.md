@@ -7,6 +7,7 @@ tags:
 aliases: ["Armored Sleigh"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=97"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Armored Sleigh  *Vehicle 17*

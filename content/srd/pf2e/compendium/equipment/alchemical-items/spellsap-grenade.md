@@ -11,6 +11,7 @@ tags:
 aliases: ["Spellsap Grenade"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2619"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Spellsap Grenade  *Item 12+*

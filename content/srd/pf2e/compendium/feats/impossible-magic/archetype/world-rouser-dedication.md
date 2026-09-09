@@ -9,6 +9,7 @@ tags:
 aliases: ["World Rouser Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9376"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # World Rouser Dedication  *Feat 2*

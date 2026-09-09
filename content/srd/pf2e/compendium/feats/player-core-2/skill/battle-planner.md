@@ -8,6 +8,7 @@ tags:
 aliases: ["Battle Planner"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6464"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Battle Planner  *Feat 2*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Nature's Precision"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5425"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Nature's Precision  *Feat 6*

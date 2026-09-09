@@ -9,6 +9,7 @@ tags:
 aliases: ["Holy Chain"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3273"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Holy Chain  *Item 13*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Thaumaturgic Ritualist"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8366"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Thaumaturgic Ritualist  *Feat 4*

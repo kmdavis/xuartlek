@@ -5,6 +5,7 @@ tags:
 aliases: ["Munsahir"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=342"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Munsahir  *Creature Family*

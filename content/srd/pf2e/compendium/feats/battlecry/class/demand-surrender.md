@@ -10,6 +10,7 @@ tags:
 aliases: ["Demand Surrender"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7826"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Demand Surrender  *Feat 18*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

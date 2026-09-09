@@ -7,6 +7,7 @@ tags:
 aliases: ["Poison Coat"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6385"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Poison Coat  *Feat 6*

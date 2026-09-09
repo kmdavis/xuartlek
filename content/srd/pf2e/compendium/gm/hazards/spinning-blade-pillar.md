@@ -9,6 +9,7 @@ tags:
 aliases: ["Spinning Blade Pillar"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=494"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Spinning Blade Pillar  *Hazard 4*

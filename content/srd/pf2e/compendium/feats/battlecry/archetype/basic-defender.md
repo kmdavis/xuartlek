@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Defender"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7893"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Basic Defender  *Feat 4*

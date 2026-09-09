@@ -10,6 +10,7 @@ tags:
 aliases: ["Remember thy Names"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7367"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Remember thy Names  *Feat 16*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

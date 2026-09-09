@@ -7,6 +7,7 @@ tags:
 aliases: ["Trollhound Pick"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3212"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Trollhound Pick  *Item 5*

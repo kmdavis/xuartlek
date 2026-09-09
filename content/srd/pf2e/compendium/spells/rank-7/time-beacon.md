@@ -7,6 +7,7 @@ tags:
 aliases: ["Time Beacon"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2609"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Time Beacon  *Spell 7*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

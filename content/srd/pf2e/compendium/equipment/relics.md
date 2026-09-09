@@ -6,6 +6,7 @@ tags:
 - compendium/src/pf2e/treasure-vault-remastered
 aliases: ["Relics"]
 entries: 102
+socialImage: og-image.png
 ---
 
 # Relics

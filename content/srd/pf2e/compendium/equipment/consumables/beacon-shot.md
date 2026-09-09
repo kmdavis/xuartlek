@@ -8,6 +8,7 @@ tags:
 aliases: ["Beacon Shot"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2921"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Beacon Shot  *Item 3*

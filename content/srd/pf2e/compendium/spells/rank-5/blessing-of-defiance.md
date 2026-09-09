@@ -7,6 +7,7 @@ tags:
 aliases: ["Blessing of Defiance"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2639"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Blessing of Defiance  *Spell 5*  [?](books/player-core/chapter-8-playing-the-game/actions#Actions "Varies")

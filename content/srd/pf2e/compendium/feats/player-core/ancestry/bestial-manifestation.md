@@ -7,6 +7,7 @@ tags:
 aliases: ["Bestial Manifestation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4548"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Bestial Manifestation  *Feat 1*

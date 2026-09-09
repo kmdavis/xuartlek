@@ -9,6 +9,7 @@ tags:
 aliases: ["Mega Bomb"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5805"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Mega Bomb  *Feat 20*

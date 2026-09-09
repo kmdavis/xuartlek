@@ -7,6 +7,7 @@ tags:
 aliases: ["Pride Hunter"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5554"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Pride Hunter  *Feat 5*

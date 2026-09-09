@@ -11,6 +11,7 @@ name: "Giant Crab"
 level: 2
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4302"
+socialImage: og-image.png
 ---
 
 ```statblock

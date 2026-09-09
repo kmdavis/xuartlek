@@ -7,6 +7,7 @@ tags:
 aliases: ["Clinging Shadows Initiate"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6010"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Clinging Shadows Initiate  *Feat 8*

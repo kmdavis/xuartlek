@@ -9,6 +9,7 @@ tags:
 aliases: ["Pennant of Victory"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7830"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Pennant of Victory  *Feat 20*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

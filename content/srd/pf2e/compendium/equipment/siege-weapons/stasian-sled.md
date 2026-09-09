@@ -8,6 +8,7 @@ tags:
 aliases: ["Stasian Sled"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=62"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Stasian Sled  *Siege Weapon 12*

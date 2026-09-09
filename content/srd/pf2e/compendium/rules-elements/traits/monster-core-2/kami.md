@@ -6,6 +6,7 @@ tags:
 aliases: ["Kami"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=878"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Kami  *Trait*

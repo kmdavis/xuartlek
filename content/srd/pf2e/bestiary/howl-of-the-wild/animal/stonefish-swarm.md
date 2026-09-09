@@ -12,6 +12,7 @@ name: "Stonefish Swarm"
 level: 2
 source: "Howl of the Wild"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3275"
+socialImage: og-image.png
 ---
 
 ```statblock

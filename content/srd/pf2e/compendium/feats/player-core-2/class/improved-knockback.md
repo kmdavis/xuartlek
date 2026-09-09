@@ -7,6 +7,7 @@ tags:
 aliases: ["Improved Knockback"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6027"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Improved Knockback  *Feat 12*

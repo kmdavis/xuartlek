@@ -7,6 +7,7 @@ tags:
 aliases: ["Pactbinder"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=346"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Pactbinder  *Archetype 2*

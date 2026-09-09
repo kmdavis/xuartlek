@@ -7,6 +7,7 @@ tags:
 aliases: ["War Saddle"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3988"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # War Saddle  *Item 0*

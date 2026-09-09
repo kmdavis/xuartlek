@@ -8,6 +8,7 @@ tags:
 aliases: ["Chain Infusion"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4197"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Chain Infusion  *Feat 10*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

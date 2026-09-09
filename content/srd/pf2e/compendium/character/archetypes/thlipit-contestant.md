@@ -6,6 +6,7 @@ tags:
 aliases: ["Thlipit Contestant"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=224"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Thlipit Contestant  *Archetype 2*

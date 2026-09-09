@@ -10,6 +10,7 @@ tags:
 aliases: ["Missive Mint"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1923"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Missive Mint  *Item 1*

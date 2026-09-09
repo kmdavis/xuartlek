@@ -11,6 +11,7 @@ tags:
 aliases: ["Faerie Queen's Bower"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2395"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Faerie Queen's Bower  *Item 13*

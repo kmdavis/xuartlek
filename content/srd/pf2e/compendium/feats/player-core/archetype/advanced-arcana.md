@@ -7,6 +7,7 @@ tags:
 aliases: ["Advanced Arcana"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5110"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Advanced Arcana  *Feat 6*

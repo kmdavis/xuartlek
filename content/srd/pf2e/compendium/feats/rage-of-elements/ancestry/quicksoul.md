@@ -8,6 +8,7 @@ tags:
 aliases: ["Quicksoul"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4326"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Quicksoul  *Feat 1*

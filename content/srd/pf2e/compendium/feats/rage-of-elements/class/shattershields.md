@@ -11,6 +11,7 @@ tags:
 aliases: ["Shattershields"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4262"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Shattershields  *Feat 12*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

@@ -11,6 +11,7 @@ tags:
 aliases: ["Jyoti's Feather"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2233"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Jyoti's Feather  *Item 10+*

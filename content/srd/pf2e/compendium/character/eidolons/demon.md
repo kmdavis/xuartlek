@@ -9,6 +9,7 @@ tags:
 aliases: ["Demon"]
 aon_url: "https://2e.aonprd.com/Eidolons.aspx?ID=19"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Demon  *Summoner Eidolon*

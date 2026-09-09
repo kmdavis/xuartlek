@@ -9,6 +9,7 @@ tags:
 aliases: ["Bacchanalia"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=225"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Bacchanalia  *Ritual 6*

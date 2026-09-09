@@ -12,6 +12,7 @@ name: "Elysian Titan"
 level: 21
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4581"
+socialImage: og-image.png
 ---
 
 ```statblock

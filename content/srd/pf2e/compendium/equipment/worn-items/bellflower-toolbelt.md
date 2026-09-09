@@ -9,6 +9,7 @@ tags:
 aliases: ["Bellflower Toolbelt"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2308"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Bellflower Toolbelt  *Item 6*

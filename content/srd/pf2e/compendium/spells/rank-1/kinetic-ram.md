@@ -8,6 +8,7 @@ tags:
 aliases: ["Kinetic Ram"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2573"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Kinetic Ram  *Spell 1*  [?](books/player-core/chapter-8-playing-the-game/actions#Actions "Varies")

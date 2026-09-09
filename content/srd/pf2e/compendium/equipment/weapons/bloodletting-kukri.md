@@ -8,6 +8,7 @@ tags:
 aliases: ["Bloodletting Kukri"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2862"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Bloodletting Kukri  *Item 6*

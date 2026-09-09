@@ -8,6 +8,7 @@ tags:
 aliases: ["Bargain Hunter"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5123"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Bargain Hunter  *Feat 1*

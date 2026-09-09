@@ -7,6 +7,7 @@ tags:
 aliases: ["Master Necromancer Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9300"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Master Necromancer Spellcasting  *Feat 18*

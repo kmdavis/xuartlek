@@ -5,6 +5,7 @@ tags:
 aliases: ["Fire"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=18"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Fire  *Creature Adjustment*

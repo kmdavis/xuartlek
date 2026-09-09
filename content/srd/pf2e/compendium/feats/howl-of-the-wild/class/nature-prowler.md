@@ -7,6 +7,7 @@ tags:
 aliases: ["Nature Prowler"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5411"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Nature Prowler  *Feat 6*

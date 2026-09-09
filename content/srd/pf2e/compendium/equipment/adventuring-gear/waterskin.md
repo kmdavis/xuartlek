@@ -6,6 +6,7 @@ tags:
 aliases: ["Waterskin"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2761"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Waterskin  *Item 0*

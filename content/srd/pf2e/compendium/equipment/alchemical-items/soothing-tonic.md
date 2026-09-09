@@ -10,6 +10,7 @@ tags:
 aliases: ["Soothing Tonic"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1965"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Soothing Tonic  *Item 2+*

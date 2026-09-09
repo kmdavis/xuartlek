@@ -8,6 +8,7 @@ tags:
 aliases: ["Instinctive Maneuvers"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7136"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Instinctive Maneuvers  *Feat 8*

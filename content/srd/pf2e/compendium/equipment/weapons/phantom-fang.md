@@ -7,6 +7,7 @@ tags:
 aliases: ["Phantom Fang"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5024"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Phantom Fang  *Item 5*

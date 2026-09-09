@@ -9,6 +9,7 @@ tags:
 aliases: ["Orm Choker"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3227"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Orm Choker  *Item 10*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Commander Feats"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=66"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Commander Feats  *Class Feature 1*

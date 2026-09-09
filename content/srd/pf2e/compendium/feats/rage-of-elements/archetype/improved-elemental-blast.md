@@ -7,6 +7,7 @@ tags:
 aliases: ["Improved Elemental Blast"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4337"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Improved Elemental Blast  *Feat 8*

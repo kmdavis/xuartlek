@@ -11,6 +11,7 @@ tags:
 aliases: ["Dream Council"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1988"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Dream Council  *Spell 8*

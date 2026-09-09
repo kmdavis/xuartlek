@@ -10,6 +10,7 @@ tags:
 aliases: ["Spinning Staff"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2884"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Spinning Staff  *Focus 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

@@ -9,6 +9,7 @@ tags:
 aliases: ["Firestarter Pellets"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5051"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Firestarter Pellets  *Item 5+*

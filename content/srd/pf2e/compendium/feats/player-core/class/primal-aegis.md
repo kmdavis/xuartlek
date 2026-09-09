@@ -7,6 +7,7 @@ tags:
 aliases: ["Primal Aegis"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4764"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Primal Aegis  *Feat 18*

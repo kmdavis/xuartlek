@@ -7,6 +7,7 @@ tags:
 aliases: ["Winter's Embrace"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4100"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Winter's Embrace  *Feat 10*

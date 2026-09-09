@@ -8,6 +8,7 @@ tags:
 aliases: ["The Bigger They Are"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6171"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # The Bigger They Are  *Feat 12*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

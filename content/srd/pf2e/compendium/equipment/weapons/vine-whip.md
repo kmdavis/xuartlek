@@ -7,6 +7,7 @@ tags:
 aliases: ["Vine Whip"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1889"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Vine Whip  *Item 8*

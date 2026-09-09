@@ -10,6 +10,7 @@ tags:
 aliases: ["Red-Handed Missive"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2065"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Red-Handed Missive  *Item 7*

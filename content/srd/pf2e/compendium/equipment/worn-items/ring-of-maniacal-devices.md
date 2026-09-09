@@ -8,6 +8,7 @@ tags:
 aliases: ["Ring of Maniacal Devices"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3437"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Ring of Maniacal Devices  *Item 11+*

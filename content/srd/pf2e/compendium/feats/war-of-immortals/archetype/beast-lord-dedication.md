@@ -9,6 +9,7 @@ tags:
 aliases: ["Beast Lord Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7345"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Beast Lord Dedication  *Feat 12*

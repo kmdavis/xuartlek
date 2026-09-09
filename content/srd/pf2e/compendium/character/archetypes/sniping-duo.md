@@ -6,6 +6,7 @@ tags:
 aliases: ["Sniping Duo"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=121"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sniping Duo  *Archetype 2*

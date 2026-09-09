@@ -13,6 +13,7 @@ tags:
 aliases: ["Fangwire"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=473"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Fangwire  *Weapon 0*

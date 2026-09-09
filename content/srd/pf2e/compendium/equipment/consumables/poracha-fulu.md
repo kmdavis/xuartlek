@@ -11,6 +11,7 @@ tags:
 aliases: ["Poracha Fulu"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2040"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Poracha Fulu  *Item 5*

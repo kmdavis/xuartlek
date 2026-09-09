@@ -8,6 +8,7 @@ tags:
 aliases: ["Ubiquitous Weakness"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8388"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Ubiquitous Weakness  *Feat 20*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Horned Dragon Breath Potion"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4348"
 source: "Secrets of the Unlit Star Game Master's Guide"
+socialImage: og-image.png
 ---
 
 # Horned Dragon Breath Potion  *Item 5*

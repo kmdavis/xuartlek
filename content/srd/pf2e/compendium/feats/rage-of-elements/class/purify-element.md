@@ -9,6 +9,7 @@ tags:
 aliases: ["Purify Element"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4195"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Purify Element  *Feat 8*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

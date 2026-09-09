@@ -9,6 +9,7 @@ tags:
 aliases: ["Fleeing Shriek"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5626"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Fleeing Shriek  *Feat 9*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

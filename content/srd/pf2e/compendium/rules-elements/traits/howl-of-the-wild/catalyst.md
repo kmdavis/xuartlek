@@ -6,6 +6,7 @@ tags:
 aliases: ["Catalyst"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=791"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Catalyst  *Trait*

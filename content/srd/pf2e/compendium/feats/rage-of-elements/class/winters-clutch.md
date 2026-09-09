@@ -11,6 +11,7 @@ tags:
 aliases: ["Winter's Clutch"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4269"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Winter's Clutch  *Feat 1*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

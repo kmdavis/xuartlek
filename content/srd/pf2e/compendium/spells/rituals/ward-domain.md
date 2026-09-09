@@ -7,6 +7,7 @@ tags:
 aliases: ["Ward Domain"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=156"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Ward Domain  *Ritual 6*

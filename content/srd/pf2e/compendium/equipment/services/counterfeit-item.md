@@ -7,6 +7,7 @@ tags:
 aliases: ["Counterfeit Item"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4131"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Counterfeit Item  *Item 0+*

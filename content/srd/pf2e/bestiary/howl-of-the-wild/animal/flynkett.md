@@ -10,6 +10,7 @@ name: "Flynkett"
 level: 3
 source: "Howl of the Wild"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3279"
+socialImage: og-image.png
 ---
 
 ```statblock

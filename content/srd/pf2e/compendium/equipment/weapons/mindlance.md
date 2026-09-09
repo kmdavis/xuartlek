@@ -9,6 +9,7 @@ tags:
 aliases: ["Mindlance"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1891"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mindlance  *Item 8*

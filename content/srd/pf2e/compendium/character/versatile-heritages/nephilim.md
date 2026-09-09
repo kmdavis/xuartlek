@@ -7,6 +7,7 @@ tags:
 aliases: ["Nephilim"]
 aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=68"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Nephilim  *Versatile Heritage*

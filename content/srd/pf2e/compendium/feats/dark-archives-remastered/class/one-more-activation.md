@@ -7,6 +7,7 @@ tags:
 aliases: ["One More Activation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8367"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # One More Activation  *Feat 6*

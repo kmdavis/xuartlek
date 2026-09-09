@@ -9,6 +9,7 @@ tags:
 aliases: ["Symbol of Conflict"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3111"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Symbol of Conflict  *Item 4+*

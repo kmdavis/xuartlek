@@ -7,6 +7,7 @@ tags:
 aliases: ["Tactical Cadence"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6362"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Tactical Cadence  *Feat 14*

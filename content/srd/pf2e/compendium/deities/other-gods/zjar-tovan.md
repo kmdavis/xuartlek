@@ -5,6 +5,7 @@ tags:
 aliases: ["Zjar-Tovan"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=360"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Zjar-Tovan  *Deity*

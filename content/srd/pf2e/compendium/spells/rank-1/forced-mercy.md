@@ -10,6 +10,7 @@ tags:
 aliases: ["Forced Mercy"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2505"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Forced Mercy  *Spell 1*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

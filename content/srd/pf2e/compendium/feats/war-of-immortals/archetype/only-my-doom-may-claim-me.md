@@ -7,6 +7,7 @@ tags:
 aliases: ["Only My Doom May Claim Me"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7266"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Only My Doom May Claim Me  *Feat 14*

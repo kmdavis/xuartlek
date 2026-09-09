@@ -9,6 +9,7 @@ tags:
 aliases: ["Bard Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5057"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Bard Dedication  *Feat 2*

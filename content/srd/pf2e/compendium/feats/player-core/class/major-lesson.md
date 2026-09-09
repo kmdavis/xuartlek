@@ -7,6 +7,7 @@ tags:
 aliases: ["Major Lesson"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5010"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Major Lesson  *Feat 10*

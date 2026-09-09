@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Druid Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5074"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Basic Druid Spellcasting  *Feat 4*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Desolation Locket"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2228"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Desolation Locket  *Item 8+*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Superior Bond"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5047"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Superior Bond  *Feat 14*

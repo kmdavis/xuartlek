@@ -7,6 +7,7 @@ tags:
 aliases: ["Tree Climber"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4418"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Tree Climber  *Feat 9*

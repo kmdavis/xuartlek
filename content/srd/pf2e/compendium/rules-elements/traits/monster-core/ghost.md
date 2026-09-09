@@ -6,6 +6,7 @@ tags:
 aliases: ["Ghost"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=753"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Ghost  *Trait*

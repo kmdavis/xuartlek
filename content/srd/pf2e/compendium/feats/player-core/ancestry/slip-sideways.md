@@ -7,6 +7,7 @@ tags:
 aliases: ["Slip Sideways"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4563"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Slip Sideways  *Feat 13*

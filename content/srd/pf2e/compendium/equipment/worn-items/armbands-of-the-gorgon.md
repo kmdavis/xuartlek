@@ -9,6 +9,7 @@ tags:
 aliases: ["Armbands of the Gorgon"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2133"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Armbands of the Gorgon  *Item 17*

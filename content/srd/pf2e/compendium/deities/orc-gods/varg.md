@@ -5,6 +5,7 @@ tags:
 aliases: ["Varg"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=561"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Varg  *Deity*

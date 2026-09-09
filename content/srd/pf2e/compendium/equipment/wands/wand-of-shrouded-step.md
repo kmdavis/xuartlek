@@ -8,6 +8,7 @@ tags:
 aliases: ["Wand of Shrouded Step"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2291"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wand of Shrouded Step  *Item 4*

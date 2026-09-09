@@ -9,6 +9,7 @@ tags:
 aliases: ["Boastful Hunter"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1178"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Boastful Hunter  *Item 3*

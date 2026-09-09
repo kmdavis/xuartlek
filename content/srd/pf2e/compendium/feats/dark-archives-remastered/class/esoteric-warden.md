@@ -7,6 +7,7 @@ tags:
 aliases: ["Esoteric Warden"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8360"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Esoteric Warden  *Feat 2*

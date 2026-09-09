@@ -6,6 +6,7 @@ tags:
 aliases: ["Earth"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=585"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Earth  *Trait*

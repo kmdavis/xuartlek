@@ -7,6 +7,7 @@ tags:
 aliases: ["Master Hedge Mage Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9337"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Master Hedge Mage Spellcasting  *Feat 18*

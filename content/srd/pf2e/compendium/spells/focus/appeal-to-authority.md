@@ -13,6 +13,7 @@ tags:
 aliases: ["Appeal to Authority"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2920"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Appeal to Authority  *Focus 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

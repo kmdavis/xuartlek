@@ -6,6 +6,7 @@ tags:
 aliases: ["Perception Expertise"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=75"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Perception Expertise  *Class Feature 7*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Staff Of The Mage's Friend"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5171"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Staff Of The Mage's Friend  *Item 4+*

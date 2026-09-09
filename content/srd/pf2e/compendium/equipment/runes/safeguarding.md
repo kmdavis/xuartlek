@@ -7,6 +7,7 @@ tags:
 aliases: ["Safeguarding"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4993"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Safeguarding  *Item 13*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Sandals of the Stag"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2142"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sandals of the Stag  *Item 18*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Automaton Armament"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3090"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Automaton Armament  *Feat 1*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Orichalcum Shield"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2816"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Orichalcum Shield  *Item 17+*

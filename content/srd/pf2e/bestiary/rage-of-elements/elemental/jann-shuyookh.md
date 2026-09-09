@@ -18,6 +18,7 @@ name: "Jann Shuyookh"
 level: 9
 source: "Rage of Elements"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2688"
+socialImage: og-image.png
 ---
 
 ```statblock

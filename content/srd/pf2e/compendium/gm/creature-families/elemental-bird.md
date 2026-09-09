@@ -5,6 +5,7 @@ tags:
 aliases: ["Elemental Bird"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=491"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Elemental Bird  *Creature Family*

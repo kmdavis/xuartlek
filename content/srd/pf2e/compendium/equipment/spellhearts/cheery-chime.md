@@ -8,6 +8,7 @@ tags:
 aliases: ["Cheery Chime"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5149"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Cheery Chime  *Item 3+*

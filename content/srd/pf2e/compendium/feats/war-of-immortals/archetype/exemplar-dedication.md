@@ -10,6 +10,7 @@ tags:
 aliases: ["Exemplar Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7226"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Exemplar Dedication  *Feat 2*

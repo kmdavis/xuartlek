@@ -11,6 +11,7 @@ tags:
 aliases: ["Crystal Shards"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3291"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Crystal Shards  *Item 4+*

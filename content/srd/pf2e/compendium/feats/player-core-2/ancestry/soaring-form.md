@@ -7,6 +7,7 @@ tags:
 aliases: ["Soaring Form"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5686"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Soaring Form  *Feat 9*

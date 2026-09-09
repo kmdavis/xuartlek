@@ -7,6 +7,7 @@ tags:
 aliases: ["Warren Navigator"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5658"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Warren Navigator  *Feat 1*

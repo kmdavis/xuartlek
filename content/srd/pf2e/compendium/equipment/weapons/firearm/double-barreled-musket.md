@@ -10,6 +10,7 @@ tags:
 aliases: ["Double-Barreled Musket"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=198"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Double-Barreled Musket  *Weapon 1*

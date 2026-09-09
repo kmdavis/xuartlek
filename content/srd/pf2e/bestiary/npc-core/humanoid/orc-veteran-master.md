@@ -11,6 +11,7 @@ name: "Orc Veteran Master"
 level: 10
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3666"
+socialImage: og-image.png
 ---
 
 ```statblock

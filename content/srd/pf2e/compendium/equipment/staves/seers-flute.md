@@ -10,6 +10,7 @@ tags:
 aliases: ["Seer's Flute"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2270"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Seer's Flute  *Item 4+*

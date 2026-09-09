@@ -9,6 +9,7 @@ tags:
 source: "Player Core 2"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3318"
 citation: "Player Core 2 pg. 297"
+socialImage: og-image.png
 ---
 
 # Triggering Snares

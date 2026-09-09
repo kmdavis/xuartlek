@@ -7,6 +7,7 @@ tags:
 aliases: ["Expert Bard Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5064"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Expert Bard Spellcasting  *Feat 12*

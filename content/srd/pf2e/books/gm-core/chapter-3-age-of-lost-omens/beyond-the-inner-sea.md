@@ -9,6 +9,7 @@ tags:
 source: "GM Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2992"
 citation: "GM Core pg. 144"
+socialImage: og-image.png
 ---
 
 # Beyond the Inner Sea

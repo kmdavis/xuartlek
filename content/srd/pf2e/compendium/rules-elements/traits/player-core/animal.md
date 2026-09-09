@@ -6,6 +6,7 @@ tags:
 aliases: ["Animal"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=531"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Animal  *Trait*

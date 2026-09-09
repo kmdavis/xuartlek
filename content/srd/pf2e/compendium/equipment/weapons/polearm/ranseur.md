@@ -8,6 +8,7 @@ tags:
 aliases: ["Ranseur"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=390"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Ranseur  *Weapon 0*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Bomb Coagulant Alembic"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1973"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Bomb Coagulant Alembic  *Item 5*

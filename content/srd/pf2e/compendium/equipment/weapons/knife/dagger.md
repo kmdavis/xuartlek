@@ -10,6 +10,7 @@ tags:
 aliases: ["Dagger"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=358"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Dagger  *Weapon 0*

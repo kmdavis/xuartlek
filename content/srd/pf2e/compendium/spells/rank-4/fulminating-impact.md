@@ -9,6 +9,7 @@ tags:
 aliases: ["Fulminating Impact"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2715"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Fulminating Impact  *Spell 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

@@ -8,6 +8,7 @@ tags:
 aliases: ["Codex Of Unimpeded Sight"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5126"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Codex Of Unimpeded Sight  *Item 6+*

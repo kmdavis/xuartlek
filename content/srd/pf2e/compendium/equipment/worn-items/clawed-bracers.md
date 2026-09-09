@@ -8,6 +8,7 @@ tags:
 aliases: ["Clawed Bracers"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3068"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Clawed Bracers  *Item 7*

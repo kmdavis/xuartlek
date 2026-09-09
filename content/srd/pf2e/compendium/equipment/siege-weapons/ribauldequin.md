@@ -8,6 +8,7 @@ tags:
 aliases: ["Ribauldequin"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=59"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Ribauldequin  *Siege Weapon 4*

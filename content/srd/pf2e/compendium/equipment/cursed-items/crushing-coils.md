@@ -10,6 +10,7 @@ tags:
 aliases: ["Crushing Coils"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2377"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Crushing Coils  *Item 5*

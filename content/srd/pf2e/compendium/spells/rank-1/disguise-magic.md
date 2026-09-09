@@ -9,6 +9,7 @@ tags:
 aliases: ["Disguise Magic"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1491"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Disguise Magic  *Spell 1*

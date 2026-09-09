@@ -8,6 +8,7 @@ tags:
 aliases: ["Crossbow Infiltrator Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7913"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Crossbow Infiltrator Dedication  *Feat 2*

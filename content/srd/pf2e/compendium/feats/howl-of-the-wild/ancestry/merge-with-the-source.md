@@ -7,6 +7,7 @@ tags:
 aliases: ["Merge with the Source"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5341"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Merge with the Source  *Feat 17*

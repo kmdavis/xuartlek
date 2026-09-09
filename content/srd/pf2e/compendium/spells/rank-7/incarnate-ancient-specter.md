@@ -9,6 +9,7 @@ tags:
 aliases: ["Incarnate Ancient Specter"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2736"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Incarnate Ancient Specter  *Spell 7*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

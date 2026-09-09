@@ -9,6 +9,7 @@ tags:
 aliases: ["Sun Sight"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2218"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sun Sight  *Item 10*

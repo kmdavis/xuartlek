@@ -7,6 +7,7 @@ tags:
 aliases: ["Undead Familiar"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9095"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Undead Familiar  *Feat 1*

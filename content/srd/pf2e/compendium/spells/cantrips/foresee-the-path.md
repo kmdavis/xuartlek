@@ -10,6 +10,7 @@ tags:
 aliases: ["Foresee the Path"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2552"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Foresee the Path  *Cantrip 5*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

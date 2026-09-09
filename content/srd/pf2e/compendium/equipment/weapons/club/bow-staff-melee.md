@@ -12,6 +12,7 @@ tags:
 aliases: ["Bow Staff (Melee)"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=344"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Bow Staff (Melee)  *Weapon 0*

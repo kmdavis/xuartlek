@@ -6,6 +6,7 @@ tags:
 aliases: ["Map"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3585"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Map  *Item 0+*

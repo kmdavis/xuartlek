@@ -8,6 +8,7 @@ tags:
 aliases: ["Ranging Shot"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2056"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Ranging Shot  *Item 3*

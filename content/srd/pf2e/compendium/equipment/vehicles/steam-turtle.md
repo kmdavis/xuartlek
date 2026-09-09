@@ -7,6 +7,7 @@ tags:
 aliases: ["Steam Turtle"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=115"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Steam Turtle  *Vehicle 16*

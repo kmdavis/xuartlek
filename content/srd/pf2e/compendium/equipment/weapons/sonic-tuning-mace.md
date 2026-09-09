@@ -8,6 +8,7 @@ tags:
 aliases: ["Sonic Tuning Mace"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5029"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Sonic Tuning Mace  *Item 9+*

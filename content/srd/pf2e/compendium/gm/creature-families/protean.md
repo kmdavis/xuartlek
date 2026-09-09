@@ -5,6 +5,7 @@ tags:
 aliases: ["Protean"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=457"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Protean  *Creature Family*

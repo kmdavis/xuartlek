@@ -7,6 +7,7 @@ tags:
 aliases: ["Prescient Consumable"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5190"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Prescient Consumable  *Feat 7*

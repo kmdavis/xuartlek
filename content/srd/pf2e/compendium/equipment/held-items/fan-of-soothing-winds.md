@@ -8,6 +8,7 @@ tags:
 aliases: ["Fan of Soothing Winds"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2579"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Fan of Soothing Winds  *Item 11+*

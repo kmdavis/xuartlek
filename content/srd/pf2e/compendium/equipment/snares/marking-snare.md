@@ -10,6 +10,7 @@ tags:
 aliases: ["Marking Snare"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3377"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Marking Snare  *Item 1*

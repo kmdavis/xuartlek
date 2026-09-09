@@ -9,6 +9,7 @@ tags:
 aliases: ["Imperious Aura"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4202"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Imperious Aura  *Feat 16*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

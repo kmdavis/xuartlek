@@ -9,6 +9,7 @@ tags:
 aliases: ["Etheric Shards"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2569"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Etheric Shards  *Spell 5*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

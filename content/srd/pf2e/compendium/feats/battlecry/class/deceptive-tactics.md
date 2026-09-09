@@ -7,6 +7,7 @@ tags:
 aliases: ["Deceptive Tactics"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7794"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Deceptive Tactics  *Feat 1*

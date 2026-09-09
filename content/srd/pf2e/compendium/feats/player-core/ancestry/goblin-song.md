@@ -7,6 +7,7 @@ tags:
 aliases: ["Goblin Song"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4442"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Goblin Song  *Feat 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

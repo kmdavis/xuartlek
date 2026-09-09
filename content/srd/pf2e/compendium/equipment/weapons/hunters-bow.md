@@ -7,6 +7,7 @@ tags:
 aliases: ["Hunter's Bow"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4351"
 source: "Secrets of the Unlit Star Game Master's Guide"
+socialImage: og-image.png
 ---
 
 # Hunter's Bow  *Item 3*

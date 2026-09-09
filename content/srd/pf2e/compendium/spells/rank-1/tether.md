@@ -8,6 +8,7 @@ tags:
 aliases: ["Tether"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2370"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Tether  *Spell 1*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

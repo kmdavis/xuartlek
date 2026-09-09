@@ -10,6 +10,7 @@ tags:
 aliases: ["Mindfog Mist"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3341"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Mindfog Mist  *Item 15*

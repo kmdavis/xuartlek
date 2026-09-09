@@ -8,6 +8,7 @@ tags:
 aliases: ["Energizing Treat"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2118"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Energizing Treat  *Item 7*

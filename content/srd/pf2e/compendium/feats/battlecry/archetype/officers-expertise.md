@@ -7,6 +7,7 @@ tags:
 aliases: ["Officer's Expertise"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7890"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Officer's Expertise  *Feat 12*

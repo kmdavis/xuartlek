@@ -9,6 +9,7 @@ tags:
 aliases: ["Shining Ammunition"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2926"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Shining Ammunition  *Item 1*

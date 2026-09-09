@@ -7,6 +7,7 @@ tags:
 aliases: ["Duskwood Weapon"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2858"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Duskwood Weapon  *Item 11+*

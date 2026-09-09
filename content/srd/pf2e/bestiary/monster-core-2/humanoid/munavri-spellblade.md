@@ -12,6 +12,7 @@ name: "Munavri Spellblade"
 level: 2
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4483"
+socialImage: og-image.png
 ---
 
 ```statblock

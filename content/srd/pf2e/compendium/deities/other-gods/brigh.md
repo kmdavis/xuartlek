@@ -5,6 +5,7 @@ tags:
 aliases: ["Brigh"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=333"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Brigh  *Deity*

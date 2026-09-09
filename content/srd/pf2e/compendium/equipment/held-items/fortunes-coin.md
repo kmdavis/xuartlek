@@ -8,6 +8,7 @@ tags:
 aliases: ["Fortune's Coin"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2190"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Fortune's Coin  *Item 8+*

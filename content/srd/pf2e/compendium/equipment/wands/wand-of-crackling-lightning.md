@@ -9,6 +9,7 @@ tags:
 aliases: ["Wand of Crackling Lightning"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3424"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Wand of Crackling Lightning  *Item 8+*

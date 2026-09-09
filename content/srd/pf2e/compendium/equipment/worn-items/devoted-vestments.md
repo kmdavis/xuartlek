@@ -9,6 +9,7 @@ tags:
 aliases: ["Devoted Vestments"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3077"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Devoted Vestments  *Item 11*

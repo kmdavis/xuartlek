@@ -7,6 +7,7 @@ tags:
 aliases: ["Second Ikon"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7231"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Second Ikon  *Feat 12*

@@ -12,6 +12,7 @@ tags:
 aliases: ["Cloak of Light"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2346"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Cloak of Light  *Spell 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

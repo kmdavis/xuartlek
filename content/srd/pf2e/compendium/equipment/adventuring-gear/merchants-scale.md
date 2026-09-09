@@ -6,6 +6,7 @@ tags:
 aliases: ["Merchant's Scale"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2734"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Merchant's Scale  *Item 0*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Connect the Dots"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5952"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Connect the Dots  *Feat 6*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

@@ -11,6 +11,7 @@ tags:
 aliases: ["Tremor"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4224"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Tremor  *Feat 1*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

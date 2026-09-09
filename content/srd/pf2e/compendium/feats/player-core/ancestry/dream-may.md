@@ -8,6 +8,7 @@ tags:
 aliases: ["Dream May"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4532"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Dream May  *Feat 1*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Inertial Barrier"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8322"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Inertial Barrier  *Feat 6*

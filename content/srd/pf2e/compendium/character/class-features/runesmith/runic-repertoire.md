@@ -6,6 +6,7 @@ tags:
 aliases: ["Runic Repertoire"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=76"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Runic Repertoire  *Class Feature 1*

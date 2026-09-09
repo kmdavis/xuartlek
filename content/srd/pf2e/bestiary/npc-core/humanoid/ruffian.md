@@ -11,6 +11,7 @@ name: "Ruffian"
 level: 2
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3427"
+socialImage: og-image.png
 ---
 
 ```statblock

@@ -10,6 +10,7 @@ tags:
 aliases: ["Inventor Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3112"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Inventor Dedication  *Feat 2*

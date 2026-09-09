@@ -7,6 +7,7 @@ tags:
 aliases: ["Living Vessel"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=345"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Living Vessel  *Archetype 2*

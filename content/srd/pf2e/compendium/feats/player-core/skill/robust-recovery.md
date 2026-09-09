@@ -8,6 +8,7 @@ tags:
 aliases: ["Robust Recovery"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5207"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Robust Recovery  *Feat 2*

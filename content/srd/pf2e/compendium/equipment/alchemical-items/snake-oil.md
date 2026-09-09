@@ -8,6 +8,7 @@ tags:
 aliases: ["Snake Oil"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3361"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Snake Oil  *Item 1*

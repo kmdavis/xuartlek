@@ -7,6 +7,7 @@ tags:
 aliases: ["Fantastic Leap"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4969"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Fantastic Leap  *Feat 12*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

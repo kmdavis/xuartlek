@@ -6,6 +6,7 @@ tags:
 aliases: ["Static"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=702"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Static  *Trait*

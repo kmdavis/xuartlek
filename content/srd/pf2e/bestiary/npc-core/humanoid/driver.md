@@ -11,6 +11,7 @@ name: "Driver"
 level: 2
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3458"
+socialImage: og-image.png
 ---
 
 ```statblock

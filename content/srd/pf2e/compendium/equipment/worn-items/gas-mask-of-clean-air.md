@@ -9,6 +9,7 @@ tags:
 aliases: ["Gas Mask of Clean Air"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3964"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Gas Mask of Clean Air  *Item 4*

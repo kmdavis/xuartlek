@@ -7,6 +7,7 @@ tags:
 aliases: ["Primal Howl"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4745"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Primal Howl  *Feat 10*

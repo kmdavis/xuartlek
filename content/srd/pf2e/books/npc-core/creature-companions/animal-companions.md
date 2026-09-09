@@ -9,6 +9,7 @@ tags:
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3379"
 citation: "NPC Core pg. 217"
+socialImage: og-image.png
 ---
 
 # Animal Companions

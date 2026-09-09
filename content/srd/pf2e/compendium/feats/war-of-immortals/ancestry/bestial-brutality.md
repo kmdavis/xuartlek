@@ -7,6 +7,7 @@ tags:
 aliases: ["Bestial Brutality"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7204"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Bestial Brutality  *Feat 5*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Instinct Crown"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2338"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Instinct Crown  *Item 10*

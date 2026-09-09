@@ -7,6 +7,7 @@ tags:
 aliases: ["Witch's Hut"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5023"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Witch's Hut  *Feat 20*

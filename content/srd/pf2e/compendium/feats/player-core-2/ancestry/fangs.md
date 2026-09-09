@@ -7,6 +7,7 @@ tags:
 aliases: ["Fangs"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5716"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Fangs  *Feat 1*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Sense Unholiness"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7521"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Sense Unholiness  *Feat 8*

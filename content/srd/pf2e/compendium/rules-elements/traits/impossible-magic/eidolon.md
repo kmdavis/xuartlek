@@ -6,6 +6,7 @@ tags:
 aliases: ["Eidolon"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=958"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Eidolon  *Trait*

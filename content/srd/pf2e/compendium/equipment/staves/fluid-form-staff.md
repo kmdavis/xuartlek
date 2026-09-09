@@ -8,6 +8,7 @@ tags:
 aliases: ["Fluid Form Staff"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3036"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Fluid Form Staff  *Item 6+*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Skilled Partner"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9241"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Skilled Partner  *Feat 4*

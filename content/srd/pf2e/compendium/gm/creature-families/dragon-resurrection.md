@@ -5,6 +5,7 @@ tags:
 aliases: ["Dragon, Resurrection"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=587"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Dragon, Resurrection  *Creature Family*

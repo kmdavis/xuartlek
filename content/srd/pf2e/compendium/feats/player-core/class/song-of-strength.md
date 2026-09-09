@@ -7,6 +7,7 @@ tags:
 aliases: ["Song of Strength"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4586"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Song of Strength  *Feat 2*

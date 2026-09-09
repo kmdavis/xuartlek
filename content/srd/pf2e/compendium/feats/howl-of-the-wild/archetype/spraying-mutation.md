@@ -7,6 +7,7 @@ tags:
 aliases: ["Spraying Mutation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5461"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Spraying Mutation  *Feat 10*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Robe of Stone"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2593"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Robe of Stone  *Item 11*

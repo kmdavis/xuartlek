@@ -8,6 +8,7 @@ tags:
 aliases: ["Purge of Moments"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8487"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Purge of Moments  *Feat 16*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

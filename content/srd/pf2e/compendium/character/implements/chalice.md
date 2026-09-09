@@ -5,6 +5,7 @@ tags:
 aliases: ["Chalice"]
 aon_url: "https://2e.aonprd.com/Implements.aspx?ID=19"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Chalice  *Thaumaturge Implement*

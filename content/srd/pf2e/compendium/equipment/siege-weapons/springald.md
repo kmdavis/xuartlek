@@ -8,6 +8,7 @@ tags:
 aliases: ["Springald"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=8"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Springald  *Siege Weapon 7*

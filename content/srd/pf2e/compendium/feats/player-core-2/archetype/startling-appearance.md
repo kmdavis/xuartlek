@@ -11,6 +11,7 @@ tags:
 aliases: ["Startling Appearance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6429"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Startling Appearance  *Feat 6*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

@@ -7,6 +7,7 @@ tags:
 aliases: ["Folksy Patter"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4456"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Folksy Patter  *Feat 1*

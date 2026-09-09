@@ -9,6 +9,7 @@ tags:
 aliases: ["Monk Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6210"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Monk Dedication  *Feat 2*

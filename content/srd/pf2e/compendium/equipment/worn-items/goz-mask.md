@@ -8,6 +8,7 @@ tags:
 aliases: ["Goz Mask"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2348"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Goz Mask  *Item 2+*

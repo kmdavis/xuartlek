@@ -10,6 +10,7 @@ tags:
 aliases: ["Enduring Might"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1819"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Enduring Might  *Focus 4*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

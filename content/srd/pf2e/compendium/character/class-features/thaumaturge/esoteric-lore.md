@@ -6,6 +6,7 @@ tags:
 aliases: ["Esoteric Lore"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=69"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Esoteric Lore  *Class Feature 1*

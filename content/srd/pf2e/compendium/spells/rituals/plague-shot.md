@@ -8,6 +8,7 @@ tags:
 aliases: ["Plague Shot"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=212"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Plague Shot  *Ritual 5*

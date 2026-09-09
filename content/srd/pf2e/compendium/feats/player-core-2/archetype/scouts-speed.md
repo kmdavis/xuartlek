@@ -7,6 +7,7 @@ tags:
 aliases: ["Scout's Speed"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6398"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Scout's Speed  *Feat 6*

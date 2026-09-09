@@ -10,6 +10,7 @@ tags:
 aliases: ["Tangle Root Toxin"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3347"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Tangle Root Toxin  *Item 7*

@@ -1,3 +1,12 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// Hide the SRD branch of the explorer unless you are inside it.
+// The explorer template wraps each folder in <li> containing
+// .folder-container[data-folderpath] plus its .folder-outer children,
+// so hiding the <li> removes the whole branch. Quartz sets data-slug
+// on <body>, which is what makes this conditional on the current page.
+body:not([data-slug^="srd"]) .explorer li:has(> .folder-container[data-folderpath="srd"]) {
+  display: none;
+}

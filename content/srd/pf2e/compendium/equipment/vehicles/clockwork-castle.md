@@ -7,6 +7,7 @@ tags:
 aliases: ["Clockwork Castle"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=35"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Clockwork Castle  *Vehicle 16*

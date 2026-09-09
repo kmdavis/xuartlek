@@ -9,6 +9,7 @@ tags:
 aliases: ["Infinitesimal Collapse Field"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2750"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Infinitesimal Collapse Field  *Spell 7*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

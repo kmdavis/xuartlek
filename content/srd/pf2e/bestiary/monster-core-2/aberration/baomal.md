@@ -11,6 +11,7 @@ name: "Baomal"
 level: 20
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4278"
+socialImage: og-image.png
 ---
 
 ```statblock

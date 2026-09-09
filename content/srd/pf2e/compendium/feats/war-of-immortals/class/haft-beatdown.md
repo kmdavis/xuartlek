@@ -9,6 +9,7 @@ tags:
 aliases: ["Haft Beatdown"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7238"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Haft Beatdown  *Feat 10*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

@@ -8,6 +8,7 @@ tags:
 aliases: ["Spectacles of Inquiry"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2316"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Spectacles of Inquiry  *Item 12*

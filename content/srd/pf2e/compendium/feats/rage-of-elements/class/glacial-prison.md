@@ -13,6 +13,7 @@ tags:
 aliases: ["Glacial Prison"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4276"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Glacial Prison  *Feat 12*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

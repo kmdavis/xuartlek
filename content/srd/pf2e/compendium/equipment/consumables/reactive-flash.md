@@ -9,6 +9,7 @@ tags:
 aliases: ["Reactive Flash"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3893"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Reactive Flash  *Item 5*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Distortion Mirror"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=635"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Distortion Mirror  *Hazard 14*

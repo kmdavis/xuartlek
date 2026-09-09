@@ -7,6 +7,7 @@ tags:
 aliases: ["Unbounded Invocations"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9216"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Unbounded Invocations  *Feat 18*

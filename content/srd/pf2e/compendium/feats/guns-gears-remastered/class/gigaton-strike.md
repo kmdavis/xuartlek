@@ -7,6 +7,7 @@ tags:
 aliases: ["Gigaton Strike"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3064"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Gigaton Strike  *Feat 8*

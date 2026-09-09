@@ -5,6 +5,7 @@ tags:
 aliases: ["Psychopomp"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=458"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Psychopomp  *Creature Family*

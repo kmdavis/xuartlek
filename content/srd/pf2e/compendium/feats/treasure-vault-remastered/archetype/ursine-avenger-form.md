@@ -10,6 +10,7 @@ tags:
 aliases: ["Ursine Avenger Form"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4086"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Ursine Avenger Form  *Feat 2*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

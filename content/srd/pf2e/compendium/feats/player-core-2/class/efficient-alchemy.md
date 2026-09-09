@@ -7,6 +7,7 @@ tags:
 aliases: ["Efficient Alchemy"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5771"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Efficient Alchemy  *Feat 4*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Metallic Skin"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4332"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Metallic Skin  *Feat 17*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

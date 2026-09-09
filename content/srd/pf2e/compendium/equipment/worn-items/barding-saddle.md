@@ -10,6 +10,7 @@ tags:
 aliases: ["Barding Saddle"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3956"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Barding Saddle  *Item 7*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Kickback"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=409"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Kickback  *Trait*

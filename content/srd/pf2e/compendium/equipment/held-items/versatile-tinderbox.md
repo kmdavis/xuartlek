@@ -8,6 +8,7 @@ tags:
 aliases: ["Versatile Tinderbox"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2651"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Versatile Tinderbox  *Item 1*

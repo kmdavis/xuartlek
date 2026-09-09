@@ -9,6 +9,7 @@ tags:
 aliases: ["Sleepless Season"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=215"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Sleepless Season  *Ritual 6*

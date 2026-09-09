@@ -8,6 +8,7 @@ tags:
 aliases: ["Harmona Gun"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=202"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Harmona Gun  *Weapon 0*

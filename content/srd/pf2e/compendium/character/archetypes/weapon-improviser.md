@@ -6,6 +6,7 @@ tags:
 aliases: ["Weapon Improviser"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=269"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Weapon Improviser  *Archetype 2*

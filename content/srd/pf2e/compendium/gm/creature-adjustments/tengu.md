@@ -5,6 +5,7 @@ tags:
 aliases: ["Tengu"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=54"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Tengu  *Creature Adjustment*

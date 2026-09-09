@@ -8,6 +8,7 @@ tags:
 aliases: ["Tome of Restorative Cleansing"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2183"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Tome of Restorative Cleansing  *Item 5+*

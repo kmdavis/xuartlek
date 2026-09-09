@@ -9,6 +9,7 @@ tags:
 aliases: ["False Floor"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=632"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # False Floor  *Hazard 3*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Moonlit Chain"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2809"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Moonlit Chain  *Item 7*

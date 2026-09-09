@@ -10,6 +10,7 @@ tags:
 aliases: ["Flash Forge"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4251"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Flash Forge  *Feat 1*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

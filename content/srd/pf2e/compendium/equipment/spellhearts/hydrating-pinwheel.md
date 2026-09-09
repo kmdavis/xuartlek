@@ -9,6 +9,7 @@ tags:
 aliases: ["Hydrating Pinwheel"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5156"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Hydrating Pinwheel  *Item 7+*

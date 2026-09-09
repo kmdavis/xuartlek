@@ -8,6 +8,7 @@ tags:
 aliases: ["Master of Many Styles"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4850"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Master of Many Styles  *Feat 16*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

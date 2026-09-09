@@ -9,6 +9,7 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2335"
 citation: "Player Core pg. 414"
+socialImage: og-image.png
 ---
 
 # Actions

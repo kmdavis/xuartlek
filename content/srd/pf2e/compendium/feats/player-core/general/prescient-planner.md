@@ -7,6 +7,7 @@ tags:
 aliases: ["Prescient Planner"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5191"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Prescient Planner  *Feat 3*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Seven-Part Link"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8383"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Seven-Part Link  *Feat 16*

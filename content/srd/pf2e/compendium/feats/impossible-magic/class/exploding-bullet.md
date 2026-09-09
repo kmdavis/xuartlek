@@ -8,6 +8,7 @@ tags:
 aliases: ["Exploding Bullet"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9055"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Exploding Bullet  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

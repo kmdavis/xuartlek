@@ -9,6 +9,7 @@ tags:
 aliases: ["Warding Element Draught"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1934"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Warding Element Draught  *Item 7*

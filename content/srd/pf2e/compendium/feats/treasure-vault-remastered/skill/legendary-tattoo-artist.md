@@ -8,6 +8,7 @@ tags:
 aliases: ["Legendary Tattoo Artist"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4083"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Legendary Tattoo Artist  *Feat 15*

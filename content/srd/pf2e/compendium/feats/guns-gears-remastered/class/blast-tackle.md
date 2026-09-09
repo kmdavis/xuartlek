@@ -7,6 +7,7 @@ tags:
 aliases: ["Blast Tackle"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3197"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Blast Tackle  *Feat 14*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

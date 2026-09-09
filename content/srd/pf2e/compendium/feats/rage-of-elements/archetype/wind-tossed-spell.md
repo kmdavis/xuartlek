@@ -11,6 +11,7 @@ tags:
 aliases: ["Wind-Tossed Spell"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4352"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Wind-Tossed Spell  *Feat 14*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

@@ -6,6 +6,7 @@ tags:
 aliases: ["Hero's Defiance"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=58"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Hero's Defiance  *Class Feature 19*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Skimmer"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=114"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Skimmer  *Vehicle 11*

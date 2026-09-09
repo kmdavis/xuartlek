@@ -7,6 +7,7 @@ tags:
 aliases: ["Amp Focus"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8336"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Amp Focus  *Feat 12*

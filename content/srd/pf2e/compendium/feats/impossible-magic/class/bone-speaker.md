@@ -7,6 +7,7 @@ tags:
 aliases: ["Bone Speaker"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9098"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Bone Speaker  *Feat 2*

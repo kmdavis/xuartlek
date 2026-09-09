@@ -10,6 +10,7 @@ tags:
 aliases: ["Pest Swarm"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2512"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Pest Swarm  *Spell 4*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

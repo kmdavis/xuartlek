@@ -11,6 +11,7 @@ name: "Sinswarm"
 level: 9
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3937"
+socialImage: og-image.png
 ---
 
 ```statblock

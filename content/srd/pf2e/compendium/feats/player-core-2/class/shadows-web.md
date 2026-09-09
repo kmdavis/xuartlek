@@ -7,6 +7,7 @@ tags:
 aliases: ["Shadow's Web"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6035"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Shadow's Web  *Feat 14*

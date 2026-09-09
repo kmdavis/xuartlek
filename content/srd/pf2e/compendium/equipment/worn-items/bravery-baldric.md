@@ -8,6 +8,7 @@ tags:
 aliases: ["Bravery Baldric"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2309"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Bravery Baldric  *Item 5+*

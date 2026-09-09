@@ -8,6 +8,7 @@ tags:
 aliases: ["Entrapping Chair"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=633"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Entrapping Chair  *Hazard 5*

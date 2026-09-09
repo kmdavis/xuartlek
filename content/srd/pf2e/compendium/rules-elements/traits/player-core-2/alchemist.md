@@ -6,6 +6,7 @@ tags:
 aliases: ["Alchemist"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=812"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Alchemist  *Trait*

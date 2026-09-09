@@ -7,6 +7,7 @@ tags:
 aliases: ["Kinetic Activation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4187"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Kinetic Activation  *Feat 2*

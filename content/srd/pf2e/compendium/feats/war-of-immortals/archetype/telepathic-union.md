@@ -9,6 +9,7 @@ tags:
 aliases: ["Telepathic Union"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7352"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Telepathic Union  *Feat 16*

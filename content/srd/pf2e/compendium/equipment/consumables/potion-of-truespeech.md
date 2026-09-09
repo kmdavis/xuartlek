@@ -10,6 +10,7 @@ tags:
 aliases: ["Potion of Truespeech"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2954"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Potion of Truespeech  *Item 12*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Divine Defense"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=33"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Divine Defense  *Class Feature 13*

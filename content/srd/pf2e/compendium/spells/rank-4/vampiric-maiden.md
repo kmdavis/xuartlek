@@ -10,6 +10,7 @@ tags:
 aliases: ["Vampiric Maiden"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2039"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Vampiric Maiden  *Spell 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

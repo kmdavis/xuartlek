@@ -6,6 +6,7 @@ tags:
 aliases: ["Injury"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=635"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Injury  *Trait*

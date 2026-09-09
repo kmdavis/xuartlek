@@ -5,6 +5,7 @@ tags:
 - compendium/src/pf2e/treasure-vault-remastered
 aliases: ["Diseases"]
 entries: 15
+socialImage: og-image.png
 ---
 
 # Diseases

@@ -9,6 +9,7 @@ tags:
 aliases: ["Pillar of Water"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1394"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Pillar of Water  *Spell 3*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

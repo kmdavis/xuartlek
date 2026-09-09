@@ -8,6 +8,7 @@ tags:
 aliases: ["Fortunate Relief"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4683"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Fortunate Relief  *Feat 12*

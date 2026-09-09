@@ -12,6 +12,7 @@ tags:
 aliases: ["Vision of Death"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1742"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Vision of Death  *Spell 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

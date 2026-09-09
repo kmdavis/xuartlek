@@ -7,6 +7,7 @@ tags:
 aliases: ["Rallying Anthem"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4592"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Rallying Anthem  *Feat 4*

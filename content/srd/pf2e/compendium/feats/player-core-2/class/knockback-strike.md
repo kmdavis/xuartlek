@@ -8,6 +8,7 @@ tags:
 aliases: ["Knockback Strike"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6019"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Knockback Strike  *Feat 10*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

@@ -10,6 +10,7 @@ tags:
 aliases: ["Rune Of Sin"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5180"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Rune Of Sin  *Item 12*

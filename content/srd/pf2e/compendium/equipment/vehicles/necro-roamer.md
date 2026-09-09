@@ -7,6 +7,7 @@ tags:
 aliases: ["Necro Roamer"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=103"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Necro Roamer  *Vehicle 15*

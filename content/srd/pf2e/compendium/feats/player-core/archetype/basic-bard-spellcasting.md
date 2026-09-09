@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Bard Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5058"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Basic Bard Spellcasting  *Feat 4*

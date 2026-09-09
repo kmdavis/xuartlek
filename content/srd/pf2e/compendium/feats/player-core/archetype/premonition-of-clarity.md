@@ -8,6 +8,7 @@ tags:
 aliases: ["Premonition of Clarity"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4691"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Premonition of Clarity  *Feat 14*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

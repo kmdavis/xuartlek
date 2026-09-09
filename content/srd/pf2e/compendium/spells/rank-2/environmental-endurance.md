@@ -8,6 +8,7 @@ tags:
 aliases: ["Environmental Endurance"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1517"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Environmental Endurance  *Spell 2*

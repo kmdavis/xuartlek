@@ -9,6 +9,7 @@ tags:
 aliases: ["Runesmith Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9301"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Runesmith Dedication  *Feat 2*

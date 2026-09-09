@@ -9,6 +9,7 @@ tags:
 aliases: ["Merciful Balm"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2072"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Merciful Balm  *Item 1*

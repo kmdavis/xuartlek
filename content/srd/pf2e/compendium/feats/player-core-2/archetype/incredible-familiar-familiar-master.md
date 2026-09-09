@@ -7,6 +7,7 @@ tags:
 aliases: ["Incredible Familiar (Familiar Master)"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8005"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Incredible Familiar (Familiar Master)  *Feat 10*

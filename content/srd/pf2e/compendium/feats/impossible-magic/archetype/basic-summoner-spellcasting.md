@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Summoner Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9308"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Basic Summoner Spellcasting  *Feat 4*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Talos"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=507"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Talos  *Trait*

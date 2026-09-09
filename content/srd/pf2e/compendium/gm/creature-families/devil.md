@@ -5,6 +5,7 @@ tags:
 aliases: ["Devil"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=389"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Devil  *Creature Family*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Instrument Harness"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3967"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Instrument Harness  *Item 3*

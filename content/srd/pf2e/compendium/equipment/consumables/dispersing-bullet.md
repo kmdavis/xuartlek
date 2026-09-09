@@ -8,6 +8,7 @@ tags:
 aliases: ["Dispersing Bullet"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5034"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Dispersing Bullet  *Item 6*

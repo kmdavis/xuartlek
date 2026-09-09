@@ -9,6 +9,7 @@ tags:
 aliases: ["Headwrap of Wisdom"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3011"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Headwrap of Wisdom  *Item 17*

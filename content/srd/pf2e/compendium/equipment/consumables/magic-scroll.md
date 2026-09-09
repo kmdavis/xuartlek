@@ -9,6 +9,7 @@ tags:
 aliases: ["Magic Scroll"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2962"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Magic Scroll  *Item 1+*

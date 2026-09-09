@@ -6,6 +6,7 @@ tags:
 aliases: ["Taunt"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=67"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Taunt  *Class Feature 1*

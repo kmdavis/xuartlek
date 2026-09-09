@@ -10,6 +10,7 @@ tags:
 aliases: ["Kama"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=410"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Kama  *Weapon 0*

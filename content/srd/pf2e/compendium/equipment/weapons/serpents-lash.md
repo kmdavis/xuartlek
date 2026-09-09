@@ -8,6 +8,7 @@ tags:
 aliases: ["Serpent's Lash"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5027"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Serpent's Lash  *Item 8*

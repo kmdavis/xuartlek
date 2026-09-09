@@ -7,6 +7,7 @@ tags:
 aliases: ["Tactical Reflexes"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4830"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Tactical Reflexes  *Feat 10*

@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/player-core
 aliases: ["Sidebars: Player Core"]
 entries: 98
+socialImage: og-image.png
 ---
 
 # Sidebars: Player Core
@@ -131,7 +132,7 @@ If an effect makes an item broken automatically and the item has more HP than it
 
 - **Parent page**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]]
 
-Your influence on NPCs is measured with a set of attitudes that reflect how they view your character. These are only a brief summary of a creature's disposition. The GM will supply additional nuance based on the history and beliefs of the characters you're interacting with, and their attitudes can change in accordance with the story. The attitudes are detailed in the [[srd/pf2e/books/player-core/conditions-appendix/index|Conditions Appendix]] and are summarized here. 
+Your influence on NPCs is measured with a set of attitudes that reflect how they view your character. These are only a brief summary of a creature's disposition. The GM will supply additional nuance based on the history and beliefs of the characters you're interacting with, and their attitudes can change in accordance with the story. The attitudes are detailed in the [[srd/pf2e/books/player-core/conditions-appendix/conditions-appendix|Conditions Appendix]] and are summarized here. 
 **Helpful**: Willing to help you and responds favorably to your requests.**Friendly**: Has a good attitude toward you, but won't necessarily stick their neck out to help you.**Indifferent**: Doesn't care about you either way. (Most NPCs start out indifferent.)**Unfriendly**: Dislikes you and doesn't want to help you.**Hostile**: Actively works against you—and might attack you just because of their dislike. No one can ever change the attitude of a player character with these skills. You can roleplay interactions with player characters, and even use [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] results if the player wants a mechanical sense of how convincing or charming a character is, but players make the ultimate decisions about how their characters respond.
 
 *Source: Player Core p. 239*
@@ -140,7 +141,7 @@ Your influence on NPCs is measured with a set of attitudes that reflect how they
 
 - **Parent page**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Coerce|Coerce]]
 
-Your influence on NPCs is measured with a set of attitudes that reflect how they view your character. These are only a brief summary of a creature's disposition. The GM will supply additional nuance based on the history and beliefs of the characters you're interacting with, and their attitudes can change in accordance with the story. The attitudes are detailed in the [[srd/pf2e/books/player-core/conditions-appendix/index|Conditions Appendix]] and are summarized here. 
+Your influence on NPCs is measured with a set of attitudes that reflect how they view your character. These are only a brief summary of a creature's disposition. The GM will supply additional nuance based on the history and beliefs of the characters you're interacting with, and their attitudes can change in accordance with the story. The attitudes are detailed in the [[srd/pf2e/books/player-core/conditions-appendix/conditions-appendix|Conditions Appendix]] and are summarized here. 
 **Helpful**: Willing to help you and responds favorably to your requests.**Friendly**: Has a good attitude toward you, but won't necessarily stick their neck out to help you.**Indifferent**: Doesn't care about you either way. (Most NPCs start out indifferent.)**Unfriendly**: Dislikes you and doesn't want to help you.**Hostile**: Actively works against you—and might attack you just because of their dislike. No one can ever change the attitude of a player character with these skills. You can roleplay interactions with player characters, and even use [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] results if the player wants a mechanical sense of how convincing or charming a character is, but players make the ultimate decisions about how their characters respond.
 
 *Source: Player Core p. 240*
@@ -234,7 +235,7 @@ Academia LoreAccounting LoreArchitecture LoreArt LoreAstronomy LoreCarpentry Lor
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/effects|Effects]]
 
-Some effects apply conditions to a creature or item. These change your state of being in some way. Conditions are persistent, lasting until the stated duration ends, the condition is removed, or terms dictated in the condition cause it to end. Full rules appear in the [[srd/pf2e/books/player-core/conditions-appendix/index|Conditions Appendix]].
+Some effects apply conditions to a creature or item. These change your state of being in some way. Conditions are persistent, lasting until the stated duration ends, the condition is removed, or terms dictated in the condition cause it to end. Full rules appear in the [[srd/pf2e/books/player-core/conditions-appendix/conditions-appendix|Conditions Appendix]].
 
 **[[srd/pf2e/compendium/rules-elements/conditions#Blinded|Blinded]]:** You're unable to see.
 **[[srd/pf2e/compendium/rules-elements/conditions#Broken|Broken]]:** This item can't be used for its normal function until repaired.
@@ -420,7 +421,7 @@ Your armor’s statistics are based on the material it’s predominantly made fr
 
 ## Death and Dying Rules
 
-- **Parent page**: [[srd/pf2e/books/player-core/conditions-appendix/index|Conditions Appendix]]
+- **Parent page**: [[srd/pf2e/books/player-core/conditions-appendix/conditions-appendix|Conditions Appendix]]
 
 The [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]], [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], and [[srd/pf2e/compendium/rules-elements/conditions#Wounded|wounded]] conditions all relate to the process of coming closer to death. The full rules are [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying|here]]. The most significant information not contained in the conditions themselves is this: When you're reduced to 0 Hit Points, you're knocked out with the following effects:
 
@@ -551,7 +552,7 @@ If both a fortune effect and a misfortune effect would apply to the same roll, t
 
 ## Gaining and Losing Actions
 
-- **Parent page**: [[srd/pf2e/books/player-core/conditions-appendix/index|Conditions Appendix]]
+- **Parent page**: [[srd/pf2e/books/player-core/conditions-appendix/conditions-appendix|Conditions Appendix]]
 
 [[srd/pf2e/compendium/rules-elements/conditions#Quickened|Quickened]], [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]], and [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] are the primary ways you can gain or lose actions. The rules for how this works appear [[srd/pf2e/books/player-core/chapter-8-playing-the-game/actions#Gaining and Losing Actions|here]].. All these conditions alter how many actions you regain at the start of your turn. Gaining quickened or slowed on your turn doesn't adjust your actions that turn. If you get stunned on your turn, first complete any action or activity you're in the middle of. If the stunned condition has a value, lose remaining actions to reduce your stunned value rather than waiting until your next turn.
 
@@ -593,7 +594,7 @@ Sometimes a rule could be interpreted multiple ways. If one version is too good 
 
 ## Groups of Conditions
 
-- **Parent page**: [[srd/pf2e/books/player-core/conditions-appendix/index|Conditions Appendix]]
+- **Parent page**: [[srd/pf2e/books/player-core/conditions-appendix/conditions-appendix|Conditions Appendix]]
 
 Some conditions exist relative to one another or share a similar theme. It can be useful to look at these conditions together to understand how they interact.
 
@@ -785,7 +786,7 @@ Increase your level by 1 and subtract 1,000 XP from your XP total.Increase your 
 
 ## Magical Traditions
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-7-spells/index|Chapter 7: Spells]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-7-spells/chapter-7-spells|Chapter 7: Spells]]
 
 Spellcasters cast spells from one of four different spell lists, each representing a different magical tradition: arcane, divine, occult, and primal.
 
@@ -998,7 +999,7 @@ The following abilities you can choose from the Pet general feat (page 259) are 
 
 ## Quick Equipment Packages
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-6-equipment/index|Chapter 6: Equipment]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-6-equipment/chapter-6-equipment|Chapter 6: Equipment]]
 
 If you want to quickly decide how to spend your starting money on what your class needs, start with one of these batches of starting gear. An adventurer’s pack, which is included in each kit, contains a backpack, a bedroll, 10 pieces of chalk, flint and steel, 50 feet of rope, 2 weeks’ rations, soap, 5 torches, and a waterskin. The Options section lists items that aren’t in the base package but that many characters of the class might like to buy.
 
@@ -1045,7 +1046,7 @@ The following skills can be used to Recall Knowledge about the listed topics. So
 
 ## Redundant Conditions
 
-- **Parent page**: [[srd/pf2e/books/player-core/conditions-appendix/index|Conditions Appendix]]
+- **Parent page**: [[srd/pf2e/books/player-core/conditions-appendix/conditions-appendix|Conditions Appendix]]
 
 You can have a given condition only once at a time. If an effect would impose a condition you already have, you now have that condition for the longer of the two durations. The shorter-duration condition effectively ends, though other conditions caused by the original, shorter-duration effect might continue.
 
@@ -1091,7 +1092,7 @@ The GM can choose to make any check secret, even if it's not usually rolled secr
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/downtime-mode#Shopping and Crafting|Shopping and Crafting]]
 
-[[srd/pf2e/books/player-core/chapter-4-skills/index|Chapter 4: Skills]] includes several downtime activities, which are summarized here.
+[[srd/pf2e/books/player-core/chapter-4-skills/chapter-4-skills|Chapter 4: Skills]] includes several downtime activities, which are summarized here.
 
 **[[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]]:** Using the [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] skill, you can create items from raw materials.
 **[[srd/pf2e/compendium/rules-elements/actions/player-core#Create Forgery|Create Forgery]]:** You forge a document.
@@ -1105,7 +1106,7 @@ The GM can choose to make any check secret, even if it's not usually rolled secr
 
 - **Parent page**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/exploration-mode#Exploration Activities|Exploration Activities]]
 
-[[srd/pf2e/books/player-core/chapter-4-skills/index|Chapter 4: Skills]] includes additional exploration activities.
+[[srd/pf2e/books/player-core/chapter-4-skills/chapter-4-skills|Chapter 4: Skills]] includes additional exploration activities.
 
 **[[srd/pf2e/compendium/rules-elements/actions/player-core#Borrow an Arcane Spell|Borrow an Arcane Spell]]:** You use [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] to prepare a spell from someone else's spellbook.
 **[[srd/pf2e/compendium/rules-elements/actions/player-core#Coerce|Coerce]]:** You use [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] to threaten a creature so it does what you want.
@@ -1177,7 +1178,7 @@ If the spell would affect an ability the creature doesn't have, the spell doesn'
 
 ## The First Rule
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/index|Chapter 1: Introduction]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-1-introduction/chapter-1-introduction|Chapter 1: Introduction]]
 
 The first rule of Pathfinder is that this game is yours. Use it to tell the stories you want to tell, be the character you want to be, and share exciting adventures with friends. If any other rule gets in the way of your fun, as long as your group agrees, you can alter or ignore it to fit your story. The true goal of Pathfinder is for everyone to enjoy themselves.
 
@@ -1185,7 +1186,7 @@ The first rule of Pathfinder is that this game is yours. Use it to tell the stor
 
 ## The Four Essences
 
-- **Parent page**: [[srd/pf2e/books/player-core/chapter-7-spells/index|Chapter 7: Spells]]
+- **Parent page**: [[srd/pf2e/books/player-core/chapter-7-spells/chapter-7-spells|Chapter 7: Spells]]
 
 Spells that affect certain physical or metaphysical forces tend to be grouped into particular magical areas. Scholars of magic widely agree that all of existence is composed of some combination of four essences, though they disagree on the names and particular qualities of each essence.
 

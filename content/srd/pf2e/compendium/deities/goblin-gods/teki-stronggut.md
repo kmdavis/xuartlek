@@ -5,6 +5,7 @@ tags:
 aliases: ["Teki Stronggut"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=505"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Teki Stronggut  *Deity*

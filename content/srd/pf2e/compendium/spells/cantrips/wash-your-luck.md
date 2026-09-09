@@ -10,6 +10,7 @@ tags:
 aliases: ["Wash Your Luck"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2863"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Wash Your Luck  *Cantrip 1*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

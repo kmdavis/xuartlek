@@ -10,6 +10,7 @@ name: "Lightning Turtle"
 level: 12
 source: "Howl of the Wild"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3284"
+socialImage: og-image.png
 ---
 
 ```statblock

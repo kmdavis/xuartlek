@@ -9,6 +9,7 @@ tags:
 aliases: ["Arcane Standard"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3902"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Arcane Standard  *Item 10+*

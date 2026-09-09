@@ -10,6 +10,7 @@ tags:
 aliases: ["Wand of Slaughter"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3427"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Wand of Slaughter  *Item 16+*

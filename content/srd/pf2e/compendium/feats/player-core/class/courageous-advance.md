@@ -11,6 +11,7 @@ tags:
 aliases: ["Courageous Advance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4589"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Courageous Advance  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

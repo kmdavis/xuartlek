@@ -7,6 +7,7 @@ tags:
 aliases: ["Membership Cords"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4122"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Membership Cords  *Item 0*

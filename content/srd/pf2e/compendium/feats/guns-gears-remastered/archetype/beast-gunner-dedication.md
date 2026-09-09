@@ -10,6 +10,7 @@ tags:
 aliases: ["Beast Gunner Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3229"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Beast Gunner Dedication  *Feat 6*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Advanced Domain"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4666"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Advanced Domain  *Feat 8*

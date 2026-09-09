@@ -6,6 +6,7 @@ tags:
 aliases: ["Xulgath"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=781"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Xulgath  *Trait*

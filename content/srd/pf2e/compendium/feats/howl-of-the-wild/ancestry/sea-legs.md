@@ -7,6 +7,7 @@ tags:
 aliases: ["Sea Legs"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5303"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Sea Legs  *Feat 1*

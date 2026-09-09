@@ -7,6 +7,7 @@ tags:
 aliases: ["Add Element"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4338"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Add Element  *Feat 10*

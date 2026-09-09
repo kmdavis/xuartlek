@@ -9,6 +9,7 @@ tags:
 aliases: ["Watchful Portrait"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2129"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Watchful Portrait  *Item 9*

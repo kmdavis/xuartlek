@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/player-core-2
 aliases: ["Actions: Player Core 2"]
 entries: 23
+socialImage: og-image.png
 ---
 
 # Actions: Player Core 2

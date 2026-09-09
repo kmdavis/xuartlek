@@ -7,6 +7,7 @@ tags:
 aliases: ["Plentiful Snares"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6419"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Plentiful Snares  *Feat 12*

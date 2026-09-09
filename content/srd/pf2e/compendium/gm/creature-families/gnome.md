@@ -5,6 +5,7 @@ tags:
 aliases: ["Gnome"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=421"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Gnome  *Creature Family*

@@ -7,6 +7,7 @@ tags:
 aliases: ["True Dragon's Flight"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5741"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # True Dragon's Flight  *Feat 9*

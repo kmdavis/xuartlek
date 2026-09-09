@@ -10,6 +10,7 @@ tags:
 aliases: ["Eldritch Flare"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2002"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Eldritch Flare  *Item 15*

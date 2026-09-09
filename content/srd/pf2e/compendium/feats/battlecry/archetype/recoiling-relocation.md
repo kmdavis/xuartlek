@@ -9,6 +9,7 @@ tags:
 aliases: ["Recoiling Relocation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7962"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Recoiling Relocation  *Feat 8*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

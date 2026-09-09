@@ -9,6 +9,7 @@ tags:
 aliases: ["Windstep Sheath"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3901"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Windstep Sheath  *Item 9*

@@ -14,6 +14,7 @@ tags:
 aliases: ["Flying Talon"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=474"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Flying Talon  *Weapon 0*

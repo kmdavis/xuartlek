@@ -7,6 +7,7 @@ tags:
 aliases: ["Shed Tail"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5641"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Shed Tail  *Feat 5*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

@@ -5,6 +5,7 @@ tags:
 aliases: ["Zombie"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=487"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Zombie  *Creature Family*

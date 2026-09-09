@@ -10,6 +10,7 @@ tags:
 aliases: ["Bleeding Spines Snare"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3365"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Bleeding Spines Snare  *Item 12*

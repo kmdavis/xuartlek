@@ -10,6 +10,7 @@ tags:
 aliases: ["Cytillesh Oil"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3330"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Cytillesh Oil  *Item 3*

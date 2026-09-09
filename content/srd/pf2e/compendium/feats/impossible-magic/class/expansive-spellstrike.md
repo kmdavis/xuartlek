@@ -7,6 +7,7 @@ tags:
 aliases: ["Expansive Spellstrike"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9047"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Expansive Spellstrike  *Feat 2*

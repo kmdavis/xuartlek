@@ -5,6 +5,7 @@ tags:
 aliases: ["Dragon, Cinder"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=582"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Dragon, Cinder  *Creature Family*

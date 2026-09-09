@@ -8,6 +8,7 @@ tags:
 aliases: ["Aerobatics Mastery"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6459"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Aerobatics Mastery  *Feat 7*

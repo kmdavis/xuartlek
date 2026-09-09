@@ -7,6 +7,7 @@ tags:
 aliases: ["Dragon's Presence"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5613"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Dragon's Presence  *Feat 1*

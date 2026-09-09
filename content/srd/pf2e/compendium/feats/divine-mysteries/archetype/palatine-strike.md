@@ -7,6 +7,7 @@ tags:
 aliases: ["Palatine Strike"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7561"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Palatine Strike  *Feat 8*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Zarongel"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=507"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Zarongel  *Deity*

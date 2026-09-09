@@ -7,6 +7,7 @@ tags:
 aliases: ["Lonely Army"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7940"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Lonely Army  *Feat 14*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

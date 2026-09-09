@@ -8,6 +8,7 @@ tags:
 aliases: ["Ward Slumber"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8521"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Ward Slumber  *Feat 12*

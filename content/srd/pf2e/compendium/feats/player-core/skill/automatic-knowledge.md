@@ -8,6 +8,7 @@ tags:
 aliases: ["Automatic Knowledge"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5122"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Automatic Knowledge  *Feat 2*

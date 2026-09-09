@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/war-of-immortals
 aliases: ["Epithets"]
 entries: 16
+socialImage: og-image.png
 ---
 
 # Epithets

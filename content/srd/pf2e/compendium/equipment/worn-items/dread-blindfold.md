@@ -11,6 +11,7 @@ tags:
 aliases: ["Dread Blindfold"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3080"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Dread Blindfold  *Item 17*

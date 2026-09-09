@@ -9,6 +9,7 @@ tags:
 aliases: ["Slashing Claws"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3188"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Slashing Claws  *Item 3+*

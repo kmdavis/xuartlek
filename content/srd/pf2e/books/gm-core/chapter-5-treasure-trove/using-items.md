@@ -9,6 +9,7 @@ tags:
 source: "GM Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3136"
 citation: "GM Core pg. 219"
+socialImage: og-image.png
 ---
 
 # Using Items

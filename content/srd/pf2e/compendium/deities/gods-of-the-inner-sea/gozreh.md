@@ -5,6 +5,7 @@ tags:
 aliases: ["Gozreh"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=284"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Gozreh  *Deity*

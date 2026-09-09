@@ -7,6 +7,7 @@ tags:
 aliases: ["Necromantic Physiology"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5720"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Necromantic Physiology  *Feat 5*

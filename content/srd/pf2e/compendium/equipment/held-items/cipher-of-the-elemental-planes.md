@@ -8,6 +8,7 @@ tags:
 aliases: ["Cipher of the Elemental Planes"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2652"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Cipher of the Elemental Planes  *Item 16*

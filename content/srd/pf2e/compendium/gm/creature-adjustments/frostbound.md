@@ -5,6 +5,7 @@ tags:
 aliases: ["Frostbound"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=25"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Frostbound  *Creature Adjustment*

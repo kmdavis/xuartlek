@@ -9,6 +9,7 @@ tags:
 aliases: ["Create Demiplane"]
 aon_url: "https://2e.aonprd.com/MythicRituals.aspx?ID=191"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Create Demiplane  *Ritual 8*

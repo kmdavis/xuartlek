@@ -8,6 +8,7 @@ tags:
 aliases: ["Shrinking Hall"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=631"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Shrinking Hall  *Hazard 2*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Winged Warrior Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5527"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Winged Warrior Dedication  *Feat 2*

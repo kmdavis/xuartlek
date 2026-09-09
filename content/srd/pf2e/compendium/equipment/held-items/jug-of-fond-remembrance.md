@@ -7,6 +7,7 @@ tags:
 aliases: ["Jug of Fond Remembrance"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2193"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Jug of Fond Remembrance  *Item 4*

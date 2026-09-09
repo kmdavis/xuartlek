@@ -9,6 +9,7 @@ tags:
 aliases: ["Shot of the First Vault"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3124"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Shot of the First Vault  *Item 23*

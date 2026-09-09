@@ -6,6 +6,7 @@ tags:
 aliases: ["Meals"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2767"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Meals  *Item 0+*

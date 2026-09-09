@@ -6,6 +6,7 @@ tags:
 aliases: ["Expert Tactician"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=66"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Expert Tactician  *Class Feature 7*

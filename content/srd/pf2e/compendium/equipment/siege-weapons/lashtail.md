@@ -8,6 +8,7 @@ tags:
 aliases: ["Lashtail"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=26"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Lashtail  *Siege Weapon 9*

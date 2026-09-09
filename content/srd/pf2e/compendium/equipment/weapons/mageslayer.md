@@ -8,6 +8,7 @@ tags:
 aliases: ["Mageslayer"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3854"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Mageslayer  *Item 8*

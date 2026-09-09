@@ -11,6 +11,7 @@ tags:
 aliases: ["Vampiric Feast"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1736"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Vampiric Feast  *Spell 3*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

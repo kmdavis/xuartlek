@@ -8,6 +8,7 @@ tags:
 aliases: ["Feather of the Unfounded Bravado"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3935"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Feather of the Unfounded Bravado  *Item 2*

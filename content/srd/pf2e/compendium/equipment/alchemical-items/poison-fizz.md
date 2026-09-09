@@ -9,6 +9,7 @@ tags:
 aliases: ["Poison Fizz"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1926"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Poison Fizz  *Item 8+*

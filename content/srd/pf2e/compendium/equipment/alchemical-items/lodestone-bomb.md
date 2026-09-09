@@ -11,6 +11,7 @@ tags:
 aliases: ["Lodestone Bomb"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1904"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Lodestone Bomb  *Item 12+*

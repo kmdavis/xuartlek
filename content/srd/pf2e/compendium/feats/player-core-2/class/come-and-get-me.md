@@ -9,6 +9,7 @@ tags:
 aliases: ["Come and Get Me"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5845"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Come and Get Me  *Feat 10*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

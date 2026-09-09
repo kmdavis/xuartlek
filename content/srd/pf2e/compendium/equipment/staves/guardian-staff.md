@@ -8,6 +8,7 @@ tags:
 aliases: ["Guardian Staff"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2252"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Guardian Staff  *Item 6+*

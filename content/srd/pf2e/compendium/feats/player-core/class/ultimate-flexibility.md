@@ -7,6 +7,7 @@ tags:
 aliases: ["Ultimate Flexibility"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4858"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Ultimate Flexibility  *Feat 20*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Steel Skin"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6410"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Steel Skin  *Feat 4*

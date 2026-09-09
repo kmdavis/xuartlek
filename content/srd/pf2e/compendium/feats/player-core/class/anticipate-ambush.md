@@ -8,6 +8,7 @@ tags:
 aliases: ["Anticipate Ambush"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4941"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Anticipate Ambush  *Feat 6*

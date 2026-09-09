@@ -5,6 +5,7 @@ tags:
 aliases: ["Treasures of the Eternal Delve"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=374"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Treasures of the Eternal Delve  *Deity*

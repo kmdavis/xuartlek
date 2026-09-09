@@ -7,6 +7,7 @@ tags:
 aliases: ["Expert Magus Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9290"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Expert Magus Spellcasting  *Feat 12*

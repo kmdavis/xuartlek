@@ -7,6 +7,7 @@ tags:
 aliases: ["Mortal Herald"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=305"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Mortal Herald  *Archetype 12*

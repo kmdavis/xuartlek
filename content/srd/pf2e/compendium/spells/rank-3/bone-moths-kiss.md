@@ -9,6 +9,7 @@ tags:
 aliases: ["Bone Moth's Kiss"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2645"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Bone Moth's Kiss  *Spell 3*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

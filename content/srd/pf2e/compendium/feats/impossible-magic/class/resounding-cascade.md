@@ -8,6 +8,7 @@ tags:
 aliases: ["Resounding Cascade"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9087"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Resounding Cascade  *Feat 16*

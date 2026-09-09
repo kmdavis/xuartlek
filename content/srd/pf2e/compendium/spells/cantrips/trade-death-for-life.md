@@ -12,6 +12,7 @@ tags:
 aliases: ["Trade Death for Life"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2435"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Trade Death for Life  *Cantrip 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

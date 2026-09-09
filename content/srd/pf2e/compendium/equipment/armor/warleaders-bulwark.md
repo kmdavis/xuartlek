@@ -8,6 +8,7 @@ tags:
 aliases: ["Warleader's Bulwark"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3277"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Warleader's Bulwark  *Item 10+*

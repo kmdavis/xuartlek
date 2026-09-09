@@ -11,6 +11,7 @@ tags:
 aliases: ["Bestial Snarling"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5416"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Bestial Snarling  *Feat 2*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

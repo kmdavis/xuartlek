@@ -8,6 +8,7 @@ tags:
 aliases: ["Pattern Flight"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9179"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Pattern Flight  *Feat 2*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

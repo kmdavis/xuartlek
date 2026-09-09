@@ -9,6 +9,7 @@ tags:
 aliases: ["Investigator Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6203"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Investigator Dedication  *Feat 2*

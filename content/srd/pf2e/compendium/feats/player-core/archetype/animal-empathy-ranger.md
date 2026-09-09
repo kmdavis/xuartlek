@@ -7,6 +7,7 @@ tags:
 aliases: ["Animal Empathy (Ranger)"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4865"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Animal Empathy (Ranger)  *Feat 2*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Masterful Companion"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4909"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Masterful Companion  *Feat 18*

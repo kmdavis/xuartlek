@@ -7,6 +7,7 @@ tags:
 aliases: ["Munitions Master"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=329"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Munitions Master  *Archetype 2*

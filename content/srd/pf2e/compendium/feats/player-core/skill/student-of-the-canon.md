@@ -8,6 +8,7 @@ tags:
 aliases: ["Student of the Canon"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5219"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Student of the Canon  *Feat 1*

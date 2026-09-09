@@ -8,6 +8,7 @@ tags:
 aliases: ["Dragon Turtle Plate"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1845"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Dragon Turtle Plate  *Item 9*

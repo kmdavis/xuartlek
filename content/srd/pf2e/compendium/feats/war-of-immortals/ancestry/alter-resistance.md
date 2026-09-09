@@ -7,6 +7,7 @@ tags:
 aliases: ["Alter Resistance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7214"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Alter Resistance  *Feat 13*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

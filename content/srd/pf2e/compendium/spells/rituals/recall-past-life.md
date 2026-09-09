@@ -7,6 +7,7 @@ tags:
 aliases: ["Recall Past Life"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=228"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Recall Past Life  *Ritual 4*

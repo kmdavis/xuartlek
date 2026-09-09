@@ -10,6 +10,7 @@ tags:
 aliases: ["Cayden's Brew"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2079"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Cayden's Brew  *Item 8+*

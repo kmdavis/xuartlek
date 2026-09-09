@@ -9,6 +9,7 @@ tags:
 aliases: ["Bloodrager Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7239"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Bloodrager Dedication  *Feat 2*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Voluminous Vials"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6188"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Voluminous Vials  *Feat 6*

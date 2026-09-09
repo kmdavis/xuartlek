@@ -13,6 +13,7 @@ name: "Ancient Empyreal Dragon"
 level: 19
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2943"
+socialImage: og-image.png
 ---
 
 ```statblock

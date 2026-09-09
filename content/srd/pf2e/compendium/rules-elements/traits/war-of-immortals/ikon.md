@@ -6,6 +6,7 @@ tags:
 aliases: ["Ikon"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=840"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Ikon  *Trait*

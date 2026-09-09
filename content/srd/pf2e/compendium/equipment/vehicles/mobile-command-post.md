@@ -7,6 +7,7 @@ tags:
 aliases: ["Mobile Command Post"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=102"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Mobile Command Post  *Vehicle 16*

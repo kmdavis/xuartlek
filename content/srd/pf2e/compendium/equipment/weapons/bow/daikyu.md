@@ -9,6 +9,7 @@ tags:
 aliases: ["Daikyu"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=472"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Daikyu  *Weapon 0*

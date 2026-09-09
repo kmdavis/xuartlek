@@ -7,6 +7,7 @@ tags:
 aliases: ["Cantrip Deck"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5140"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Cantrip Deck  *Item 1+*

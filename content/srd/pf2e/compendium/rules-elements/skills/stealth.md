@@ -5,6 +5,7 @@ tags:
 aliases: ["Stealth"]
 aon_url: "https://2e.aonprd.com/Skills.aspx?ID=48"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Stealth  *Skill*

@@ -12,6 +12,7 @@ tags:
 aliases: ["Perfected Thrall"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2904"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Perfected Thrall  *Focus 10*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

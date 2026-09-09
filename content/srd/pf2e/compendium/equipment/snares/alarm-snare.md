@@ -11,6 +11,7 @@ tags:
 aliases: ["Alarm Snare"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3363"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Alarm Snare  *Item 1*

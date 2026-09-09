@@ -7,6 +7,7 @@ tags:
 aliases: ["Analyze Weakness"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4940"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Analyze Weakness  *Feat 6*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

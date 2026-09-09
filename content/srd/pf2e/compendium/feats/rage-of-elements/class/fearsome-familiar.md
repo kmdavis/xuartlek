@@ -9,6 +9,7 @@ tags:
 aliases: ["Fearsome Familiar"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4192"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Fearsome Familiar  *Feat 6*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

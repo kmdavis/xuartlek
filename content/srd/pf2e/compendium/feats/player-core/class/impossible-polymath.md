@@ -7,6 +7,7 @@ tags:
 aliases: ["Impossible Polymath"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4636"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Impossible Polymath  *Feat 18*

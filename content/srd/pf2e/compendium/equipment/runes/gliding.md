@@ -7,6 +7,7 @@ tags:
 aliases: ["Gliding"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1831"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Gliding  *Item 8*

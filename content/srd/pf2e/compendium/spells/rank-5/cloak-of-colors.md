@@ -9,6 +9,7 @@ tags:
 aliases: ["Cloak of Colors"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1977"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Cloak of Colors  *Spell 5*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

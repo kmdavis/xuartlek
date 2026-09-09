@@ -7,6 +7,7 @@ tags:
 aliases: ["Soulforger"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=393"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Soulforger  *Archetype 2*

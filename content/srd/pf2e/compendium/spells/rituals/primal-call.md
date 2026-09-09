@@ -7,6 +7,7 @@ tags:
 aliases: ["Primal Call"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=122"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Primal Call  *Ritual 6*

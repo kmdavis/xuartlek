@@ -7,6 +7,7 @@ tags:
 aliases: ["True Channel Spell"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7153"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # True Channel Spell  *Feat 20*

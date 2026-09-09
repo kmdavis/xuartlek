@@ -11,6 +11,7 @@ tags:
 aliases: ["Invent Code"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2752"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Invent Code  *Spell 3*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

@@ -7,6 +7,7 @@ tags:
 aliases: ["Secrets of Steel"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7984"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Secrets of Steel  *Feat 10*

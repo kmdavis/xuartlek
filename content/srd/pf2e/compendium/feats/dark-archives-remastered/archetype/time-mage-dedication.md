@@ -9,6 +9,7 @@ tags:
 aliases: ["Time Mage Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8480"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Time Mage Dedication  *Feat 6*

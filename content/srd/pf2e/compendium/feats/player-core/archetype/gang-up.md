@@ -7,6 +7,7 @@ tags:
 aliases: ["Gang Up"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4943"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Gang Up  *Feat 6*

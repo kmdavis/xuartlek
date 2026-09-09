@@ -10,6 +10,7 @@ tags:
 aliases: ["Hasted Assault"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2880"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Hasted Assault  *Focus 7*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

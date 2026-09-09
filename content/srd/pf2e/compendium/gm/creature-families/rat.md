@@ -5,6 +5,7 @@ tags:
 aliases: ["Rat"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=462"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Rat  *Creature Family*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Moonweave"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4992"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Moonweave  *Item 5+*

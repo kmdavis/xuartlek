@@ -7,6 +7,7 @@ tags:
 aliases: ["Selective Energy"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4665"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Selective Energy  *Feat 6*

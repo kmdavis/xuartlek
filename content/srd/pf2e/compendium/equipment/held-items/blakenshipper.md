@@ -7,6 +7,7 @@ tags:
 aliases: ["Blakenshipper"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3927"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Blakenshipper  *Item 7*

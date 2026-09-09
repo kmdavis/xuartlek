@@ -9,6 +9,7 @@ tags:
 aliases: ["Dimensional Knot"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5048"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Dimensional Knot  *Item 7*

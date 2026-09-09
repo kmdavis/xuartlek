@@ -6,6 +6,7 @@ tags:
 aliases: ["Adventurer's Pack"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2700"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Adventurer's Pack  *Item 0*

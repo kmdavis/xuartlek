@@ -9,6 +9,7 @@ tags:
 aliases: ["Ration Tonic"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3405"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Ration Tonic  *Item 1+*

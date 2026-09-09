@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/impossible-magic
 aliases: ["Grim Fascinations"]
 entries: 4
+socialImage: og-image.png
 ---
 
 # Grim Fascinations

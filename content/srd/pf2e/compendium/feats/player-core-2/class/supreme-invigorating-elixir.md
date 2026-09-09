@@ -7,6 +7,7 @@ tags:
 aliases: ["Supreme Invigorating Elixir"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5792"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Supreme Invigorating Elixir  *Feat 12*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Brutal Bully"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5825"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Brutal Bully  *Feat 6*

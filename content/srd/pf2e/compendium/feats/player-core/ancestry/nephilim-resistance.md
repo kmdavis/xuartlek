@@ -7,6 +7,7 @@ tags:
 aliases: ["Nephilim Resistance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4555"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Nephilim Resistance  *Feat 5*

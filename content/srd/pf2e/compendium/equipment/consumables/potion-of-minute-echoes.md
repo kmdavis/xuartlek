@@ -9,6 +9,7 @@ tags:
 aliases: ["Potion Of Minute Echoes"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5099"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Potion Of Minute Echoes  *Item 9*

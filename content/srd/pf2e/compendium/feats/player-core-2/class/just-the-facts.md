@@ -7,6 +7,7 @@ tags:
 aliases: ["Just the Facts"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5975"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Just the Facts  *Feat 20*

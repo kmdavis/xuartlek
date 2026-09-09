@@ -12,6 +12,7 @@ name: "Jaathoom"
 level: 5
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3003"
+socialImage: og-image.png
 ---
 
 ```statblock

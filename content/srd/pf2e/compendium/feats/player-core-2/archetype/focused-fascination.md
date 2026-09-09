@@ -7,6 +7,7 @@ tags:
 aliases: ["Focused Fascination"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6131"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Focused Fascination  *Feat 1*

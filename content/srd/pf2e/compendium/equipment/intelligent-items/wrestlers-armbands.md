@@ -10,6 +10,7 @@ tags:
 aliases: ["Wrestler's Armbands"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2404"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wrestler's Armbands  *Item 9*

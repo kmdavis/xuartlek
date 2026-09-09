@@ -5,6 +5,7 @@ tags:
 aliases: ["Seal"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=501"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Seal  *Creature Family*

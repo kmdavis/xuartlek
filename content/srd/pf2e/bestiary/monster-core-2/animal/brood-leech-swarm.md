@@ -12,6 +12,7 @@ name: "Brood Leech Swarm"
 level: 4
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4462"
+socialImage: og-image.png
 ---
 
 ```statblock

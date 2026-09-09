@@ -7,6 +7,7 @@ tags:
 aliases: ["Vivacious Conduit"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4435"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Vivacious Conduit  *Feat 9*

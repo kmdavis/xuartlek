@@ -7,6 +7,7 @@ tags:
 aliases: ["Pandemonium Eruption"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7218"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Pandemonium Eruption  *Feat 17*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

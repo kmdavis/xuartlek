@@ -5,6 +5,7 @@ tags:
 aliases: ["Halfling"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=46"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Halfling  *Creature Adjustment*

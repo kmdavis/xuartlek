@@ -9,6 +9,7 @@ tags:
 aliases: ["Widow's Bite"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2868"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Widow's Bite  *Spell 3*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

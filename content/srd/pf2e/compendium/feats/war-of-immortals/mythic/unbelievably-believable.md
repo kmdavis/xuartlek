@@ -8,12 +8,13 @@ tags:
 aliases: ["Unbelievably Believable"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7282"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Unbelievably Believable  *Feat 4*
 
 `Mythic`  `Uncommon`
 
-Your words echo with soothing and convincing power. When you attempt a check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Gather Information|Gather Information]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]], make a [[srd/pf2e/compendium/rules-elements/actions/player-core#Request|Request]], or [[srd/pf2e/compendium/rules-elements/actions/player-core#Lie|Lie]], you can spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/index|Mythic Point]] to attempt the check at mythic proficiency.
+Your words echo with soothing and convincing power. When you attempt a check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Gather Information|Gather Information]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]], make a [[srd/pf2e/compendium/rules-elements/actions/player-core#Request|Request]], or [[srd/pf2e/compendium/rules-elements/actions/player-core#Lie|Lie]], you can spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]] to attempt the check at mythic proficiency.
 
 *Source: War of Immortals p. 82*

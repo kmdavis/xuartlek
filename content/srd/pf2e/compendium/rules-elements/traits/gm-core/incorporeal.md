@@ -6,6 +6,7 @@ tags:
 aliases: ["Incorporeal"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=632"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Incorporeal  *Trait*

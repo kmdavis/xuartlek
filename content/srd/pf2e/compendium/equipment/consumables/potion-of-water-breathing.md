@@ -9,6 +9,7 @@ tags:
 aliases: ["Potion of Water Breathing"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2956"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Potion of Water Breathing  *Item 3*

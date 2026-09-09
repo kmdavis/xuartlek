@@ -8,6 +8,7 @@ tags:
 aliases: ["Propulsive Boots"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3101"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Propulsive Boots  *Item 13*

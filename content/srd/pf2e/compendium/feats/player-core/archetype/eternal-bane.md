@@ -7,6 +7,7 @@ tags:
 aliases: ["Eternal Bane"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4693"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Eternal Bane  *Feat 16*

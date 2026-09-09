@@ -9,6 +9,7 @@ tags:
 aliases: ["Shielding Salve"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3400"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Shielding Salve  *Item 1*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Rooting"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2644"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Rooting  *Item 7+*

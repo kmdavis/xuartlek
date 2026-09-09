@@ -7,6 +7,7 @@ tags:
 aliases: ["Shield Spikes"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=397"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Shield Spikes  *Weapon 0*

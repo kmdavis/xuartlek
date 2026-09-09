@@ -8,6 +8,7 @@ tags:
 aliases: ["Pack Takedown"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5435"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Pack Takedown  *Feat 20*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

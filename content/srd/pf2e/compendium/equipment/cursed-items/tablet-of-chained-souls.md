@@ -9,6 +9,7 @@ tags:
 aliases: ["Tablet of Chained Souls"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4146"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Tablet of Chained Souls  *Item 8*

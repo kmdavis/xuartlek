@@ -7,6 +7,7 @@ tags:
 aliases: ["Guangu of the Steppe"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3937"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Guangu of the Steppe  *Item 6*

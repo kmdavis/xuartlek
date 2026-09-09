@@ -8,6 +8,7 @@ tags:
 aliases: ["Mentalist's Staff"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3037"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Mentalist's Staff  *Item 4+*

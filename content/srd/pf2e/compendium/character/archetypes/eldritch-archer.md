@@ -6,6 +6,7 @@ tags:
 aliases: ["Eldritch Archer"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=249"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Eldritch Archer  *Archetype 6*

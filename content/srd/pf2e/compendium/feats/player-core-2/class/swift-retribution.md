@@ -7,6 +7,7 @@ tags:
 aliases: ["Swift Retribution"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5928"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Swift Retribution  *Feat 18*

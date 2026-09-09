@@ -9,6 +9,7 @@ tags:
 aliases: ["Jelly Body"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8408"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Jelly Body  *Feat 6*

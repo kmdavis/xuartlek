@@ -8,6 +8,7 @@ tags:
 aliases: ["Rewinding Step"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2805"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Rewinding Step  *Spell 5*

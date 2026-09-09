@@ -6,6 +6,7 @@ tags:
 aliases: ["Wand"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=731"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Wand  *Trait*

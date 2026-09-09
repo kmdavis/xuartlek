@@ -8,6 +8,7 @@ tags:
 aliases: ["Clarity Goggles"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2314"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Clarity Goggles  *Item 8+*

@@ -9,6 +9,7 @@ tags:
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3387"
 citation: "NPC Core pg. 220"
+socialImage: og-image.png
 ---
 
 # Eldritch Occultist

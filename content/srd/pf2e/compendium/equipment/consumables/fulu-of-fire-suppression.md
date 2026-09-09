@@ -9,6 +9,7 @@ tags:
 aliases: ["Fulu Of Fire Suppression"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5075"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Fulu Of Fire Suppression  *Item 3*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Uncouple Memory"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=270"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Uncouple Memory  *Ritual 6*

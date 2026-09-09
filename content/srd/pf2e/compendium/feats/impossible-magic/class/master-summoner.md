@@ -7,6 +7,7 @@ tags:
 aliases: ["Master Summoner"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9247"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Master Summoner  *Feat 6*

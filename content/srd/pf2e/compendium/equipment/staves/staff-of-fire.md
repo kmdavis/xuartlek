@@ -8,6 +8,7 @@ tags:
 aliases: ["Staff of Fire"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3041"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Staff of Fire  *Item 3+*

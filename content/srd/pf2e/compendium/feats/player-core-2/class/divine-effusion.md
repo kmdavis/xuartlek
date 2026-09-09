@@ -7,6 +7,7 @@ tags:
 aliases: ["Divine Effusion"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6085"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Divine Effusion  *Feat 18*

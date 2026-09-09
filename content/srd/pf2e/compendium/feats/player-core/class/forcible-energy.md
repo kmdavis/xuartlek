@@ -10,6 +10,7 @@ tags:
 aliases: ["Forcible Energy"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5042"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Forcible Energy  *Feat 12*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

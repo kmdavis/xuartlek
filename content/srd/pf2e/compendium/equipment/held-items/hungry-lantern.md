@@ -8,6 +8,7 @@ tags:
 aliases: ["Hungry Lantern"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3940"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Hungry Lantern  *Item 12*

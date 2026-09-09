@@ -7,6 +7,7 @@ tags:
 aliases: ["Ferocious Shape"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4734"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Ferocious Shape  *Feat 8*

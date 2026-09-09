@@ -7,6 +7,7 @@ tags:
 aliases: ["Manifold Edge"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4908"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Manifold Edge  *Feat 18*

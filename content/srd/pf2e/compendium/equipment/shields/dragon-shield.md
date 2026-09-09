@@ -8,6 +8,7 @@ tags:
 aliases: ["Dragon Shield"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3827"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Dragon Shield  *Item 13*

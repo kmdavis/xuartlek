@@ -10,6 +10,7 @@ tags:
 aliases: ["Devouring Dark Form"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2140"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Devouring Dark Form  *Focus 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

@@ -10,6 +10,7 @@ tags:
 aliases: ["Vindicator's Mark"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2148"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Vindicator's Mark  *Focus 1*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

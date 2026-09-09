@@ -6,6 +6,7 @@ tags:
 aliases: ["Thaumaturge"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=343"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Thaumaturge  *Archetype 2*

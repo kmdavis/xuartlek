@@ -9,6 +9,7 @@ tags:
 aliases: ["Eat Fire"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1352"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Eat Fire  *Cantrip 1*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

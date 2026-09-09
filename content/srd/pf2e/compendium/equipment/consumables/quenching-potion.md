@@ -9,6 +9,7 @@ tags:
 aliases: ["Quenching Potion"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2089"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Quenching Potion  *Item 8*

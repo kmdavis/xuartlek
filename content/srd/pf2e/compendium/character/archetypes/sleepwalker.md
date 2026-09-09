@@ -7,6 +7,7 @@ tags:
 aliases: ["Sleepwalker"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=352"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sleepwalker  *Archetype 4*

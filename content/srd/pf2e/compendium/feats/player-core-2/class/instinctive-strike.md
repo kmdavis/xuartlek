@@ -7,6 +7,7 @@ tags:
 aliases: ["Instinctive Strike"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5840"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Instinctive Strike  *Feat 8*

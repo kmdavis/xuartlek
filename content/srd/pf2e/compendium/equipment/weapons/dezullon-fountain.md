@@ -9,6 +9,7 @@ tags:
 aliases: ["Dezullon Fountain"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1883"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Dezullon Fountain  *Item 11*

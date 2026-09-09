@@ -7,6 +7,7 @@ tags:
 aliases: ["Fuse Stance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6039"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Fuse Stance  *Feat 16*

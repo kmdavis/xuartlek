@@ -6,6 +6,7 @@ tags:
 aliases: ["Forceful"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=611"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Forceful  *Trait*

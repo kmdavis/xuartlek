@@ -7,6 +7,7 @@ tags:
 aliases: ["Nimble Strike"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4962"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Nimble Strike  *Feat 10*

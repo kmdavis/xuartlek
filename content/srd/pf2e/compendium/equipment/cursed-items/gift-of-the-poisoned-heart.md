@@ -11,6 +11,7 @@ tags:
 aliases: ["Gift of the Poisoned Heart"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4141"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Gift of the Poisoned Heart  *Item 16*

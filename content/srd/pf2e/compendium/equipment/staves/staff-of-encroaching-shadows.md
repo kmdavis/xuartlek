@@ -9,6 +9,7 @@ tags:
 aliases: ["Staff Of Encroaching Shadows"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5168"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Staff Of Encroaching Shadows  *Item 6+*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Singing Sword"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3127"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Singing Sword  *Item 5*

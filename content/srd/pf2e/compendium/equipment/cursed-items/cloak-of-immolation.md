@@ -10,6 +10,7 @@ tags:
 aliases: ["Cloak of Immolation"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3129"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Cloak of Immolation  *Item 7*

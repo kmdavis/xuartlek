@@ -7,6 +7,7 @@ tags:
 aliases: ["Quick Vengeance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7882"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Quick Vengeance  *Feat 18*

@@ -11,6 +11,7 @@ tags:
 aliases: ["Whisper of Warning"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7143"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Whisper of Warning  *Feat 12*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

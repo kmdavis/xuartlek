@@ -10,6 +10,7 @@ tags:
 aliases: ["Earthbreaker"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=281"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Earthbreaker  *Weapon 0*

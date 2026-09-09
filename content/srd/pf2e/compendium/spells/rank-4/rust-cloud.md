@@ -9,6 +9,7 @@ tags:
 aliases: ["Rust Cloud"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1377"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Rust Cloud  *Spell 4*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

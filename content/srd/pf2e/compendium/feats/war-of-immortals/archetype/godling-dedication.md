@@ -9,6 +9,7 @@ tags:
 aliases: ["Godling Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7392"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Godling Dedication  *Feat 12*

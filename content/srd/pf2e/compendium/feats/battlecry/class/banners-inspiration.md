@@ -12,6 +12,7 @@ tags:
 aliases: ["Banner's Inspiration"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7804"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Banner's Inspiration  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

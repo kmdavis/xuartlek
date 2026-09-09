@@ -10,6 +10,7 @@ tags:
 aliases: ["Pepperbox"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=205"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Pepperbox  *Weapon 0*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Coagulant"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=796"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Coagulant  *Trait*

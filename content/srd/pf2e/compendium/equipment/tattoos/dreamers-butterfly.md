@@ -9,6 +9,7 @@ tags:
 aliases: ["Dreamer's Butterfly"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5176"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Dreamer's Butterfly  *Item 5*

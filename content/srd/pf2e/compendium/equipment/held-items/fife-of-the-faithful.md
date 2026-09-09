@@ -7,6 +7,7 @@ tags:
 aliases: ["Fife of the Faithful"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3936"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Fife of the Faithful  *Item 4*

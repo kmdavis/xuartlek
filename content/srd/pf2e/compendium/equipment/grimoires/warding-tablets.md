@@ -8,6 +8,7 @@ tags:
 aliases: ["Warding Tablets"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5137"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Warding Tablets  *Item 8*

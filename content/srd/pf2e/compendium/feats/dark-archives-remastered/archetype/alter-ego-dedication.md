@@ -9,6 +9,7 @@ tags:
 aliases: ["Alter Ego Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8448"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Alter Ego Dedication  *Feat 2*

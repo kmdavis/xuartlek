@@ -7,6 +7,7 @@ tags:
 aliases: ["Tactical Guidance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7999"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Tactical Guidance  *Feat 6*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Bane Ammunition"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1895"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Bane Ammunition  *Item 1+*

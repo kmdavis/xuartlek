@@ -9,6 +9,7 @@ tags:
 aliases: ["Rivethun Emissary Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7571"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Rivethun Emissary Dedication  *Feat 2*

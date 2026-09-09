@@ -5,6 +5,7 @@ tags:
 aliases: ["Dominion of the Black"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=394"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Dominion of the Black  *Creature Family*

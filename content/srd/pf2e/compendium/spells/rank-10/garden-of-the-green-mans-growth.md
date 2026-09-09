@@ -11,6 +11,7 @@ tags:
 aliases: ["Garden Of The Green Man's Growth"]
 aon_url: "https://2e.aonprd.com/MythicSpells.aspx?ID=2156"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Garden Of The Green Man's Growth  *Spell 10*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

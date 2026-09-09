@@ -8,6 +8,7 @@ tags:
 aliases: ["Instructions For Lasting Agony"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5129"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Instructions For Lasting Agony  *Item 5*

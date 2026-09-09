@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Synergy"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9309"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Basic Synergy  *Feat 4*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Ash Cloud"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2633"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Ash Cloud  *Spell 2*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

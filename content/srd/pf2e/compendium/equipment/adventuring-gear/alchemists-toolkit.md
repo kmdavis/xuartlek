@@ -6,6 +6,7 @@ tags:
 aliases: ["Alchemist's Toolkit"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2702"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Alchemist's Toolkit  *Item 0*

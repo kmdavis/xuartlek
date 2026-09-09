@@ -7,6 +7,7 @@ tags:
 aliases: ["Initial Eidolon Ability"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9310"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Initial Eidolon Ability  *Feat 4*

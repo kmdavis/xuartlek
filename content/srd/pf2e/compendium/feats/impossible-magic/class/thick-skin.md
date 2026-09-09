@@ -7,6 +7,7 @@ tags:
 aliases: ["Thick Skin"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9143"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Thick Skin  *Feat 12*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Clan Pistol"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=197"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Clan Pistol  *Weapon 0*

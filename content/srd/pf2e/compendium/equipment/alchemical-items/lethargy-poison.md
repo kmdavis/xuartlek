@@ -13,6 +13,7 @@ tags:
 aliases: ["Lethargy Poison"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3340"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Lethargy Poison  *Item 2*

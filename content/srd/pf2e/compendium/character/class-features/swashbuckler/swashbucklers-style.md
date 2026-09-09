@@ -6,6 +6,7 @@ tags:
 aliases: ["Swashbuckler’s Style"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=63"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Swashbuckler’s Style  *Class Feature 1*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Chair of Inventions"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2167"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Chair of Inventions  *Item 8*

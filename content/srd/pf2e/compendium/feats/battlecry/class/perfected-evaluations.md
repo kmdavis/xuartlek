@@ -7,6 +7,7 @@ tags:
 aliases: ["Perfected Evaluations"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7820"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Perfected Evaluations  *Feat 12*

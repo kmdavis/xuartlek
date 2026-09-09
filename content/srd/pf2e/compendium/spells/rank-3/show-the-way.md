@@ -9,6 +9,7 @@ tags:
 aliases: ["Show The Way"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2367"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Show The Way  *Spell 3*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Masterful Warden"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4878"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Masterful Warden  *Feat 6*

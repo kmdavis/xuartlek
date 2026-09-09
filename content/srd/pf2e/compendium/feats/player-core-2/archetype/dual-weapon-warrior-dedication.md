@@ -8,6 +8,7 @@ tags:
 aliases: ["Dual-Weapon Warrior Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6307"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Dual-Weapon Warrior Dedication  *Feat 2*

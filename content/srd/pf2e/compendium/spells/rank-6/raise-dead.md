@@ -10,6 +10,7 @@ tags:
 aliases: ["Raise Dead"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1645"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Raise Dead  *Spell 6*

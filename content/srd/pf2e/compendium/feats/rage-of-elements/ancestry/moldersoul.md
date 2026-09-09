@@ -8,6 +8,7 @@ tags:
 aliases: ["Moldersoul"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4313"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Moldersoul  *Feat 1*

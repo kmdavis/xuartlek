@@ -7,6 +7,7 @@ tags:
 aliases: ["Expert Necromancer Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9299"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Expert Necromancer Spellcasting  *Feat 12*

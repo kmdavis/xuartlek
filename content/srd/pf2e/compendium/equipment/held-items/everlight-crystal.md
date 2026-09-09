@@ -8,6 +8,7 @@ tags:
 aliases: ["Everlight Crystal"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3021"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Everlight Crystal  *Item 1*

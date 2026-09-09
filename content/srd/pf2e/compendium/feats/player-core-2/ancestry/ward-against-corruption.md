@@ -7,6 +7,7 @@ tags:
 aliases: ["Ward Against Corruption"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5755"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Ward Against Corruption  *Feat 5*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Finite"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=603"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Finite  *Trait*

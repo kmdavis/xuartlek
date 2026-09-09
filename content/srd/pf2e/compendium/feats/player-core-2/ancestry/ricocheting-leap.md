@@ -7,6 +7,7 @@ tags:
 aliases: ["Ricocheting Leap"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5708"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Ricocheting Leap  *Feat 9*

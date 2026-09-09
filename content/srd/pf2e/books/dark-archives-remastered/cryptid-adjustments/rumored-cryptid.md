@@ -9,6 +9,7 @@ tags:
 source: "Dark Archives (Remastered)"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3497"
 citation: "Dark Archives (Remastered) pg. 61"
+socialImage: og-image.png
 ---
 
 # Rumored Cryptid

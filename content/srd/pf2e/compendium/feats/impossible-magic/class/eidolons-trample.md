@@ -9,6 +9,7 @@ tags:
 aliases: ["Eidolon's Trample"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9276"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Eidolon's Trample  *Feat 16*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

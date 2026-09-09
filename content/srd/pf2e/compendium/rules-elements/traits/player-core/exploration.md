@@ -6,6 +6,7 @@ tags:
 aliases: ["Exploration"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=595"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Exploration  *Trait*

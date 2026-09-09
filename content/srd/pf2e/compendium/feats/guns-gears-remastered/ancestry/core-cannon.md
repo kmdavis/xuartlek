@@ -11,6 +11,7 @@ tags:
 aliases: ["Core Cannon"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3110"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Core Cannon  *Feat 17*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

@@ -9,6 +9,7 @@ tags:
 aliases: ["Toolkit of Bronze Whispers"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2402"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Toolkit of Bronze Whispers  *Item 5*

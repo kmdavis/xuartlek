@@ -8,6 +8,7 @@ tags:
 aliases: ["Lesson of Unified Elusion"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7953"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Lesson of Unified Elusion  *Feat 12*

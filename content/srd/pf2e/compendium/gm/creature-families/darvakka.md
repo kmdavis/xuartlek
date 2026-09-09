@@ -5,6 +5,7 @@ tags:
 aliases: ["Darvakka"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=578"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Darvakka  *Creature Family*

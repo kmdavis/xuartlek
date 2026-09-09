@@ -7,6 +7,7 @@ tags:
 aliases: ["Feather Step"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5149"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Feather Step  *Feat 1*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Warding Escutcheon"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1863"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Warding Escutcheon  *Item 9+*

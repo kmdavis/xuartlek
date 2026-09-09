@@ -8,6 +8,7 @@ tags:
 aliases: ["The Hallowed Dead"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9093"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # The Hallowed Dead  *Feat 1*

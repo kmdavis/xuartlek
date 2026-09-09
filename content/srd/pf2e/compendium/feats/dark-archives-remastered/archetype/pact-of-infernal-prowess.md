@@ -9,6 +9,7 @@ tags:
 aliases: ["Pact of Infernal Prowess"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8467"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Pact of Infernal Prowess  *Feat 8*

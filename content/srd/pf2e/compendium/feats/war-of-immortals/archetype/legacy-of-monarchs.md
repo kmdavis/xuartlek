@@ -7,6 +7,7 @@ tags:
 aliases: ["Legacy of Monarchs"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7416"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Legacy of Monarchs  *Feat 20*

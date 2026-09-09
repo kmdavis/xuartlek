@@ -8,6 +8,7 @@ tags:
 aliases: ["Battering Ram"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=3"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Battering Ram  *Siege Weapon 5*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Magical Crafting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5178"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Magical Crafting  *Feat 2*

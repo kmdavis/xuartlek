@@ -8,6 +8,7 @@ tags:
 aliases: ["Volley Gun"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=66"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Volley Gun  *Siege Weapon 17*

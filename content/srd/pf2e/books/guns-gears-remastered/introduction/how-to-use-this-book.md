@@ -9,6 +9,7 @@ tags:
 source: "Guns & Gears (Remastered)"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=1636"
 citation: "Guns & Gears (Remastered) pg. 5"
+socialImage: og-image.png
 ---
 
 # How to Use this Book

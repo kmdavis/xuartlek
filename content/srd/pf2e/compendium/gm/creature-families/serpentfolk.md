@@ -5,6 +5,7 @@ tags:
 aliases: ["Serpentfolk"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=468"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Serpentfolk  *Creature Family*

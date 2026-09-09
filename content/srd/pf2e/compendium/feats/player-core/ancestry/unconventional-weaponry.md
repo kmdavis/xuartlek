@@ -7,6 +7,7 @@ tags:
 aliases: ["Unconventional Weaponry"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4480"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Unconventional Weaponry  *Feat 1*

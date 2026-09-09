@@ -7,6 +7,7 @@ tags:
 aliases: ["Cackle"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4992"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Cackle  *Feat 1*

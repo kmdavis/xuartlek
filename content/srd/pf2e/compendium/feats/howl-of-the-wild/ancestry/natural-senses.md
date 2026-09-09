@@ -7,6 +7,7 @@ tags:
 aliases: ["Natural Senses"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5302"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Natural Senses  *Feat 1*

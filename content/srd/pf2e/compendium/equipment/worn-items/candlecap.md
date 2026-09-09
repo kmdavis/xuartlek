@@ -9,6 +9,7 @@ tags:
 aliases: ["Candlecap"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2332"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Candlecap  *Item 1*

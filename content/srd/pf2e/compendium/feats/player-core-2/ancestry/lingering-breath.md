@@ -7,6 +7,7 @@ tags:
 aliases: ["Lingering Breath"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5746"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Lingering Breath  *Feat 17*

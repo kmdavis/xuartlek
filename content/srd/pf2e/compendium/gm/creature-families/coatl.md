@@ -5,6 +5,7 @@ tags:
 aliases: ["Coatl"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=382"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Coatl  *Creature Family*

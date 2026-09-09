@@ -8,6 +8,7 @@ tags:
 aliases: ["Society Portrait"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4128"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Society Portrait  *Item 6*

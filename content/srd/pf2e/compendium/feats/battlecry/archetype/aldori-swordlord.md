@@ -7,6 +7,7 @@ tags:
 aliases: ["Aldori Swordlord"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7911"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Aldori Swordlord  *Feat 20*

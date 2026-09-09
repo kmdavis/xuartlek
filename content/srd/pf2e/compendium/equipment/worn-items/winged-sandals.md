@@ -9,6 +9,7 @@ tags:
 aliases: ["Winged Sandals"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3119"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Winged Sandals  *Item 10*

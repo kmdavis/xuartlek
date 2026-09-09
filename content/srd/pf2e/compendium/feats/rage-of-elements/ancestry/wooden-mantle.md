@@ -7,6 +7,7 @@ tags:
 aliases: ["Wooden Mantle"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4322"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Wooden Mantle  *Feat 13*

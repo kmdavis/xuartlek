@@ -9,6 +9,7 @@ tags:
 aliases: ["Blazing Armory"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1348"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Blazing Armory  *Spell 2*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

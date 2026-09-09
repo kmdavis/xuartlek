@@ -7,6 +7,7 @@ tags:
 aliases: ["Adopted Ancestry"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5115"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Adopted Ancestry  *Feat 1*

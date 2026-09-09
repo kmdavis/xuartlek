@@ -8,6 +8,7 @@ tags:
 aliases: ["Resilient Shell"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9273"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Resilient Shell  *Feat 14*

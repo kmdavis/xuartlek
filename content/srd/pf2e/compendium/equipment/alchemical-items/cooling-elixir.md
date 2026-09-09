@@ -9,6 +9,7 @@ tags:
 aliases: ["Cooling Elixir"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3304"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Cooling Elixir  *Item 4+*

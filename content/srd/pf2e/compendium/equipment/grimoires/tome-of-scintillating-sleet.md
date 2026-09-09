@@ -9,6 +9,7 @@ tags:
 aliases: ["Tome of Scintillating Sleet"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2184"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Tome of Scintillating Sleet  *Item 8*

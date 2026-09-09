@@ -9,6 +9,7 @@ tags:
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3436"
 citation: "Battlecry! pg. 201"
+socialImage: og-image.png
 ---
 
 # What Do the Heroes Do?

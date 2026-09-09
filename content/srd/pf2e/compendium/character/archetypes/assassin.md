@@ -6,6 +6,7 @@ tags:
 aliases: ["Assassin"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=239"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Assassin  *Archetype 2*

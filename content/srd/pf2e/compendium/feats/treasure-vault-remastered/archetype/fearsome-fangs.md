@@ -7,6 +7,7 @@ tags:
 aliases: ["Fearsome Fangs"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4093"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Fearsome Fangs  *Feat 16*

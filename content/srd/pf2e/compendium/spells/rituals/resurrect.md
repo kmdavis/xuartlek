@@ -8,6 +8,7 @@ tags:
 aliases: ["Resurrect"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=123"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Resurrect  *Ritual 5*

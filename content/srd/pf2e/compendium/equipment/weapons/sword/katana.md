@@ -10,6 +10,7 @@ tags:
 aliases: ["Katana"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=411"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Katana  *Weapon 0*

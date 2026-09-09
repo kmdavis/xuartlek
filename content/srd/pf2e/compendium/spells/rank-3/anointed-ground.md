@@ -9,6 +9,7 @@ tags:
 aliases: ["Anointed Ground"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1965"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Anointed Ground  *Spell 3*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Terrain Expertise"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5223"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Terrain Expertise  *Feat 1*

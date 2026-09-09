@@ -7,6 +7,7 @@ tags:
 - compendium/src/pf2e/player-core
 aliases: ["Patrons"]
 entries: 16
+socialImage: og-image.png
 ---
 
 # Patrons

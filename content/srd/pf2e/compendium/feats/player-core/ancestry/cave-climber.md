@@ -7,6 +7,7 @@ tags:
 aliases: ["Cave Climber"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4450"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Cave Climber  *Feat 9*

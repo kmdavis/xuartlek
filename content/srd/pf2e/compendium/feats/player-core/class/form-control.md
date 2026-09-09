@@ -10,6 +10,7 @@ tags:
 aliases: ["Form Control"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4723"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Form Control  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

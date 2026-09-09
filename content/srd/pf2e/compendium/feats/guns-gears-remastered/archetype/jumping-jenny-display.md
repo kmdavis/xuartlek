@@ -7,6 +7,7 @@ tags:
 aliases: ["Jumping Jenny Display"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8531"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Jumping Jenny Display  *Feat 8*

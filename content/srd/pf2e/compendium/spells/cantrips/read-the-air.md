@@ -10,6 +10,7 @@ tags:
 aliases: ["Read the Air"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2798"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Read the Air  *Cantrip 1*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

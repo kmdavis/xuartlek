@@ -8,6 +8,7 @@ tags:
 aliases: ["Carver-Cutter"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2640"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Carver-Cutter  *Item 11+*

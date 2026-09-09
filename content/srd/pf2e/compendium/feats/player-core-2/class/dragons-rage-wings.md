@@ -9,6 +9,7 @@ tags:
 aliases: ["Dragon's Rage Wings"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5854"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Dragon's Rage Wings  *Feat 12*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

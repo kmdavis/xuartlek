@@ -9,6 +9,7 @@ tags:
 aliases: ["Mantle of the Tikbalang"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3226"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Mantle of the Tikbalang  *Item 8*

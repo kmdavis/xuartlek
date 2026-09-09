@@ -14,6 +14,7 @@ name: "Immortal Trickster"
 level: 11
 source: "War of Immortals"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3405"
+socialImage: og-image.png
 ---
 
 ```statblock

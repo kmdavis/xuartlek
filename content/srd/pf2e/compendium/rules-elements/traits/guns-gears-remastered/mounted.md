@@ -6,6 +6,7 @@ tags:
 aliases: ["Mounted"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=411"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mounted  *Trait*

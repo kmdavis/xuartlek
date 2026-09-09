@@ -7,6 +7,7 @@ tags:
 aliases: ["Contact Friends"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=226"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Contact Friends  *Ritual 3*

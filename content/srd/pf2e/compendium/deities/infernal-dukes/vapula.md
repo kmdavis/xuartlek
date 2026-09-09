@@ -5,6 +5,7 @@ tags:
 aliases: ["Vapula"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=532"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Vapula  *Deity*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Witchwarg Fur"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3266"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Witchwarg Fur  *Item 7*

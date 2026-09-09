@@ -8,6 +8,7 @@ tags:
 aliases: ["Legendary Professional"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5172"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Legendary Professional  *Feat 15*

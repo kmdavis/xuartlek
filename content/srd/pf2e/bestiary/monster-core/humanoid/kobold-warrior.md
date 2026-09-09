@@ -11,6 +11,7 @@ name: "Kobold Warrior"
 level: -1
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3072"
+socialImage: og-image.png
 ---
 
 ```statblock

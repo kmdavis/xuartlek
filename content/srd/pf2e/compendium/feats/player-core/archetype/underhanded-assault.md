@@ -7,6 +7,7 @@ tags:
 aliases: ["Underhanded Assault"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4929"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Underhanded Assault  *Feat 2*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

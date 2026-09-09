@@ -7,6 +7,7 @@ tags:
 aliases: ["Wing Shove"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5534"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Wing Shove  *Feat 8*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

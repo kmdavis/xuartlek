@@ -7,6 +7,7 @@ tags:
 aliases: ["Expert Psychic Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8396"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Expert Psychic Spellcasting  *Feat 12*

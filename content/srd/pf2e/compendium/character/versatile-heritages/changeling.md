@@ -7,6 +7,7 @@ tags:
 aliases: ["Changeling"]
 aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=67"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Changeling  *Versatile Heritage*

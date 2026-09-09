@@ -9,6 +9,7 @@ tags:
 aliases: ["Summoner's Precaution"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2832"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Summoner's Precaution  *Spell 2*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Tangled Forest Rake"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6036"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Tangled Forest Rake  *Feat 14*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

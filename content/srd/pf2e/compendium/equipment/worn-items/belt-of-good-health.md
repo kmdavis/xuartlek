@@ -8,6 +8,7 @@ tags:
 aliases: ["Belt of Good Health"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4350"
 source: "Secrets of the Unlit Star Game Master's Guide"
+socialImage: og-image.png
 ---
 
 # Belt of Good Health  *Item 4*

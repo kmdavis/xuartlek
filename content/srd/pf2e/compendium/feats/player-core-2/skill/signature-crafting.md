@@ -9,6 +9,7 @@ tags:
 aliases: ["Signature Crafting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6504"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Signature Crafting  *Feat 7*

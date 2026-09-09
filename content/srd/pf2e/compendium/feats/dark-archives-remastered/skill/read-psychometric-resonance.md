@@ -14,6 +14,7 @@ tags:
 aliases: ["Read Psychometric Resonance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8431"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Read Psychometric Resonance  *Feat 1*

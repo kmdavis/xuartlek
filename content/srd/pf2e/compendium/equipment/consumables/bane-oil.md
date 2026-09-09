@@ -10,6 +10,7 @@ tags:
 aliases: ["Bane Oil"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2068"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Bane Oil  *Item 3*

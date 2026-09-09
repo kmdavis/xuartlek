@@ -6,6 +6,7 @@ tags:
 aliases: ["Haunt"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=622"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Haunt  *Trait*

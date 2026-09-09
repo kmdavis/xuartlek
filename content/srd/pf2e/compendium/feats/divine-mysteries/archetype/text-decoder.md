@@ -8,6 +8,7 @@ tags:
 aliases: ["Text Decoder"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7559"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Text Decoder  *Feat 4*

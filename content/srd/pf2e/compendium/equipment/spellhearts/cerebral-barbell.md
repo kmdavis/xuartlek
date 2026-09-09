@@ -9,6 +9,7 @@ tags:
 aliases: ["Cerebral Barbell"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5148"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Cerebral Barbell  *Item 3+*

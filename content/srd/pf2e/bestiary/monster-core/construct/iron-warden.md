@@ -12,6 +12,7 @@ name: "Iron Warden"
 level: 13
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3068"
+socialImage: og-image.png
 ---
 
 ```statblock

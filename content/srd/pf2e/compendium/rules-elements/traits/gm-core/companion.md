@@ -6,6 +6,7 @@ tags:
 aliases: ["Companion"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=558"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Companion  *Trait*

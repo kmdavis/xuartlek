@@ -7,6 +7,7 @@ tags:
 aliases: ["Generational Rune-Singer"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9218"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Generational Rune-Singer  *Feat 20*

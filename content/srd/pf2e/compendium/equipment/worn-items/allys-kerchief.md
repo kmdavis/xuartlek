@@ -8,6 +8,7 @@ tags:
 aliases: ["Ally's Kerchief"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3955"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Ally's Kerchief  *Item 2*

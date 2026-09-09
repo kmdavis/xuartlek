@@ -8,6 +8,7 @@ tags:
 aliases: ["Catapult"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=5"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Catapult  *Siege Weapon 7*

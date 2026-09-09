@@ -9,6 +9,7 @@ tags:
 aliases: ["Cinder Scribe"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2655"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Cinder Scribe  *Spell 1*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

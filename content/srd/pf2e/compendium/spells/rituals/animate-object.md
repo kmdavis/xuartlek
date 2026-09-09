@@ -7,6 +7,7 @@ tags:
 aliases: ["Animate Object"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=107"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Animate Object  *Ritual 2*

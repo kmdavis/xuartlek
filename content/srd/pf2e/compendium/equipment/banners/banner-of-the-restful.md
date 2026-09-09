@@ -9,6 +9,7 @@ tags:
 aliases: ["Banner of the Restful"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3905"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Banner of the Restful  *Item 4+*

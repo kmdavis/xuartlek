@@ -6,6 +6,7 @@ tags:
 aliases: ["Formula Book (Blank)"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2724"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Formula Book (Blank)  *Item 0*

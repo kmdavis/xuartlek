@@ -9,6 +9,7 @@ tags:
 aliases: ["Glue Bomb"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3295"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Glue Bomb  *Item 1+*

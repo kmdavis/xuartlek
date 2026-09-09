@@ -9,6 +9,7 @@ tags:
 aliases: ["Mitigation Mail"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3819"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Mitigation Mail  *Item 9+*

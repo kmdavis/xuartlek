@@ -6,6 +6,7 @@ tags:
 aliases: ["Ladder (10 ft.)"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2729"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Ladder (10 ft.)  *Item 0*

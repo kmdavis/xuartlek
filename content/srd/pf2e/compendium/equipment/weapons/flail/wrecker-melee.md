@@ -11,6 +11,7 @@ tags:
 aliases: ["Wrecker (Melee)"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=348"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wrecker (Melee)  *Weapon 0*

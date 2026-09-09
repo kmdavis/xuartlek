@@ -8,6 +8,7 @@ tags:
 aliases: ["Choker of Elocution"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3066"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Choker of Elocution  *Item 6+*

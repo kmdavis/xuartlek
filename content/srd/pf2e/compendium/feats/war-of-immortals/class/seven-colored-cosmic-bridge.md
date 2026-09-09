@@ -8,6 +8,7 @@ tags:
 aliases: ["Seven-Colored Cosmic Bridge"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7190"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Seven-Colored Cosmic Bridge  *Feat 18*

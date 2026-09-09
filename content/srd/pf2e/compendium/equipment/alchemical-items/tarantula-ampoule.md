@@ -10,6 +10,7 @@ tags:
 aliases: ["Tarantula Ampoule"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3233"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Tarantula Ampoule  *Item 6*

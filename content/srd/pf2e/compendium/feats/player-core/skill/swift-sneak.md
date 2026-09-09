@@ -8,6 +8,7 @@ tags:
 aliases: ["Swift Sneak"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5222"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Swift Sneak  *Feat 7*

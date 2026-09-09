@@ -6,6 +6,7 @@ tags:
 aliases: ["Genie"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=752"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Genie  *Trait*

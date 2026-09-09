@@ -8,6 +8,7 @@ tags:
 aliases: ["Multilingual Cipher"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6345"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Multilingual Cipher  *Feat 4*

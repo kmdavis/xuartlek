@@ -6,6 +6,7 @@ tags:
 aliases: ["Medium Armor Mastery"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=20"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Medium Armor Mastery  *Class Feature 19*

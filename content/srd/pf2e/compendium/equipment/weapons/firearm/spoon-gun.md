@@ -11,6 +11,7 @@ tags:
 aliases: ["Spoon Gun"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=225"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Spoon Gun  *Weapon 1*

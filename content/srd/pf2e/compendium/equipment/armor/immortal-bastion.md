@@ -8,6 +8,7 @@ tags:
 aliases: ["Immortal Bastion"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1847"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Immortal Bastion  *Item 20*

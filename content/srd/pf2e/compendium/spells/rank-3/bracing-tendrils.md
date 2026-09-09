@@ -9,6 +9,7 @@ tags:
 aliases: ["Bracing Tendrils"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2567"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Bracing Tendrils  *Spell 3*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

@@ -8,6 +8,7 @@ tags:
 aliases: ["Calligraphic Illumination"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5124"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Calligraphic Illumination  *Item 5*

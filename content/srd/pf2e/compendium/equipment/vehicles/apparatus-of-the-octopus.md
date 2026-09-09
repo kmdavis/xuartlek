@@ -7,6 +7,7 @@ tags:
 aliases: ["Apparatus of the Octopus"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=32"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Apparatus of the Octopus  *Vehicle 11*

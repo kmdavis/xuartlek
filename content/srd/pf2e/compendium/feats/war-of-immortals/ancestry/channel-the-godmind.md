@@ -7,6 +7,7 @@ tags:
 aliases: ["Channel the Godmind"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7217"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Channel the Godmind  *Feat 17*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

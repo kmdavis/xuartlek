@@ -7,6 +7,7 @@ tags:
 aliases: ["Miraculous Possibility"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4702"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Miraculous Possibility  *Feat 18*

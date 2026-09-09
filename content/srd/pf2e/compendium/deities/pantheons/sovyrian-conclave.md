@@ -5,6 +5,7 @@ tags:
 aliases: ["Sovyrian Conclave"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=381"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Sovyrian Conclave  *Deity*

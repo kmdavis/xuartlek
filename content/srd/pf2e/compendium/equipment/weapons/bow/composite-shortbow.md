@@ -8,6 +8,7 @@ tags:
 aliases: ["Composite Shortbow"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=435"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Composite Shortbow  *Weapon 1*

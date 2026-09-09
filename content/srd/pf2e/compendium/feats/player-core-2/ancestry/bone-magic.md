@@ -7,6 +7,7 @@ tags:
 aliases: ["Bone Magic"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5632"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Bone Magic  *Feat 1*

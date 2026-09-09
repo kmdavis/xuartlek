@@ -8,6 +8,7 @@ tags:
 aliases: ["Shapespeak Mask"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2353"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Shapespeak Mask  *Item 4*

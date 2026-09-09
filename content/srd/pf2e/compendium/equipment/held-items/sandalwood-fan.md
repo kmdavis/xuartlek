@@ -9,6 +9,7 @@ tags:
 aliases: ["Sandalwood Fan"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2645"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Sandalwood Fan  *Item 12*

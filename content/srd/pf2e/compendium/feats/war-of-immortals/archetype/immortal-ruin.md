@@ -7,6 +7,7 @@ tags:
 aliases: ["Immortal Ruin"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7319"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Immortal Ruin  *Feat 20*

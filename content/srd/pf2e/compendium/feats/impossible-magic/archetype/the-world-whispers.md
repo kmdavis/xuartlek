@@ -8,6 +8,7 @@ tags:
 aliases: ["The World Whispers"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9378"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # The World Whispers  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

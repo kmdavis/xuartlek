@@ -11,6 +11,7 @@ name: "Dwarf Smith"
 level: 0
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3626"
+socialImage: og-image.png
 ---
 
 ```statblock

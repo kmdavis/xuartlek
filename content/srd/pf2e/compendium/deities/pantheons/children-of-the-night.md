@@ -5,6 +5,7 @@ tags:
 aliases: ["Children of the Night"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=376"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Children of the Night  *Deity*

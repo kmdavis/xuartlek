@@ -7,6 +7,7 @@ tags:
 aliases: ["Fell Rider"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5582"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Fell Rider  *Feat 9*

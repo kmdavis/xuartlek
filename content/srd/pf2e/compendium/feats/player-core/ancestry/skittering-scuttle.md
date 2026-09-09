@@ -7,6 +7,7 @@ tags:
 aliases: ["Skittering Scuttle"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4452"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Skittering Scuttle  *Feat 9*

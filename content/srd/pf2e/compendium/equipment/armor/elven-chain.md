@@ -7,6 +7,7 @@ tags:
 aliases: ["Elven Chain"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2801"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Elven Chain  *Item 13+*

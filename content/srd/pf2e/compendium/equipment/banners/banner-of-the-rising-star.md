@@ -9,6 +9,7 @@ tags:
 aliases: ["Banner of the Rising Star"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3906"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Banner of the Rising Star  *Item 20*

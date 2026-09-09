@@ -6,6 +6,7 @@ tags:
 aliases: ["Multiclass"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=659"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Multiclass  *Trait*

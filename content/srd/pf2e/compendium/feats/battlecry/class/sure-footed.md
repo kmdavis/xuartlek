@@ -7,6 +7,7 @@ tags:
 aliases: ["Sure-Footed"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7865"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Sure-Footed  *Feat 10*

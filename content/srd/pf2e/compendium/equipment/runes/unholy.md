@@ -8,6 +8,7 @@ tags:
 aliases: ["Unholy"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2851"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Unholy  *Item 11*

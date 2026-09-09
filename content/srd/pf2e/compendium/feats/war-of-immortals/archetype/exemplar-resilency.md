@@ -7,6 +7,7 @@ tags:
 aliases: ["Exemplar Resilency"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7228"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Exemplar Resilency  *Feat 4*

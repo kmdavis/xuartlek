@@ -7,6 +7,7 @@ tags:
 aliases: ["Boost Summons"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9251"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Boost Summons  *Feat 8*

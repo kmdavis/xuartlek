@@ -9,6 +9,7 @@ tags:
 aliases: ["Persona Mask"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3099"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Persona Mask  *Item 3+*

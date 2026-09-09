@@ -6,6 +6,7 @@ tags:
 aliases: ["Consecration"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=562"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Consecration  *Trait*

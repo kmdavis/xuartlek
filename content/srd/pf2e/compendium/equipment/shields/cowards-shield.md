@@ -7,6 +7,7 @@ tags:
 aliases: ["Coward's Shield"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5000"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Coward's Shield  *Item 6*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Pyre Ant Sting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5465"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Pyre Ant Sting  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

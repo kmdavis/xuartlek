@@ -7,6 +7,7 @@ tags:
 aliases: ["Adaptive Adept"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4481"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Adaptive Adept  *Feat 5*

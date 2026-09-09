@@ -7,6 +7,7 @@ tags:
 aliases: ["Call of the Wild"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4716"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Call of the Wild  *Feat 2*

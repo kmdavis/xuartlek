@@ -6,6 +6,7 @@ tags:
 aliases: ["Titan"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=887"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Titan  *Trait*

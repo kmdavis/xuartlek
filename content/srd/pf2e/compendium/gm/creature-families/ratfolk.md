@@ -5,6 +5,7 @@ tags:
 aliases: ["Ratfolk"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=463"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Ratfolk  *Creature Family*

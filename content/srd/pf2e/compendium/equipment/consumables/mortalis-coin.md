@@ -9,6 +9,7 @@ tags:
 aliases: ["Mortalis Coin"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2110"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mortalis Coin  *Item 4*

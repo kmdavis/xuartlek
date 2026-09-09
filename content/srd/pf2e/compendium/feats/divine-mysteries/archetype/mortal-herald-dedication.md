@@ -9,6 +9,7 @@ tags:
 aliases: ["Mortal Herald Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7528"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Mortal Herald Dedication  *Feat 12*

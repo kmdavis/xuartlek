@@ -7,6 +7,7 @@ tags:
 aliases: ["Pristine Weapon"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4746"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Pristine Weapon  *Feat 10*

@@ -12,6 +12,7 @@ level: 1
 source: "Monster Core 2"
 other_sources: "NPC Core"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4589"
+socialImage: og-image.png
 ---
 
 ```statblock

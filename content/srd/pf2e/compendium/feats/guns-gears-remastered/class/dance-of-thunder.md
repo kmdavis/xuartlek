@@ -8,6 +8,7 @@ tags:
 aliases: ["Dance of Thunder"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3199"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Dance of Thunder  *Feat 14*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

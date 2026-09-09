@@ -7,6 +7,7 @@ tags:
 aliases: ["Rivethun Invoker"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=309"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Rivethun Invoker  *Archetype 2*

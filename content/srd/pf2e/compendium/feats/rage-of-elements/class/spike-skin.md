@@ -10,6 +10,7 @@ tags:
 aliases: ["Spike Skin"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4229"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Spike Skin  *Feat 8*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

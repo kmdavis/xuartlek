@@ -9,6 +9,7 @@ tags:
 aliases: ["Summon Fey"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1700"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Summon Fey  *Spell 1*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

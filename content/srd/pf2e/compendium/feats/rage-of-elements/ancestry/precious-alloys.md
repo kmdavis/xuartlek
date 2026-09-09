@@ -7,6 +7,7 @@ tags:
 aliases: ["Precious Alloys"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4329"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Precious Alloys  *Feat 5*

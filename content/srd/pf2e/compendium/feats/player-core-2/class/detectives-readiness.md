@@ -7,6 +7,7 @@ tags:
 aliases: ["Detective's Readiness"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5947"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Detective's Readiness  *Feat 4*

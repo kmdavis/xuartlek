@@ -7,6 +7,7 @@ tags:
 aliases: ["Elemental Apotheosis"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4203"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Elemental Apotheosis  *Feat 18*

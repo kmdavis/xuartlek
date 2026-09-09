@@ -7,6 +7,7 @@ tags:
 aliases: ["Wide Overwatch"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3122"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wide Overwatch  *Feat 10*

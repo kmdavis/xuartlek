@@ -8,6 +8,7 @@ tags:
 aliases: ["Wild Feast"]
 aon_url: "https://2e.aonprd.com/MythicRituals.aspx?ID=199"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Wild Feast  *Ritual 4*

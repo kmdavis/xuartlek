@@ -7,6 +7,7 @@ tags:
 aliases: ["Didactic Strike"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5970"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Didactic Strike  *Feat 16*

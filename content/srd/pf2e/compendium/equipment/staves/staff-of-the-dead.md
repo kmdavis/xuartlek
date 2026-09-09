@@ -8,6 +8,7 @@ tags:
 aliases: ["Staff of the Dead"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3047"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Staff of the Dead  *Item 6+*

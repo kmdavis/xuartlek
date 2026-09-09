@@ -9,6 +9,7 @@ tags:
 aliases: ["Polytool"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=300"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Polytool  *Weapon 1*

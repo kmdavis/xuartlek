@@ -9,6 +9,7 @@ tags:
 aliases: ["Pact of Eldritch Eyes"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8469"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Pact of Eldritch Eyes  *Feat 14*

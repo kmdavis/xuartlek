@@ -7,6 +7,7 @@ tags:
 aliases: ["Dromaar"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=516"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Dromaar  *Trait*

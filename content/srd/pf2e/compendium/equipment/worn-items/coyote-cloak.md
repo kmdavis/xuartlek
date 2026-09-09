@@ -8,6 +8,7 @@ tags:
 aliases: ["Coyote Cloak"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3071"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Coyote Cloak  *Item 3+*

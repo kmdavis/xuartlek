@@ -9,6 +9,7 @@ tags:
 aliases: ["Oil of Mending"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2935"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Oil of Mending  *Item 3*

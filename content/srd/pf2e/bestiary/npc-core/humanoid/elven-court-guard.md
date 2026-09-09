@@ -11,6 +11,7 @@ name: "Elven Court Guard"
 level: 13
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3634"
+socialImage: og-image.png
 ---
 
 ```statblock

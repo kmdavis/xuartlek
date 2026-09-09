@@ -8,6 +8,7 @@ tags:
 aliases: ["Ocean Wariness"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5279"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Ocean Wariness  *Feat 1*

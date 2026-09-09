@@ -9,6 +9,7 @@ tags:
 aliases: ["Unfathomable Stargazer"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2391"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Unfathomable Stargazer  *Item 15*

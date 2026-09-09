@@ -5,6 +5,7 @@ tags:
 aliases: ["Ooze"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=453"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Ooze  *Creature Family*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Merfolk"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=40"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Merfolk  *Creature Adjustment*

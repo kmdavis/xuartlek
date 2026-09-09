@@ -10,6 +10,7 @@ tags:
 aliases: ["Wild Winds Gust"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6038"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Wild Winds Gust  *Feat 14*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

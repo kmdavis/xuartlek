@@ -7,6 +7,7 @@ tags:
 aliases: ["Master Magus Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9291"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Master Magus Spellcasting  *Feat 18*

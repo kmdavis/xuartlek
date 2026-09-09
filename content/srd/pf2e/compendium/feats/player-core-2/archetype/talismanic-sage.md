@@ -7,6 +7,7 @@ tags:
 aliases: ["Talismanic Sage"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6423"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Talismanic Sage  *Feat 14*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Alghollthu"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=358"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Alghollthu  *Creature Family*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Pathfinder's Mentor"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2399"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Pathfinder's Mentor  *Item 6*

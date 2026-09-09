@@ -8,6 +8,7 @@ tags:
 aliases: ["Ancestor's Rage"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5607"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Ancestor's Rage  *Feat 13*

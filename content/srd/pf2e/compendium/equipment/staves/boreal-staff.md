@@ -8,6 +8,7 @@ tags:
 aliases: ["Boreal Staff"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2246"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Boreal Staff  *Item 8+*

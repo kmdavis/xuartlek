@@ -9,6 +9,7 @@ tags:
 aliases: ["Bargainer's Instrument"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2116"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Bargainer's Instrument  *Item 15*

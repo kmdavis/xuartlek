@@ -4,6 +4,7 @@ tags:
 - table/decks
 aliases: ["Critical Hit Deck: Bomb or Spell"]
 source: "Critical Hit Deck p. 0"
+socialImage: og-image.png
 ---
 
 # Critical Hit Deck: Bomb or Spell

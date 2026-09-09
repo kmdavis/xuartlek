@@ -10,6 +10,7 @@ name: "Virtuosic Lyrebird"
 level: 6
 source: "Howl of the Wild"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3322"
+socialImage: og-image.png
 ---
 
 ```statblock

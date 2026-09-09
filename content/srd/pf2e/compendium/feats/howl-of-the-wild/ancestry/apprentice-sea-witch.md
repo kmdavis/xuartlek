@@ -7,6 +7,7 @@ tags:
 aliases: ["Apprentice Sea Witch"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5349"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Apprentice Sea Witch  *Feat 5*

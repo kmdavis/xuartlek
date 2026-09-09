@@ -8,6 +8,7 @@ tags:
 aliases: ["Inspired Memory"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9339"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Inspired Memory  *Feat 3*

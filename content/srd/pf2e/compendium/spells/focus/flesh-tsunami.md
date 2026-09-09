@@ -11,6 +11,7 @@ tags:
 aliases: ["Flesh Tsunami"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2899"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Flesh Tsunami  *Focus 8*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

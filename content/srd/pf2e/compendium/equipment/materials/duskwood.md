@@ -8,6 +8,7 @@ tags:
 aliases: ["Duskwood"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2918"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Duskwood  *Item 8+*

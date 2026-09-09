@@ -6,6 +6,7 @@ tags:
 aliases: ["Strix"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=884"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Strix  *Trait*

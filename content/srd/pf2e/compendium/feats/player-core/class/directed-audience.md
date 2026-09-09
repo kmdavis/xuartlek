@@ -7,6 +7,7 @@ tags:
 aliases: ["Directed Audience"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4581"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Directed Audience  *Feat 2*

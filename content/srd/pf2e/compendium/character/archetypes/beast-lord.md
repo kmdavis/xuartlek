@@ -5,6 +5,7 @@ tags:
 aliases: ["Beast Lord"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=290"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Beast Lord  *Archetype*

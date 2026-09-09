@@ -9,6 +9,7 @@ tags:
 aliases: ["Numbing Tonic"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1963"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Numbing Tonic  *Item 1+*

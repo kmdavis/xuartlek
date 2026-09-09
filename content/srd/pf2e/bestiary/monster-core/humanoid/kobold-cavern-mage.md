@@ -11,6 +11,7 @@ name: "Kobold Cavern Mage"
 level: 2
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3074"
+socialImage: og-image.png
 ---
 
 ```statblock

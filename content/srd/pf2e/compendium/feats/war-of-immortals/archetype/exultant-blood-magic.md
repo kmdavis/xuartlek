@@ -7,6 +7,7 @@ tags:
 aliases: ["Exultant Blood Magic"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7246"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Exultant Blood Magic  *Feat 18*

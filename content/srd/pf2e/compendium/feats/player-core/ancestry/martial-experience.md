@@ -7,6 +7,7 @@ tags:
 aliases: ["Martial Experience"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4414"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Martial Experience  *Feat 5*

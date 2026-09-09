@@ -5,6 +5,7 @@ tags:
 aliases: ["Superstition"]
 aon_url: "https://2e.aonprd.com/Instincts.aspx?ID=13"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Superstition  *Barbarian Instinct*

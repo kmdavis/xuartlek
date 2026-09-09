@@ -5,6 +5,7 @@ tags:
 - compendium/src/pf2e/player-core
 aliases: ["Domains"]
 entries: 61
+socialImage: og-image.png
 ---
 
 # Domains

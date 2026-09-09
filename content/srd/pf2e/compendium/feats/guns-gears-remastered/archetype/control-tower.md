@@ -7,6 +7,7 @@ tags:
 aliases: ["Control Tower"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3125"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Control Tower  *Feat 14*

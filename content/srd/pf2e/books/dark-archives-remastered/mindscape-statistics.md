@@ -9,6 +9,7 @@ tags:
 source: "Dark Archives (Remastered)"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3513"
 citation: "Dark Archives (Remastered) pg. 198"
+socialImage: og-image.png
 ---
 
 # Mindscape Statistics

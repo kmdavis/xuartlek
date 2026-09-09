@@ -9,6 +9,7 @@ tags:
 aliases: ["Courier's Cryptex"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5046"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Courier's Cryptex  *Item 9*

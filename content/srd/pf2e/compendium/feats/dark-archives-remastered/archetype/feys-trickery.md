@@ -10,6 +10,7 @@ tags:
 aliases: ["Fey's Trickery"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8460"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Fey's Trickery  *Feat 8*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

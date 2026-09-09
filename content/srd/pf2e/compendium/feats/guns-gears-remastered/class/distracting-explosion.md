@@ -8,6 +8,7 @@ tags:
 aliases: ["Distracting Explosion"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3069"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Distracting Explosion  *Feat 10*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

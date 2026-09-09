@@ -7,6 +7,7 @@ tags:
 aliases: ["Vital Singularity"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=230"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Vital Singularity  *Ritual 9*

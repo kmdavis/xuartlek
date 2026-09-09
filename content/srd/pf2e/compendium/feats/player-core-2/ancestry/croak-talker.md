@@ -7,6 +7,7 @@ tags:
 aliases: ["Croak Talker"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5693"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Croak Talker  *Feat 1*

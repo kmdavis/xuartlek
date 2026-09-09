@@ -10,6 +10,7 @@ tags:
 aliases: ["Devil's Bargain"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1844"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Devil's Bargain  *Item 6*

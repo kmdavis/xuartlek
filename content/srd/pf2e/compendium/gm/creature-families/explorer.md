@@ -5,6 +5,7 @@ tags:
 aliases: ["Explorer"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=537"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Explorer  *Creature Family*

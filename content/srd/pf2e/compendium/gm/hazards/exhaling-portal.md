@@ -9,6 +9,7 @@ tags:
 aliases: ["Exhaling Portal"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=640"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Exhaling Portal  *Hazard 9*

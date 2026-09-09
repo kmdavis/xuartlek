@@ -5,6 +5,7 @@ tags:
 aliases: ["Deep One"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=579"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Deep One  *Creature Family*

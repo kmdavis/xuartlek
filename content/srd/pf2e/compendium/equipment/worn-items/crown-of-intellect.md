@@ -9,6 +9,7 @@ tags:
 aliases: ["Crown of Intellect"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3010"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Crown of Intellect  *Item 17*

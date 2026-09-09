@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Lesson"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4996"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Basic Lesson  *Feat 2*

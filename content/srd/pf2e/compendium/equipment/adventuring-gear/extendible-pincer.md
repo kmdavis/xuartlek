@@ -8,6 +8,7 @@ tags:
 aliases: ["Extendible Pincer"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1148"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Extendible Pincer  *Item 0*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Ring of Ravenousness"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2385"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Ring of Ravenousness  *Item 7*

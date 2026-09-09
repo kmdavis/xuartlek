@@ -12,6 +12,7 @@ tags:
 aliases: ["Magic Sense"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5044"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Magic Sense  *Feat 12*

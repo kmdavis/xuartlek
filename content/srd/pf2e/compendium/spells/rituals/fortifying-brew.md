@@ -7,6 +7,7 @@ tags:
 aliases: ["Fortifying Brew"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=147"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Fortifying Brew  *Ritual 5*

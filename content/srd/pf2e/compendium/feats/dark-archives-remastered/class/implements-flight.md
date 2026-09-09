@@ -8,6 +8,7 @@ tags:
 aliases: ["Implement's Flight"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8382"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Implement's Flight  *Feat 16*

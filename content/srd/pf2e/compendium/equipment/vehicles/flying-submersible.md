@@ -7,6 +7,7 @@ tags:
 aliases: ["Flying Submersible"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=109"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Flying Submersible  *Vehicle 17*

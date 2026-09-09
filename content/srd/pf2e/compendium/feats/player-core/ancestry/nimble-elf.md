@@ -7,6 +7,7 @@ tags:
 aliases: ["Nimble Elf"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4409"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Nimble Elf  *Feat 1*

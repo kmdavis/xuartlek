@@ -9,6 +9,7 @@ tags:
 aliases: ["Force Rain"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2709"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Force Rain  *Spell 4*  [?](books/player-core/chapter-8-playing-the-game/actions#Actions "Varies")

@@ -11,6 +11,7 @@ tags:
 aliases: ["Final Fate of The Locust Host"]
 aon_url: "https://2e.aonprd.com/MythicSpells.aspx?ID=2155"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Final Fate of The Locust Host  *Spell 7*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

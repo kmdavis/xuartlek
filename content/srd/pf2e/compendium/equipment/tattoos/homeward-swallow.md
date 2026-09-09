@@ -10,6 +10,7 @@ tags:
 aliases: ["Homeward Swallow"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2209"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Homeward Swallow  *Item 5*

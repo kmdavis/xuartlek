@@ -7,6 +7,7 @@ tags:
 aliases: ["Unhampered Passage"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4470"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Unhampered Passage  *Feat 9*

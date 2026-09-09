@@ -8,6 +8,7 @@ tags:
 aliases: ["Ring of Climbing"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3103"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Ring of Climbing  *Item 12*

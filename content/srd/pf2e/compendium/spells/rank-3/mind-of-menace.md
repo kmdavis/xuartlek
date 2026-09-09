@@ -12,6 +12,7 @@ tags:
 aliases: ["Mind of Menace"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2769"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Mind of Menace  *Spell 3*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Fishing Spot"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2704"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Fishing Spot  *Spell 1*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Cloak Of Feline Rest"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5183"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Cloak Of Feline Rest  *Item 1*

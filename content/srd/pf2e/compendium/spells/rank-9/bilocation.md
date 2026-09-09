@@ -8,6 +8,7 @@ tags:
 aliases: ["Bilocation"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2566"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Bilocation  *Spell 9*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

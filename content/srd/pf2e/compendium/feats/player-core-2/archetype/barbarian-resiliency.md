@@ -7,6 +7,7 @@ tags:
 aliases: ["Barbarian Resiliency"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6191"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Barbarian Resiliency  *Feat 4*

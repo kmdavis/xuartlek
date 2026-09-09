@@ -7,6 +7,7 @@ tags:
 aliases: ["Fighter Resiliency"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5083"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Fighter Resiliency  *Feat 4*

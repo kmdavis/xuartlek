@@ -9,6 +9,7 @@ tags:
 aliases: ["Cast into Time"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2653"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Cast into Time  *Spell 6*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

@@ -8,6 +8,7 @@ tags:
 aliases: ["Sturdy Neck Stock"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3981"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Sturdy Neck Stock  *Item 11*

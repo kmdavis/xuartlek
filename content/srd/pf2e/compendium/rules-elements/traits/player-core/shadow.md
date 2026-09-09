@@ -6,6 +6,7 @@ tags:
 aliases: ["Shadow"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=693"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Shadow  *Trait*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Repeating Hand Crossbow Magazine"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=182"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Repeating Hand Crossbow Magazine  *Weapon 0*

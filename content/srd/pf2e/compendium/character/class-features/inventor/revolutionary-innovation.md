@@ -6,6 +6,7 @@ tags:
 aliases: ["Revolutionary Innovation"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=19"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Revolutionary Innovation  *Class Feature 15*

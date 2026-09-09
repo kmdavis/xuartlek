@@ -9,6 +9,7 @@ tags:
 aliases: ["Dragonbone Arrowhead"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5102"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Dragonbone Arrowhead  *Item 4*

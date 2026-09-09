@@ -7,6 +7,7 @@ tags:
 aliases: ["Booming Bell"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3928"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Booming Bell  *Item 6*

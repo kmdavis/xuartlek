@@ -10,6 +10,7 @@ tags:
 aliases: ["Dawnfire Beacon"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3909"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Dawnfire Beacon  *Item 3+*

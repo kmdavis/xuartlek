@@ -9,6 +9,7 @@ tags:
 aliases: ["Alicorn Hair"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3254"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Alicorn Hair  *Item 1*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Sink and Swim"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8413"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sink and Swim  *Feat 14*

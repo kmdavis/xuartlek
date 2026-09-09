@@ -8,6 +8,7 @@ tags:
 aliases: ["Mated Birds in Paired Flight"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7175"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Mated Birds in Paired Flight  *Feat 10*

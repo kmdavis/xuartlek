@@ -15,6 +15,7 @@ tags:
 aliases: ["Steady Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4602"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Steady Spellcasting  *Feat 6*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Political Favor"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4133"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Political Favor  *Item 0+*

@@ -5,6 +5,7 @@ tags:
 aliases: ["The Lost Prince"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=456"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # The Lost Prince  *Deity*

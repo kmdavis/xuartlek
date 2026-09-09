@@ -7,6 +7,7 @@ tags:
 aliases: ["Clever Improviser"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4482"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Clever Improviser  *Feat 5*

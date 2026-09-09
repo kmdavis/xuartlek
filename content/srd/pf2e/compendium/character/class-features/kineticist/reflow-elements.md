@@ -6,6 +6,7 @@ tags:
 aliases: ["Reflow Elements"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=23"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Reflow Elements  *Class Feature 11*

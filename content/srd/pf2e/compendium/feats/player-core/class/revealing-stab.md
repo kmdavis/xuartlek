@@ -7,6 +7,7 @@ tags:
 aliases: ["Revealing Stab"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4804"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Revealing Stab  *Feat 6*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

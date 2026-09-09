@@ -8,6 +8,7 @@ tags:
 aliases: ["Multishot Stance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4851"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Multishot Stance  *Feat 16*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

@@ -5,6 +5,7 @@ tags:
 aliases: ["Fetchling"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=593"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Fetchling  *Creature Family*

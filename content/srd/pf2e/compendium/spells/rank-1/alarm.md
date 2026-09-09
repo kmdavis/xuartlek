@@ -8,6 +8,7 @@ tags:
 aliases: ["Alarm"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1439"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Alarm  *Spell 1*

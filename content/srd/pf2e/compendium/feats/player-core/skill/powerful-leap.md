@@ -8,6 +8,7 @@ tags:
 aliases: ["Powerful Leap"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5189"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Powerful Leap  *Feat 2*

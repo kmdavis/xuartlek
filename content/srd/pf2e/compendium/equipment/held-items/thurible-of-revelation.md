@@ -7,6 +7,7 @@ tags:
 aliases: ["Thurible of Revelation"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3033"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Thurible of Revelation  *Item 3+*

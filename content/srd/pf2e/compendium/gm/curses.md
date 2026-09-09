@@ -5,6 +5,7 @@ tags:
 - compendium/src/pf2e/gm-core
 aliases: ["Curses"]
 entries: 31
+socialImage: og-image.png
 ---
 
 # Curses

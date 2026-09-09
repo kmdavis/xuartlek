@@ -9,6 +9,7 @@ tags:
 aliases: ["Trickster's Mandolin"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2271"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Trickster's Mandolin  *Item 4+*

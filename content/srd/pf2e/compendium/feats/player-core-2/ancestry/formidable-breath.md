@@ -7,6 +7,7 @@ tags:
 aliases: ["Formidable Breath"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5740"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Formidable Breath  *Feat 9*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Boots of Bounding"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3059"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Boots of Bounding  *Item 7+*

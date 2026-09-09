@@ -9,6 +9,7 @@ tags:
 aliases: ["Beastmaster Bond"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6273"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Beastmaster Bond  *Feat 10*

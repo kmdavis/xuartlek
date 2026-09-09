@@ -8,6 +8,7 @@ tags:
 aliases: ["Still Life Storage"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=269"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Still Life Storage  *Ritual 2*

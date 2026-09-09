@@ -7,6 +7,7 @@ tags:
 aliases: ["Spelldrinker"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7243"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Spelldrinker  *Feat 8*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

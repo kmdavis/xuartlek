@@ -10,6 +10,7 @@ tags:
 aliases: ["Spiderfoot Brew"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1966"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Spiderfoot Brew  *Item 3+*

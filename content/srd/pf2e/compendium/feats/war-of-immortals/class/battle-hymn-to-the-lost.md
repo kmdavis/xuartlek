@@ -9,6 +9,7 @@ tags:
 aliases: ["Battle Hymn to the Lost"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7168"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Battle Hymn to the Lost  *Feat 8*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

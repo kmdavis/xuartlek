@@ -7,6 +7,7 @@ tags:
 aliases: ["Retribution Axe"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2869"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Retribution Axe  *Item 3*

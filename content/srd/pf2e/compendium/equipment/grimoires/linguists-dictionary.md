@@ -8,6 +8,7 @@ tags:
 aliases: ["Linguist's Dictionary"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2180"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Linguist's Dictionary  *Item 9+*

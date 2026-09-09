@@ -10,6 +10,7 @@ tags:
 aliases: ["Soul Cage"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4347"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Soul Cage  *Item 12*

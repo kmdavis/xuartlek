@@ -9,6 +9,7 @@ tags:
 aliases: ["Prophesied Monarch Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7403"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Prophesied Monarch Dedication  *Feat 12*

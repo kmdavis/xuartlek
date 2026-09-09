@@ -7,6 +7,7 @@ tags:
 aliases: ["Enforce Oath"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7522"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Enforce Oath  *Feat 12*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

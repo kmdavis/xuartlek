@@ -7,6 +7,7 @@ tags:
 aliases: ["Celestial Mercy"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4562"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Celestial Mercy  *Feat 13*

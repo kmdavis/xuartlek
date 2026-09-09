@@ -9,6 +9,7 @@ tags:
 aliases: ["Thunderbird Tuft"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5067"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Thunderbird Tuft  *Item 1+*

@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/player-core-2
 aliases: ["Sidebars: Player Core 2"]
 entries: 13
+socialImage: og-image.png
 ---
 
 # Sidebars: Player Core 2

@@ -7,6 +7,7 @@ tags:
 aliases: ["Boulder Roll"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4394"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Boulder Roll  *Feat 5*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

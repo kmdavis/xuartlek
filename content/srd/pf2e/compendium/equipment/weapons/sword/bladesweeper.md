@@ -11,6 +11,7 @@ tags:
 aliases: ["Bladesweeper"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=536"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Bladesweeper  *Weapon 0*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Sow Spell"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4755"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Sow Spell  *Feat 14*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

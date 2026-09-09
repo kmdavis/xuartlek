@@ -8,6 +8,7 @@ tags:
 aliases: ["Planar Skiff"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=56"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Planar Skiff  *Vehicle 15*

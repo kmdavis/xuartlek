@@ -7,6 +7,7 @@ tags:
 aliases: ["Springing Leaper"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5555"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Springing Leaper  *Feat 5*

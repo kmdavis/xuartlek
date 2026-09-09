@@ -11,6 +11,7 @@ name: "Dero Strangler"
 level: 3
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2903"
+socialImage: og-image.png
 ---
 
 ```statblock

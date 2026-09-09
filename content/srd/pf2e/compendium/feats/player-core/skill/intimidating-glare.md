@@ -8,6 +8,7 @@ tags:
 aliases: ["Intimidating Glare"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5162"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Intimidating Glare  *Feat 1*

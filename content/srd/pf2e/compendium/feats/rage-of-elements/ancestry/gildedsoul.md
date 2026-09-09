@@ -8,6 +8,7 @@ tags:
 aliases: ["Gildedsoul"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4325"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Gildedsoul  *Feat 1*

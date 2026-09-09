@@ -10,6 +10,7 @@ tags:
 aliases: ["Clockwork Devotion"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2496"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Clockwork Devotion  *Spell 8*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

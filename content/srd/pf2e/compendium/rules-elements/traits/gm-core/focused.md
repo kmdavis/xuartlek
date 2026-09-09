@@ -6,6 +6,7 @@ tags:
 aliases: ["Focused"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=609"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Focused  *Trait*

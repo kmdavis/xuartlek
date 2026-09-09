@@ -9,6 +9,7 @@ tags:
 aliases: ["Tentacle Potion"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2095"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Tentacle Potion  *Item 6+*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Wings of Bone and Sinew"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9129"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Wings of Bone and Sinew  *Feat 8*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

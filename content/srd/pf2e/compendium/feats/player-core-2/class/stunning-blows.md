@@ -7,6 +7,7 @@ tags:
 aliases: ["Stunning Blows"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5989"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Stunning Blows  *Feat 2*

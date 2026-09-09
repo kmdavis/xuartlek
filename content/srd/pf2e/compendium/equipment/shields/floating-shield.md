@@ -8,6 +8,7 @@ tags:
 aliases: ["Floating Shield"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2819"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Floating Shield  *Item 11+*

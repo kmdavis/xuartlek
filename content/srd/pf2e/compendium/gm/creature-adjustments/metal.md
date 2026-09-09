@@ -5,6 +5,7 @@ tags:
 aliases: ["Metal"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=19"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Metal  *Creature Adjustment*

@@ -11,6 +11,7 @@ tags:
 aliases: ["Kaleidoscopic Entreaty"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7574"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Kaleidoscopic Entreaty  *Feat 8*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

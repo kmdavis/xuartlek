@@ -6,6 +6,7 @@ tags:
 aliases: ["Psychic"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=342"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Psychic  *Archetype 2*

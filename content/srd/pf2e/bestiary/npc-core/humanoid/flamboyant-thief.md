@@ -12,6 +12,7 @@ name: "Flamboyant Thief"
 level: 15
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3436"
+socialImage: og-image.png
 ---
 
 ```statblock

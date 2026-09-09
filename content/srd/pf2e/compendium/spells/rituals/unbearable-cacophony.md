@@ -9,6 +9,7 @@ tags:
 aliases: ["Unbearable Cacophony"]
 aon_url: "https://2e.aonprd.com/MythicRituals.aspx?ID=197"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Unbearable Cacophony  *Ritual 7*

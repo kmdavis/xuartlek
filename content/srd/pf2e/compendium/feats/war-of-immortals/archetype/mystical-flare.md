@@ -12,6 +12,7 @@ tags:
 aliases: ["Mystical Flare"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7425"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Mystical Flare  *Feat 16*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

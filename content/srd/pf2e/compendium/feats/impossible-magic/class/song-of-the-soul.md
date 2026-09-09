@@ -7,6 +7,7 @@ tags:
 aliases: ["Song of the Soul"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9104"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Song of the Soul  *Feat 2*

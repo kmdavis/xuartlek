@@ -8,6 +8,7 @@ tags:
 aliases: ["Extinguishing Ball"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3864"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Extinguishing Ball  *Item 8*

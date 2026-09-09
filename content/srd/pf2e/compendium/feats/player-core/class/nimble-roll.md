@@ -7,6 +7,7 @@ tags:
 aliases: ["Nimble Roll"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4953"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Nimble Roll  *Feat 8*

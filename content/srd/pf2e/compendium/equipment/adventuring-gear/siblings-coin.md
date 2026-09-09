@@ -7,6 +7,7 @@ tags:
 aliases: ["Sibling's Coin"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4126"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sibling's Coin  *Item 1*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Ferocious Beasts"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4527"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Ferocious Beasts  *Feat 13*

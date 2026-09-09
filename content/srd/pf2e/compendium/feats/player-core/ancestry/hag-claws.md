@@ -7,6 +7,7 @@ tags:
 aliases: ["Hag Claws"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4535"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Hag Claws  *Feat 1*

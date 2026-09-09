@@ -7,6 +7,7 @@ tags:
 aliases: ["Perfected Thrall"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9166"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Perfected Thrall  *Feat 20*

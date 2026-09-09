@@ -8,6 +8,7 @@ tags:
 aliases: ["Awaken Animal"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=109"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Awaken Animal  *Ritual 6*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Gyronna"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=515"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Gyronna  *Deity*

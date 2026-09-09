@@ -7,6 +7,7 @@ tags:
 aliases: ["Shielded Recovery"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7806"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Shielded Recovery  *Feat 4*

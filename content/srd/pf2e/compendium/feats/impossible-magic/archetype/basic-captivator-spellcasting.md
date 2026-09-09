@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Captivator Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9316"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Basic Captivator Spellcasting  *Feat 4*

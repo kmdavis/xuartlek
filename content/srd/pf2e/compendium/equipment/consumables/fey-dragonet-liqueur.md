@@ -11,6 +11,7 @@ tags:
 aliases: ["Fey Dragonet Liqueur"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2085"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Fey Dragonet Liqueur  *Item 7+*

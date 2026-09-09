@@ -5,6 +5,7 @@ tags:
 aliases: ["Nyarlathotep (The Faceless Sphinx)"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=574"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Nyarlathotep (The Faceless Sphinx)  *Deity*

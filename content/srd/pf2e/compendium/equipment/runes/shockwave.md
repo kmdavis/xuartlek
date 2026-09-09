@@ -8,6 +8,7 @@ tags:
 aliases: ["Shockwave"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2848"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Shockwave  *Item 13*

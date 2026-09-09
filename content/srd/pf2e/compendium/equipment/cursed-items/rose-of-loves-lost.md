@@ -11,6 +11,7 @@ tags:
 aliases: ["Rose of Loves Lost"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4145"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Rose of Loves Lost  *Item 10*

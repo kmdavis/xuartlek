@@ -9,6 +9,7 @@ tags:
 aliases: ["Dust of Corpse Animation"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3413"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Dust of Corpse Animation  *Item 8+*

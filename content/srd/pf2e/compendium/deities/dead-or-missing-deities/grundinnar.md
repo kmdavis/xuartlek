@@ -5,6 +5,7 @@ tags:
 aliases: ["Grundinnar"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=514"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Grundinnar  *Deity*

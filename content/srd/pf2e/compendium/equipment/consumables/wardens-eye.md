@@ -9,6 +9,7 @@ tags:
 aliases: ["Warden's Eye"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5069"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Warden's Eye  *Item 4*

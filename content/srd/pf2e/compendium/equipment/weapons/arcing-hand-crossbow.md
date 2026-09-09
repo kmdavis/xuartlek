@@ -7,6 +7,7 @@ tags:
 aliases: ["Arcing Hand Crossbow"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5011"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Arcing Hand Crossbow  *Item 3*

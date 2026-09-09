@@ -7,6 +7,7 @@ tags:
 aliases: ["Greater Mental Evolution"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6119"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Greater Mental Evolution  *Feat 16*

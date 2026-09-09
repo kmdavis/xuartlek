@@ -10,6 +10,7 @@ tags:
 aliases: ["Burglar's Blind"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2336"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Burglar's Blind  *Spell 3*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

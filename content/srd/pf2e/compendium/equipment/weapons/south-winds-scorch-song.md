@@ -9,6 +9,7 @@ tags:
 aliases: ["South Wind's Scorch Song"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5030"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # South Wind's Scorch Song  *Item 10*

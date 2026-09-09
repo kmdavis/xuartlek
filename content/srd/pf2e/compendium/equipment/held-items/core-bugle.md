@@ -7,6 +7,7 @@ tags:
 aliases: ["Core Bugle"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3931"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Core Bugle  *Item 12*

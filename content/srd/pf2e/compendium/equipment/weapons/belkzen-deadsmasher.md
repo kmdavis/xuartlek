@@ -8,6 +8,7 @@ tags:
 aliases: ["Belkzen Deadsmasher"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3837"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Belkzen Deadsmasher  *Item 13+*

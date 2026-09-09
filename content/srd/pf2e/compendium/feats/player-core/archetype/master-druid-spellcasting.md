@@ -7,6 +7,7 @@ tags:
 aliases: ["Master Druid Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5080"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Master Druid Spellcasting  *Feat 18*

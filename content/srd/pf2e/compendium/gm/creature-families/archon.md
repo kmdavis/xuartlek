@@ -5,6 +5,7 @@ tags:
 aliases: ["Archon"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=365"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Archon  *Creature Family*

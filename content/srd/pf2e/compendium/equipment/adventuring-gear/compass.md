@@ -6,6 +6,7 @@ tags:
 aliases: ["Compass"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2716"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Compass  *Item 0+*

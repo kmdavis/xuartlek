@@ -5,6 +5,7 @@ tags:
 aliases: ["Guerrilla"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=37"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Guerrilla  *Creature Adjustment*

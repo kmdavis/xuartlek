@@ -10,6 +10,7 @@ tags:
 aliases: ["Holy Cascade"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2000"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Holy Cascade  *Spell 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

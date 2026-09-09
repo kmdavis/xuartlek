@@ -10,6 +10,7 @@ tags:
 aliases: ["Elemental Explosion"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4354"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Elemental Explosion  *Feat 6*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

@@ -7,6 +7,7 @@ tags:
 aliases: ["Divine Wall"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5917"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Divine Wall  *Feat 12*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Arsenic"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3322"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Arsenic  *Item 1*

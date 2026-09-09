@@ -8,6 +8,7 @@ tags:
 aliases: ["Guiding Shot"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7799"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Guiding Shot  *Feat 2*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

@@ -6,6 +6,7 @@ tags:
 aliases: ["Greater Weapon Specialization"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=69"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Greater Weapon Specialization  *Class Feature 15*

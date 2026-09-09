@@ -5,6 +5,7 @@ tags:
 aliases: ["Hastur"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=570"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Hastur  *Deity*

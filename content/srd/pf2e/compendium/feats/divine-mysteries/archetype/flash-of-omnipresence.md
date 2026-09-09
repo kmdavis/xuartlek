@@ -9,6 +9,7 @@ tags:
 aliases: ["Flash of Omnipresence"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7531"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Flash of Omnipresence  *Feat 14*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

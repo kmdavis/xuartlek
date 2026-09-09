@@ -9,6 +9,7 @@ tags:
 aliases: ["Oil of Repulsion"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2937"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Oil of Repulsion  *Item 11*

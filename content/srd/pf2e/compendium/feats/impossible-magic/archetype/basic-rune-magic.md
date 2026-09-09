@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Rune Magic"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9302"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Basic Rune Magic  *Feat 4*

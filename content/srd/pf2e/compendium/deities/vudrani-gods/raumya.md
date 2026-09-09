@@ -5,6 +5,7 @@ tags:
 aliases: ["Raumya"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=619"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Raumya  *Deity*

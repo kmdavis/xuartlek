@@ -7,6 +7,7 @@ tags:
 aliases: ["Tactical Expansion"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7802"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Tactical Expansion  *Feat 2*

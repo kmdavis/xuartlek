@@ -8,6 +8,7 @@ tags:
 aliases: ["Galvanic Mortal Coil"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1135"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Galvanic Mortal Coil  *Item 10*

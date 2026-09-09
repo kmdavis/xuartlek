@@ -7,6 +7,7 @@ tags:
 aliases: ["Cheek Pouches"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5651"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Cheek Pouches  *Feat 1*

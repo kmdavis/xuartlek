@@ -9,6 +9,7 @@ tags:
 aliases: ["Fireball Rune"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=469"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Fireball Rune  *Hazard 5*

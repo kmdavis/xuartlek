@@ -12,6 +12,7 @@ tags:
 aliases: ["Bladed Scarf"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=273"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Bladed Scarf  *Weapon 0*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Swashbuckler's Riposte"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6237"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Swashbuckler's Riposte  *Feat 6*

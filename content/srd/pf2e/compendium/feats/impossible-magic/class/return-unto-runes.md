@@ -8,6 +8,7 @@ tags:
 aliases: ["Return Unto Runes"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9212"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Return Unto Runes  *Feat 16*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

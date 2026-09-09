@@ -5,6 +5,7 @@ tags:
 aliases: ["Apocalypse Rider"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=287"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Apocalypse Rider  *Archetype*

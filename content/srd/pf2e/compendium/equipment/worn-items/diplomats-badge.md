@@ -8,6 +8,7 @@ tags:
 aliases: ["Diplomat's Badge"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3078"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Diplomat's Badge  *Item 5*

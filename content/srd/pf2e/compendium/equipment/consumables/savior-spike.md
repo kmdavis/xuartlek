@@ -10,6 +10,7 @@ tags:
 aliases: ["Savior Spike"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2991"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Savior Spike  *Item 2*

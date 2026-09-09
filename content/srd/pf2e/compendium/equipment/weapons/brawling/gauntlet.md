@@ -8,6 +8,7 @@ tags:
 aliases: ["Gauntlet"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=359"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Gauntlet  *Weapon 0*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Thawing Candle"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2611"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Thawing Candle  *Item 8*

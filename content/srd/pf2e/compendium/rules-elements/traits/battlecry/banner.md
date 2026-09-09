@@ -6,6 +6,7 @@ tags:
 aliases: ["Banner"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=856"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Banner  *Trait*

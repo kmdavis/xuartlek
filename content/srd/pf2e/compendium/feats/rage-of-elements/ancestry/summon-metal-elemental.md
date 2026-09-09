@@ -7,6 +7,7 @@ tags:
 aliases: ["Summon Metal Elemental"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4331"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Summon Metal Elemental  *Feat 13*

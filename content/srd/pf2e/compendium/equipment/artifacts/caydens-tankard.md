@@ -9,6 +9,7 @@ tags:
 aliases: ["Cayden's Tankard"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2360"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Cayden's Tankard  *Item 25*

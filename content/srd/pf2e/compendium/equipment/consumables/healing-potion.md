@@ -12,6 +12,7 @@ tags:
 aliases: ["Healing Potion"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2943"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Healing Potion  *Item 1+*

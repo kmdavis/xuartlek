@@ -7,6 +7,7 @@ tags:
 aliases: ["Guardian's Aegis"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=255"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Guardian's Aegis  *Ritual 3*

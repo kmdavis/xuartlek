@@ -5,6 +5,7 @@ tags:
 aliases: ["Chaldira"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=336"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Chaldira  *Deity*

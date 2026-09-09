@@ -5,6 +5,7 @@ tags:
 aliases: ["Living Topiary"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=607"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Living Topiary  *Creature Family*

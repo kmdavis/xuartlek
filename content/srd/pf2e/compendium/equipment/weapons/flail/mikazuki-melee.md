@@ -12,6 +12,7 @@ tags:
 aliases: ["Mikazuki (Melee)"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=347"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mikazuki (Melee)  *Weapon 0*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Reactive Striker"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5084"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Reactive Striker  *Feat 4*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Cutter"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=74"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Cutter  *Vehicle 6*

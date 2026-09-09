@@ -6,6 +6,7 @@ tags:
 aliases: ["Modification"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=410"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Modification  *Trait*

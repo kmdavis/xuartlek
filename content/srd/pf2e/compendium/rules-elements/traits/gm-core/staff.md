@@ -6,6 +6,7 @@ tags:
 aliases: ["Staff"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=700"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Staff  *Trait*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Multifaceted Will"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7250"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Multifaceted Will  *Feat 6*

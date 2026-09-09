@@ -8,6 +8,7 @@ tags:
 aliases: ["Judgement Thurible"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2232"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Judgement Thurible  *Item 10+*

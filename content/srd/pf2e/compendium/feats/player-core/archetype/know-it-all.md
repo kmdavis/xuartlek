@@ -8,6 +8,7 @@ tags:
 aliases: ["Know-It-All"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4607"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Know-It-All  *Feat 8*

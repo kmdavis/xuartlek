@@ -12,6 +12,7 @@ name: "Gnokesh"
 level: 5
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4064"
+socialImage: og-image.png
 ---
 
 ```statblock

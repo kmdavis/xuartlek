@@ -7,6 +7,7 @@ tags:
 aliases: ["Deployable Cover"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1098"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Deployable Cover  *Item 1+*

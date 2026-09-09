@@ -13,6 +13,7 @@ tags:
 aliases: ["Frost Worm Snare"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1129"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Frost Worm Snare  *Item 9*

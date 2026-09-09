@@ -8,6 +8,7 @@ tags:
 aliases: ["Inscribed Blast"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9402"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Inscribed Blast  *Feat 5*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

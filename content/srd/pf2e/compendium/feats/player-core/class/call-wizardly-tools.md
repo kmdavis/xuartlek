@@ -9,6 +9,7 @@ tags:
 aliases: ["Call Wizardly Tools"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5029"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Call Wizardly Tools  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

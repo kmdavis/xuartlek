@@ -9,6 +9,7 @@ tags:
 aliases: ["Confabulator"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2166"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Confabulator  *Item 3*

@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/player-core
 aliases: ["Animal Companion Specializations"]
 entries: 6
+socialImage: og-image.png
 ---
 
 # Animal Companion Specializations

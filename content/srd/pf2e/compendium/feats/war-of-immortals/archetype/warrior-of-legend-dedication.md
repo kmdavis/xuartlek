@@ -10,6 +10,7 @@ tags:
 aliases: ["Warrior Of Legend Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7261"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Warrior Of Legend Dedication  *Feat 2*

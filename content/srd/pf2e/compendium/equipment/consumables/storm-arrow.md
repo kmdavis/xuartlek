@@ -10,6 +10,7 @@ tags:
 aliases: ["Storm Arrow"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3395"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Storm Arrow  *Item 9*

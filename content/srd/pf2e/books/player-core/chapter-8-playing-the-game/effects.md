@@ -9,6 +9,7 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2377"
 citation: "Player Core pg. 426"
+socialImage: og-image.png
 ---
 
 # Effects
@@ -23,7 +24,7 @@ Effects sometimes require checks, but not always. Casting a [[srd/pf2e/compendiu
 
 > [!pf2-sidebar] CONDITIONS
 >
-> Some effects apply conditions to a creature or item. These change your state of being in some way. Conditions are persistent, lasting until the stated duration ends, the condition is removed, or terms dictated in the condition cause it to end. Full rules appear in the [[srd/pf2e/books/player-core/conditions-appendix/index|Conditions Appendix]].
+> Some effects apply conditions to a creature or item. These change your state of being in some way. Conditions are persistent, lasting until the stated duration ends, the condition is removed, or terms dictated in the condition cause it to end. Full rules appear in the [[srd/pf2e/books/player-core/conditions-appendix/conditions-appendix|Conditions Appendix]].
 >
 > **[[srd/pf2e/compendium/rules-elements/conditions#Blinded|Blinded]]:** You're unable to see.
 > **[[srd/pf2e/compendium/rules-elements/conditions#Broken|Broken]]:** This item can't be used for its normal function until repaired.

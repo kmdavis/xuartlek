@@ -8,6 +8,7 @@ tags:
 aliases: ["Forensic Dye"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3353"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Forensic Dye  *Item 1*

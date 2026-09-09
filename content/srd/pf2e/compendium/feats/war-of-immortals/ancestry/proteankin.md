@@ -8,6 +8,7 @@ tags:
 aliases: ["Proteankin"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7198"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Proteankin  *Feat 1*

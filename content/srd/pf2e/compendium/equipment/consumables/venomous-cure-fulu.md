@@ -10,6 +10,7 @@ tags:
 aliases: ["Venomous Cure Fulu"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5086"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Venomous Cure Fulu  *Item 3*

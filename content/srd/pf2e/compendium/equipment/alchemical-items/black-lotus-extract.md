@@ -11,6 +11,7 @@ tags:
 aliases: ["Black Lotus Extract"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3325"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Black Lotus Extract  *Item 19*

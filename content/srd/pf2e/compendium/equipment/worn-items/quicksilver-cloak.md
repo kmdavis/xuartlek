@@ -8,6 +8,7 @@ tags:
 aliases: ["Quicksilver Cloak"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5188"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Quicksilver Cloak  *Item 4*

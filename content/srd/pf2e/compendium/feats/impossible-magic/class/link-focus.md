@@ -7,6 +7,7 @@ tags:
 aliases: ["Link Focus"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9268"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Link Focus  *Feat 12*

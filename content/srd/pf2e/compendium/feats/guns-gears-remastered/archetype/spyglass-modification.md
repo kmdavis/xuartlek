@@ -7,6 +7,7 @@ tags:
 aliases: ["Spyglass Modification"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3119"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Spyglass Modification  *Feat 4*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Kazutal"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=350"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Kazutal  *Deity*

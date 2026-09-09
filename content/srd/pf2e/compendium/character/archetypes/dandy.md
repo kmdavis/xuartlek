@@ -6,6 +6,7 @@ tags:
 aliases: ["Dandy"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=246"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Dandy  *Archetype 2*

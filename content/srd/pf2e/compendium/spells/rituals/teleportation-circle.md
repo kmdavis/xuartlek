@@ -8,6 +8,7 @@ tags:
 aliases: ["Teleportation Circle"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=155"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Teleportation Circle  *Ritual 7*

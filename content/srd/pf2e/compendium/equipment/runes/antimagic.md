@@ -8,6 +8,7 @@ tags:
 aliases: ["Antimagic"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2787"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Antimagic  *Item 15*

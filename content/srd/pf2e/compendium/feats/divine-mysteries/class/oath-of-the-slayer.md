@@ -8,6 +8,7 @@ tags:
 aliases: ["Oath of The Slayer"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7519"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Oath of The Slayer  *Feat 2*

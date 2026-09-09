@@ -11,6 +11,7 @@ tags:
 aliases: ["Blue Dragonfly Poison"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1992"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Blue Dragonfly Poison  *Item 3*

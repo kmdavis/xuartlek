@@ -5,6 +5,7 @@ tags:
 aliases: ["Rumored Cryptid"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=59"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Rumored Cryptid  *Creature Adjustment*

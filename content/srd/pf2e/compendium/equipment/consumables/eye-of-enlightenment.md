@@ -9,6 +9,7 @@ tags:
 aliases: ["Eye Of Enlightenment"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5103"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Eye Of Enlightenment  *Item 5*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Bismuth Armor"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3805"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Bismuth Armor  *Item 13*

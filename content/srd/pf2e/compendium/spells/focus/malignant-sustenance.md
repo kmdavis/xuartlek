@@ -13,6 +13,7 @@ tags:
 aliases: ["Malignant Sustenance"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1847"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Malignant Sustenance  *Focus 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

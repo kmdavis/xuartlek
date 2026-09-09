@@ -11,6 +11,7 @@ tags:
 aliases: ["Starfaring Cloak"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2366"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Starfaring Cloak  *Item 24*

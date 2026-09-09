@@ -11,6 +11,7 @@ tags:
 aliases: ["Truth Potion"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2961"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Truth Potion  *Item 6*

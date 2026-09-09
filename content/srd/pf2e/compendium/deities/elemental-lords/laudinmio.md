@@ -5,6 +5,7 @@ tags:
 aliases: ["Laudinmio"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=691"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Laudinmio  *Deity*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Breech Ejectors"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1222"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Breech Ejectors  *Item 3*

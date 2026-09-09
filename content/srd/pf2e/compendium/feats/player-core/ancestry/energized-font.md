@@ -7,6 +7,7 @@ tags:
 aliases: ["Energized Font"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4430"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Energized Font  *Feat 5*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

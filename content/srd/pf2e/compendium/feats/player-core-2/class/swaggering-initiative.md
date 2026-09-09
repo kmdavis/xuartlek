@@ -7,6 +7,7 @@ tags:
 aliases: ["Swaggering Initiative"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6150"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Swaggering Initiative  *Feat 4*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

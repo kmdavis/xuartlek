@@ -7,6 +7,7 @@ tags:
 aliases: ["Animal Empathy (Druid)"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4709"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Animal Empathy (Druid)  *Feat 1*

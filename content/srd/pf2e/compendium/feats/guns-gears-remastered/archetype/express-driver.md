@@ -9,6 +9,7 @@ tags:
 aliases: ["Express Driver"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3141"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Express Driver  *Feat 2*

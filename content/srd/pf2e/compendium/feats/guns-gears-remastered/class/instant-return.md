@@ -7,6 +7,7 @@ tags:
 aliases: ["Instant Return"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3206"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Instant Return  *Feat 16*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

@@ -7,6 +7,7 @@ tags:
 aliases: ["Thunder God's Fan"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5690"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Thunder God's Fan  *Feat 13*

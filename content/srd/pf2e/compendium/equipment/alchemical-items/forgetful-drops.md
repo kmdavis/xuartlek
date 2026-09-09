@@ -11,6 +11,7 @@ tags:
 aliases: ["Forgetful Drops"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4120"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Forgetful Drops  *Item 3*

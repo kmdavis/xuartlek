@@ -7,6 +7,7 @@ tags:
 aliases: ["Cattle Speech"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5362"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Cattle Speech  *Feat 1*

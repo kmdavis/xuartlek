@@ -10,6 +10,7 @@ tags:
 aliases: ["Grim Sandglass"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5154"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Grim Sandglass  *Item 3+*

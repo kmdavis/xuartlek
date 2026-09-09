@@ -8,6 +8,7 @@ tags:
 aliases: ["Weapon Harness"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1826"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Weapon Harness  *Item 1*

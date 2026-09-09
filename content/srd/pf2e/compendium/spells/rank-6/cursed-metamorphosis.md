@@ -11,6 +11,7 @@ tags:
 aliases: ["Cursed Metamorphosis"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1479"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Cursed Metamorphosis  *Spell 6*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

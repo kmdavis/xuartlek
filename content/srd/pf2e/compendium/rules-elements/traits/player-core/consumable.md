@@ -6,6 +6,7 @@ tags:
 aliases: ["Consumable"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=564"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Consumable  *Trait*

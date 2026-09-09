@@ -10,6 +10,7 @@ tags:
 aliases: ["Awakened Metal Shot"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1189"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Awakened Metal Shot  *Item 17+*

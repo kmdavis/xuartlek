@@ -8,6 +8,7 @@ tags:
 aliases: ["Flinging Charge"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4827"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Flinging Charge  *Feat 10*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

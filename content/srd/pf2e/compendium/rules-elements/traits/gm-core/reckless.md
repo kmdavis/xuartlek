@@ -6,6 +6,7 @@ tags:
 aliases: ["Reckless"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=685"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Reckless  *Trait*

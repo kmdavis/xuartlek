@@ -10,6 +10,7 @@ tags:
 aliases: ["Sparkler"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1946"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sparkler  *Item 1*

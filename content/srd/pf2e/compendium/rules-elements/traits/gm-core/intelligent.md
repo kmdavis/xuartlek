@@ -6,6 +6,7 @@ tags:
 aliases: ["Intelligent"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=636"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Intelligent  *Trait*

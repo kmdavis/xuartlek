@@ -9,6 +9,7 @@ tags:
 aliases: ["Sage's Lash"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5117"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Sage's Lash  *Item 18*

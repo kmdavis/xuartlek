@@ -6,6 +6,7 @@ tags:
 aliases: ["Psi Cantrips and Amps"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=68"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Psi Cantrips and Amps  *Class Feature 1*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Military"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=543"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Military  *Creature Family*

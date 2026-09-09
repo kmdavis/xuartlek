@@ -8,6 +8,7 @@ tags:
 aliases: ["Blade Byrnie"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1843"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Blade Byrnie  *Item 7+*

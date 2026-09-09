@@ -7,6 +7,7 @@ tags:
 aliases: ["Rapid Response"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4651"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Rapid Response  *Feat 2*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

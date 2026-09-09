@@ -11,6 +11,7 @@ tags:
 aliases: ["War Lance"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=534"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # War Lance  *Weapon 0*

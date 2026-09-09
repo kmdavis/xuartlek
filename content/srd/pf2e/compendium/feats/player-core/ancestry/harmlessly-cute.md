@@ -7,6 +7,7 @@ tags:
 aliases: ["Harmlessly Cute"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4494"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Harmlessly Cute  *Feat 1*

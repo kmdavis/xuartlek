@@ -7,6 +7,7 @@ tags:
 aliases: ["Enter Divine Realm"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7552"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Enter Divine Realm  *Feat 20*

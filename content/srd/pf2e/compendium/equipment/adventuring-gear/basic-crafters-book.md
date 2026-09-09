@@ -6,6 +6,7 @@ tags:
 aliases: ["Basic Crafter's Book"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2705"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Basic Crafter's Book  *Item 0*

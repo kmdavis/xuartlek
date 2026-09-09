@@ -14,6 +14,7 @@ name: "Clockwork Runner Pack"
 level: 5
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3908"
+socialImage: og-image.png
 ---
 
 ```statblock

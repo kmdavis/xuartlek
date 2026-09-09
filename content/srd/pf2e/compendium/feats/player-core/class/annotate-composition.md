@@ -9,6 +9,7 @@ tags:
 aliases: ["Annotate Composition"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4610"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Annotate Composition  *Feat 10*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Adaptive Stratagem"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7797"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Adaptive Stratagem  *Feat 2*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

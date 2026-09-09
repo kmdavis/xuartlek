@@ -7,6 +7,7 @@ tags:
 aliases: ["Pick"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=389"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Pick  *Weapon 0*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Necromantic Lifesense"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9133"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Necromantic Lifesense  *Feat 10*

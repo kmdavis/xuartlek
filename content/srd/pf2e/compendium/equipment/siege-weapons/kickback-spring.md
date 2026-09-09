@@ -9,6 +9,7 @@ tags:
 aliases: ["Kickback Spring"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=25"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Kickback Spring  *Siege Weapon 7*

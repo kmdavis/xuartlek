@@ -8,6 +8,7 @@ tags:
 aliases: ["Scythe Blades"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=480"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Scythe Blades  *Hazard 4*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Perfected Body"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1831"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Perfected Body  *Focus 4*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

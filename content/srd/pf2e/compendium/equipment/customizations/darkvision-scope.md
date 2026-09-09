@@ -7,6 +7,7 @@ tags:
 aliases: ["Darkvision Scope"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1212"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Darkvision Scope  *Item 5+*

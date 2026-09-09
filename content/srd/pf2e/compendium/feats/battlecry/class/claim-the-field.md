@@ -7,6 +7,7 @@ tags:
 aliases: ["Claim the Field"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7809"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Claim the Field  *Feat 6*

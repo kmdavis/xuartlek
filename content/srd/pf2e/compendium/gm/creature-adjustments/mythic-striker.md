@@ -5,6 +5,7 @@ tags:
 aliases: ["Mythic Striker"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=34"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Mythic Striker  *Creature Adjustment*

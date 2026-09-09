@@ -7,6 +7,7 @@ tags:
 aliases: ["Showstopper"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3202"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Showstopper  *Feat 14*

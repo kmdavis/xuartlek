@@ -14,6 +14,7 @@ tags:
 aliases: ["Corrupted Ground"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9119"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Corrupted Ground  *Feat 6*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

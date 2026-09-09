@@ -7,6 +7,7 @@ tags:
 aliases: ["Resplendent Spellhorn"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5628"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Resplendent Spellhorn  *Feat 13*

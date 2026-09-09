@@ -11,6 +11,7 @@ tags:
 aliases: ["Musket Staff of the Void"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3588"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Musket Staff of the Void  *Item 4*

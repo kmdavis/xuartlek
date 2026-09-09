@@ -10,6 +10,7 @@ tags:
 aliases: ["Camouflaging Chromatophores"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3180"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Camouflaging Chromatophores  *Item 4+*

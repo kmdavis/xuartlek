@@ -6,6 +6,7 @@ tags:
 aliases: ["Skill"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=695"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Skill  *Trait*

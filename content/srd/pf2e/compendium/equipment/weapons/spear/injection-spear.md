@@ -9,6 +9,7 @@ tags:
 aliases: ["Injection Spear"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=170"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Injection Spear  *Weapon 0*

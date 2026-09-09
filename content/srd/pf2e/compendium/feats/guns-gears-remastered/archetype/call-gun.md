@@ -9,6 +9,7 @@ tags:
 aliases: ["Call Gun"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3269"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Call Gun  *Feat 8*

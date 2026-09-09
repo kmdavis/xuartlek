@@ -7,6 +7,7 @@ tags:
 aliases: ["Raise Haft"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7840"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Raise Haft  *Feat 2*

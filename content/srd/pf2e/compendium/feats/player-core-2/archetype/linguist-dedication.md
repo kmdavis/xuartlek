@@ -8,6 +8,7 @@ tags:
 aliases: ["Linguist Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6344"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Linguist Dedication  *Feat 2*

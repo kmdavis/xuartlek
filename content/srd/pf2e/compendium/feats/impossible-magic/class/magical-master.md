@@ -8,6 +8,7 @@ tags:
 aliases: ["Magical Master"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9279"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Magical Master  *Feat 18*

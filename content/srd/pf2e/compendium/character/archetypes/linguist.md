@@ -6,6 +6,7 @@ tags:
 aliases: ["Linguist"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=253"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Linguist  *Archetype 2*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Mutant"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=763"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Mutant  *Trait*

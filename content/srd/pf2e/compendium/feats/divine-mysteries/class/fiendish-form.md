@@ -8,6 +8,7 @@ tags:
 aliases: ["Fiendish Form"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7526"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Fiendish Form  *Feat 18*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Palstave"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=506"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Palstave  *Weapon 0*

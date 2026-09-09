@@ -7,6 +7,7 @@ tags:
 aliases: ["Heightened Instincts"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5434"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Heightened Instincts  *Feat 18*

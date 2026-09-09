@@ -6,6 +6,7 @@ tags:
 aliases: ["Barding"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=470"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Barding  *Trait*

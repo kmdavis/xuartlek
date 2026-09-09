@@ -15,6 +15,7 @@ name: "Boggard Dreadknot"
 level: 10
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3904"
+socialImage: og-image.png
 ---
 
 ```statblock

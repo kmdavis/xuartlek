@@ -8,6 +8,7 @@ tags:
 aliases: ["Lie to Me"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5177"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Lie to Me  *Feat 1*

@@ -14,6 +14,7 @@ name: "Zombie Dragon"
 level: 9
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4622"
+socialImage: og-image.png
 ---
 
 ```statblock

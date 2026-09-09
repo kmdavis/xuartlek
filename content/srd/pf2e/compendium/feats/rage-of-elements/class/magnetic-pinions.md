@@ -12,6 +12,7 @@ tags:
 aliases: ["Magnetic Pinions"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4252"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Magnetic Pinions  *Feat 1*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

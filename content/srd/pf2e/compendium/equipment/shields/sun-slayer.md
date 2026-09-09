@@ -8,6 +8,7 @@ tags:
 aliases: ["Sun Slayer"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3831"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Sun Slayer  *Item 10*

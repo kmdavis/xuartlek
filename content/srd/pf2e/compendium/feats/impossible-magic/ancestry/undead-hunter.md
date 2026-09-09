@@ -7,6 +7,7 @@ tags:
 aliases: ["Undead Hunter"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9399"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Undead Hunter  *Feat 1*

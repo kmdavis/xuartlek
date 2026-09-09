@@ -7,6 +7,7 @@ tags:
 aliases: ["Conscious Spell Specialization"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8340"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Conscious Spell Specialization  *Feat 14*

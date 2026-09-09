@@ -9,6 +9,7 @@ tags:
 aliases: ["Apocalypse Rider Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7304"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Apocalypse Rider Dedication  *Feat 12*

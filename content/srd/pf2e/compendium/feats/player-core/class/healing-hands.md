@@ -7,6 +7,7 @@ tags:
 aliases: ["Healing Hands"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4646"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Healing Hands  *Feat 1*

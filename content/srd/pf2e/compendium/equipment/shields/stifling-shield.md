@@ -7,6 +7,7 @@ tags:
 aliases: ["Stifling Shield"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5009"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Stifling Shield  *Item 11*

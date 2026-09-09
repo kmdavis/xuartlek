@@ -7,6 +7,7 @@ tags:
 aliases: ["Raise Symbol"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4658"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Raise Symbol  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

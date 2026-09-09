@@ -11,6 +11,7 @@ tags:
 aliases: ["Tricky Pick"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=481"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Tricky Pick  *Weapon 0*

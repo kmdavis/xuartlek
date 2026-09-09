@@ -7,6 +7,7 @@ tags:
 aliases: ["Multifarious Muse"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4585"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Multifarious Muse  *Feat 2*

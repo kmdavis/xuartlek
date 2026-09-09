@@ -7,6 +7,7 @@ tags:
 aliases: ["Plant"]
 aon_url: "https://2e.aonprd.com/Eidolons.aspx?ID=24"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Plant  *Summoner Eidolon*

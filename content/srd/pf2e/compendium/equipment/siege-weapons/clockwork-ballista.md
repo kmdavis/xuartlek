@@ -8,6 +8,7 @@ tags:
 aliases: ["Clockwork Ballista"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=42"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Clockwork Ballista  *Siege Weapon 12*

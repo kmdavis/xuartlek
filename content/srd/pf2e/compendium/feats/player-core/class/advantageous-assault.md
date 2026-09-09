@@ -8,6 +8,7 @@ tags:
 aliases: ["Advantageous Assault"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4798"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Advantageous Assault  *Feat 6*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

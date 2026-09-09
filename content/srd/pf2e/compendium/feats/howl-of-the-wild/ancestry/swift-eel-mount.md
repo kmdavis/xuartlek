@@ -8,6 +8,7 @@ tags:
 aliases: ["Swift Eel Mount"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5293"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Swift Eel Mount  *Feat 13*

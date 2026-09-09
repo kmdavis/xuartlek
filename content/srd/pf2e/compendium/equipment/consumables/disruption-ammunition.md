@@ -8,6 +8,7 @@ tags:
 aliases: ["Disruption Ammunition"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5035"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Disruption Ammunition  *Item 6+*

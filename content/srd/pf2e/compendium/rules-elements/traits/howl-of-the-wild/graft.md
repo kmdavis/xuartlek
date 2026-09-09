@@ -6,6 +6,7 @@ tags:
 aliases: ["Graft"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=790"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Graft  *Trait*

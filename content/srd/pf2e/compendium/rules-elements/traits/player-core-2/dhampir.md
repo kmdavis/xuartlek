@@ -6,6 +6,7 @@ tags:
 aliases: ["Dhampir"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=750"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Dhampir  *Trait*

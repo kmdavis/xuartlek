@@ -8,6 +8,7 @@ tags:
 aliases: ["Lesson of the Circling Gale"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7945"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Lesson of the Circling Gale  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

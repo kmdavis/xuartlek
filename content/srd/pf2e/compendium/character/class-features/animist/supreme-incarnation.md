@@ -6,6 +6,7 @@ tags:
 aliases: ["Supreme Incarnation"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=64"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Supreme Incarnation  *Class Feature 19*

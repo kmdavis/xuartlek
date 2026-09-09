@@ -7,6 +7,7 @@ tags:
 aliases: ["Flexible Studies"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5935"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Flexible Studies  *Feat 1*

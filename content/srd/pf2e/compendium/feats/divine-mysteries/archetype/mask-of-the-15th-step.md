@@ -7,6 +7,7 @@ tags:
 aliases: ["Mask of The 15th Step"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7569"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Mask of The 15th Step  *Feat 14*

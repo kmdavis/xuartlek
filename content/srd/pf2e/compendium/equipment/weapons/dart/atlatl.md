@@ -7,6 +7,7 @@ tags:
 aliases: ["Atlatl"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=329"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Atlatl  *Weapon 0*

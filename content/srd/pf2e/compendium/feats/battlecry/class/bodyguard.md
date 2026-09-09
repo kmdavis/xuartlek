@@ -7,6 +7,7 @@ tags:
 aliases: ["Bodyguard"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7831"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Bodyguard  *Feat 1*

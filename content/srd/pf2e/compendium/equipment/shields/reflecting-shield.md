@@ -8,6 +8,7 @@ tags:
 aliases: ["Reflecting Shield"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2825"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Reflecting Shield  *Item 18*

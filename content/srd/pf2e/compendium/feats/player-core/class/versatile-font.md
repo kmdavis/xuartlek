@@ -7,6 +7,7 @@ tags:
 aliases: ["Versatile Font"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4653"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Versatile Font  *Feat 2*

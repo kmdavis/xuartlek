@@ -6,6 +6,7 @@ tags:
 aliases: ["Combat Kite"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=118"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Combat Kite  *Vehicle 6*

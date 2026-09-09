@@ -9,6 +9,7 @@ tags:
 aliases: ["Spiritsight Ring"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2346"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Spiritsight Ring  *Item 6*

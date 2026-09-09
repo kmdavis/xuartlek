@@ -10,6 +10,7 @@ tags:
 aliases: ["Calamity Glass"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4140"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Calamity Glass  *Item 11*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Cantorian Restoration"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5587"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Cantorian Restoration  *Feat 17*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

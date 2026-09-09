@@ -5,6 +5,7 @@ tags:
 aliases: ["Automaton"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=572"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Automaton  *Creature Family*

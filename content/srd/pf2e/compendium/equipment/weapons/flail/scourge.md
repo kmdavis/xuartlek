@@ -11,6 +11,7 @@ tags:
 aliases: ["Scourge"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=531"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Scourge  *Weapon 0*

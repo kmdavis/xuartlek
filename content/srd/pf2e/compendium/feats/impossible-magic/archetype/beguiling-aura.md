@@ -10,6 +10,7 @@ tags:
 aliases: ["Beguiling Aura"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9322"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Beguiling Aura  *Feat 12*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

@@ -8,6 +8,7 @@ tags:
 aliases: ["Helpful Reload"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2507"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Helpful Reload  *Spell 2*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

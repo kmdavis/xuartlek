@@ -9,6 +9,7 @@ tags:
 aliases: ["Emetic Paste"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1939"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Emetic Paste  *Item 2+*

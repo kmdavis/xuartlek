@@ -7,6 +7,7 @@ tags:
 aliases: ["Spell Swallow"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5460"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Spell Swallow  *Feat 10*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Missive"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=485"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Missive  *Trait*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Persistent Mutagen"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5799"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Persistent Mutagen  *Feat 16*

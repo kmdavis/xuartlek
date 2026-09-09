@@ -6,6 +6,7 @@ tags:
 aliases: ["Clockwork"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=874"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Clockwork  *Trait*

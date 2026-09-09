@@ -6,6 +6,7 @@ tags:
 aliases: ["Brass Ear"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2707"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Brass Ear  *Item 0*

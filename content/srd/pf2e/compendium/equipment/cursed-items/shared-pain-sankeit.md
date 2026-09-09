@@ -10,6 +10,7 @@ tags:
 aliases: ["Shared-Pain Sankeit"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2386"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Shared-Pain Sankeit  *Item 14*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Mask of the Cursed Eye"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2351"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mask of the Cursed Eye  *Item 8*

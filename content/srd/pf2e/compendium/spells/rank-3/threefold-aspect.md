@@ -9,6 +9,7 @@ tags:
 aliases: ["Threefold Aspect"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2038"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Threefold Aspect  *Spell 3*

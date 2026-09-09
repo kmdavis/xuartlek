@@ -9,6 +9,7 @@ tags:
 aliases: ["Summon Stampede"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1960"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Summon Stampede  *Spell 7*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

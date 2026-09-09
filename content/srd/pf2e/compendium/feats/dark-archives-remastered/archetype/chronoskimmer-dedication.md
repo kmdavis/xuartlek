@@ -9,6 +9,7 @@ tags:
 aliases: ["Chronoskimmer Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8489"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Chronoskimmer Dedication  *Feat 2*

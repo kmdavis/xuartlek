@@ -7,6 +7,7 @@ tags:
 aliases: ["Vine Baton"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3950"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Vine Baton  *Item 5*

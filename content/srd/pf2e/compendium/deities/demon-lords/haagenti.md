@@ -5,6 +5,7 @@ tags:
 aliases: ["Haagenti"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=430"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Haagenti  *Deity*

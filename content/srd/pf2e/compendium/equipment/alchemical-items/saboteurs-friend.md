@@ -10,6 +10,7 @@ tags:
 aliases: ["Saboteur's Friend"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1928"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Saboteur's Friend  *Item 4*

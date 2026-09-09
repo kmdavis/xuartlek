@@ -10,6 +10,7 @@ tags:
 aliases: ["Vaccine"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1969"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Vaccine  *Item 1+*

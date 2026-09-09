@@ -9,6 +9,7 @@ tags:
 aliases: ["Spurned Lute"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2389"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Spurned Lute  *Item 5*

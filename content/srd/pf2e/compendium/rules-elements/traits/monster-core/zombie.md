@@ -6,6 +6,7 @@ tags:
 aliases: ["Zombie"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=782"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Zombie  *Trait*

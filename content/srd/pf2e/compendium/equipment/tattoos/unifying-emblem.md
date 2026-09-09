@@ -9,6 +9,7 @@ tags:
 aliases: ["Unifying Emblem"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2223"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Unifying Emblem  *Item 3+*

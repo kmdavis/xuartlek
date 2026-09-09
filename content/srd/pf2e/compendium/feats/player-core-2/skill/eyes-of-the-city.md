@@ -8,6 +8,7 @@ tags:
 aliases: ["Eyes of the City"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6482"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Eyes of the City  *Feat 2*

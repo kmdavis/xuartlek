@@ -6,6 +6,7 @@ tags:
 aliases: ["Archaeologist"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=237"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Archaeologist  *Archetype 2*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Fury"]
 aon_url: "https://2e.aonprd.com/Instincts.aspx?ID=10"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Fury  *Barbarian Instinct*

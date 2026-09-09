@@ -7,6 +7,7 @@ tags:
 aliases: ["Tools of the Trade"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6283"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Tools of the Trade  *Feat 4*

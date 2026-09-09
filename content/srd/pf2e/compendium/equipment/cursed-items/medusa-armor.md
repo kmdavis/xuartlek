@@ -10,6 +10,7 @@ tags:
 aliases: ["Medusa Armor"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3130"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Medusa Armor  *Item 14*

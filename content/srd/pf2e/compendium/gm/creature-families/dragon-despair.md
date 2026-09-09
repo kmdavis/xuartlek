@@ -5,6 +5,7 @@ tags:
 aliases: ["Dragon, Despair"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=584"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Dragon, Despair  *Creature Family*

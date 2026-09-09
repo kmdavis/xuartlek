@@ -8,6 +8,7 @@ tags:
 aliases: ["Depth Charge"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2048"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Depth Charge  *Item 5+*

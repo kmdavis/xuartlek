@@ -10,6 +10,7 @@ tags:
 aliases: ["Pale Fade"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2010"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Pale Fade  *Item 19*

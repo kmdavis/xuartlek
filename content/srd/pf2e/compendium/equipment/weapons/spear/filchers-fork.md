@@ -13,6 +13,7 @@ tags:
 aliases: ["Filcher's Fork"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=407"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Filcher's Fork  *Weapon 0*

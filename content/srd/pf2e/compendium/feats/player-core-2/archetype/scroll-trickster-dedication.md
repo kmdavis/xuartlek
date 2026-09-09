@@ -8,6 +8,7 @@ tags:
 aliases: ["Scroll Trickster Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6400"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Scroll Trickster Dedication  *Feat 2*

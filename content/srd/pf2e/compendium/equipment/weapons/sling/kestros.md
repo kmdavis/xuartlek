@@ -9,6 +9,7 @@ tags:
 aliases: ["Kestros"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=513"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Kestros  *Weapon 0*

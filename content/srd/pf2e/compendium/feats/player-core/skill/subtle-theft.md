@@ -8,6 +8,7 @@ tags:
 aliases: ["Subtle Theft"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5220"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Subtle Theft  *Feat 1*

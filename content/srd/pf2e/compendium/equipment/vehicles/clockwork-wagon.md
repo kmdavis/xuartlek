@@ -7,6 +7,7 @@ tags:
 aliases: ["Clockwork Wagon"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=22"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Clockwork Wagon  *Vehicle 3*

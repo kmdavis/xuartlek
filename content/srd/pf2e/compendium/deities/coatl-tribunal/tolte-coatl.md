@@ -5,6 +5,7 @@ tags:
 aliases: ["Tolte Coatl"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=415"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Tolte Coatl  *Deity*

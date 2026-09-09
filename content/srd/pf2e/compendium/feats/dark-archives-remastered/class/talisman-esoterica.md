@@ -8,6 +8,7 @@ tags:
 aliases: ["Talisman Esoterica"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8361"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Talisman Esoterica  *Feat 2*

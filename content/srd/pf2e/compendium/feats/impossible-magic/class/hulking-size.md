@@ -8,6 +8,7 @@ tags:
 aliases: ["Hulking Size"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9254"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Hulking Size  *Feat 8*

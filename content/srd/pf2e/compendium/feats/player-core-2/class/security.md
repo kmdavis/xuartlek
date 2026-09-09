@@ -7,6 +7,7 @@ tags:
 aliases: ["Security"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5898"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Security  *Feat 4*

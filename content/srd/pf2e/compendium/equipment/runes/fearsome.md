@@ -10,6 +10,7 @@ tags:
 aliases: ["Fearsome"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2837"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Fearsome  *Item 5+*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Ghost Dust"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2978"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Ghost Dust  *Item 16*

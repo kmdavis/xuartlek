@@ -6,6 +6,7 @@ tags:
 aliases: ["Carriage"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=63"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Carriage  *Vehicle 2*

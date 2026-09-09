@@ -12,6 +12,7 @@ tags:
 aliases: ["Canopy Crawler"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1931"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Canopy Crawler  *Focus 2*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

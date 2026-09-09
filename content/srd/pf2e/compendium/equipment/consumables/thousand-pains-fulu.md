@@ -10,6 +10,7 @@ tags:
 aliases: ["Thousand-Pains Fulu"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2044"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Thousand-Pains Fulu  *Item 5+*

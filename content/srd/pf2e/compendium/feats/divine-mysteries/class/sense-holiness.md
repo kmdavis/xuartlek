@@ -8,6 +8,7 @@ tags:
 aliases: ["Sense Holiness"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7520"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Sense Holiness  *Feat 8*

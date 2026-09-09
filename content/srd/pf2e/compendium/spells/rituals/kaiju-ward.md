@@ -8,6 +8,7 @@ tags:
 aliases: ["Kaiju Ward"]
 aon_url: "https://2e.aonprd.com/MythicRituals.aspx?ID=195"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Kaiju Ward  *Ritual 6*

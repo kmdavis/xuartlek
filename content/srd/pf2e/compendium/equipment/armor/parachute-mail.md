@@ -8,6 +8,7 @@ tags:
 aliases: ["Parachute Mail"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3820"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Parachute Mail  *Item 5*

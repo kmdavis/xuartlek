@@ -7,6 +7,7 @@ tags:
 aliases: ["One Among The Masses"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7308"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # One Among The Masses  *Feat 14*

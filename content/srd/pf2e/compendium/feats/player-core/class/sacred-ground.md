@@ -10,6 +10,7 @@ tags:
 aliases: ["Sacred Ground"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4660"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Sacred Ground  *Feat 4*

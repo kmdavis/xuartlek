@@ -9,6 +9,7 @@ tags:
 aliases: ["Wall of Metal"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1379"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Wall of Metal  *Spell 6*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

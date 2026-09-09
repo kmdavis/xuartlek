@@ -8,6 +8,7 @@ tags:
 aliases: ["Invisible Hand"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7542"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Invisible Hand  *Feat 16*

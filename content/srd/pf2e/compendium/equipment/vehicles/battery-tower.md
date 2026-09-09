@@ -7,6 +7,7 @@ tags:
 aliases: ["Battery Tower"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=37"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Battery Tower  *Vehicle 16*

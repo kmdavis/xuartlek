@@ -10,6 +10,7 @@ tags:
 aliases: ["Hydra Mutagen"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3235"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Hydra Mutagen  *Item 13*

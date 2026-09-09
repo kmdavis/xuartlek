@@ -6,6 +6,7 @@ tags:
 aliases: ["Silver Armor"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2803"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Silver Armor  *Item 5+*

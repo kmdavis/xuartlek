@@ -8,6 +8,7 @@ tags:
 aliases: ["Arc of Destruction"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7290"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Arc of Destruction  *Feat 8*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
@@ -16,6 +17,6 @@ source: "War of Immortals"
 
 - **Trigger**: An enemy you’re observing targets you with a ranged weapon [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]].
 
-You redirect an incoming weapon or projectile and send your enemy’s own attack roaring back at them, increasing its accuracy with a surge of mythic power. Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/index|Mythic Point]]; you gain a +4 status bonus to AC against the triggering Strike. If the Strike fails, you immediately snatch the weapon or ammunition used for the attack out of the air and launch it back at the enemy, using mythic proficiency for your Strike. If the attack was made with a [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown]] weapon, add the weapon’s [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/armor-armaments#Runes|runes]] and other effects to the attack as normal. If the triggering attack was made with a piece of ammunition that you’re wielding an appropriate weapon for, you can apply your weapon’s runes and other effects to the attack.
+You redirect an incoming weapon or projectile and send your enemy’s own attack roaring back at them, increasing its accuracy with a surge of mythic power. Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]]; you gain a +4 status bonus to AC against the triggering Strike. If the Strike fails, you immediately snatch the weapon or ammunition used for the attack out of the air and launch it back at the enemy, using mythic proficiency for your Strike. If the attack was made with a [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown]] weapon, add the weapon’s [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/armor-armaments#Runes|runes]] and other effects to the attack as normal. If the triggering attack was made with a piece of ammunition that you’re wielding an appropriate weapon for, you can apply your weapon’s runes and other effects to the attack.
 
 *Source: War of Immortals p. 83*

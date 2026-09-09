@@ -8,6 +8,7 @@ tags:
 aliases: ["Alter Admixture"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5782"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Alter Admixture  *Feat 8*

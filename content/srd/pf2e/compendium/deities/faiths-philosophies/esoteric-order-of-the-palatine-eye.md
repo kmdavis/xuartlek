@@ -5,6 +5,7 @@ tags:
 aliases: ["Esoteric Order Of The Palatine Eye"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=362"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Esoteric Order Of The Palatine Eye  *Deity*

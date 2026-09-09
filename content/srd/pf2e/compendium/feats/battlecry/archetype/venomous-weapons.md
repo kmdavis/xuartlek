@@ -7,6 +7,7 @@ tags:
 aliases: ["Venomous Weapons"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7937"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Venomous Weapons  *Feat 8*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Advanced Shooter"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3169"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Advanced Shooter  *Feat 6*

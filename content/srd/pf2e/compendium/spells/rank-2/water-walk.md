@@ -9,6 +9,7 @@ tags:
 aliases: ["Water Walk"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1756"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Water Walk  *Spell 2*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

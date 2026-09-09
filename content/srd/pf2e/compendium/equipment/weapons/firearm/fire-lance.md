@@ -8,6 +8,7 @@ tags:
 aliases: ["Fire Lance"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=190"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Fire Lance  *Weapon 0*

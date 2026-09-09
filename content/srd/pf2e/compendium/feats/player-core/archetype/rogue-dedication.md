@@ -9,6 +9,7 @@ tags:
 aliases: ["Rogue Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5092"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Rogue Dedication  *Feat 2*

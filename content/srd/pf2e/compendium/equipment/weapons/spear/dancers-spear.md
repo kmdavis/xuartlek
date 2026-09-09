@@ -11,6 +11,7 @@ tags:
 aliases: ["Dancer's Spear"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=279"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Dancer's Spear  *Weapon 0*

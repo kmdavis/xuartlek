@@ -7,6 +7,7 @@ tags:
 aliases: ["Soaring Flight"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5684"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Soaring Flight  *Feat 5*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

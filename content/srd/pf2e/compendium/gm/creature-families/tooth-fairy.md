@@ -5,6 +5,7 @@ tags:
 aliases: ["Tooth Fairy"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=477"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Tooth Fairy  *Creature Family*

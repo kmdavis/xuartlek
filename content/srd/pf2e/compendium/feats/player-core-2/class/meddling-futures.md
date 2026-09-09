@@ -9,6 +9,7 @@ tags:
 aliases: ["Meddling Futures"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6060"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Meddling Futures  *Feat 2*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

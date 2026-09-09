@@ -8,6 +8,7 @@ tags:
 aliases: ["Legendary Thief"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5175"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Legendary Thief  *Feat 15*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Avalanche Boots"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2135"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Avalanche Boots  *Item 17*

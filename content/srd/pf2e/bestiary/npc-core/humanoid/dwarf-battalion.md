@@ -12,6 +12,7 @@ name: "Dwarf Battalion"
 level: 6
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3628"
+socialImage: og-image.png
 ---
 
 ```statblock

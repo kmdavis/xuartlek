@@ -11,6 +11,7 @@ tags:
 aliases: ["Pierce the Sky"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2789"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Pierce the Sky  *Spell 9*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

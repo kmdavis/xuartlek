@@ -9,6 +9,7 @@ tags:
 aliases: ["Hand of Mercy"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3884"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Hand of Mercy  *Item 2*

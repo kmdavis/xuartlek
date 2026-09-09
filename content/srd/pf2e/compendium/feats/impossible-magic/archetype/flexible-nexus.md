@@ -7,6 +7,7 @@ tags:
 aliases: ["Flexible Nexus"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9342"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Flexible Nexus  *Feat 6*

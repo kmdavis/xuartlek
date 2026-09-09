@@ -12,6 +12,7 @@ name: "Carved Beast"
 level: 6
 source: "Rage of Elements"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2675"
+socialImage: og-image.png
 ---
 
 ```statblock

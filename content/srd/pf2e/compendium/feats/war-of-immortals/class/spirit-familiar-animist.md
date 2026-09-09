@@ -7,6 +7,7 @@ tags:
 aliases: ["Spirit Familiar (Animist)"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7123"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Spirit Familiar (Animist)  *Feat 1*

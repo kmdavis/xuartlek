@@ -9,6 +9,7 @@ tags:
 aliases: ["Galvanic Chew"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1918"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Galvanic Chew  *Item 8*

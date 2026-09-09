@@ -5,6 +5,7 @@ tags:
 aliases: ["Identify Magic"]
 aon_url: "https://2e.aonprd.com/Skills.aspx?ID=22&General=true"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Identify Magic  *General Skill Action*

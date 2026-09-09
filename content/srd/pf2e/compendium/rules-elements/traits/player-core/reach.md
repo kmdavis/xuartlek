@@ -6,6 +6,7 @@ tags:
 aliases: ["Reach"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=684"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Reach  *Trait*

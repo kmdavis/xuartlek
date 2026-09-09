@@ -8,6 +8,7 @@ tags:
 aliases: ["Construct Mindscape"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=231"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Construct Mindscape  *Ritual 5*

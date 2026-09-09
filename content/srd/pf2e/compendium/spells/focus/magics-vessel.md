@@ -10,6 +10,7 @@ tags:
 aliases: ["Magic's Vessel"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1816"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Magic's Vessel  *Focus 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

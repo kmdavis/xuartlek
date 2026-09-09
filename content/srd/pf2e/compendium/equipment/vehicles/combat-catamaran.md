@@ -6,6 +6,7 @@ tags:
 aliases: ["Combat Catamaran"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=107"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Combat Catamaran  *Vehicle 13*

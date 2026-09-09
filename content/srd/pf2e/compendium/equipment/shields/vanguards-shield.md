@@ -8,6 +8,7 @@ tags:
 aliases: ["Vanguard's Shield"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3835"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Vanguard's Shield  *Item 13*

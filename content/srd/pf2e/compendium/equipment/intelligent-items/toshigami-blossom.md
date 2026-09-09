@@ -10,6 +10,7 @@ tags:
 aliases: ["Toshigami Blossom"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2403"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Toshigami Blossom  *Item 15*

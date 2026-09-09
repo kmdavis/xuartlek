@@ -10,6 +10,7 @@ tags:
 aliases: ["Ancestral Geometry"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2202"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Ancestral Geometry  *Item 2*

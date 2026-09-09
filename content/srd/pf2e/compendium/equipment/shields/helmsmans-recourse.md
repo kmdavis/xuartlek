@@ -7,6 +7,7 @@ tags:
 aliases: ["Helmsman's Recourse"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1858"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Helmsman's Recourse  *Item 5+*

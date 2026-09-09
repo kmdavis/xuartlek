@@ -7,6 +7,7 @@ tags:
 aliases: ["Irrepressible (Ganzi)"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7201"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Irrepressible (Ganzi)  *Feat 1*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Flintlock Pistol"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=522"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Flintlock Pistol  *Weapon 0*

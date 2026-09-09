@@ -8,6 +8,7 @@ tags:
 aliases: ["Peer Past the Hedge"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9328"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Peer Past the Hedge  *Feat 4*

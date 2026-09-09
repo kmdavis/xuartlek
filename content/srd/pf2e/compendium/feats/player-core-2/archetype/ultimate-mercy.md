@@ -7,6 +7,7 @@ tags:
 aliases: ["Ultimate Mercy"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5929"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Ultimate Mercy  *Feat 18*

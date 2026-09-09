@@ -8,6 +8,7 @@ tags:
 aliases: ["Boneyard's Call"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5759"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Boneyard's Call  *Feat 17*

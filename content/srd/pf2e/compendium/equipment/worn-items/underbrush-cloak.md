@@ -8,6 +8,7 @@ tags:
 aliases: ["Underbrush Cloak"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3984"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Underbrush Cloak  *Item 5*

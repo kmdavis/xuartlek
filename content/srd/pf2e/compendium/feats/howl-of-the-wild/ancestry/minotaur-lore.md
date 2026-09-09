@@ -7,6 +7,7 @@ tags:
 aliases: ["Minotaur Lore"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5366"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Minotaur Lore  *Feat 1*

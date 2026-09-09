@@ -12,6 +12,7 @@ tags:
 aliases: ["Walk Through the Conflagration"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4248"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Walk Through the Conflagration  *Feat 14*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

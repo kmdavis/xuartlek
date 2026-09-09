@@ -8,6 +8,7 @@ tags:
 aliases: ["Aromatic Ammunition"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1188"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Aromatic Ammunition  *Item 2*

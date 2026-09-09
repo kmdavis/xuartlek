@@ -8,6 +8,7 @@ tags:
 aliases: ["Underwater"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2634"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Underwater  *Item 3*

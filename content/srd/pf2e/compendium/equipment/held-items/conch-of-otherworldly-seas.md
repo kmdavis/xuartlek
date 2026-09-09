@@ -9,6 +9,7 @@ tags:
 aliases: ["Conch of Otherworldly Seas"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2626"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Conch of Otherworldly Seas  *Item 12*

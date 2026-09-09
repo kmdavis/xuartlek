@@ -12,6 +12,7 @@ name: "Goblin Rabble"
 level: 4
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3920"
+socialImage: og-image.png
 ---
 
 ```statblock

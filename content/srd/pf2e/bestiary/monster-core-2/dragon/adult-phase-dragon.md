@@ -11,6 +11,7 @@ name: "Adult Phase Dragon"
 level: 13
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4355"
+socialImage: og-image.png
 ---
 
 ```statblock

@@ -7,6 +7,7 @@ tags:
 aliases: ["Fighter's Fork"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2865"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Fighter's Fork  *Item 3*

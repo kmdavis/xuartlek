@@ -7,6 +7,7 @@ tags:
 aliases: ["Tactical Excellence"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7888"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Tactical Excellence  *Feat 4*

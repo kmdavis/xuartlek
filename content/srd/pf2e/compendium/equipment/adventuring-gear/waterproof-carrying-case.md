@@ -7,6 +7,7 @@ tags:
 aliases: ["Waterproof Carrying Case"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1208"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Waterproof Carrying Case  *Item 0*

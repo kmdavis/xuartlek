@@ -7,6 +7,7 @@ tags:
 aliases: ["Ironclad Fortitude"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7898"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Ironclad Fortitude  *Feat 12*

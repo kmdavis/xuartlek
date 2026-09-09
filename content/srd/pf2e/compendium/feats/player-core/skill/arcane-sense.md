@@ -8,6 +8,7 @@ tags:
 aliases: ["Arcane Sense"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5119"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Arcane Sense  *Feat 1*

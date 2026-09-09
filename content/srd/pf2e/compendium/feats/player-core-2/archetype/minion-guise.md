@@ -8,6 +8,7 @@ tags:
 aliases: ["Minion Guise"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6426"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Minion Guise  *Feat 4*

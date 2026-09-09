@@ -7,6 +7,7 @@ tags:
 aliases: ["Secondary Adaptation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5390"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Secondary Adaptation  *Feat 5*

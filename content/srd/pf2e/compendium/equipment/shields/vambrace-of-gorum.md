@@ -10,6 +10,7 @@ tags:
 aliases: ["Vambrace of Gorum"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3834"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Vambrace of Gorum  *Item 20*

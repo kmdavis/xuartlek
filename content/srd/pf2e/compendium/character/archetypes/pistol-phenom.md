@@ -7,6 +7,7 @@ tags:
 aliases: ["Pistol Phenom"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=120"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Pistol Phenom  *Archetype 2*

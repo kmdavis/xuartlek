@@ -8,6 +8,7 @@ tags:
 aliases: ["Unerring Runic Attraction"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9209"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Unerring Runic Attraction  *Feat 14*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

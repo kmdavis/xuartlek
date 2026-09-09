@@ -9,6 +9,7 @@ tags:
 aliases: ["Gambler's Staff"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2251"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Gambler's Staff  *Item 12*

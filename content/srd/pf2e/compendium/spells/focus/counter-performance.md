@@ -13,6 +13,7 @@ tags:
 aliases: ["Counter Performance"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1762"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Counter Performance  *Focus 1*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

@@ -6,6 +6,7 @@ tags:
 aliases: ["Unassailable Soul"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=65"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Unassailable Soul  *Class Feature 7*

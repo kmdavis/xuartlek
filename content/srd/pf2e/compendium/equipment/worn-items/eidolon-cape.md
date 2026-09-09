@@ -9,6 +9,7 @@ tags:
 aliases: ["Eidolon Cape"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2323"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Eidolon Cape  *Item 11*

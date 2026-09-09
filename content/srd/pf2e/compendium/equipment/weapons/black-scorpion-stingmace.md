@@ -9,6 +9,7 @@ tags:
 aliases: ["Black Scorpion Stingmace"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3202"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Black Scorpion Stingmace  *Item 15*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Courtier's Pillow Book"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2176"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Courtier's Pillow Book  *Item 6*

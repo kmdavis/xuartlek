@@ -7,6 +7,7 @@ tags:
 aliases: ["Enterprising Ritualist"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6393"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Enterprising Ritualist  *Feat 14*

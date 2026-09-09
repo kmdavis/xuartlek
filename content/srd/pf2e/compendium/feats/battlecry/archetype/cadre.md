@@ -8,6 +8,7 @@ tags:
 aliases: ["Cadre"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7998"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Cadre  *Feat 6*

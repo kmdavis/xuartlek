@@ -9,6 +9,7 @@ tags:
 aliases: ["Barding of the Zephyr"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3014"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Barding of the Zephyr  *Item 10*

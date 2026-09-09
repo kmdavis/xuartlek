@@ -14,6 +14,7 @@ name: "Archon Bastion"
 level: 16
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3903"
+socialImage: og-image.png
 ---
 
 ```statblock

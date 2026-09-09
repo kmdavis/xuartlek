@@ -11,6 +11,7 @@ tags:
 aliases: ["Pistolero's Challenge"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3174"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Pistolero's Challenge  *Feat 6*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

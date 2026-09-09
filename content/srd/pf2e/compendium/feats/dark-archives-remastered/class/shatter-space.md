@@ -8,6 +8,7 @@ tags:
 aliases: ["Shatter Space"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8342"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Shatter Space  *Feat 14*

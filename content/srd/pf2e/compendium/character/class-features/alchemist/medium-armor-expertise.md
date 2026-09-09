@@ -6,6 +6,7 @@ tags:
 aliases: ["Medium Armor Expertise"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=56"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Medium Armor Expertise  *Class Feature 13*

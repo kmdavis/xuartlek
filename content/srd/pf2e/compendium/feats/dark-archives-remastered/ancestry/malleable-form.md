@@ -7,6 +7,7 @@ tags:
 aliases: ["Malleable Form"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8445"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Malleable Form  *Feat 13*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

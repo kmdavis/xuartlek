@@ -9,6 +9,7 @@ tags:
 aliases: ["Pistol Wand"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3589"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Pistol Wand  *Item 4*

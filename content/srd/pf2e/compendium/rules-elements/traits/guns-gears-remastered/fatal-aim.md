@@ -6,6 +6,7 @@ tags:
 aliases: ["Fatal Aim"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=404"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Fatal Aim  *Trait*

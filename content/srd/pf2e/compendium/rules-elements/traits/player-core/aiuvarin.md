@@ -7,6 +7,7 @@ tags:
 aliases: ["Aiuvarin"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=515"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Aiuvarin  *Trait*

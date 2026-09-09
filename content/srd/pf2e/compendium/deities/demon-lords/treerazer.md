@@ -5,6 +5,7 @@ tags:
 aliases: ["Treerazer"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=324"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Treerazer  *Deity*

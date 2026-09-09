@@ -7,6 +7,7 @@ tags:
 aliases: ["Regrowth"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4511"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Regrowth  *Feat 17*

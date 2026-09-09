@@ -8,6 +8,7 @@ tags:
 aliases: ["Fortunate Blow"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7819"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Fortunate Blow  *Feat 12*

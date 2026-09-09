@@ -7,6 +7,7 @@ tags:
 aliases: ["Enjoy the Show"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6139"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Enjoy the Show  *Feat 2*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Searing Blade"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2870"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Searing Blade  *Item 13+*

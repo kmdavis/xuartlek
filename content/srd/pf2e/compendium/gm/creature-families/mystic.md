@@ -5,11 +5,12 @@ tags:
 aliases: ["Mystic"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=544"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Mystic  *Creature Family*
 
-Hidden secrets and occult powers have an irresistible lure for many. Since the majority of these NPCs are spellcasters, consider using [[srd/pf2e/books/npc-core/themed-spell-lists/index|alternative spell lists]] to adjust their themes.
+Hidden secrets and occult powers have an irresistible lure for many. Since the majority of these NPCs are spellcasters, consider using [[srd/pf2e/books/npc-core/themed-spell-lists/themed-spell-lists|alternative spell lists]] to adjust their themes.
 
 ### Members
 

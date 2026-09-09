@@ -8,6 +8,7 @@ tags:
 aliases: ["Animal Staff"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3035"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Animal Staff  *Item 4+*

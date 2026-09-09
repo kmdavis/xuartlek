@@ -8,6 +8,7 @@ tags:
 aliases: ["Mage Hunter"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5830"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Mage Hunter  *Feat 6*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

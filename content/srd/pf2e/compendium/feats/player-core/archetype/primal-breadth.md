@@ -7,6 +7,7 @@ tags:
 aliases: ["Primal Breadth"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5078"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Primal Breadth  *Feat 8*

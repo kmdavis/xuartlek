@@ -9,6 +9,7 @@ tags:
 aliases: ["Shield Spell Reinforcement"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7978"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Shield Spell Reinforcement  *Feat 4*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

@@ -7,6 +7,7 @@ tags:
 aliases: ["Extended Kinesis"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4184"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Extended Kinesis  *Feat 1*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Targeted Redirection"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3261"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Targeted Redirection  *Feat 6*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

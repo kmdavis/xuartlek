@@ -6,6 +6,7 @@ tags:
 aliases: ["Versatile"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=724"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Versatile  *Trait*

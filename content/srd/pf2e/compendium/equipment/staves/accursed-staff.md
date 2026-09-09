@@ -8,6 +8,7 @@ tags:
 aliases: ["Accursed Staff"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2244"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Accursed Staff  *Item 6+*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Marshal"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=254"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Marshal  *Archetype 2*

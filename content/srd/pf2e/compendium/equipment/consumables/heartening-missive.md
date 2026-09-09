@@ -9,6 +9,7 @@ tags:
 aliases: ["Heartening Missive"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2063"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Heartening Missive  *Item 5+*

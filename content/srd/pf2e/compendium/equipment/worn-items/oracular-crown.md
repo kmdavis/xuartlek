@@ -9,6 +9,7 @@ tags:
 aliases: ["Oracular Crown"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2329"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Oracular Crown  *Item 11*

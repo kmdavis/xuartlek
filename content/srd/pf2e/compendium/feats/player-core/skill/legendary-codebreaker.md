@@ -8,6 +8,7 @@ tags:
 aliases: ["Legendary Codebreaker"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5167"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Legendary Codebreaker  *Feat 15*

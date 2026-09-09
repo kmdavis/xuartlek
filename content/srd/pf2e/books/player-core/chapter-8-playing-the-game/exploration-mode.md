@@ -9,6 +9,7 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2440"
 citation: "Player Core pg. 438"
+socialImage: og-image.png
 ---
 
 # Exploration Mode
@@ -132,7 +133,7 @@ You Seek meticulously for hidden doors, concealed hazards, and so on. You can us
 
 > [!pf2-sidebar] SKILL EXPLORATION ACTIVITIES
 >
-> [[srd/pf2e/books/player-core/chapter-4-skills/index|Chapter 4: Skills]] includes additional exploration activities.
+> [[srd/pf2e/books/player-core/chapter-4-skills/chapter-4-skills|Chapter 4: Skills]] includes additional exploration activities.
 >
 > **[[srd/pf2e/compendium/rules-elements/actions/player-core#Borrow an Arcane Spell|Borrow an Arcane Spell]]:** You use [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] to prepare a spell from someone else's spellbook.
 > **[[srd/pf2e/compendium/rules-elements/actions/player-core#Coerce|Coerce]]:** You use [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] to threaten a creature so it does what you want.

@@ -8,6 +8,7 @@ tags:
 aliases: ["Siege Shield"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3830"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Siege Shield  *Item 3*

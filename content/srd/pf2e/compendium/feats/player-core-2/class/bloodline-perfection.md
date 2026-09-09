@@ -7,6 +7,7 @@ tags:
 aliases: ["Bloodline Perfection"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6125"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Bloodline Perfection  *Feat 20*

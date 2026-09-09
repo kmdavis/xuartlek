@@ -5,6 +5,7 @@ tags:
 aliases: ["Waves of the Boundless Sea"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=375"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Waves of the Boundless Sea  *Deity*

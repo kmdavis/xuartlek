@@ -11,6 +11,7 @@ tags:
 aliases: ["Perceive the Threads of Fate"]
 aon_url: "https://2e.aonprd.com/MythicSpells.aspx?ID=2159"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Perceive the Threads of Fate  *Spell 3*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

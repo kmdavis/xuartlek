@@ -8,6 +8,7 @@ tags:
 aliases: ["Propeller Attachment"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3136"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Propeller Attachment  *Feat 7*

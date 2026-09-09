@@ -6,6 +6,7 @@ tags:
 aliases: ["Guerrilla"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=327"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Guerrilla  *Archetype 2*

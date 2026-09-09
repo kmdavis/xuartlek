@@ -8,6 +8,7 @@ tags:
 aliases: ["Harpoon Cannon"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=24"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Harpoon Cannon  *Siege Weapon 7*

@@ -13,6 +13,7 @@ tags:
 aliases: ["Effortless Concentration"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4629"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Effortless Concentration  *Feat 16*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

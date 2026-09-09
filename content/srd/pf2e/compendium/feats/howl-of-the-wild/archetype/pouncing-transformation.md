@@ -8,6 +8,7 @@ tags:
 aliases: ["Pouncing Transformation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5508"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Pouncing Transformation  *Feat 12*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

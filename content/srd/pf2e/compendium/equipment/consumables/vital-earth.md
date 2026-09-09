@@ -9,6 +9,7 @@ tags:
 aliases: ["Vital Earth"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2598"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Vital Earth  *Item 9*

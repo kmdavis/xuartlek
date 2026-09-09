@@ -9,6 +9,7 @@ tags:
 aliases: ["Moment of Renewal"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1607"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Moment of Renewal  *Spell 8*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

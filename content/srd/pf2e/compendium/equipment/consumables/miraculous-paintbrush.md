@@ -9,6 +9,7 @@ tags:
 aliases: ["Miraculous Paintbrush"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2120"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Miraculous Paintbrush  *Item 12*

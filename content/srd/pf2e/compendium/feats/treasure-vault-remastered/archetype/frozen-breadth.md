@@ -7,6 +7,7 @@ tags:
 aliases: ["Frozen Breadth"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4099"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Frozen Breadth  *Feat 8*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Accursed Claws"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4539"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Accursed Claws  *Feat 9*

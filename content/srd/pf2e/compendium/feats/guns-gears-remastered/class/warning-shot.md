@@ -7,6 +7,7 @@ tags:
 aliases: ["Warning Shot"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3164"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Warning Shot  *Feat 2*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

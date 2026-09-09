@@ -7,6 +7,7 @@ tags:
 aliases: ["Close Quarters"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5624"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Close Quarters  *Feat 9*

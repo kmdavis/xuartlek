@@ -8,6 +8,7 @@ tags:
 aliases: ["Sky Hammer"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2872"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Sky Hammer  *Item 20*

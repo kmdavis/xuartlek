@@ -7,6 +7,7 @@ tags:
 aliases: ["Distracting Shot"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4893"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Distracting Shot  *Feat 12*

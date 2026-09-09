@@ -7,6 +7,7 @@ tags:
 aliases: ["Winged"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2796"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Winged  *Item 13+*

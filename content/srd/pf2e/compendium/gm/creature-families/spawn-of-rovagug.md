@@ -5,6 +5,7 @@ tags:
 aliases: ["Spawn of Rovagug"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=621"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Spawn of Rovagug  *Creature Family*

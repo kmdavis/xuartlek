@@ -9,6 +9,7 @@ tags:
 aliases: ["Life Shot"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1899"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Life Shot  *Item 2+*

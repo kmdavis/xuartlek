@@ -8,6 +8,7 @@ tags:
 aliases: ["Brutal Finish"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4832"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Brutal Finish  *Feat 12*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

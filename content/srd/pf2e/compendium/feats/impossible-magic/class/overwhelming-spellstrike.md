@@ -7,6 +7,7 @@ tags:
 aliases: ["Overwhelming Spellstrike"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9081"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Overwhelming Spellstrike  *Feat 12*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

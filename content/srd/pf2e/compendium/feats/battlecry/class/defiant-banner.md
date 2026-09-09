@@ -11,6 +11,7 @@ tags:
 aliases: ["Defiant Banner"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7811"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Defiant Banner  *Feat 8*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

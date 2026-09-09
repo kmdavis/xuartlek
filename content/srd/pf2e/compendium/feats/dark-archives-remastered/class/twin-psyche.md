@@ -7,6 +7,7 @@ tags:
 aliases: ["Twin Psyche"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8350"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Twin Psyche  *Feat 18*

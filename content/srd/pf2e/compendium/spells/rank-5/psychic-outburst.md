@@ -9,6 +9,7 @@ tags:
 aliases: ["Psychic Outburst"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2795"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Psychic Outburst  *Spell 5*  [??](books/player-core/chapter-8-playing-the-game/actions#Actions "Duration or Frequency")

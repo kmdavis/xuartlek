@@ -7,6 +7,7 @@ tags:
 aliases: ["Control Weather"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=116"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Control Weather  *Ritual 8*

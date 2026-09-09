@@ -8,6 +8,7 @@ tags:
 aliases: ["Poisonous Mold"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=478"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Poisonous Mold  *Hazard 2*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Hasted Assault"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9084"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Hasted Assault  *Feat 14*

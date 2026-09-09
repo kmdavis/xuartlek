@@ -5,6 +5,7 @@ tags:
 aliases: ["Shadow"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=469"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Shadow  *Creature Family*

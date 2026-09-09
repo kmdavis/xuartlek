@@ -11,6 +11,7 @@ tags:
 aliases: ["Dread Helm"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1976"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Dread Helm  *Item 4*

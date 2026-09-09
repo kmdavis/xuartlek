@@ -5,6 +5,7 @@ tags:
 aliases: ["Wolf"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=485"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Wolf  *Creature Family*

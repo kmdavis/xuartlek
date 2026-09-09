@@ -10,6 +10,7 @@ tags:
 aliases: ["Arquebus"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=518"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Arquebus  *Weapon 0*

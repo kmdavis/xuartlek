@@ -7,6 +7,7 @@ tags:
 aliases: ["Lodestone Shield"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2824"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Lodestone Shield  *Item 11*

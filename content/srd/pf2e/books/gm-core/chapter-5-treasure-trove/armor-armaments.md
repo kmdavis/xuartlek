@@ -9,6 +9,7 @@ tags:
 source: "GM Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3161"
 citation: "GM Core pg. 224"
+socialImage: og-image.png
 ---
 
 # Armor & Armaments

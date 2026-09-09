@@ -7,6 +7,7 @@ tags:
 aliases: ["Dawnsilver Shield"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2814"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Dawnsilver Shield  *Item 8+*

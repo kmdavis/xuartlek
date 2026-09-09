@@ -7,6 +7,7 @@ tags:
 aliases: ["Surprise Strike"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6442"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Surprise Strike  *Feat 6*

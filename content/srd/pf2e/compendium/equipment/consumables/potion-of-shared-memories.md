@@ -10,6 +10,7 @@ tags:
 aliases: ["Potion of Shared Memories"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2952"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Potion of Shared Memories  *Item 1*

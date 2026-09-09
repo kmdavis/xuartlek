@@ -8,6 +8,7 @@ tags:
 aliases: ["Wasp Guard"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1855"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wasp Guard  *Item 8*

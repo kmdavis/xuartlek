@@ -11,6 +11,7 @@ tags:
 aliases: ["Wooden Nickel"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2115"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wooden Nickel  *Item 9*

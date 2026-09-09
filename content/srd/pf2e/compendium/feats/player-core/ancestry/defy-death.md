@@ -7,6 +7,7 @@ tags:
 aliases: ["Defy Death"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4522"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Defy Death  *Feat 5*

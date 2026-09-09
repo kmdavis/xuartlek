@@ -7,6 +7,7 @@ tags:
 aliases: ["Chaplain's Cudgel"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2864"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Chaplain's Cudgel  *Item 9*

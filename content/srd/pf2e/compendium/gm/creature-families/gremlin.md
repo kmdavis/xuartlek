@@ -5,6 +5,7 @@ tags:
 aliases: ["Gremlin"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=424"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Gremlin  *Creature Family*

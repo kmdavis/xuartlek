@@ -8,6 +8,7 @@ tags:
 aliases: ["Rustbringer"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2617"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Rustbringer  *Item 10+*

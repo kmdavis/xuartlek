@@ -8,6 +8,7 @@ tags:
 aliases: ["Legendary Guide"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6492"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Legendary Guide  *Feat 15*

@@ -11,6 +11,7 @@ tags:
 aliases: ["Danse Macabre"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7971"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Danse Macabre  *Feat 12*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

@@ -9,6 +9,7 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2456"
 citation: "Player Core pg. 442"
+socialImage: og-image.png
 ---
 
 # Condition Values

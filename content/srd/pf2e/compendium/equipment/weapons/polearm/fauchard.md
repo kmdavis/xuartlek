@@ -10,6 +10,7 @@ tags:
 aliases: ["Fauchard"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=529"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Fauchard  *Weapon 0*

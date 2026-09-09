@@ -8,6 +8,7 @@ tags:
 aliases: ["Sap Life"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4652"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Sap Life  *Feat 2*

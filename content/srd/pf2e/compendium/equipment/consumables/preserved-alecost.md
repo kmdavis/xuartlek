@@ -9,6 +9,7 @@ tags:
 aliases: ["Preserved Alecost"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5062"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Preserved Alecost  *Item 2*

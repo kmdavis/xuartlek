@@ -9,6 +9,7 @@ tags:
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3364"
 citation: "NPC Core pg. 7"
+socialImage: og-image.png
 ---
 
 # Troops

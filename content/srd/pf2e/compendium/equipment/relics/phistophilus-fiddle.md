@@ -9,6 +9,7 @@ tags:
 aliases: ["Phistophilus Fiddle"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2408"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Phistophilus Fiddle  *Item 3*

@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/battlecry
 aliases: ["Actions: Battlecry!"]
 entries: 8
+socialImage: og-image.png
 ---
 
 # Actions: Battlecry!

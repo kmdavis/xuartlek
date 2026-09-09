@@ -6,6 +6,7 @@ tags:
 aliases: ["Writing Set"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2762"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Writing Set  *Item 0+*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Healer's Toolkit"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2727"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Healer's Toolkit  *Item 0+*

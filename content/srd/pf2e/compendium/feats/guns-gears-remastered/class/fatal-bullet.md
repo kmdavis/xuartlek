@@ -7,6 +7,7 @@ tags:
 aliases: ["Fatal Bullet"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3204"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Fatal Bullet  *Feat 16*

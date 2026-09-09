@@ -5,6 +5,7 @@ tags:
 aliases: ["Caligni"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=375"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Caligni  *Creature Family*

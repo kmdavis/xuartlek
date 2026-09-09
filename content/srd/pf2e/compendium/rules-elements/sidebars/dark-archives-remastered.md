@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/dark-archives-remastered
 aliases: ["Sidebars: Dark Archives (Remastered)"]
 entries: 10
+socialImage: og-image.png
 ---
 
 # Sidebars: Dark Archives (Remastered)
@@ -18,7 +19,7 @@ While some alter egos work independently as freelancers, they're especially popu
 
 ## Binary Mindscape Statistics
 
-- **Parent page**: [[srd/pf2e/books/dark-archives-remastered/psychic-duels/index|Psychic Duels]]
+- **Parent page**: [[srd/pf2e/books/dark-archives-remastered/psychic-duels/psychic-duels|Psychic Duels]]
 
 Psychic duels take place in a binary mindscape, which is much like a very simple plane or dimension. It can be easily altered by its inhabitants during the duel. The stat block for a binary mindscape is as follows. 
 
@@ -69,7 +70,7 @@ If your progenitor is deceased, you might be able to take over their life. It mi
 
 ## Imagery of a Psychic Duel
 
-- **Parent page**: [[srd/pf2e/books/dark-archives-remastered/psychic-duels/index|Psychic Duels]]
+- **Parent page**: [[srd/pf2e/books/dark-archives-remastered/psychic-duels/psychic-duels|Psychic Duels]]
 
 Upon entering the psychic duel, a creature's psychic avatar appears in the minds of the duelists. This mental manifestation looks vaguely like them but might be altered based on their mental abilities and the statistics they used for initiative. For instance, a creature that rolled Deception might appear cloaked, shadowy, or diabolic. Over the course of the battle, this avatar changes appearance multiple times, adapting to the flow of the duel. A vicious, powerful attack might cause the attacker to look more fearsome or increase the splendor of their imaginary attire; a failure might make them shrink or become translucent. Armor might change form to defend against varied manifestations.
 

@@ -11,6 +11,7 @@ tags:
 aliases: ["Instigate Psychic Duel"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8503"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Instigate Psychic Duel  *Feat 12*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")
@@ -25,7 +26,7 @@ You attempt to enter a psychic duel with a creature within 100 feet. The target 
 
 **Critical Success** The target is unaffected.
 
-**Success** The two of you enter a [[srd/pf2e/books/dark-archives-remastered/psychic-duels/index|psychic duel]], but it ends automatically at the end of your next turn. As normal for a psychic duel, the duel ends if one participant is knocked out, as well as under any other conditions to which both participants agree. If you're in initiative when you Instigate the Psychic Duel, you keep the same initiative positions. You can each choose a psychic center for any skill in which you're trained, as you would if you were using that skill to roll initiative for the duel.
+**Success** The two of you enter a [[srd/pf2e/books/dark-archives-remastered/psychic-duels/psychic-duels|psychic duel]], but it ends automatically at the end of your next turn. As normal for a psychic duel, the duel ends if one participant is knocked out, as well as under any other conditions to which both participants agree. If you're in initiative when you Instigate the Psychic Duel, you keep the same initiative positions. You can each choose a psychic center for any skill in which you're trained, as you would if you were using that skill to roll initiative for the duel.
 
 **Failure** As a success, except instead of ending at the end of your next turn, the target can attempt a new save to end the duel at the end of each of your turns, starting with your next turn.
 

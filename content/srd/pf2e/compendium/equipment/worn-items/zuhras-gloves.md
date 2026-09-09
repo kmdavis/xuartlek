@@ -9,6 +9,7 @@ tags:
 aliases: ["Zuhra's Gloves"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2622"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Zuhra's Gloves  *Item 13*

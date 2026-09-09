@@ -7,6 +7,7 @@ tags:
 aliases: ["Gnome"]
 aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=61"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Gnome  *Ancestry*

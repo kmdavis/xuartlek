@@ -9,6 +9,7 @@ tags:
 aliases: ["Tidal Crossbow"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3211"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Tidal Crossbow  *Item 13*

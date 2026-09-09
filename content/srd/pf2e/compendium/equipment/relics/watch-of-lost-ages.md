@@ -9,6 +9,7 @@ tags:
 aliases: ["Watch of Lost Ages"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2410"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Watch of Lost Ages  *Item 3*

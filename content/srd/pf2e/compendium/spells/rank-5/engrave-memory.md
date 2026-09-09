@@ -10,6 +10,7 @@ tags:
 aliases: ["Engrave Memory"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1330"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Engrave Memory  *Spell 5*

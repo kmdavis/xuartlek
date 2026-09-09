@@ -7,6 +7,7 @@ tags:
 aliases: ["Orc Lore"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4515"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Orc Lore  *Feat 1*

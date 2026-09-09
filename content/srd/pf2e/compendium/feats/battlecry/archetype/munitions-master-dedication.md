@@ -10,6 +10,7 @@ tags:
 aliases: ["Munitions Master Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7958"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Munitions Master Dedication  *Feat 2*

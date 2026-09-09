@@ -6,6 +6,7 @@ tags:
 aliases: ["Investigator"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=818"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Investigator  *Trait*

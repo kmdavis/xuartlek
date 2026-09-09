@@ -8,6 +8,7 @@ tags:
 aliases: ["Steel on Steel"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7162"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Steel on Steel  *Feat 4*

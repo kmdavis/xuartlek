@@ -7,6 +7,7 @@ tags:
 aliases: ["Slurp Up"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5480"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Slurp Up  *Feat 8*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

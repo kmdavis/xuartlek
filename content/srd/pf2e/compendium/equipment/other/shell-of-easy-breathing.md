@@ -8,6 +8,7 @@ tags:
 aliases: ["Shell of Easy Breathing"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2632"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Shell of Easy Breathing  *Item 5+*

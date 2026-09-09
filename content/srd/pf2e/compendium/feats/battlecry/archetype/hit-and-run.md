@@ -8,6 +8,7 @@ tags:
 aliases: ["Hit and Run"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7934"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Hit and Run  *Feat 6*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

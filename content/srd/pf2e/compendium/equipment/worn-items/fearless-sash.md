@@ -8,6 +8,7 @@ tags:
 aliases: ["Fearless Sash"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2311"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Fearless Sash  *Item 7*

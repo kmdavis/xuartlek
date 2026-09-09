@@ -11,6 +11,7 @@ name: "Reckless Scientist"
 level: 6
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3616"
+socialImage: og-image.png
 ---
 
 ```statblock

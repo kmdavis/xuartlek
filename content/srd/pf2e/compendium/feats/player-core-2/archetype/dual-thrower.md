@@ -7,6 +7,7 @@ tags:
 aliases: ["Dual Thrower"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6308"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Dual Thrower  *Feat 4*

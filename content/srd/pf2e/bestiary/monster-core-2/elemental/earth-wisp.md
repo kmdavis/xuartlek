@@ -11,6 +11,7 @@ name: "Earth Wisp"
 level: 0
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4395"
+socialImage: og-image.png
 ---
 
 ```statblock

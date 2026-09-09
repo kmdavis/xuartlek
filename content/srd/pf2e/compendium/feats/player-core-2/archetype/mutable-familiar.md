@@ -7,6 +7,7 @@ tags:
 aliases: ["Mutable Familiar"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6332"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Mutable Familiar  *Feat 8*

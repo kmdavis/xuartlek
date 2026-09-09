@@ -7,6 +7,7 @@ tags:
 aliases: ["Dual-Weapon Reload"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6309"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Dual-Weapon Reload  *Feat 4*

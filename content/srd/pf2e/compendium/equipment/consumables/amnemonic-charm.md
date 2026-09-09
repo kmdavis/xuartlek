@@ -10,6 +10,7 @@ tags:
 aliases: ["Amnemonic Charm"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2096"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Amnemonic Charm  *Item 9*

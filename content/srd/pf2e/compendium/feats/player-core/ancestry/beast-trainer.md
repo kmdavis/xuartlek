@@ -7,6 +7,7 @@ tags:
 aliases: ["Beast Trainer"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4512"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Beast Trainer  *Feat 1*

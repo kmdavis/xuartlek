@@ -6,6 +6,7 @@ tags:
 aliases: ["Aftermath"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=896"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Aftermath  *Trait*

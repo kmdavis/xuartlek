@@ -13,6 +13,7 @@ tags:
 aliases: ["Fallow Field"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2382"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Fallow Field  *Focus 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

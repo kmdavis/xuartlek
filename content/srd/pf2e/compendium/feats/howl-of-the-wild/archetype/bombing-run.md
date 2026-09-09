@@ -7,6 +7,7 @@ tags:
 aliases: ["Bombing Run"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5539"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Bombing Run  *Feat 14*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

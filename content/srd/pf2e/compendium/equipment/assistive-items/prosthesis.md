@@ -6,6 +6,7 @@ tags:
 aliases: ["Prosthesis"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2776"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Prosthesis  *Item 0*

@@ -12,6 +12,7 @@ tags:
 aliases: ["Primal Chaos Aura"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=461"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Primal Chaos Aura  *Hazard 5*

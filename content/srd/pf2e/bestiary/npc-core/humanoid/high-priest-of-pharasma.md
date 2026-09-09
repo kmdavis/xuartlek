@@ -11,6 +11,7 @@ name: "High Priest of Pharasma"
 level: 9
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3447"
+socialImage: og-image.png
 ---
 
 ```statblock

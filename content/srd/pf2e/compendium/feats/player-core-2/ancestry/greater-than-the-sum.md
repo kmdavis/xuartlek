@@ -7,6 +7,7 @@ tags:
 aliases: ["Greater than the Sum"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5672"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Greater than the Sum  *Feat 17*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Hei Feng"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=307"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Hei Feng  *Deity*

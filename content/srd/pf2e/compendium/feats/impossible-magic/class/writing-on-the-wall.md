@@ -7,6 +7,7 @@ tags:
 aliases: ["Writing on the Wall"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9186"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Writing on the Wall  *Feat 4*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Frog"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=494"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Frog  *Creature Family*

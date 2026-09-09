@@ -8,6 +8,7 @@ tags:
 aliases: ["Twining Staff"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2874"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Twining Staff  *Item 6*

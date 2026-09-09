@@ -6,6 +6,7 @@ tags:
 aliases: ["Unbounded"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=720"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Unbounded  *Trait*

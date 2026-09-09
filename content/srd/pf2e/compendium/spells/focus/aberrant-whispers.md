@@ -12,6 +12,7 @@ tags:
 aliases: ["Aberrant Whispers"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2091"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Aberrant Whispers  *Focus 3*  [?](books/player-core/chapter-8-playing-the-game/actions#Actions "Varies")

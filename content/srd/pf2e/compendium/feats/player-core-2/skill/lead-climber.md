@@ -8,6 +8,7 @@ tags:
 aliases: ["Lead Climber"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6491"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Lead Climber  *Feat 2*

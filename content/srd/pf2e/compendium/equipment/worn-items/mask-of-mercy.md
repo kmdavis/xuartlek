@@ -8,6 +8,7 @@ tags:
 aliases: ["Mask of Mercy"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2350"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mask of Mercy  *Item 4*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Animal Allies"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2630"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Animal Allies  *Spell 1*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

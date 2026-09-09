@@ -7,6 +7,7 @@ tags:
 aliases: ["Embodied Font"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=187"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Embodied Font  *Ritual 8*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Helm of Zeal"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3435"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Helm of Zeal  *Item 11+*

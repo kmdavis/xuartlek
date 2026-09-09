@@ -6,6 +6,7 @@ tags:
 aliases: ["Kinetic Quickness"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=23"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Kinetic Quickness  *Class Feature 11*

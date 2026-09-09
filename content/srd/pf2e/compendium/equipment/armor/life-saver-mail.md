@@ -8,6 +8,7 @@ tags:
 aliases: ["Life-Saver Mail"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2808"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Life-Saver Mail  *Item 14+*

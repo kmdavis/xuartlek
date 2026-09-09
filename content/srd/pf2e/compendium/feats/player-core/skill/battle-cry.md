@@ -8,6 +8,7 @@ tags:
 aliases: ["Battle Cry"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5124"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Battle Cry  *Feat 7*

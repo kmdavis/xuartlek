@@ -9,6 +9,7 @@ tags:
 aliases: ["Void Sickle"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5031"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Void Sickle  *Item 6*

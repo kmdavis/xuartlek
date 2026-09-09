@@ -5,6 +5,7 @@ tags:
 aliases: ["Fortune's Fate"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=378"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Fortune's Fate  *Deity*

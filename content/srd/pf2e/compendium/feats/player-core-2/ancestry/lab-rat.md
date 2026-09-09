@@ -7,6 +7,7 @@ tags:
 aliases: ["Lab Rat"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5660"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Lab Rat  *Feat 5*

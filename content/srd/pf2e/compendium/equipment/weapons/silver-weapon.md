@@ -6,6 +6,7 @@ tags:
 aliases: ["Silver Weapon"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2860"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Silver Weapon  *Item 2+*

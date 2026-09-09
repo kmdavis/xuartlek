@@ -9,6 +9,7 @@ tags:
 aliases: ["Plane-Stepping Dash"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7775"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Plane-Stepping Dash  *Feat 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

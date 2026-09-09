@@ -10,6 +10,7 @@ tags:
 aliases: ["Call of the Void"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=644"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Call of the Void  *Hazard 12*

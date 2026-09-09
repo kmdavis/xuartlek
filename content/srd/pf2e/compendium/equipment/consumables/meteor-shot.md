@@ -11,6 +11,7 @@ tags:
 aliases: ["Meteor Shot"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1196"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Meteor Shot  *Item 7+*

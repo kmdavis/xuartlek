@@ -6,6 +6,7 @@ tags:
 aliases: ["Darvakka"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=875"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Darvakka  *Trait*

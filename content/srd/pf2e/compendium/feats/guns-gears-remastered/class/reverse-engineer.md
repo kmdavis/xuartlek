@@ -7,6 +7,7 @@ tags:
 aliases: ["Reverse Engineer"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3053"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Reverse Engineer  *Feat 2*

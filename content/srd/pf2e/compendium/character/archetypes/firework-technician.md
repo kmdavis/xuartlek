@@ -7,6 +7,7 @@ tags:
 aliases: ["Firework Technician"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=119"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Firework Technician  *Archetype 2*

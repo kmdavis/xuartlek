@@ -7,6 +7,7 @@ tags:
 aliases: ["Phantasmal Custodians"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=151"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Phantasmal Custodians  *Ritual 3*

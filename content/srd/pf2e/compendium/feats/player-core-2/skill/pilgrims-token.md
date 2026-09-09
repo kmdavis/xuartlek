@@ -8,6 +8,7 @@ tags:
 aliases: ["Pilgrim's Token"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6496"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Pilgrim's Token  *Feat 1*

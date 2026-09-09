@@ -6,6 +6,7 @@ tags:
 aliases: ["Time"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=712"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Time  *Trait*

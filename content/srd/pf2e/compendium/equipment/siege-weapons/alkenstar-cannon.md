@@ -8,6 +8,7 @@ tags:
 aliases: ["Alkenstar Cannon"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=20"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Alkenstar Cannon  *Siege Weapon 15*

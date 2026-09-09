@@ -9,6 +9,7 @@ tags:
 aliases: ["Stone Forge of the First"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9220"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Stone Forge of the First  *Feat 20*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

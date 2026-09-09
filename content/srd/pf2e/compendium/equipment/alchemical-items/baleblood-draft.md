@@ -10,6 +10,7 @@ tags:
 aliases: ["Baleblood Draft"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4111"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Baleblood Draft  *Item 10*

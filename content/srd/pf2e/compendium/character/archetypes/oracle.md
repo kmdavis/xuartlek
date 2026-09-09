@@ -6,6 +6,7 @@ tags:
 aliases: ["Oracle"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=233"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Oracle  *Archetype 2*

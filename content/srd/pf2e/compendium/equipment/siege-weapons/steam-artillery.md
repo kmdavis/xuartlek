@@ -8,6 +8,7 @@ tags:
 aliases: ["Steam Artillery"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=63"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Steam Artillery  *Siege Weapon 5*

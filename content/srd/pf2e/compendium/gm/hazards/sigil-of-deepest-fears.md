@@ -8,6 +8,7 @@ tags:
 aliases: ["Sigil of Deepest Fears"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=636"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sigil of Deepest Fears  *Hazard 17*

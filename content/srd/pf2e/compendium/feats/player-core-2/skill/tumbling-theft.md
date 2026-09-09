@@ -8,6 +8,7 @@ tags:
 aliases: ["Tumbling Theft"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6513"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Tumbling Theft  *Feat 7*

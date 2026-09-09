@@ -9,6 +9,7 @@ tags:
 aliases: ["Ritualist Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6388"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Ritualist Dedication  *Feat 4*

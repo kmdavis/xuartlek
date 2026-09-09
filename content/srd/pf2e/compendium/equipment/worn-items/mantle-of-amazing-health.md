@@ -9,6 +9,7 @@ tags:
 aliases: ["Mantle of Amazing Health"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2140"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mantle of Amazing Health  *Item 19*

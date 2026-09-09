@@ -6,6 +6,7 @@ tags:
 aliases: ["Premonition’s Reflexes"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=61"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Premonition’s Reflexes  *Class Feature 13*

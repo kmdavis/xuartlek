@@ -7,6 +7,7 @@ tags:
 aliases: ["Power Hungry"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9160"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Power Hungry  *Feat 18*

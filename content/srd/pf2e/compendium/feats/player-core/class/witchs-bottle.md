@@ -7,6 +7,7 @@ tags:
 aliases: ["Witch’s Bottle"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5008"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Witch’s Bottle  *Feat 8*

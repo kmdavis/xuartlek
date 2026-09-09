@@ -9,6 +9,7 @@ tags:
 aliases: ["Deep Pockets"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3809"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Deep Pockets  *Item 6*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Infiltration Assassination"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7919"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Infiltration Assassination  *Feat 10*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

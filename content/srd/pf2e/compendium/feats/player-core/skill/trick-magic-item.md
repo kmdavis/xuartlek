@@ -9,6 +9,7 @@ tags:
 aliases: ["Trick Magic Item"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5229"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Trick Magic Item  *Feat 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

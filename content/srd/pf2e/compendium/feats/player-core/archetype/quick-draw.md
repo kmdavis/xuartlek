@@ -9,6 +9,7 @@ tags:
 aliases: ["Quick Draw"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4869"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Quick Draw  *Feat 2*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

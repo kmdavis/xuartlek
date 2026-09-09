@@ -7,6 +7,7 @@ tags:
 aliases: ["Far Lobber"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5763"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Far Lobber  *Feat 1*

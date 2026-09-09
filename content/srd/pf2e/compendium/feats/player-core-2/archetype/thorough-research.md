@@ -7,6 +7,7 @@ tags:
 aliases: ["Thorough Research"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5954"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Thorough Research  *Feat 6*

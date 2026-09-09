@@ -8,6 +8,7 @@ tags:
 aliases: ["Rest Eternal"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=153"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Rest Eternal  *Ritual 4*

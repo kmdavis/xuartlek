@@ -14,6 +14,7 @@ tags:
 aliases: ["Hallowed Earth"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9120"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Hallowed Earth  *Feat 6*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

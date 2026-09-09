@@ -9,6 +9,7 @@ tags:
 aliases: ["Eye Slash"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2206"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Eye Slash  *Item 1+*

@@ -11,6 +11,7 @@ tags:
 aliases: ["Summon Oliphaunt Of Jandelay"]
 aon_url: "https://2e.aonprd.com/MythicSpells.aspx?ID=2162"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Summon Oliphaunt Of Jandelay  *Spell 10*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

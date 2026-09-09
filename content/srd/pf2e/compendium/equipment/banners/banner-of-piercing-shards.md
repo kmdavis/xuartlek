@@ -9,6 +9,7 @@ tags:
 aliases: ["Banner of Piercing Shards"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3904"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Banner of Piercing Shards  *Item 8+*

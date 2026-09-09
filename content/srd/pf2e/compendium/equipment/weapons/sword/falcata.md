@@ -7,6 +7,7 @@ tags:
 aliases: ["Falcata"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=282"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Falcata  *Weapon 0*

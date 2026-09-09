@@ -7,6 +7,7 @@ tags:
 aliases: ["Guardian's Intercept"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7896"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Guardian's Intercept  *Feat 6*

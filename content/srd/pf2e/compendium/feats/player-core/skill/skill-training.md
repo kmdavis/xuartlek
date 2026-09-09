@@ -8,6 +8,7 @@ tags:
 aliases: ["Skill Training"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5214"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Skill Training  *Feat 1*

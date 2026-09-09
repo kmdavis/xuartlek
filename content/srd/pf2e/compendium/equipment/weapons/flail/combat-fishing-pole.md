@@ -11,6 +11,7 @@ tags:
 aliases: ["Combat Fishing Pole"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=508"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Combat Fishing Pole  *Weapon 0*

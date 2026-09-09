@@ -9,6 +9,7 @@ tags:
 aliases: ["Lightweave Scarf"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2234"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Lightweave Scarf  *Item 8+*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Staff of Air"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2260"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Staff of Air  *Item 3+*

@@ -11,6 +11,7 @@ tags:
 aliases: ["Quicksilver Mutagen"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3319"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Quicksilver Mutagen  *Item 1+*

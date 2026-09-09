@@ -10,6 +10,7 @@ tags:
 aliases: ["Heroic Recovery"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4676"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Heroic Recovery  *Feat 10*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

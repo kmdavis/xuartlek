@@ -7,6 +7,7 @@ tags:
 aliases: ["Divine Countermeasures"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4559"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Divine Countermeasures  *Feat 9*

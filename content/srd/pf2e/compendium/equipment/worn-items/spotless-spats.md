@@ -8,6 +8,7 @@ tags:
 aliases: ["Spotless Spats"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3979"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Spotless Spats  *Item 2*

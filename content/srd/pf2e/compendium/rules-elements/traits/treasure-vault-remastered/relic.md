@@ -6,6 +6,7 @@ tags:
 aliases: ["Relic"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=494"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Relic  *Trait*

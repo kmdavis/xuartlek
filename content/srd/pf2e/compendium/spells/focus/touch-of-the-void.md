@@ -12,6 +12,7 @@ tags:
 aliases: ["Touch of the Void"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2048"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Touch of the Void  *Focus 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

@@ -7,6 +7,7 @@ tags:
 aliases: ["Large Bore Modifications"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1223"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Large Bore Modifications  *Item 5*

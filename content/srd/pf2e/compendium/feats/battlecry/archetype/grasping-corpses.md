@@ -7,6 +7,7 @@ tags:
 aliases: ["Grasping Corpses"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7966"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Grasping Corpses  *Feat 8*

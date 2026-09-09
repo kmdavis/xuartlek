@@ -9,6 +9,7 @@ tags:
 aliases: ["Pistol Phenom Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3251"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Pistol Phenom Dedication  *Feat 2*

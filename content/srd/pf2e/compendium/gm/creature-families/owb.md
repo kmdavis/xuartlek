@@ -5,6 +5,7 @@ tags:
 aliases: ["Owb"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=614"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Owb  *Creature Family*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Nodachi"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=298"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Nodachi  *Weapon 0*

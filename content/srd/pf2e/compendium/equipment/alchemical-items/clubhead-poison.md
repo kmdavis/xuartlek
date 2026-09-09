@@ -10,6 +10,7 @@ tags:
 aliases: ["Clubhead Poison"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1998"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Clubhead Poison  *Item 12*

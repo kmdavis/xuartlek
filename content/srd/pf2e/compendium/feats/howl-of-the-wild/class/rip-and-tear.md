@@ -8,6 +8,7 @@ tags:
 aliases: ["Rip and Tear"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5401"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Rip and Tear  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

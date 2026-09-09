@@ -7,6 +7,7 @@ tags:
 aliases: ["Skillful Tail"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4557"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Skillful Tail  *Feat 5*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Blossoming Gore"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9130"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Blossoming Gore  *Feat 10*

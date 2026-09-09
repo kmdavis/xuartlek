@@ -7,6 +7,7 @@ tags:
 aliases: ["Heal Mount"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5906"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Heal Mount  *Feat 8*

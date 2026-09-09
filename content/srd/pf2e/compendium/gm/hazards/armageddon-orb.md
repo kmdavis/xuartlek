@@ -9,6 +9,7 @@ tags:
 aliases: ["Armageddon Orb"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=465"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Armageddon Orb  *Hazard 23*

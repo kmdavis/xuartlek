@@ -13,6 +13,7 @@ tags:
 aliases: ["Captivating Score"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2060"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Captivating Score  *Item 11*

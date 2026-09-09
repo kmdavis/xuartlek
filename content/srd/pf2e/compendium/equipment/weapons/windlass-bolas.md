@@ -8,6 +8,7 @@ tags:
 aliases: ["Windlass Bolas"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1873"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Windlass Bolas  *Item 6*

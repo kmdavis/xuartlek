@@ -7,6 +7,7 @@ tags:
 aliases: ["Titanic Flytrap"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=485"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Titanic Flytrap  *Hazard 4*

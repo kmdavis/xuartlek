@@ -9,6 +9,7 @@ tags:
 aliases: ["Exploding Earth"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1331"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Exploding Earth  *Spell 2*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

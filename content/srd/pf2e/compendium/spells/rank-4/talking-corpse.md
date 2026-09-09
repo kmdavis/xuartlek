@@ -9,6 +9,7 @@ tags:
 aliases: ["Talking Corpse"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1712"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Talking Corpse  *Spell 4*

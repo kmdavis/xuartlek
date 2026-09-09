@@ -7,6 +7,7 @@ tags:
 aliases: ["Reflect Foe"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8447"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Reflect Foe  *Feat 17*

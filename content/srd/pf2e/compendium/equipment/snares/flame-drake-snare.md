@@ -13,6 +13,7 @@ tags:
 aliases: ["Flame Drake Snare"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1127"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Flame Drake Snare  *Item 5*

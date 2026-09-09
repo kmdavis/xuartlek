@@ -7,6 +7,7 @@ tags:
 aliases: ["Expert Druid Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5079"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Expert Druid Spellcasting  *Feat 12*

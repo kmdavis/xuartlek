@@ -8,6 +8,7 @@ tags:
 aliases: ["Healer's Gloves"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3087"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Healer's Gloves  *Item 4+*

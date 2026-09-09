@@ -11,6 +11,7 @@ tags:
 aliases: ["Grinning Pugwampi"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2107"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Grinning Pugwampi  *Item 14*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Wild Speech"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5520"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Wild Speech  *Feat 6*

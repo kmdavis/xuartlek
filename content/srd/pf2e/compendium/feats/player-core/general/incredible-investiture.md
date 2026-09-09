@@ -7,6 +7,7 @@ tags:
 aliases: ["Incredible Investiture"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5161"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Incredible Investiture  *Feat 11*

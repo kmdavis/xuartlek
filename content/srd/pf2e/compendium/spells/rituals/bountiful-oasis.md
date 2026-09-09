@@ -8,6 +8,7 @@ tags:
 aliases: ["Bountiful Oasis"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=103"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Bountiful Oasis  *Ritual 5*

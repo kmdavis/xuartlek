@@ -9,6 +9,7 @@ tags:
 aliases: ["Ankhrav Carapace"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3802"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Ankhrav Carapace  *Item 7*

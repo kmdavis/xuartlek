@@ -10,6 +10,7 @@ tags:
 aliases: ["Plasma Whirl"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2791"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Plasma Whirl  *Spell 5*  [?](books/player-core/chapter-8-playing-the-game/actions#Actions "Varies")

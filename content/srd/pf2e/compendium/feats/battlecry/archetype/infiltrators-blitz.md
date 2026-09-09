@@ -7,6 +7,7 @@ tags:
 aliases: ["Infiltrator's Blitz"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7921"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Infiltrator's Blitz  *Feat 16*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

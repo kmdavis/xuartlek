@@ -9,6 +9,7 @@ tags:
 aliases: ["Animal Repellent"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1936"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Animal Repellent  *Item 1+*

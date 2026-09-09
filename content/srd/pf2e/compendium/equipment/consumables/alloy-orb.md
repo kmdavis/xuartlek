@@ -9,6 +9,7 @@ tags:
 aliases: ["Alloy Orb"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2963"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Alloy Orb  *Item 3+*

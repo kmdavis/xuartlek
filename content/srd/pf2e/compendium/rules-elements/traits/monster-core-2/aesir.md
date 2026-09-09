@@ -6,6 +6,7 @@ tags:
 aliases: ["Aesir"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=872"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Aesir  *Trait*

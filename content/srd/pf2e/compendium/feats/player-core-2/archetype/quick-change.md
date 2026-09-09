@@ -7,6 +7,7 @@ tags:
 aliases: ["Quick Change"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6430"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Quick Change  *Feat 7*

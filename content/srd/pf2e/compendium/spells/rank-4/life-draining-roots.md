@@ -10,6 +10,7 @@ tags:
 aliases: ["Life-Draining Roots"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1403"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Life-Draining Roots  *Spell 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

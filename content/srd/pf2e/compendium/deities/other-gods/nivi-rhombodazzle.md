@@ -5,6 +5,7 @@ tags:
 aliases: ["Nivi Rhombodazzle"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=354"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Nivi Rhombodazzle  *Deity*

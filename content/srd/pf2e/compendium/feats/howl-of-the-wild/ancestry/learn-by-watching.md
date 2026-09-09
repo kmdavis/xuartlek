@@ -7,6 +7,7 @@ tags:
 aliases: ["Learn by Watching"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5301"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Learn by Watching  *Feat 1*

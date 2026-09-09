@@ -7,6 +7,7 @@ tags:
 aliases: ["Shield of Grace"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5926"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Shield of Grace  *Feat 16*

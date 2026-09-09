@@ -5,6 +5,7 @@ tags:
 aliases: ["Ursine Avenger Hood"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=200"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Ursine Avenger Hood  *Archetype*

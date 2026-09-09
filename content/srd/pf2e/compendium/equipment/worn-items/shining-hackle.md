@@ -8,6 +8,7 @@ tags:
 aliases: ["Shining Hackle"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3978"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Shining Hackle  *Item 4*

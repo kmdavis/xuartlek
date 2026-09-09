@@ -9,6 +9,7 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2075"
 citation: "Player Core pg. 41"
+socialImage: og-image.png
 ---
 
 # Ancestry Entries

@@ -6,6 +6,7 @@ tags:
 aliases: ["Expert Spellcaster"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=77"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Expert Spellcaster  *Class Feature 9*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Glory on High"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7547"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Glory on High  *Feat 18*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

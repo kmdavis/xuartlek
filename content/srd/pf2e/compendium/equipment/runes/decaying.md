@@ -9,6 +9,7 @@ tags:
 aliases: ["Decaying"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2835"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Decaying  *Item 8+*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Mage's Hat"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3094"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Mage's Hat  *Item 3+*

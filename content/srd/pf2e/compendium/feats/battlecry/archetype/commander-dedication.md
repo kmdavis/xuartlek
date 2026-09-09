@@ -9,6 +9,7 @@ tags:
 aliases: ["Commander Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7886"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Commander Dedication  *Feat 2*

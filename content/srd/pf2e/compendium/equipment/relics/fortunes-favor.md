@@ -11,6 +11,7 @@ tags:
 aliases: ["Fortune's Favor"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2406"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Fortune's Favor  *Item 3*

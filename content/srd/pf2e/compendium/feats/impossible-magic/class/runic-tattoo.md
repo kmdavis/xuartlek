@@ -7,6 +7,7 @@ tags:
 aliases: ["Runic Tattoo"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9180"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Runic Tattoo  *Feat 2*

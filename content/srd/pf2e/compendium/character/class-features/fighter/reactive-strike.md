@@ -6,6 +6,7 @@ tags:
 aliases: ["Reactive Strike"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=35"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Reactive Strike  *Class Feature 1*

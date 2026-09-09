@@ -8,6 +8,7 @@ tags:
 aliases: ["Eidolon's Wrath"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9246"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Eidolon's Wrath  *Feat 6*

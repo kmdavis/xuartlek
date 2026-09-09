@@ -11,6 +11,7 @@ tags:
 aliases: ["Regenerate"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1648"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Regenerate  *Spell 7*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

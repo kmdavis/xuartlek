@@ -9,6 +9,7 @@ tags:
 aliases: ["Shrinking Potion"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2958"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Shrinking Potion  *Item 4+*

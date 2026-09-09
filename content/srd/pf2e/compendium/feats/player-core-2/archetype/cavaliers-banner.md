@@ -12,6 +12,7 @@ tags:
 aliases: ["Cavalier's Banner"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6287"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Cavalier's Banner  *Feat 4*

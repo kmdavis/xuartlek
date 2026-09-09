@@ -7,6 +7,7 @@ tags:
 aliases: ["Soothing Pulse"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5452"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Soothing Pulse  *Feat 4*

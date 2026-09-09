@@ -9,6 +9,7 @@ tags:
 source: "Impossible Magic"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3690"
 citation: "Impossible Magic pg. 99"
+socialImage: og-image.png
 ---
 
 # Binding an Armament

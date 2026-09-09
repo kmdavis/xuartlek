@@ -11,6 +11,7 @@ level: 5
 source: "Monster Core 2"
 other_sources: "Pathfinder #146: Cult of Cinders"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4532"
+socialImage: og-image.png
 ---
 
 ```statblock

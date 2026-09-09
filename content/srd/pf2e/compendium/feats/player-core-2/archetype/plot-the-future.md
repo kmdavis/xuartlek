@@ -10,6 +10,7 @@ tags:
 aliases: ["Plot the Future"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5968"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Plot the Future  *Feat 14*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Divine Apex"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4698"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Divine Apex  *Feat 18*

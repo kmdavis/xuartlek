@@ -9,6 +9,7 @@ tags:
 aliases: ["Wand of Choking Mist"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2272"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wand of Choking Mist  *Item 6+*

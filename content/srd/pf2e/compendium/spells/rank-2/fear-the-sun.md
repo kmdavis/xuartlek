@@ -8,6 +8,7 @@ tags:
 aliases: ["Fear the Sun"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2350"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Fear the Sun  *Spell 2*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

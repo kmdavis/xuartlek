@@ -7,6 +7,7 @@ tags:
 aliases: ["Advanced Mysteries"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6221"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Advanced Mysteries  *Feat 6*

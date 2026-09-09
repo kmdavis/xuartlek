@@ -10,6 +10,7 @@ tags:
 aliases: ["Magic Mailbox"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2762"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Magic Mailbox  *Spell 4*

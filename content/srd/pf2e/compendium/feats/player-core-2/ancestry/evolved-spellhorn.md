@@ -7,6 +7,7 @@ tags:
 aliases: ["Evolved Spellhorn"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5625"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Evolved Spellhorn  *Feat 9*

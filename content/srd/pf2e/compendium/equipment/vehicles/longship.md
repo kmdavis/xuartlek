@@ -6,6 +6,7 @@ tags:
 aliases: ["Longship"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=76"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Longship  *Vehicle 8*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Scroll Trickster"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=262"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Scroll Trickster  *Archetype 2*

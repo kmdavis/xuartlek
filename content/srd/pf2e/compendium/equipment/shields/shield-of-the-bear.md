@@ -7,6 +7,7 @@ tags:
 aliases: ["Shield Of The Bear"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5005"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Shield Of The Bear  *Item 9*

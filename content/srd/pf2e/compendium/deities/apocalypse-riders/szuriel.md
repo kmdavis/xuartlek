@@ -5,6 +5,7 @@ tags:
 aliases: ["Szuriel"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=392"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Szuriel  *Deity*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Garland Spell"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4750"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Garland Spell  *Feat 12*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

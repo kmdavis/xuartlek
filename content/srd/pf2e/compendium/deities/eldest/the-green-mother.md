@@ -5,6 +5,7 @@ tags:
 aliases: ["The Green Mother"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=453"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # The Green Mother  *Deity*

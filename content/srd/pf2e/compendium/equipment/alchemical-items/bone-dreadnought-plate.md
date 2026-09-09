@@ -7,6 +7,7 @@ tags:
 aliases: ["Bone Dreadnought Plate"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1974"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Bone Dreadnought Plate  *Item 10*

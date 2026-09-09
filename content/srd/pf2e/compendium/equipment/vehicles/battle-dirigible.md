@@ -7,6 +7,7 @@ tags:
 aliases: ["Battle Dirigible"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=90"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Battle Dirigible  *Vehicle 16*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Ever Dreaming"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8524"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Ever Dreaming  *Feat 18*

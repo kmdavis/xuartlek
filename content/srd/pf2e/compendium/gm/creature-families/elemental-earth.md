@@ -5,6 +5,7 @@ tags:
 aliases: ["Elemental, Earth"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=409"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Elemental, Earth  *Creature Family*

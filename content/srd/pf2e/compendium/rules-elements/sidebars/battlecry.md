@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/battlecry
 aliases: ["Sidebars: Battlecry!"]
 entries: 21
+socialImage: og-image.png
 ---
 
 # Sidebars: Battlecry!
@@ -20,7 +21,7 @@ The GM can grant a third skirmish bond if the troop continues to appear. Usually
 
 ## Choosing a Troop
 
-- **Parent page**: [[srd/pf2e/books/battlecry/skirmish-units/index|Skirmish Units]]
+- **Parent page**: [[srd/pf2e/books/battlecry/skirmish-units/skirmish-units|Skirmish Units]]
 
 When a player is choosing a troop for their character to lead in battle, usually their best options are to choose a troop that shores up one of their shortcomings (such as a wizard choosing a defense-focused troop) or one that can work in tandem with them (such as a rogue picking a stealthy troop). Usually, the GM should pick a limited number of troops for the players to choose from. If two characters want to lead the same troop, they can determine who gets first pick in character by drawing lots, playing a game of chance, or the like.
 
@@ -112,7 +113,7 @@ If the GM wants to increase a troop’s level, they can use the [[srd/pf2e/books
 
 ## Monstrous Followers
 
-- **Parent page**: [[srd/pf2e/books/battlecry/followers/index|Followers]]
+- **Parent page**: [[srd/pf2e/books/battlecry/followers/followers|Followers]]
 
 This follower framework can also be used to represent intelligent monsters that follow the PCs. The GM can create a new follower type for them or adjust one of the existing progressions, renaming their attacks and replacing their abilities accordingly.
 
@@ -164,7 +165,7 @@ Some groups may not be comfortable with the dynamics that a follower introduces 
 
 ## The Purpose of this Subsystem
 
-- **Parent page**: [[srd/pf2e/books/battlecry/skirmish-units/index|Skirmish Units]]
+- **Parent page**: [[srd/pf2e/books/battlecry/skirmish-units/skirmish-units|Skirmish Units]]
 
 This system is designed to enable squad-scale combat where the individual PCs’ character options are still central to play. The intended purpose is to let your group play out battles that incorporate the PCs and troop creatures in a method that is somewhat different from a standard encounter but still fundamentally uses the normal combat rules with some adjustments made for special actions and the number of combatants in the fight. The reason for this is simple: players who show up to play Pathfinder get to play Pathfinder with some tweaks rather than a totally different game. They still get to use the tools they chose for their character. 
 
@@ -182,7 +183,7 @@ Because of the traits on a rout check, some troops are entirely immune to them, 
 
 ## When to use a Skirmish Encounter
 
-- **Parent page**: [[srd/pf2e/books/battlecry/skirmish-units/index|Skirmish Units]]
+- **Parent page**: [[srd/pf2e/books/battlecry/skirmish-units/skirmish-units|Skirmish Units]]
 
 Since they include player characters, multiple troops, and possibly enemy leaders, skirmish encounters take longer and involve an additional layer of complexity. This makes them well suited for occasional special sessions. Avoid giving the PCs access to their troops on a regular basis, and carefully think out the structure of your skirmish encounters. It’s especially important to set [[srd/pf2e/books/battlecry/skirmish-units/building-skirmish-encounters#1. Set Objectives|clear objectives]] to avoid the battle bogging down and feeling overlong.
 

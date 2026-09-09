@@ -6,6 +6,7 @@ tags:
 aliases: ["Floating Camouflage Blind"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=108"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Floating Camouflage Blind  *Vehicle 4*

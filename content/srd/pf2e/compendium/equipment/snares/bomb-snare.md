@@ -10,6 +10,7 @@ tags:
 aliases: ["Bomb Snare"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3366"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Bomb Snare  *Item 6*

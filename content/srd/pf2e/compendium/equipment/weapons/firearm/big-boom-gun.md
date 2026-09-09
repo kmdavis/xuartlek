@@ -11,6 +11,7 @@ tags:
 aliases: ["Big Boom Gun"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=226"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Big Boom Gun  *Weapon 1*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Fatal Aria"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4637"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Fatal Aria  *Feat 20*

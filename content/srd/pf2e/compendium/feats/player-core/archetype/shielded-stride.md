@@ -7,6 +7,7 @@ tags:
 aliases: ["Shielded Stride"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4793"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Shielded Stride  *Feat 4*

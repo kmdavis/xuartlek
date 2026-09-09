@@ -11,6 +11,7 @@ tags:
 aliases: ["Deadweight Mutagen"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1961"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Deadweight Mutagen  *Item 1+*

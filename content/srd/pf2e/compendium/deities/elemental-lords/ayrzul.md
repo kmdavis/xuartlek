@@ -5,6 +5,7 @@ tags:
 aliases: ["Ayrzul"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=687"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Ayrzul  *Deity*

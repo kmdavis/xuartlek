@@ -8,6 +8,7 @@ tags:
 aliases: ["Spontaneous Cartography"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2827"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Spontaneous Cartography  *Spell 3*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

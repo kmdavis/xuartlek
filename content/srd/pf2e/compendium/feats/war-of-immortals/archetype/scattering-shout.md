@@ -7,6 +7,7 @@ tags:
 aliases: ["Scattering Shout"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7379"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Scattering Shout  *Feat 14*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

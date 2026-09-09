@@ -7,6 +7,7 @@ tags:
 aliases: ["Pyrite Rat"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4349"
 source: "Secrets of the Unlit Star Game Master's Guide"
+socialImage: og-image.png
 ---
 
 # Pyrite Rat  *Item 2*

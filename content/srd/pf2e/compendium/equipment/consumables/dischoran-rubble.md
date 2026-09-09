@@ -9,6 +9,7 @@ tags:
 aliases: ["Dischoran Rubble"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3258"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Dischoran Rubble  *Item 4*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Second Blessing"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5907"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Second Blessing  *Feat 8*

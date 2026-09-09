@@ -10,6 +10,7 @@ tags:
 aliases: ["Stars of Another Sky"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2828"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Stars of Another Sky  *Spell 8*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

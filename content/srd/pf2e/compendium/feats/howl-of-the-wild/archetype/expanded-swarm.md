@@ -7,6 +7,7 @@ tags:
 aliases: ["Expanded Swarm"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5473"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Expanded Swarm  *Feat 14*

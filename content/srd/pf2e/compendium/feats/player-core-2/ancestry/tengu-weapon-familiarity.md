@@ -7,6 +7,7 @@ tags:
 aliases: ["Tengu Weapon Familiarity"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5679"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Tengu Weapon Familiarity  *Feat 1*

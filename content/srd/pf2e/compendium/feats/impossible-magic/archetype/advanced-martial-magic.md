@@ -7,6 +7,7 @@ tags:
 aliases: ["Advanced Martial Magic"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9289"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Advanced Martial Magic  *Feat 6*

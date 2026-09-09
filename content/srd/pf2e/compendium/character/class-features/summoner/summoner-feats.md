@@ -6,6 +6,7 @@ tags:
 aliases: ["Summoner Feats"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=77"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Summoner Feats  *Class Feature 2*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Disciplined Mind"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=69"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Disciplined Mind  *Class Feature 7*

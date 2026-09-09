@@ -7,6 +7,7 @@ tags:
 aliases: ["Redirect Attention"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8446"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Redirect Attention  *Feat 13*

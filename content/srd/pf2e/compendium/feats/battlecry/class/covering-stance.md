@@ -8,6 +8,7 @@ tags:
 aliases: ["Covering Stance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7837"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Covering Stance  *Feat 2*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

@@ -9,6 +9,7 @@ tags:
 aliases: ["Light Writer"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1152"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Light Writer  *Item 6*

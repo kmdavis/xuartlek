@@ -13,6 +13,7 @@ tags:
 aliases: ["Wand of Dumbfounding Doom"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2278"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wand of Dumbfounding Doom  *Item 8+*

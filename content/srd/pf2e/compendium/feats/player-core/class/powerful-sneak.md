@@ -7,6 +7,7 @@ tags:
 aliases: ["Powerful Sneak"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4988"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Powerful Sneak  *Feat 18*

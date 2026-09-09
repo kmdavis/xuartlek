@@ -6,6 +6,7 @@ tags:
 aliases: ["Stone"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2359"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Stone  *Item 0+*

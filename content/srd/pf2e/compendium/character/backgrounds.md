@@ -9,6 +9,7 @@ tags:
 - compendium/src/pf2e/rage-of-elements
 aliases: ["Backgrounds"]
 entries: 131
+socialImage: og-image.png
 ---
 
 # Backgrounds

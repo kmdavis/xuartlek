@@ -5,6 +5,7 @@ tags:
 aliases: ["Arshea"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=465"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Arshea  *Deity*

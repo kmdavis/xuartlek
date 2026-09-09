@@ -8,6 +8,7 @@ tags:
 aliases: ["Timely Tutor"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2845"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Timely Tutor  *Spell 2*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

@@ -8,6 +8,7 @@ tags:
 aliases: ["Phase Spike"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5025"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Phase Spike  *Item 10*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Bard"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=211"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Bard  *Archetype 2*

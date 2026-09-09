@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Mysteries"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6218"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Basic Mysteries  *Feat 4*

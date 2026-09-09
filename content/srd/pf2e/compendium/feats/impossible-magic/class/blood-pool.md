@@ -9,6 +9,7 @@ tags:
 aliases: ["Blood Pool"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9145"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Blood Pool  *Feat 14*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

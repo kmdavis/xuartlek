@@ -11,6 +11,7 @@ tags:
 aliases: ["Blight Breath"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2577"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Blight Breath  *Item 12*

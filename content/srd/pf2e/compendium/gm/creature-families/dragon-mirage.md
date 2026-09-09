@@ -5,6 +5,7 @@ tags:
 aliases: ["Dragon, Mirage"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=402"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Dragon, Mirage  *Creature Family*

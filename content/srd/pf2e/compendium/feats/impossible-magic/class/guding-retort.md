@@ -9,6 +9,7 @@ tags:
 aliases: ["Guding Retort"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9271"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Guding Retort  *Feat 14*

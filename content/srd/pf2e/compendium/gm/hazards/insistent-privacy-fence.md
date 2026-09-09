@@ -10,6 +10,7 @@ tags:
 aliases: ["Insistent Privacy Fence"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=96"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Insistent Privacy Fence  *Hazard 8*

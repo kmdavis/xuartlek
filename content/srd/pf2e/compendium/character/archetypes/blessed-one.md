@@ -6,6 +6,7 @@ tags:
 aliases: ["Blessed One"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=242"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Blessed One  *Archetype 2*

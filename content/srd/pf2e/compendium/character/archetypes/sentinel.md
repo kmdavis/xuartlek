@@ -6,6 +6,7 @@ tags:
 aliases: ["Sentinel"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=264"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Sentinel  *Archetype 2*

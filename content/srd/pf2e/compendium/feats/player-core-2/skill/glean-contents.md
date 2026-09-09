@@ -8,6 +8,7 @@ tags:
 aliases: ["Glean Contents"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6484"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Glean Contents  *Feat 1*

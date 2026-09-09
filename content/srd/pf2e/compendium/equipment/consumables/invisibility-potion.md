@@ -11,6 +11,7 @@ tags:
 aliases: ["Invisibility Potion"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2944"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Invisibility Potion  *Item 4*

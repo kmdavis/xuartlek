@@ -7,6 +7,7 @@ tags:
 aliases: ["Tooth and Claw"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5305"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Tooth and Claw  *Feat 1*

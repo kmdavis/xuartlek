@@ -7,6 +7,7 @@ tags:
 aliases: ["Ocean's Bite"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5345"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Ocean's Bite  *Feat 1*

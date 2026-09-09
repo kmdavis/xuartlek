@@ -7,6 +7,7 @@ tags:
 aliases: ["Improbable Elixirs"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5800"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Improbable Elixirs  *Feat 18*

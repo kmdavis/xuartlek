@@ -5,6 +5,7 @@ tags:
 aliases: ["Wasp"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=483"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Wasp  *Creature Family*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Fortified Elixirs"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5780"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Fortified Elixirs  *Feat 6*

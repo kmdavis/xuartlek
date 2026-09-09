@@ -7,6 +7,7 @@ tags:
 aliases: ["Loud Singer"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4448"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Loud Singer  *Feat 5*

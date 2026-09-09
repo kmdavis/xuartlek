@@ -9,6 +9,7 @@ tags:
 aliases: ["Necklace of Allure"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3012"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Necklace of Allure  *Item 17*

@@ -11,6 +11,7 @@ tags:
 aliases: ["Bestial Mutagen"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3315"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Bestial Mutagen  *Item 1+*

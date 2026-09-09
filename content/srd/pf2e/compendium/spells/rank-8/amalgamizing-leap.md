@@ -12,6 +12,7 @@ tags:
 aliases: ["Amalgamizing Leap"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2628"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Amalgamizing Leap  *Spell 8*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

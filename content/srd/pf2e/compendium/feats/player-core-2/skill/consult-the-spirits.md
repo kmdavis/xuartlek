@@ -9,6 +9,7 @@ tags:
 aliases: ["Consult the Spirits"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6469"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Consult the Spirits  *Feat 7*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Nymph"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=764"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Nymph  *Trait*

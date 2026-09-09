@@ -8,6 +8,7 @@ tags:
 aliases: ["Verdant Weapon"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4714"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Verdant Weapon  *Feat 1*

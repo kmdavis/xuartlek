@@ -7,6 +7,7 @@ tags:
 aliases: ["Wonder Worker"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8390"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wonder Worker  *Feat 20*

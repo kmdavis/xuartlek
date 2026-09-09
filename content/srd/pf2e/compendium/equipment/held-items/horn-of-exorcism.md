@@ -7,6 +7,7 @@ tags:
 aliases: ["Horn of Exorcism"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3024"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Horn of Exorcism  *Item 11*

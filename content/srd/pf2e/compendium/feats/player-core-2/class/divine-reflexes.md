@@ -7,6 +7,7 @@ tags:
 aliases: ["Divine Reflexes"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5922"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Divine Reflexes  *Feat 14*

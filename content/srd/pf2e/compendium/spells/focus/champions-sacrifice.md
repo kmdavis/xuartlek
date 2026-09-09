@@ -10,6 +10,7 @@ tags:
 aliases: ["Champion's Sacrifice"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2050"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Champion's Sacrifice  *Focus 6*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

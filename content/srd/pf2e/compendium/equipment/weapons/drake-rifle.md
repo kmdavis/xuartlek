@@ -8,6 +8,7 @@ tags:
 aliases: ["Drake Rifle"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1166"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Drake Rifle  *Item 4*

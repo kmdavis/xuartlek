@@ -7,6 +7,7 @@ tags:
 aliases: ["Fade Presence"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9367"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Fade Presence  *Feat 6*

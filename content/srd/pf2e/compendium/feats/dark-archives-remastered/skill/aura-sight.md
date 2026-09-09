@@ -12,6 +12,7 @@ tags:
 aliases: ["Aura Sight"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8425"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Aura Sight  *Feat 2*

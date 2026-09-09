@@ -7,6 +7,7 @@ tags:
 aliases: ["City Scavenger"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4439"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # City Scavenger  *Feat 1*

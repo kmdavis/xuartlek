@@ -8,6 +8,7 @@ tags:
 aliases: ["Crown of Rule"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7183"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Crown of Rule  *Feat 16*

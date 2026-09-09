@@ -5,6 +5,7 @@ tags:
 aliases: ["Warg"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=482"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Warg  *Creature Family*

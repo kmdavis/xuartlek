@@ -9,6 +9,7 @@ tags:
 aliases: ["Lose Your Chains"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7366"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Lose Your Chains  *Feat 16*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

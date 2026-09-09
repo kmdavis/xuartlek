@@ -7,6 +7,7 @@ tags:
 aliases: ["Flying Broomstick"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3023"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Flying Broomstick  *Item 12*

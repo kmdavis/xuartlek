@@ -7,6 +7,7 @@ tags:
 aliases: ["Fast Channel"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4689"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Fast Channel  *Feat 14*

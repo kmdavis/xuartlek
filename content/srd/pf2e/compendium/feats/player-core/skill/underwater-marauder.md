@@ -8,6 +8,7 @@ tags:
 aliases: ["Underwater Marauder"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5230"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Underwater Marauder  *Feat 1*

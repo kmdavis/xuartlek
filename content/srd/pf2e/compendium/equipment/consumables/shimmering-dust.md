@@ -9,6 +9,7 @@ tags:
 aliases: ["Shimmering Dust"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5063"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Shimmering Dust  *Item 5*

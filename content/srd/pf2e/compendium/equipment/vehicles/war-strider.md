@@ -7,6 +7,7 @@ tags:
 aliases: ["War strider"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=105"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # War strider  *Vehicle 18*

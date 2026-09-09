@@ -8,6 +8,7 @@ tags:
 aliases: ["Spring from the Shadows"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4974"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Spring from the Shadows  *Feat 12*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

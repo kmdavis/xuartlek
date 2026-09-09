@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Cleric Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5067"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Basic Cleric Spellcasting  *Feat 4*

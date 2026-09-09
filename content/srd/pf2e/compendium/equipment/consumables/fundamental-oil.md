@@ -10,6 +10,7 @@ tags:
 aliases: ["Fundamental Oil"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2070"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Fundamental Oil  *Item 11*

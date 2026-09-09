@@ -9,6 +9,7 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2421"
 citation: "Player Core pg. 435"
+socialImage: og-image.png
 ---
 
 # Encounter Mode
@@ -60,7 +61,7 @@ Many things happen automatically at the start of your turn—it's a common point
 
 The last step of starting your turn is always the same.
 
-- Regain your 3 actions and 1 reaction. If you haven't spent your reaction from your last turn, you lose it—you can't “save” actions or reactions from one turn to use during the next turn. Some abilities or conditions (such as [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]], [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]], and [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]]) can change how many actions you regain and whether you regain your reaction. (Details on [[srd/pf2e/books/player-core/conditions-appendix/index|gaining and losing actions]].)
+- Regain your 3 actions and 1 reaction. If you haven't spent your reaction from your last turn, you lose it—you can't “save” actions or reactions from one turn to use during the next turn. Some abilities or conditions (such as [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]], [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]], and [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]]) can change how many actions you regain and whether you regain your reaction. (Details on [[srd/pf2e/books/player-core/conditions-appendix/conditions-appendix|gaining and losing actions]].)
 
 > [!pf2-sidebar] TRACKING INITIATIVE
 >

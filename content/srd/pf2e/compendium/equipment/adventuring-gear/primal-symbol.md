@@ -6,6 +6,7 @@ tags:
 aliases: ["Primal Symbol"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2743"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Primal Symbol  *Item 0*

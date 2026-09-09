@@ -5,6 +5,7 @@ tags:
 aliases: ["Tanuki"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=625"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Tanuki  *Creature Family*

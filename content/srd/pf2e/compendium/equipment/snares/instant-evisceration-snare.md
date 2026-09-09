@@ -10,6 +10,7 @@ tags:
 aliases: ["Instant Evisceration Snare"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3376"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Instant Evisceration Snare  *Item 20*

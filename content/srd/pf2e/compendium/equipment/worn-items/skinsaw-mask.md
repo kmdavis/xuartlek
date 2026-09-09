@@ -10,6 +10,7 @@ tags:
 aliases: ["Skinsaw Mask"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2354"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Skinsaw Mask  *Item 3*

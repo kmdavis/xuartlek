@@ -9,6 +9,7 @@ tags:
 aliases: ["Gut-Ripper"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3512"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Gut-Ripper  *Item 7*

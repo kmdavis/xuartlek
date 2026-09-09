@@ -7,6 +7,7 @@ tags:
 aliases: ["Savage Critical"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4855"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Savage Critical  *Feat 18*

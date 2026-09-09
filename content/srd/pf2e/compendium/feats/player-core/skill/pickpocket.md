@@ -8,6 +8,7 @@ tags:
 aliases: ["Pickpocket"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5187"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Pickpocket  *Feat 1*

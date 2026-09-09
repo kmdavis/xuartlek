@@ -7,6 +7,7 @@ tags:
 aliases: ["Quick Shot"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6253"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Quick Shot  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

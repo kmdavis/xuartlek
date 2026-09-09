@@ -7,6 +7,7 @@ tags:
 aliases: ["Sea Witch"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5358"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Sea Witch  *Feat 13*

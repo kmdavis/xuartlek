@@ -13,6 +13,7 @@ tags:
 aliases: ["Awake With a Roar"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9386"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Awake With a Roar  *Feat 14*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

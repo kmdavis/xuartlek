@@ -10,6 +10,7 @@ tags:
 aliases: ["Standard of the Sure-Footed"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3915"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Standard of the Sure-Footed  *Item 11*

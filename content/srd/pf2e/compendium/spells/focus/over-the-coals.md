@@ -13,6 +13,7 @@ tags:
 aliases: ["Over the Coals"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2599"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Over the Coals  *Focus 5*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

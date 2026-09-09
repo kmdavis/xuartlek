@@ -6,6 +6,7 @@ tags:
 aliases: ["Duelist"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=248"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Duelist  *Archetype 2*

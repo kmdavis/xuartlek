@@ -10,6 +10,7 @@ tags:
 aliases: ["Ghostly Portal Paint"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5091"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Ghostly Portal Paint  *Item 9*

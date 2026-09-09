@@ -8,6 +8,7 @@ tags:
 aliases: ["Legendary Sneak"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5173"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Legendary Sneak  *Feat 15*

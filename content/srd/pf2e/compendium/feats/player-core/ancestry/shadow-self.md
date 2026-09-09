@@ -7,6 +7,7 @@ tags:
 aliases: ["Shadow Self"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4473"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Shadow Self  *Feat 17*

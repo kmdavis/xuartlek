@@ -9,6 +9,7 @@ tags:
 aliases: ["Shrieking Key"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2387"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Shrieking Key  *Item 5*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Speak with Kindred"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4503"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Speak with Kindred  *Feat 5*

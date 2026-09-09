@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Companion Chair"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2147"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Basic Companion Chair  *Item 0*

@@ -11,6 +11,7 @@ tags:
 aliases: ["Possum's Play"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5107"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Possum's Play  *Item 4+*

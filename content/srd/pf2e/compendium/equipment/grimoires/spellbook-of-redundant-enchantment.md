@@ -8,6 +8,7 @@ tags:
 aliases: ["Spellbook Of Redundant Enchantment"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5133"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Spellbook Of Redundant Enchantment  *Item 8*

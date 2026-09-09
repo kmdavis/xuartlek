@@ -8,6 +8,7 @@ tags:
 aliases: ["Can't You See?"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8418"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Can't You See?  *Feat 8*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Tasset of Flexibility"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3982"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Tasset of Flexibility  *Item 4*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Magical Scrounger"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6407"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Magical Scrounger  *Feat 6*

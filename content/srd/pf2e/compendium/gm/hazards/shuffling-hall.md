@@ -8,6 +8,7 @@ tags:
 aliases: ["Shuffling Hall"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=627"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Shuffling Hall  *Hazard -1*

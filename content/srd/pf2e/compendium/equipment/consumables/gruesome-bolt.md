@@ -8,6 +8,7 @@ tags:
 aliases: ["Gruesome Bolt"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3871"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Gruesome Bolt  *Item 6*

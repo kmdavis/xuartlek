@@ -9,6 +9,7 @@ tags:
 aliases: ["Centaur"]
 aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=73"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Centaur  *Ancestry*

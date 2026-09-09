@@ -10,6 +10,7 @@ tags:
 aliases: ["Red-Gold Mortality"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7160"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Red-Gold Mortality  *Feat 2*

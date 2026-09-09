@@ -11,6 +11,7 @@ tags:
 aliases: ["Mace Multipistol (Melee)"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=220"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mace Multipistol (Melee)  *Weapon 0*

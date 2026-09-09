@@ -7,6 +7,7 @@ tags:
 aliases: ["Terrain Master"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4885"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Terrain Master  *Feat 8*

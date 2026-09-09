@@ -7,6 +7,7 @@ tags:
 aliases: ["Inspirational Focus"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4619"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Inspirational Focus  *Feat 12*

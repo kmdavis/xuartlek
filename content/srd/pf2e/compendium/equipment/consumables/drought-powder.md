@@ -9,6 +9,7 @@ tags:
 aliases: ["Drought Powder"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2588"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Drought Powder  *Item 11*

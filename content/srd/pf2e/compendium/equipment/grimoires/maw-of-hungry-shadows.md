@@ -11,6 +11,7 @@ tags:
 aliases: ["Maw of Hungry Shadows"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2181"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Maw of Hungry Shadows  *Item 18*

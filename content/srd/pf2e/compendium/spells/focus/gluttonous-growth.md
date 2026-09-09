@@ -12,6 +12,7 @@ tags:
 aliases: ["Gluttonous Growth"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1935"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Gluttonous Growth  *Focus 5*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

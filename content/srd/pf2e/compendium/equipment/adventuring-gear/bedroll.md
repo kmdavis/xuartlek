@@ -6,6 +6,7 @@ tags:
 aliases: ["Bedroll"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2706"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Bedroll  *Item 0*

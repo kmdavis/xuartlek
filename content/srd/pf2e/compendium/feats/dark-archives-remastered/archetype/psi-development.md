@@ -7,6 +7,7 @@ tags:
 aliases: ["Psi Development"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8395"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Psi Development  *Feat 6*

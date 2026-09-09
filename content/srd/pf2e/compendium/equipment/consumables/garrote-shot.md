@@ -8,6 +8,7 @@ tags:
 aliases: ["Garrote Shot"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2051"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Garrote Shot  *Item 15*

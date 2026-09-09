@@ -7,6 +7,7 @@ tags:
 aliases: ["Stumbling Feint"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6005"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Stumbling Feint  *Feat 6*

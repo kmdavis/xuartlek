@@ -10,6 +10,7 @@ tags:
 aliases: ["Fulu Of The Drunken Monkey"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5074"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Fulu Of The Drunken Monkey  *Item 5*

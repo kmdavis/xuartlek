@@ -7,6 +7,7 @@ tags:
 aliases: ["Sling"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=430"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Sling  *Weapon 0*

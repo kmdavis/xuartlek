@@ -8,6 +8,7 @@ tags:
 aliases: ["Elf Atavism"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4568"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Elf Atavism  *Feat 1*

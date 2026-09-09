@@ -7,6 +7,7 @@ tags:
 aliases: ["Monk Moves"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6214"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Monk Moves  *Feat 8*

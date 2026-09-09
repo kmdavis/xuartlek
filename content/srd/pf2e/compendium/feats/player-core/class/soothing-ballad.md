@@ -7,6 +7,7 @@ tags:
 aliases: ["Soothing Ballad"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4624"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Soothing Ballad  *Feat 14*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Philosopher's Extractor"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3122"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Philosopher's Extractor  *Item 25*

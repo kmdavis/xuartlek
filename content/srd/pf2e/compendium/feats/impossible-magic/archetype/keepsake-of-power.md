@@ -7,6 +7,7 @@ tags:
 aliases: ["Keepsake of Power"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9334"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Keepsake of Power  *Feat 10*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Verdant Sprout"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1413"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Verdant Sprout  *Spell 1*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

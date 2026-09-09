@@ -9,6 +9,7 @@ tags:
 aliases: ["Aquarium Lamp"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1140"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Aquarium Lamp  *Item 8*

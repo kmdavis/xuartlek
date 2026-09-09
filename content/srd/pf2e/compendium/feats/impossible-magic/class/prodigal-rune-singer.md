@@ -7,6 +7,7 @@ tags:
 aliases: ["Prodigal Rune-Singer"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9200"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Prodigal Rune-Singer  *Feat 10*

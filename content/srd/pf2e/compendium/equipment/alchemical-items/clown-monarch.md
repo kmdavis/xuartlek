@@ -10,6 +10,7 @@ tags:
 aliases: ["Clown Monarch"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1997"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Clown Monarch  *Item 5*

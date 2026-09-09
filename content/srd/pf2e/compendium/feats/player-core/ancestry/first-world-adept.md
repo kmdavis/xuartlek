@@ -7,6 +7,7 @@ tags:
 aliases: ["First World Adept"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4433"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # First World Adept  *Feat 9*

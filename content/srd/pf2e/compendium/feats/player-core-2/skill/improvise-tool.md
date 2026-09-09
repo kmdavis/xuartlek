@@ -8,6 +8,7 @@ tags:
 aliases: ["Improvise Tool"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6485"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Improvise Tool  *Feat 1*

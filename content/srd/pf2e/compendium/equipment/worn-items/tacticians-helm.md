@@ -8,6 +8,7 @@ tags:
 aliases: ["Tactician's Helm"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2339"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Tactician's Helm  *Item 5*

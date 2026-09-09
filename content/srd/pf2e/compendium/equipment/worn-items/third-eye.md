@@ -8,6 +8,7 @@ tags:
 aliases: ["Third Eye"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3112"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Third Eye  *Item 19*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Disguise Kit"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2720"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Disguise Kit  *Item 0+*

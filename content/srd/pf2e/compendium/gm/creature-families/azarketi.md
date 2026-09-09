@@ -5,6 +5,7 @@ tags:
 aliases: ["Azarketi"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=367"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Azarketi  *Creature Family*

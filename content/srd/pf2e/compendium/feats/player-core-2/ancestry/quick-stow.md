@@ -7,6 +7,7 @@ tags:
 aliases: ["Quick Stow"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5661"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Quick Stow  *Feat 5*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

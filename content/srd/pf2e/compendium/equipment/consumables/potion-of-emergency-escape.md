@@ -9,6 +9,7 @@ tags:
 aliases: ["Potion of Emergency Escape"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3403"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Potion of Emergency Escape  *Item 1*

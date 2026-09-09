@@ -8,6 +8,7 @@ tags:
 aliases: ["Channel Smite"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4655"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Channel Smite  *Feat 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

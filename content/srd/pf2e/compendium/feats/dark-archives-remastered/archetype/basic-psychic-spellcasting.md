@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Psychic Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8393"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Basic Psychic Spellcasting  *Feat 4*

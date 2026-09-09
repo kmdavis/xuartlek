@@ -11,6 +11,7 @@ tags:
 aliases: ["Traveler's Transit"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1839"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Traveler's Transit  *Focus 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

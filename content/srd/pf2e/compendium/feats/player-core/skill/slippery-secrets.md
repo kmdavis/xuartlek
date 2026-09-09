@@ -8,6 +8,7 @@ tags:
 aliases: ["Slippery Secrets"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5215"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Slippery Secrets  *Feat 7*

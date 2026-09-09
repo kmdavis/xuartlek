@@ -9,6 +9,7 @@ tags:
 aliases: ["Topology Protoplasm"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5094"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Topology Protoplasm  *Item 7*

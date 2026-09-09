@@ -8,6 +8,7 @@ tags:
 aliases: ["Momentum Strike"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7864"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Momentum Strike  *Feat 10*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

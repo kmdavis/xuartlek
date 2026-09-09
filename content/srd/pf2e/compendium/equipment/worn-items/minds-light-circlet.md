@@ -10,6 +10,7 @@ tags:
 aliases: ["Mind's Light Circlet"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2328"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mind's Light Circlet  *Item 11*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Chain of Command"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3840"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Chain of Command  *Item 6*

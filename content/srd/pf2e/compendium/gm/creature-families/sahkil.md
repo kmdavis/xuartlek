@@ -5,6 +5,7 @@ tags:
 aliases: ["Sahkil"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=618"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Sahkil  *Creature Family*

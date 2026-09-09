@@ -7,6 +7,7 @@ tags:
 aliases: ["Energy-Resistant"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2788"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Energy-Resistant  *Item 8+*

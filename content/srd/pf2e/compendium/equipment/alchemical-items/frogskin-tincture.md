@@ -10,6 +10,7 @@ tags:
 aliases: ["Frogskin Tincture"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3234"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Frogskin Tincture  *Item 6*

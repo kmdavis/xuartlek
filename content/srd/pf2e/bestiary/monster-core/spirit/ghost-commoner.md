@@ -14,6 +14,7 @@ name: "Ghost Commoner"
 level: 4
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3007"
+socialImage: og-image.png
 ---
 
 ```statblock

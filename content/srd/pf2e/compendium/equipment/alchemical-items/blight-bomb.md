@@ -11,6 +11,7 @@ tags:
 aliases: ["Blight Bomb"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3289"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Blight Bomb  *Item 1+*

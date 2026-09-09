@@ -12,6 +12,7 @@ tags:
 aliases: ["Unsettling Perspective"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2923"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Unsettling Perspective  *Focus 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

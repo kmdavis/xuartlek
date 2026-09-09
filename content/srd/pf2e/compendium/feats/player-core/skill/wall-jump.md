@@ -8,6 +8,7 @@ tags:
 aliases: ["Wall Jump"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5236"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Wall Jump  *Feat 7*

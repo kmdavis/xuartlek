@@ -5,6 +5,7 @@ tags:
 aliases: ["Kurgess"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=351"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Kurgess  *Deity*

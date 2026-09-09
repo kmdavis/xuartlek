@@ -14,6 +14,7 @@ level: 19
 source: "Monster Core 2"
 other_sources: "Pathfinder #150: Broken Promises"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4597"
+socialImage: og-image.png
 ---
 
 ```statblock

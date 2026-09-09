@@ -7,6 +7,7 @@ tags:
 aliases: ["Mental Forge"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8508"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mental Forge  *Feat 4*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Mummified Bat"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2986"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Mummified Bat  *Item 10*

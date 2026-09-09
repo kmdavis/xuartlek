@@ -7,6 +7,7 @@ tags:
 aliases: ["Storm Retribution"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4732"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Storm Retribution  *Feat 6*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

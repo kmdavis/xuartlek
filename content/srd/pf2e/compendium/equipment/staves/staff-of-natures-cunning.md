@@ -9,6 +9,7 @@ tags:
 aliases: ["Staff Of Nature's Cunning"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5169"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Staff Of Nature's Cunning  *Item 7+*

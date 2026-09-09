@@ -7,6 +7,7 @@ tags:
 aliases: ["Tear Tendons"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5444"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Tear Tendons  *Feat 8*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

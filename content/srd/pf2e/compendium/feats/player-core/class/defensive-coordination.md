@@ -11,6 +11,7 @@ tags:
 aliases: ["Defensive Coordination"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4597"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Defensive Coordination  *Feat 6*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

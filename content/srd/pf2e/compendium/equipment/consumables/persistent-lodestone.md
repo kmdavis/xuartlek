@@ -9,6 +9,7 @@ tags:
 aliases: ["Persistent Lodestone"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1232"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Persistent Lodestone  *Item 7*

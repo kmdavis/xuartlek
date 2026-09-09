@@ -13,6 +13,7 @@ tags:
 aliases: ["Wind Whispers"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2595"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wind Whispers  *Focus 4*

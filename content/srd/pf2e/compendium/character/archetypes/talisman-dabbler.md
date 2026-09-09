@@ -6,6 +6,7 @@ tags:
 aliases: ["Talisman Dabbler"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=266"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Talisman Dabbler  *Archetype 2*

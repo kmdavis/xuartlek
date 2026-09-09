@@ -6,6 +6,7 @@ tags:
 aliases: ["Bottled Breath"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=499"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Bottled Breath  *Trait*

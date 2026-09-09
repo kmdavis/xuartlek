@@ -8,6 +8,7 @@ tags:
 aliases: ["Trebuchet"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=9"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Trebuchet  *Siege Weapon 10*

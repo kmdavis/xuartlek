@@ -10,6 +10,7 @@ tags:
 aliases: ["Eye of Apprehension"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2973"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Eye of Apprehension  *Item 12*

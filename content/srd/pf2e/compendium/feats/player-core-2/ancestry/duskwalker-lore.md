@@ -7,6 +7,7 @@ tags:
 aliases: ["Duskwalker Lore"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5749"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Duskwalker Lore  *Feat 1*

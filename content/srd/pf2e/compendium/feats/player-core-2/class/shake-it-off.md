@@ -9,6 +9,7 @@ tags:
 aliases: ["Shake It Off"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5817"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Shake It Off  *Feat 2*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

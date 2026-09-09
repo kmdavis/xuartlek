@@ -10,6 +10,7 @@ tags:
 aliases: ["Emotional Surge"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8333"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Emotional Surge  *Feat 10*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

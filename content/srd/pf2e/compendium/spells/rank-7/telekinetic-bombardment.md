@@ -8,6 +8,7 @@ tags:
 aliases: ["Telekinetic Bombardment"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2582"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Telekinetic Bombardment  *Spell 7*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

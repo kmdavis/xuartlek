@@ -6,6 +6,7 @@ tags:
 aliases: ["Skirmish"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=862"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Skirmish  *Trait*

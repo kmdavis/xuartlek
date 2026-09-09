@@ -5,6 +5,7 @@ tags:
 aliases: ["Pahti Coatl"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=414"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Pahti Coatl  *Deity*

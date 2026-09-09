@@ -11,6 +11,7 @@ tags:
 aliases: ["Revenant Blade"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3857"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Revenant Blade  *Item 10*

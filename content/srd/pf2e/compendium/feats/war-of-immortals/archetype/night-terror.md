@@ -7,6 +7,7 @@ tags:
 aliases: ["Night Terror"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7310"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Night Terror  *Feat 16*

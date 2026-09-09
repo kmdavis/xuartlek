@@ -11,6 +11,7 @@ tags:
 aliases: ["Look-me-not"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5105"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Look-me-not  *Item 11*

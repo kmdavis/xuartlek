@@ -6,6 +6,7 @@ tags:
 aliases: ["Surki"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=789"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Surki  *Trait*

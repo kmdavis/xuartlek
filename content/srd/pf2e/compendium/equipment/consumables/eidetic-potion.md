@@ -9,6 +9,7 @@ tags:
 aliases: ["Eidetic Potion"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2081"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Eidetic Potion  *Item 6*

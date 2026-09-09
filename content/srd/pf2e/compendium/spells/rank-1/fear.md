@@ -11,6 +11,7 @@ tags:
 aliases: ["Fear"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1524"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Fear  *Spell 1*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

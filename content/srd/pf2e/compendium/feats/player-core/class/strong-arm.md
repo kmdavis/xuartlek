@@ -7,6 +7,7 @@ tags:
 aliases: ["Strong Arm"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4927"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Strong Arm  *Feat 2*

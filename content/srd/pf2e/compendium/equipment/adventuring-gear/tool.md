@@ -6,6 +6,7 @@ tags:
 aliases: ["Tool"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2759"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Tool  *Item 0+*

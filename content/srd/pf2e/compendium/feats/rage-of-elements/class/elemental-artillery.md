@@ -13,6 +13,7 @@ tags:
 aliases: ["Elemental Artillery"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4303"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Elemental Artillery  *Feat 6*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

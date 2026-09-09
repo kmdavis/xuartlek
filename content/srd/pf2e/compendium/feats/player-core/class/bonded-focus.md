@@ -7,6 +7,7 @@ tags:
 aliases: ["Bonded Focus"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5045"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Bonded Focus  *Feat 14*

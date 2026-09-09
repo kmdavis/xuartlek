@@ -8,6 +8,7 @@ tags:
 aliases: ["Moray Eel Mount"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5288"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Moray Eel Mount  *Feat 9*

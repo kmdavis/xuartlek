@@ -7,6 +7,7 @@ tags:
 aliases: ["Steelstone Assault Engine"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=104"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Steelstone Assault Engine  *Vehicle 19*

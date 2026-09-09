@@ -7,6 +7,7 @@ tags:
 aliases: ["Deflecting"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4988"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Deflecting  *Item 6*

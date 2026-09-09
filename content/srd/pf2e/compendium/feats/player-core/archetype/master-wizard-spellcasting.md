@@ -7,6 +7,7 @@ tags:
 aliases: ["Master Wizard Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5113"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Master Wizard Spellcasting  *Feat 18*

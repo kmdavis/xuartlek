@@ -7,6 +7,7 @@ tags:
 aliases: ["Fossil Rider"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5649"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Fossil Rider  *Feat 17*

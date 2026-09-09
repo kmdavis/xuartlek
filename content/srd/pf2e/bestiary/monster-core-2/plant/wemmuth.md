@@ -10,6 +10,7 @@ name: "Wemmuth"
 level: 15
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4616"
+socialImage: og-image.png
 ---
 
 ```statblock

@@ -7,6 +7,7 @@ tags:
 aliases: ["Avatar's Protection"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4705"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Avatar's Protection  *Feat 20*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

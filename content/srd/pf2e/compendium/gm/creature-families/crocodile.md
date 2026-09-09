@@ -5,6 +5,7 @@ tags:
 aliases: ["Crocodile"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=384"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Crocodile  *Creature Family*

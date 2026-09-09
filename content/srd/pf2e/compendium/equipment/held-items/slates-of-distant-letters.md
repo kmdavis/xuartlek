@@ -7,6 +7,7 @@ tags:
 aliases: ["Slates of Distant Letters"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3031"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Slates of Distant Letters  *Item 13*

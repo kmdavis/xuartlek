@@ -7,6 +7,7 @@ tags:
 aliases: ["Clockwork Shield"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1857"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Clockwork Shield  *Item 11+*

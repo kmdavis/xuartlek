@@ -5,6 +5,7 @@ tags:
 aliases: ["Eritrice"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=470"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Eritrice  *Deity*

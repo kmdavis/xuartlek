@@ -5,6 +5,7 @@ tags:
 aliases: ["Yamasoth"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=587"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Yamasoth  *Deity*

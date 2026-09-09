@@ -12,6 +12,7 @@ tags:
 aliases: ["Body of Air"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4218"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Body of Air  *Feat 14*  [?](books/player-core/chapter-8-playing-the-game/actions#Actions "Varies")

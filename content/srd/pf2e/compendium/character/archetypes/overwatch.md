@@ -7,6 +7,7 @@ tags:
 aliases: ["Overwatch"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=109"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Overwatch  *Archetype 2*

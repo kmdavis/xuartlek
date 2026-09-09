@@ -10,6 +10,7 @@ tags:
 aliases: ["Scrying Ripples"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1396"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Scrying Ripples  *Spell 3*

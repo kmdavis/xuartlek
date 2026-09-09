@@ -9,6 +9,7 @@ tags:
 aliases: ["Forbidding Ward"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1535"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Forbidding Ward  *Cantrip 1*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

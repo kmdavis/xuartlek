@@ -7,6 +7,7 @@ tags:
 aliases: ["Expert Cleric Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5071"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Expert Cleric Spellcasting  *Feat 12*

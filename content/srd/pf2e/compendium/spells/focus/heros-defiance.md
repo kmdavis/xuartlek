@@ -13,6 +13,7 @@ tags:
 aliases: ["Hero's Defiance"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2051"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Hero's Defiance  *Focus 10*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

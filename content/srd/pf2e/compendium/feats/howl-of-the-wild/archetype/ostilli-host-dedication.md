@@ -9,6 +9,7 @@ tags:
 aliases: ["Ostilli Host Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5451"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Ostilli Host Dedication  *Feat 2*
@@ -21,7 +22,7 @@ source: "Howl of the Wild"
 
 You've bonded with an attached symbiote known as an ostilli. You can bond with only one ostilli at a time since the symbiote emits low-frequency magical pulses that repel other ostillis. You become trained in [[srd/pf2e/compendium/rules-elements/skills/lore|Ostilli Lore]]; if you were already trained, you become an expert.
 
- The ostilli is a Tiny creature [[srd/pf2e/books/howl-of-the-wild/grafting-rules/index|grafted]] to your body. Like other grafts, it has no Hit Points or Speeds of its own and can't be targeted separately. It can't be removed and dies when you do; in the event of your demise and resurrection, you can bond to a new ostilli during a week of downtime, though you lose any abilities granted by your ostilli bond during that time. Your ostilli is obvious, unless you attempt to cover it with clothing or armor. In such a case, an onlooker can determine you're bonded to an ostilli with a successful [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], Perception, or Surki Lore check against your [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] DC. Your ostilli must be visible for you to use any of the actions it grants.
+ The ostilli is a Tiny creature [[srd/pf2e/books/howl-of-the-wild/grafting-rules/grafting-rules|grafted]] to your body. Like other grafts, it has no Hit Points or Speeds of its own and can't be targeted separately. It can't be removed and dies when you do; in the event of your demise and resurrection, you can bond to a new ostilli during a week of downtime, though you lose any abilities granted by your ostilli bond during that time. Your ostilli is obvious, unless you attempt to cover it with clothing or armor. In such a case, an onlooker can determine you're bonded to an ostilli with a successful [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], Perception, or Surki Lore check against your [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] DC. Your ostilli must be visible for you to use any of the actions it grants.
 
  Your ostilli is constantly siphoning ambient magic from the surroundings, granting you the Repel Ambient Magic and Spit Ambient Magic actions.
 

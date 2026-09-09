@@ -6,6 +6,7 @@ tags:
 aliases: ["Masterful Hunter"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=36"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Masterful Hunter  *Class Feature 17*

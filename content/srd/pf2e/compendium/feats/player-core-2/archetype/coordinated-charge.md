@@ -9,6 +9,7 @@ tags:
 aliases: ["Coordinated Charge"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6361"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Coordinated Charge  *Feat 12*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

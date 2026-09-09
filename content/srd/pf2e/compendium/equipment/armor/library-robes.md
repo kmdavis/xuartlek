@@ -8,6 +8,7 @@ tags:
 aliases: ["Library Robes"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1848"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Library Robes  *Item 9+*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Demolish Defenses"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7880"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Demolish Defenses  *Feat 18*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

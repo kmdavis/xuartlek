@@ -6,6 +6,7 @@ tags:
 aliases: ["Dual-Weapon Warrior"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=247"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Dual-Weapon Warrior  *Archetype 2*

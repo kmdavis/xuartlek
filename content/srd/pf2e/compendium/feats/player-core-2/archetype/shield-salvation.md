@@ -8,6 +8,7 @@ tags:
 aliases: ["Shield Salvation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6266"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Shield Salvation  *Feat 10*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Agathion"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=674"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Agathion  *Creature Family*

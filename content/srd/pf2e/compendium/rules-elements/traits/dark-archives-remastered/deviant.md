@@ -6,6 +6,7 @@ tags:
 aliases: ["Deviant"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=898"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Deviant  *Trait*

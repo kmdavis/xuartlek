@@ -10,6 +10,7 @@ tags:
 aliases: ["Choleric Contagion"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1996"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Choleric Contagion  *Item 18*

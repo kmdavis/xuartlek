@@ -10,6 +10,7 @@ tags:
 aliases: ["Desiccate"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1484"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Desiccate  *Spell 8*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

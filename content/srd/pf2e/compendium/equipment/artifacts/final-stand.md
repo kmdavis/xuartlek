@@ -10,6 +10,7 @@ tags:
 aliases: ["Final Stand"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3844"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Final Stand  *Item 17*

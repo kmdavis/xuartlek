@@ -12,6 +12,7 @@ tags:
 aliases: ["Architect of Flame"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4246"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Architect of Flame  *Feat 12*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

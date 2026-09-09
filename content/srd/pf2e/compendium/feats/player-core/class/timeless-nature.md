@@ -7,6 +7,7 @@ tags:
 aliases: ["Timeless Nature"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4757"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Timeless Nature  *Feat 14*

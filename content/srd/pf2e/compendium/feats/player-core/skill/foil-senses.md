@@ -8,6 +8,7 @@ tags:
 aliases: ["Foil Senses"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5151"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Foil Senses  *Feat 7*

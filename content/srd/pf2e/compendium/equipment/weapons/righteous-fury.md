@@ -9,6 +9,7 @@ tags:
 aliases: ["Righteous Fury"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3858"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Righteous Fury  *Item 15*

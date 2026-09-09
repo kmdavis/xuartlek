@@ -10,6 +10,7 @@ tags:
 aliases: ["Curse Of Calamity"]
 aon_url: "https://2e.aonprd.com/MythicRituals.aspx?ID=192"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Curse Of Calamity  *Ritual 9*

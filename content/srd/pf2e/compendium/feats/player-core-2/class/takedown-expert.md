@@ -7,6 +7,7 @@ tags:
 aliases: ["Takedown Expert"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5937"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Takedown Expert  *Feat 1*

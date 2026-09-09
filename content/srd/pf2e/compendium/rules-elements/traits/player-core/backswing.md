@@ -6,6 +6,7 @@ tags:
 aliases: ["Backswing"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=545"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Backswing  *Trait*

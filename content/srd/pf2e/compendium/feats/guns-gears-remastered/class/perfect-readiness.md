@@ -7,6 +7,7 @@ tags:
 aliases: ["Perfect Readiness"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3212"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Perfect Readiness  *Feat 20*

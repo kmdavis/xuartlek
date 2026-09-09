@@ -9,6 +9,7 @@ tags:
 aliases: ["Tar Spitter"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=64"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Tar Spitter  *Siege Weapon 11*

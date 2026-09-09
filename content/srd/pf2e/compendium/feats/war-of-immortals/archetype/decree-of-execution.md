@@ -11,6 +11,7 @@ tags:
 aliases: ["Decree of Execution"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7412"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Decree of Execution  *Feat 18*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")
@@ -31,6 +32,6 @@ You proclaim that a foe has violated the sanctity of your realm and must die. Sp
 
 **Critical Failure** As failure, but a target who survives the damage is [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] 1 for 1 minute.
 
-When you speak a Decree of Execution, you can spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/index|Mythic Point]] as part of the action to remove the incapacitation trait.
+When you speak a Decree of Execution, you can spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]] as part of the action to remove the incapacitation trait.
 
 *Source: War of Immortals p. 136*

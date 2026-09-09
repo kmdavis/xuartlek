@@ -9,6 +9,7 @@ tags:
 aliases: ["Animate Dreamer"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1177"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Animate Dreamer  *Item 15*

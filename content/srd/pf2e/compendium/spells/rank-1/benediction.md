@@ -10,6 +10,7 @@ tags:
 aliases: ["Benediction"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2345"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Benediction  *Spell 1*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

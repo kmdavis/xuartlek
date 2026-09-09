@@ -9,6 +9,7 @@ tags:
 aliases: ["Sure-Step Potion"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2094"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sure-Step Potion  *Item 4*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Symphony of the Unfettered Heart"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4615"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Symphony of the Unfettered Heart  *Feat 10*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Vonymos"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=553"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Vonymos  *Deity*

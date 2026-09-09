@@ -5,6 +5,7 @@ tags:
 aliases: ["Subsist"]
 aon_url: "https://2e.aonprd.com/Skills.aspx?ID=25&General=true"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Subsist  *General Skill Action*

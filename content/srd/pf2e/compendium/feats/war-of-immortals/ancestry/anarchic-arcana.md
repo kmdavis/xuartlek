@@ -7,6 +7,7 @@ tags:
 aliases: ["Anarchic Arcana"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7209"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Anarchic Arcana  *Feat 9*

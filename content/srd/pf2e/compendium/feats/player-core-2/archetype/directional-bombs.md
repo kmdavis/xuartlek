@@ -7,6 +7,7 @@ tags:
 aliases: ["Directional Bombs"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5779"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Directional Bombs  *Feat 6*

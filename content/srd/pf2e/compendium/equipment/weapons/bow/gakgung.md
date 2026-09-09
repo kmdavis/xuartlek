@@ -9,6 +9,7 @@ tags:
 aliases: ["Gakgung"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=334"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Gakgung  *Weapon 0*

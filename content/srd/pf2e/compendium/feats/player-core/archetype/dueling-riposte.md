@@ -7,6 +7,7 @@ tags:
 aliases: ["Dueling Riposte"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4811"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Dueling Riposte  *Feat 8*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

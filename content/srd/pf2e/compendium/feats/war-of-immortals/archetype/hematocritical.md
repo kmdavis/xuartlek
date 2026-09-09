@@ -9,6 +9,7 @@ tags:
 aliases: ["Hematocritical"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7244"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Hematocritical  *Feat 10*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

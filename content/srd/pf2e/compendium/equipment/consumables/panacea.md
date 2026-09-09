@@ -11,6 +11,7 @@ tags:
 aliases: ["Panacea"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2946"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Panacea  *Item 13*

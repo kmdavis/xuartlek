@@ -8,6 +8,7 @@ tags:
 aliases: ["Dawnsilver"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2917"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Dawnsilver  *Item 8+*

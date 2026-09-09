@@ -7,6 +7,7 @@ tags:
 aliases: ["Empiricist's Eye"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5961"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Empiricist's Eye  *Feat 12*

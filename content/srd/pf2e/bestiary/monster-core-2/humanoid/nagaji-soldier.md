@@ -11,6 +11,7 @@ name: "Nagaji Soldier"
 level: 2
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4486"
+socialImage: og-image.png
 ---
 
 ```statblock

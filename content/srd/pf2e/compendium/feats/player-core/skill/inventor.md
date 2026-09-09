@@ -9,6 +9,7 @@ tags:
 aliases: ["Inventor"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5164"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Inventor  *Feat 2*

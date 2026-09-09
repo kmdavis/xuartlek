@@ -9,6 +9,7 @@ tags:
 aliases: ["Admonishing Band"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1226"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Admonishing Band  *Item 4*

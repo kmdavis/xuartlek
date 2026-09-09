@@ -9,6 +9,7 @@ tags:
 aliases: ["Reinforced Stock"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=187"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Reinforced Stock  *Weapon 0*

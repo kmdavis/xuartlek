@@ -8,6 +8,7 @@ tags:
 aliases: ["Aeonbound"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7195"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Aeonbound  *Feat 1*

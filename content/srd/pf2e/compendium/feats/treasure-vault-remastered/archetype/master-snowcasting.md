@@ -7,6 +7,7 @@ tags:
 aliases: ["Master Snowcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4104"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Master Snowcasting  *Feat 18*

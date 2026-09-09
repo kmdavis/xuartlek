@@ -7,6 +7,7 @@ tags:
 aliases: ["Extend Boost"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9225"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Extend Boost  *Feat 1*

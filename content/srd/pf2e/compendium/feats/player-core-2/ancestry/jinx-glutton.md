@@ -7,6 +7,7 @@ tags:
 aliases: ["Jinx Glutton"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5689"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Jinx Glutton  *Feat 13*

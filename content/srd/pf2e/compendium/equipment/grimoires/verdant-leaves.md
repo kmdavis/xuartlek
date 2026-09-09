@@ -8,6 +8,7 @@ tags:
 aliases: ["Verdant Leaves"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5136"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Verdant Leaves  *Item 6+*

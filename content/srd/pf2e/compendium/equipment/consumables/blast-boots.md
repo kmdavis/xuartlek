@@ -9,6 +9,7 @@ tags:
 aliases: ["Blast Boots"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1104"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Blast Boots  *Item 1+*

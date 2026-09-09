@@ -6,6 +6,7 @@ tags:
 aliases: ["Flowing"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=607"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Flowing  *Trait*

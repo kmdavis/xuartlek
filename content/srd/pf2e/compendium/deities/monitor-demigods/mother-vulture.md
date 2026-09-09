@@ -5,6 +5,7 @@ tags:
 aliases: ["Mother Vulture"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=542"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Mother Vulture  *Deity*

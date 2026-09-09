@@ -8,6 +8,7 @@ tags:
 aliases: ["Potion Patch"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2123"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Potion Patch  *Item 4+*

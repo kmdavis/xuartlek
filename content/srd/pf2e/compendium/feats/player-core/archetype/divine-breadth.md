@@ -7,6 +7,7 @@ tags:
 aliases: ["Divine Breadth"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5070"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Divine Breadth  *Feat 8*

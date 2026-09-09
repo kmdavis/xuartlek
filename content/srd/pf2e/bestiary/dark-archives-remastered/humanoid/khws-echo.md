@@ -12,6 +12,7 @@ name: "K.H.W.'S Echo"
 level: 14
 source: "Dark Archives (Remastered)"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4651"
+socialImage: og-image.png
 ---
 
 ```statblock

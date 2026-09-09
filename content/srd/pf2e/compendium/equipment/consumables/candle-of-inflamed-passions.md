@@ -10,6 +10,7 @@ tags:
 aliases: ["Candle of Inflamed Passions"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2602"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Candle of Inflamed Passions  *Item 3*

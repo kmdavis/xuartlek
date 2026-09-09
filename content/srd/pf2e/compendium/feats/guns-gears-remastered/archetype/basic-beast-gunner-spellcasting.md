@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Beast Gunner Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3230"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Basic Beast Gunner Spellcasting  *Feat 8*

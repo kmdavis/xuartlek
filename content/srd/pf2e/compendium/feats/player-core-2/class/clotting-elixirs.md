@@ -7,6 +7,7 @@ tags:
 aliases: ["Clotting Elixirs"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5766"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Clotting Elixirs  *Feat 2*

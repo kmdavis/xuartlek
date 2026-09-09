@@ -7,6 +7,7 @@ tags:
 aliases: ["Elegant Buckler"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6127"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Elegant Buckler  *Feat 1*

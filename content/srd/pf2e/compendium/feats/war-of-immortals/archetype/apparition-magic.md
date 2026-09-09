@@ -7,6 +7,7 @@ tags:
 aliases: ["Apparition Magic"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7223"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Apparition Magic  *Feat 8*

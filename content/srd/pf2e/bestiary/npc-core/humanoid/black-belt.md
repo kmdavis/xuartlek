@@ -11,6 +11,7 @@ name: "Black Belt"
 level: 12
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3504"
+socialImage: og-image.png
 ---
 
 ```statblock

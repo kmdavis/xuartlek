@@ -11,6 +11,7 @@ tags:
 aliases: ["Skeletal Extension"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9135"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Skeletal Extension  *Feat 10*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

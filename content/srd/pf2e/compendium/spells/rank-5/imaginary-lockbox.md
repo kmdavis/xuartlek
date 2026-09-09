@@ -9,6 +9,7 @@ tags:
 aliases: ["Imaginary Lockbox"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2002"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Imaginary Lockbox  *Spell 5*

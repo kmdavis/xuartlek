@@ -11,6 +11,7 @@ tags:
 aliases: ["Frost Breath"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2581"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Frost Breath  *Item 7*

@@ -4,6 +4,7 @@ tags:
 - table/economy
 aliases: ["Common Crimes and Punishments"]
 source: "Lost Omens: Travel Guide p. 65"
+socialImage: og-image.png
 ---
 
 # Common Crimes and Punishments

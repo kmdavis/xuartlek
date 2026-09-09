@@ -7,6 +7,7 @@ tags:
 aliases: ["Group Taunt"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7857"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Group Taunt  *Feat 8*

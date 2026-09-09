@@ -5,6 +5,7 @@ tags:
 - compendium/src/pf2e/player-core
 aliases: ["Arcane Schools"]
 entries: 11
+socialImage: og-image.png
 ---
 
 # Arcane Schools

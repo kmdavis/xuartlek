@@ -7,6 +7,7 @@ tags:
 aliases: ["Many Guises"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6432"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Many Guises  *Feat 8*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Obscured Emergence"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8423"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Obscured Emergence  *Feat 12*

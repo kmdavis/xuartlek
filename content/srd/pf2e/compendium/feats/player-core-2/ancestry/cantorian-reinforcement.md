@@ -7,6 +7,7 @@ tags:
 aliases: ["Cantorian Reinforcement"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5569"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Cantorian Reinforcement  *Feat 1*

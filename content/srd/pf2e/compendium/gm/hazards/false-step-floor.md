@@ -10,6 +10,7 @@ tags:
 aliases: ["False Step Floor"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=634"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # False Step Floor  *Hazard 6*

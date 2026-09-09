@@ -8,6 +8,7 @@ tags:
 aliases: ["Runestone"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3003"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Runestone  *Item 1*

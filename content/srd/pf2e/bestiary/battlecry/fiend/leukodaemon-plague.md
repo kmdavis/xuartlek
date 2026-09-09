@@ -13,6 +13,7 @@ name: "Leukodaemon Plague"
 level: 14
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3925"
+socialImage: og-image.png
 ---
 
 ```statblock

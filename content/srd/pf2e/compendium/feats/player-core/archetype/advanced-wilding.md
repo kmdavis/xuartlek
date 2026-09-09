@@ -7,6 +7,7 @@ tags:
 aliases: ["Advanced Wilding"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5077"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Advanced Wilding  *Feat 6*

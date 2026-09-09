@@ -7,6 +7,7 @@ tags:
 aliases: ["Archwizard's Might"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5053"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Archwizard's Might  *Feat 20*

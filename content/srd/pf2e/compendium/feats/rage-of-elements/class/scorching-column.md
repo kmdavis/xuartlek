@@ -11,6 +11,7 @@ tags:
 aliases: ["Scorching Column"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4239"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Scorching Column  *Feat 1*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

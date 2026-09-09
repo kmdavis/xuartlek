@@ -8,6 +8,7 @@ tags:
 aliases: ["Thundering"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2850"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Thundering  *Item 8+*

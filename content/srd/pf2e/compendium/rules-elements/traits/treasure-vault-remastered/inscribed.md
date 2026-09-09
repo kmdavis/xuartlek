@@ -6,6 +6,7 @@ tags:
 aliases: ["Inscribed"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=480"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Inscribed  *Trait*

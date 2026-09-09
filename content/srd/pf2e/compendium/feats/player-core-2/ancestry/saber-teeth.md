@@ -7,6 +7,7 @@ tags:
 aliases: ["Saber Teeth"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5548"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Saber Teeth  *Feat 1*

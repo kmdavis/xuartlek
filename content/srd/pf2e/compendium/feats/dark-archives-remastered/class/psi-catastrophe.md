@@ -11,6 +11,7 @@ tags:
 aliases: ["Psi Catastrophe"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8339"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Psi Catastrophe  *Feat 12*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

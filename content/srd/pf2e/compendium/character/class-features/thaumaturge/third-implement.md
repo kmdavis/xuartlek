@@ -6,6 +6,7 @@ tags:
 aliases: ["Third Implement"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=69"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Third Implement  *Class Feature 15*

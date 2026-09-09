@@ -8,6 +8,7 @@ tags:
 aliases: ["Gravedigger's Call"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3846"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Gravedigger's Call  *Item 12*

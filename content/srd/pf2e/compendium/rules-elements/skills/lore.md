@@ -5,6 +5,7 @@ tags:
 aliases: ["Lore"]
 aon_url: "https://2e.aonprd.com/Skills.aspx?ID=41"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Lore  *Skill*

@@ -10,6 +10,7 @@ name: "Hexmoth"
 level: 8
 source: "Howl of the Wild"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3290"
+socialImage: og-image.png
 ---
 
 ```statblock

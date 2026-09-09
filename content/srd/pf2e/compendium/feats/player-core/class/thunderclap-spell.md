@@ -10,6 +10,7 @@ tags:
 aliases: ["Thunderclap Spell"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4748"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Thunderclap Spell  *Feat 10*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

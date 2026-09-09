@@ -6,6 +6,7 @@ tags:
 aliases: ["Urdefhan"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=888"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Urdefhan  *Trait*

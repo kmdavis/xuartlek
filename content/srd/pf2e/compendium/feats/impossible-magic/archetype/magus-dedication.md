@@ -9,6 +9,7 @@ tags:
 aliases: ["Magus Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9284"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Magus Dedication  *Feat 2*

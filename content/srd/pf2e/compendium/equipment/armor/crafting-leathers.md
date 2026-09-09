@@ -9,6 +9,7 @@ tags:
 aliases: ["Crafting Leathers"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3808"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Crafting Leathers  *Item 5*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Alchemical Mastery"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=56"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Alchemical Mastery  *Class Feature 17*

@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/war-of-immortals
 aliases: ["Ikons"]
 entries: 21
+socialImage: og-image.png
 ---
 
 # Ikons

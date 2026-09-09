@@ -7,6 +7,7 @@ tags:
 aliases: ["Spirit-Singer"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1138"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Spirit-Singer  *Item 5+*

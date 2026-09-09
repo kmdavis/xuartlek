@@ -7,6 +7,7 @@ tags:
 aliases: ["Deeper Dabbler"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6422"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Deeper Dabbler  *Feat 8*

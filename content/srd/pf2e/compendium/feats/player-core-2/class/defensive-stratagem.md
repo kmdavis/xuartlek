@@ -7,6 +7,7 @@ tags:
 aliases: ["Defensive Stratagem"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5956"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Defensive Stratagem  *Feat 8*

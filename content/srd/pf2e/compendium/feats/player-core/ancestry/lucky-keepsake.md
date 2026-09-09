@@ -7,6 +7,7 @@ tags:
 aliases: ["Lucky Keepsake"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4505"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Lucky Keepsake  *Feat 9*

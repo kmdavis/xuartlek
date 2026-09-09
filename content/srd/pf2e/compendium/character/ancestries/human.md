@@ -7,6 +7,7 @@ tags:
 aliases: ["Human"]
 aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=64"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Human  *Ancestry*

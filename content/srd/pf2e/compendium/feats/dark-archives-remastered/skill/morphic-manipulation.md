@@ -13,6 +13,7 @@ tags:
 aliases: ["Morphic Manipulation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8430"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Morphic Manipulation  *Feat 7*

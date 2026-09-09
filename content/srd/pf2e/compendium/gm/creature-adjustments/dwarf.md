@@ -5,6 +5,7 @@ tags:
 aliases: ["Dwarf"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=42"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Dwarf  *Creature Adjustment*

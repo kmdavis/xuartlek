@@ -9,6 +9,7 @@ tags:
 aliases: ["Memento Mori Staff"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5166"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Memento Mori Staff  *Item 12*

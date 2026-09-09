@@ -10,6 +10,7 @@ tags:
 aliases: ["Escape Fulu"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2033"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Escape Fulu  *Item 7*

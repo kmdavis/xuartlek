@@ -7,6 +7,7 @@ tags:
 aliases: ["Embodiment Of The Balance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7124"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Embodiment Of The Balance  *Feat 2*

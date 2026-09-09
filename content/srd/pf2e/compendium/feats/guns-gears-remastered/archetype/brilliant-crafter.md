@@ -7,6 +7,7 @@ tags:
 aliases: ["Brilliant Crafter"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3114"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Brilliant Crafter  *Feat 4*

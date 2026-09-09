@@ -7,6 +7,7 @@ tags:
 aliases: ["Jotun's Heart"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7789"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Jotun's Heart  *Feat 17*

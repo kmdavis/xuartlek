@@ -12,6 +12,7 @@ tags:
 aliases: ["Rallying Banner"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7813"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Rallying Banner  *Feat 8*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

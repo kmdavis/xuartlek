@@ -9,6 +9,7 @@ tags:
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3356"
 citation: "NPC Core pg. 5"
+socialImage: og-image.png
 ---
 
 # Adjusting Creatures

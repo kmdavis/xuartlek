@@ -8,6 +8,7 @@ tags:
 aliases: ["Ambush Hunter"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5603"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Ambush Hunter  *Feat 9*

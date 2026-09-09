@@ -5,6 +5,7 @@ tags:
 aliases: ["Isph-Aun-Vuln"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=583"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Isph-Aun-Vuln  *Deity*

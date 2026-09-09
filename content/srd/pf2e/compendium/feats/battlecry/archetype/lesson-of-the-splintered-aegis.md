@@ -9,6 +9,7 @@ tags:
 aliases: ["Lesson of the Splintered Aegis"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7951"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Lesson of the Splintered Aegis  *Feat 10*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

@@ -6,6 +6,7 @@ tags:
 aliases: ["Steam"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=415"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Steam  *Trait*

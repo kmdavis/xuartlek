@@ -7,6 +7,7 @@ tags:
 aliases: ["Stubborn Defiance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5336"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Stubborn Defiance  *Feat 9*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Fandarra"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=492"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Fandarra  *Deity*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Spell Repertoire"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=77"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Spell Repertoire  *Class Feature 1*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Scouting Arrow"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3866"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Scouting Arrow  *Item 8*

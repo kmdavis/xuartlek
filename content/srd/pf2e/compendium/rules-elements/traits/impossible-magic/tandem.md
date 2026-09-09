@@ -6,6 +6,7 @@ tags:
 aliases: ["Tandem"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=960"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Tandem  *Trait*

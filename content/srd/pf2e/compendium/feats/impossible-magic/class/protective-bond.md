@@ -8,6 +8,7 @@ tags:
 aliases: ["Protective Bond"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9262"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Protective Bond  *Feat 10*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

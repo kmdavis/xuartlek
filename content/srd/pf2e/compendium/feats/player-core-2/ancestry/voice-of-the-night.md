@@ -7,6 +7,7 @@ tags:
 aliases: ["Voice of the Night"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5718"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Voice of the Night  *Feat 1*

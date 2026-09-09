@@ -11,6 +11,7 @@ tags:
 aliases: ["Evangelize"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6478"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Evangelize  *Feat 7*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

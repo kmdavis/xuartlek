@@ -9,6 +9,7 @@ tags:
 aliases: ["Spiny Lodestone"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2620"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Spiny Lodestone  *Item 4+*

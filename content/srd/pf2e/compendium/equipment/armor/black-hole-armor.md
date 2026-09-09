@@ -8,6 +8,7 @@ tags:
 aliases: ["Black Hole Armor"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1842"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Black Hole Armor  *Item 16*

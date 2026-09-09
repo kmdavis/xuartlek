@@ -5,6 +5,7 @@ tags:
 aliases: ["Wheels of Innovation"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=385"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Wheels of Innovation  *Deity*

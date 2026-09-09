@@ -7,6 +7,7 @@ tags:
 aliases: ["Paragon Companion"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3079"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Paragon Companion  *Feat 14*

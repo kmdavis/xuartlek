@@ -7,6 +7,7 @@ tags:
 aliases: ["Titan's Stature"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5860"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Titan's Stature  *Feat 12*

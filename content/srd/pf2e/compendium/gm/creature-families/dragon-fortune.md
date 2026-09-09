@@ -5,6 +5,7 @@ tags:
 aliases: ["Dragon, Fortune"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=400"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Dragon, Fortune  *Creature Family*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Dogma"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5068"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Basic Dogma  *Feat 4*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Shattering Blows"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5872"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Shattering Blows  *Feat 16*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Quick Repair"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5198"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Quick Repair  *Feat 1*

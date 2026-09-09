@@ -7,6 +7,7 @@ tags:
 aliases: ["Spirit Soother"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5754"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Spirit Soother  *Feat 5*

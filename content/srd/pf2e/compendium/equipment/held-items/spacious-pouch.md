@@ -8,6 +8,7 @@ tags:
 aliases: ["Spacious Pouch"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3032"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Spacious Pouch  *Item 4+*

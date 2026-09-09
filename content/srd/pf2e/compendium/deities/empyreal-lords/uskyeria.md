@@ -5,6 +5,7 @@ tags:
 aliases: ["Uskyeria"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=485"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Uskyeria  *Deity*

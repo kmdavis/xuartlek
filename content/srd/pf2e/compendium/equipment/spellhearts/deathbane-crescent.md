@@ -10,6 +10,7 @@ tags:
 aliases: ["Deathbane Crescent"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5150"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Deathbane Crescent  *Item 3+*

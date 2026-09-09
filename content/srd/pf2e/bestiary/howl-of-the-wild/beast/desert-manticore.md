@@ -11,6 +11,7 @@ name: "Desert Manticore"
 level: 12
 source: "Howl of the Wild"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3299"
+socialImage: og-image.png
 ---
 
 ```statblock

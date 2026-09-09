@@ -7,6 +7,7 @@ tags:
 aliases: ["Camouflage Suit"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1201"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Camouflage Suit  *Item 3+*

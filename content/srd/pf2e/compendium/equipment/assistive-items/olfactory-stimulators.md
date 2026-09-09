@@ -7,6 +7,7 @@ tags:
 aliases: ["Olfactory Stimulators"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2150"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Olfactory Stimulators  *Item 1+*

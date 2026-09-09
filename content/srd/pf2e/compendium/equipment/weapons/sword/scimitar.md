@@ -8,6 +8,7 @@ tags:
 aliases: ["Scimitar"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=393"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Scimitar  *Weapon 0*

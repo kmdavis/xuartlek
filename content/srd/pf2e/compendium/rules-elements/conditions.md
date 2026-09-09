@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/player-core
 aliases: ["Conditions"]
 entries: 42
+socialImage: og-image.png
 ---
 
 # Conditions

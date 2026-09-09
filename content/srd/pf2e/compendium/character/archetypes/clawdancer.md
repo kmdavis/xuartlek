@@ -6,6 +6,7 @@ tags:
 aliases: ["Clawdancer"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=221"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Clawdancer  *Archetype 2*

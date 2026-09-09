@@ -6,6 +6,7 @@ tags:
 aliases: ["Sorcerer"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=824"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Sorcerer  *Trait*

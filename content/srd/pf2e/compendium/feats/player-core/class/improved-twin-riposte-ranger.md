@@ -7,6 +7,7 @@ tags:
 aliases: ["Improved Twin Riposte (Ranger)"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4903"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Improved Twin Riposte (Ranger)  *Feat 16*

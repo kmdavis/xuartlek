@@ -6,6 +6,7 @@ tags:
 aliases: ["Dragonblood"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=794"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Dragonblood  *Trait*

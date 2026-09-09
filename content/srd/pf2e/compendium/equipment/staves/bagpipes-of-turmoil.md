@@ -9,6 +9,7 @@ tags:
 aliases: ["Bagpipes of Turmoil"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2265"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Bagpipes of Turmoil  *Item 4+*

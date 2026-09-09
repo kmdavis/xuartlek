@@ -6,6 +6,7 @@ tags:
 aliases: ["Lantern"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2730"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Lantern  *Item 0+*

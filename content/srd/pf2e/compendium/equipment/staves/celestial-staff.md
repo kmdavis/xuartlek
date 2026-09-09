@@ -10,6 +10,7 @@ tags:
 aliases: ["Celestial Staff"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2247"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Celestial Staff  *Item 17*

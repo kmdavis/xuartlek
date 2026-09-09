@@ -5,6 +5,7 @@ tags:
 aliases: ["Psychic"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=68"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Psychic  *Class*

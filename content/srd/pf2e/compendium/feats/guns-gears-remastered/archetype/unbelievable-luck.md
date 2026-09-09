@@ -7,6 +7,7 @@ tags:
 aliases: ["Unbelievable Luck"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3276"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Unbelievable Luck  *Feat 8*

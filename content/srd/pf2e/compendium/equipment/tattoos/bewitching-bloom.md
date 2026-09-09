@@ -10,6 +10,7 @@ tags:
 aliases: ["Bewitching Bloom"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2203"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Bewitching Bloom  *Item 2+*

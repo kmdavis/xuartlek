@@ -9,6 +9,7 @@ tags:
 aliases: ["Moonlit Ink"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4123"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Moonlit Ink  *Item 2*

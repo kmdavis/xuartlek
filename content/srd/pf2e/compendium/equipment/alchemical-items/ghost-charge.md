@@ -12,6 +12,7 @@ tags:
 aliases: ["Ghost Charge"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3294"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Ghost Charge  *Item 1+*

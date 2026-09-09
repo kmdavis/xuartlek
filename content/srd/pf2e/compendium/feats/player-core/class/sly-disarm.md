@@ -7,6 +7,7 @@ tags:
 aliases: ["Sly Disarm"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4946"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Sly Disarm  *Feat 6*

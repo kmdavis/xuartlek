@@ -11,6 +11,7 @@ name: "Carnivorous Blob"
 level: 13
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4499"
+socialImage: og-image.png
 ---
 
 ```statblock

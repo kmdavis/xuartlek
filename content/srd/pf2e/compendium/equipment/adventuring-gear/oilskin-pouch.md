@@ -6,6 +6,7 @@ tags:
 aliases: ["Oilskin Pouch"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3249"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Oilskin Pouch  *Item 0*

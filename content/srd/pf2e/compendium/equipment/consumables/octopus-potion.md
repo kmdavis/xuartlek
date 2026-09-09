@@ -11,6 +11,7 @@ tags:
 aliases: ["Octopus Potion"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2630"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Octopus Potion  *Item 6+*

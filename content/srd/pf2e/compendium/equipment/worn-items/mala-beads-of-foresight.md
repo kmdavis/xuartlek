@@ -9,6 +9,7 @@ tags:
 aliases: ["Mala Beads of Foresight"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2325"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mala Beads of Foresight  *Item 11*

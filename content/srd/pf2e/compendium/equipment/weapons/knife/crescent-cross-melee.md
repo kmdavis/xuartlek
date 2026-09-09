@@ -10,6 +10,7 @@ tags:
 aliases: ["Crescent Cross (Melee)"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=345"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Crescent Cross (Melee)  *Weapon 0*

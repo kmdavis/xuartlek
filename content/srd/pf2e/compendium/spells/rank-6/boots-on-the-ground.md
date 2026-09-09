@@ -11,6 +11,7 @@ tags:
 aliases: ["Boots on the Ground"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2495"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Boots on the Ground  *Spell 6*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

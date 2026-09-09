@@ -7,6 +7,7 @@ tags:
 aliases: ["Possibility Tome"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3029"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Possibility Tome  *Item 18*

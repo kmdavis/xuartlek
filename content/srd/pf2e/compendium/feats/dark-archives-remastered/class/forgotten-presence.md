@@ -8,6 +8,7 @@ tags:
 aliases: ["Forgotten Presence"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8421"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Forgotten Presence  *Feat 8*

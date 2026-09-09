@@ -8,6 +8,7 @@ tags:
 aliases: ["Shining Glory"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7342"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Shining Glory  *Feat 18*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

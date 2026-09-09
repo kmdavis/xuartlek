@@ -11,6 +11,7 @@ tags:
 aliases: ["Stop Heart"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2830"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Stop Heart  *Spell 8*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

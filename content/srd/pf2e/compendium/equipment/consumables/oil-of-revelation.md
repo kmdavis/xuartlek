@@ -9,6 +9,7 @@ tags:
 aliases: ["Oil of Revelation"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3399"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Oil of Revelation  *Item 5*

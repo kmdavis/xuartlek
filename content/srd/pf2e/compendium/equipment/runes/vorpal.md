@@ -8,6 +8,7 @@ tags:
 aliases: ["Vorpal"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2853"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Vorpal  *Item 17*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Squid Ink Sac"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3190"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Squid Ink Sac  *Item 5*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Sambuca"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1200"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sambuca  *Item 3*

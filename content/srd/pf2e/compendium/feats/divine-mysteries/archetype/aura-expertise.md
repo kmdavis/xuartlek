@@ -7,6 +7,7 @@ tags:
 aliases: ["Aura Expertise"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7514"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Aura Expertise  *Feat 16*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

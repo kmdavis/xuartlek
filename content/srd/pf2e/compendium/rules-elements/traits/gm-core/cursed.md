@@ -6,6 +6,7 @@ tags:
 aliases: ["Cursed"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=567"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Cursed  *Trait*

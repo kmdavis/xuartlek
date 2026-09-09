@@ -10,6 +10,7 @@ tags:
 aliases: ["Phoenix Flask"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5096"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Phoenix Flask  *Item 12*

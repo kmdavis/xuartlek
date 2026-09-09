@@ -13,6 +13,7 @@ tags:
 aliases: ["Stone Lance"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1307"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Stone Lance  *Focus 3*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

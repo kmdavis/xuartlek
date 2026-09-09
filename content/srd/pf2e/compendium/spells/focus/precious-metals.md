@@ -11,6 +11,7 @@ tags:
 aliases: ["Precious Metals"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1851"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Precious Metals  *Focus 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

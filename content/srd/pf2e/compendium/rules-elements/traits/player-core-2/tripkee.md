@@ -6,6 +6,7 @@ tags:
 aliases: ["Tripkee"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=793"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Tripkee  *Trait*

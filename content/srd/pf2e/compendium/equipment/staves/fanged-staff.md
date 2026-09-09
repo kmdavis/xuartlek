@@ -8,6 +8,7 @@ tags:
 aliases: ["Fanged Staff"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5164"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Fanged Staff  *Item 10*

@@ -11,6 +11,7 @@ name: "Court Jester"
 level: 10
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3578"
+socialImage: og-image.png
 ---
 
 ```statblock

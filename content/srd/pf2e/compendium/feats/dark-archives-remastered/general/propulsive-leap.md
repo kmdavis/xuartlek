@@ -9,6 +9,7 @@ tags:
 aliases: ["Propulsive Leap"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8029"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Propulsive Leap  *Feat 10*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

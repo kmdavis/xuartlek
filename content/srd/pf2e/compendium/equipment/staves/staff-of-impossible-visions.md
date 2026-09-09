@@ -9,6 +9,7 @@ tags:
 aliases: ["Staff of Impossible Visions"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3421"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Staff of Impossible Visions  *Item 6+*

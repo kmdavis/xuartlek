@@ -7,6 +7,7 @@ tags:
 aliases: ["Live the Creed"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7516"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Live the Creed  *Feat 20*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

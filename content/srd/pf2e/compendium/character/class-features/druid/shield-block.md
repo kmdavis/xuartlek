@@ -6,6 +6,7 @@ tags:
 aliases: ["Shield Block"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=34"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Shield Block  *Class Feature 1*

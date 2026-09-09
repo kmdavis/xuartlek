@@ -13,6 +13,7 @@ tags:
 aliases: ["Noisemaker Snare"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1130"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Noisemaker Snare  *Item 2*

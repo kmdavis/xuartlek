@@ -12,6 +12,7 @@ name: "Rune Giant"
 level: 16
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3017"
+socialImage: og-image.png
 ---
 
 ```statblock

@@ -8,6 +8,7 @@ tags:
 aliases: ["Wand of Contagious Frailty"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2275"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wand of Contagious Frailty  *Item 5*

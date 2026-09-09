@@ -9,6 +9,7 @@ tags:
 aliases: ["Artificer Spectacles"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2134"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Artificer Spectacles  *Item 17*

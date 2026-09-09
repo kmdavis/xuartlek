@@ -9,6 +9,7 @@ tags:
 aliases: ["Staring Skull"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2217"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Staring Skull  *Item 8*

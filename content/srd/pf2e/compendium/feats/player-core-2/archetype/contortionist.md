@@ -7,6 +7,7 @@ tags:
 aliases: ["Contortionist"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6241"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Contortionist  *Feat 4*

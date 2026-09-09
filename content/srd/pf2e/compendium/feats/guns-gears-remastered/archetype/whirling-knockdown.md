@@ -7,6 +7,7 @@ tags:
 aliases: ["Whirling Knockdown"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3257"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Whirling Knockdown  *Feat 14*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

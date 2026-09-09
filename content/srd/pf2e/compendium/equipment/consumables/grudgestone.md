@@ -9,6 +9,7 @@ tags:
 aliases: ["Grudgestone"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2108"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Grudgestone  *Item 7+*

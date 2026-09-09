@@ -9,6 +9,7 @@ tags:
 aliases: ["Trapsmith Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3134"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Trapsmith Dedication  *Feat 4*

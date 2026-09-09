@@ -9,6 +9,7 @@ tags:
 aliases: ["Tiger Menuki"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2995"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Tiger Menuki  *Item 5*

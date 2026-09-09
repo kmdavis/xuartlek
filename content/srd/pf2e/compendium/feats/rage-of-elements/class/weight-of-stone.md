@@ -11,6 +11,7 @@ tags:
 aliases: ["Weight of Stone"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4228"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Weight of Stone  *Feat 6*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

@@ -5,6 +5,7 @@ tags:
 aliases: ["Aeon"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=357"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Aeon  *Creature Family*

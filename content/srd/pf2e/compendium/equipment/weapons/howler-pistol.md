@@ -8,6 +8,7 @@ tags:
 aliases: ["Howler Pistol"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3216"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Howler Pistol  *Item 10*

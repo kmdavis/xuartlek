@@ -8,6 +8,7 @@ tags:
 aliases: ["Stagnate Time"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2605"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Stagnate Time  *Spell 5*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

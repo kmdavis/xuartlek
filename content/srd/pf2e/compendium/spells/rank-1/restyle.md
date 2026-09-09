@@ -8,6 +8,7 @@ tags:
 aliases: ["Restyle"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2803"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Restyle  *Spell 1*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Rites of Transfiguration"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5017"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Rites of Transfiguration  *Feat 14*

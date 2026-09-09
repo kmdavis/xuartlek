@@ -11,6 +11,7 @@ tags:
 aliases: ["Bendy-Arm Mutagen"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1958"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Bendy-Arm Mutagen  *Item 1+*

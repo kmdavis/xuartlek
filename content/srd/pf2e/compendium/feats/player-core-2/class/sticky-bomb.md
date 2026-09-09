@@ -8,6 +8,7 @@ tags:
 aliases: ["Sticky Bomb"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5786"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Sticky Bomb  *Feat 8*

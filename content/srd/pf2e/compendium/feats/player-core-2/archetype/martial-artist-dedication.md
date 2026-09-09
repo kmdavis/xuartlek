@@ -8,6 +8,7 @@ tags:
 aliases: ["Martial Artist Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6364"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Martial Artist Dedication  *Feat 2*

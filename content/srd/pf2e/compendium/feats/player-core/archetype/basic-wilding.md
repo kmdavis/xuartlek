@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Wilding"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5075"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Basic Wilding  *Feat 4*

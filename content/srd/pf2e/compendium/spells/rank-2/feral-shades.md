@@ -10,6 +10,7 @@ tags:
 aliases: ["Feral Shades"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2700"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Feral Shades  *Spell 2*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

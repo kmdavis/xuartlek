@@ -8,6 +8,7 @@ tags:
 aliases: ["Cloud Pouch"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3018"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Cloud Pouch  *Item 6*

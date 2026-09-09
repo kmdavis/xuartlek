@@ -7,6 +7,7 @@ tags:
 aliases: ["Craft Philosopher's Stone"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5804"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Craft Philosopher's Stone  *Feat 20*

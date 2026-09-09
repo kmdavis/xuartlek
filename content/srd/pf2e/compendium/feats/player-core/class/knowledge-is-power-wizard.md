@@ -7,6 +7,7 @@ tags:
 aliases: ["Knowledge is Power (Wizard)"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5039"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Knowledge is Power (Wizard)  *Feat 8*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Caterwaul Sling"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2863"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Caterwaul Sling  *Item 5*

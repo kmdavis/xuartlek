@@ -7,6 +7,7 @@ tags:
 aliases: ["Hag Magic"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4541"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Hag Magic  *Feat 13*

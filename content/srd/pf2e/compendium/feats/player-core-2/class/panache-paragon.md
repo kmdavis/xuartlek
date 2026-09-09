@@ -7,6 +7,7 @@ tags:
 aliases: ["Panache Paragon"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6183"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Panache Paragon  *Feat 20*

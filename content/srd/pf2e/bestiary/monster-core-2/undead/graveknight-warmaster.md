@@ -12,6 +12,7 @@ name: "Graveknight Warmaster"
 level: 14
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4419"
+socialImage: og-image.png
 ---
 
 ```statblock

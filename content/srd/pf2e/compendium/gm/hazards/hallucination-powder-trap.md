@@ -8,6 +8,7 @@ tags:
 aliases: ["Hallucination Powder Trap"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=471"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Hallucination Powder Trap  *Hazard 6*

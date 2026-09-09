@@ -8,6 +8,7 @@ tags:
 aliases: ["Journey Of the Sky Chariot"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7174"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Journey Of the Sky Chariot  *Feat 10*

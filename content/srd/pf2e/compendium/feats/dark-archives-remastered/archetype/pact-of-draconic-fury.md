@@ -9,6 +9,7 @@ tags:
 aliases: ["Pact of Draconic Fury"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8466"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Pact of Draconic Fury  *Feat 6*

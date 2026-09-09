@@ -7,6 +7,7 @@ tags:
 aliases: ["Impaling Briars"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4759"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Impaling Briars  *Feat 16*

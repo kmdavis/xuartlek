@@ -7,6 +7,7 @@ tags:
 aliases: ["Song of Marching"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4601"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Song of Marching  *Feat 6*

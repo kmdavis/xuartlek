@@ -8,6 +8,7 @@ tags:
 aliases: ["Wand of Legerdemain"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2281"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wand of Legerdemain  *Item 4+*

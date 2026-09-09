@@ -7,6 +7,7 @@ tags:
 aliases: ["Methodical Debilitations"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4961"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Methodical Debilitations  *Feat 10*

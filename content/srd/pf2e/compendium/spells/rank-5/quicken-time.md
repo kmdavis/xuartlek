@@ -8,6 +8,7 @@ tags:
 aliases: ["Quicken Time"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2604"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Quicken Time  *Spell 5*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

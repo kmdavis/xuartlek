@@ -9,6 +9,7 @@ tags:
 aliases: ["Hodag Leather"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3196"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Hodag Leather  *Item 8*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Triangular Teeth"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2221"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Triangular Teeth  *Item 2*

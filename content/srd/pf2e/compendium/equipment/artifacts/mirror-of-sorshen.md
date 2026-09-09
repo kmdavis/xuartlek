@@ -9,6 +9,7 @@ tags:
 aliases: ["Mirror of Sorshen"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3121"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Mirror of Sorshen  *Item 25*

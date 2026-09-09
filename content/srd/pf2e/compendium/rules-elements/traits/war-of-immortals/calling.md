@@ -6,6 +6,7 @@ tags:
 aliases: ["Calling"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=834"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Calling  *Trait*

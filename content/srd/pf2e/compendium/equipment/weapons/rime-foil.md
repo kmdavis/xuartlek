@@ -8,6 +8,7 @@ tags:
 aliases: ["Rime Foil"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1876"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Rime Foil  *Item 11*

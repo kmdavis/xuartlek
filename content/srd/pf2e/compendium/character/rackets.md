@@ -5,6 +5,7 @@ tags:
 - compendium/src/pf2e/war-of-immortals
 aliases: ["Rackets"]
 entries: 5
+socialImage: og-image.png
 ---
 
 # Rackets

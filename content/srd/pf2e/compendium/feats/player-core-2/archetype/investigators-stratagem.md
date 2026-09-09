@@ -7,6 +7,7 @@ tags:
 aliases: ["Investigator's Stratagem"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6205"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Investigator's Stratagem  *Feat 4*

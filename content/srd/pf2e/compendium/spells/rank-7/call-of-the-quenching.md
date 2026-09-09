@@ -11,6 +11,7 @@ tags:
 aliases: ["Call of the Quenching"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2870"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Call of the Quenching  *Spell 7*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

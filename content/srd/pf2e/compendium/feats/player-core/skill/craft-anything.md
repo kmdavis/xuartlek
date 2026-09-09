@@ -8,6 +8,7 @@ tags:
 aliases: ["Craft Anything"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5139"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Craft Anything  *Feat 15*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Leech-Clip"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5572"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Leech-Clip  *Feat 1*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

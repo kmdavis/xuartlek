@@ -8,6 +8,7 @@ tags:
 aliases: ["Freedom"]
 aon_url: "https://2e.aonprd.com/MythicRituals.aspx?ID=193"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Freedom  *Ritual 8*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Candle of Truth"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2999"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Candle of Truth  *Item 8*

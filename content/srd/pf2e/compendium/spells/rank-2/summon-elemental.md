@@ -9,6 +9,7 @@ tags:
 aliases: ["Summon Elemental"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1698"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Summon Elemental  *Spell 2*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

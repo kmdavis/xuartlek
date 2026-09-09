@@ -7,6 +7,7 @@ tags:
 aliases: ["Athletic Strategist"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5940"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Athletic Strategist  *Feat 2*

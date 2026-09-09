@@ -7,6 +7,7 @@ tags:
 aliases: ["Goading Feint"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6132"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Goading Feint  *Feat 1*

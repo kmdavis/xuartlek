@@ -13,6 +13,7 @@ level: 12
 source: "Monster Core 2"
 other_sources: "Pathfinder #147: Tomorrow Must Burn"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4531"
+socialImage: og-image.png
 ---
 
 ```statblock

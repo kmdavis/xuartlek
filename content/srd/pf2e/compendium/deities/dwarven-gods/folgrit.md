@@ -5,6 +5,7 @@ tags:
 aliases: ["Folgrit"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=448"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Folgrit  *Deity*

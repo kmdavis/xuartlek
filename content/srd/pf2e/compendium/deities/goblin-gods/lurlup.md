@@ -5,6 +5,7 @@ tags:
 aliases: ["Lurlup"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=504"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Lurlup  *Deity*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Charlatan's Cape"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3063"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Charlatan's Cape  *Item 10*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Reverse Curse"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8477"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Reverse Curse  *Feat 12*

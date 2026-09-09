@@ -10,6 +10,7 @@ tags:
 aliases: ["Healing Nexus"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9346"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Healing Nexus  *Feat 8*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

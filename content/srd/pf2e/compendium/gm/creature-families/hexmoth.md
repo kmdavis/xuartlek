@@ -5,6 +5,7 @@ tags:
 aliases: ["Hexmoth"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=498"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Hexmoth  *Creature Family*

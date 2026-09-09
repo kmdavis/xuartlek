@@ -6,6 +6,7 @@ tags:
 aliases: ["Unbreakable Expertise"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=67"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Unbreakable Expertise  *Class Feature 5*

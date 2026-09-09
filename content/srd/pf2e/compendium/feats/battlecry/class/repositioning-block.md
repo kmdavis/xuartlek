@@ -7,6 +7,7 @@ tags:
 aliases: ["Repositioning Block"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7859"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Repositioning Block  *Feat 8*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

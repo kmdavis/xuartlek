@@ -5,6 +5,7 @@ tags:
 aliases: ["Cernunnos"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=513"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Cernunnos  *Deity*

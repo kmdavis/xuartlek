@@ -8,6 +8,7 @@ tags:
 aliases: ["Blazons of Shared Power"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1221"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Blazons of Shared Power  *Item 3+*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Primal Focus"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4751"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Primal Focus  *Feat 12*

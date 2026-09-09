@@ -6,6 +6,7 @@ tags:
 aliases: ["Twin Juggernauts"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=77"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Twin Juggernauts  *Class Feature 11*

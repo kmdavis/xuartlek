@@ -7,6 +7,7 @@ tags:
 aliases: ["Feral Senses"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5489"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Feral Senses  *Feat 4*

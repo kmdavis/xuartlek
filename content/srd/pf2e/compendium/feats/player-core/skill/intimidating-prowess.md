@@ -8,6 +8,7 @@ tags:
 aliases: ["Intimidating Prowess"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5163"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Intimidating Prowess  *Feat 2*

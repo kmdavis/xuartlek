@@ -11,6 +11,7 @@ tags:
 aliases: ["Oak Potion"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2945"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Oak Potion  *Item 4*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Sticky Algae Bomb"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2633"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Sticky Algae Bomb  *Item 1+*

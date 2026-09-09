@@ -9,6 +9,7 @@ tags:
 aliases: ["Troubadour's Cap"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2144"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Troubadour's Cap  *Item 17*

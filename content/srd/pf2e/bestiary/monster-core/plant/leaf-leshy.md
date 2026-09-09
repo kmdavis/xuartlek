@@ -11,6 +11,7 @@ name: "Leaf Leshy"
 level: 0
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3079"
+socialImage: og-image.png
 ---
 
 ```statblock

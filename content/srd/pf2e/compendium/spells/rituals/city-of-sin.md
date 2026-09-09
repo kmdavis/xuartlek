@@ -10,6 +10,7 @@ tags:
 aliases: ["City Of Sin"]
 aon_url: "https://2e.aonprd.com/MythicRituals.aspx?ID=190"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # City Of Sin  *Ritual 7*

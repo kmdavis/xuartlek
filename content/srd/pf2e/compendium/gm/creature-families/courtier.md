@@ -5,6 +5,7 @@ tags:
 aliases: ["Courtier"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=532"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Courtier  *Creature Family*

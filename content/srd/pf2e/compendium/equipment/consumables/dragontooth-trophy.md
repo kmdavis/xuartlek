@@ -9,6 +9,7 @@ tags:
 aliases: ["Dragontooth Trophy"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2103"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Dragontooth Trophy  *Item 14*

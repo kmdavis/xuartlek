@@ -9,6 +9,7 @@ tags:
 aliases: ["Life Connection"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2755"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Life Connection  *Spell 3*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Sack of Hyrdra's Teeth"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3943"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Sack of Hyrdra's Teeth  *Item 12*

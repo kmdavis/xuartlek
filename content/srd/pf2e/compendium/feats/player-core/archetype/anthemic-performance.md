@@ -7,6 +7,7 @@ tags:
 aliases: ["Anthemic Performance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5062"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Anthemic Performance  *Feat 8*

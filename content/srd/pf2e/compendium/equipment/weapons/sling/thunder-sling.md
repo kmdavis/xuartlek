@@ -10,6 +10,7 @@ tags:
 aliases: ["Thunder Sling"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=343"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Thunder Sling  *Weapon 0*

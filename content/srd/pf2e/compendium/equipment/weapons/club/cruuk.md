@@ -9,6 +9,7 @@ tags:
 aliases: ["Cruuk"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=471"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Cruuk  *Weapon 0*

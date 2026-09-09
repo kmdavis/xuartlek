@@ -7,6 +7,7 @@ tags:
 aliases: ["Energized Spark"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7154"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Energized Spark  *Feat 1*

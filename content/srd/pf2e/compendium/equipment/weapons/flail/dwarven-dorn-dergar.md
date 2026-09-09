@@ -10,6 +10,7 @@ tags:
 aliases: ["Dwarven Dorn-Dergar"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=280"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Dwarven Dorn-Dergar  *Weapon 0*

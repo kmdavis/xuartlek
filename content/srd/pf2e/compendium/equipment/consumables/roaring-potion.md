@@ -10,6 +10,7 @@ tags:
 aliases: ["Roaring Potion"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2091"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Roaring Potion  *Item 8+*

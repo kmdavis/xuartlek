@@ -8,6 +8,7 @@ tags:
 aliases: ["Sprawling Tunnels"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=216"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Sprawling Tunnels  *Ritual 7*

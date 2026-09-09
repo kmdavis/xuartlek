@@ -9,6 +9,7 @@ tags:
 aliases: ["Summon Entity"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1699"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Summon Entity  *Spell 5*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

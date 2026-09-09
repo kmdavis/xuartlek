@@ -7,6 +7,7 @@ tags:
 aliases: ["Duskwalker Magic"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5756"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Duskwalker Magic  *Feat 9*

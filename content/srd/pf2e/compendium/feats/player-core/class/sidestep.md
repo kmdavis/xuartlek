@@ -7,6 +7,7 @@ tags:
 aliases: ["Sidestep"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4957"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Sidestep  *Feat 8*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

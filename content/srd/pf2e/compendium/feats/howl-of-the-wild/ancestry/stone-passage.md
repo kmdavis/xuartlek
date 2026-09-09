@@ -8,6 +8,7 @@ tags:
 aliases: ["Stone Passage"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5378"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Stone Passage  *Feat 9*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

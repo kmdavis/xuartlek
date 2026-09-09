@@ -10,6 +10,7 @@ tags:
 aliases: ["Orc Knuckle Dagger"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=415"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Orc Knuckle Dagger  *Weapon 0*

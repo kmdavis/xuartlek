@@ -8,6 +8,7 @@ tags:
 aliases: ["Bind Undead"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1449"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Bind Undead  *Spell 3*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

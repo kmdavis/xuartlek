@@ -6,6 +6,7 @@ tags:
 aliases: ["Shield Throw"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=490"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Shield Throw  *Trait*

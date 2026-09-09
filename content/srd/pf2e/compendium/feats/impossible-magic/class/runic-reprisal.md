@@ -8,6 +8,7 @@ tags:
 aliases: ["Runic Reprisal"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9189"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Runic Reprisal  *Feat 6*

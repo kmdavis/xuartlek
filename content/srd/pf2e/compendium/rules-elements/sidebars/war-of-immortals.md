@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/war-of-immortals
 aliases: ["Sidebars: War of Immortals"]
 entries: 4
+socialImage: og-image.png
 ---
 
 # Sidebars: War of Immortals

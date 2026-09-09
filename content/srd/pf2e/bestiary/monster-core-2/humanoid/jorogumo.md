@@ -12,6 +12,7 @@ level: 13
 source: "Monster Core 2"
 other_sources: "Pathfinder #160: Assault on Hunting Lodge Seven"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4450"
+socialImage: og-image.png
 ---
 
 ```statblock

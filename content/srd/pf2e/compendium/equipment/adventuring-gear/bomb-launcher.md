@@ -7,6 +7,7 @@ tags:
 aliases: ["Bomb Launcher"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1097"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Bomb Launcher  *Item 1*

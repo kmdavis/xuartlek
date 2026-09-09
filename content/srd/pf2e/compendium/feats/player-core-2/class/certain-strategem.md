@@ -7,6 +7,7 @@ tags:
 aliases: ["Certain Strategem"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5941"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Certain Strategem  *Feat 2*

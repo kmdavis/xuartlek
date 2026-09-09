@@ -8,6 +8,7 @@ tags:
 aliases: ["Twin Stars"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7156"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Twin Stars  *Feat 1*

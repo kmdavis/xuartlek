@@ -8,6 +8,7 @@ tags:
 aliases: ["Wand of Widening"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3053"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Wand of Widening  *Item 4+*

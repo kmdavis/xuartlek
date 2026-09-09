@@ -9,6 +9,7 @@ tags:
 aliases: ["Potion of Undetectability"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2955"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Potion of Undetectability  *Item 18*

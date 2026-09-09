@@ -10,6 +10,7 @@ tags:
 aliases: ["Piercing Wind (Ranged)"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=221"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Piercing Wind (Ranged)  *Weapon 0*

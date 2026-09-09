@@ -7,6 +7,7 @@ tags:
 aliases: ["Kobold Lore"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5614"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Kobold Lore  *Feat 1*

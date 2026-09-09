@@ -9,6 +9,7 @@ tags:
 aliases: ["Accolade Robe"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3054"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Accolade Robe  *Item 10+*

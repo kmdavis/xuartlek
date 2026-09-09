@@ -12,6 +12,7 @@ tags:
 aliases: ["Extend Blood Magic"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2115"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Extend Blood Magic  *Focus 3*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

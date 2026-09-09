@@ -11,6 +11,7 @@ tags:
 aliases: ["Mistranslator's Draft"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4143"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mistranslator's Draft  *Item 9*

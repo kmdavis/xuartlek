@@ -8,6 +8,7 @@ tags:
 aliases: ["Dueling Acumen"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7900"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Dueling Acumen  *Feat 2*

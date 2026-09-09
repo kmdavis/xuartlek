@@ -9,6 +9,7 @@ tags:
 aliases: ["Antlion Trap"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1947"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Antlion Trap  *Spell 3*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

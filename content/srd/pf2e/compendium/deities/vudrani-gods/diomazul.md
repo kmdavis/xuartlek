@@ -5,6 +5,7 @@ tags:
 aliases: ["Diomazul"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=614"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Diomazul  *Deity*

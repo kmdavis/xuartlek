@@ -7,6 +7,7 @@ tags:
 aliases: ["Mortem Ultimatum"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9165"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Mortem Ultimatum  *Feat 20*

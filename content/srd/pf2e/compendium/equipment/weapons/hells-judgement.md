@@ -9,6 +9,7 @@ tags:
 aliases: ["Hell's Judgement"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3847"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Hell's Judgement  *Item 16*

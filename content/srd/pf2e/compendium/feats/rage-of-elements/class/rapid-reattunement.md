@@ -9,6 +9,7 @@ tags:
 aliases: ["Rapid Reattunement"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4201"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Rapid Reattunement  *Feat 14*

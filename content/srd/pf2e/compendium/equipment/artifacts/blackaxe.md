@@ -11,6 +11,7 @@ tags:
 aliases: ["Blackaxe"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3176"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Blackaxe  *Item 25*

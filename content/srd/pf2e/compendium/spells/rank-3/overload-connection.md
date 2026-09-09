@@ -9,6 +9,7 @@ tags:
 aliases: ["Overload Connection"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2780"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Overload Connection  *Spell 3*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

@@ -5,6 +5,7 @@ tags:
 aliases: ["Cosmic Caravan"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=377"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Cosmic Caravan  *Deity*

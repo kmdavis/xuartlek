@@ -5,6 +5,7 @@ tags:
 aliases: ["Osiris"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=520"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Osiris  *Deity*

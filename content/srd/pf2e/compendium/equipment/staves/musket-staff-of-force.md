@@ -10,6 +10,7 @@ tags:
 aliases: ["Musket Staff of Force"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3587"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Musket Staff of Force  *Item 4*

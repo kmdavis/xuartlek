@@ -8,6 +8,7 @@ tags:
 aliases: ["Giant Squid Lash"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3207"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Giant Squid Lash  *Item 10*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Martyr"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4669"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Martyr  *Feat 8*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

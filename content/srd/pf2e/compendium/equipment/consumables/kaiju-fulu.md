@@ -10,6 +10,7 @@ tags:
 aliases: ["Kaiju Fulu"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2038"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Kaiju Fulu  *Item 13*

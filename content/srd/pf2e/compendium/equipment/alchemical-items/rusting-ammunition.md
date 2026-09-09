@@ -9,6 +9,7 @@ tags:
 aliases: ["Rusting Ammunition"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1901"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Rusting Ammunition  *Item 13+*

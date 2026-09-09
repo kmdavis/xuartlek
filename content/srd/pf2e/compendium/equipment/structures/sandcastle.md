@@ -10,6 +10,7 @@ tags:
 aliases: ["Sandcastle"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2595"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Sandcastle  *Item 11*

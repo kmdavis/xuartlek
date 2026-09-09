@@ -12,6 +12,7 @@ tags:
 aliases: ["Tangle Vine"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1713"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Tangle Vine  *Cantrip 1*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

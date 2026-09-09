@@ -8,6 +8,7 @@ tags:
 aliases: ["Shadow Double"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=154"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Shadow Double  *Ritual 4*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Mysterious Repertoire"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6079"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Mysterious Repertoire  *Feat 14*

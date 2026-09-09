@@ -10,6 +10,7 @@ tags:
 aliases: ["Cave Worm Venom"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3328"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Cave Worm Venom  *Item 12*

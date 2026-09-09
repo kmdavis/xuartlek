@@ -7,6 +7,7 @@ tags:
 aliases: ["Dawnsilver Weapon"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2857"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Dawnsilver Weapon  *Item 11+*

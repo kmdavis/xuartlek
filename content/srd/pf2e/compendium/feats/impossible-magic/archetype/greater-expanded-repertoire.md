@@ -7,6 +7,7 @@ tags:
 aliases: ["Greater Expanded Repertoire"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9306"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Greater Expanded Repertoire  *Feat 18*

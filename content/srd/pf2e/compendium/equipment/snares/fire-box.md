@@ -13,6 +13,7 @@ tags:
 aliases: ["Fire Box"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1128"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Fire Box  *Item 3*

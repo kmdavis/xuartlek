@@ -7,6 +7,7 @@ tags:
 aliases: ["Spellshield"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7983"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Spellshield  *Feat 8*

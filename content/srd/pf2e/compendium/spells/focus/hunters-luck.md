@@ -11,6 +11,7 @@ tags:
 aliases: ["Hunter's Luck"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1868"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Hunter's Luck  *Focus 2*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

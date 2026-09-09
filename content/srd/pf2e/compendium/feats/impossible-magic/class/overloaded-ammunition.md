@@ -7,6 +7,7 @@ tags:
 aliases: ["Overloaded Ammunition"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9199"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Overloaded Ammunition  *Feat 10*

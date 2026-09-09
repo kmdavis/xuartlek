@@ -7,6 +7,7 @@ tags:
 aliases: ["Eclectic Polymath"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4617"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Eclectic Polymath  *Feat 12*

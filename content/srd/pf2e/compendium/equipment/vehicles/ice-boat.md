@@ -6,6 +6,7 @@ tags:
 aliases: ["Ice Boat"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=111"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Ice Boat  *Vehicle 6*

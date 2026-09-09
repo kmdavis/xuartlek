@@ -11,6 +11,7 @@ tags:
 aliases: ["Oil of Unlife"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2938"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Oil of Unlife  *Item 1+*

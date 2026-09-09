@@ -9,6 +9,7 @@ tags:
 aliases: ["Whisper of the First Lie"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3118"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Whisper of the First Lie  *Item 20*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Catfolk"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=41"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Catfolk  *Creature Adjustment*

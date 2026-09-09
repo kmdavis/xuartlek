@@ -5,6 +5,7 @@ tags:
 aliases: ["The Distant Grasp"]
 aon_url: "https://2e.aonprd.com/ConsciousMinds.aspx?ID=7"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # The Distant Grasp  *Psychic Conscious Mind*

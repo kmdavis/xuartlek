@@ -12,6 +12,7 @@ name: "First-Class Infantry"
 level: 13
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3915"
+socialImage: og-image.png
 ---
 
 ```statblock

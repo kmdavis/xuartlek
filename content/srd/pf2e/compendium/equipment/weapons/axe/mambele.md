@@ -10,6 +10,7 @@ tags:
 aliases: ["Mambele"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=295"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mambele  *Weapon 0*

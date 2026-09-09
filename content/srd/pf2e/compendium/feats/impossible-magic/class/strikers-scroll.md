@@ -7,6 +7,7 @@ tags:
 aliases: ["Striker's Scroll"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9059"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Striker's Scroll  *Feat 4*

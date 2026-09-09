@@ -8,6 +8,7 @@ tags:
 aliases: ["Band Of Heroes"]
 aon_url: "https://2e.aonprd.com/MythicRituals.aspx?ID=189"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Band Of Heroes  *Ritual 3*

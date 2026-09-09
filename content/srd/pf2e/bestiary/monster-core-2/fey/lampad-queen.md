@@ -13,6 +13,7 @@ name: "Lampad Queen"
 level: 15
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4492"
+socialImage: og-image.png
 ---
 
 ```statblock

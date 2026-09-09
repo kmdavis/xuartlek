@@ -7,6 +7,7 @@ tags:
 aliases: ["Explosion of Power"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6106"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Explosion of Power  *Feat 8*

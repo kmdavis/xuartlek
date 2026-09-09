@@ -8,6 +8,7 @@ tags:
 aliases: ["Musetouched"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4546"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Musetouched  *Feat 1*

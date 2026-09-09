@@ -11,6 +11,7 @@ tags:
 aliases: ["Shadow Strike"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2814"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Shadow Strike  *Spell 4*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

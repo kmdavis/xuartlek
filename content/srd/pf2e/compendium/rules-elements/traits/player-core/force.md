@@ -6,6 +6,7 @@ tags:
 aliases: ["Force"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=610"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Force  *Trait*

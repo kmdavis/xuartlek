@@ -5,6 +5,7 @@ tags:
 aliases: ["Bloodrager"]
 aon_url: "https://2e.aonprd.com/Instincts.aspx?ID=14"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Bloodrager  *Barbarian Instinct*

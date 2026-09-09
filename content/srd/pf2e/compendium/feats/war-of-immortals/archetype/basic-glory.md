@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Glory"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7227"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Basic Glory  *Feat 4*

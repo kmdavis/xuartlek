@@ -8,6 +8,7 @@ tags:
 aliases: ["Communion Mat"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2174"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Communion Mat  *Item 14*

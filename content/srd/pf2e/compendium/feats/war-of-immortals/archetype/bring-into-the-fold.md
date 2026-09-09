@@ -11,6 +11,7 @@ tags:
 aliases: ["Bring into the Fold"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7364"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Bring into the Fold  *Feat 16*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

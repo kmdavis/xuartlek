@@ -7,6 +7,7 @@ tags:
 aliases: ["Grand Metamorphosis"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5393"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Grand Metamorphosis  *Feat 9*

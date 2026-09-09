@@ -8,6 +8,7 @@ tags:
 aliases: ["Black Tendril Shot"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2045"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Black Tendril Shot  *Item 7+*

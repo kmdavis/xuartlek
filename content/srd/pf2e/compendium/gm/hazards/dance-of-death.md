@@ -8,6 +8,7 @@ tags:
 aliases: ["Dance of Death"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=488"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Dance of Death  *Hazard 16*

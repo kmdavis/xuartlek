@@ -8,6 +8,7 @@ tags:
 aliases: ["Explosive Savant"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3283"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Explosive Savant  *Feat 1*

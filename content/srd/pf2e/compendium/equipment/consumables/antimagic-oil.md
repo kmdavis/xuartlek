@@ -10,6 +10,7 @@ tags:
 aliases: ["Antimagic Oil"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2930"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Antimagic Oil  *Item 20*

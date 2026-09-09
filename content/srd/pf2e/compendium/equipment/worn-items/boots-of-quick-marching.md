@@ -8,6 +8,7 @@ tags:
 aliases: ["Boots of Quick Marching"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3958"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Boots of Quick Marching  *Item 3*

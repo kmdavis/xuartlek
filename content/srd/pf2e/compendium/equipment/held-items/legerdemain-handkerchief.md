@@ -8,6 +8,7 @@ tags:
 aliases: ["Legerdemain Handkerchief"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2194"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Legerdemain Handkerchief  *Item 2*

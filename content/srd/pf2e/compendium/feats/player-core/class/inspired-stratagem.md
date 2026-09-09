@@ -7,6 +7,7 @@ tags:
 aliases: ["Inspired Stratagem"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4952"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Inspired Stratagem  *Feat 8*

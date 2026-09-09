@@ -5,6 +5,7 @@ tags:
 aliases: ["Alseta"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=329"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Alseta  *Deity*

@@ -9,6 +9,7 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2137"
 citation: "Player Core pg. 226"
+socialImage: og-image.png
 ---
 
 # Skill Checks and DCs

@@ -9,6 +9,7 @@ tags:
 aliases: ["Ash Gown"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2599"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Ash Gown  *Item 7+*

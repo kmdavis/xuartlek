@@ -9,6 +9,7 @@ tags:
 aliases: ["Staff of Metal"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2621"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Staff of Metal  *Item 6+*

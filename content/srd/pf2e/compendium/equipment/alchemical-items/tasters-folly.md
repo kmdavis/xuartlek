@@ -10,6 +10,7 @@ tags:
 aliases: ["Taster's Folly"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2017"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Taster's Folly  *Item 4*

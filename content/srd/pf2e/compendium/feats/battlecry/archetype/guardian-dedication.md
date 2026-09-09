@@ -9,6 +9,7 @@ tags:
 aliases: ["Guardian Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7892"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Guardian Dedication  *Feat 2*

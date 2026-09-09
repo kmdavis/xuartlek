@@ -11,6 +11,7 @@ tags:
 - compendium/src/pf2e/war-of-immortals
 aliases: ["Class Samples"]
 entries: 66
+socialImage: og-image.png
 ---
 
 # Class Samples

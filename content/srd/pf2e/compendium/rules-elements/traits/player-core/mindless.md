@@ -6,6 +6,7 @@ tags:
 aliases: ["Mindless"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=652"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Mindless  *Trait*

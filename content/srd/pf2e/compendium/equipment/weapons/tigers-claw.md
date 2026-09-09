@@ -9,6 +9,7 @@ tags:
 aliases: ["Tiger's Claw"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1186"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Tiger's Claw  *Item 11*

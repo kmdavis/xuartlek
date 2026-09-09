@@ -7,6 +7,7 @@ tags:
 aliases: ["Sublime Mobility"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7202"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Sublime Mobility  *Feat 1*

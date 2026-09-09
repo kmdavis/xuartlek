@@ -8,6 +8,7 @@ tags:
 aliases: ["Fulmination Fang"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3215"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Fulmination Fang  *Item 4*

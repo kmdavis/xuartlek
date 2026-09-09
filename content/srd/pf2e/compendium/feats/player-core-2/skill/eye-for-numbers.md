@@ -8,6 +8,7 @@ tags:
 aliases: ["Eye for Numbers"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6481"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Eye for Numbers  *Feat 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

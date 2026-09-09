@@ -8,6 +8,7 @@ tags:
 aliases: ["Growth Gun"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1167"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Growth Gun  *Item 9*

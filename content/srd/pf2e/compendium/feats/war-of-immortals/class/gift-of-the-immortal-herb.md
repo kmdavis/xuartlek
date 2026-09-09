@@ -12,6 +12,7 @@ tags:
 aliases: ["Gift of the Immortal Herb"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7184"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Gift of the Immortal Herb  *Feat 16*

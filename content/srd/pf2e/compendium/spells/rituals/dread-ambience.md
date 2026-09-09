@@ -11,6 +11,7 @@ tags:
 aliases: ["Dread Ambience"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=251"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Dread Ambience  *Ritual 5*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Aquadynamic"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=792"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Aquadynamic  *Trait*

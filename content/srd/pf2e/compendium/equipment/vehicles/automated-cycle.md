@@ -7,6 +7,7 @@ tags:
 aliases: ["Automated Cycle"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=18"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Automated Cycle  *Vehicle 1*

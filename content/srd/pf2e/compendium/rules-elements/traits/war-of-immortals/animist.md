@@ -6,6 +6,7 @@ tags:
 aliases: ["Animist"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=836"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Animist  *Trait*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Trial by Skyfire"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6072"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Trial by Skyfire  *Feat 10*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

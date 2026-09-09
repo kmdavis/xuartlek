@@ -9,6 +9,7 @@ tags:
 aliases: ["Archfiend Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7320"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Archfiend Dedication  *Feat 12*

@@ -12,6 +12,7 @@ tags:
 aliases: ["Tears of Pearl"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5356"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Tears of Pearl  *Feat 9*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

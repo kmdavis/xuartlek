@@ -6,6 +6,7 @@ tags:
 aliases: ["Ancestry and Background"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=69"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Ancestry and Background  *Class Feature 1*

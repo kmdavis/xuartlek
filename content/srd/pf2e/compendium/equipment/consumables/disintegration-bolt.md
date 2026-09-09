@@ -9,6 +9,7 @@ tags:
 aliases: ["Disintegration Bolt"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3392"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Disintegration Bolt  *Item 15*

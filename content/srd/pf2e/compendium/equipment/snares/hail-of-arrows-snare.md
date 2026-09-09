@@ -10,6 +10,7 @@ tags:
 aliases: ["Hail of Arrows Snare"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3373"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Hail of Arrows Snare  *Item 16*

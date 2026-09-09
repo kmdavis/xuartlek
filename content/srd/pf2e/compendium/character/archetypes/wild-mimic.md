@@ -6,6 +6,7 @@ tags:
 aliases: ["Wild Mimic"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=226"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Wild Mimic  *Archetype 2*

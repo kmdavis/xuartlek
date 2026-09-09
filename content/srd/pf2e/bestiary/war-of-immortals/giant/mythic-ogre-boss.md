@@ -13,6 +13,7 @@ name: "Mythic Ogre Boss"
 level: 7
 source: "War of Immortals"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3401"
+socialImage: og-image.png
 ---
 
 ```statblock

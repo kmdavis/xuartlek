@@ -6,6 +6,7 @@ tags:
 aliases: ["Modular"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=807"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Modular  *Trait*

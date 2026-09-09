@@ -7,6 +7,7 @@ tags:
 aliases: ["Cannon Corner Shot"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3225"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Cannon Corner Shot  *Feat 6*

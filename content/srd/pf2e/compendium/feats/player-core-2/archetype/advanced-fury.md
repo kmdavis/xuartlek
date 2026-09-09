@@ -7,6 +7,7 @@ tags:
 aliases: ["Advanced Fury"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6193"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Advanced Fury  *Feat 6*

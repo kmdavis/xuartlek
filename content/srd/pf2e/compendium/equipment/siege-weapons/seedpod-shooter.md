@@ -9,6 +9,7 @@ tags:
 aliases: ["Seedpod Shooter"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=30"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Seedpod Shooter  *Siege Weapon 11*

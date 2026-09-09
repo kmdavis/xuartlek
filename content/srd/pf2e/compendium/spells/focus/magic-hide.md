@@ -10,6 +10,7 @@ tags:
 aliases: ["Magic Hide"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1865"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Magic Hide  *Focus 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

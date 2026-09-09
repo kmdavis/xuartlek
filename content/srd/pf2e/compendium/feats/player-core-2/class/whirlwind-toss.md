@@ -8,6 +8,7 @@ tags:
 aliases: ["Whirlwind Toss"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5876"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Whirlwind Toss  *Feat 18*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

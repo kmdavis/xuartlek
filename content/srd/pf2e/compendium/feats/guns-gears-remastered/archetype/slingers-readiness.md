@@ -7,6 +7,7 @@ tags:
 aliases: ["Slinger's Readiness"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3218"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Slinger's Readiness  *Feat 6*

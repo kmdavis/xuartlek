@@ -9,6 +9,7 @@ tags:
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3412"
 citation: "NPC Core pg. 228"
+socialImage: og-image.png
 ---
 
 # NPC Advancement

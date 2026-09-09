@@ -7,6 +7,7 @@ tags:
 aliases: ["Iridian Choirmaster"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=328"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Iridian Choirmaster  *Archetype 2*

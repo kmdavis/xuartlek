@@ -8,6 +8,7 @@ tags:
 aliases: ["Pendant of the Occult"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3098"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Pendant of the Occult  *Item 3+*

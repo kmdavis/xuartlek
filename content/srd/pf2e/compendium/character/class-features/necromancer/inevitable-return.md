@@ -6,6 +6,7 @@ tags:
 aliases: ["Inevitable Return"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=75"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Inevitable Return  *Class Feature 3*

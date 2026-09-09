@@ -9,6 +9,7 @@ tags:
 aliases: ["Dragon-Mouth Pistol"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=519"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Dragon-Mouth Pistol  *Weapon 0*

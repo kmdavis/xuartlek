@@ -7,6 +7,7 @@ tags:
 aliases: ["Shield of Faith"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4679"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Shield of Faith  *Feat 10*

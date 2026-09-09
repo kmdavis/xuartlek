@@ -8,6 +8,7 @@ tags:
 aliases: ["Chemical Trail"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5389"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Chemical Trail  *Feat 5*

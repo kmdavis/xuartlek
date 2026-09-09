@@ -9,6 +9,7 @@ tags:
 aliases: ["Desperate Resuscitation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7822"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Desperate Resuscitation  *Feat 14*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

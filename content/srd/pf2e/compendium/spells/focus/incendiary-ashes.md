@@ -12,6 +12,7 @@ tags:
 aliases: ["Incendiary Ashes"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2424"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Incendiary Ashes  *Focus 3*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

@@ -5,6 +5,7 @@ tags:
 aliases: ["Minderhal"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=494"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Minderhal  *Deity*

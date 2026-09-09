@@ -7,6 +7,7 @@ tags:
 aliases: ["Natural Magnetism"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4330"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Natural Magnetism  *Feat 9*

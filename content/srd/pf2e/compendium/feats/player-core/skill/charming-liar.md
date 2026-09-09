@@ -8,6 +8,7 @@ tags:
 aliases: ["Charming Liar"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5132"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Charming Liar  *Feat 1*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Kraken Figurehead"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2628"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Kraken Figurehead  *Item 10+*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Greatpick"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=378"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Greatpick  *Weapon 0*

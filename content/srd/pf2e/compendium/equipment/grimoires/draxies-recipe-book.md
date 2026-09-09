@@ -8,6 +8,7 @@ tags:
 aliases: ["Draxie's Recipe Book"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2177"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Draxie's Recipe Book  *Item 4*

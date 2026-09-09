@@ -9,6 +9,7 @@ tags:
 aliases: ["Glacial Zephyr"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=54"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Glacial Zephyr  *Siege Weapon 15*

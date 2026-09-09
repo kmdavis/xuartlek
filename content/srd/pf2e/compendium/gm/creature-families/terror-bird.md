@@ -5,6 +5,7 @@ tags:
 aliases: ["Terror Bird"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=626"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Terror Bird  *Creature Family*

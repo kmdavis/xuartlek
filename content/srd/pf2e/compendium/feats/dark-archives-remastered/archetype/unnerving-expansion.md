@@ -7,6 +7,7 @@ tags:
 aliases: ["Unnerving Expansion"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8472"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Unnerving Expansion  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

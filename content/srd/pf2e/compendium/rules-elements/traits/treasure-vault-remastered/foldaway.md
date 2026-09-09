@@ -6,6 +6,7 @@ tags:
 aliases: ["Foldaway"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=476"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Foldaway  *Trait*

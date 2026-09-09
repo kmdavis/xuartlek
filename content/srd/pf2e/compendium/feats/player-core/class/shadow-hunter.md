@@ -7,6 +7,7 @@ tags:
 aliases: ["Shadow Hunter"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4911"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Shadow Hunter  *Feat 18*

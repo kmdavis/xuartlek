@@ -5,6 +5,7 @@ tags:
 aliases: ["Prophesied Monarch"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=294"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Prophesied Monarch  *Archetype*

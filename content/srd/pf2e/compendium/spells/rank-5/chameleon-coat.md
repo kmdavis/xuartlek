@@ -9,6 +9,7 @@ tags:
 aliases: ["Chameleon Coat"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1973"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Chameleon Coat  *Spell 5*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

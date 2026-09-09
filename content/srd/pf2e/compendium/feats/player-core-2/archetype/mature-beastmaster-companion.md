@@ -7,6 +7,7 @@ tags:
 aliases: ["Mature Beastmaster Companion"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6269"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Mature Beastmaster Companion  *Feat 4*

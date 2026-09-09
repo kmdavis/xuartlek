@@ -9,6 +9,7 @@ tags:
 aliases: ["Glaive"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=375"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Glaive  *Weapon 0*

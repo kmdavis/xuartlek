@@ -10,6 +10,7 @@ tags:
 aliases: ["Corset Knife"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=278"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Corset Knife  *Weapon 0*

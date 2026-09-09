@@ -7,6 +7,7 @@ tags:
 aliases: ["Ride"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5206"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Ride  *Feat 1*

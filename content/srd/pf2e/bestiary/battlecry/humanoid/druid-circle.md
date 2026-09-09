@@ -12,6 +12,7 @@ name: "Druid Circle"
 level: 12
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3913"
+socialImage: og-image.png
 ---
 
 ```statblock

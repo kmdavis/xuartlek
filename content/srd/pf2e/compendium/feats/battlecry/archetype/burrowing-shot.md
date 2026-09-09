@@ -7,6 +7,7 @@ tags:
 aliases: ["Burrowing Shot"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7963"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Burrowing Shot  *Feat 10*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

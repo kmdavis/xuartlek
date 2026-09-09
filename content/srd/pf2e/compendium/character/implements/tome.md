@@ -5,6 +5,7 @@ tags:
 aliases: ["Tome"]
 aon_url: "https://2e.aonprd.com/Implements.aspx?ID=23"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Tome  *Thaumaturge Implement*

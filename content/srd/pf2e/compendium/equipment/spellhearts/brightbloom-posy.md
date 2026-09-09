@@ -9,6 +9,7 @@ tags:
 aliases: ["Brightbloom Posy"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2227"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Brightbloom Posy  *Item 8+*

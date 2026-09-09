@@ -11,6 +11,7 @@ tags:
 aliases: ["Mesmerizing Gaze"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6300"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Mesmerizing Gaze  *Feat 6*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

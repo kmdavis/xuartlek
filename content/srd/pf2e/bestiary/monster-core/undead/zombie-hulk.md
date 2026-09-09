@@ -13,6 +13,7 @@ name: "Zombie Hulk"
 level: 6
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3252"
+socialImage: og-image.png
 ---
 
 ```statblock

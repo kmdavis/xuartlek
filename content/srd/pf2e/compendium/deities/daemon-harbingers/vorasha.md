@@ -5,6 +5,7 @@ tags:
 aliases: ["Vorasha"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=422"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Vorasha  *Deity*

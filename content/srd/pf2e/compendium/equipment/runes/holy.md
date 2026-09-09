@@ -8,6 +8,7 @@ tags:
 aliases: ["Holy"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2842"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Holy  *Item 11*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Nightmare's Lament"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3219"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Nightmare's Lament  *Item 6*

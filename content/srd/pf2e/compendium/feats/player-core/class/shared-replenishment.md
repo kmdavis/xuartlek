@@ -7,6 +7,7 @@ tags:
 aliases: ["Shared Replenishment"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4685"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Shared Replenishment  *Feat 12*

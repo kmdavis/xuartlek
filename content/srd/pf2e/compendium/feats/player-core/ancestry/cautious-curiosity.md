@@ -7,6 +7,7 @@ tags:
 aliases: ["Cautious Curiosity"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4432"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Cautious Curiosity  *Feat 9*

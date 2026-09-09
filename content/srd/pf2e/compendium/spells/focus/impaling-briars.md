@@ -13,6 +13,7 @@ tags:
 aliases: ["Impaling Briars"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1857"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Impaling Briars  *Focus 8*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

@@ -8,6 +8,7 @@ tags:
 aliases: ["Duplicate Foe"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1505"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Duplicate Foe  *Spell 7*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

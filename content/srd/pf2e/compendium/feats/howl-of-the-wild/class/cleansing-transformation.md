@@ -7,6 +7,7 @@ tags:
 aliases: ["Cleansing Transformation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5406"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Cleansing Transformation  *Feat 14*

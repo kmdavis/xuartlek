@@ -8,6 +8,7 @@ tags:
 aliases: ["Ghostcaller's Planchette"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2230"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Ghostcaller's Planchette  *Item 12+*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Make 'em Sweat"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5964"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Make 'em Sweat  *Feat 12*

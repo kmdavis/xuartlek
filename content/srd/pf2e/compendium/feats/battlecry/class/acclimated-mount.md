@@ -7,6 +7,7 @@ tags:
 aliases: ["Acclimated Mount"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7991"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Acclimated Mount  *Feat 4*

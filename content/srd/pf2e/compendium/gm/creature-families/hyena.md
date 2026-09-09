@@ -5,6 +5,7 @@ tags:
 aliases: ["Hyena"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=433"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Hyena  *Creature Family*

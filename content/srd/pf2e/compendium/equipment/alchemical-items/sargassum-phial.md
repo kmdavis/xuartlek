@@ -12,6 +12,7 @@ tags:
 aliases: ["Sargassum Phial"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3232"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Sargassum Phial  *Item 6*

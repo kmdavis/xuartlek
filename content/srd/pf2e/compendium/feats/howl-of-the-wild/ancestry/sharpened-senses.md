@@ -7,6 +7,7 @@ tags:
 aliases: ["Sharpened Senses"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5318"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Sharpened Senses  *Feat 13*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

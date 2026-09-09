@@ -8,6 +8,7 @@ tags:
 aliases: ["Buoyant Bubbles"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1383"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Buoyant Bubbles  *Spell 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

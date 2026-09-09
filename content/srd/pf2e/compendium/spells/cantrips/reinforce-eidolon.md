@@ -10,6 +10,7 @@ tags:
 aliases: ["Reinforce Eidolon"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2918"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Reinforce Eidolon  *Cantrip 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

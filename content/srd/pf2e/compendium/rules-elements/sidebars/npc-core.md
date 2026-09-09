@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/npc-core
 aliases: ["Sidebars: NPC Core"]
 entries: 3
+socialImage: og-image.png
 ---
 
 # Sidebars: NPC Core

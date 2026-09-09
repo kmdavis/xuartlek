@@ -10,6 +10,7 @@ tags:
 aliases: ["Immolation Clan Pistol"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1175"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Immolation Clan Pistol  *Item 10*

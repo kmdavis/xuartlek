@@ -10,6 +10,7 @@ tags:
 aliases: ["Lancer (Melee)"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=346"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Lancer (Melee)  *Weapon 0*

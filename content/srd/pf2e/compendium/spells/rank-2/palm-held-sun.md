@@ -12,6 +12,7 @@ tags:
 aliases: ["Palm-Held Sun"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2782"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Palm-Held Sun  *Spell 2*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

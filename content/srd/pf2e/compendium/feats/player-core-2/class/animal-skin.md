@@ -9,6 +9,7 @@ tags:
 aliases: ["Animal Skin"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5824"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Animal Skin  *Feat 6*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Contact"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=565"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Contact  *Trait*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Leaden Weight"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5057"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Leaden Weight  *Item 5*

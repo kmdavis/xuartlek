@@ -6,6 +6,7 @@ tags:
 aliases: ["Humanoid"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=628"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Humanoid  *Trait*

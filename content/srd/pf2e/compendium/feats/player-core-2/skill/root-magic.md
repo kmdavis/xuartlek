@@ -8,6 +8,7 @@ tags:
 aliases: ["Root Magic"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6501"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Root Magic  *Feat 1*

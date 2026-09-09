@@ -7,6 +7,7 @@ tags:
 aliases: ["Witch's Armaments"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4995"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Witch's Armaments  *Feat 1*

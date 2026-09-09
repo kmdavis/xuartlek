@@ -10,6 +10,7 @@ tags:
 aliases: ["Wolfsbane"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3349"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Wolfsbane  *Item 10*

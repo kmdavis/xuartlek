@@ -8,12 +8,13 @@ tags:
 aliases: ["Mythic Strike"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7302"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Mythic Strike  *Feat 10*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Mythic`  `Uncommon`
 
-You infuse your weapon or unarmed attack with mythic power before lashing out at an enemy with devastating force. Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/index|Mythic Point]] and then [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] a creature with a weapon you’re wielding or an unarmed attack you have available. This Strike is made at mythic proficiency, and the weapon or unarmed attack counts as a mythic weapon for the purposes of overcoming mythic resistance or mythic immunity.
+You infuse your weapon or unarmed attack with mythic power before lashing out at an enemy with devastating force. Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]] and then [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] a creature with a weapon you’re wielding or an unarmed attack you have available. This Strike is made at mythic proficiency, and the weapon or unarmed attack counts as a mythic weapon for the purposes of overcoming mythic resistance or mythic immunity.
 
 *Source: War of Immortals p. 84*

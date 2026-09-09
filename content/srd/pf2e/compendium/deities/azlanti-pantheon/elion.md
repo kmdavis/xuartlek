@@ -5,6 +5,7 @@ tags:
 aliases: ["Elion"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=405"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Elion  *Deity*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Samsaran"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=619"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Samsaran  *Creature Family*

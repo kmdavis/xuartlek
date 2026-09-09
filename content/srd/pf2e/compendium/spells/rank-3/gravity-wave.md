@@ -8,6 +8,7 @@ tags:
 aliases: ["Gravity Wave"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2724"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Gravity Wave  *Spell 3*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

@@ -7,6 +7,7 @@ tags:
 aliases: ["Fantastic Leaps"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5700"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Fantastic Leaps  *Feat 5*

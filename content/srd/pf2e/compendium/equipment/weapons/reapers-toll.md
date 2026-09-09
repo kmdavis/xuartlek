@@ -10,6 +10,7 @@ tags:
 aliases: ["Reaper's Toll"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3856"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Reaper's Toll  *Item 15*

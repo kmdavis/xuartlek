@@ -13,6 +13,7 @@ name: "Plague Zombie"
 level: 1
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3250"
+socialImage: og-image.png
 ---
 
 ```statblock

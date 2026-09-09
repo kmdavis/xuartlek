@@ -10,6 +10,7 @@ tags:
 aliases: ["Agile Feet"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1838"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Agile Feet  *Focus 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

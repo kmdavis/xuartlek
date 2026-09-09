@@ -12,6 +12,7 @@ tags:
 aliases: ["Cinder Gaze"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2584"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Cinder Gaze  *Focus 1*

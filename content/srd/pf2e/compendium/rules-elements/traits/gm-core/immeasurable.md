@@ -6,6 +6,7 @@ tags:
 aliases: ["Immeasurable"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=630"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Immeasurable  *Trait*

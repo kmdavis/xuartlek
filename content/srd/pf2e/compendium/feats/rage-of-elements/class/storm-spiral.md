@@ -13,6 +13,7 @@ tags:
 aliases: ["Storm Spiral"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4215"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Storm Spiral  *Feat 8*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

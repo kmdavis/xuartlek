@@ -7,6 +7,7 @@ tags:
 aliases: ["Shield your Eyes"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7841"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Shield your Eyes  *Feat 2*

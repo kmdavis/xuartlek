@@ -9,6 +9,7 @@ tags:
 aliases: ["Urumi"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=306"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Urumi  *Weapon 0*

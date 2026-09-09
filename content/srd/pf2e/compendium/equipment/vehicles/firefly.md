@@ -7,6 +7,7 @@ tags:
 aliases: ["Firefly"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=26"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Firefly  *Vehicle 5*

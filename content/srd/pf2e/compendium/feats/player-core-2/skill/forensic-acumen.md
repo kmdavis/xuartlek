@@ -8,6 +8,7 @@ tags:
 aliases: ["Forensic Acumen"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6483"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Forensic Acumen  *Feat 1*

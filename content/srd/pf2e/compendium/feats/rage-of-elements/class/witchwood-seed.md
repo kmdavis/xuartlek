@@ -13,6 +13,7 @@ tags:
 aliases: ["Witchwood Seed"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4292"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Witchwood Seed  *Feat 12*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

@@ -9,6 +9,7 @@ tags:
 aliases: ["Muscle Mimicry"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8453"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Muscle Mimicry  *Feat 7*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

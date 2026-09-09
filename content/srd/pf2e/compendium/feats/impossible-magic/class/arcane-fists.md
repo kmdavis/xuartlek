@@ -7,6 +7,7 @@ tags:
 aliases: ["Arcane Fists"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9044"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Arcane Fists  *Feat 1*

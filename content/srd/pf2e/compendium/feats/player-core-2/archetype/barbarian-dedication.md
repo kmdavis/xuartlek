@@ -9,6 +9,7 @@ tags:
 aliases: ["Barbarian Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6190"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Barbarian Dedication  *Feat 2*

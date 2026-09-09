@@ -8,6 +8,7 @@ tags:
 aliases: ["Darkside Mirror"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=641"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Darkside Mirror  *Hazard 14*

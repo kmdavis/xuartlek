@@ -12,6 +12,7 @@ name: "Vrolikai"
 level: 20
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2901"
+socialImage: og-image.png
 ---
 
 ```statblock

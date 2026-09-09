@@ -7,6 +7,7 @@ tags:
 aliases: ["Magical Resistance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3098"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Magical Resistance  *Feat 5*

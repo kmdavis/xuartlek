@@ -6,6 +6,7 @@ tags:
 aliases: ["Invested"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=637"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Invested  *Trait*

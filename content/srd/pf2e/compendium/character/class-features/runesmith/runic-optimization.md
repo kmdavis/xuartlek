@@ -6,6 +6,7 @@ tags:
 aliases: ["Runic Optimization"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=76"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Runic Optimization  *Class Feature 7*

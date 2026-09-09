@@ -7,6 +7,7 @@ tags:
 aliases: ["Clever Gambit"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4924"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Clever Gambit  *Feat 2*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

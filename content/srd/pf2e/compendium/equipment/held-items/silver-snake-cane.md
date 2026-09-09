@@ -9,6 +9,7 @@ tags:
 aliases: ["Silver Snake Cane"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2618"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Silver Snake Cane  *Item 6*

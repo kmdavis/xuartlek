@@ -6,6 +6,7 @@ tags:
 aliases: ["Kitsune"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=879"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Kitsune  *Trait*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Metabolize Element"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4346"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Metabolize Element  *Feat 8*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

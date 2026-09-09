@@ -6,6 +6,7 @@ tags:
 aliases: ["Infused"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=797"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Infused  *Trait*

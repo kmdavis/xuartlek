@@ -7,6 +7,7 @@ tags:
 aliases: ["Advanced Revelation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6063"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Advanced Revelation  *Feat 6*

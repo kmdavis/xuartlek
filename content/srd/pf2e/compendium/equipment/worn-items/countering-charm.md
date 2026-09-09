@@ -9,6 +9,7 @@ tags:
 aliases: ["Countering Charm"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3070"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Countering Charm  *Item 11+*

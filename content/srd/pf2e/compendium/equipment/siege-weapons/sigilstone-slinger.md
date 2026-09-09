@@ -9,6 +9,7 @@ tags:
 aliases: ["Sigilstone Slinger"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=61"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Sigilstone Slinger  *Siege Weapon 14*

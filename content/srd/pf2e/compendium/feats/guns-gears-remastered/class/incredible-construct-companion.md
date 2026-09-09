@@ -7,6 +7,7 @@ tags:
 aliases: ["Incredible Construct Companion"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3065"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Incredible Construct Companion  *Feat 8*

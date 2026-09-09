@@ -8,6 +8,7 @@ tags:
 aliases: ["Blood Calls Blood"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7240"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Blood Calls Blood  *Feat 4*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

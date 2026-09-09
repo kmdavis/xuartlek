@@ -6,6 +6,7 @@ tags:
 aliases: ["Rage"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=680"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Rage  *Trait*

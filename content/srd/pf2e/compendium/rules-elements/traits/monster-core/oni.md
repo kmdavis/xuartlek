@@ -6,6 +6,7 @@ tags:
 aliases: ["Oni"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=765"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Oni  *Trait*

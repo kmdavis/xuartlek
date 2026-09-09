@@ -7,6 +7,7 @@ tags:
 aliases: ["Silver"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2920"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Silver  *Item 2+*

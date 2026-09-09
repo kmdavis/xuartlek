@@ -10,6 +10,7 @@ tags:
 aliases: ["Hell Staff"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2253"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Hell Staff  *Item 17*

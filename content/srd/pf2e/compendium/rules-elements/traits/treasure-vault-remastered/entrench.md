@@ -6,6 +6,7 @@ tags:
 aliases: ["Entrench"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=474"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Entrench  *Trait*

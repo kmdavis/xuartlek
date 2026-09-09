@@ -9,6 +9,7 @@ tags:
 aliases: ["Piston Gauntlets"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1872"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Piston Gauntlets  *Item 13*

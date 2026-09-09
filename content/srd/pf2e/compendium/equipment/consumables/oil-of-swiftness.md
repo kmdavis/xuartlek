@@ -10,6 +10,7 @@ tags:
 aliases: ["Oil of Swiftness"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2075"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Oil of Swiftness  *Item 6*

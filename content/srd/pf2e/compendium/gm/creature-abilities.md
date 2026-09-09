@@ -6,6 +6,7 @@ tags:
 - compendium/src/pf2e/rage-of-elements
 aliases: ["Creature Abilities"]
 entries: 41
+socialImage: og-image.png
 ---
 
 # Creature Abilities

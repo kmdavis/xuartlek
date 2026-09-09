@@ -11,6 +11,7 @@ tags:
 aliases: ["Interrogate"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7257"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Interrogate  *Feat 6*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

@@ -7,6 +7,7 @@ tags:
 aliases: ["Vigorous Health"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5576"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Vigorous Health  *Feat 1*

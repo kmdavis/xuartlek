@@ -11,6 +11,7 @@ name: "Magma Scorpion"
 level: 8
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4389"
+socialImage: og-image.png
 ---
 
 ```statblock

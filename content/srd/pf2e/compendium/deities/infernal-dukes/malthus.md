@@ -5,6 +5,7 @@ tags:
 aliases: ["Malthus"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=528"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Malthus  *Deity*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Muses"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=32"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Muses  *Class Feature 1*

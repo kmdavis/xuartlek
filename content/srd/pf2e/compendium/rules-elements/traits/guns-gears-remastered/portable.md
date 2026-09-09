@@ -6,6 +6,7 @@ tags:
 aliases: ["Portable"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=412"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Portable  *Trait*

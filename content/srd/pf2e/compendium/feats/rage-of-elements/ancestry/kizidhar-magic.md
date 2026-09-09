@@ -7,6 +7,7 @@ tags:
 aliases: ["Kizidhar Magic"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4320"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Kizidhar Magic  *Feat 9*

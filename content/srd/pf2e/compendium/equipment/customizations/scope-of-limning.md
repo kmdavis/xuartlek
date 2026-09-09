@@ -7,6 +7,7 @@ tags:
 aliases: ["Scope of Limning"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1215"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Scope of Limning  *Item 10*

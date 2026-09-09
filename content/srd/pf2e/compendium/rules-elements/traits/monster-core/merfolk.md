@@ -6,6 +6,7 @@ tags:
 aliases: ["Merfolk"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=761"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Merfolk  *Trait*

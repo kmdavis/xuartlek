@@ -8,6 +8,7 @@ tags:
 aliases: ["Wand of Continuation"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3051"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Wand of Continuation  *Item 5+*

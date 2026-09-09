@@ -5,6 +5,7 @@ tags:
 aliases: ["Sinspawn"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=471"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Sinspawn  *Creature Family*

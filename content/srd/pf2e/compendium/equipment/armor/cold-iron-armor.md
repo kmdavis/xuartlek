@@ -6,6 +6,7 @@ tags:
 aliases: ["Cold Iron Armor"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2798"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Cold Iron Armor  *Item 5+*

@@ -6,6 +6,7 @@ tags:
 aliases: ["War Wagon"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=106"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # War Wagon  *Vehicle 8*

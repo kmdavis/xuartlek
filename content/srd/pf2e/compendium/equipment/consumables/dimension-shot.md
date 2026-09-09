@@ -8,6 +8,7 @@ tags:
 aliases: ["Dimension Shot"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2049"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Dimension Shot  *Item 12*

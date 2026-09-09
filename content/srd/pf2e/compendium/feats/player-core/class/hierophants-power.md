@@ -7,6 +7,7 @@ tags:
 aliases: ["Hierophant's Power"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4765"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Hierophant's Power  *Feat 20*

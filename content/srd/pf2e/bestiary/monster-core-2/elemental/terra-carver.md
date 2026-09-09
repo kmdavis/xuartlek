@@ -11,6 +11,7 @@ name: "Terra Carver"
 level: 13
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4577"
+socialImage: og-image.png
 ---
 
 ```statblock

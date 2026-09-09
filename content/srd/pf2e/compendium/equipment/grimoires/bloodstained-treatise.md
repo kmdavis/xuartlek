@@ -8,6 +8,7 @@ tags:
 aliases: ["Bloodstained Treatise"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5121"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Bloodstained Treatise  *Item 7*

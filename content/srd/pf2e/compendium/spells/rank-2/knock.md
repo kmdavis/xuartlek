@@ -8,6 +8,7 @@ tags:
 aliases: ["Knock"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1581"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Knock  *Spell 2*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

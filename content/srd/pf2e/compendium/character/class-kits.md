@@ -5,6 +5,7 @@ tags:
 - compendium/src/pf2e/player-core-2
 aliases: ["Class Kits"]
 entries: 16
+socialImage: og-image.png
 ---
 
 # Class Kits

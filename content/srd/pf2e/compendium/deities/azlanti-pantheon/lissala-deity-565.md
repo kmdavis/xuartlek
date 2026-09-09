@@ -5,6 +5,7 @@ tags:
 aliases: ["Lissala"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=565"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Lissala  *Deity*

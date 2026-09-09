@@ -9,6 +9,7 @@ tags:
 aliases: ["Nexian Disgorger"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=57"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Nexian Disgorger  *Siege Weapon 17*

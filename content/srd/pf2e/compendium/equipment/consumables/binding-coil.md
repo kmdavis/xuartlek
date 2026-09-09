@@ -9,6 +9,7 @@ tags:
 aliases: ["Binding Coil"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5101"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Binding Coil  *Item 6+*

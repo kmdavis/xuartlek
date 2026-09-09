@@ -9,6 +9,7 @@ tags:
 aliases: ["Scale of Igroon"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2365"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Scale of Igroon  *Item 21*

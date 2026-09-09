@@ -7,6 +7,7 @@ tags:
 aliases: ["Mentor of Legends"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5333"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Mentor of Legends  *Feat 9*

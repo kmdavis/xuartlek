@@ -9,6 +9,7 @@ tags:
 aliases: ["Oil of Skating"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2074"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Oil of Skating  *Item 2*

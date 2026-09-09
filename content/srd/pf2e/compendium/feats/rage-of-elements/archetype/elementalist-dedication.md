@@ -9,6 +9,7 @@ tags:
 aliases: ["Elementalist Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4340"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Elementalist Dedication  *Feat 2*

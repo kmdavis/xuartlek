@@ -9,6 +9,7 @@ tags:
 aliases: ["Inventor's Chair"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2407"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Inventor's Chair  *Item 4*

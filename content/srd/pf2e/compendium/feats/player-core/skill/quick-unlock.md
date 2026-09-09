@@ -8,6 +8,7 @@ tags:
 aliases: ["Quick Unlock"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5201"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Quick Unlock  *Feat 7*

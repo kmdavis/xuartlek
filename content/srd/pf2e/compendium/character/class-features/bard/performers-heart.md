@@ -6,6 +6,7 @@ tags:
 aliases: ["Performer's Heart"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=32"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Performer's Heart  *Class Feature 9*

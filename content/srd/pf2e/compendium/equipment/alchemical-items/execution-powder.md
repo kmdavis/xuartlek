@@ -10,6 +10,7 @@ tags:
 aliases: ["Execution Powder"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2001"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Execution Powder  *Item 14*

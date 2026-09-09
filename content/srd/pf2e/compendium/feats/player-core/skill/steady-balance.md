@@ -8,6 +8,7 @@ tags:
 aliases: ["Steady Balance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5217"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Steady Balance  *Feat 1*

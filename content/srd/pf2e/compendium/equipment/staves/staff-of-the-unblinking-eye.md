@@ -9,6 +9,7 @@ tags:
 aliases: ["Staff of the Unblinking Eye"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3048"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Staff of the Unblinking Eye  *Item 6+*

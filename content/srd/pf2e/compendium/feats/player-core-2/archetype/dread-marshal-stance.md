@@ -8,6 +8,7 @@ tags:
 aliases: ["Dread Marshal Stance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6352"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Dread Marshal Stance  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

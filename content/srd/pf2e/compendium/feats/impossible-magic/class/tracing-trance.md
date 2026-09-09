@@ -7,6 +7,7 @@ tags:
 aliases: ["Tracing Trance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9190"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Tracing Trance  *Feat 6*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

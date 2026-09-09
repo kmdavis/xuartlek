@@ -10,6 +10,7 @@ tags:
 aliases: ["Immaculate Instrument"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3514"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Immaculate Instrument  *Item 12+*

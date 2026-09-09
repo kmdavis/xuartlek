@@ -7,6 +7,7 @@ tags:
 aliases: ["Master Qi Spells"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6040"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Master Qi Spells  *Feat 16*

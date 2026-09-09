@@ -7,6 +7,7 @@ tags:
 aliases: ["Marshall Fiendish Forces"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7324"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Marshall Fiendish Forces  *Feat 16*

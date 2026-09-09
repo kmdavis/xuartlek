@@ -10,6 +10,7 @@ tags:
 aliases: ["Leadenleg"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3339"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Leadenleg  *Item 4*

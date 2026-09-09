@@ -5,6 +5,7 @@ tags:
 aliases: ["Bugbear"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=374"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Bugbear  *Creature Family*

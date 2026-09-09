@@ -7,6 +7,7 @@ tags:
 aliases: ["Late Awakener"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5308"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Late Awakener  *Feat 5*

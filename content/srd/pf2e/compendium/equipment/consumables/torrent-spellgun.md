@@ -11,6 +11,7 @@ tags:
 aliases: ["Torrent Spellgun"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2128"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Torrent Spellgun  *Item 3+*

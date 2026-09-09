@@ -5,6 +5,7 @@ tags:
 aliases: ["Norgorber"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=289"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Norgorber  *Deity*

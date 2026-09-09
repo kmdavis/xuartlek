@@ -7,6 +7,7 @@ tags:
 aliases: ["Ammunition Thaumaturgy"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8353"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Ammunition Thaumaturgy  *Feat 1*

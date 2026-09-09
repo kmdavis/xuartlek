@@ -5,6 +5,7 @@ tags:
 aliases: ["Hryngar"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=432"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Hryngar  *Creature Family*

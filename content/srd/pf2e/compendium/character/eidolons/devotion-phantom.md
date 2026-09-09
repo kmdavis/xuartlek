@@ -8,6 +8,7 @@ tags:
 aliases: ["Devotion Phantom"]
 aon_url: "https://2e.aonprd.com/Eidolons.aspx?ID=20"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Devotion Phantom  *Summoner Eidolon*

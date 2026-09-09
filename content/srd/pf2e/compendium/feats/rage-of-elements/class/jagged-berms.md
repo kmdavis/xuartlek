@@ -13,6 +13,7 @@ tags:
 aliases: ["Jagged Berms"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4304"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Jagged Berms  *Feat 6*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

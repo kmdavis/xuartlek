@@ -7,6 +7,7 @@ tags:
 aliases: ["Arcane Safeguards"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3096"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Arcane Safeguards  *Feat 5*

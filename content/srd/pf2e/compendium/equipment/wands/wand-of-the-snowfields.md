@@ -9,6 +9,7 @@ tags:
 aliases: ["Wand of the Snowfields"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3429"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Wand of the Snowfields  *Item 14+*

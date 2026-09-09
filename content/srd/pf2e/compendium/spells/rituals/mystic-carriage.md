@@ -7,6 +7,7 @@ tags:
 aliases: ["Mystic Carriage"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=260"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Mystic Carriage  *Ritual 3*

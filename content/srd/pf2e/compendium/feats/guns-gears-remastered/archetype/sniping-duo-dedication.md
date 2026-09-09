@@ -8,6 +8,7 @@ tags:
 aliases: ["Sniping Duo Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3258"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sniping Duo Dedication  *Feat 2*

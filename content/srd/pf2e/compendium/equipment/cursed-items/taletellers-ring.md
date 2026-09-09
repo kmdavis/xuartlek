@@ -10,6 +10,7 @@ tags:
 aliases: ["Taleteller's Ring"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4147"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Taleteller's Ring  *Item 9*

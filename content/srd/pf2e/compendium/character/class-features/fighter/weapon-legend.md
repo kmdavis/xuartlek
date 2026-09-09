@@ -6,6 +6,7 @@ tags:
 aliases: ["Weapon Legend"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=35"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Weapon Legend  *Class Feature 13*

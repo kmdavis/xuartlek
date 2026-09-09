@@ -9,6 +9,7 @@ tags:
 aliases: ["Eagle Eyes"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3265"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Eagle Eyes  *Feat 12*

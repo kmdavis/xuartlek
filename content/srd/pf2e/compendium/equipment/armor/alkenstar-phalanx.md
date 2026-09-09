@@ -9,6 +9,7 @@ tags:
 aliases: ["Alkenstar Phalanx"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3801"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Alkenstar Phalanx  *Item 14*

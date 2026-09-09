@@ -8,6 +8,7 @@ tags:
 aliases: ["Shock"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2847"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Shock  *Item 8+*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Marvelous Medicines"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3027"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Marvelous Medicines  *Item 12+*

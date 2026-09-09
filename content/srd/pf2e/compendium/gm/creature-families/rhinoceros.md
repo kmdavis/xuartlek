@@ -5,6 +5,7 @@ tags:
 aliases: ["Rhinoceros"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=464"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Rhinoceros  *Creature Family*

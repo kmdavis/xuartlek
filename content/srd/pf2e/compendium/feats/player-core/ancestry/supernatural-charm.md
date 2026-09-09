@@ -8,6 +8,7 @@ tags:
 aliases: ["Supernatural Charm"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4570"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Supernatural Charm  *Feat 5*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Grudge Journal"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5128"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Grudge Journal  *Item 11*

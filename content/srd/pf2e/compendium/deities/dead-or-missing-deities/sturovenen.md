@@ -5,6 +5,7 @@ tags:
 aliases: ["Sturovenen"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=523"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Sturovenen  *Deity*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Planar Servitor"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=120"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Planar Servitor  *Ritual 5*

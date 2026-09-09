@@ -7,6 +7,7 @@ tags:
 aliases: ["Sapling Shield"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1860"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sapling Shield  *Item 3+*

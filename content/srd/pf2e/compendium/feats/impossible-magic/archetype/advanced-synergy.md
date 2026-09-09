@@ -7,6 +7,7 @@ tags:
 aliases: ["Advanced Synergy"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9311"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Advanced Synergy  *Feat 6*

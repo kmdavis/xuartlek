@@ -7,6 +7,7 @@ tags:
 aliases: ["Precise Debilitations"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4963"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Precise Debilitations  *Feat 10*

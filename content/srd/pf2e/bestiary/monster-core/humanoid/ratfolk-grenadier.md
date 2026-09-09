@@ -11,6 +11,7 @@ name: "Ratfolk Grenadier"
 level: 4
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3164"
+socialImage: og-image.png
 ---
 
 ```statblock

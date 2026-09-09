@@ -6,6 +6,7 @@ tags:
 aliases: ["Toll"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2769"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Toll  *Item 0*

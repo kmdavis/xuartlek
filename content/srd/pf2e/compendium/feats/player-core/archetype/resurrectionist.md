@@ -7,6 +7,7 @@ tags:
 aliases: ["Resurrectionist"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4697"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Resurrectionist  *Feat 16*

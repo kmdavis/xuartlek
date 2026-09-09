@@ -7,6 +7,7 @@ tags:
 aliases: ["False-Bottomed Mug"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4119"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # False-Bottomed Mug  *Item 0*

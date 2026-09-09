@@ -5,6 +5,7 @@ tags:
 aliases: ["Norn"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=448"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Norn  *Creature Family*

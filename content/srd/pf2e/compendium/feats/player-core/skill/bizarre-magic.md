@@ -8,6 +8,7 @@ tags:
 aliases: ["Bizarre Magic"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5126"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Bizarre Magic  *Feat 7*

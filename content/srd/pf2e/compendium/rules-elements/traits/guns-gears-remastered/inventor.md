@@ -6,6 +6,7 @@ tags:
 aliases: ["Inventor"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=408"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Inventor  *Trait*

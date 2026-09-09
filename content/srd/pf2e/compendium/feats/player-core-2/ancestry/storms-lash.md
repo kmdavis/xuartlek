@@ -7,6 +7,7 @@ tags:
 aliases: ["Storm's Lash"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5677"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Storm's Lash  *Feat 1*

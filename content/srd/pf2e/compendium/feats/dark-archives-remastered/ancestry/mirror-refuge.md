@@ -9,6 +9,7 @@ tags:
 aliases: ["Mirror Refuge"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8442"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mirror Refuge  *Feat 9*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

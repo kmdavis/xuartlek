@@ -7,6 +7,7 @@ tags:
 aliases: ["Musical Summons"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5421"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Musical Summons  *Feat 14*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

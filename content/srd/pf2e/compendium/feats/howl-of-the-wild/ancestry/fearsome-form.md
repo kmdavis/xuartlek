@@ -8,6 +8,7 @@ tags:
 aliases: ["Fearsome Form"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5320"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Fearsome Form  *Feat 17*

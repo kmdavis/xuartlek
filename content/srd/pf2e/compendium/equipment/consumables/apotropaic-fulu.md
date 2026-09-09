@@ -9,6 +9,7 @@ tags:
 aliases: ["Apotropaic Fulu"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5071"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Apotropaic Fulu  *Item 5*

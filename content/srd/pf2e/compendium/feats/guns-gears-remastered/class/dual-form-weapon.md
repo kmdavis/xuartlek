@@ -8,6 +8,7 @@ tags:
 aliases: ["Dual-Form Weapon"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3057"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Dual-Form Weapon  *Feat 4*

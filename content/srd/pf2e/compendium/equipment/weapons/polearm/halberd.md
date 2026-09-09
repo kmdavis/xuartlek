@@ -8,6 +8,7 @@ tags:
 aliases: ["Halberd"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=381"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Halberd  *Weapon 0*

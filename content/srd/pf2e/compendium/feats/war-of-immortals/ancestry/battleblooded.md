@@ -8,6 +8,7 @@ tags:
 aliases: ["Battleblooded"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7196"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Battleblooded  *Feat 1*

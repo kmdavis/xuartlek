@@ -11,6 +11,7 @@ name: "Adult Requiem Dragon"
 level: 15
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4358"
+socialImage: og-image.png
 ---
 
 ```statblock

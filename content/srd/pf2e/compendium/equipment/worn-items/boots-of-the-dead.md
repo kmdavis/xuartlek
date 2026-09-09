@@ -8,6 +8,7 @@ tags:
 aliases: ["Boots of the Dead"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3959"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Boots of the Dead  *Item 2*

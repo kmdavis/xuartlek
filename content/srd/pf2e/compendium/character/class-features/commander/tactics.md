@@ -6,6 +6,7 @@ tags:
 aliases: ["Tactics"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=66"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Tactics  *Class Feature 1*

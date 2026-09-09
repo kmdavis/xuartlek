@@ -7,6 +7,7 @@ tags:
 aliases: ["Realm Strider"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7325"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Realm Strider  *Feat 16*

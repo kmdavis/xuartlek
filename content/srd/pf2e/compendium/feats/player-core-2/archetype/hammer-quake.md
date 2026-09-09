@@ -8,6 +8,7 @@ tags:
 aliases: ["Hammer Quake"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6371"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Hammer Quake  *Feat 14*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

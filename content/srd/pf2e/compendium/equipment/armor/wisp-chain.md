@@ -9,6 +9,7 @@ tags:
 aliases: ["Wisp Chain"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2587"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Wisp Chain  *Item 9+*

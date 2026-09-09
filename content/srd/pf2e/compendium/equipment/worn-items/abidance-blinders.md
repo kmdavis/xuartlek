@@ -8,6 +8,7 @@ tags:
 aliases: ["Abidance Blinders"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3953"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Abidance Blinders  *Item 2*

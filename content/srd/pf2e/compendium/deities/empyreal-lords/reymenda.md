@@ -5,6 +5,7 @@ tags:
 aliases: ["Reymenda"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=482"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Reymenda  *Deity*

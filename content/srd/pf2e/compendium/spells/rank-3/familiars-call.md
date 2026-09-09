@@ -9,6 +9,7 @@ tags:
 aliases: ["Familiar's Call"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2696"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Familiar's Call  *Spell 3*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

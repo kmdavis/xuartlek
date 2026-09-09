@@ -11,6 +11,7 @@ name: "Globetrotting Scholar"
 level: 13
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3595"
+socialImage: og-image.png
 ---
 
 ```statblock

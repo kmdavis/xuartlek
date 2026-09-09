@@ -7,6 +7,7 @@ tags:
 aliases: ["Magus's Analysis"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9045"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Magus's Analysis  *Feat 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

@@ -7,6 +7,7 @@ tags:
 aliases: ["Canny Acumen"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5130"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Canny Acumen  *Feat 1*

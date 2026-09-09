@@ -8,6 +8,7 @@ tags:
 aliases: ["Derring-do"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6163"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Derring-do  *Feat 10*

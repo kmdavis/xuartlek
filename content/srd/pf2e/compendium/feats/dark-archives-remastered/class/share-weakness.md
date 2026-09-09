@@ -9,6 +9,7 @@ tags:
 aliases: ["Share Weakness"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8372"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Share Weakness  *Feat 10*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

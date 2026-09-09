@@ -8,6 +8,7 @@ tags:
 aliases: ["Eternal Guide"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7152"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Eternal Guide  *Feat 20*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Continuum Staff"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5162"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Continuum Staff  *Item 16*

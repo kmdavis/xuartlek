@@ -11,6 +11,7 @@ name: "Iron Hag"
 level: 6
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3042"
+socialImage: og-image.png
 ---
 
 ```statblock

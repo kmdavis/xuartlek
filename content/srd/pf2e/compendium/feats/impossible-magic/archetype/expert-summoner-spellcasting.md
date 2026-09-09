@@ -7,6 +7,7 @@ tags:
 aliases: ["Expert Summoner Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9313"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Expert Summoner Spellcasting  *Feat 12*

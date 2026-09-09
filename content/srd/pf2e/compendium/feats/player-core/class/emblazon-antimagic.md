@@ -7,6 +7,7 @@ tags:
 aliases: ["Emblazon Antimagic"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4682"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Emblazon Antimagic  *Feat 12*

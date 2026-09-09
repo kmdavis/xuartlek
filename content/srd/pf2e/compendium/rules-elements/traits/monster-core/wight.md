@@ -6,6 +6,7 @@ tags:
 aliases: ["Wight"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=779"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Wight  *Trait*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Two-Truths"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8443"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Two-Truths  *Feat 9*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

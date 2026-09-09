@@ -6,6 +6,7 @@ tags:
 aliases: ["Metamorphic"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=649"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Metamorphic  *Trait*

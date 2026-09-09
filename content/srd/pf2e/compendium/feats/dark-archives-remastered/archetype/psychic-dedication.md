@@ -9,6 +9,7 @@ tags:
 aliases: ["Psychic Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8391"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Psychic Dedication  *Feat 2*

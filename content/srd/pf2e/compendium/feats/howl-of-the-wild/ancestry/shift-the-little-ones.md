@@ -7,6 +7,7 @@ tags:
 aliases: ["Shift the Little Ones"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5380"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Shift the Little Ones  *Feat 13*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

@@ -9,6 +9,7 @@ tags:
 aliases: ["Drums of War"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2266"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Drums of War  *Item 4+*

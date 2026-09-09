@@ -6,6 +6,7 @@ tags:
 aliases: ["Free-Hand"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=613"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Free-Hand  *Trait*

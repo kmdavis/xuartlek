@@ -9,6 +9,7 @@ tags:
 source: "GM Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2995"
 citation: "GM Core pg. 145"
+socialImage: og-image.png
 ---
 
 # The Great Beyond

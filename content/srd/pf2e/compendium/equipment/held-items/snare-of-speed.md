@@ -7,6 +7,7 @@ tags:
 aliases: ["Snare of Speed"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3947"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Snare of Speed  *Item 15*

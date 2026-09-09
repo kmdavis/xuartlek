@@ -7,6 +7,7 @@ tags:
 aliases: ["Reinforced Rations"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=213"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Reinforced Rations  *Ritual 4*

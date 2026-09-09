@@ -12,6 +12,7 @@ tags:
 aliases: ["Fey Glamour"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2110"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Fey Glamour  *Focus 5*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

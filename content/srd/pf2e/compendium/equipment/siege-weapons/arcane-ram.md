@@ -9,6 +9,7 @@ tags:
 aliases: ["Arcane Ram"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=39"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Arcane Ram  *Siege Weapon 8*

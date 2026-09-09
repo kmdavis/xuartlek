@@ -7,6 +7,7 @@ tags:
 aliases: ["Twisting Twine"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3419"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Twisting Twine  *Item 3+*

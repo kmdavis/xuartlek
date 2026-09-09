@@ -10,6 +10,7 @@ tags:
 aliases: ["Sea Touch Elixir"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3311"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Sea Touch Elixir  *Item 5+*

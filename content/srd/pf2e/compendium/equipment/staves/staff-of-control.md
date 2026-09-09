@@ -8,6 +8,7 @@ tags:
 aliases: ["Staff of Control"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3039"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Staff of Control  *Item 6+*

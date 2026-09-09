@@ -7,6 +7,7 @@ tags:
 aliases: ["Instinct Ability"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6194"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Instinct Ability  *Feat 6*

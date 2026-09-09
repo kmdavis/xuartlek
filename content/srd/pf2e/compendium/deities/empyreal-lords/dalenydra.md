@@ -5,6 +5,7 @@ tags:
 aliases: ["Dalenydra"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=469"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Dalenydra  *Deity*

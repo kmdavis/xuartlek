@@ -8,6 +8,7 @@ tags:
 aliases: ["Wand of Crushing Leaps"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2276"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wand of Crushing Leaps  *Item 4*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Magnetite Scope"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1213"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Magnetite Scope  *Item 9+*

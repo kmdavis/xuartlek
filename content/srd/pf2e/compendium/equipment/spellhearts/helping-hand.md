@@ -8,6 +8,7 @@ tags:
 aliases: ["Helping Hand"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5155"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Helping Hand  *Item 3+*

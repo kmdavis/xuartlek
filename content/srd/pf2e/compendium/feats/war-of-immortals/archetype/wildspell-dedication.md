@@ -9,6 +9,7 @@ tags:
 aliases: ["Wildspell Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7418"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Wildspell Dedication  *Feat 12*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Hag"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=425"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Hag  *Creature Family*

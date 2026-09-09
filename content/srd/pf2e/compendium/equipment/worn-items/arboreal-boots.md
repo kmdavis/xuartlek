@@ -8,6 +8,7 @@ tags:
 aliases: ["Arboreal Boots"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3056"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Arboreal Boots  *Item 5+*

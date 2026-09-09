@@ -8,6 +8,7 @@ tags:
 aliases: ["Virtuosic Performer"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5235"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Virtuosic Performer  *Feat 1*

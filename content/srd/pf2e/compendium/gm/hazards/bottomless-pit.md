@@ -9,6 +9,7 @@ tags:
 aliases: ["Bottomless Pit"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=467"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Bottomless Pit  *Hazard 9*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Dhalavei"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=613"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Dhalavei  *Deity*

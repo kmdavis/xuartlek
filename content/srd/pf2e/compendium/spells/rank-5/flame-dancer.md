@@ -9,6 +9,7 @@ tags:
 aliases: ["Flame Dancer"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1356"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Flame Dancer  *Spell 5*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

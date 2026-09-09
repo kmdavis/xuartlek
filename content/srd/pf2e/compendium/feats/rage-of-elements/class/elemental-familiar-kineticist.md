@@ -7,6 +7,7 @@ tags:
 aliases: ["Elemental Familiar (Kineticist)"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4183"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Elemental Familiar (Kineticist)  *Feat 1*

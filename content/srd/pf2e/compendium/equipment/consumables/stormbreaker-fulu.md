@@ -11,6 +11,7 @@ tags:
 aliases: ["Stormbreaker Fulu"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5084"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Stormbreaker Fulu  *Item 16*

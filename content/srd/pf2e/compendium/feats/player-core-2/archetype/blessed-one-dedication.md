@@ -8,6 +8,7 @@ tags:
 aliases: ["Blessed One Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6277"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Blessed One Dedication  *Feat 2*

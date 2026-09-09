@@ -7,6 +7,7 @@ tags:
 aliases: ["Advanced Blood Potency"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6229"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Advanced Blood Potency  *Feat 6*

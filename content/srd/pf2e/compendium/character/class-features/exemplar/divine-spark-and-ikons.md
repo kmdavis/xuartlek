@@ -6,6 +6,7 @@ tags:
 aliases: ["Divine Spark and Ikons"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=65"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Divine Spark and Ikons  *Class Feature 1*

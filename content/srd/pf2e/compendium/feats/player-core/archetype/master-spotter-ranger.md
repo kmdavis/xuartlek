@@ -7,6 +7,7 @@ tags:
 aliases: ["Master Spotter (Ranger)"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5091"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Master Spotter (Ranger)  *Feat 12*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Unbelievable Escape"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3277"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Unbelievable Escape  *Feat 10*

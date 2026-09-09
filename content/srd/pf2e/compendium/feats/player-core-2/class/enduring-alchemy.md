@@ -7,6 +7,7 @@ tags:
 aliases: ["Enduring Alchemy"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5772"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Enduring Alchemy  *Feat 4*

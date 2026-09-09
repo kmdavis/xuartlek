@@ -7,6 +7,7 @@ tags:
 aliases: ["Gnome Weapon Familiarity"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4427"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Gnome Weapon Familiarity  *Feat 1*

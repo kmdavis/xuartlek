@@ -8,6 +8,7 @@ tags:
 aliases: ["Seasoned"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5210"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Seasoned  *Feat 1*

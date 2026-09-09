@@ -11,6 +11,7 @@ tags:
 aliases: ["Theatrical Mutagen"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1968"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Theatrical Mutagen  *Item 1+*

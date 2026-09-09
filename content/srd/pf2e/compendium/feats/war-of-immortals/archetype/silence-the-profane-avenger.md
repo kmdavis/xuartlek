@@ -7,6 +7,7 @@ tags:
 aliases: ["Silence the Profane (Avenger)"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7234"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Silence the Profane (Avenger)  *Feat 8*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

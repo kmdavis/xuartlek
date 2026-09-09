@@ -9,6 +9,7 @@ tags:
 aliases: ["Familiar Tattoo"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5177"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Familiar Tattoo  *Item 3*

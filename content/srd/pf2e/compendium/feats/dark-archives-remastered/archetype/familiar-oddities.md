@@ -8,6 +8,7 @@ tags:
 aliases: ["Familiar Oddities"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8471"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Familiar Oddities  *Feat 2*

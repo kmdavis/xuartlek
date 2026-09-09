@@ -8,6 +8,7 @@ tags:
 aliases: ["Smoke Bomb"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5770"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Smoke Bomb  *Feat 2*

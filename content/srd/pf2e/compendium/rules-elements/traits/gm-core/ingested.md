@@ -6,6 +6,7 @@ tags:
 aliases: ["Ingested"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=633"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Ingested  *Trait*

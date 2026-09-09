@@ -7,6 +7,7 @@ tags:
 aliases: ["Talos"]
 aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=58"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Talos  *Versatile Heritage*

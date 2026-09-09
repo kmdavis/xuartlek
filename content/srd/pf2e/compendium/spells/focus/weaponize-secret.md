@@ -12,6 +12,7 @@ tags:
 aliases: ["Weaponize Secret"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2594"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Weaponize Secret  *Focus 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

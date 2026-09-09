@@ -7,6 +7,7 @@ tags:
 aliases: ["Hampering Web"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=473"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Hampering Web  *Hazard 1*

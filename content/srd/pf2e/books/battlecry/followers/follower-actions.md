@@ -9,6 +9,7 @@ tags:
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3423"
 citation: "Battlecry! pg. 76"
+socialImage: og-image.png
 ---
 
 # Follower Actions

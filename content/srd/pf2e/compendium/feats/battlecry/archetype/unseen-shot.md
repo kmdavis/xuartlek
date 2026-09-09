@@ -7,6 +7,7 @@ tags:
 aliases: ["Unseen Shot"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7920"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Unseen Shot  *Feat 14*

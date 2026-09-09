@@ -8,6 +8,7 @@ tags:
 aliases: ["Quick Coercion"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5193"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Quick Coercion  *Feat 1*

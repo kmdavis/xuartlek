@@ -7,6 +7,7 @@ tags:
 aliases: ["Land Legs"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5300"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Land Legs  *Feat 1*

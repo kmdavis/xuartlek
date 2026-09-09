@@ -10,6 +10,7 @@ tags:
 aliases: ["Trump of the Oliphaunt"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=463"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Trump of the Oliphaunt  *Hazard 12*

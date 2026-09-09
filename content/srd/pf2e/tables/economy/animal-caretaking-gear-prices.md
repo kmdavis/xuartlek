@@ -4,6 +4,7 @@ tags:
 - table/economy
 aliases: ["Animal Caretaking Gear Prices"]
 source: "Lost Omens: Travel Guide p. 103"
+socialImage: og-image.png
 ---
 
 # Animal Caretaking Gear Prices

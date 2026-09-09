@@ -8,6 +8,7 @@ tags:
 aliases: ["Kithrender"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3851"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Kithrender  *Item 16*

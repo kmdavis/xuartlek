@@ -9,6 +9,7 @@ tags:
 aliases: ["Hovering Potion"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2086"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Hovering Potion  *Item 7*

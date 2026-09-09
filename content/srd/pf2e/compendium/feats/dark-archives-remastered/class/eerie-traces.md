@@ -11,6 +11,7 @@ tags:
 aliases: ["Eerie Traces"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8420"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Eerie Traces  *Feat 8*

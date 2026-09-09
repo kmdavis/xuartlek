@@ -9,6 +9,7 @@ tags:
 aliases: ["Frog Chair"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1162"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Frog Chair  *Item 8*

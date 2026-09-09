@@ -9,6 +9,7 @@ tags:
 aliases: ["Bottled Roc"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1947"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Bottled Roc  *Item 9*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Reactive Distraction"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4991"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Reactive Distraction  *Feat 20*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

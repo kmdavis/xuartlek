@@ -6,6 +6,7 @@ tags:
 aliases: ["Subtle"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=522"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Subtle  *Trait*

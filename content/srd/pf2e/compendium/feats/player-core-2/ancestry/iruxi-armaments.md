@@ -7,6 +7,7 @@ tags:
 aliases: ["Iruxi Armaments"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5633"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Iruxi Armaments  *Feat 1*

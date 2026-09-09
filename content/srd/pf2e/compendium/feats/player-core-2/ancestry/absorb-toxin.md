@@ -7,6 +7,7 @@ tags:
 aliases: ["Absorb Toxin"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5706"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Absorb Toxin  *Feat 9*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

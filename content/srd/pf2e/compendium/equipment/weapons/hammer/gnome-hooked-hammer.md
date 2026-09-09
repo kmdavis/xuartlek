@@ -11,6 +11,7 @@ tags:
 aliases: ["Gnome Hooked Hammer"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=408"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Gnome Hooked Hammer  *Weapon 0*

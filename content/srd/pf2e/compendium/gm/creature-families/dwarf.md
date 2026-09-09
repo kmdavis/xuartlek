@@ -5,6 +5,7 @@ tags:
 aliases: ["Dwarf"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=405"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Dwarf  *Creature Family*

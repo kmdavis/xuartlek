@@ -8,6 +8,7 @@ tags:
 aliases: ["Curse of Recoil"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2498"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Curse of Recoil  *Spell 1*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

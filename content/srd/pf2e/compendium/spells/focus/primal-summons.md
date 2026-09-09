@@ -10,6 +10,7 @@ tags:
 aliases: ["Primal Summons"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1854"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Primal Summons  *Focus 6*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

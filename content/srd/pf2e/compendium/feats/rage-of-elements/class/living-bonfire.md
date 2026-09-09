@@ -12,6 +12,7 @@ tags:
 aliases: ["Living Bonfire"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4298"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Living Bonfire  *Feat 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

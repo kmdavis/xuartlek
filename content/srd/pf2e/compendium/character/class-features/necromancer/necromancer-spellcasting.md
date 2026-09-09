@@ -6,6 +6,7 @@ tags:
 aliases: ["Necromancer Spellcasting"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=75"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Necromancer Spellcasting  *Class Feature 1*

@@ -11,6 +11,7 @@ tags:
 aliases: ["Cane Pistol (Melee)"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=215"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Cane Pistol (Melee)  *Weapon 0*

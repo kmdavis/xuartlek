@@ -7,6 +7,7 @@ tags:
 aliases: ["Firearm Cleaning Kit"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1204"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Firearm Cleaning Kit  *Item 0*

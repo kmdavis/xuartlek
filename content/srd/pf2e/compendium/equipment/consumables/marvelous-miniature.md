@@ -9,6 +9,7 @@ tags:
 aliases: ["Marvelous Miniature"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3002"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Marvelous Miniature  *Item 1+*

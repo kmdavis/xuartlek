@@ -7,6 +7,7 @@ tags:
 aliases: ["Annihilating Swing"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5877"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Annihilating Swing  *Feat 20*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

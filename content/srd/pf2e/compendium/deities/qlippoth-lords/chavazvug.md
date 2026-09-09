@@ -5,6 +5,7 @@ tags:
 aliases: ["Chavazvug"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=582"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Chavazvug  *Deity*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Warped by Rage"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7179"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Warped by Rage  *Feat 12*

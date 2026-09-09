@@ -7,6 +7,7 @@ tags:
 aliases: ["Expanded Necromancy"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9132"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Expanded Necromancy  *Feat 10*

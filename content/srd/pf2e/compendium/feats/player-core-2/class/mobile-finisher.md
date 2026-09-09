@@ -8,6 +8,7 @@ tags:
 aliases: ["Mobile Finisher"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6170"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Mobile Finisher  *Feat 12*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

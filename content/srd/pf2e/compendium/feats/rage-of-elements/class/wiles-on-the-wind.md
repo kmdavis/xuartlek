@@ -12,6 +12,7 @@ tags:
 aliases: ["Wiles on the Wind"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4217"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Wiles on the Wind  *Feat 12*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

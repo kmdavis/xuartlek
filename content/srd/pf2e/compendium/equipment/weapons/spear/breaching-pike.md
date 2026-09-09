@@ -10,6 +10,7 @@ tags:
 aliases: ["Breaching Pike"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=274"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Breaching Pike  *Weapon 0*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Bullet Dancer Burn"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3236"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Bullet Dancer Burn  *Feat 4*

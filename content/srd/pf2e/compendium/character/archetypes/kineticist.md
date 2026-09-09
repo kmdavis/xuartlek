@@ -6,6 +6,7 @@ tags:
 aliases: ["Kineticist"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=206"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Kineticist  *Archetype 2*

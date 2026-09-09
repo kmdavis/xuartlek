@@ -9,6 +9,7 @@ tags:
 source: "Treasure Vault (Remastered)"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=1956"
 citation: "Treasure Vault (Remastered) pg. 164"
+socialImage: og-image.png
 ---
 
 # Nature Crafting

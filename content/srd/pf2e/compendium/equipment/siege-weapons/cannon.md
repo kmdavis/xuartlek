@@ -8,6 +8,7 @@ tags:
 aliases: ["Cannon"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=13"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Cannon  *Siege Weapon 8*

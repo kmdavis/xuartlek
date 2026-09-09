@@ -6,6 +6,7 @@ tags:
 aliases: ["Guardian's Armor"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=67"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Guardian's Armor  *Class Feature 1*

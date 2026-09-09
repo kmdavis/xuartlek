@@ -7,6 +7,7 @@ tags:
 aliases: ["Vandal"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4449"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Vandal  *Feat 5*

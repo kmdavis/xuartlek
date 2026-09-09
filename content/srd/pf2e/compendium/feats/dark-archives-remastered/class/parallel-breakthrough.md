@@ -7,6 +7,7 @@ tags:
 aliases: ["Parallel Breakthrough"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8323"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Parallel Breakthrough  *Feat 6*

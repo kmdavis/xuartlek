@@ -10,6 +10,7 @@ tags:
 aliases: ["Indomitable Keepsake"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1230"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Indomitable Keepsake  *Item 3+*

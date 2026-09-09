@@ -8,6 +8,7 @@ tags:
 aliases: ["Divine Rebuttal"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4662"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Divine Rebuttal  *Feat 6*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

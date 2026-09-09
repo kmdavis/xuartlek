@@ -8,6 +8,7 @@ tags:
 aliases: ["Kizidhar's Shield"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2642"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Kizidhar's Shield  *Item 11*

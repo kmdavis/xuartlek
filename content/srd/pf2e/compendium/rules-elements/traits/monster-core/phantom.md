@@ -6,6 +6,7 @@ tags:
 aliases: ["Phantom"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=766"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Phantom  *Trait*

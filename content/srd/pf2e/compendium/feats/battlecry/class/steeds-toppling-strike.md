@@ -8,6 +8,7 @@ tags:
 aliases: ["Steed's Toppling Strike"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7993"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Steed's Toppling Strike  *Feat 12*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

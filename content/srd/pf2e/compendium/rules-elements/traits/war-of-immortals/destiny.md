@@ -6,6 +6,7 @@ tags:
 aliases: ["Destiny"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=838"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Destiny  *Trait*

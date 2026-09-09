@@ -9,6 +9,7 @@ tags:
 aliases: ["Sneaky Key"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2993"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Sneaky Key  *Item 5*

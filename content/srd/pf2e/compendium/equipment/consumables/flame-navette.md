@@ -9,6 +9,7 @@ tags:
 aliases: ["Flame Navette"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3407"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Flame Navette  *Item 16*

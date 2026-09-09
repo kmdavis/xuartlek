@@ -6,6 +6,7 @@ tags:
 aliases: ["Sailing Ship"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=79"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Sailing Ship  *Vehicle 9*

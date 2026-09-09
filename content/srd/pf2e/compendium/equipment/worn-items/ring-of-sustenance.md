@@ -9,6 +9,7 @@ tags:
 aliases: ["Ring of Sustenance"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3106"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Ring of Sustenance  *Item 7*

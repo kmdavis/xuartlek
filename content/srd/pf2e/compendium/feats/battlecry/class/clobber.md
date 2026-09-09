@@ -7,6 +7,7 @@ tags:
 aliases: ["Clobber"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7878"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Clobber  *Feat 16*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

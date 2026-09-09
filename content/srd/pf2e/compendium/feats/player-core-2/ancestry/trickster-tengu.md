@@ -7,6 +7,7 @@ tags:
 aliases: ["Trickster Tengu"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5692"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Trickster Tengu  *Feat 17*

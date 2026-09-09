@@ -7,6 +7,7 @@ tags:
 aliases: ["Eternal Wings"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4566"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Eternal Wings  *Feat 17*

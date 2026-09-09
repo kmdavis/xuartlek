@@ -10,6 +10,7 @@ tags:
 aliases: ["Leaden Steps"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2005"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Leaden Steps  *Spell 1*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

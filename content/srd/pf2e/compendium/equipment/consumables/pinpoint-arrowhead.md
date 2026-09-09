@@ -9,6 +9,7 @@ tags:
 aliases: ["Pinpoint Arrowhead"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3892"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Pinpoint Arrowhead  *Item 6*

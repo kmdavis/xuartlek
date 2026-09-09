@@ -9,6 +9,7 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2312"
 citation: "Player Core pg. 408"
+socialImage: og-image.png
 ---
 
 # Immunity, Weakness, and Resistance

@@ -8,6 +8,7 @@ tags:
 aliases: ["Bleeding Finisher"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6156"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Bleeding Finisher  *Feat 8*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

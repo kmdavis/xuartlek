@@ -7,6 +7,7 @@ tags:
 aliases: ["Mixed Maneuver"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6012"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Mixed Maneuver  *Feat 8*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

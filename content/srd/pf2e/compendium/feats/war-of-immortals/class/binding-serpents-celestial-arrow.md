@@ -8,6 +8,7 @@ tags:
 aliases: ["Binding Serpents Celestial Arrow"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7164"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Binding Serpents Celestial Arrow  *Feat 6*

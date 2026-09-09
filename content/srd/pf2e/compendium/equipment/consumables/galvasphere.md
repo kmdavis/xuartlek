@@ -9,6 +9,7 @@ tags:
 aliases: ["Galvasphere"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1136"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Galvasphere  *Item 4*

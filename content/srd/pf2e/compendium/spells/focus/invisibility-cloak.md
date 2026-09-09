@@ -11,6 +11,7 @@ tags:
 aliases: ["Invisibility Cloak"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1903"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Invisibility Cloak  *Focus 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

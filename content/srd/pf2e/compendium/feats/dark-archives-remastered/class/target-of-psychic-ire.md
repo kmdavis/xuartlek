@@ -9,6 +9,7 @@ tags:
 aliases: ["Target of Psychic Ire"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8344"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Target of Psychic Ire  *Feat 16*

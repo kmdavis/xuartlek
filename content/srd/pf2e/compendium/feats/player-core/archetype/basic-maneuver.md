@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Maneuver"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5082"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Basic Maneuver  *Feat 4*

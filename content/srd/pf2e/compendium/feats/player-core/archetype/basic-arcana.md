@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Arcana"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5108"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Basic Arcana  *Feat 4*

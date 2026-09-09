@@ -9,6 +9,7 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2099"
 citation: "Player Core pg. 91"
+socialImage: og-image.png
 ---
 
 # Reading Class Entries

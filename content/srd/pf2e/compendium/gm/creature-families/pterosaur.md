@@ -5,6 +5,7 @@ tags:
 aliases: ["Pterosaur"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=459"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Pterosaur  *Creature Family*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Automaton"]
 aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=48"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Automaton  *Ancestry*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Vonthos's Golden Bridge"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=36"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Vonthos's Golden Bridge  *Vehicle 17*

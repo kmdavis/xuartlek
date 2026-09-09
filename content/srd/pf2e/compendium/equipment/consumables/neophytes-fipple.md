@@ -8,6 +8,7 @@ tags:
 aliases: ["Neophyte's Fipple"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2122"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Neophyte's Fipple  *Item 3*

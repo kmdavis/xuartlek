@@ -9,6 +9,7 @@ tags:
 aliases: ["Skinstitch Salve"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3359"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Skinstitch Salve  *Item 7*

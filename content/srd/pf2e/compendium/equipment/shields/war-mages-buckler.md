@@ -9,6 +9,7 @@ tags:
 aliases: ["War Mage's Buckler"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3836"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # War Mage's Buckler  *Item 8*

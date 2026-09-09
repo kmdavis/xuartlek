@@ -8,6 +8,7 @@ tags:
 aliases: ["Gloaming Shard"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5018"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Gloaming Shard  *Item 11*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Occult Dragonblood"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5728"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Occult Dragonblood  *Feat 1*

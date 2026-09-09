@@ -6,6 +6,7 @@ tags:
 aliases: ["Bulwark"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=549"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Bulwark  *Trait*

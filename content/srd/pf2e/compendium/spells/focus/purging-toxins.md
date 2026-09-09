@@ -12,6 +12,7 @@ tags:
 aliases: ["Purging Toxins"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2427"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Purging Toxins  *Focus 3*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

@@ -6,6 +6,7 @@ tags:
 aliases: ["Impulse"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=502"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Impulse  *Trait*

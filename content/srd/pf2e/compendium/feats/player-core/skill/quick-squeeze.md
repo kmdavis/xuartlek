@@ -8,6 +8,7 @@ tags:
 aliases: ["Quick Squeeze"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5199"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Quick Squeeze  *Feat 1*

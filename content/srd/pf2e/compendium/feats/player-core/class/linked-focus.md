@@ -7,6 +7,7 @@ tags:
 aliases: ["Linked Focus"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5030"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Linked Focus  *Feat 4*

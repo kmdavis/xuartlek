@@ -10,6 +10,7 @@ tags:
 aliases: ["Cranial Detonation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8347"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Cranial Detonation  *Feat 18*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

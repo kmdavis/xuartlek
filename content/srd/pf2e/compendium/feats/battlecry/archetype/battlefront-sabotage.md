@@ -8,6 +8,7 @@ tags:
 aliases: ["Battlefront Sabotage"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7938"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Battlefront Sabotage  *Feat 10*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

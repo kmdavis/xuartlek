@@ -10,6 +10,7 @@ tags:
 aliases: ["Foresight"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1537"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Foresight  *Spell 9*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

@@ -5,6 +5,7 @@ tags:
 aliases: ["Mrtyu"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=543"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Mrtyu  *Deity*

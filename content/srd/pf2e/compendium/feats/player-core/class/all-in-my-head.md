@@ -9,6 +9,7 @@ tags:
 aliases: ["All in my Head"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4632"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # All in my Head  *Feat 18*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

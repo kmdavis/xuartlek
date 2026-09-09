@@ -10,6 +10,7 @@ tags:
 aliases: ["Wand of Toxic Blades"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2296"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wand of Toxic Blades  *Item 15+*

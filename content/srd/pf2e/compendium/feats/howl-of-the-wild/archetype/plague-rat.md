@@ -10,6 +10,7 @@ tags:
 aliases: ["Plague Rat"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5497"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Plague Rat  *Feat 6*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Juggernaut's Fortitude"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6195"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Juggernaut's Fortitude  *Feat 12*

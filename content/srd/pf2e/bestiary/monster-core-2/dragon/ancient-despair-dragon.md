@@ -12,6 +12,7 @@ name: "Ancient Despair Dragon"
 level: 18
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4353"
+socialImage: og-image.png
 ---
 
 ```statblock

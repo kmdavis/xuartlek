@@ -6,6 +6,7 @@ tags:
 aliases: ["Arcane"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=534"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Arcane  *Trait*

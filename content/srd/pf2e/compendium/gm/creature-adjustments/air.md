@@ -5,6 +5,7 @@ tags:
 aliases: ["Air"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=16"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Air  *Creature Adjustment*

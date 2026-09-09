@@ -12,6 +12,7 @@ name: "Ifrit"
 level: 9
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3006"
+socialImage: og-image.png
 ---
 
 ```statblock

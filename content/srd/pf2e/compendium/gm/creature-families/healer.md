@@ -5,6 +5,7 @@ tags:
 aliases: ["Healer"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=538"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Healer  *Creature Family*

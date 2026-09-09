@@ -8,6 +8,7 @@ tags:
 aliases: ["Social Purview"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6428"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Social Purview  *Feat 4*

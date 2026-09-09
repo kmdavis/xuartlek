@@ -10,6 +10,7 @@ tags:
 aliases: ["Stone Fist Elixir"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3312"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Stone Fist Elixir  *Item 4*

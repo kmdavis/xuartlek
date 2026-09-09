@@ -9,6 +9,7 @@ tags:
 aliases: ["Aroma Concealer"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3229"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Aroma Concealer  *Item 1*

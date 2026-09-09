@@ -6,6 +6,7 @@ tags:
 aliases: ["Skill Feats"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=62"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Skill Feats  *Class Feature 2*

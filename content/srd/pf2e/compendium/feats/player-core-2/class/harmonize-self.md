@@ -7,6 +7,7 @@ tags:
 aliases: ["Harmonize Self"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5995"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Harmonize Self  *Feat 4*

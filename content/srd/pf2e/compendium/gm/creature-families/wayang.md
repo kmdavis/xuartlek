@@ -5,6 +5,7 @@ tags:
 aliases: ["Wayang"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=633"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Wayang  *Creature Family*

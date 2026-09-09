@@ -5,6 +5,7 @@ tags:
 aliases: ["Miniature"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=26"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Miniature  *Creature Adjustment*

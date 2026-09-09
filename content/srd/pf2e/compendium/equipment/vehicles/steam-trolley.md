@@ -7,6 +7,7 @@ tags:
 aliases: ["Steam Trolley"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=24"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Steam Trolley  *Vehicle 4*

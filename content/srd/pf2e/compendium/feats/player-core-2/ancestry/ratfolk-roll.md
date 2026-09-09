@@ -8,6 +8,7 @@ tags:
 aliases: ["Ratfolk Roll"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5663"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Ratfolk Roll  *Feat 5*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

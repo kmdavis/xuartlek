@@ -5,6 +5,7 @@ tags:
 aliases: ["Ydajisk"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=554"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Ydajisk  *Deity*

@@ -12,6 +12,7 @@ tags:
 aliases: ["Rapier Pistol (Melee)"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=222"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Rapier Pistol (Melee)  *Weapon 0*

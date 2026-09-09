@@ -6,6 +6,7 @@ tags:
 aliases: ["Rope"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2748"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Rope  *Item 0*

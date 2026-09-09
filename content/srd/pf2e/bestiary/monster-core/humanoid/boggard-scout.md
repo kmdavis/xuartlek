@@ -13,6 +13,7 @@ level: 1
 source: "Monster Core"
 other_sources: "Pathfinder Game Night: Dawn of the Frogs (Deluxe Adventure)"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2856"
+socialImage: og-image.png
 ---
 
 ```statblock

@@ -8,6 +8,7 @@ tags:
 aliases: ["Unlimited Demesne"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8389"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Unlimited Demesne  *Feat 20*

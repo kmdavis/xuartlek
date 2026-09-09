@@ -7,6 +7,7 @@ tags:
 aliases: ["Mace"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=362"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Mace  *Weapon 0*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Weapon"]
 aon_url: "https://2e.aonprd.com/Implements.aspx?ID=25"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Weapon  *Thaumaturge Implement*

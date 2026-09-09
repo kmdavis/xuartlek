@@ -6,6 +6,7 @@ tags:
 aliases: ["Mindshift"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=900"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mindshift  *Trait*

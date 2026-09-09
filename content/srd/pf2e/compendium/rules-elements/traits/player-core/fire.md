@@ -6,6 +6,7 @@ tags:
 aliases: ["Fire"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=604"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Fire  *Trait*

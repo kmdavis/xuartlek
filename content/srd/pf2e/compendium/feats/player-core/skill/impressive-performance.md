@@ -8,6 +8,7 @@ tags:
 aliases: ["Impressive Performance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5159"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Impressive Performance  *Feat 1*

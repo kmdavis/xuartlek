@@ -5,6 +5,7 @@ tags:
 aliases: ["Amulet"]
 aon_url: "https://2e.aonprd.com/Implements.aspx?ID=17"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Amulet  *Thaumaturge Implement*

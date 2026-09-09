@@ -9,6 +9,7 @@ tags:
 aliases: ["Gauntlet Bow"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=538"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Gauntlet Bow  *Weapon 0*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Armor Potency"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2785"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Armor Potency  *Item 5+*

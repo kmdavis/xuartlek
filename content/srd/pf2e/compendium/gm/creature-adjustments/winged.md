@@ -5,6 +5,7 @@ tags:
 aliases: ["Winged"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=29"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Winged  *Creature Adjustment*

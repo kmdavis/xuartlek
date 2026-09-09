@@ -9,6 +9,7 @@ tags:
 aliases: ["Frigid Rebuke"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5053"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Frigid Rebuke  *Item 3*

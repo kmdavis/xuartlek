@@ -10,6 +10,7 @@ tags:
 aliases: ["Nightmare"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1615"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Nightmare  *Spell 4*

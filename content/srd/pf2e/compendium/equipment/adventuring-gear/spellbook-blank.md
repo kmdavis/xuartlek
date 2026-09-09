@@ -6,6 +6,7 @@ tags:
 aliases: ["Spellbook (Blank)"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2753"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Spellbook (Blank)  *Item 0*

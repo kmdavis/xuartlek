@@ -8,6 +8,7 @@ tags:
 aliases: ["Confound the Eye and Confuse the Mind"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=250"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Confound the Eye and Confuse the Mind  *Ritual 1*

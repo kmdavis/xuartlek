@@ -7,6 +7,7 @@ tags:
 aliases: ["Keep up the Good Fight"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7875"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Keep up the Good Fight  *Feat 14*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

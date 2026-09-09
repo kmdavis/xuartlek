@@ -7,6 +7,7 @@ tags:
 aliases: ["Expert Beast Gunner Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3232"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Expert Beast Gunner Spellcasting  *Feat 12*

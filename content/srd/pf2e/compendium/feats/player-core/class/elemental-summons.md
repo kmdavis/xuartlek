@@ -7,6 +7,7 @@ tags:
 aliases: ["Elemental Summons"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4721"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Elemental Summons  *Feat 4*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Bracers of Strength"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3008"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Bracers of Strength  *Item 17*

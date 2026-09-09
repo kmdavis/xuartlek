@@ -9,6 +9,7 @@ tags:
 aliases: ["Warding Tattoo"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5181"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Warding Tattoo  *Item 5+*

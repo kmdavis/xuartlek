@@ -12,6 +12,7 @@ tags:
 aliases: ["Talespinner's Lyre"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2127"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Talespinner's Lyre  *Item 11*

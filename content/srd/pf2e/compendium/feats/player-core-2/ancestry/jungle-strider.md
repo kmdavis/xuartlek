@@ -7,6 +7,7 @@ tags:
 aliases: ["Jungle Strider"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5695"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Jungle Strider  *Feat 1*

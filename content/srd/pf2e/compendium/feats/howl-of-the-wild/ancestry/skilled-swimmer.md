@@ -8,6 +8,7 @@ tags:
 aliases: ["Skilled Swimmer"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5285"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Skilled Swimmer  *Feat 5*

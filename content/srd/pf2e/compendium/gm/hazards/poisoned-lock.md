@@ -8,6 +8,7 @@ tags:
 aliases: ["Poisoned Lock"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=477"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Poisoned Lock  *Hazard 1*

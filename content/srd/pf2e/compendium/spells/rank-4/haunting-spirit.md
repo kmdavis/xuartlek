@@ -9,6 +9,7 @@ tags:
 aliases: ["Haunting Spirit"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2727"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Haunting Spirit  *Spell 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

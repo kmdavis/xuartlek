@@ -7,6 +7,7 @@ tags:
 aliases: ["Traitor's Ring"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4129"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Traitor's Ring  *Item 0*

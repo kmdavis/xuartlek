@@ -7,6 +7,7 @@ tags:
 aliases: ["Verdant Buckler"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5010"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Verdant Buckler  *Item 8*

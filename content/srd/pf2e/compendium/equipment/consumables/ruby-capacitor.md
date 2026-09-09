@@ -9,6 +9,7 @@ tags:
 aliases: ["Ruby Capacitor"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2113"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Ruby Capacitor  *Item 10+*

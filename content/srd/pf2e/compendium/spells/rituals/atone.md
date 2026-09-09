@@ -7,6 +7,7 @@ tags:
 aliases: ["Atone"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=108"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Atone  *Ritual 4*

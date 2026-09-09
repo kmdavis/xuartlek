@@ -5,6 +5,7 @@ tags:
 aliases: ["Arundhat"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=610"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Arundhat  *Deity*

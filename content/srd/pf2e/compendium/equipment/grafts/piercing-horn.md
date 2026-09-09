@@ -9,6 +9,7 @@ tags:
 aliases: ["Piercing Horn"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3186"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Piercing Horn  *Item 3+*

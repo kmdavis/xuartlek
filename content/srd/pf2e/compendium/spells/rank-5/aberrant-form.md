@@ -9,6 +9,7 @@ tags:
 aliases: ["Aberrant Form"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2627"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Aberrant Form  *Spell 5*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

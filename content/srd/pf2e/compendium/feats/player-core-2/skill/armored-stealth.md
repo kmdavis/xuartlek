@@ -8,6 +8,7 @@ tags:
 aliases: ["Armored Stealth"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6461"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Armored Stealth  *Feat 2*

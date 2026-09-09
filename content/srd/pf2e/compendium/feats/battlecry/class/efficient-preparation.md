@@ -7,6 +7,7 @@ tags:
 aliases: ["Efficient Preparation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7810"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Efficient Preparation  *Feat 6*

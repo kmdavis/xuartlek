@@ -7,6 +7,7 @@ tags:
 aliases: ["Wandering Oasis"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4753"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Wandering Oasis  *Feat 12*

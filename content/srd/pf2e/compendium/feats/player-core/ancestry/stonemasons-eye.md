@@ -7,6 +7,7 @@ tags:
 aliases: ["Stonemason's Eye"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4392"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Stonemason's Eye  *Feat 1*

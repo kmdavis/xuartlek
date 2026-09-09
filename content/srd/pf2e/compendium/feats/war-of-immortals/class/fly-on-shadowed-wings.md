@@ -8,6 +8,7 @@ tags:
 aliases: ["Fly on Shadowed Wings"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7140"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Fly on Shadowed Wings  *Feat 10*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

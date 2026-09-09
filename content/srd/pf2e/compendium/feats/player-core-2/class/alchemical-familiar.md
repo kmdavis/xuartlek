@@ -7,6 +7,7 @@ tags:
 aliases: ["Alchemical Familiar"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5760"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Alchemical Familiar  *Feat 1*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Monastic Weaponry"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5979"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Monastic Weaponry  *Feat 1*

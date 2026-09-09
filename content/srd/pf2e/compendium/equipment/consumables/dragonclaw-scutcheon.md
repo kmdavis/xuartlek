@@ -9,6 +9,7 @@ tags:
 aliases: ["Dragonclaw Scutcheon"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2101"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Dragonclaw Scutcheon  *Item 16*

@@ -5,6 +5,7 @@ tags:
 - compendium/src/pf2e/rage-of-elements
 aliases: ["Familiars Specific"]
 entries: 12
+socialImage: og-image.png
 ---
 
 # Familiars Specific

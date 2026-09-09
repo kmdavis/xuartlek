@@ -8,6 +8,7 @@ tags:
 aliases: ["Seismic Amplifier"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=31"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Seismic Amplifier  *Siege Weapon 15*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Serpent Dagger"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2871"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Serpent Dagger  *Item 5*

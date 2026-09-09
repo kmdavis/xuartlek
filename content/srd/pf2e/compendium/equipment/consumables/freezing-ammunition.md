@@ -9,6 +9,7 @@ tags:
 aliases: ["Freezing Ammunition"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3393"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Freezing Ammunition  *Item 5*

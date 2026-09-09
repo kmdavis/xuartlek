@@ -8,6 +8,7 @@ tags:
 aliases: ["Staff of Elemental Power"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3040"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Staff of Elemental Power  *Item 6+*

@@ -12,6 +12,7 @@ tags:
 aliases: ["Whipstaff"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=308"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Whipstaff  *Weapon 0*

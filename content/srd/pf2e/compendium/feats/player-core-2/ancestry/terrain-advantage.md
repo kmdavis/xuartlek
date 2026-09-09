@@ -7,6 +7,7 @@ tags:
 aliases: ["Terrain Advantage"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5645"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Terrain Advantage  *Feat 9*

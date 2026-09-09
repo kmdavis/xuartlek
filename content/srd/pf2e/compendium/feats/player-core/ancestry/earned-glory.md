@@ -8,6 +8,7 @@ tags:
 aliases: ["Earned Glory"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4567"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Earned Glory  *Feat 1*

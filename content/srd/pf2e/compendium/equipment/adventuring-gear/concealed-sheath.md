@@ -6,6 +6,7 @@ tags:
 aliases: ["Concealed Sheath"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2714"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Concealed Sheath  *Item 3*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Mountain Stance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5980"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Mountain Stance  *Feat 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

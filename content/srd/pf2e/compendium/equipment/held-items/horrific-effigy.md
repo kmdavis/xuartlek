@@ -8,6 +8,7 @@ tags:
 aliases: ["Horrific Effigy"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3939"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Horrific Effigy  *Item 15*

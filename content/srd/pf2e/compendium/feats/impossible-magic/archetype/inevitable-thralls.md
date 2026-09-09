@@ -7,6 +7,7 @@ tags:
 aliases: ["Inevitable Thralls"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9297"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Inevitable Thralls  *Feat 6*

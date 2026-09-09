@@ -5,6 +5,7 @@ tags:
 aliases: ["Asura"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=571"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Asura  *Creature Family*

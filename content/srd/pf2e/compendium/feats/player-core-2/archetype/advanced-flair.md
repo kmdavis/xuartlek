@@ -7,6 +7,7 @@ tags:
 aliases: ["Advanced Flair"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6236"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Advanced Flair  *Feat 6*

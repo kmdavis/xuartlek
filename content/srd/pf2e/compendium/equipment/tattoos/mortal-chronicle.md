@@ -9,6 +9,7 @@ tags:
 aliases: ["Mortal Chronicle"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2211"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mortal Chronicle  *Item 1*

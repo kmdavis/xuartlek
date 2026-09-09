@@ -9,6 +9,7 @@ tags:
 aliases: ["Psalter Of The Blessed"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5130"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Psalter Of The Blessed  *Item 12*

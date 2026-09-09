@@ -6,6 +6,7 @@ tags:
 aliases: ["Focus"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=511"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Focus  *Trait*

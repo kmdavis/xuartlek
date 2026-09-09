@@ -7,6 +7,7 @@ tags:
 aliases: ["Dread Striker"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4930"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Dread Striker  *Feat 4*

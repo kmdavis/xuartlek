@@ -7,6 +7,7 @@ tags:
 aliases: ["Thorough Search"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6510"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Thorough Search  *Feat 3*

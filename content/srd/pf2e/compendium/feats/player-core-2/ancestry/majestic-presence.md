@@ -11,6 +11,7 @@ tags:
 aliases: ["Majestic Presence"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5744"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Majestic Presence  *Feat 13*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

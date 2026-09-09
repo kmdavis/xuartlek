@@ -10,6 +10,7 @@ tags:
 aliases: ["Divine Disharmony"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8355"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Divine Disharmony  *Feat 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

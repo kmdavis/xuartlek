@@ -8,6 +8,7 @@ tags:
 aliases: ["Devastating Shield Wallop"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7869"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Devastating Shield Wallop  *Feat 12*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Satchel of Numberless Seeds"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3944"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Satchel of Numberless Seeds  *Item 8*

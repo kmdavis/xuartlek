@@ -7,6 +7,7 @@ tags:
 aliases: ["Uplifting Winds"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4761"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Uplifting Winds  *Feat 16*

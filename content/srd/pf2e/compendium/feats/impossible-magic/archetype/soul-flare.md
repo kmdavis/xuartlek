@@ -8,6 +8,7 @@ tags:
 aliases: ["Soul Flare"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9351"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Soul Flare  *Feat 4*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

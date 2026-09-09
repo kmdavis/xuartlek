@@ -8,6 +8,7 @@ tags:
 aliases: ["Keen"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2843"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Keen  *Item 13*

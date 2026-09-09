@@ -9,6 +9,7 @@ tags:
 aliases: ["Entertainer's Cincture"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3082"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Entertainer's Cincture  *Item 10+*

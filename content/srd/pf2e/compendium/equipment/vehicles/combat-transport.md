@@ -6,6 +6,7 @@ tags:
 aliases: ["Combat Transport"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=92"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Combat Transport  *Vehicle 15*

@@ -11,6 +11,7 @@ tags:
 aliases: ["Energy Toxin Bottle"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2378"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Energy Toxin Bottle  *Item 7*

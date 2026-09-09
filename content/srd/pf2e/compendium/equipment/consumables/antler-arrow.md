@@ -8,6 +8,7 @@ tags:
 aliases: ["Antler Arrow"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3390"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Antler Arrow  *Item 2*

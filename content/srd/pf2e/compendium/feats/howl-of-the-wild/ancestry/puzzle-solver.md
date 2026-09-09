@@ -7,6 +7,7 @@ tags:
 aliases: ["Puzzle Solver"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5373"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Puzzle Solver  *Feat 5*

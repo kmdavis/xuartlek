@@ -7,6 +7,7 @@ tags:
 aliases: ["Borrow Time"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=247"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Borrow Time  *Ritual 9*

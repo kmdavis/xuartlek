@@ -9,6 +9,7 @@ tags:
 aliases: ["Rowan Rifle"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1185"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Rowan Rifle  *Item 16*

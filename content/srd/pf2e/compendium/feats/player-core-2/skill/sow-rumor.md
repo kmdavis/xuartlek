@@ -10,6 +10,7 @@ tags:
 aliases: ["Sow Rumor"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6507"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Sow Rumor  *Feat 2*

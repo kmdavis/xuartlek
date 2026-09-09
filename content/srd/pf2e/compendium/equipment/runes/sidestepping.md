@@ -8,6 +8,7 @@ tags:
 aliases: ["Sidestepping"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4995"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Sidestepping  *Item 13*

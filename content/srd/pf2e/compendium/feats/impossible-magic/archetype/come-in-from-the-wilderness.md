@@ -10,6 +10,7 @@ tags:
 aliases: ["Come in From the Wilderness"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9384"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Come in From the Wilderness  *Feat 10*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

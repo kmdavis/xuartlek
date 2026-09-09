@@ -10,6 +10,7 @@ tags:
 aliases: ["Self-Emptying Pocket"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4155"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Self-Emptying Pocket  *Item 9*

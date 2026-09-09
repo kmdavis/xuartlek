@@ -8,6 +8,7 @@ tags:
 aliases: ["Veil Dancer Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9363"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Veil Dancer Dedication  *Feat 2*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Sloughstone"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3515"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Sloughstone  *Item 0+*

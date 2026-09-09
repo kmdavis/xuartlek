@@ -6,6 +6,7 @@ tags:
 aliases: ["Harnessed"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=477"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Harnessed  *Trait*

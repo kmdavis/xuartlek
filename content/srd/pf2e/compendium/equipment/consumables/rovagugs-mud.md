@@ -9,6 +9,7 @@ tags:
 aliases: ["Rovagug's Mud"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2092"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Rovagug's Mud  *Item 13+*

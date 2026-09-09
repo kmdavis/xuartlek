@@ -7,6 +7,7 @@ tags:
 aliases: ["Hex Master"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5021"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Hex Master  *Feat 20*

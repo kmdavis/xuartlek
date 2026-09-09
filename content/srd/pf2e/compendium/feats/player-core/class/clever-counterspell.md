@@ -7,6 +7,7 @@ tags:
 aliases: ["Clever Counterspell"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5041"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Clever Counterspell  *Feat 12*

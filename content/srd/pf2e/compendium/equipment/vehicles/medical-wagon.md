@@ -6,6 +6,7 @@ tags:
 aliases: ["Medical Wagon"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=101"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Medical Wagon  *Vehicle 7*

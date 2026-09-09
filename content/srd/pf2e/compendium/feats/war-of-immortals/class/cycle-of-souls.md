@@ -8,6 +8,7 @@ tags:
 aliases: ["Cycle of Souls"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7150"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Cycle of Souls  *Feat 18*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

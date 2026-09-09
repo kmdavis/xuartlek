@@ -6,6 +6,7 @@ tags:
 aliases: ["Veil Dancer"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=395"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Veil Dancer  *Archetype 2*

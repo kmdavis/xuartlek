@@ -7,6 +7,7 @@ tags:
 aliases: ["Expert Animist Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7224"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Expert Animist Spellcasting  *Feat 12*

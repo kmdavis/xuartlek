@@ -8,6 +8,7 @@ tags:
 aliases: ["Tideplate"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2810"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Tideplate  *Item 10*

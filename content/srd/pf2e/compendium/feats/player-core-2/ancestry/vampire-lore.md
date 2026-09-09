@@ -7,6 +7,7 @@ tags:
 aliases: ["Vampire Lore"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5717"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Vampire Lore  *Feat 1*

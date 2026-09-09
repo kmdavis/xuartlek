@@ -6,6 +6,7 @@ tags:
 aliases: ["Psyche"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=901"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Psyche  *Trait*

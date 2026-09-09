@@ -12,6 +12,7 @@ name: "Ancient Conspirator Dragon"
 level: 17
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2937"
+socialImage: og-image.png
 ---
 
 ```statblock

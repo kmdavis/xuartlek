@@ -8,6 +8,7 @@ tags:
 aliases: ["Vorpal Executioner"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=486"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Vorpal Executioner  *Hazard 19*

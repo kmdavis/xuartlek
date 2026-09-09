@@ -6,6 +6,7 @@ tags:
 aliases: ["Animal Call"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3243"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Animal Call  *Item 0*

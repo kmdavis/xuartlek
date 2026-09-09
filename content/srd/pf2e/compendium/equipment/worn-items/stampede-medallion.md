@@ -9,6 +9,7 @@ tags:
 aliases: ["Stampede Medallion"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5189"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Stampede Medallion  *Item 12+*

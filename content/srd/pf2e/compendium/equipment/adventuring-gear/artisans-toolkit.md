@@ -6,6 +6,7 @@ tags:
 aliases: ["Artisan's Toolkit"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2703"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Artisan's Toolkit  *Item 0+*

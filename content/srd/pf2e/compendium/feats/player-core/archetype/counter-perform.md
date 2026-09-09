@@ -7,6 +7,7 @@ tags:
 aliases: ["Counter Perform"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5061"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Counter Perform  *Feat 6*

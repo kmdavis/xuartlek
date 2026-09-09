@@ -7,6 +7,7 @@ tags:
 aliases: ["Celestial Magic"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4558"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Celestial Magic  *Feat 9*

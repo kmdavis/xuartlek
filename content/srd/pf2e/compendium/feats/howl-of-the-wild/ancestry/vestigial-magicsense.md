@@ -7,6 +7,7 @@ tags:
 aliases: ["Vestigial Magicsense"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5388"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Vestigial Magicsense  *Feat 1*

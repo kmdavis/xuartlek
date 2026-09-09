@@ -7,6 +7,7 @@ tags:
 aliases: ["Side by Side (Ranger)"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4896"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Side by Side (Ranger)  *Feat 12*

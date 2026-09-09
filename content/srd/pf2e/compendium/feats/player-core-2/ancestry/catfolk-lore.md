@@ -7,6 +7,7 @@ tags:
 aliases: ["Catfolk Lore"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5546"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Catfolk Lore  *Feat 1*

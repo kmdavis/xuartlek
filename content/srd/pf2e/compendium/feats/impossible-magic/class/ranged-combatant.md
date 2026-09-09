@@ -8,6 +8,7 @@ tags:
 aliases: ["Ranged Combatant"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9232"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Ranged Combatant  *Feat 2*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Consult Celestial Advisor"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7334"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Consult Celestial Advisor  *Feat 14*
@@ -21,7 +22,7 @@ source: "War of Immortals"
 
 For many, the Calling of an ascended celestial is a wondrous but challenging path, which they must walk alone. This isn’t the case for you. A single celestial is responsible for shepherding you into the celestial ranks and has offered to serve as a mentor to you throughout the time of your transformation. You can call upon this mentor for advice, guidance, and support. Once per day, you can spend 30 minutes in deep meditation. During this time, you spiritually converse with your celestial advisor. You gain three benefits during this conversation, which can occur in any order of your choosing.
 
-You discuss a topic of interest with your celestial advisor. This allows you to [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]] on any topic once, with mythic proficiency. You can spend 1 [[srd/pf2e/books/war-of-immortals/mythic-rules/index|Mythic Point]] to instead Recall Knowledge on any three topics with mythic proficiency. 
+You discuss a topic of interest with your celestial advisor. This allows you to [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]] on any topic once, with mythic proficiency. You can spend 1 [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]] to instead Recall Knowledge on any three topics with mythic proficiency. 
 
 You discuss a goal, activity, or event with your celestial advisor. This must be a goal you plan to achieve or an event you expect to happen within 1 week. Your celestial advisor gives you a piece of advice to help you achieve your goal or to see your way through the expected event. This has the effect of [[srd/pf2e/compendium/spells/rank-4/read-omens|_read omens_]].
 

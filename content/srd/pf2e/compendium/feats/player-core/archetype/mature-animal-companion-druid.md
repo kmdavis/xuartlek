@@ -7,6 +7,7 @@ tags:
 aliases: ["Mature Animal Companion (Druid)"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4725"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Mature Animal Companion (Druid)  *Feat 4*

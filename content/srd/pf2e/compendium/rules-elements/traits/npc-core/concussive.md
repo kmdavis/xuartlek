@@ -6,6 +6,7 @@ tags:
 aliases: ["Concussive"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=846"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Concussive  *Trait*

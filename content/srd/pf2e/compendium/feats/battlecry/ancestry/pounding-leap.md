@@ -7,6 +7,7 @@ tags:
 aliases: ["Pounding Leap"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7780"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Pounding Leap  *Feat 5*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

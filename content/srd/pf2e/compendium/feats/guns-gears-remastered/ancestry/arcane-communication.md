@@ -7,6 +7,7 @@ tags:
 aliases: ["Arcane Communication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3091"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Arcane Communication  *Feat 1*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Ongoing Investigation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5949"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Ongoing Investigation  *Feat 4*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Living Lexicon"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9215"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Living Lexicon  *Feat 18*

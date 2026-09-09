@@ -8,6 +8,7 @@ tags:
 aliases: ["Doctor's Visitation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6374"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Doctor's Visitation  *Feat 4*  [?](books/player-core/chapter-8-playing-the-game/actions#Actions "Varies")

@@ -7,6 +7,7 @@ tags:
 aliases: ["Runesight"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9213"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Runesight  *Feat 16*

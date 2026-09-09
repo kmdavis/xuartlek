@@ -11,6 +11,7 @@ tags:
 aliases: ["Therapeutic Snap Peas"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2649"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Therapeutic Snap Peas  *Item 8*

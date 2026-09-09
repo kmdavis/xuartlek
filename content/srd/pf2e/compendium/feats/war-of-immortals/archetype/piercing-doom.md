@@ -7,6 +7,7 @@ tags:
 aliases: ["Piercing Doom"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7263"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Piercing Doom  *Feat 8*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

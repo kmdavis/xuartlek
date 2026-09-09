@@ -11,6 +11,7 @@ tags:
 aliases: ["Touch of Obedience"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1844"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Touch of Obedience  *Focus 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

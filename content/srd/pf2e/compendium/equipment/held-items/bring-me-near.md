@@ -9,6 +9,7 @@ tags:
 aliases: ["Bring Me Near"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2188"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Bring Me Near  *Item 12*

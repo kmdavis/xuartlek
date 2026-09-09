@@ -8,6 +8,7 @@ tags:
 aliases: ["Lock Down"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7853"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Lock Down  *Feat 6*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

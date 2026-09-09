@@ -6,6 +6,7 @@ tags:
 aliases: ["Agathion"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=866"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Agathion  *Trait*

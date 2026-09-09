@@ -8,6 +8,7 @@ tags:
 aliases: ["Awaken Curse"]
 aon_url: "https://2e.aonprd.com/MythicRituals.aspx?ID=188"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Awaken Curse  *Ritual 8*

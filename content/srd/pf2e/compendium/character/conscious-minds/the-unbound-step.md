@@ -5,6 +5,7 @@ tags:
 aliases: ["The Unbound Step"]
 aon_url: "https://2e.aonprd.com/ConsciousMinds.aspx?ID=12"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # The Unbound Step  *Psychic Conscious Mind*

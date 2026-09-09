@@ -6,6 +6,7 @@ tags:
 aliases: ["Hedge Mage"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=391"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Hedge Mage  *Archetype 2*

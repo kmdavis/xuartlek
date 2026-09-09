@@ -8,6 +8,7 @@ tags:
 aliases: ["Airborne Form"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9265"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Airborne Form  *Feat 12*

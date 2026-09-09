@@ -6,6 +6,7 @@ tags:
 aliases: ["First Implement and Esoterica"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=69"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # First Implement and Esoterica  *Class Feature 1*

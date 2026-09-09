@@ -9,6 +9,7 @@ tags:
 aliases: ["Trident of Lightning"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3005"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Trident of Lightning  *Item 9*

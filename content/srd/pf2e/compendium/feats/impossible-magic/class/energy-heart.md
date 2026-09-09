@@ -8,6 +8,7 @@ tags:
 aliases: ["Energy Heart"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9223"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Energy Heart  *Feat 1*

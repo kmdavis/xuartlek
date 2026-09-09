@@ -10,6 +10,7 @@ tags:
 aliases: ["Lingering Chill"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8406"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Lingering Chill  *Feat 4*

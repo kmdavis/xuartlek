@@ -10,6 +10,7 @@ tags:
 aliases: ["Planar Palace"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1634"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Planar Palace  *Spell 7*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Barzahk"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=534"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Barzahk  *Deity*

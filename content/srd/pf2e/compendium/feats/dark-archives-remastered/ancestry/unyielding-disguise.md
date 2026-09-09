@@ -7,6 +7,7 @@ tags:
 aliases: ["Unyielding Disguise"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8444"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Unyielding Disguise  *Feat 9*

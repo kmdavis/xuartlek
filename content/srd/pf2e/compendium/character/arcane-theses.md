@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/player-core
 aliases: ["Arcane Theses"]
 entries: 5
+socialImage: og-image.png
 ---
 
 # Arcane Theses

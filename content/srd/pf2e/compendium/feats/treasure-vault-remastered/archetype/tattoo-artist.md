@@ -8,6 +8,7 @@ tags:
 aliases: ["Tattoo Artist"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=2962"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Tattoo Artist  *Feat 2*

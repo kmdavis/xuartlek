@@ -7,6 +7,7 @@ tags:
 aliases: ["Magic Hands"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4664"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Magic Hands  *Feat 6*

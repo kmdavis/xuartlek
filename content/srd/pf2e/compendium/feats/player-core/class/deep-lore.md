@@ -7,6 +7,7 @@ tags:
 aliases: ["Deep Lore"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4633"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Deep Lore  *Feat 18*

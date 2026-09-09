@@ -9,6 +9,7 @@ tags:
 aliases: ["Urn of Ashes"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3420"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Urn of Ashes  *Item 9*

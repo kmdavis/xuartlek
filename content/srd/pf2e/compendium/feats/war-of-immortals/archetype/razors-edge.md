@@ -7,6 +7,7 @@ tags:
 aliases: ["Razor's Edge"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7267"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Razor's Edge  *Feat 18*

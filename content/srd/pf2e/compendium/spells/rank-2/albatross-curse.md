@@ -9,6 +9,7 @@ tags:
 aliases: ["Albatross Curse"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1946"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Albatross Curse  *Spell 2*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

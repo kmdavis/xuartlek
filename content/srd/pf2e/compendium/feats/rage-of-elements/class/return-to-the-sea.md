@@ -11,6 +11,7 @@ tags:
 aliases: ["Return to the Sea"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4270"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Return to the Sea  *Feat 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

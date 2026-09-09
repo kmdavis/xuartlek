@@ -5,6 +5,7 @@ tags:
 aliases: ["Faith in the Fallen"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=367"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Faith in the Fallen  *Deity*

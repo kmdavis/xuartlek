@@ -9,6 +9,7 @@ tags:
 aliases: ["Stalagmite Seed"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2597"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Stalagmite Seed  *Item 7*

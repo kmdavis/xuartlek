@@ -5,6 +5,7 @@ tags:
 aliases: ["Occultism"]
 aon_url: "https://2e.aonprd.com/Skills.aspx?ID=44"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Occultism  *Skill*

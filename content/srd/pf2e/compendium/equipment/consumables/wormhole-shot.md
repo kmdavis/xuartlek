@@ -9,6 +9,7 @@ tags:
 aliases: ["Wormhole Shot"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5043"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Wormhole Shot  *Item 2*

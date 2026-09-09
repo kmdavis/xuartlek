@@ -7,6 +7,7 @@ tags:
 aliases: ["Pick Of Arcane Accuracy"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5026"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Pick Of Arcane Accuracy  *Item 5*

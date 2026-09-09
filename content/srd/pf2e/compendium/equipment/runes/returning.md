@@ -7,6 +7,7 @@ tags:
 aliases: ["Returning"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2845"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Returning  *Item 3*

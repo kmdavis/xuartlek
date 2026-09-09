@@ -11,6 +11,7 @@ tags:
 aliases: ["Shrink the Span"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2056"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Shrink the Span  *Focus 3*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

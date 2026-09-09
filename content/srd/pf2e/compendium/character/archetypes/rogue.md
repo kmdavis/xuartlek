@@ -6,6 +6,7 @@ tags:
 aliases: ["Rogue"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=216"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Rogue  *Archetype 2*

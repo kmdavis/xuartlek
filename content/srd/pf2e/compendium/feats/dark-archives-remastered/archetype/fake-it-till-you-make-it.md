@@ -7,6 +7,7 @@ tags:
 aliases: ["Fake It Till You Make it"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8450"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Fake It Till You Make it  *Feat 4*

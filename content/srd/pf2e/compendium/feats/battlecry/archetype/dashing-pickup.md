@@ -8,6 +8,7 @@ tags:
 aliases: ["Dashing Pickup"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7988"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Dashing Pickup  *Feat 6*  [?](books/player-core/chapter-8-playing-the-game/actions#Actions "Varies")

@@ -8,6 +8,7 @@ tags:
 aliases: ["Spell Reservoir"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2849"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Spell Reservoir  *Item 13*

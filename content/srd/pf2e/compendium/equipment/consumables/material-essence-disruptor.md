@@ -9,6 +9,7 @@ tags:
 aliases: ["Material Essence Disruptor"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1118"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Material Essence Disruptor  *Item 3+*

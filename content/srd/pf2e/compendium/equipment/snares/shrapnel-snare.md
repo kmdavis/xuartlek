@@ -11,6 +11,7 @@ tags:
 aliases: ["Shrapnel Snare"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1132"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Shrapnel Snare  *Item 14*

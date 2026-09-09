@@ -8,6 +8,7 @@ tags:
 aliases: ["Scars of Steel"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5820"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Scars of Steel  *Feat 4*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

@@ -5,6 +5,7 @@ tags:
 aliases: ["Mephistopheles"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=400"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Mephistopheles  *Deity*

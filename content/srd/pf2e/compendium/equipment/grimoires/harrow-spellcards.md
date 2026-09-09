@@ -9,6 +9,7 @@ tags:
 aliases: ["Harrow Spellcards"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2178"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Harrow Spellcards  *Item 8*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Standard of the Primeval Howl"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2197"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Standard of the Primeval Howl  *Item 10*

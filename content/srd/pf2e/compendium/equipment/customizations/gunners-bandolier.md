@@ -9,6 +9,7 @@ tags:
 aliases: ["Gunner's Bandolier"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1209"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Gunner's Bandolier  *Item 3*

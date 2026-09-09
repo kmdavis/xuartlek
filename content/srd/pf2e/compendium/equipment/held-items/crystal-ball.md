@@ -9,6 +9,7 @@ tags:
 aliases: ["Crystal Ball"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3019"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Crystal Ball  *Item 14+*

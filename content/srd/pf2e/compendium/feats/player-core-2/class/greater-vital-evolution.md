@@ -7,6 +7,7 @@ tags:
 aliases: ["Greater Vital Evolution"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6120"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Greater Vital Evolution  *Feat 16*

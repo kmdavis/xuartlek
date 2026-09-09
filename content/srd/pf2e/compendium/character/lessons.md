@@ -6,6 +6,7 @@ tags:
 - compendium/src/pf2e/player-core
 aliases: ["Lessons"]
 entries: 15
+socialImage: og-image.png
 ---
 
 # Lessons

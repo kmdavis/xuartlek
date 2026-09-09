@@ -10,6 +10,7 @@ tags:
 aliases: ["Hyldarf's Fang"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1181"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Hyldarf's Fang  *Item 15*

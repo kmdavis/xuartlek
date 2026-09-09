@@ -7,6 +7,7 @@ tags:
 aliases: ["Horrid Figurine"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2192"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Horrid Figurine  *Item 8*

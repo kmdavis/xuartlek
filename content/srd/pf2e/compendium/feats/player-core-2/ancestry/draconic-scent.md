@@ -7,6 +7,7 @@ tags:
 aliases: ["Draconic Scent"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5737"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Draconic Scent  *Feat 5*

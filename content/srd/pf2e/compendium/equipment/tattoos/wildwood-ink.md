@@ -9,6 +9,7 @@ tags:
 aliases: ["Wildwood Ink"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2224"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wildwood Ink  *Item 4+*

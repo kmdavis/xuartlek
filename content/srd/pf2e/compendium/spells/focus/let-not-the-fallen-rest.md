@@ -12,6 +12,7 @@ tags:
 aliases: ["Let not the Fallen Rest"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2492"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Let not the Fallen Rest  *Focus 5*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

@@ -7,6 +7,7 @@ tags:
 aliases: ["Prodigious Climber"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5702"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Prodigious Climber  *Feat 5*

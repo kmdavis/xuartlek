@@ -7,6 +7,7 @@ tags:
 aliases: ["Alter Ego"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=344"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Alter Ego  *Archetype 2*

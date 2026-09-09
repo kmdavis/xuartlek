@@ -7,6 +7,7 @@ tags:
 aliases: ["Gloom Blade"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2866"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Gloom Blade  *Item 9*

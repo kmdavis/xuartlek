@@ -9,6 +9,7 @@ tags:
 aliases: ["Cauterizing Torch"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1105"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Cauterizing Torch  *Item 2*

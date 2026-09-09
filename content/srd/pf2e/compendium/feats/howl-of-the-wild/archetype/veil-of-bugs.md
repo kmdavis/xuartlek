@@ -7,6 +7,7 @@ tags:
 aliases: ["Veil of Bugs"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5471"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Veil of Bugs  *Feat 10*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Reincarnate"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=152"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Reincarnate  *Ritual 3*

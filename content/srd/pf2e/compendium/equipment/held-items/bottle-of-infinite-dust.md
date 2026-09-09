@@ -7,6 +7,7 @@ tags:
 aliases: ["Bottle of Infinite Dust"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3929"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Bottle of Infinite Dust  *Item 7*

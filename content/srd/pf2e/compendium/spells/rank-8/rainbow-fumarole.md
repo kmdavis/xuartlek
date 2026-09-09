@@ -11,6 +11,7 @@ tags:
 aliases: ["Rainbow Fumarole"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1361"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Rainbow Fumarole  *Spell 8*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

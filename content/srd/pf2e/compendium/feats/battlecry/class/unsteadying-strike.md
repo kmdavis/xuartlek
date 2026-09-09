@@ -8,6 +8,7 @@ tags:
 aliases: ["Unsteadying Strike"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7807"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Unsteadying Strike  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

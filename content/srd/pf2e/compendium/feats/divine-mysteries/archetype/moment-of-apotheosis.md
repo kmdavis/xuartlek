@@ -7,6 +7,7 @@ tags:
 aliases: ["Moment of Apotheosis"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7555"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Moment of Apotheosis  *Feat 20*

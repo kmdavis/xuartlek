@@ -10,6 +10,7 @@ tags:
 aliases: ["Advanced First Aid"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5116"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Advanced First Aid  *Feat 7*

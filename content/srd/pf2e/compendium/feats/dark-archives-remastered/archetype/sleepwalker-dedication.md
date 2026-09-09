@@ -9,6 +9,7 @@ tags:
 aliases: ["Sleepwalker Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8515"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sleepwalker Dedication  *Feat 4*

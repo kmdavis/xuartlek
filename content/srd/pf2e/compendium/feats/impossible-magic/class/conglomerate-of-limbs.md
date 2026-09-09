@@ -7,6 +7,7 @@ tags:
 aliases: ["Conglomerate of Limbs"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9123"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Conglomerate of Limbs  *Feat 8*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Chiromantic Lines"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5175"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Chiromantic Lines  *Item 12*

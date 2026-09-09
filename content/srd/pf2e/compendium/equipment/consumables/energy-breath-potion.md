@@ -9,6 +9,7 @@ tags:
 aliases: ["Energy Breath Potion"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2941"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Energy Breath Potion  *Item 7+*

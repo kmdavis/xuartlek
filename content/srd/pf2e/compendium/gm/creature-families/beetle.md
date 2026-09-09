@@ -5,6 +5,7 @@ tags:
 aliases: ["Beetle"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=371"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Beetle  *Creature Family*

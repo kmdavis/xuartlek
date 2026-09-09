@@ -8,6 +8,7 @@ tags:
 aliases: ["Fists of Divinity"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=51"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Fists of Divinity  *Siege Weapon 20*

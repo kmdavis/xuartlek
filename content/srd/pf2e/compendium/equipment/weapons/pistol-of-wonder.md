@@ -8,6 +8,7 @@ tags:
 aliases: ["Pistol of Wonder"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1187"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Pistol of Wonder  *Item 13*

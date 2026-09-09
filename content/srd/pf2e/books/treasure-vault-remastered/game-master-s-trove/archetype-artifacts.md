@@ -9,6 +9,7 @@ tags:
 source: "Treasure Vault (Remastered)"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=1961"
 citation: "Treasure Vault (Remastered) pg. 182"
+socialImage: og-image.png
 ---
 
 # Archetype Artifacts

@@ -8,6 +8,7 @@ tags:
 aliases: ["Smoking Sword"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4352"
 source: "Secrets of the Unlit Star Game Master's Guide"
+socialImage: og-image.png
 ---
 
 # Smoking Sword  *Item 3*

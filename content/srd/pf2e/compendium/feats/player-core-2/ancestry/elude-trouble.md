@@ -7,6 +7,7 @@ tags:
 aliases: ["Elude Trouble"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5565"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Elude Trouble  *Feat 17*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

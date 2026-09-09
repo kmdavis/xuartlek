@@ -9,6 +9,7 @@ tags:
 aliases: ["Correct The Story"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7284"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Correct The Story  *Feat 6*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
@@ -17,6 +18,6 @@ source: "War of Immortals"
 
 - **Trigger**: An enemy critically succeeds at an attack roll or saving throw.
 
-You know the story of your journey well and can correct it when your enemy tells it incorrectly. Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/index|Mythic Point]]. The enemy must reroll the triggering [[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]] roll or save and take the new result.
+You know the story of your journey well and can correct it when your enemy tells it incorrectly. Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]]. The enemy must reroll the triggering [[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]] roll or save and take the new result.
 
 *Source: War of Immortals p. 82*

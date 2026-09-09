@@ -7,6 +7,7 @@ tags:
 aliases: ["Snare Setter"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5617"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Snare Setter  *Feat 1*

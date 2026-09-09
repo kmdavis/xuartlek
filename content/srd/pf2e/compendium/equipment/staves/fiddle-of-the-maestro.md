@@ -10,6 +10,7 @@ tags:
 aliases: ["Fiddle of the Maestro"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2268"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Fiddle of the Maestro  *Item 16*

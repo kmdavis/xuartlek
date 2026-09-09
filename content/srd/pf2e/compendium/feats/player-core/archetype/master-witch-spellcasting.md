@@ -7,6 +7,7 @@ tags:
 aliases: ["Master Witch Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5105"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Master Witch Spellcasting  *Feat 18*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Munavri"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=880"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Munavri  *Trait*

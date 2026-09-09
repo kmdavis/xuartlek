@@ -7,6 +7,7 @@ tags:
 aliases: ["Exemplar Expertise"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7230"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Exemplar Expertise  *Feat 10*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Crossbow Infiltrator"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=325"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Crossbow Infiltrator  *Archetype 2*

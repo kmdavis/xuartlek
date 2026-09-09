@@ -8,6 +8,7 @@ tags:
 aliases: ["Analyze Idiolect"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6348"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Analyze Idiolect  *Feat 6*

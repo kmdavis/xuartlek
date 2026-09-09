@@ -7,6 +7,7 @@ tags:
 aliases: ["Oracular Providence"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6087"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Oracular Providence  *Feat 20*

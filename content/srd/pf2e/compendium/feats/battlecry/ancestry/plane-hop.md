@@ -8,6 +8,7 @@ tags:
 aliases: ["Plane Hop"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7787"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Plane Hop  *Feat 13*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

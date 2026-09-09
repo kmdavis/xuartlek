@@ -7,6 +7,7 @@ tags:
 aliases: ["Resolute Obliteration"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=264"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Resolute Obliteration  *Ritual 1*

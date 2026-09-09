@@ -9,6 +9,7 @@ tags:
 aliases: ["Web Launcher"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=67"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Web Launcher  *Siege Weapon 8*

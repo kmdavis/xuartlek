@@ -9,6 +9,7 @@ tags:
 aliases: ["Salve Of Mental Pattern"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5093"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Salve Of Mental Pattern  *Item 8*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Elysian Dew"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2082"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Elysian Dew  *Item 12*

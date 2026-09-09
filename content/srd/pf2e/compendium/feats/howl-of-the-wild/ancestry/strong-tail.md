@@ -7,6 +7,7 @@ tags:
 aliases: ["Strong Tail"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5352"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Strong Tail  *Feat 5*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Divine Weapon Mastery "]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=65"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Divine Weapon Mastery   *Class Feature 13*

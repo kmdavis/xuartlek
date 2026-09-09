@@ -9,6 +9,7 @@ tags:
 aliases: ["Arctic Worm Chitin Shield"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3199"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Arctic Worm Chitin Shield  *Item 12*

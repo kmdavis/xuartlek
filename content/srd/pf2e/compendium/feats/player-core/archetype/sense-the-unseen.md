@@ -9,6 +9,7 @@ tags:
 aliases: ["Sense the Unseen"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4898"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Sense the Unseen  *Feat 14*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

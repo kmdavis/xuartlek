@@ -9,6 +9,7 @@ tags:
 source: "Guns & Gears (Remastered)"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=1656"
 citation: "Guns & Gears (Remastered) pg. 172"
+socialImage: og-image.png
 ---
 
 # Black Powder Siege Weapons

@@ -5,6 +5,7 @@ tags:
 aliases: ["Scal"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=410"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Scal  *Deity*

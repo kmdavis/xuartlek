@@ -8,6 +8,7 @@ tags:
 aliases: ["Unobstructed Shot"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6256"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Unobstructed Shot  *Feat 10*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

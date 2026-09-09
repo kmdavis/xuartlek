@@ -7,6 +7,7 @@ tags:
 aliases: ["Clone"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=145"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Clone  *Ritual 9*

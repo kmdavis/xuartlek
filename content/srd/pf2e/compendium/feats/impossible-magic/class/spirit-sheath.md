@@ -9,6 +9,7 @@ tags:
 aliases: ["Spirit Sheath"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9050"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Spirit Sheath  *Feat 2*

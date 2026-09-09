@@ -8,6 +8,7 @@ tags:
 aliases: ["Flensing Blades"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=491"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Flensing Blades  *Hazard 12*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Handwraps of Mighty Blows"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3086"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Handwraps of Mighty Blows  *Item 2+*

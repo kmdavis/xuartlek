@@ -10,6 +10,7 @@ tags:
 aliases: ["Hand-Hewed Face"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4150"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Hand-Hewed Face  *Item 7*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Uncanny Bombs"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5793"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Uncanny Bombs  *Feat 12*

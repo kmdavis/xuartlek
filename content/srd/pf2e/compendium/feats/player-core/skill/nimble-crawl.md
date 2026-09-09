@@ -8,6 +8,7 @@ tags:
 aliases: ["Nimble Crawl"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5183"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Nimble Crawl  *Feat 2*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Untamed Form"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4713"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Untamed Form  *Feat 1*

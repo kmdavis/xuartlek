@@ -8,6 +8,7 @@ tags:
 aliases: ["Wild Mimic Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5515"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Wild Mimic Dedication  *Feat 2*

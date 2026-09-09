@@ -10,6 +10,7 @@ tags:
 aliases: ["Garden of Death"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=253"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Garden of Death  *Ritual 4*

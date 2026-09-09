@@ -7,6 +7,7 @@ tags:
 aliases: ["Assisting"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1829"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Assisting  *Item 5*

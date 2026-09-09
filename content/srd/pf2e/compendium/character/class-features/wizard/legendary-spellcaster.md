@@ -6,6 +6,7 @@ tags:
 aliases: ["Legendary Spellcaster"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=39"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Legendary Spellcaster  *Class Feature 19*

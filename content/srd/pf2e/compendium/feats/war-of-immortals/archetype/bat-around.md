@@ -7,6 +7,7 @@ tags:
 aliases: ["Bat Around"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7350"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Bat Around  *Feat 16*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

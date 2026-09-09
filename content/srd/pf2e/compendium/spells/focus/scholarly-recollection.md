@@ -10,6 +10,7 @@ tags:
 aliases: ["Scholarly Recollection"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1812"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Scholarly Recollection  *Focus 1*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

@@ -6,6 +6,7 @@ tags:
 aliases: ["Savvy Reflexes"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=59"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Savvy Reflexes  *Class Feature 15*

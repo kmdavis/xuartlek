@@ -7,6 +7,7 @@ tags:
 aliases: ["Divine Health"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5893"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Divine Health  *Feat 2*

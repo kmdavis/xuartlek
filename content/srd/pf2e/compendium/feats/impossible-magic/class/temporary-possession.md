@@ -7,6 +7,7 @@ tags:
 aliases: ["Temporary Possession"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9156"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Temporary Possession  *Feat 16*

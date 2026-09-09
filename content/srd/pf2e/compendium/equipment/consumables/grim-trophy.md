@@ -9,6 +9,7 @@ tags:
 aliases: ["Grim Trophy"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2979"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Grim Trophy  *Item 7+*

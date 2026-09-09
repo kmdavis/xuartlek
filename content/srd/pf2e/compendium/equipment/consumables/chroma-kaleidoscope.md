@@ -9,6 +9,7 @@ tags:
 aliases: ["Chroma Kaleidoscope"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3878"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Chroma Kaleidoscope  *Item 7*

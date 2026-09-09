@@ -8,6 +8,7 @@ tags:
 aliases: ["Elemental Breath"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1420"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Elemental Breath  *Spell 5*  [?](books/player-core/chapter-8-playing-the-game/actions#Actions "Varies")

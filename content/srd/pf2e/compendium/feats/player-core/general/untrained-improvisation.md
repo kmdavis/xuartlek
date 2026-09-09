@@ -7,6 +7,7 @@ tags:
 aliases: ["Untrained Improvisation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5233"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Untrained Improvisation  *Feat 3*

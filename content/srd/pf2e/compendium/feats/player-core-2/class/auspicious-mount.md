@@ -7,6 +7,7 @@ tags:
 aliases: ["Auspicious Mount"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5923"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Auspicious Mount  *Feat 16*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Distracting Shadows"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4455"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Distracting Shadows  *Feat 1*

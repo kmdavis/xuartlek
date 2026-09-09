@@ -10,6 +10,7 @@ name: "Camel"
 level: 1
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4291"
+socialImage: og-image.png
 ---
 
 ```statblock

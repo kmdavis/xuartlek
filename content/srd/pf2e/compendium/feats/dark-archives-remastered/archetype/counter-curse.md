@@ -7,6 +7,7 @@ tags:
 aliases: ["Counter Curse"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8475"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Counter Curse  *Feat 8*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

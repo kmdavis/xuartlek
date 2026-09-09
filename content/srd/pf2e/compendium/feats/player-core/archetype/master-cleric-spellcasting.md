@@ -7,6 +7,7 @@ tags:
 aliases: ["Master Cleric Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5072"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Master Cleric Spellcasting  *Feat 18*

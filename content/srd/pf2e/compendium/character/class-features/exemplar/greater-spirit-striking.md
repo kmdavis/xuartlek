@@ -6,6 +6,7 @@ tags:
 aliases: ["Greater Spirit Striking"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=65"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Greater Spirit Striking  *Class Feature 15*

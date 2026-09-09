@@ -10,6 +10,7 @@ tags:
 aliases: ["Cleansing Spell"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7339"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Cleansing Spell  *Feat 16*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

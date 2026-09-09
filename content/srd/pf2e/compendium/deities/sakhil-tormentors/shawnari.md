@@ -5,6 +5,7 @@ tags:
 aliases: ["Shawnari"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=600"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Shawnari  *Deity*

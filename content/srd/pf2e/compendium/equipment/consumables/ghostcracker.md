@@ -9,6 +9,7 @@ tags:
 aliases: ["Ghostcracker"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2024"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Ghostcracker  *Item 5*

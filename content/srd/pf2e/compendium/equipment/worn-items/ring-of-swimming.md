@@ -8,6 +8,7 @@ tags:
 aliases: ["Ring of Swimming"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3107"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Ring of Swimming  *Item 12*

@@ -13,6 +13,7 @@ tags:
 aliases: ["Claw Blade"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=470"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Claw Blade  *Weapon 0*

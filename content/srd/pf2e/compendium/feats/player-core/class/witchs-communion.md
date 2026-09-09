@@ -7,6 +7,7 @@ tags:
 aliases: ["Witch's Communion"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5011"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Witch's Communion  *Feat 10*

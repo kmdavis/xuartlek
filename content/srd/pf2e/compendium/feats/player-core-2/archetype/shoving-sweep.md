@@ -7,6 +7,7 @@ tags:
 aliases: ["Shoving Sweep"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6370"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Shoving Sweep  *Feat 8*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

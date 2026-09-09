@@ -6,6 +6,7 @@ tags:
 aliases: ["Spray Pellet"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=353"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Spray Pellet  *Weapon 0*

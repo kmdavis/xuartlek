@@ -9,6 +9,7 @@ tags:
 aliases: ["Sighting Shot"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2057"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sighting Shot  *Item 8*

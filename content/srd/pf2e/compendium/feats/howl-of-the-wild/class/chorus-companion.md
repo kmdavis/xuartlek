@@ -7,6 +7,7 @@ tags:
 aliases: ["Chorus Companion"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5420"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Chorus Companion  *Feat 12*

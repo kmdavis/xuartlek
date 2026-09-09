@@ -9,6 +9,7 @@ tags:
 aliases: ["Kushtaka Relic"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3261"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Kushtaka Relic  *Item 13*

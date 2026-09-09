@@ -9,6 +9,7 @@ tags:
 aliases: ["Aerial Cloak"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2575"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Aerial Cloak  *Item 3*

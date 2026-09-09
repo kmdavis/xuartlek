@@ -7,6 +7,7 @@ tags:
 aliases: ["Grandmaster Qi Spells"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6044"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Grandmaster Qi Spells  *Feat 18*

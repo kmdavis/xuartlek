@@ -6,6 +6,7 @@ tags:
 aliases: ["Tanggal"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=886"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Tanggal  *Trait*

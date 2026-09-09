@@ -14,6 +14,7 @@ tags:
 aliases: ["Fatal Aria"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1765"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Fatal Aria  *Focus 10*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

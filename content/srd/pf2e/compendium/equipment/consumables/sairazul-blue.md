@@ -11,6 +11,7 @@ tags:
 aliases: ["Sairazul Blue"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2594"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Sairazul Blue  *Item 10*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Fetters"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3591"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Fetters  *Item 2+*

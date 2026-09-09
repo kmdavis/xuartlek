@@ -5,6 +5,7 @@ tags:
 aliases: ["Torag"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=294"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Torag  *Deity*

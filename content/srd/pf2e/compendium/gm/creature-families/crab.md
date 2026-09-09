@@ -5,6 +5,7 @@ tags:
 aliases: ["Crab"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=577"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Crab  *Creature Family*

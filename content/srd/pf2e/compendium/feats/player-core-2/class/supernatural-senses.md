@@ -8,6 +8,7 @@ tags:
 aliases: ["Supernatural Senses"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5822"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Supernatural Senses  *Feat 4*

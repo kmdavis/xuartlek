@@ -7,6 +7,7 @@ tags:
 aliases: ["Self-sealing"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4994"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Self-sealing  *Item 7*

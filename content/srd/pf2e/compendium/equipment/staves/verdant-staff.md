@@ -8,6 +8,7 @@ tags:
 aliases: ["Verdant Staff"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3049"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Verdant Staff  *Item 6+*

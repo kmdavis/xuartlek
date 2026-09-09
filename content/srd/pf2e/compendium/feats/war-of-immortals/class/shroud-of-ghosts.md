@@ -8,6 +8,7 @@ tags:
 aliases: ["Shroud of Ghosts"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7186"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Shroud of Ghosts  *Feat 16*

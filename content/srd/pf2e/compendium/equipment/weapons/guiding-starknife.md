@@ -7,6 +7,7 @@ tags:
 aliases: ["Guiding Starknife"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5019"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Guiding Starknife  *Item 7*

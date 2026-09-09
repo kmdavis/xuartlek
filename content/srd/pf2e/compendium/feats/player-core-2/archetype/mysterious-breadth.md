@@ -7,6 +7,7 @@ tags:
 aliases: ["Mysterious Breadth"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6222"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Mysterious Breadth  *Feat 8*

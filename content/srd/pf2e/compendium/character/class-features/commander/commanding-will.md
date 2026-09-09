@@ -6,6 +6,7 @@ tags:
 aliases: ["Commanding Will"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=66"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Commanding Will  *Class Feature 11*

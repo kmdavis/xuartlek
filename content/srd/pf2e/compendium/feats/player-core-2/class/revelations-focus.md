@@ -7,6 +7,7 @@ tags:
 aliases: ["Revelation's Focus"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6080"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Revelation's Focus  *Feat 14*

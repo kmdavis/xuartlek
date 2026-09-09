@@ -6,6 +6,7 @@ tags:
 aliases: ["Clothing"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2715"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Clothing  *Item 0+*

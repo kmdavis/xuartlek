@@ -9,6 +9,7 @@ tags:
 aliases: ["Whirlwind Strike"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4847"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Whirlwind Strike  *Feat 14*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

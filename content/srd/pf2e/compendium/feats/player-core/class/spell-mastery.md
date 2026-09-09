@@ -7,6 +7,7 @@ tags:
 aliases: ["Spell Mastery"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5055"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Spell Mastery  *Feat 20*

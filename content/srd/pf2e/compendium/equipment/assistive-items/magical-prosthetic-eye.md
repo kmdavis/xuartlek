@@ -7,6 +7,7 @@ tags:
 aliases: ["Magical Prosthetic Eye"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2156"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Magical Prosthetic Eye  *Item 1*

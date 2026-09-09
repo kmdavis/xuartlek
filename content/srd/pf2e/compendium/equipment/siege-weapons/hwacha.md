@@ -8,6 +8,7 @@ tags:
 aliases: ["Hwacha"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=18"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Hwacha  *Siege Weapon 4*

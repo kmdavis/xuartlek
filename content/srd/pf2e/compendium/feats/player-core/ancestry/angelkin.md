@@ -8,6 +8,7 @@ tags:
 aliases: ["Angelkin"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4542"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Angelkin  *Feat 1*

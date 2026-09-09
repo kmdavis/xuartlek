@@ -6,6 +6,7 @@ tags:
 aliases: ["Defensive Robes"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=77"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Defensive Robes  *Class Feature 13*

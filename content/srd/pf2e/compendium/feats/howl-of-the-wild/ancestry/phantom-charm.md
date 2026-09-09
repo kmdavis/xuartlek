@@ -9,6 +9,7 @@ tags:
 aliases: ["Phantom Charm"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5379"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Phantom Charm  *Feat 13*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

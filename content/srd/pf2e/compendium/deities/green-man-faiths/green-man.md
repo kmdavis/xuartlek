@@ -5,6 +5,7 @@ tags:
 aliases: ["Green Man"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=666"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Green Man  *Deity*

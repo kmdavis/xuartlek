@@ -8,6 +8,7 @@ tags:
 aliases: ["Guiding Finish"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4842"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Guiding Finish  *Feat 14*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

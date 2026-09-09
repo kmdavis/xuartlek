@@ -6,6 +6,7 @@ tags:
 aliases: ["Barbarian"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=229"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Barbarian  *Archetype 2*

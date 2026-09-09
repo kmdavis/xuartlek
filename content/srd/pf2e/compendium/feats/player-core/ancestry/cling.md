@@ -7,6 +7,7 @@ tags:
 aliases: ["Cling"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4451"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Cling  *Feat 9*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

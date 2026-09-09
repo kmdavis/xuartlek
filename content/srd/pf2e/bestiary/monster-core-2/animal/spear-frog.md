@@ -10,6 +10,7 @@ name: "Spear Frog"
 level: 0
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4403"
+socialImage: og-image.png
 ---
 
 ```statblock

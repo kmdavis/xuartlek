@@ -8,6 +8,7 @@ tags:
 aliases: ["Hidden Magic"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6425"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Hidden Magic  *Feat 4*

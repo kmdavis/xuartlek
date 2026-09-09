@@ -7,6 +7,7 @@ tags:
 aliases: ["Future Spell Learning"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8483"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Future Spell Learning  *Feat 8*

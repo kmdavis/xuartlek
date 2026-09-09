@@ -9,6 +9,7 @@ tags:
 aliases: ["Serum of Sex Shift"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2957"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Serum of Sex Shift  *Item 7*

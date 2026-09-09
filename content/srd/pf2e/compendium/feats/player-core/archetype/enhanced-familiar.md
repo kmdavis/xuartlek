@@ -13,6 +13,7 @@ tags:
 aliases: ["Enhanced Familiar"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4717"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Enhanced Familiar  *Feat 2*

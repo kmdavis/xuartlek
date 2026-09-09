@@ -8,6 +8,7 @@ tags:
 aliases: ["Overdrive Ally"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3067"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Overdrive Ally  *Feat 8*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

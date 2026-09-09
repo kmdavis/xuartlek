@@ -7,6 +7,7 @@ tags:
 aliases: ["Rites of Convocation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4999"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Rites of Convocation  *Feat 4*

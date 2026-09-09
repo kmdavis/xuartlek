@@ -8,6 +8,7 @@ tags:
 aliases: ["Jotun's Battle Stance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7777"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Jotun's Battle Stance  *Feat 5*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

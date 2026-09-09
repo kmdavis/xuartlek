@@ -7,6 +7,7 @@ tags:
 aliases: ["Ranger Resiliency"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5089"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Ranger Resiliency  *Feat 4*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Hag's Sight"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4536"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Hag's Sight  *Feat 1*

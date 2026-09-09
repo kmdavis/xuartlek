@@ -6,6 +6,7 @@ tags:
 aliases: ["Loaded Dice"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3582"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Loaded Dice  *Item 1*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Built-In Tools"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3044"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Built-In Tools  *Feat 1*

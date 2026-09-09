@@ -8,6 +8,7 @@ tags:
 aliases: ["Infiltrator's Accessory"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3283"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Infiltrator's Accessory  *Item 5*

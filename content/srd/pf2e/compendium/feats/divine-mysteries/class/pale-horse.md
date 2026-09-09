@@ -8,6 +8,7 @@ tags:
 aliases: ["Pale Horse"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7523"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Pale Horse  *Feat 12*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Sound Mirror"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8452"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sound Mirror  *Feat 6*

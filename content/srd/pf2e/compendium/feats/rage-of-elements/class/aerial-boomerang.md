@@ -10,6 +10,7 @@ tags:
 aliases: ["Aerial Boomerang"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4206"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Aerial Boomerang  *Feat 1*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

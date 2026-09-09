@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/rage-of-elements
 aliases: ["Actions: Rage of Elements"]
 entries: 12
+socialImage: og-image.png
 ---
 
 # Actions: Rage of Elements

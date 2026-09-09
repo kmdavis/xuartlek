@@ -8,6 +8,7 @@ tags:
 aliases: ["Rhyton of the Radiant Ifrit"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2607"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Rhyton of the Radiant Ifrit  *Item 14*

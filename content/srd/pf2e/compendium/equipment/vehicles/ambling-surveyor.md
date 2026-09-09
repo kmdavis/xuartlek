@@ -7,6 +7,7 @@ tags:
 aliases: ["Ambling Surveyor"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=33"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Ambling Surveyor  *Vehicle 14*

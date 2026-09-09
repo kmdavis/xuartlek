@@ -10,6 +10,7 @@ tags:
 aliases: ["Spider Root"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3345"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Spider Root  *Item 9*

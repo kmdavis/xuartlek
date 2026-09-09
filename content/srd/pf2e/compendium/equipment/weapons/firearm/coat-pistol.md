@@ -10,6 +10,7 @@ tags:
 aliases: ["Coat Pistol"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=189"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Coat Pistol  *Weapon 0*

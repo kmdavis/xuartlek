@@ -10,6 +10,7 @@ tags:
 aliases: ["Jade Bauble"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3411"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Jade Bauble  *Item 8*

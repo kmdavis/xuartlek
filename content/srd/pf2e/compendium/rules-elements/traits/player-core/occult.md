@@ -6,6 +6,7 @@ tags:
 aliases: ["Occult"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=662"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Occult  *Trait*

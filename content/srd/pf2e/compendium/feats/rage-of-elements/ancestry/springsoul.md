@@ -8,6 +8,7 @@ tags:
 aliases: ["Springsoul"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4314"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Springsoul  *Feat 1*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Lawbringer"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4545"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Lawbringer  *Feat 1*

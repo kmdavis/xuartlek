@@ -8,6 +8,7 @@ tags:
 aliases: ["Lionfish Spear"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2629"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Lionfish Spear  *Item 11+*

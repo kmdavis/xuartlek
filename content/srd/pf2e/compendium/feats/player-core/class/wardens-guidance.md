@@ -7,6 +7,7 @@ tags:
 aliases: ["Warden's Guidance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4901"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Warden's Guidance  *Feat 14*

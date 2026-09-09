@@ -7,6 +7,7 @@ tags:
 aliases: ["Gunslinger"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=114"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Gunslinger  *Archetype 2*

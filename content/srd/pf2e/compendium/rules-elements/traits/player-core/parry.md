@@ -6,6 +6,7 @@ tags:
 aliases: ["Parry"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=667"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Parry  *Trait*

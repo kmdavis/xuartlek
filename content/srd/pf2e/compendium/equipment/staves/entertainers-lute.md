@@ -9,6 +9,7 @@ tags:
 aliases: ["Entertainer's Lute"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2267"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Entertainer's Lute  *Item 4+*

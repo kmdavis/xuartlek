@@ -13,6 +13,7 @@ tags:
 aliases: ["Acid Spitter"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1121"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Acid Spitter  *Item 4*

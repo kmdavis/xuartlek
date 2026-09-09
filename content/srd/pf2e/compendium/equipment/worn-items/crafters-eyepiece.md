@@ -8,6 +8,7 @@ tags:
 aliases: ["Crafter's Eyepiece"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3072"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Crafter's Eyepiece  *Item 3+*

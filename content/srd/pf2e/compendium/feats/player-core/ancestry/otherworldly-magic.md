@@ -7,6 +7,7 @@ tags:
 aliases: ["Otherworldly Magic"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4410"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Otherworldly Magic  *Feat 1*

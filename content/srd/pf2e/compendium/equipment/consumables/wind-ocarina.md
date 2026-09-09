@@ -10,6 +10,7 @@ tags:
 aliases: ["Wind Ocarina"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2131"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wind Ocarina  *Item 6*

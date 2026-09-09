@@ -7,6 +7,7 @@ tags:
 aliases: ["Shortbow"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=437"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Shortbow  *Weapon 0*

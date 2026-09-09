@@ -9,6 +9,7 @@ tags:
 aliases: ["Alchemist's Flamethrower"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1972"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Alchemist's Flamethrower  *Item 2*

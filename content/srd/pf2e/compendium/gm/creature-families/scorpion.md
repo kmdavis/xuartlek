@@ -5,6 +5,7 @@ tags:
 aliases: ["Scorpion"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=466"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Scorpion  *Creature Family*

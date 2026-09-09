@@ -12,6 +12,7 @@ tags:
 aliases: ["Hook Sword"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=287"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Hook Sword  *Weapon 0*

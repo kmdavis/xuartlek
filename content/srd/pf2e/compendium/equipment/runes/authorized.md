@@ -7,6 +7,7 @@ tags:
 aliases: ["Authorized"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1864"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Authorized  *Item 3*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Additional Companion"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6268"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Additional Companion  *Feat 4*

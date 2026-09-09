@@ -9,6 +9,7 @@ tags:
 aliases: ["Sash of Prowess"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3439"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Sash of Prowess  *Item 10+*

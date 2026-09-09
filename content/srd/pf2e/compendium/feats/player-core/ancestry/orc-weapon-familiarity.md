@@ -7,6 +7,7 @@ tags:
 aliases: ["Orc Weapon Familiarity"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4518"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Orc Weapon Familiarity  *Feat 1*

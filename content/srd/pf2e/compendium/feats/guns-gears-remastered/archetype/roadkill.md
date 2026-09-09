@@ -7,6 +7,7 @@ tags:
 aliases: ["Roadkill"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3145"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Roadkill  *Feat 10*

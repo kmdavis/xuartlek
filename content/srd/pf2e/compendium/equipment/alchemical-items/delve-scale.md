@@ -8,6 +8,7 @@ tags:
 aliases: ["Delve Scale"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1913"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Delve Scale  *Item 10*

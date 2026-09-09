@@ -5,6 +5,7 @@ tags:
 aliases: ["Cyclops"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=385"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Cyclops  *Creature Family*

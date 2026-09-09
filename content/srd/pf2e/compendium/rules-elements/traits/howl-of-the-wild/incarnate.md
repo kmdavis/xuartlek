@@ -6,6 +6,7 @@ tags:
 aliases: ["Incarnate"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=786"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Incarnate  *Trait*

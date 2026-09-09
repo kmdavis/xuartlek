@@ -6,6 +6,7 @@ tags:
 aliases: ["Razmiri Mask"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3593"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Razmiri Mask  *Item 2*

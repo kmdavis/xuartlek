@@ -10,6 +10,7 @@ tags:
 aliases: ["Ghostly Tragedy"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1995"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Ghostly Tragedy  *Spell 4*

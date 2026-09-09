@@ -7,6 +7,7 @@ tags:
 aliases: ["Defy Sorrow"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7585"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Defy Sorrow  *Feat 10*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

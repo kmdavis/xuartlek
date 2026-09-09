@@ -8,6 +8,7 @@ tags:
 aliases: ["Reckless Abandon (Goblin)"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4454"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Reckless Abandon (Goblin)  *Feat 17*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

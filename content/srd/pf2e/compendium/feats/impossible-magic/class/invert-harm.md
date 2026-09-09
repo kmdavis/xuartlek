@@ -7,6 +7,7 @@ tags:
 aliases: ["Invert Harm"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9102"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Invert Harm  *Feat 2*

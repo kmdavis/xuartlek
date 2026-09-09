@@ -9,6 +9,7 @@ tags:
 aliases: ["Frozen Lava"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3000"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Frozen Lava  *Item 5+*

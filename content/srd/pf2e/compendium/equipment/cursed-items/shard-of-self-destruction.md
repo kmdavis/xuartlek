@@ -9,6 +9,7 @@ tags:
 aliases: ["Shard of Self-Destruction"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3516"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Shard of Self-Destruction  *Item 5*

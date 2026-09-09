@@ -7,6 +7,7 @@ tags:
 aliases: ["One Life, Two Vessels"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7356"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # One Life, Two Vessels  *Feat 20*

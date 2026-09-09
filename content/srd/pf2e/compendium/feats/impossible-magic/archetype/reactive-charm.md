@@ -7,6 +7,7 @@ tags:
 aliases: ["Reactive Charm"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9321"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Reactive Charm  *Feat 10*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

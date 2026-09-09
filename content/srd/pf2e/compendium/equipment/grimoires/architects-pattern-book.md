@@ -9,6 +9,7 @@ tags:
 aliases: ["Architect's Pattern Book"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2171"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Architect's Pattern Book  *Item 6*

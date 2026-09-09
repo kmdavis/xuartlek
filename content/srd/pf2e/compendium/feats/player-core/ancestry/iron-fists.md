@@ -7,6 +7,7 @@ tags:
 aliases: ["Iron Fists"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4513"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Iron Fists  *Feat 1*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Thorn Triad"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2650"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Thorn Triad  *Item 4+*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Improvised Critical"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6443"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Improvised Critical  *Feat 8*

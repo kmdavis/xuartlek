@@ -7,6 +7,7 @@ tags:
 aliases: ["Leap and Fire"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3179"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Leap and Fire  *Feat 8*

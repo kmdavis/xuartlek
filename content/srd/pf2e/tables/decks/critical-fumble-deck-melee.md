@@ -4,6 +4,7 @@ tags:
 - table/decks
 aliases: ["Critical Fumble Deck: Melee"]
 source: "Critical Fumble Deck p. 0"
+socialImage: og-image.png
 ---
 
 # Critical Fumble Deck: Melee

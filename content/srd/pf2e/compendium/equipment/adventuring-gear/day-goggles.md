@@ -7,6 +7,7 @@ tags:
 aliases: ["Day Goggles"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1146"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Day Goggles  *Item 2*

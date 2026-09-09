@@ -9,6 +9,7 @@ tags:
 aliases: ["Familiar's Resurrection"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2697"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Familiar's Resurrection  *Spell 2*

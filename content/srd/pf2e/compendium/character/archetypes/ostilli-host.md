@@ -7,6 +7,7 @@ tags:
 aliases: ["Ostilli Host"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=222"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Ostilli Host  *Archetype 2*

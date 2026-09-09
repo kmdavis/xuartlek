@@ -8,6 +8,7 @@ tags:
 aliases: ["Archer Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6252"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Archer Dedication  *Feat 2*

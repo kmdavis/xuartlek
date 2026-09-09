@@ -10,6 +10,7 @@ tags:
 aliases: ["Sluggish Bracelet"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2388"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sluggish Bracelet  *Item 3*

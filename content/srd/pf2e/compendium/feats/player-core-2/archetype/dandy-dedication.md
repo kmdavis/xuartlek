@@ -8,6 +8,7 @@ tags:
 aliases: ["Dandy Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6302"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Dandy Dedication  *Feat 2*

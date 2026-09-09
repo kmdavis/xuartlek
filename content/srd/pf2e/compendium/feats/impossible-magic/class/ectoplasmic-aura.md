@@ -11,6 +11,7 @@ tags:
 aliases: ["Ectoplasmic Aura"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9159"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Ectoplasmic Aura  *Feat 18*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

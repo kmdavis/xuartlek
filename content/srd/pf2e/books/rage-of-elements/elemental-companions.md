@@ -9,6 +9,7 @@ tags:
 source: "Rage of Elements"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=1993"
 citation: "Rage of Elements pg. 39"
+socialImage: og-image.png
 ---
 
 # Elemental Companions

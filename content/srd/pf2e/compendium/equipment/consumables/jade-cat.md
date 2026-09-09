@@ -9,6 +9,7 @@ tags:
 aliases: ["Jade Cat"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2982"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Jade Cat  *Item 2*

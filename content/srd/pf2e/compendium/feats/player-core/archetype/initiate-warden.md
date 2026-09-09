@@ -7,6 +7,7 @@ tags:
 aliases: ["Initiate Warden"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4862"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Initiate Warden  *Feat 1*

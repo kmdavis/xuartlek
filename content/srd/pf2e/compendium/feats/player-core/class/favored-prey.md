@@ -7,6 +7,7 @@ tags:
 aliases: ["Favored Prey"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4874"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Favored Prey  *Feat 4*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Ghostshot Wrapping"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1228"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Ghostshot Wrapping  *Item 11*

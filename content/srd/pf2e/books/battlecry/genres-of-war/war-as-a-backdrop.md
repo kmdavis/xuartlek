@@ -9,6 +9,7 @@ tags:
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3429"
 citation: "Battlecry! pg. 197"
+socialImage: og-image.png
 ---
 
 # War as a Backdrop

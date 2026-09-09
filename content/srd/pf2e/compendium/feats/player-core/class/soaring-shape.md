@@ -7,6 +7,7 @@ tags:
 aliases: ["Soaring Shape"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4739"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Soaring Shape  *Feat 8*

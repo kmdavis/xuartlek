@@ -12,6 +12,7 @@ tags:
 aliases: ["Mind-Swap Potion"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2088"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mind-Swap Potion  *Item 15*

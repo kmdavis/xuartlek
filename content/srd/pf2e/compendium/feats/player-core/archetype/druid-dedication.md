@@ -9,6 +9,7 @@ tags:
 aliases: ["Druid Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5073"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Druid Dedication  *Feat 2*

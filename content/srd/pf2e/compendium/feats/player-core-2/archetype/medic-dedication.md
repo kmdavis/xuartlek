@@ -8,6 +8,7 @@ tags:
 aliases: ["Medic Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6373"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Medic Dedication  *Feat 2*

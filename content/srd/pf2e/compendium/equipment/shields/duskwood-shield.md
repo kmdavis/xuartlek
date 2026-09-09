@@ -7,6 +7,7 @@ tags:
 aliases: ["Duskwood Shield"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2815"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Duskwood Shield  *Item 8+*

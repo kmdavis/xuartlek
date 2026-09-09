@@ -8,6 +8,7 @@ tags:
 aliases: ["Stone Bullet"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2928"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Stone Bullet  *Item 15*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Warped Constriction"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8461"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Warped Constriction  *Feat 8*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

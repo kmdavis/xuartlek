@@ -7,6 +7,7 @@ tags:
 aliases: ["Werecreature"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=225"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Werecreature  *Archetype 2*

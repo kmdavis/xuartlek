@@ -9,6 +9,7 @@ tags:
 aliases: ["Leiomano"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=292"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Leiomano  *Weapon 0*

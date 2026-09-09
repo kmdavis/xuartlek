@@ -7,6 +7,7 @@ tags:
 aliases: ["Sky Chariot, Light"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=60"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Sky Chariot, Light  *Vehicle 7*

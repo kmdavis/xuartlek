@@ -9,6 +9,7 @@ tags:
 aliases: ["Thermal Remedy"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1363"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Thermal Remedy  *Spell 2*

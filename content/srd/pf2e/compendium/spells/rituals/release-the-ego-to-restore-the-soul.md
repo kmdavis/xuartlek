@@ -13,6 +13,7 @@ tags:
 aliases: ["Release the Ego to Restore the Soul"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=263"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Release the Ego to Restore the Soul  *Ritual 2*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Monster Warden"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4868"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Monster Warden  *Feat 2*

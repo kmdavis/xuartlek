@@ -10,6 +10,7 @@ tags:
 aliases: ["Mother Maw"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2384"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mother Maw  *Item 15*

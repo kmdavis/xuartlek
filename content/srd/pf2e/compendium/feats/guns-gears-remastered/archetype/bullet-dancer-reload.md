@@ -8,6 +8,7 @@ tags:
 aliases: ["Bullet Dancer Reload"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3238"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Bullet Dancer Reload  *Feat 10*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

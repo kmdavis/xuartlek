@@ -10,6 +10,7 @@ tags:
 aliases: ["Living Mantle"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3092"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Living Mantle  *Item 10+*

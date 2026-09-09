@@ -5,6 +5,7 @@ tags:
 aliases: ["The Pandemonia"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=370"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # The Pandemonia  *Deity*

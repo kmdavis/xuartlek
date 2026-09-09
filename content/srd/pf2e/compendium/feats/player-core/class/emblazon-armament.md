@@ -8,6 +8,7 @@ tags:
 aliases: ["Emblazon Armament"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4649"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Emblazon Armament  *Feat 2*

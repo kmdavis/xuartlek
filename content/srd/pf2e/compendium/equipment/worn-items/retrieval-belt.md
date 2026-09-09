@@ -10,6 +10,7 @@ tags:
 aliases: ["Retrieval Belt"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3102"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Retrieval Belt  *Item 7+*

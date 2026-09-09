@@ -7,6 +7,7 @@ tags:
 aliases: ["Shield Boss"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=396"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Shield Boss  *Weapon 0*

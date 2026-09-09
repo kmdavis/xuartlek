@@ -7,6 +7,7 @@ tags:
 aliases: ["Uncanny Cheeks"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5667"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Uncanny Cheeks  *Feat 9*

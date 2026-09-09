@@ -7,6 +7,7 @@ tags:
 aliases: ["Disarming Intercept"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7851"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Disarming Intercept  *Feat 6*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

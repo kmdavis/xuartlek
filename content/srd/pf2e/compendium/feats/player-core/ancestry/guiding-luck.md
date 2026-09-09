@@ -7,6 +7,7 @@ tags:
 aliases: ["Guiding Luck"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4468"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Guiding Luck  *Feat 9*

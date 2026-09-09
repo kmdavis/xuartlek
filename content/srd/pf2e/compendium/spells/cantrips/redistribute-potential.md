@@ -13,6 +13,7 @@ tags:
 aliases: ["Redistribute Potential"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2555"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Redistribute Potential  *Cantrip 5*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

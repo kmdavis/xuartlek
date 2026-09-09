@@ -6,6 +6,7 @@ tags:
 aliases: ["Thaumaturge"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=895"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Thaumaturge  *Trait*

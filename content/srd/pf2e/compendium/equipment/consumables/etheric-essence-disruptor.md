@@ -9,6 +9,7 @@ tags:
 aliases: ["Etheric Essence Disruptor"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1110"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Etheric Essence Disruptor  *Item 3+*

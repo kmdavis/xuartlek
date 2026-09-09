@@ -12,6 +12,7 @@ tags:
 aliases: ["Rock Rampart"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4232"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Rock Rampart  *Feat 12*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

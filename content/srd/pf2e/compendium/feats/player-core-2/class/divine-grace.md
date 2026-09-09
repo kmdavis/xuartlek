@@ -7,6 +7,7 @@ tags:
 aliases: ["Divine Grace"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5892"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Divine Grace  *Feat 2*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

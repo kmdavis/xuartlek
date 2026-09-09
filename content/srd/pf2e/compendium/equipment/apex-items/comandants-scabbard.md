@@ -9,6 +9,7 @@ tags:
 aliases: ["Comandant's Scabbard"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3961"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Comandant's Scabbard  *Item 17*

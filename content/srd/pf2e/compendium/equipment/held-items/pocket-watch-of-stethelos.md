@@ -8,6 +8,7 @@ tags:
 aliases: ["Pocket Watch of Stethelos"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3942"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Pocket Watch of Stethelos  *Item 8*

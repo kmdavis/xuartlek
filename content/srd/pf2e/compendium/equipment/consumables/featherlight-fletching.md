@@ -9,6 +9,7 @@ tags:
 aliases: ["Featherlight Fletching"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3881"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Featherlight Fletching  *Item 4*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Divine Premonition"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=65"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Divine Premonition  *Class Feature 9*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Exuviae Powder"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2589"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Exuviae Powder  *Item 14*

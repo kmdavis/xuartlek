@@ -10,6 +10,7 @@ tags:
 aliases: ["Spear Frog Poison"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2015"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Spear Frog Poison  *Item 1*

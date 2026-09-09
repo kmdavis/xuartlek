@@ -8,6 +8,7 @@ tags:
 aliases: ["Draconic Verge"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3934"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Draconic Verge  *Item 7*

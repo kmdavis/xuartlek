@@ -14,6 +14,7 @@ tags:
 aliases: ["Scrounger's Glee"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1938"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Scrounger's Glee  *Cantrip 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

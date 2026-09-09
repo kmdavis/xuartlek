@@ -10,6 +10,7 @@ tags:
 aliases: ["Four Winds"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4208"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Four Winds  *Feat 1*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

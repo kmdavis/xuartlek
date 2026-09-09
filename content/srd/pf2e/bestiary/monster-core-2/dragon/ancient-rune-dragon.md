@@ -12,6 +12,7 @@ name: "Ancient Rune Dragon"
 level: 19
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4365"
+socialImage: og-image.png
 ---
 
 ```statblock

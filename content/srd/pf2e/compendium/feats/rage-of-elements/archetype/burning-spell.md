@@ -10,6 +10,7 @@ tags:
 aliases: ["Burning Spell"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4343"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Burning Spell  *Feat 6*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

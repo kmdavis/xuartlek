@@ -8,6 +8,7 @@ tags:
 aliases: ["Merciful"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1869"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Merciful  *Item 4*

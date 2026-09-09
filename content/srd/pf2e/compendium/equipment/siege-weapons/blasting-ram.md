@@ -8,6 +8,7 @@ tags:
 aliases: ["Blasting Ram"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=11"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Blasting Ram  *Siege Weapon 7*

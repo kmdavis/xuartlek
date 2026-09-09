@@ -9,6 +9,7 @@ tags:
 aliases: ["Dream Logic"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8522"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Dream Logic  *Feat 14*

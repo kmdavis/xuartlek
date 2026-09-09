@@ -12,6 +12,7 @@ tags:
 aliases: ["Alloy Flesh and Steel"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4263"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Alloy Flesh and Steel  *Feat 14*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

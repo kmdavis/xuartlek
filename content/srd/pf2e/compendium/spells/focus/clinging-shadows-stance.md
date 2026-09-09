@@ -12,6 +12,7 @@ tags:
 aliases: ["Clinging Shadows Stance"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2061"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Clinging Shadows Stance  *Focus 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

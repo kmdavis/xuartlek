@@ -7,6 +7,7 @@ tags:
 aliases: ["Velocipede"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=71"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Velocipede  *Vehicle 1*

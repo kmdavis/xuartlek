@@ -7,6 +7,7 @@ tags:
 aliases: ["Herbal Forager"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5331"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Herbal Forager  *Feat 9*

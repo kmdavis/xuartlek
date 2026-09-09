@@ -5,6 +5,7 @@ tags:
 aliases: ["Ravener"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=617"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Ravener  *Creature Family*

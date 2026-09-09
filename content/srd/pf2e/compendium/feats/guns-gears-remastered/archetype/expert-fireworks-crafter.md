@@ -7,6 +7,7 @@ tags:
 aliases: ["Expert Fireworks Crafter"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8530"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Expert Fireworks Crafter  *Feat 6*

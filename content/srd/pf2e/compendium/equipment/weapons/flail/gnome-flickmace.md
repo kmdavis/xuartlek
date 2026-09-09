@@ -10,6 +10,7 @@ tags:
 aliases: ["Gnome Flickmace"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=421"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Gnome Flickmace  *Weapon 0*

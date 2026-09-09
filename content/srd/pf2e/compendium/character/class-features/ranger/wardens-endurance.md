@@ -6,6 +6,7 @@ tags:
 aliases: ["Warden's Endurance"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=36"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Warden's Endurance  *Class Feature 11*

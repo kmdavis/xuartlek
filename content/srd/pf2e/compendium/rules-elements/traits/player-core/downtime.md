@@ -6,6 +6,7 @@ tags:
 aliases: ["Downtime"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=580"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Downtime  *Trait*

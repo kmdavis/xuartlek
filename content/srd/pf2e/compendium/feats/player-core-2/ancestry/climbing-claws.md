@@ -7,6 +7,7 @@ tags:
 aliases: ["Climbing Claws"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5550"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Climbing Claws  *Feat 5*

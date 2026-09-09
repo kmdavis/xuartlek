@@ -8,6 +8,7 @@ tags:
 aliases: ["Radiant Prism"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2236"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Radiant Prism  *Item 16+*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Expert Witch Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5104"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Expert Witch Spellcasting  *Feat 12*

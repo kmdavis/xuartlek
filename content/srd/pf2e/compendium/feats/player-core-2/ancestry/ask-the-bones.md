@@ -8,6 +8,7 @@ tags:
 aliases: ["Ask the Bones"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5589"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Ask the Bones  *Feat 1*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

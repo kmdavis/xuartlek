@@ -5,6 +5,7 @@ tags:
 aliases: ["Item Quirks"]
 source: "Gamemastery Guide p. 86"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=1083"
+socialImage: og-image.png
 ---
 
 # Item Quirks

@@ -7,6 +7,7 @@ tags:
 aliases: ["First Frost"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4096"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # First Frost  *Feat 2*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Dischoran"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=490"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Dischoran  *Creature Family*

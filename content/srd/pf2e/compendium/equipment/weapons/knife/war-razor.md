@@ -10,6 +10,7 @@ tags:
 aliases: ["War Razor"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=307"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # War Razor  *Weapon 0*

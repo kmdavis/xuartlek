@@ -7,6 +7,7 @@ tags:
 aliases: ["Gossamer Blade"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9366"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Gossamer Blade  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

@@ -7,6 +7,7 @@ tags:
 aliases: ["Toppling Transformation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5403"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Toppling Transformation  *Feat 6*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

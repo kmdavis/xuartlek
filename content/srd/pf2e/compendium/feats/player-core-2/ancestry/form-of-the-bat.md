@@ -10,6 +10,7 @@ tags:
 aliases: ["Form of the Bat"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5724"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Form of the Bat  *Feat 13*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

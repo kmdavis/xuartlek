@@ -9,6 +9,7 @@ tags:
 aliases: ["Tricky Liniment"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3401"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Tricky Liniment  *Item 5*

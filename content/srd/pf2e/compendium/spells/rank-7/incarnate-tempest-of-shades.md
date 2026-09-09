@@ -9,6 +9,7 @@ tags:
 aliases: ["Incarnate Tempest of Shades"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2744"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Incarnate Tempest of Shades  *Spell 7*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

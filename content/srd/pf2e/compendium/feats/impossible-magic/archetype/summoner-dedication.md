@@ -9,6 +9,7 @@ tags:
 aliases: ["Summoner Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9307"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Summoner Dedication  *Feat 2*

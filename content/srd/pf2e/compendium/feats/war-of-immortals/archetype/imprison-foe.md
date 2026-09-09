@@ -8,6 +8,7 @@ tags:
 aliases: ["Imprison Foe"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7328"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Imprison Foe  *Feat 18*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
@@ -18,7 +19,7 @@ source: "War of Immortals"
 - **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/archfiend-dedication|Archfiend Dedication]]
 - **Requirements**: Your last action dealt damage to a creature.
 
-Rather than grant your foes the mercy of a swift death, you can consign them to suffer in an extradimensional prison with an appearance of your choosing. Spend 1 [[srd/pf2e/books/war-of-immortals/mythic-rules/index|Mythic Point]] to force a creature that you dealt damage to with your last action to attempt a Will saving throw against your class DC or spell DC, whichever is higher. Regardless of the result, the target is temporarily immune to your Imprison Foe for 24 hours.
+Rather than grant your foes the mercy of a swift death, you can consign them to suffer in an extradimensional prison with an appearance of your choosing. Spend 1 [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]] to force a creature that you dealt damage to with your last action to attempt a Will saving throw against your class DC or spell DC, whichever is higher. Regardless of the result, the target is temporarily immune to your Imprison Foe for 24 hours.
 
 **Critical Success** The target is unaffected.
 

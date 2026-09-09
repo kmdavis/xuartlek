@@ -7,6 +7,7 @@ tags:
 aliases: ["Lasting Armament"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4690"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Lasting Armament  *Feat 14*

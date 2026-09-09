@@ -9,6 +9,7 @@ tags:
 aliases: ["Nemesis Name"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2213"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Nemesis Name  *Item 9*

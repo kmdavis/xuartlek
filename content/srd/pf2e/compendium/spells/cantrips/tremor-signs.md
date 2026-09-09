@@ -10,6 +10,7 @@ tags:
 aliases: ["Tremor Signs"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1342"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Tremor Signs  *Cantrip 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

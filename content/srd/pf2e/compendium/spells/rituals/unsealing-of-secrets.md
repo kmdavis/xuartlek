@@ -8,6 +8,7 @@ tags:
 aliases: ["Unsealing of Secrets"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=271"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Unsealing of Secrets  *Ritual 4*

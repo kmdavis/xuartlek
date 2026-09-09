@@ -6,6 +6,7 @@ tags:
 aliases: ["Captivator"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=390"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Captivator  *Archetype 2*

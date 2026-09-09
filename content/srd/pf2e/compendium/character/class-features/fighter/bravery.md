@@ -6,6 +6,7 @@ tags:
 aliases: ["Bravery"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=35"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Bravery  *Class Feature 3*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Beast"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=547"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Beast  *Trait*

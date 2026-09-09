@@ -11,6 +11,7 @@ name: "Redcap Brigade"
 level: 10
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3935"
+socialImage: og-image.png
 ---
 
 ```statblock

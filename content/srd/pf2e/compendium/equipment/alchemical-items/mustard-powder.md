@@ -10,6 +10,7 @@ tags:
 aliases: ["Mustard Powder"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2008"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mustard Powder  *Item 5*

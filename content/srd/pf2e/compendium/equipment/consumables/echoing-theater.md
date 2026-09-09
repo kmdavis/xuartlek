@@ -9,6 +9,7 @@ tags:
 aliases: ["Echoing Theater"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5050"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Echoing Theater  *Item 7*

@@ -11,6 +11,7 @@ name: "Siegebreaker"
 level: 14
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3520"
+socialImage: og-image.png
 ---
 
 ```statblock

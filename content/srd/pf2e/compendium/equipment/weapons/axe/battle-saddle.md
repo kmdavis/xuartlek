@@ -9,6 +9,7 @@ tags:
 aliases: ["Battle Saddle"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=271"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Battle Saddle  *Weapon 0*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Wounding"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2854"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Wounding  *Item 7*

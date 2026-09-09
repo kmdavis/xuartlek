@@ -12,6 +12,7 @@ tags:
 aliases: ["Pack Breaker"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1936"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Pack Breaker  *Focus 5*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

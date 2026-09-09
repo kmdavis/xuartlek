@@ -6,6 +6,7 @@ tags:
 aliases: ["Skeleton"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=772"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Skeleton  *Trait*

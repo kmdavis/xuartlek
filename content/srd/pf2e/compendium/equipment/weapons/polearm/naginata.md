@@ -10,6 +10,7 @@ tags:
 aliases: ["Naginata"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=297"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Naginata  *Weapon 0*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Spear Launcher"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=483"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Spear Launcher  *Hazard 2*

@@ -11,6 +11,7 @@ tags:
 aliases: ["False Hope"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2003"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # False Hope  *Item 17*

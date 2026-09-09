@@ -7,6 +7,7 @@ tags:
 aliases: ["By Your Name"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9210"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # By Your Name  *Feat 16*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

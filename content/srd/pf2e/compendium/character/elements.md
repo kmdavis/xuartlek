@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/rage-of-elements
 aliases: ["Elements"]
 entries: 6
+socialImage: og-image.png
 ---
 
 # Elements

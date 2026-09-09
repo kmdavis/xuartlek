@@ -5,6 +5,7 @@ tags:
 aliases: ["Spirit Guide"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=502"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Spirit Guide  *Creature Family*

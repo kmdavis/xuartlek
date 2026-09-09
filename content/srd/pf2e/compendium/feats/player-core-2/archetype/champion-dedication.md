@@ -9,6 +9,7 @@ tags:
 aliases: ["Champion Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6196"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Champion Dedication  *Feat 2*

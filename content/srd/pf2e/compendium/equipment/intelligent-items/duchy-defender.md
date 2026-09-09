@@ -9,6 +9,7 @@ tags:
 aliases: ["Duchy Defender"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1179"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Duchy Defender  *Item 13*

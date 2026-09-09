@@ -9,6 +9,7 @@ tags:
 aliases: ["Poisoned Dart Gallery"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=492"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Poisoned Dart Gallery  *Hazard 8*

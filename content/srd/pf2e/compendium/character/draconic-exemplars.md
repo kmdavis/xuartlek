@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/player-core-2
 aliases: ["Draconic Exemplars"]
 entries: 4
+socialImage: og-image.png
 ---
 
 # Draconic Exemplars

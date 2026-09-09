@@ -11,6 +11,7 @@ name: "Verdure's Moonflower"
 level: 8
 source: "Dark Archives (Remastered)"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4649"
+socialImage: og-image.png
 ---
 
 ```statblock

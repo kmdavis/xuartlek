@@ -11,6 +11,7 @@ tags:
 aliases: ["Pummel-Growth Toxin"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2011"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Pummel-Growth Toxin  *Item 13*

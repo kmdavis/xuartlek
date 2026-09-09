@@ -10,6 +10,7 @@ tags:
 aliases: ["Dart Umbrella"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=175"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Dart Umbrella  *Weapon 0*

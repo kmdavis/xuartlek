@@ -6,6 +6,7 @@ tags:
 aliases: ["Fighter"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=601"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Fighter  *Trait*

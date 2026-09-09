@@ -7,6 +7,7 @@ tags:
 aliases: ["Accommodating Mount"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5327"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Accommodating Mount  *Feat 5*

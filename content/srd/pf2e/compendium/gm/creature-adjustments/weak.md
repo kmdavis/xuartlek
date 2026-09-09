@@ -5,6 +5,7 @@ tags:
 aliases: ["Weak"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=23"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Weak  *Creature Adjustment*

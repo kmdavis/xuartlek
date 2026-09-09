@@ -9,6 +9,7 @@ tags:
 aliases: ["Black Cat Curse"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5563"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Black Cat Curse  *Feat 13*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

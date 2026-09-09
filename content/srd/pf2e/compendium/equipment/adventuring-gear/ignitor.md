@@ -7,6 +7,7 @@ tags:
 aliases: ["Ignitor"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1151"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Ignitor  *Item 1*

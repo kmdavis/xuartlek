@@ -5,6 +5,7 @@ tags:
 aliases: ["Vampire, Nosferatu"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=630"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Vampire, Nosferatu  *Creature Family*

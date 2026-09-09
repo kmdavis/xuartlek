@@ -5,6 +5,7 @@ tags:
 aliases: ["Wulgren"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=562"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Wulgren  *Deity*

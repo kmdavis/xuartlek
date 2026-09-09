@@ -10,6 +10,7 @@ tags:
 aliases: ["Snagging Hook Snare"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3384"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Snagging Hook Snare  *Item 10*

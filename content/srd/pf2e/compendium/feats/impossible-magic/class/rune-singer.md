@@ -7,6 +7,7 @@ tags:
 aliases: ["Rune-Singer"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9173"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Rune-Singer  *Feat 1*

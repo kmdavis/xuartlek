@@ -10,6 +10,7 @@ tags:
 aliases: ["Penultimate Heartbeat"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3890"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Penultimate Heartbeat  *Item 16*

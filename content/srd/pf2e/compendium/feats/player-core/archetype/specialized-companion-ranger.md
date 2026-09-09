@@ -7,6 +7,7 @@ tags:
 aliases: ["Specialized Companion (Ranger)"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4905"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Specialized Companion (Ranger)  *Feat 16*

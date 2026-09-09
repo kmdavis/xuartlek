@@ -7,6 +7,7 @@ tags:
 aliases: ["Advanced Devotion"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6200"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Advanced Devotion  *Feat 6*

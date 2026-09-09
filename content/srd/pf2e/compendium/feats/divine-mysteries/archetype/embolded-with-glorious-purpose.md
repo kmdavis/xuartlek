@@ -9,6 +9,7 @@ tags:
 aliases: ["Embolded With Glorious Purpose"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7580"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Embolded With Glorious Purpose  *Feat 18*

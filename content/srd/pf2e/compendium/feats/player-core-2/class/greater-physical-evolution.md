@@ -7,6 +7,7 @@ tags:
 aliases: ["Greater Physical Evolution"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6112"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Greater Physical Evolution  *Feat 12*

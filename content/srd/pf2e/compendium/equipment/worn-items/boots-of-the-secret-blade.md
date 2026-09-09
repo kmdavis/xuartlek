@@ -8,6 +8,7 @@ tags:
 aliases: ["Boots of the Secret Blade"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3960"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Boots of the Secret Blade  *Item 2+*

@@ -9,6 +9,7 @@ tags:
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3469"
 citation: "Battlecry! pg. 169"
+socialImage: og-image.png
 ---
 
 # Customizing Troops

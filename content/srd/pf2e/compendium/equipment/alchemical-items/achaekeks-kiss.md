@@ -11,6 +11,7 @@ tags:
 aliases: ["Achaekek's Kiss"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1988"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Achaekek's Kiss  *Item 20*

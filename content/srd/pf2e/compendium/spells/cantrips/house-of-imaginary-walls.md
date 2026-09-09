@@ -13,6 +13,7 @@ tags:
 aliases: ["House of Imaginary Walls"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1767"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # House of Imaginary Walls  *Cantrip 5*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

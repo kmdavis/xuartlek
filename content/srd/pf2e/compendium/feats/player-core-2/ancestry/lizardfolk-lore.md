@@ -7,6 +7,7 @@ tags:
 aliases: ["Lizardfolk Lore"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5634"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Lizardfolk Lore  *Feat 1*

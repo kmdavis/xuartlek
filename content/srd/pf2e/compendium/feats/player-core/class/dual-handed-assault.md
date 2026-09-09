@@ -8,6 +8,7 @@ tags:
 aliases: ["Dual-Handed Assault"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4789"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Dual-Handed Assault  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

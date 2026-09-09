@@ -9,6 +9,7 @@ tags:
 aliases: ["Nightbreeze Machine"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1154"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Nightbreeze Machine  *Item 5*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Controlled Blast"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3243"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Controlled Blast  *Feat 8*

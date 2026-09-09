@@ -10,6 +10,7 @@ tags:
 aliases: ["Gadget Skates"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1113"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Gadget Skates  *Item 5*

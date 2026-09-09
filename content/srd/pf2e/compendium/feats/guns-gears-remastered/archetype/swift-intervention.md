@@ -7,6 +7,7 @@ tags:
 aliases: ["Swift Intervention"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3120"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Swift Intervention  *Feat 6*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

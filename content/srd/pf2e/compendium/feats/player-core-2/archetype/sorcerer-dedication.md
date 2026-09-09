@@ -9,6 +9,7 @@ tags:
 aliases: ["Sorcerer Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6225"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Sorcerer Dedication  *Feat 2*

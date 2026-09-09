@@ -7,6 +7,7 @@ tags:
 aliases: ["Legendary Shot"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4912"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Legendary Shot  *Feat 20*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Convincing Illusion"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5032"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Convincing Illusion  *Feat 6*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

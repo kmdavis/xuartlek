@@ -8,6 +8,7 @@ tags:
 aliases: ["Spiritsight Crossbow"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3285"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Spiritsight Crossbow  *Item 8*

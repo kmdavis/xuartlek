@@ -5,6 +5,7 @@ tags:
 aliases: ["Wraith"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=671"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Wraith  *Creature Family*

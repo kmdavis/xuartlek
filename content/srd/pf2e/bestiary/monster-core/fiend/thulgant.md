@@ -13,6 +13,7 @@ name: "Thulgant"
 level: 18
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3157"
+socialImage: og-image.png
 ---
 
 ```statblock

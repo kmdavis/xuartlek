@@ -6,6 +6,7 @@ tags:
 aliases: ["Heavy Crossbow"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=428"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Heavy Crossbow  *Weapon 0*

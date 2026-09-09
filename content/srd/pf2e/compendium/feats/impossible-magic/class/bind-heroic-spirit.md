@@ -7,6 +7,7 @@ tags:
 aliases: ["Bind Heroic Spirit"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9114"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Bind Heroic Spirit  *Feat 6*

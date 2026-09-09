@@ -5,6 +5,7 @@ tags:
 aliases: ["Eagle"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=406"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Eagle  *Creature Family*

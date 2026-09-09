@@ -6,6 +6,7 @@ tags:
 aliases: ["Amp"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=897"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Amp  *Trait*

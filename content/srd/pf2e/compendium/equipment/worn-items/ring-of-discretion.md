@@ -9,6 +9,7 @@ tags:
 aliases: ["Ring of Discretion"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2345"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Ring of Discretion  *Item 1*

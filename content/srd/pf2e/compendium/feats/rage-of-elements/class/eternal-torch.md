@@ -12,6 +12,7 @@ tags:
 aliases: ["Eternal Torch"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4237"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Eternal Torch  *Feat 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

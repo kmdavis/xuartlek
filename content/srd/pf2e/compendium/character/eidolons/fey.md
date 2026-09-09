@@ -7,6 +7,7 @@ tags:
 aliases: ["Fey"]
 aon_url: "https://2e.aonprd.com/Eidolons.aspx?ID=22"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Fey  *Summoner Eidolon*

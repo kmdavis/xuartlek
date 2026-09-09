@@ -9,6 +9,7 @@ tags:
 aliases: ["Hatchet"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=382"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Hatchet  *Weapon 0*

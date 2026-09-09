@@ -10,6 +10,7 @@ tags:
 aliases: ["Resonant Guitar"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2616"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Resonant Guitar  *Item 12*

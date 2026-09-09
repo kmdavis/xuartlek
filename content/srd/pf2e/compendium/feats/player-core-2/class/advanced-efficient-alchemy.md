@@ -7,6 +7,7 @@ tags:
 aliases: ["Advanced Efficient Alchemy"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5787"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Advanced Efficient Alchemy  *Feat 10*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Reach for the Stars"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3211"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Reach for the Stars  *Feat 18*

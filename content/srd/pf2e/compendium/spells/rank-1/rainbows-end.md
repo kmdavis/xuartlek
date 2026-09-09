@@ -12,6 +12,7 @@ tags:
 aliases: ["Rainbow's End"]
 aon_url: "https://2e.aonprd.com/MythicSpells.aspx?ID=2160"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Rainbow's End  *Spell 1*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

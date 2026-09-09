@@ -8,6 +8,7 @@ tags:
 aliases: ["Wolfjaw Armor"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1856"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wolfjaw Armor  *Item 7*

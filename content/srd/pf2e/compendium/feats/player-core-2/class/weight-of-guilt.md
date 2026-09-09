@@ -7,6 +7,7 @@ tags:
 aliases: ["Weight of Guilt"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5891"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Weight of Guilt  *Feat 1*

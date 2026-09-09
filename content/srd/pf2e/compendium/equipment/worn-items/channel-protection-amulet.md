@@ -9,6 +9,7 @@ tags:
 aliases: ["Channel Protection Amulet"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3062"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Channel Protection Amulet  *Item 3*

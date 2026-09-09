@@ -7,6 +7,7 @@ tags:
 aliases: ["Fearsome Brute"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4826"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Fearsome Brute  *Feat 10*

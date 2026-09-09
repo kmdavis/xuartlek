@@ -12,6 +12,7 @@ tags:
 aliases: ["Moonburst"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2357"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Moonburst  *Spell 7*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

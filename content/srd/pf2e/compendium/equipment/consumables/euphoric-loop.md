@@ -9,6 +9,7 @@ tags:
 aliases: ["Euphoric Loop"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2023"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Euphoric Loop  *Item 5+*

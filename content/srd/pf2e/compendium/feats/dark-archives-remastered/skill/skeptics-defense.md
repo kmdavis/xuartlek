@@ -9,6 +9,7 @@ tags:
 aliases: ["Skeptic's Defense"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8432"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Skeptic's Defense  *Feat 7*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

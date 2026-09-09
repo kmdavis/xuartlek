@@ -9,6 +9,7 @@ tags:
 aliases: ["Ginger Chew"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1919"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Ginger Chew  *Item 5*

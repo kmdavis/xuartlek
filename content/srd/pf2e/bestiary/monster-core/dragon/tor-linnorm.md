@@ -12,6 +12,7 @@ name: "Tor Linnorm"
 level: 21
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3086"
+socialImage: og-image.png
 ---
 
 ```statblock

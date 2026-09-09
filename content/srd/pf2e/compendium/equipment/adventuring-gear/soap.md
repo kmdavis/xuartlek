@@ -6,6 +6,7 @@ tags:
 aliases: ["Soap"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2752"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Soap  *Item 0*

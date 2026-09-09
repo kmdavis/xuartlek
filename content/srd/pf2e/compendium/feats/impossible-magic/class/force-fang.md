@@ -7,6 +7,7 @@ tags:
 aliases: ["Force Fang"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9048"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Force Fang  *Feat 2*

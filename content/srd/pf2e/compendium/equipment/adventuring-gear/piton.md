@@ -6,6 +6,7 @@ tags:
 aliases: ["Piton"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2742"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Piton  *Item 0*

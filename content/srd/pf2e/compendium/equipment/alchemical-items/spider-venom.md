@@ -10,6 +10,7 @@ tags:
 aliases: ["Spider Venom"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3346"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Spider Venom  *Item 5*

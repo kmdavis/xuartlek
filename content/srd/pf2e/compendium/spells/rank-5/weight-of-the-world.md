@@ -8,6 +8,7 @@ tags:
 aliases: ["Weight of the World"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2867"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Weight of the World  *Spell 5*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

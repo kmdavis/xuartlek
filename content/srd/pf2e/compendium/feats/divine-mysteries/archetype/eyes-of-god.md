@@ -7,6 +7,7 @@ tags:
 aliases: ["Eyes of God"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7545"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Eyes of God  *Feat 18*

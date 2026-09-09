@@ -6,6 +6,7 @@ tags:
 aliases: ["Vindicator"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=285"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Vindicator  *Archetype 2*

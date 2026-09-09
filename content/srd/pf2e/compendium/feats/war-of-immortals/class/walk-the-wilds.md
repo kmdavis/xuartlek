@@ -7,6 +7,7 @@ tags:
 aliases: ["Walk the Wilds"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7129"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Walk the Wilds  *Feat 4*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Order Explorer"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4718"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Order Explorer  *Feat 2*

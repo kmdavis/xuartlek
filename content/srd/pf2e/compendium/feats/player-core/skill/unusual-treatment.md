@@ -8,6 +8,7 @@ tags:
 aliases: ["Unusual Treatment"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5234"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Unusual Treatment  *Feat 2*

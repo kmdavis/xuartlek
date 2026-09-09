@@ -12,6 +12,7 @@ tags:
 aliases: ["Detonating Gears Snare"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1126"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Detonating Gears Snare  *Item 3*

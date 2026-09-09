@@ -7,6 +7,7 @@ tags:
 aliases: ["Superior Propulsion"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3150"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Superior Propulsion  *Feat 6*

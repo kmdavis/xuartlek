@@ -5,6 +5,7 @@ tags:
 aliases: ["Catfolk"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=377"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Catfolk  *Creature Family*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Expressive Face"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9396"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Expressive Face  *Feat 1*

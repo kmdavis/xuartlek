@@ -11,6 +11,7 @@ tags:
 aliases: ["Starsong Nectar"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2093"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Starsong Nectar  *Item 20*

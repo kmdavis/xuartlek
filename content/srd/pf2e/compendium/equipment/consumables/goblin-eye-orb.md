@@ -9,6 +9,7 @@ tags:
 aliases: ["Goblin-Eye Orb"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1229"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Goblin-Eye Orb  *Item 5*

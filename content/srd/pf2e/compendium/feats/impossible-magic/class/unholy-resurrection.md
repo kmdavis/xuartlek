@@ -9,6 +9,7 @@ tags:
 aliases: ["Unholy Resurrection"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9150"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Unholy Resurrection  *Feat 14*

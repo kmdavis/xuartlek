@@ -10,6 +10,7 @@ tags:
 aliases: ["Beguiling Crown"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2136"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Beguiling Crown  *Item 20*

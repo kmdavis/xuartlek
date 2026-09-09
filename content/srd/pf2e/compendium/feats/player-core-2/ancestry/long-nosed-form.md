@@ -10,6 +10,7 @@ tags:
 aliases: ["Long-Nosed Form"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5682"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Long-Nosed Form  *Feat 5*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

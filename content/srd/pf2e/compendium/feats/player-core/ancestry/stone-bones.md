@@ -7,6 +7,7 @@ tags:
 aliases: ["Stone Bones"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4399"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Stone Bones  *Feat 9*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

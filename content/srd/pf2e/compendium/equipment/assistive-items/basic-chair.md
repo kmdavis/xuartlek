@@ -6,6 +6,7 @@ tags:
 aliases: ["Basic Chair"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1160"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Basic Chair  *Item 0*

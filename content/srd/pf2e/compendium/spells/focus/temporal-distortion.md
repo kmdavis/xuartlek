@@ -10,6 +10,7 @@ tags:
 aliases: ["Temporal Distortion"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2613"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Temporal Distortion  *Focus 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

@@ -6,6 +6,7 @@ tags:
 aliases: ["Psychopomp"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=679"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Psychopomp  *Trait*

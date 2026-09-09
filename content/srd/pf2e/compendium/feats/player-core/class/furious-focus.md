@@ -7,6 +7,7 @@ tags:
 aliases: ["Furious Focus"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4801"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Furious Focus  *Feat 6*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Void"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=510"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Void  *Trait*

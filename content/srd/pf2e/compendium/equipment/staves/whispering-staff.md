@@ -10,6 +10,7 @@ tags:
 aliases: ["Whispering Staff"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2146"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Whispering Staff  *Item 20*

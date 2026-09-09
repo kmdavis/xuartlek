@@ -6,6 +6,7 @@ tags:
 aliases: ["Concussive"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=401"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Concussive  *Trait*

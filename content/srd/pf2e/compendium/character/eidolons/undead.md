@@ -7,6 +7,7 @@ tags:
 aliases: ["Undead"]
 aon_url: "https://2e.aonprd.com/Eidolons.aspx?ID=26"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Undead  *Summoner Eidolon*

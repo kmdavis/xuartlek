@@ -8,6 +8,7 @@ tags:
 aliases: ["Environmental Adaptability"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5521"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Environmental Adaptability  *Feat 8*

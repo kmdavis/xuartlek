@@ -8,6 +8,7 @@ tags:
 aliases: ["Troll Hide"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1986"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Troll Hide  *Item 15*

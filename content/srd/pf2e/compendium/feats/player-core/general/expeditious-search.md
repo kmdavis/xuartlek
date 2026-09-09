@@ -7,6 +7,7 @@ tags:
 aliases: ["Expeditious Search"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5143"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Expeditious Search  *Feat 7*

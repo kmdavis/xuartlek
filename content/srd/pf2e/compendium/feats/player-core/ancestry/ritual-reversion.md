@@ -9,6 +9,7 @@ tags:
 aliases: ["Ritual Reversion"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4502"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Ritual Reversion  *Feat 5*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

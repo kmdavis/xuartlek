@@ -9,6 +9,7 @@ tags:
 aliases: ["Wand of Noisome Acid"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2284"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wand of Noisome Acid  *Item 6+*

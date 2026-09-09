@@ -8,6 +8,7 @@ tags:
 aliases: ["Immovable"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1832"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Immovable  *Item 12*

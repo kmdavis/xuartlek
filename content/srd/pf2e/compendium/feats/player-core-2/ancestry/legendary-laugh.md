@@ -8,6 +8,7 @@ tags:
 aliases: ["Legendary Laugh"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5611"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Legendary Laugh  *Feat 17*

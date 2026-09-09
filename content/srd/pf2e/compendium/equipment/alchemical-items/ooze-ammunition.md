@@ -9,6 +9,7 @@ tags:
 aliases: ["Ooze Ammunition"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1900"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Ooze Ammunition  *Item 2+*

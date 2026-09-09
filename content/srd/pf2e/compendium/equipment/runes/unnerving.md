@@ -7,6 +7,7 @@ tags:
 aliases: ["Unnerving"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4997"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Unnerving  *Item 7*

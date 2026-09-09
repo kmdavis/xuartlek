@@ -11,6 +11,7 @@ tags:
 aliases: ["Spellsurge"]
 aon_url: "https://2e.aonprd.com/MythicSpells.aspx?ID=2150"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Spellsurge  *Focus 6*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

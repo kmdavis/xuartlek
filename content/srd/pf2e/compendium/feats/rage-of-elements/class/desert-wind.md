@@ -13,6 +13,7 @@ tags:
 aliases: ["Desert Wind"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4302"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Desert Wind  *Feat 6*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

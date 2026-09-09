@@ -10,6 +10,7 @@ tags:
 aliases: ["Familiar"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5024"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Familiar  *Feat 1*

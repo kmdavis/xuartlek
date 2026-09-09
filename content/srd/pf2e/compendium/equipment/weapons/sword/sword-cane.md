@@ -9,6 +9,7 @@ tags:
 aliases: ["Sword Cane"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=400"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Sword Cane  *Weapon 0*

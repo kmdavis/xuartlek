@@ -7,6 +7,7 @@ tags:
 aliases: ["Safe Elements"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4190"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Safe Elements  *Feat 4*

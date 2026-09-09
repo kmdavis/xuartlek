@@ -9,6 +9,7 @@ tags:
 aliases: ["Silencing Shot"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1197"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Silencing Shot  *Item 11*

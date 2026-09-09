@@ -7,6 +7,7 @@ tags:
 aliases: ["Alchemical Scholar"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5568"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Alchemical Scholar  *Feat 1*

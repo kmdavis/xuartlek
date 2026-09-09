@@ -7,6 +7,7 @@ tags:
 aliases: ["Rapid Assessment"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7800"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Rapid Assessment  *Feat 2*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

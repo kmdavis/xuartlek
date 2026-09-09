@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/gm-core
 aliases: ["Sidebars: GM Core"]
 entries: 78
+socialImage: og-image.png
 ---
 
 # Sidebars: GM Core
@@ -486,7 +487,7 @@ For most infiltrations, you’ll want to detail the site or group the PCs are tr
 
 ## Item Categories
 
-- **Parent page**: [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/index|Chapter 5: Treasure Trove]]
+- **Parent page**: [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/chapter-5-treasure-trove|Chapter 5: Treasure Trove]]
 
 Items are grouped into the following categories, shown here with a brief description of the category.
 
@@ -1015,7 +1016,7 @@ The structure doesn't harm creatures within the area when it appears, and it can
 
 ## Time
 
-- **Parent page**: [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/index|Chapter 3: Age of Lost Omens]]
+- **Parent page**: [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/chapter-3-age-of-lost-omens|Chapter 3: Age of Lost Omens]]
 
 Like Earth, Golarion spins on its axis once roughly every 24 hours. A week has 7 days, and a year has 52 weeks. To keep the calendar synchronized with the astronomical year, an extra leap day is tacked on to the second month of the year every 4 years.
 

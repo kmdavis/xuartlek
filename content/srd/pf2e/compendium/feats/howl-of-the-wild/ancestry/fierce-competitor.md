@@ -8,6 +8,7 @@ tags:
 aliases: ["Fierce Competitor"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5332"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Fierce Competitor  *Feat 9*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

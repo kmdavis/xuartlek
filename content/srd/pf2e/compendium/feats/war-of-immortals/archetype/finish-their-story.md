@@ -7,6 +7,7 @@ tags:
 aliases: ["Finish Their Story!"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7390"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Finish Their Story!  *Feat 20*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
@@ -16,7 +17,7 @@ source: "War of Immortals"
 - **Archetype**: [[srd/pf2e/compendium/character/archetypes/eternal-legend|Eternal Legend]]
 - **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/eternal-legend-dedication|Eternal Legend Dedication]]
 
-Though your tale is immortal, your foes aren’t afforded such an advantage and mainly serve only to further your legend. When the time is right, you can shepherd a weaker opponent off this mortal coil. Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/index|Mythic Point]] and make a [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] at mythic proficiency against an enemy. This Strike counts as two attacks for your multiple attack penalty and either kills or damages the target depending on their level, as noted below. After you make this Strike, the target becomes temporarily immune to Finish Their Story!, for 1 hour.
+Though your tale is immortal, your foes aren’t afforded such an advantage and mainly serve only to further your legend. When the time is right, you can shepherd a weaker opponent off this mortal coil. Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]] and make a [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] at mythic proficiency against an enemy. This Strike counts as two attacks for your multiple attack penalty and either kills or damages the target depending on their level, as noted below. After you make this Strike, the target becomes temporarily immune to Finish Their Story!, for 1 hour.
 
 **16th Level or Lower** If the Strike hits, the target dies instantly.
 

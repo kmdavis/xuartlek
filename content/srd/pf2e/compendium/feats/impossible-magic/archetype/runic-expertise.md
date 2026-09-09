@@ -7,6 +7,7 @@ tags:
 aliases: ["Runic Expertise"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9418"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Runic Expertise  *Feat 12*

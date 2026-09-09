@@ -7,6 +7,7 @@ tags:
 aliases: ["Coded Signal"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4130"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Coded Signal  *Item 0+*

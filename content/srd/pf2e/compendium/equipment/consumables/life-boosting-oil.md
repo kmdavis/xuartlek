@@ -11,6 +11,7 @@ tags:
 aliases: ["Life-Boosting Oil"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2071"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Life-Boosting Oil  *Item 3+*

@@ -11,6 +11,7 @@ tags:
 aliases: ["Sansetsukon"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=302"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sansetsukon  *Weapon 0*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Mountain Resilience"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1610"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Mountain Resilience  *Spell 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

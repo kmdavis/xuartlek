@@ -8,6 +8,7 @@ tags:
 aliases: ["Scroll Esoterica"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8368"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Scroll Esoterica  *Feat 6*

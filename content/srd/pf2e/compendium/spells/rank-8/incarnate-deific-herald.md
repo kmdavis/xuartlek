@@ -9,6 +9,7 @@ tags:
 aliases: ["Incarnate Deific Herald"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2738"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Incarnate Deific Herald  *Spell 8*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

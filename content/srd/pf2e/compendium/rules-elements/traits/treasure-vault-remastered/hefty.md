@@ -6,6 +6,7 @@ tags:
 aliases: ["Hefty"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=478"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Hefty  *Trait*

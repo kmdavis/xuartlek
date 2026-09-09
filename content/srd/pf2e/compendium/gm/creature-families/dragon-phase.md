@@ -5,6 +5,7 @@ tags:
 aliases: ["Dragon, Phase"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=585"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Dragon, Phase  *Creature Family*

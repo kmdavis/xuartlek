@@ -7,6 +7,7 @@ tags:
 aliases: ["Backpack Ballista"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=447"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Backpack Ballista  *Weapon 1*

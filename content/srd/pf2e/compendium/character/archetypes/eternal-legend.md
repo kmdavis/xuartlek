@@ -5,6 +5,7 @@ tags:
 aliases: ["Eternal Legend"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=292"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Eternal Legend  *Archetype*

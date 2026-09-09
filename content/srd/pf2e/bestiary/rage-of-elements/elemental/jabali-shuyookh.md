@@ -13,6 +13,7 @@ name: "Jabali Shuyookh"
 level: 12
 source: "Rage of Elements"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2627"
+socialImage: og-image.png
 ---
 
 ```statblock

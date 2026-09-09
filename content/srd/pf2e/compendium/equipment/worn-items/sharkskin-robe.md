@@ -9,6 +9,7 @@ tags:
 aliases: ["Sharkskin Robe"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2631"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Sharkskin Robe  *Item 12*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Collar Of The Eternal Bond"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5184"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Collar Of The Eternal Bond  *Item 7*

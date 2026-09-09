@@ -8,6 +8,7 @@ tags:
 aliases: ["Sense-Dulling Hood"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1944"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sense-Dulling Hood  *Item 6+*

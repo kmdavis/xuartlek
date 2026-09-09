@@ -6,6 +6,7 @@ tags:
 aliases: ["Scroll"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=688"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Scroll  *Trait*

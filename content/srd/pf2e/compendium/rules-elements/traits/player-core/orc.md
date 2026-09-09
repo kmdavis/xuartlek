@@ -6,6 +6,7 @@ tags:
 aliases: ["Orc"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=666"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Orc  *Trait*

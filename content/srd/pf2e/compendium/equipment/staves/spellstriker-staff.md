@@ -8,6 +8,7 @@ tags:
 aliases: ["Spellstriker Staff"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2258"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Spellstriker Staff  *Item 7+*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Portable Weapon Mount"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1219"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Portable Weapon Mount  *Item 1+*

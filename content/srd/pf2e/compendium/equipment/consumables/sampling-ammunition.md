@@ -8,6 +8,7 @@ tags:
 aliases: ["Sampling Ammunition"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4117"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sampling Ammunition  *Item 5*

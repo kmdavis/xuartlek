@@ -8,6 +8,7 @@ tags:
 aliases: ["Ghost Lantern"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2191"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Ghost Lantern  *Item 12*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Quenching"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1836"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Quenching  *Item 6+*

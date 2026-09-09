@@ -8,6 +8,7 @@ tags:
 aliases: ["Wheeling Grab"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5441"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Wheeling Grab  *Feat 6*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

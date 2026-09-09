@@ -9,6 +9,7 @@ tags:
 aliases: ["Hammer Of Forbiddance"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=472"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Hammer Of Forbiddance  *Hazard 11*

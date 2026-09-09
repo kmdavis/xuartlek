@@ -10,6 +10,7 @@ tags:
 aliases: ["Surging Smash"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9344"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Surging Smash  *Feat 6*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

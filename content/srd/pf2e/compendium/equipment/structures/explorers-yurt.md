@@ -8,6 +8,7 @@ tags:
 aliases: ["Explorer's Yurt"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3022"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Explorer's Yurt  *Item 10*

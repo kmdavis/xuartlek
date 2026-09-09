@@ -7,6 +7,7 @@ tags:
 aliases: ["Two-Person Submersible"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=116"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Two-Person Submersible  *Vehicle 2*

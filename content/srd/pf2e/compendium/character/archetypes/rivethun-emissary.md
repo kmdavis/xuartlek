@@ -7,6 +7,7 @@ tags:
 aliases: ["Rivethun Emissary"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=308"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Rivethun Emissary  *Archetype 2*

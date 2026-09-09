@@ -10,6 +10,7 @@ tags:
 aliases: ["Fey Life"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8414"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Fey Life  *Feat 16*

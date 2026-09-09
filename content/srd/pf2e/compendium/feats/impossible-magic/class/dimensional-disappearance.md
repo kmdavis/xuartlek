@@ -7,6 +7,7 @@ tags:
 aliases: ["Dimensional Disappearance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9073"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Dimensional Disappearance  *Feat 10*

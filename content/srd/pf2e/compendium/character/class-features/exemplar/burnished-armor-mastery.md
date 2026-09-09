@@ -6,6 +6,7 @@ tags:
 aliases: ["Burnished Armor Mastery"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=65"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Burnished Armor Mastery  *Class Feature 19*

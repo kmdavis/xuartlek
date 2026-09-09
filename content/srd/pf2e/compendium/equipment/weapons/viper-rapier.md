@@ -9,6 +9,7 @@ tags:
 aliases: ["Viper Rapier"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2145"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Viper Rapier  *Item 20*

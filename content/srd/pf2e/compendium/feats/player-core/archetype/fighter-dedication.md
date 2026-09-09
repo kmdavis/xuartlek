@@ -9,6 +9,7 @@ tags:
 aliases: ["Fighter Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5081"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Fighter Dedication  *Feat 2*

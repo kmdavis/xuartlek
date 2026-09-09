@@ -12,6 +12,7 @@ name: "Mythic Griffon"
 level: 4
 source: "War of Immortals"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3403"
+socialImage: og-image.png
 ---
 
 ```statblock

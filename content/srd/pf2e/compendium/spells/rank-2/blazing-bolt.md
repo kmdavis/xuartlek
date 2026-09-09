@@ -10,6 +10,7 @@ tags:
 aliases: ["Blazing Bolt"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1450"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Blazing Bolt  *Spell 2*  [?](books/player-core/chapter-8-playing-the-game/actions#Actions "Varies")

@@ -10,6 +10,7 @@ tags:
 aliases: ["Mending Lattice"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2983"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Mending Lattice  *Item 13*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Rejuvenating Touch"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5927"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Rejuvenating Touch  *Feat 18*

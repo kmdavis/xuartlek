@@ -7,6 +7,7 @@ tags:
 aliases: ["Shade"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=692"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Shade  *Trait*

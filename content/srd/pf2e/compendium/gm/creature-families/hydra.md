@@ -5,6 +5,7 @@ tags:
 aliases: ["Hydra"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=499"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Hydra  *Creature Family*

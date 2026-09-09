@@ -9,6 +9,7 @@ tags:
 aliases: ["Extract Vow of Nonviolence"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7177"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Extract Vow of Nonviolence  *Feat 12*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

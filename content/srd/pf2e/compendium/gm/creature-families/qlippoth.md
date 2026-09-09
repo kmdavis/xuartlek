@@ -5,6 +5,7 @@ tags:
 aliases: ["Qlippoth"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=460"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Qlippoth  *Creature Family*

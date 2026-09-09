@@ -11,6 +11,7 @@ tags:
 aliases: ["Circle of Weakness"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2926"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Circle of Weakness  *Focus 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

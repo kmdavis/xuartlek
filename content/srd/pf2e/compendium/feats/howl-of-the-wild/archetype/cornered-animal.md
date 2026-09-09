@@ -8,6 +8,7 @@ tags:
 aliases: ["Cornered Animal"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5499"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Cornered Animal  *Feat 8*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

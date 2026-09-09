@@ -10,6 +10,7 @@ name: "Basilisk"
 level: 5
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2847"
+socialImage: og-image.png
 ---
 
 ```statblock

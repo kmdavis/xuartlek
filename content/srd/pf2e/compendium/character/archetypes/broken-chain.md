@@ -5,6 +5,7 @@ tags:
 aliases: ["Broken Chain"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=291"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Broken Chain  *Archetype*

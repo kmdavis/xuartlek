@@ -5,6 +5,7 @@ tags:
 - compendium/src/pf2e/player-core
 aliases: ["Animal Companions Advanced"]
 entries: 3
+socialImage: og-image.png
 ---
 
 # Animal Companions Advanced

@@ -10,6 +10,7 @@ tags:
 aliases: ["Key of Unwinding"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3885"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Key of Unwinding  *Item 18*

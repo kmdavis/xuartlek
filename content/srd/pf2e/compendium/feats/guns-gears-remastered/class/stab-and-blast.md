@@ -8,6 +8,7 @@ tags:
 aliases: ["Stab and Blast"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3181"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Stab and Blast  *Feat 8*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

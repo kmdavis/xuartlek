@@ -8,6 +8,7 @@ tags:
 aliases: ["Spiked Gauntlet"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=366"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Spiked Gauntlet  *Weapon 0*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Shattering Strike (Weapon Improviser)"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6445"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Shattering Strike (Weapon Improviser)  *Feat 10*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

@@ -7,6 +7,7 @@ tags:
 aliases: ["Disorienting Opening"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4810"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Disorienting Opening  *Feat 8*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Mature Animal Companion (Ranger)"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4879"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Mature Animal Companion (Ranger)  *Feat 6*

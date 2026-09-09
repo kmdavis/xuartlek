@@ -9,6 +9,7 @@ tags:
 aliases: ["Bonded Animal"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5127"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Bonded Animal  *Feat 2*

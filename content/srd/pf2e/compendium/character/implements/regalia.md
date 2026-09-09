@@ -5,6 +5,7 @@ tags:
 aliases: ["Regalia"]
 aon_url: "https://2e.aonprd.com/Implements.aspx?ID=22"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Regalia  *Thaumaturge Implement*

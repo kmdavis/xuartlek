@@ -7,6 +7,7 @@ tags:
 aliases: ["Practice Targets"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1205"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Practice Targets  *Item 0*

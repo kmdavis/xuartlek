@@ -7,6 +7,7 @@ tags:
 aliases: ["Enduring Quickness"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6048"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Enduring Quickness  *Feat 20*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Burnished Armor Expertise"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=65"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Burnished Armor Expertise  *Class Feature 13*

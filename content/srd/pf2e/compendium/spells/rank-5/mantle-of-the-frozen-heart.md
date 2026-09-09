@@ -10,6 +10,7 @@ tags:
 aliases: ["Mantle of the Frozen Heart"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2764"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Mantle of the Frozen Heart  *Spell 5*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

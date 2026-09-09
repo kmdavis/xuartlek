@@ -5,6 +5,7 @@ tags:
 aliases: ["Izuyaku"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=348"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Izuyaku  *Deity*

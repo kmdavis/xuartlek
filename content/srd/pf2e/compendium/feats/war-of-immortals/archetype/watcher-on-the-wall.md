@@ -7,6 +7,7 @@ tags:
 aliases: ["Watcher on the Wall"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7252"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Watcher on the Wall  *Feat 8*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

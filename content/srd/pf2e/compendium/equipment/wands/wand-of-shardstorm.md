@@ -9,6 +9,7 @@ tags:
 aliases: ["Wand of Shardstorm"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3052"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Wand of Shardstorm  *Item 5+*

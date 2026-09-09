@@ -10,6 +10,7 @@ tags:
 aliases: ["Panic the Dead"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4650"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Panic the Dead  *Feat 2*

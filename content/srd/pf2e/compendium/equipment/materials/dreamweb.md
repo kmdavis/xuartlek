@@ -8,6 +8,7 @@ tags:
 aliases: ["Dreamweb"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3517"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Dreamweb  *Item 0+*

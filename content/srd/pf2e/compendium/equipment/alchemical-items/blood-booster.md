@@ -10,6 +10,7 @@ tags:
 aliases: ["Blood Booster"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1957"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Blood Booster  *Item 3+*

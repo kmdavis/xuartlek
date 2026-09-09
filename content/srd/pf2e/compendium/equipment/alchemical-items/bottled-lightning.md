@@ -11,6 +11,7 @@ tags:
 aliases: ["Bottled Lightning"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3290"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Bottled Lightning  *Item 1+*

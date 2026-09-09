@@ -8,6 +8,7 @@ tags:
 aliases: ["Iris of the Sky"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1182"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Iris of the Sky  *Item 6*

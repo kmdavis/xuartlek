@@ -10,6 +10,7 @@ tags:
 aliases: ["Remediate"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4696"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Remediate  *Feat 16*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

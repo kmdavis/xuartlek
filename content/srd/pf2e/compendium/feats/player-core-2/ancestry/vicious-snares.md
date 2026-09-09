@@ -7,6 +7,7 @@ tags:
 aliases: ["Vicious Snares"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5630"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Vicious Snares  *Feat 13*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Wandmender"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5032"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Wandmender  *Item 9*

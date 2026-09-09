@@ -7,6 +7,7 @@ tags:
 aliases: ["Armored Carriage"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=25"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Armored Carriage  *Vehicle 5*

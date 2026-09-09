@@ -7,6 +7,7 @@ tags:
 aliases: ["Not so Fast!"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7848"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Not so Fast!  *Feat 4*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

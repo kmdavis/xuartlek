@@ -9,6 +9,7 @@ tags:
 aliases: ["Summoning Rune"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=200"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Summoning Rune  *Hazard 3*

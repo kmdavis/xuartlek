@@ -10,6 +10,7 @@ tags:
 aliases: ["Hammer Gun (Ranged)"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=219"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Hammer Gun (Ranged)  *Weapon 1*

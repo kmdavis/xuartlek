@@ -8,6 +8,7 @@ tags:
 aliases: ["General's Word"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3845"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # General's Word  *Item 14*

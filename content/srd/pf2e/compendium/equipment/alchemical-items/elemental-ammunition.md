@@ -9,6 +9,7 @@ tags:
 aliases: ["Elemental Ammunition"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1897"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Elemental Ammunition  *Item 1+*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Cardinal Guardians"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7145"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Cardinal Guardians  *Feat 14*

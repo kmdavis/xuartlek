@@ -7,6 +7,7 @@ tags:
 aliases: ["Domain Focus"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4681"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Domain Focus  *Feat 12*

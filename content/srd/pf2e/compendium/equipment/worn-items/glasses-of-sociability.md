@@ -8,6 +8,7 @@ tags:
 aliases: ["Glasses Of Sociability"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5185"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Glasses Of Sociability  *Item 3*

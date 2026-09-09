@@ -7,6 +7,7 @@ tags:
 aliases: ["Precise Hooks"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5449"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Precise Hooks  *Feat 14*

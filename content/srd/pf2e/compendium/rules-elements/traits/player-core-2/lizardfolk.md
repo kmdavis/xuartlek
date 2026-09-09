@@ -6,6 +6,7 @@ tags:
 aliases: ["Lizardfolk"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=760"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Lizardfolk  *Trait*

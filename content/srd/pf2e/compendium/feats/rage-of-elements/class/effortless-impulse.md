@@ -7,6 +7,7 @@ tags:
 aliases: ["Effortless Impulse"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4199"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Effortless Impulse  *Feat 12*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

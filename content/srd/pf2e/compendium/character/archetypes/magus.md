@@ -6,6 +6,7 @@ tags:
 aliases: ["Magus"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=386"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Magus  *Archetype 2*

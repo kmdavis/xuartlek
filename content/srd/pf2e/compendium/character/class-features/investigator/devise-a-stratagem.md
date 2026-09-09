@@ -6,6 +6,7 @@ tags:
 aliases: ["Devise a Stratagem"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=59"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Devise a Stratagem  *Class Feature 1*

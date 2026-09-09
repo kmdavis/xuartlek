@@ -7,6 +7,7 @@ tags:
 aliases: ["Athamaru"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=741"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Athamaru  *Trait*

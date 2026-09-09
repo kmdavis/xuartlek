@@ -7,6 +7,7 @@ tags:
 aliases: ["Advanced Defender"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7895"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Advanced Defender  *Feat 6*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Group Impression"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5155"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Group Impression  *Feat 1*

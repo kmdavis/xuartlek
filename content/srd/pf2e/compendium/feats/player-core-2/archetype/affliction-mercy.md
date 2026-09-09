@@ -7,6 +7,7 @@ tags:
 aliases: ["Affliction Mercy"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5912"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Affliction Mercy  *Feat 12*

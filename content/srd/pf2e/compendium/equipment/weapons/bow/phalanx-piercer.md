@@ -11,6 +11,7 @@ tags:
 aliases: ["Phalanx Piercer"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=337"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Phalanx Piercer  *Weapon 1*

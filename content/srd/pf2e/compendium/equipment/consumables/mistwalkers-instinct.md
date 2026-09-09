@@ -9,6 +9,7 @@ tags:
 aliases: ["Mistwalker's Instinct"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5059"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Mistwalker's Instinct  *Item 4*

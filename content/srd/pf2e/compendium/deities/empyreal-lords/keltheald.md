@@ -5,6 +5,7 @@ tags:
 aliases: ["Keltheald"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=474"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Keltheald  *Deity*

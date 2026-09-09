@@ -10,6 +10,7 @@ tags:
 aliases: ["Golden Goose"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4142"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Golden Goose  *Item 11*

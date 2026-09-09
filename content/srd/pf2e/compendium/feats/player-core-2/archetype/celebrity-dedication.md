@@ -8,6 +8,7 @@ tags:
 aliases: ["Celebrity Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6298"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Celebrity Dedication  *Feat 2*

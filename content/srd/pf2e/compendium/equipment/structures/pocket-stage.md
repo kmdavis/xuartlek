@@ -8,6 +8,7 @@ tags:
 aliases: ["Pocket Stage"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3028"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Pocket Stage  *Item 5*

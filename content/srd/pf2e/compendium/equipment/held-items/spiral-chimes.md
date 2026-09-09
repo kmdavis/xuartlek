@@ -8,6 +8,7 @@ tags:
 aliases: ["Spiral Chimes"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2584"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Spiral Chimes  *Item 13*

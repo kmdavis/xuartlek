@@ -8,6 +8,7 @@ tags:
 aliases: ["Scion Transformation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5650"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Scion Transformation  *Feat 17*

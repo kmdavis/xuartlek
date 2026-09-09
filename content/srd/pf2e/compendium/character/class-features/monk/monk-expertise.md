@@ -6,6 +6,7 @@ tags:
 aliases: ["Monk Expertise"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=60"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Monk Expertise  *Class Feature 9*

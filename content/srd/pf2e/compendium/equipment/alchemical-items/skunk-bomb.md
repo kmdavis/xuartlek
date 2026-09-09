@@ -12,6 +12,7 @@ tags:
 aliases: ["Skunk Bomb"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1906"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Skunk Bomb  *Item 1+*

@@ -11,6 +11,7 @@ tags:
 aliases: ["Axe Musket (Melee)"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=213"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Axe Musket (Melee)  *Weapon 1*

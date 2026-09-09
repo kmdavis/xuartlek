@@ -8,6 +8,7 @@ tags:
 aliases: ["Portrait of Spite"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=262"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Portrait of Spite  *Ritual 5*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Weapon Supremacy"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4859"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Weapon Supremacy  *Feat 20*

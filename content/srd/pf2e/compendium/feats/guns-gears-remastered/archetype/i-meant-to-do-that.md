@@ -7,6 +7,7 @@ tags:
 aliases: ["I Meant to Do That"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3278"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # I Meant to Do That  *Feat 10*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

@@ -9,6 +9,7 @@ tags:
 aliases: ["Energized Cartridge"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1227"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Energized Cartridge  *Item 4*

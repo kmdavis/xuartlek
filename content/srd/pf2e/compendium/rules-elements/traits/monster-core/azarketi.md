@@ -6,6 +6,7 @@ tags:
 aliases: ["Azarketi"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=742"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Azarketi  *Trait*

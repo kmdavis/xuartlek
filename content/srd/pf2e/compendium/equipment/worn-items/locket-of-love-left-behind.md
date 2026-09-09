@@ -8,6 +8,7 @@ tags:
 aliases: ["Locket of Love Left Behind"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3970"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Locket of Love Left Behind  *Item 11*

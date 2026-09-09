@@ -7,6 +7,7 @@ tags:
 aliases: ["Jotun's Restoration"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7786"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Jotun's Restoration  *Feat 13*

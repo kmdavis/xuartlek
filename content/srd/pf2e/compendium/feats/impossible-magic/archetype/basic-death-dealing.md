@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Death Dealing"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9293"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Basic Death Dealing  *Feat 4*

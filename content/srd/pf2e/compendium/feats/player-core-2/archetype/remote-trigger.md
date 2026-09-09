@@ -7,6 +7,7 @@ tags:
 aliases: ["Remote Trigger"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6416"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Remote Trigger  *Feat 6*

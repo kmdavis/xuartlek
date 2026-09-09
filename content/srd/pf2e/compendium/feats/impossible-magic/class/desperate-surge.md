@@ -8,6 +8,7 @@ tags:
 aliases: ["Desperate Surge"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9131"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Desperate Surge  *Feat 10*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

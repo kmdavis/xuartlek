@@ -9,6 +9,7 @@ tags:
 aliases: ["Instant Pottery"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1336"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Instant Pottery  *Spell 1*

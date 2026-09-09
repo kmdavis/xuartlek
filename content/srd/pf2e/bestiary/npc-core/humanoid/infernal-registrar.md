@@ -13,6 +13,7 @@ name: "Infernal Registrar"
 level: 10
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3566"
+socialImage: og-image.png
 ---
 
 ```statblock

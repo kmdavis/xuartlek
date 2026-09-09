@@ -7,6 +7,7 @@ tags:
 aliases: ["Raging Thrower"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5811"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Raging Thrower  *Feat 1*

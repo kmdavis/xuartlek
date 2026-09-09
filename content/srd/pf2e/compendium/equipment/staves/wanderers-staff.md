@@ -8,6 +8,7 @@ tags:
 aliases: ["Wanderer's Staff"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5172"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Wanderer's Staff  *Item 6+*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Rising Blood Magic"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7241"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Rising Blood Magic  *Feat 4*

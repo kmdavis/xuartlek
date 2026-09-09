@@ -8,6 +8,7 @@ tags:
 aliases: ["Call Spirit"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=112"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Call Spirit  *Ritual 5*

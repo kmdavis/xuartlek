@@ -10,6 +10,7 @@ tags:
 aliases: ["Compass of Transpositional Awareness"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4137"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Compass of Transpositional Awareness  *Item 10*

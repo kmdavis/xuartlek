@@ -9,6 +9,7 @@ tags:
 aliases: ["Wyrm's Wingspan"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2225"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wyrm's Wingspan  *Item 9+*

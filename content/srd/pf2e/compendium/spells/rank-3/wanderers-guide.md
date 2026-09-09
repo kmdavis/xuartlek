@@ -8,6 +8,7 @@ tags:
 aliases: ["Wanderer’s Guide"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2043"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Wanderer’s Guide  *Spell 3*

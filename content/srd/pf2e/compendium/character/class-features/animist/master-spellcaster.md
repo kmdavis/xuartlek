@@ -6,6 +6,7 @@ tags:
 aliases: ["Master Spellcaster"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=64"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Master Spellcaster  *Class Feature 15*

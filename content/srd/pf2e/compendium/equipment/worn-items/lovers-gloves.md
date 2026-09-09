@@ -10,6 +10,7 @@ tags:
 aliases: ["Lover's Gloves"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3093"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Lover's Gloves  *Item 8*

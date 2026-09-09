@@ -8,6 +8,7 @@ tags:
 aliases: ["Resilient Chassis"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9403"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Resilient Chassis  *Feat 5*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

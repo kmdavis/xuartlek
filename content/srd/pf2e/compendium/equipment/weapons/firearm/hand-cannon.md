@@ -8,6 +8,7 @@ tags:
 aliases: ["Hand Cannon"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=523"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Hand Cannon  *Weapon 0*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Aura of Determination"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5919"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Aura of Determination  *Feat 14*

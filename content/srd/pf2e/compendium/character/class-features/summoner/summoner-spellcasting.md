@@ -6,6 +6,7 @@ tags:
 aliases: ["Summoner Spellcasting"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=77"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Summoner Spellcasting  *Class Feature 1*

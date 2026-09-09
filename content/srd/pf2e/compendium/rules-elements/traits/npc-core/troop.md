@@ -6,6 +6,7 @@ tags:
 aliases: ["Troop"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=849"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Troop  *Trait*

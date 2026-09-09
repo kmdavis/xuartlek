@@ -7,6 +7,7 @@ tags:
 aliases: ["One-inch Punch"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6003"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # One-inch Punch  *Feat 6*  [?](books/player-core/chapter-8-playing-the-game/actions#Actions "Varies")

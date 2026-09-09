@@ -6,6 +6,7 @@ tags:
 aliases: ["Talisman"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=709"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Talisman  *Trait*

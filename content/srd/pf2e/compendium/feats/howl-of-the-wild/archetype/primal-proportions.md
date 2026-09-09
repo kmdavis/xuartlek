@@ -8,6 +8,7 @@ tags:
 aliases: ["Primal Proportions"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5519"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Primal Proportions  *Feat 6*

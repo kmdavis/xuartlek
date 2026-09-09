@@ -8,6 +8,7 @@ tags:
 aliases: ["Fake Out"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3161"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Fake Out  *Feat 2*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

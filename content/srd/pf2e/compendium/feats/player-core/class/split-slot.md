@@ -7,6 +7,7 @@ tags:
 aliases: ["Split Slot"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5035"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Split Slot  *Feat 6*

@@ -13,6 +13,7 @@ tags:
 aliases: ["Temporary Possession"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2910"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Temporary Possession  *Focus 8*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

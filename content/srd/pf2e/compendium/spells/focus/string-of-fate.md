@@ -11,6 +11,7 @@ tags:
 aliases: ["String of Fate"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2592"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # String of Fate  *Focus 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

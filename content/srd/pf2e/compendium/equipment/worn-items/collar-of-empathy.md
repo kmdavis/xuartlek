@@ -9,6 +9,7 @@ tags:
 aliases: ["Collar of Empathy"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3015"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Collar of Empathy  *Item 9*

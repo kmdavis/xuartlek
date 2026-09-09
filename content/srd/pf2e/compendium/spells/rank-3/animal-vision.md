@@ -9,6 +9,7 @@ tags:
 aliases: ["Animal Vision"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1963"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Animal Vision  *Spell 3*

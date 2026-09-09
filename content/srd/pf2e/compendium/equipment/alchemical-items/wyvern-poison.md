@@ -10,6 +10,7 @@ tags:
 aliases: ["Wyvern Poison"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3350"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Wyvern Poison  *Item 8*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Area Armor"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7844"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Area Armor  *Feat 4*

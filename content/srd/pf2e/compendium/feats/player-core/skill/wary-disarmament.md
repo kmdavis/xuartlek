@@ -8,6 +8,7 @@ tags:
 aliases: ["Wary Disarmament"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5238"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Wary Disarmament  *Feat 2*

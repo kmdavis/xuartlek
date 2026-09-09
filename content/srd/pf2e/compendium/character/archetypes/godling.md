@@ -5,6 +5,7 @@ tags:
 aliases: ["Godling"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=293"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Godling  *Archetype*

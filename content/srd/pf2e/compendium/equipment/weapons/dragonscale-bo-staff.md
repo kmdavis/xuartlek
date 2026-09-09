@@ -7,6 +7,7 @@ tags:
 aliases: ["Dragonscale Bo Staff"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1884"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Dragonscale Bo Staff  *Item 6*

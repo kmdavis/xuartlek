@@ -9,6 +9,7 @@ tags:
 aliases: ["Explosive Mine"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1111"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Explosive Mine  *Item 1+*

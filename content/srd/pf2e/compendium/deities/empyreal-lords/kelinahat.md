@@ -5,6 +5,7 @@ tags:
 aliases: ["Kelinahat"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=473"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Kelinahat  *Deity*

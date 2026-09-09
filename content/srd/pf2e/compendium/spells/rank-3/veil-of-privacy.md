@@ -9,6 +9,7 @@ tags:
 aliases: ["Veil of Privacy"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1739"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Veil of Privacy  *Spell 3*

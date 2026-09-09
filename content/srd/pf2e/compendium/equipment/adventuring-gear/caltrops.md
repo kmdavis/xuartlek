@@ -6,6 +6,7 @@ tags:
 aliases: ["Caltrops"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2708"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Caltrops  *Item 0*

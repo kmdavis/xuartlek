@@ -7,6 +7,7 @@ tags:
 aliases: ["Bedroll of Deep Slumber"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3924"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Bedroll of Deep Slumber  *Item 3*

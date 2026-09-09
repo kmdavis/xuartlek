@@ -7,6 +7,7 @@ tags:
 aliases: ["Pinpoint Poisoner"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5785"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Pinpoint Poisoner  *Feat 8*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Serpentfolk"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=771"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Serpentfolk  *Trait*

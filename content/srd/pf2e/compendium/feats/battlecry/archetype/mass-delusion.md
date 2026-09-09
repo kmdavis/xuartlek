@@ -7,6 +7,7 @@ tags:
 aliases: ["Mass Delusion"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7930"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Mass Delusion  *Feat 12*

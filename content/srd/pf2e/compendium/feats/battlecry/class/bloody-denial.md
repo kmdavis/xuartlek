@@ -8,6 +8,7 @@ tags:
 aliases: ["Bloody Denial"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7874"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Bloody Denial  *Feat 14*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

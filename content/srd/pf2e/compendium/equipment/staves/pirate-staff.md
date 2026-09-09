@@ -8,6 +8,7 @@ tags:
 aliases: ["Pirate Staff"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2256"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Pirate Staff  *Item 12*

@@ -13,6 +13,7 @@ tags:
 aliases: ["Infused Void"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9125"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Infused Void  *Feat 8*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

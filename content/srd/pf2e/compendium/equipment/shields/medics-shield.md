@@ -8,6 +8,7 @@ tags:
 aliases: ["Medic's Shield"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3829"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Medic's Shield  *Item 14*

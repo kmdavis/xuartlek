@@ -10,6 +10,7 @@ tags:
 aliases: ["Flying Blade Wheel Snare"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3371"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Flying Blade Wheel Snare  *Item 20*

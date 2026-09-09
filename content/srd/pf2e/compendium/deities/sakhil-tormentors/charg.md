@@ -5,6 +5,7 @@ tags:
 aliases: ["Charg"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=594"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Charg  *Deity*

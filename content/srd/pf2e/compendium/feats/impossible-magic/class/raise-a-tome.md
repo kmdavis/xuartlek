@@ -7,6 +7,7 @@ tags:
 aliases: ["Raise a Tome"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9046"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Raise a Tome  *Feat 1*

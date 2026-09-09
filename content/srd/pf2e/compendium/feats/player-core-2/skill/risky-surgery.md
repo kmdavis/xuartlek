@@ -8,6 +8,7 @@ tags:
 aliases: ["Risky Surgery"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6498"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Risky Surgery  *Feat 1*

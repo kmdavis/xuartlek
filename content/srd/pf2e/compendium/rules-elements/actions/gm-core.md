@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/gm-core
 aliases: ["Actions: GM Core"]
 entries: 14
+socialImage: og-image.png
 ---
 
 # Actions: GM Core

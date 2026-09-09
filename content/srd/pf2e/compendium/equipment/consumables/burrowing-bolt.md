@@ -8,6 +8,7 @@ tags:
 aliases: ["Burrowing Bolt"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3863"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Burrowing Bolt  *Item 7+*

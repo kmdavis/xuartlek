@@ -7,6 +7,7 @@ tags:
 aliases: ["Speaker's Defense"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5335"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Speaker's Defense  *Feat 9*

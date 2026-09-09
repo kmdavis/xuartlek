@@ -4,6 +4,7 @@ tags:
 - table/decks
 aliases: ["Hero Point Deck"]
 source: "Hero Point Deck p. 0"
+socialImage: og-image.png
 ---
 
 # Hero Point Deck

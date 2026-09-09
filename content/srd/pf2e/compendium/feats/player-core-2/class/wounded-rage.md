@@ -7,6 +7,7 @@ tags:
 aliases: ["Wounded Rage"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5823"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Wounded Rage  *Feat 4*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

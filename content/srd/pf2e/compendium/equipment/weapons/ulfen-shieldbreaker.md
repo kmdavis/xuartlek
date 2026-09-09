@@ -8,6 +8,7 @@ tags:
 aliases: ["Ulfen Shieldbreaker"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3860"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Ulfen Shieldbreaker  *Item 6*

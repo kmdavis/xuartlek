@@ -8,6 +8,7 @@ tags:
 aliases: ["Vigilant Eye"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2241"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Vigilant Eye  *Item 9+*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Rolling Boulders"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=265"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Rolling Boulders  *Ritual 3*

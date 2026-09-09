@@ -6,6 +6,7 @@ tags:
 aliases: ["Complete Reconfiguration"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=19"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Complete Reconfiguration  *Class Feature 13*

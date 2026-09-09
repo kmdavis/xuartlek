@@ -5,6 +5,7 @@ tags:
 aliases: ["Blooms of the Spreading Weald"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=365"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Blooms of the Spreading Weald  *Deity*

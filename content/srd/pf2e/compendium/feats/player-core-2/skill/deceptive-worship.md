@@ -8,6 +8,7 @@ tags:
 aliases: ["Deceptive Worship"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6471"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Deceptive Worship  *Feat 1*

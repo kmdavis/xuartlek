@@ -6,6 +6,7 @@ tags:
 aliases: ["Will of the Pupil"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=38"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Will of the Pupil  *Class Feature 17*

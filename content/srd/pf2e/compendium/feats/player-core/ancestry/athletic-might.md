@@ -7,6 +7,7 @@ tags:
 aliases: ["Athletic Might"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4520"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Athletic Might  *Feat 5*

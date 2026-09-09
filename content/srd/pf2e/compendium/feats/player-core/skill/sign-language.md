@@ -8,6 +8,7 @@ tags:
 aliases: ["Sign Language"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5213"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Sign Language  *Feat 1*

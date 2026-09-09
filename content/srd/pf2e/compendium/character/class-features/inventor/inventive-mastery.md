@@ -6,6 +6,7 @@ tags:
 aliases: ["Inventive Mastery"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=19"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Inventive Mastery  *Class Feature 17*

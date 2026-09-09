@@ -8,6 +8,7 @@ tags:
 aliases: ["Composer Staff"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2249"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Composer Staff  *Item 4+*

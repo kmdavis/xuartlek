@@ -10,6 +10,7 @@ tags:
 aliases: ["Speak with Plants"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1681"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Speak with Plants  *Spell 3*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

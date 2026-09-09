@@ -6,6 +6,7 @@ tags:
 aliases: ["Vampire"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=778"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Vampire  *Trait*

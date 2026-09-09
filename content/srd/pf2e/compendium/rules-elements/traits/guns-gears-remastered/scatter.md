@@ -6,6 +6,7 @@ tags:
 aliases: ["Scatter"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=413"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Scatter  *Trait*

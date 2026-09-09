@@ -7,6 +7,7 @@ tags:
 aliases: ["Inviolable"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4701"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Inviolable  *Feat 18*

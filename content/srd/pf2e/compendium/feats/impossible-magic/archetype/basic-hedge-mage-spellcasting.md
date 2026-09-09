@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Hedge Mage Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9327"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Basic Hedge Mage Spellcasting  *Feat 4*

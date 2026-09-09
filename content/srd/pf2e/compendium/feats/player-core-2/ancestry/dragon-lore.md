@@ -7,6 +7,7 @@ tags:
 aliases: ["Dragon Lore"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5734"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Dragon Lore  *Feat 1*

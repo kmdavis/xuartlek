@@ -6,6 +6,7 @@ tags:
 aliases: ["Sifting Pan"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3251"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Sifting Pan  *Item 0*

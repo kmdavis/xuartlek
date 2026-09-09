@@ -7,6 +7,7 @@ tags:
 aliases: ["Elemental Servitor"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=104"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Elemental Servitor  *Ritual 5*

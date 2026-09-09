@@ -11,6 +11,7 @@ tags:
 aliases: ["Cognitive Mutagen"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3316"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Cognitive Mutagen  *Item 1+*

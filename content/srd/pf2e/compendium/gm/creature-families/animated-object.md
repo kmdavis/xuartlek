@@ -5,6 +5,7 @@ tags:
 aliases: ["Animated Object"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=360"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Animated Object  *Creature Family*

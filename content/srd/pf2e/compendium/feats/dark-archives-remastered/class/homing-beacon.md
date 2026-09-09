@@ -8,6 +8,7 @@ tags:
 aliases: ["Homing Beacon"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8318"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Homing Beacon  *Feat 4*

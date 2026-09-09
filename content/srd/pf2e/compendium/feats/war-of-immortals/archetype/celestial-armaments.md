@@ -8,6 +8,7 @@ tags:
 aliases: ["Celestial Armaments"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7338"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Celestial Armaments  *Feat 16*

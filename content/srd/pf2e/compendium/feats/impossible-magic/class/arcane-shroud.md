@@ -7,6 +7,7 @@ tags:
 aliases: ["Arcane Shroud"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9083"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Arcane Shroud  *Feat 14*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Fighting Oar"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=505"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Fighting Oar  *Weapon 0*

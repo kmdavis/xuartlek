@@ -8,6 +8,7 @@ tags:
 aliases: ["Printing Press"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1156"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Printing Press  *Item 9*

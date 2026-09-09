@@ -6,6 +6,7 @@ tags:
 aliases: ["Ranger"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=215"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Ranger  *Archetype 2*

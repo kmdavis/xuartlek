@@ -9,6 +9,7 @@ tags:
 aliases: ["Ablative Armor Plating"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1102"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Ablative Armor Plating  *Item 1+*

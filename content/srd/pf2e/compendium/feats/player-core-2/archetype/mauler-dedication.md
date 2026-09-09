@@ -8,6 +8,7 @@ tags:
 aliases: ["Mauler Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6368"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Mauler Dedication  *Feat 2*

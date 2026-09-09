@@ -7,6 +7,7 @@ tags:
 aliases: ["Captain"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=332"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Captain  *Archetype 2*

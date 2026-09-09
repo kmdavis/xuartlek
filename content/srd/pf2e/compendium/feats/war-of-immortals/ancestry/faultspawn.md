@@ -8,6 +8,7 @@ tags:
 aliases: ["Faultspawn"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7197"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Faultspawn  *Feat 1*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Graceful Guidance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5551"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Graceful Guidance  *Feat 5*

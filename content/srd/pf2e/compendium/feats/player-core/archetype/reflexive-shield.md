@@ -8,6 +8,7 @@ tags:
 aliases: ["Reflexive Shield"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4803"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Reflexive Shield  *Feat 6*

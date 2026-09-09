@@ -12,6 +12,7 @@ tags:
 aliases: ["Barbed Spear"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2490"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Barbed Spear  *Focus 1*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

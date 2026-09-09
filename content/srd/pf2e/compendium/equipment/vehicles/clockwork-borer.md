@@ -7,6 +7,7 @@ tags:
 aliases: ["Clockwork Borer"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=30"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Clockwork Borer  *Vehicle 9*

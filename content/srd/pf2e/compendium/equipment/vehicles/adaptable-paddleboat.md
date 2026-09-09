@@ -7,6 +7,7 @@ tags:
 aliases: ["Adaptable Paddleboat"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=19"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Adaptable Paddleboat  *Vehicle 2*

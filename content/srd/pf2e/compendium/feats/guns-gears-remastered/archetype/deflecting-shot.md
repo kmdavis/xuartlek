@@ -7,6 +7,7 @@ tags:
 aliases: ["Deflecting Shot"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3183"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Deflecting Shot  *Feat 10*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

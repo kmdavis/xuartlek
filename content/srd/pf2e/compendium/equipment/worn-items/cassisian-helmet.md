@@ -8,6 +8,7 @@ tags:
 aliases: ["Cassisian Helmet"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2333"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Cassisian Helmet  *Item 6*

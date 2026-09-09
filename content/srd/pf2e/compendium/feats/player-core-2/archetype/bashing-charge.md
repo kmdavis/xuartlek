@@ -8,6 +8,7 @@ tags:
 aliases: ["Bashing Charge"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5813"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Bashing Charge  *Feat 2*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

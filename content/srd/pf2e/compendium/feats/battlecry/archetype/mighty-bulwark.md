@@ -8,6 +8,7 @@ tags:
 aliases: ["Mighty Bulwark"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6413"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Mighty Bulwark  *Feat 8*

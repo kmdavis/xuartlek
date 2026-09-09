@@ -5,6 +5,7 @@ tags:
 aliases: ["Corosbel"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=418"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Corosbel  *Deity*

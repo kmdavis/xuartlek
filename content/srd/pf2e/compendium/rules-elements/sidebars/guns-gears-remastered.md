@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/guns-gears-remastered
 aliases: ["Sidebars: Guns & Gears (Remastered)"]
 entries: 28
+socialImage: og-image.png
 ---
 
 # Sidebars: Guns & Gears (Remastered)
@@ -96,7 +97,7 @@ Automatons are built to receive enhancements and modifications to their bodies. 
 
 ## Firearms and Access
 
-- **Parent page**: [[srd/pf2e/books/guns-gears-remastered/guns-equipment/index|Guns Equipment]]
+- **Parent page**: [[srd/pf2e/books/guns-gears-remastered/guns-equipment/guns-equipment|Guns Equipment]]
 
 In the world of Golarion, firearms and black powder weaponry remain largely limited to specific regions. In Avistan, reckless scientists and innovative undead hunters in the nation of Ustalav have championed a technological renaissance, spurring the development of basic but effective muskets copied off Alkenstar originals and, in the process, creating a burgeoning market for silver bullets and bayonets. In the Shackles, Motaku Isle Ironworks continues to pump out shoddy, but deadly, replicas of firearms and cannons stolen from Alkenstar, as well as create new (usually unstable) black powder weaponry. Alkenstar itself boasts the premier black powder gunsmiths on the planet and is the undisputed center of modern innovation for firearm accessories. In Tian Xia, the nations of Goka, Ling Shen, Po Li, and Quain have long worked with black powder, using it to spur other technological advancements. The continent of Arcadia has seen decades of relatively uninterrupted peace and might contain more gunslingers than the rest of Golarion combined, though their firearms are a more diverse array of magical star guns, technological air guns, and ceremonial beast guns, with no black powder whatsoever. Characters from these regions have access to the gunslinger class and firearms. Other than Arcadia, they have access to black powder siege weapons if the GM has opened up siege weapons as an option for the campaign.
 
@@ -268,10 +269,10 @@ Many gunslingers can learn how to twirl a pistol or intimidate a foe, but it's n
 
 ## Why No Gun Proficiency
 
-- **Parent page**: [[srd/pf2e/books/guns-gears-remastered/guns-characters/index|Guns Characters]]
+- **Parent page**: [[srd/pf2e/books/guns-gears-remastered/guns-characters/guns-characters|Guns Characters]]
 
 While most of the character options in this section provide benefits that are particularly useful or even specifically tailored for firearms, remarkably few of them outside of the gunslinger give a firearm-specific proficiency progression. You might be asking yourself why that is and there's a very simple answer: for the vast majority of characters, it isn't necessary.
 
- Just like knives, swords, spears, and every other category of weapon, firearms come in simple, martial, and advanced variants. As long as a character has [[srd/pf2e/books/guns-gears-remastered/guns-equipment/index|access to firearms]], they're also likely to have a selection of firearms with which they are already proficient. Additionally, many of the character options in this section work equally well with crossbows as they do with firearms. This means the options in this chapter automatically support whichever category of weapons (simple, martial, or advanced) your character knows how to use.
+ Just like knives, swords, spears, and every other category of weapon, firearms come in simple, martial, and advanced variants. As long as a character has [[srd/pf2e/books/guns-gears-remastered/guns-equipment/guns-equipment|access to firearms]], they're also likely to have a selection of firearms with which they are already proficient. Additionally, many of the character options in this section work equally well with crossbows as they do with firearms. This means the options in this chapter automatically support whichever category of weapons (simple, martial, or advanced) your character knows how to use.
 
 *Source: Guns & Gears (Remastered) p. 103*

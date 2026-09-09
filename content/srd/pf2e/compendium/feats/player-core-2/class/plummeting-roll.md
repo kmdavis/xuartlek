@@ -7,6 +7,7 @@ tags:
 aliases: ["Plummeting Roll"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6134"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Plummeting Roll  *Feat 1*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Extending"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2836"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Extending  *Item 9+*

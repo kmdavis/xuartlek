@@ -6,6 +6,7 @@ tags:
 aliases: ["Processed"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=487"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Processed  *Trait*

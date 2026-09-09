@@ -10,6 +10,7 @@ tags:
 aliases: ["Conquering Soldiers"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2497"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Conquering Soldiers  *Spell 10*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

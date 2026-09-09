@@ -8,6 +8,7 @@ tags:
 aliases: ["Artist's Attendance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9181"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Artist's Attendance  *Feat 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

@@ -10,6 +10,7 @@ tags:
 aliases: ["Cryomister"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1108"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Cryomister  *Item 1+*

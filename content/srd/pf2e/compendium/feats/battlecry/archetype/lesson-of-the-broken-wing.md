@@ -9,6 +9,7 @@ tags:
 aliases: ["Lesson of the Broken Wing"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7944"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Lesson of the Broken Wing  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

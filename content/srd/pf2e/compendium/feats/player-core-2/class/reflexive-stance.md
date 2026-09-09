@@ -7,6 +7,7 @@ tags:
 aliases: ["Reflexive Stance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6030"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Reflexive Stance  *Feat 12*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

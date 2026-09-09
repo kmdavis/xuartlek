@@ -10,6 +10,7 @@ tags:
 aliases: ["Medium's Awareness"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7133"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Medium's Awareness  *Feat 6*

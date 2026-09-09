@@ -9,6 +9,7 @@ tags:
 aliases: ["Mud Maker"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=56"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Mud Maker  *Siege Weapon 13*

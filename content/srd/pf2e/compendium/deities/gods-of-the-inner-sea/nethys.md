@@ -5,6 +5,7 @@ tags:
 aliases: ["Nethys"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=288"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Nethys  *Deity*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Moisture Bath"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5707"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Moisture Bath  *Feat 9*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

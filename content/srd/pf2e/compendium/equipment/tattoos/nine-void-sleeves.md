@@ -9,6 +9,7 @@ tags:
 aliases: ["Nine Void Sleeves"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5179"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Nine Void Sleeves  *Item 10*

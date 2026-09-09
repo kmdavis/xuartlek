@@ -7,6 +7,7 @@ tags:
 aliases: ["Flying Fortress"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=93"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Flying Fortress  *Vehicle 20*

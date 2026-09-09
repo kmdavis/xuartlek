@@ -6,6 +6,7 @@ tags:
 aliases: ["Minotaur"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=788"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Minotaur  *Trait*

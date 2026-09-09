@@ -8,6 +8,7 @@ tags:
 aliases: ["Apparition Sense"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7120"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Apparition Sense  *Feat 1*

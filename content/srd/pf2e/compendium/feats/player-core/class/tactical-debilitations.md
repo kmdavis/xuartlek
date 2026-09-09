@@ -7,6 +7,7 @@ tags:
 aliases: ["Tactical Debilitations"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4965"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Tactical Debilitations  *Feat 10*

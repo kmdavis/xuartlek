@@ -9,6 +9,7 @@ tags:
 aliases: ["Amphisbaena Spittle"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3255"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Amphisbaena Spittle  *Item 5*

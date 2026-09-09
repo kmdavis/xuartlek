@@ -8,6 +8,7 @@ tags:
 aliases: ["Spell Duelist's Siphon"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2182"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Spell Duelist's Siphon  *Item 12*

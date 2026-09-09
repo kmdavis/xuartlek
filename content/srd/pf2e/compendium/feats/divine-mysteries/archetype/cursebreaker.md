@@ -10,6 +10,7 @@ tags:
 aliases: ["Cursebreaker"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7563"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Cursebreaker  *Feat 10*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Bottled Melody"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5095"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Bottled Melody  *Item 7*

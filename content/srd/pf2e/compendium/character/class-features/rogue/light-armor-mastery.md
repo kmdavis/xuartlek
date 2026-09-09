@@ -6,6 +6,7 @@ tags:
 aliases: ["Light Armor Mastery"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=37"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Light Armor Mastery  *Class Feature 19*

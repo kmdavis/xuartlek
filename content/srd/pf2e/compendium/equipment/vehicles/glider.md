@@ -7,6 +7,7 @@ tags:
 aliases: ["Glider"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=58"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Glider  *Vehicle 0*

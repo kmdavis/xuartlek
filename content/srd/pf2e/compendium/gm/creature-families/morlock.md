@@ -5,6 +5,7 @@ tags:
 aliases: ["Morlock"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=608"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Morlock  *Creature Family*

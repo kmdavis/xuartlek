@@ -9,6 +9,7 @@ tags:
 aliases: ["Lance"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=383"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Lance  *Weapon 0*

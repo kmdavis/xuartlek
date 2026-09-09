@@ -7,6 +7,7 @@ tags:
 aliases: ["Brilliant Flash"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5881"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Brilliant Flash  *Feat 1*

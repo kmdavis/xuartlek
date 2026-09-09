@@ -9,6 +9,7 @@ tags:
 aliases: ["Foreseen Failure"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8337"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Foreseen Failure  *Feat 12*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

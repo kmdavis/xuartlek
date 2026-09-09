@@ -11,6 +11,7 @@ name: "Saboteur"
 level: 2
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3608"
+socialImage: og-image.png
 ---
 
 ```statblock
@@ -34,7 +35,7 @@ skills:
 abilityMods: [1, 3, 1, 2, 2, 1]
 abilities_top:
   - name: "Snare Crafting"
-    desc: "The saboteur can [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]] snares and has the supplies to make up to two [[srd/pf2e/compendium/equipment/snares/caltrop-snare|caltrop snares]] and up to two [[srd/pf2e/compendium/equipment/snares/hampering-snare|hampering snares]]. Snare rules can be found [[srd/pf2e/books/player-core-2/snares/index|here]]."
+    desc: "The saboteur can [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]] snares and has the supplies to make up to two [[srd/pf2e/compendium/equipment/snares/caltrop-snare|caltrop snares]] and up to two [[srd/pf2e/compendium/equipment/snares/hampering-snare|hampering snares]]. Snare rules can be found [[srd/pf2e/books/player-core-2/snares/snares|here]]."
   - name: "Items"
     desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit|Artisan's Toolkit]] (snare toolkit), Crowbar, Disguise Kit, Hand Crossbow (10 bolts), Sap, [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit|Thieves' Toolkit]]"
 ac: 17

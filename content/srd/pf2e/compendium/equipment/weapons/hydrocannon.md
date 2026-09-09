@@ -8,6 +8,7 @@ tags:
 aliases: ["Hydrocannon"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3217"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Hydrocannon  *Item 5*

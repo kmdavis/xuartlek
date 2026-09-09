@@ -10,6 +10,7 @@ tags:
 aliases: ["Spiritual Armament"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1687"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Spiritual Armament  *Spell 2*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

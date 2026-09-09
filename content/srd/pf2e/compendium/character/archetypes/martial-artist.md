@@ -6,6 +6,7 @@ tags:
 aliases: ["Martial Artist"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=255"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Martial Artist  *Archetype 2*

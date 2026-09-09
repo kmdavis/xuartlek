@@ -8,6 +8,7 @@ tags:
 aliases: ["Electrify Armor"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3070"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Electrify Armor  *Feat 10*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

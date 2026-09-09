@@ -7,6 +7,7 @@ tags:
 aliases: ["Peerless Warden"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4890"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Peerless Warden  *Feat 10*

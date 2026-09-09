@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/dark-archives-remastered
 aliases: ["Subconscious Minds"]
 entries: 4
+socialImage: og-image.png
 ---
 
 # Subconscious Minds

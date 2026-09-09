@@ -7,6 +7,7 @@ tags:
 aliases: ["Medusa's Scream"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3280"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Medusa's Scream  *Item 13+*

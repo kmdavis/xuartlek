@@ -10,6 +10,7 @@ tags:
 aliases: ["Instant Army"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9163"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Instant Army  *Feat 20*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

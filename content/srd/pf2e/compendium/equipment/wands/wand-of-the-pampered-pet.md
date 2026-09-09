@@ -9,6 +9,7 @@ tags:
 aliases: ["Wand of the Pampered Pet"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2294"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wand of the Pampered Pet  *Item 4*

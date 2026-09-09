@@ -7,6 +7,7 @@ tags:
 aliases: ["Return Fire"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6004"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Return Fire  *Feat 6*

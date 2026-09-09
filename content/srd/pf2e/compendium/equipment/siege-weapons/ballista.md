@@ -8,6 +8,7 @@ tags:
 aliases: ["Ballista"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=2"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Ballista  *Siege Weapon 5*

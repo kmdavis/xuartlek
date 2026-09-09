@@ -6,6 +6,7 @@ tags:
 aliases: ["Barbarian"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=813"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Barbarian  *Trait*

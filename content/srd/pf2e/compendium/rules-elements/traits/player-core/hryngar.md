@@ -7,6 +7,7 @@ tags:
 aliases: ["Hryngar"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=626"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Hryngar  *Trait*

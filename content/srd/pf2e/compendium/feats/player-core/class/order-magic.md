@@ -7,6 +7,7 @@ tags:
 aliases: ["Order Magic"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4726"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Order Magic  *Feat 4*

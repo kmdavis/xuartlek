@@ -10,6 +10,7 @@ tags:
 aliases: ["Shuriken"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=439"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Shuriken  *Weapon 0*

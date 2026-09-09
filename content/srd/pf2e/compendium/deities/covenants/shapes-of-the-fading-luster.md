@@ -5,6 +5,7 @@ tags:
 aliases: ["Shapes of the Fading Luster"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=373"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Shapes of the Fading Luster  *Deity*

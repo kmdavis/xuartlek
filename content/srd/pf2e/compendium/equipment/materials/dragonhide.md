@@ -8,6 +8,7 @@ tags:
 aliases: ["Dragonhide"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3268"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Dragonhide  *Item 8+*

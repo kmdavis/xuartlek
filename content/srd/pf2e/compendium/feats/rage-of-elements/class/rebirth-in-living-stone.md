@@ -11,6 +11,7 @@ tags:
 aliases: ["Rebirth in Living Stone"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4234"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Rebirth in Living Stone  *Feat 18*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

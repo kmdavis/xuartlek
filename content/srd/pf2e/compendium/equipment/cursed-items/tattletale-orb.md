@@ -10,6 +10,7 @@ tags:
 aliases: ["Tattletale Orb"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2390"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Tattletale Orb  *Item 14+*

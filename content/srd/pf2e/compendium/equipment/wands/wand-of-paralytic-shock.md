@@ -10,6 +10,7 @@ tags:
 aliases: ["Wand of Paralytic Shock"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2285"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wand of Paralytic Shock  *Item 8+*

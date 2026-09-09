@@ -9,6 +9,7 @@ tags:
 aliases: ["Ghosthand's Comet"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2363"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Ghosthand's Comet  *Item 23*

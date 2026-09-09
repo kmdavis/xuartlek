@@ -10,6 +10,7 @@ tags:
 aliases: ["Swirling Sand"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4118"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Swirling Sand  *Item 7*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Studious Capacity"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4631"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Studious Capacity  *Feat 16*

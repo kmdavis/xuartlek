@@ -6,6 +6,7 @@ tags:
 aliases: ["Lock"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2731"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Lock  *Item 0+*

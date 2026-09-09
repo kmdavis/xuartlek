@@ -7,6 +7,7 @@ tags:
 aliases: ["Menacing"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2300"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Menacing  *Item 3+*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Dongun Education"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3282"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Dongun Education  *Feat 1*

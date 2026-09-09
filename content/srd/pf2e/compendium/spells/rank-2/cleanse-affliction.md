@@ -9,6 +9,7 @@ tags:
 aliases: ["Cleanse Affliction"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1467"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Cleanse Affliction  *Spell 2*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

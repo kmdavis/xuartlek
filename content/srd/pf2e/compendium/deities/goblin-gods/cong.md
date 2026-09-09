@@ -5,6 +5,7 @@ tags:
 aliases: ["Cong"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=502"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Cong  *Deity*

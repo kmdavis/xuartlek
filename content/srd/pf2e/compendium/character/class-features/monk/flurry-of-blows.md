@@ -6,6 +6,7 @@ tags:
 aliases: ["Flurry of Blows"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=60"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Flurry of Blows  *Class Feature 1*

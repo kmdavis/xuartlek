@@ -7,6 +7,7 @@ tags:
 aliases: ["Blaze of Revelation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6084"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Blaze of Revelation  *Feat 18*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

@@ -9,6 +9,7 @@ tags:
 aliases: ["Thalassophobic Pool"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=643"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Thalassophobic Pool  *Hazard 12*

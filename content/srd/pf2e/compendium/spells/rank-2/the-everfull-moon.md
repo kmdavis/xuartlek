@@ -11,6 +11,7 @@ tags:
 aliases: ["The Everfull Moon"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2871"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # The Everfull Moon  *Spell 2*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

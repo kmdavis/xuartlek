@@ -5,6 +5,7 @@ tags:
 - compendium/src/pf2e/player-core-2
 aliases: ["Methodologies"]
 entries: 5
+socialImage: og-image.png
 ---
 
 # Methodologies

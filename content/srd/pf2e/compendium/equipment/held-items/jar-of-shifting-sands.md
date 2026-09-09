@@ -8,6 +8,7 @@ tags:
 aliases: ["Jar Of Shifting Sands"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5144"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Jar Of Shifting Sands  *Item 7*

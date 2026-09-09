@@ -7,6 +7,7 @@ tags:
 aliases: ["Guardian Resiliency"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7894"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Guardian Resiliency  *Feat 4*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Calcium Rain"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2652"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Calcium Rain  *Spell 5*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

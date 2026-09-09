@@ -14,6 +14,7 @@ tags:
 aliases: ["Feng Huo Lun"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=283"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Feng Huo Lun  *Weapon 0*

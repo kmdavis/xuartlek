@@ -9,6 +9,7 @@ tags:
 aliases: ["Boomerang"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=332"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Boomerang  *Weapon 0*

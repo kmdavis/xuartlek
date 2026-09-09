@@ -9,6 +9,7 @@ tags:
 aliases: ["Skyfisher Vapors"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3264"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Skyfisher Vapors  *Item 5*

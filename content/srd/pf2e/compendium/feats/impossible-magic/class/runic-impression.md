@@ -7,6 +7,7 @@ tags:
 aliases: ["Runic Impression"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9068"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Runic Impression  *Feat 8*

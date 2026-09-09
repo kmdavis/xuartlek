@@ -7,6 +7,7 @@ tags:
 aliases: ["Quietus Strikes"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5757"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Quietus Strikes  *Feat 9*

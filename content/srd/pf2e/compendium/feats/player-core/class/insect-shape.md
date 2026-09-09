@@ -7,6 +7,7 @@ tags:
 aliases: ["Insect Shape"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4730"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Insect Shape  *Feat 6*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Ragathiel"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=481"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Ragathiel  *Deity*

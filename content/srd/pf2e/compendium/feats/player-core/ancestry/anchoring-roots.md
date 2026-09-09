@@ -7,6 +7,7 @@ tags:
 aliases: ["Anchoring Roots"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4500"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Anchoring Roots  *Feat 5*

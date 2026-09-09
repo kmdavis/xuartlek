@@ -7,6 +7,7 @@ tags:
 aliases: ["Propulsive Mutation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5457"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Propulsive Mutation  *Feat 6*

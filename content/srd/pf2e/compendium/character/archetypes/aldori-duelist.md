@@ -7,6 +7,7 @@ tags:
 aliases: ["Aldori Duelist"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=324"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Aldori Duelist  *Archetype 2*

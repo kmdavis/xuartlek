@@ -8,6 +8,7 @@ tags:
 aliases: ["Limestone Shield"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2592"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Limestone Shield  *Item 7*

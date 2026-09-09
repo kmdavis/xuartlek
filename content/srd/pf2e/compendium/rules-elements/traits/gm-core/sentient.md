@@ -6,6 +6,7 @@ tags:
 aliases: ["Sentient"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=691"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Sentient  *Trait*

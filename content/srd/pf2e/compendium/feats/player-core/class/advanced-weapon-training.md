@@ -7,6 +7,7 @@ tags:
 aliases: ["Advanced Weapon Training"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4797"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Advanced Weapon Training  *Feat 6*

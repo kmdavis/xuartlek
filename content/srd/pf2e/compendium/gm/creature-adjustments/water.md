@@ -5,6 +5,7 @@ tags:
 aliases: ["Water"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=20"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Water  *Creature Adjustment*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Merfolk Lore"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5343"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Merfolk Lore  *Feat 1*

@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/war-of-immortals
 aliases: ["Mythic Callings"]
 entries: 11
+socialImage: og-image.png
 ---
 
 # Mythic Callings

@@ -7,6 +7,7 @@ tags:
 aliases: ["Penetrating Shot"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4891"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Penetrating Shot  *Feat 10*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

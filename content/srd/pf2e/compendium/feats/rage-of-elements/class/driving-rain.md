@@ -11,6 +11,7 @@ tags:
 aliases: ["Driving Rain"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4272"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Driving Rain  *Feat 6*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

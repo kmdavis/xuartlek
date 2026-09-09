@@ -9,6 +9,7 @@ tags:
 source: "Dark Archives (Remastered)"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3510"
 citation: "Dark Archives (Remastered) pg. 142"
+socialImage: og-image.png
 ---
 
 # Apocryphal Domain Spells

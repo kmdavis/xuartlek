@@ -7,6 +7,7 @@ tags:
 aliases: ["Running Kick"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5429"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Running Kick  *Feat 10*

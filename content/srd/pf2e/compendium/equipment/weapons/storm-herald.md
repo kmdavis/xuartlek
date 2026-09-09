@@ -10,6 +10,7 @@ tags:
 aliases: ["Storm Herald"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3210"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Storm Herald  *Item 12*

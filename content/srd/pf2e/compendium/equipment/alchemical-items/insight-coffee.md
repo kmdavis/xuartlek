@@ -9,6 +9,7 @@ tags:
 aliases: ["Insight Coffee"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1920"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Insight Coffee  *Item 6+*

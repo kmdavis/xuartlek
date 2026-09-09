@@ -8,6 +8,7 @@ tags:
 aliases: ["Endemic Herbs"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6343"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Endemic Herbs  *Feat 6*

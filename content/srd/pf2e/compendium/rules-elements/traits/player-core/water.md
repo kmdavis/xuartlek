@@ -6,6 +6,7 @@ tags:
 aliases: ["Water"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=732"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Water  *Trait*

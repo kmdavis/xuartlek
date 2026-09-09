@@ -7,6 +7,7 @@ tags:
 aliases: ["Witch’s Broom"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5014"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Witch’s Broom  *Feat 12*

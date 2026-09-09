@@ -10,6 +10,7 @@ tags:
 aliases: ["Swift Standard"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3917"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Swift Standard  *Item 12+*

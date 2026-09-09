@@ -11,6 +11,7 @@ tags:
 aliases: ["Dimensional Assault"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2877"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Dimensional Assault  *Focus 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

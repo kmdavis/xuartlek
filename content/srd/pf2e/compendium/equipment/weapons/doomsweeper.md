@@ -8,6 +8,7 @@ tags:
 aliases: ["Doomsweeper"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3842"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Doomsweeper  *Item 8*

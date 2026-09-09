@@ -7,6 +7,7 @@ tags:
 aliases: ["Vaporous Pipe"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2198"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Vaporous Pipe  *Item 7*

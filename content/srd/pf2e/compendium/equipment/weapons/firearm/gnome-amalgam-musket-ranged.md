@@ -11,6 +11,7 @@ tags:
 aliases: ["Gnome Amalgam Musket (Ranged)"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=217"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Gnome Amalgam Musket (Ranged)  *Weapon 1*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Improved Dueling Riposte"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4836"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Improved Dueling Riposte  *Feat 12*

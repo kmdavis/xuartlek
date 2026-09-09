@@ -7,6 +7,7 @@ tags:
 aliases: ["Planar Resilience"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7779"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Planar Resilience  *Feat 5*

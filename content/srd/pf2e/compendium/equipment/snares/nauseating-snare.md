@@ -11,6 +11,7 @@ tags:
 aliases: ["Nauseating Snare"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3379"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Nauseating Snare  *Item 6*

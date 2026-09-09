@@ -9,6 +9,7 @@ tags:
 aliases: ["Wall of Shadow"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2373"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Wall of Shadow  *Spell 3*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

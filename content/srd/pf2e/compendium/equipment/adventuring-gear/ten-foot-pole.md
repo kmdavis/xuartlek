@@ -6,6 +6,7 @@ tags:
 aliases: ["Ten-Foot Pole"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2756"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Ten-Foot Pole  *Item 0*

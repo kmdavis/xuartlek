@@ -8,6 +8,7 @@ tags:
 aliases: ["Legendary Medic"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5169"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Legendary Medic  *Feat 15*

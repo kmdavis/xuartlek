@@ -8,6 +8,7 @@ tags:
 aliases: ["Laboratory Coat"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4982"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Laboratory Coat  *Item 9*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Subtle Shift"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9358"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Subtle Shift  *Feat 4*

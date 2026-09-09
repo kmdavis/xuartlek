@@ -9,6 +9,7 @@ tags:
 aliases: ["Pheromone Sprayer"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=28"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Pheromone Sprayer  *Siege Weapon 5*

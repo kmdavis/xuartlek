@@ -7,6 +7,7 @@ tags:
 aliases: ["Ancestral Longevity"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4405"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Ancestral Longevity  *Feat 1*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Oblivious Expulsion"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=227"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Oblivious Expulsion  *Ritual 5*

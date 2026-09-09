@@ -10,6 +10,7 @@ tags:
 aliases: ["Scarlet Mist"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2012"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Scarlet Mist  *Item 8*

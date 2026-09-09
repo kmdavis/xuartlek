@@ -7,6 +7,7 @@ tags:
 aliases: ["Zoophonic Composition"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5417"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Zoophonic Composition  *Feat 4*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

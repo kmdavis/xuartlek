@@ -6,6 +6,7 @@ tags:
 aliases: ["Ponderous"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=486"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Ponderous  *Trait*

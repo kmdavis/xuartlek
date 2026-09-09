@@ -8,6 +8,7 @@ tags:
 aliases: ["Orc Sight"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4572"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Orc Sight  *Feat 1*

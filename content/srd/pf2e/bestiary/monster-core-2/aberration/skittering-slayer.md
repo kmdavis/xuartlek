@@ -12,6 +12,7 @@ name: "Skittering Slayer"
 level: 8
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4571"
+socialImage: og-image.png
 ---
 
 ```statblock

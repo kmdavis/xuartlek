@@ -10,6 +10,7 @@ tags:
 aliases: ["Spraysling"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=340"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Spraysling  *Weapon 0*

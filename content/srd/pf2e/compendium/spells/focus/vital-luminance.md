@@ -14,6 +14,7 @@ tags:
 aliases: ["Vital Luminance"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1837"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Vital Luminance  *Focus 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

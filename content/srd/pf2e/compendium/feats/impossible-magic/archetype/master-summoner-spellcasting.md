@@ -7,6 +7,7 @@ tags:
 aliases: ["Master Summoner Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9314"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Master Summoner Spellcasting  *Feat 18*

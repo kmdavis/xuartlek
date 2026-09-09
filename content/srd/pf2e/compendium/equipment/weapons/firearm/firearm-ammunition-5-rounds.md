@@ -7,6 +7,7 @@ tags:
 aliases: ["Firearm Ammunition (5 rounds)"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=212"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Firearm Ammunition (5 rounds)  *Weapon 0*

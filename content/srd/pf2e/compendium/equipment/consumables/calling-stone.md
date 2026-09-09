@@ -8,6 +8,7 @@ tags:
 aliases: ["Calling Stone"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3868"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Calling Stone  *Item 7*

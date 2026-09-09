@@ -7,6 +7,7 @@ tags:
 aliases: ["Wish"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=125"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Wish  *Ritual 10*

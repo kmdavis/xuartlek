@@ -5,6 +5,7 @@ tags:
 aliases: ["Vale"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=551"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Vale  *Deity*

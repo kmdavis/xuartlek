@@ -8,6 +8,7 @@ tags:
 aliases: ["Witch's Charge"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5003"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Witch's Charge  *Feat 6*

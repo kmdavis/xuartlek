@@ -7,6 +7,7 @@ tags:
 aliases: ["Benefactor's Majesty"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5631"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Benefactor's Majesty  *Feat 17*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

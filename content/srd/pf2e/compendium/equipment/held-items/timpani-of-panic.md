@@ -7,6 +7,7 @@ tags:
 aliases: ["Timpani of Panic"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3949"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Timpani of Panic  *Item 9*

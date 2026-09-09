@@ -7,6 +7,7 @@ tags:
 aliases: ["Accursed Magic"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8474"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Accursed Magic  *Feat 8*

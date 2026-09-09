@@ -8,6 +8,7 @@ tags:
 aliases: ["Oversized Throw"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5818"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Oversized Throw  *Feat 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

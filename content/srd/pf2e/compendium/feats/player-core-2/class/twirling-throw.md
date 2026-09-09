@@ -8,6 +8,7 @@ tags:
 aliases: ["Twirling Throw"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6151"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Twirling Throw  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

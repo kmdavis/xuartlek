@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Modification"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3117"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Basic Modification  *Feat 8*

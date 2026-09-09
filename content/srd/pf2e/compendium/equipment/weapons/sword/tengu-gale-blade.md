@@ -11,6 +11,7 @@ tags:
 aliases: ["Tengu Gale Blade"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=479"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Tengu Gale Blade  *Weapon 0*

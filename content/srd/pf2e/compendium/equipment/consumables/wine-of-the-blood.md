@@ -11,6 +11,7 @@ tags:
 aliases: ["Wine of the Blood"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4134"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wine of the Blood  *Item 5*

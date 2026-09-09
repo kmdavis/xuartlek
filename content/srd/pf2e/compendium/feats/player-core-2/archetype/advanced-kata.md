@@ -7,6 +7,7 @@ tags:
 aliases: ["Advanced Kata"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6213"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Advanced Kata  *Feat 6*

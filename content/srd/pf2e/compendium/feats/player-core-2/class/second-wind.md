@@ -7,6 +7,7 @@ tags:
 aliases: ["Second Wind"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5816"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Second Wind  *Feat 2*

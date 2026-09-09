@@ -9,6 +9,7 @@ tags:
 aliases: ["Bola"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=331"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Bola  *Weapon 0*

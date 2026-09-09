@@ -13,6 +13,7 @@ tags:
 aliases: ["Zeal for Battle"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1853"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Zeal for Battle  *Focus 4*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

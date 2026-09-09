@@ -11,6 +11,7 @@ tags:
 aliases: ["Ostentatious Arrival"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9248"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Ostentatious Arrival  *Feat 6*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

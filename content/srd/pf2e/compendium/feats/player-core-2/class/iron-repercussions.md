@@ -7,6 +7,7 @@ tags:
 aliases: ["Iron Repercussions"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5886"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Iron Repercussions  *Feat 1*

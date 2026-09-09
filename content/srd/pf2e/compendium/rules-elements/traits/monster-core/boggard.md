@@ -6,6 +6,7 @@ tags:
 aliases: ["Boggard"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=743"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Boggard  *Trait*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Laivatiniel"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=419"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Laivatiniel  *Deity*

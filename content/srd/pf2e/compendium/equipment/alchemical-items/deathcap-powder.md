@@ -10,6 +10,7 @@ tags:
 aliases: ["Deathcap Powder"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3331"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Deathcap Powder  *Item 13*

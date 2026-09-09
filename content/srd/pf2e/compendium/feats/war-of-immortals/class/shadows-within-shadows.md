@@ -11,6 +11,7 @@ tags:
 aliases: ["Shadows Within Shadows"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7142"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Shadows Within Shadows  *Feat 12*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

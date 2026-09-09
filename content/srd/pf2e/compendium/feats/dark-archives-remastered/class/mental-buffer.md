@@ -7,6 +7,7 @@ tags:
 aliases: ["Mental Buffer"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8312"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mental Buffer  *Feat 1*

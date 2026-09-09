@@ -6,6 +6,7 @@ tags:
 aliases: ["Sleigh"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=68"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Sleigh  *Vehicle 1*

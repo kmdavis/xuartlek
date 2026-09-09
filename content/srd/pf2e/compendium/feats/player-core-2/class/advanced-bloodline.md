@@ -7,6 +7,7 @@ tags:
 aliases: ["Advanced Bloodline"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6099"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Advanced Bloodline  *Feat 6*

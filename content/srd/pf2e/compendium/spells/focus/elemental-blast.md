@@ -11,6 +11,7 @@ tags:
 aliases: ["Elemental Blast"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2107"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Elemental Blast  *Focus 5*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

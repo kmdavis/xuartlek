@@ -9,6 +9,7 @@ tags:
 aliases: ["Blessed Lantern Flail"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5014"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Blessed Lantern Flail  *Item 13*

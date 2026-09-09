@@ -7,6 +7,7 @@ tags:
 aliases: ["Snowcaster"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4097"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Snowcaster  *Feat 4*

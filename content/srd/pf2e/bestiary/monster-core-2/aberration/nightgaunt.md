@@ -12,6 +12,7 @@ name: "Nightgaunt"
 level: 4
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4488"
+socialImage: og-image.png
 ---
 
 ```statblock

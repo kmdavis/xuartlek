@@ -8,6 +8,7 @@ tags:
 aliases: ["Bracers of Missile Deflection"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3061"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Bracers of Missile Deflection  *Item 3+*

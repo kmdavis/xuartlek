@@ -6,6 +6,7 @@ tags:
 aliases: ["Signal Whistle"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2751"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Signal Whistle  *Item 0*

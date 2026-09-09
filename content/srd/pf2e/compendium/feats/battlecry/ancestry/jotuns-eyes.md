@@ -7,6 +7,7 @@ tags:
 aliases: ["Jotun's Eyes"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7771"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Jotun's Eyes  *Feat 1*

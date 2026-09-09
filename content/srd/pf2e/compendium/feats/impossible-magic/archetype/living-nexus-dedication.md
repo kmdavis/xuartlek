@@ -9,6 +9,7 @@ tags:
 aliases: ["Living Nexus Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9338"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Living Nexus Dedication  *Feat 2*

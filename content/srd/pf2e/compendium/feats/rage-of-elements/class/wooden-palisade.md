@@ -12,6 +12,7 @@ tags:
 aliases: ["Wooden Palisade"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4288"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Wooden Palisade  *Feat 6*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

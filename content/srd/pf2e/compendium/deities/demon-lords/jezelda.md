@@ -5,6 +5,7 @@ tags:
 aliases: ["Jezelda"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=431"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Jezelda  *Deity*

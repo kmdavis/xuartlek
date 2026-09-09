@@ -7,6 +7,7 @@ tags:
 aliases: ["Drawn in Vital Ink"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9193"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Drawn in Vital Ink  *Feat 8*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

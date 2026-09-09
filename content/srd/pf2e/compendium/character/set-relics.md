@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/treasure-vault-remastered
 aliases: ["Set Relics"]
 entries: 7
+socialImage: og-image.png
 ---
 
 # Set Relics

@@ -9,6 +9,7 @@ tags:
 aliases: ["Emerald Grasshopper"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2972"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Emerald Grasshopper  *Item 5+*

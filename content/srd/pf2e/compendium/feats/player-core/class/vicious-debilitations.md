@@ -7,6 +7,7 @@ tags:
 aliases: ["Vicious Debilitations"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4966"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Vicious Debilitations  *Feat 10*

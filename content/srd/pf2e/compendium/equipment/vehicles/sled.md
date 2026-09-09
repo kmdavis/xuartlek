@@ -6,6 +6,7 @@ tags:
 aliases: ["Sled"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=67"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Sled  *Vehicle 0*

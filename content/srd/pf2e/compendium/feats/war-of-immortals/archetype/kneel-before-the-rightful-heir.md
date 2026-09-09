@@ -11,6 +11,7 @@ tags:
 aliases: ["Kneel Before the Rightful Heir"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7408"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Kneel Before the Rightful Heir  *Feat 16*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

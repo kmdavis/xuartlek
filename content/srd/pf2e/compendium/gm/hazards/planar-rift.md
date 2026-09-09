@@ -8,6 +8,7 @@ tags:
 aliases: ["Planar Rift"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=476"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Planar Rift  *Hazard 13*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Prescience"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7280"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Prescience  *Feat 4*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")
@@ -17,6 +18,6 @@ source: "War of Immortals"
 
 - **Trigger**: You’re about to roll initiative.
 
-Mythic power floods through your mind, filling you with visions of possible futures, events that might or might not happen, and warnings of things that might be. Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/index|Mythic Point]] and roll your [[srd/pf2e/books/player-core/chapter-1-introduction/playing-the-game#Initiative|initiative]] check using mythic proficiency. Until the end of your first turn, you have a +1 status bonus to AC and all saves.
+Mythic power floods through your mind, filling you with visions of possible futures, events that might or might not happen, and warnings of things that might be. Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]] and roll your [[srd/pf2e/books/player-core/chapter-1-introduction/playing-the-game#Initiative|initiative]] check using mythic proficiency. Until the end of your first turn, you have a +1 status bonus to AC and all saves.
 
 *Source: War of Immortals p. 82*

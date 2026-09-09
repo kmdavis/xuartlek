@@ -8,6 +8,7 @@ tags:
 aliases: ["Sure-Step Crampons"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2312"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sure-Step Crampons  *Item 6*

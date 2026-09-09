@@ -6,6 +6,7 @@ tags:
 aliases: ["Oracle Feats"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=61"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Oracle Feats  *Class Feature 2*

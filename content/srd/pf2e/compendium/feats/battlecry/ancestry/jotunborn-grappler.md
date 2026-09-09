@@ -7,6 +7,7 @@ tags:
 aliases: ["Jotunborn Grappler"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7772"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Jotunborn Grappler  *Feat 1*

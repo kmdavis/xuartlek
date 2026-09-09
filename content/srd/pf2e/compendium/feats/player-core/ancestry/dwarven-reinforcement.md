@@ -7,6 +7,7 @@ tags:
 aliases: ["Dwarven Reinforcement"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4396"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Dwarven Reinforcement  *Feat 5*

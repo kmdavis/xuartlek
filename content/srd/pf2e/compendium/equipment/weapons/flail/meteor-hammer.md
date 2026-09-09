@@ -10,6 +10,7 @@ tags:
 aliases: ["Meteor Hammer"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=296"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Meteor Hammer  *Weapon 0*

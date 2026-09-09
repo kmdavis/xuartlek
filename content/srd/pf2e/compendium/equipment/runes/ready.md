@@ -7,6 +7,7 @@ tags:
 aliases: ["Ready"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2792"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Ready  *Item 6+*

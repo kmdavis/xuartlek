@@ -8,6 +8,7 @@ tags:
 aliases: ["Demon Mask"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3076"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Demon Mask  *Item 4+*

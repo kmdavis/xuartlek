@@ -8,6 +8,7 @@ tags:
 aliases: ["Doubling Rings"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3079"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Doubling Rings  *Item 3+*

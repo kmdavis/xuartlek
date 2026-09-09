@@ -10,6 +10,7 @@ tags:
 aliases: ["Healer's Blessing"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1808"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Healer's Blessing  *Focus 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

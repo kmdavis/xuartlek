@@ -9,6 +9,7 @@ tags:
 aliases: ["Flail"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=374"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Flail  *Weapon 0*

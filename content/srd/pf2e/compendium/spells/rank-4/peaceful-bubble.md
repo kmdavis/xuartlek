@@ -9,6 +9,7 @@ tags:
 aliases: ["Peaceful Bubble"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1624"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Peaceful Bubble  *Spell 4*

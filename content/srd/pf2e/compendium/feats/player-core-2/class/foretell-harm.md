@@ -9,6 +9,7 @@ tags:
 aliases: ["Foretell Harm"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6053"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Foretell Harm  *Feat 1*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

@@ -9,6 +9,7 @@ tags:
 aliases: ["Sleeves of Storage"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3110"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Sleeves of Storage  *Item 4+*

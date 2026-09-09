@@ -9,6 +9,7 @@ tags:
 aliases: ["Mind Swap"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=259"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Mind Swap  *Ritual 5*

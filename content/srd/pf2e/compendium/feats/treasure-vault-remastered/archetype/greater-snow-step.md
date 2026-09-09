@@ -7,6 +7,7 @@ tags:
 aliases: ["Greater Snow Step"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4103"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Greater Snow Step  *Feat 16*

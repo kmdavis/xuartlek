@@ -6,6 +6,7 @@ tags:
 aliases: ["Skill Feats"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=74"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Skill Feats  *Class Feature 2*

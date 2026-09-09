@@ -9,6 +9,7 @@ tags:
 aliases: ["Discordant Strings"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5049"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Discordant Strings  *Item 2*

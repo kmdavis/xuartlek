@@ -8,6 +8,7 @@ tags:
 aliases: ["Cushion Landing"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7986"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Cushion Landing  *Feat 4*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

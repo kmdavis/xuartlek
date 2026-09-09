@@ -9,6 +9,7 @@ tags:
 aliases: ["Copper Penny"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2100"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Copper Penny  *Item 5*

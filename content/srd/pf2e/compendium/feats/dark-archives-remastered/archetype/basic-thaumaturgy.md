@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Thaumaturgy"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8399"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Basic Thaumaturgy  *Feat 4*

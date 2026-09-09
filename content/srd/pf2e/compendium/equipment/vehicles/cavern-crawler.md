@@ -7,6 +7,7 @@ tags:
 aliases: ["Cavern Crawler"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=99"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Cavern Crawler  *Vehicle 20*

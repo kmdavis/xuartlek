@@ -7,6 +7,7 @@ tags:
 aliases: ["Form of the Dragon"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5745"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Form of the Dragon  *Feat 17*

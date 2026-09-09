@@ -7,6 +7,7 @@ tags:
 aliases: ["Crossblooded Evolution"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6105"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Crossblooded Evolution  *Feat 8*

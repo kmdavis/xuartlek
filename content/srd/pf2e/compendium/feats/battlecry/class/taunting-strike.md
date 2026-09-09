@@ -8,6 +8,7 @@ tags:
 aliases: ["Taunting Strike"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7843"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Taunting Strike  *Feat 2*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

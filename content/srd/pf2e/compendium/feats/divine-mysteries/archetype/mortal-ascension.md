@@ -7,6 +7,7 @@ tags:
 aliases: ["Mortal Ascension"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7533"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Mortal Ascension  *Feat 14*

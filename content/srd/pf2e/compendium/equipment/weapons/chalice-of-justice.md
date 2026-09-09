@@ -9,6 +9,7 @@ tags:
 aliases: ["Chalice of Justice"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3281"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Chalice of Justice  *Item 14*

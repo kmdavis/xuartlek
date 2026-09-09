@@ -6,6 +6,7 @@ tags:
 aliases: ["Atmospheric Breathing Suit"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3244"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Atmospheric Breathing Suit  *Item 0*

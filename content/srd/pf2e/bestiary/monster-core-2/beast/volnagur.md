@@ -11,6 +11,7 @@ name: "Volnagur"
 level: 22
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4559"
+socialImage: og-image.png
 ---
 
 ```statblock

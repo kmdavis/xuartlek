@@ -4,6 +4,7 @@ tags:
 - table/economy
 aliases: ["Housing Costs"]
 source: "Lost Omens: Travel Guide p. 17"
+socialImage: og-image.png
 ---
 
 # Housing Costs

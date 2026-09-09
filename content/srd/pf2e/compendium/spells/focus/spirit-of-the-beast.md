@@ -12,6 +12,7 @@ tags:
 aliases: ["Spirit of the Beast"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1945"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Spirit of the Beast  *Focus 2*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

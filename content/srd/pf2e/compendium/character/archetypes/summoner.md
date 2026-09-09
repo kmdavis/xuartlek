@@ -6,6 +6,7 @@ tags:
 aliases: ["Summoner"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=389"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Summoner  *Archetype 2*

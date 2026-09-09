@@ -10,6 +10,7 @@ tags:
 aliases: ["Dancing Lamentation"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2000"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Dancing Lamentation  *Item 11*

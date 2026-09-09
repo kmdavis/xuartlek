@@ -7,6 +7,7 @@ tags:
 aliases: ["Castigating Weapon"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4675"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Castigating Weapon  *Feat 10*

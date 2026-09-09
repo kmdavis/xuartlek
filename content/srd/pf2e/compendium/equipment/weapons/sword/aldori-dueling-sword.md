@@ -9,6 +9,7 @@ tags:
 aliases: ["Aldori Dueling Sword"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=535"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Aldori Dueling Sword  *Weapon 0*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Reaper's Crescent"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1879"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Reaper's Crescent  *Item 9*

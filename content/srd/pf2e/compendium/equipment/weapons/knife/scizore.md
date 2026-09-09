@@ -8,6 +8,7 @@ tags:
 aliases: ["Scizore"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=303"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Scizore  *Weapon 0*

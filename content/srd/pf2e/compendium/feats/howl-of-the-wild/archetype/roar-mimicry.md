@@ -9,6 +9,7 @@ tags:
 aliases: ["Roar Mimicry"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5524"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Roar Mimicry  *Feat 12*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

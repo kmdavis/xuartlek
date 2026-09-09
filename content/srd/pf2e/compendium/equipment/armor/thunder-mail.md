@@ -8,6 +8,7 @@ tags:
 aliases: ["Thunder Mail"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3823"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Thunder Mail  *Item 15*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Linnorm's Sankeit"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1849"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Linnorm's Sankeit  *Item 18*

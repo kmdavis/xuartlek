@@ -9,6 +9,7 @@ tags:
 aliases: ["No! No! I Created You!"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3047"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # No! No! I Created You!  *Feat 1*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

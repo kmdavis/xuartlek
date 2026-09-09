@@ -7,6 +7,7 @@ tags:
 aliases: ["Behold, A Pale Horse"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7305"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Behold, A Pale Horse  *Feat 14*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Sun Goggles"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3584"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Sun Goggles  *Item 3*

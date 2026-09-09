@@ -9,6 +9,7 @@ tags:
 aliases: ["Lightning Lasso"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2756"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Lightning Lasso  *Spell 3*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

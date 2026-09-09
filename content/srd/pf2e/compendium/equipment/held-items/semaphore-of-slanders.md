@@ -7,6 +7,7 @@ tags:
 aliases: ["Semaphore of Slanders"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3945"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Semaphore of Slanders  *Item 11*

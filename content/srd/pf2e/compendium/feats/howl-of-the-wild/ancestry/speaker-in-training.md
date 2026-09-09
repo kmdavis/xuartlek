@@ -7,6 +7,7 @@ tags:
 aliases: ["Speaker in Training"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5330"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Speaker in Training  *Feat 5*

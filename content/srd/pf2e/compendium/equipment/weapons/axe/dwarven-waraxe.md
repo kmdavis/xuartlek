@@ -10,6 +10,7 @@ tags:
 aliases: ["Dwarven Waraxe"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=420"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Dwarven Waraxe  *Weapon 0*

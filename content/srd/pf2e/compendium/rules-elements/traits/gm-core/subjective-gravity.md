@@ -6,6 +6,7 @@ tags:
 aliases: ["Subjective Gravity"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=705"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Subjective Gravity  *Trait*

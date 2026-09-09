@@ -9,6 +9,7 @@ tags:
 aliases: ["Everyneed Pack"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2306"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Everyneed Pack  *Item 3+*

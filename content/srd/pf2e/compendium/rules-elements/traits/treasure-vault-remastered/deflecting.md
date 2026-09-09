@@ -6,6 +6,7 @@ tags:
 aliases: ["Deflecting"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=473"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Deflecting  *Trait*

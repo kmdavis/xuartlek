@@ -5,6 +5,7 @@ tags:
 aliases: ["Lahkgya"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=615"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Lahkgya  *Deity*

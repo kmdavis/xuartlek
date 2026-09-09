@@ -8,6 +8,7 @@ tags:
 aliases: ["Thrower's Bandolier"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2313"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Thrower's Bandolier  *Item 3*

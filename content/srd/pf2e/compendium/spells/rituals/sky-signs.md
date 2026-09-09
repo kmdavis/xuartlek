@@ -10,6 +10,7 @@ tags:
 aliases: ["Sky Signs"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=102"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Sky Signs  *Ritual 6*

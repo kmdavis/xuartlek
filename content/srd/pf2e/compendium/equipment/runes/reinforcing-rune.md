@@ -7,6 +7,7 @@ tags:
 aliases: ["Reinforcing Rune"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2811"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Reinforcing Rune  *Item 4+*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Chaining Mutation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5458"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Chaining Mutation  *Feat 8*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Buoyant Shot"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3867"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Buoyant Shot  *Item 5*

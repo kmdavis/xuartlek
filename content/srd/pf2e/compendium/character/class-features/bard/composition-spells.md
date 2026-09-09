@@ -6,6 +6,7 @@ tags:
 aliases: ["Composition Spells"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=32"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Composition Spells  *Class Feature 1*

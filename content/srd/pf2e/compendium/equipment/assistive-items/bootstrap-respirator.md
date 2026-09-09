@@ -8,6 +8,7 @@ tags:
 aliases: ["Bootstrap Respirator"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2153"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Bootstrap Respirator  *Item 8*

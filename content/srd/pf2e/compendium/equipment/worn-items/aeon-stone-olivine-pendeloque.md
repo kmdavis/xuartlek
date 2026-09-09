@@ -11,6 +11,7 @@ tags:
 aliases: ["Aeon Stone (Olivine Pendeloque)"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=407"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Aeon Stone (Olivine Pendeloque)  *Item 1+*

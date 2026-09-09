@@ -8,6 +8,7 @@ tags:
 aliases: ["Battering Ammunition"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3862"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Battering Ammunition  *Item 4*

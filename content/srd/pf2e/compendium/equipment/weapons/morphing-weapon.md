@@ -8,6 +8,7 @@ tags:
 aliases: ["Morphing Weapon"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2615"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Morphing Weapon  *Item 7*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Hit the Dirt!"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3157"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Hit the Dirt!  *Feat 1*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

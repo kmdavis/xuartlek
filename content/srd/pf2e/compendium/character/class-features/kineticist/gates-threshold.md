@@ -6,6 +6,7 @@ tags:
 aliases: ["Gate's Threshold"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=23"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Gate's Threshold  *Class Feature 5*

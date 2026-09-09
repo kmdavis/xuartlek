@@ -6,6 +6,7 @@ tags:
 aliases: ["Infusion"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=503"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Infusion  *Trait*

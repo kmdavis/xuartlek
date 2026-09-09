@@ -9,6 +9,7 @@ tags:
 aliases: ["Adze"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=467"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Adze  *Weapon 0*

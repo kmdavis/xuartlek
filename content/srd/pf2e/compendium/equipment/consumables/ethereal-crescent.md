@@ -9,6 +9,7 @@ tags:
 aliases: ["Ethereal Crescent"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3880"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Ethereal Crescent  *Item 3+*

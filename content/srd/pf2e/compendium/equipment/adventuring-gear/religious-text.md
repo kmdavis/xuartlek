@@ -6,6 +6,7 @@ tags:
 aliases: ["Religious Text"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2746"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Religious Text  *Item 0*

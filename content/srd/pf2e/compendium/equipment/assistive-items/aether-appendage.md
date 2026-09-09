@@ -9,6 +9,7 @@ tags:
 aliases: ["Aether Appendage"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2160"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Aether Appendage  *Item 5*

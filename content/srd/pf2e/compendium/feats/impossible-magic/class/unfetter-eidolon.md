@@ -7,6 +7,7 @@ tags:
 aliases: ["Unfetter Eidolon"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9228"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Unfetter Eidolon  *Feat 1*

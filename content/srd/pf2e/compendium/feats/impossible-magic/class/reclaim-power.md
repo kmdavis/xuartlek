@@ -9,6 +9,7 @@ tags:
 aliases: ["Reclaim Power"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9121"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Reclaim Power  *Feat 6*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

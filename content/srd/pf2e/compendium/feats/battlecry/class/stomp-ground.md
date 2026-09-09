@@ -7,6 +7,7 @@ tags:
 aliases: ["Stomp Ground"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7856"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Stomp Ground  *Feat 6*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

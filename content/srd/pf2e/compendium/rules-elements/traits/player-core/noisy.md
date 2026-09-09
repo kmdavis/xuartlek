@@ -6,6 +6,7 @@ tags:
 aliases: ["Noisy"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=660"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Noisy  *Trait*

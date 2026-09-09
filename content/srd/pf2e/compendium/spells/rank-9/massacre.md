@@ -11,6 +11,7 @@ tags:
 aliases: ["Massacre"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1596"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Massacre  *Spell 9*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

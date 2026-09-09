@@ -5,6 +5,7 @@ tags:
 aliases: ["Decipher Writing"]
 aon_url: "https://2e.aonprd.com/Skills.aspx?ID=20&General=true"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Decipher Writing  *General Skill Action*

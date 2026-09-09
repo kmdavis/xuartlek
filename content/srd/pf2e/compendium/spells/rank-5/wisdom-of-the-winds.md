@@ -10,6 +10,7 @@ tags:
 aliases: ["Wisdom of the Winds"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1326"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Wisdom of the Winds  *Spell 5*

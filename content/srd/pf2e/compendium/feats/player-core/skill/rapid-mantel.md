@@ -8,6 +8,7 @@ tags:
 aliases: ["Rapid Mantel"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5203"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Rapid Mantel  *Feat 2*

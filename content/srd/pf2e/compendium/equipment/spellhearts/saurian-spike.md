@@ -8,6 +8,7 @@ tags:
 aliases: ["Saurian Spike"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2240"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Saurian Spike  *Item 9+*

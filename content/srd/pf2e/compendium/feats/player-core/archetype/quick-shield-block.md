@@ -8,6 +8,7 @@ tags:
 aliases: ["Quick Shield Block"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4816"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Quick Shield Block  *Feat 8*

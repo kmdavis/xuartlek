@@ -7,6 +7,7 @@ tags:
 aliases: ["Master Oracle Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6224"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Master Oracle Spellcasting  *Feat 18*

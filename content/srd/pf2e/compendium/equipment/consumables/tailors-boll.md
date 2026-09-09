@@ -10,6 +10,7 @@ tags:
 aliases: ["Tailor's Boll"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2647"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Tailor's Boll  *Item 3*

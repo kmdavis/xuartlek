@@ -6,6 +6,7 @@ tags:
 aliases: ["Fighter Feats"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=35"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Fighter Feats  *Class Feature 1*

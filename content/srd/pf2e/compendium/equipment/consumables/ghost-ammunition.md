@@ -7,6 +7,7 @@ tags:
 aliases: ["Ghost Ammunition"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2924"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Ghost Ammunition  *Item 14*

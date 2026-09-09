@@ -5,6 +5,7 @@ tags:
 aliases: ["Geryon"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=398"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Geryon  *Deity*

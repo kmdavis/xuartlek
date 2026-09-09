@@ -7,6 +7,7 @@ tags:
 aliases: ["Practiced Reflexes"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7828"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Practiced Reflexes  *Feat 18*

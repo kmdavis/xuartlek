@@ -11,6 +11,7 @@ tags:
 aliases: ["Tears of Death"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3348"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Tears of Death  *Item 20*

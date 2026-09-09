@@ -6,6 +6,7 @@ tags:
 aliases: ["Spellgun"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=491"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Spellgun  *Trait*

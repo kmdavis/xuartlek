@@ -8,6 +8,7 @@ tags:
 aliases: ["Alacritous Action"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9229"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Alacritous Action  *Feat 2*

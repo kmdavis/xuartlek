@@ -7,6 +7,7 @@ tags:
 aliases: ["Vicious Incisors"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5657"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Vicious Incisors  *Feat 1*

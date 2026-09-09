@@ -6,6 +6,7 @@ tags:
 aliases: ["Cane"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2772"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Cane  *Item 0*

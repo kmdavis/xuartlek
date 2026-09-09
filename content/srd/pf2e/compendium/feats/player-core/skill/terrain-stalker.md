@@ -8,6 +8,7 @@ tags:
 aliases: ["Terrain Stalker"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5224"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Terrain Stalker  *Feat 1*

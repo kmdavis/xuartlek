@@ -8,6 +8,7 @@ tags:
 aliases: ["Twin Eidolon"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9283"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Twin Eidolon  *Feat 20*

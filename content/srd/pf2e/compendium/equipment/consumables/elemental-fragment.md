@@ -9,6 +9,7 @@ tags:
 aliases: ["Elemental Fragment"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2653"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Elemental Fragment  *Item 10+*

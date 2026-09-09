@@ -7,6 +7,7 @@ tags:
 aliases: ["Adamantine Weapon"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2855"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Adamantine Weapon  *Item 11+*

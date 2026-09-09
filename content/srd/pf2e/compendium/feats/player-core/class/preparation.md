@@ -8,6 +8,7 @@ tags:
 aliases: ["Preparation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4971"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Preparation  *Feat 12*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

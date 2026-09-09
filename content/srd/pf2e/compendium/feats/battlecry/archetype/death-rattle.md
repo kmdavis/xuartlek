@@ -9,6 +9,7 @@ tags:
 aliases: ["Death Rattle"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7974"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Death Rattle  *Feat 14*

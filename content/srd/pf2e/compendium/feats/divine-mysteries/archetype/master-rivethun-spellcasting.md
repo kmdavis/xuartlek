@@ -7,6 +7,7 @@ tags:
 aliases: ["Master Rivethun Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7593"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Master Rivethun Spellcasting  *Feat 18*

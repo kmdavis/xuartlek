@@ -9,6 +9,7 @@ tags:
 aliases: ["Endless Quiver"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3962"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Endless Quiver  *Item 11+*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Wizard"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=735"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Wizard  *Trait*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Potion of Swimming"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2953"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Potion of Swimming  *Item 6+*

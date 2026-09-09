@@ -10,6 +10,7 @@ tags:
 aliases: ["Angel Form"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2629"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Angel Form  *Spell 7*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

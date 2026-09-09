@@ -5,6 +5,7 @@ tags:
 aliases: ["The Readied Strike"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=371"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # The Readied Strike  *Deity*

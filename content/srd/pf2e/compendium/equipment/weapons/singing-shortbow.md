@@ -8,6 +8,7 @@ tags:
 aliases: ["Singing Shortbow"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5028"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Singing Shortbow  *Item 14+*

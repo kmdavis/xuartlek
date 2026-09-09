@@ -5,6 +5,7 @@ tags:
 aliases: ["Pazuzu"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=434"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Pazuzu  *Deity*

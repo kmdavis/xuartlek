@@ -8,6 +8,7 @@ tags:
 aliases: ["Arachnid Harness"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1839"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Arachnid Harness  *Item 7+*

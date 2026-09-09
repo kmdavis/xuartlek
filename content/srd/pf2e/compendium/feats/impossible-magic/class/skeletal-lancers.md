@@ -7,6 +7,7 @@ tags:
 aliases: ["Skeletal Lancers"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9149"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Skeletal Lancers  *Feat 14*

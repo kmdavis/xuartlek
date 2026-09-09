@@ -8,6 +8,7 @@ tags:
 aliases: ["Lighter than Air"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6078"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Lighter than Air  *Feat 14*

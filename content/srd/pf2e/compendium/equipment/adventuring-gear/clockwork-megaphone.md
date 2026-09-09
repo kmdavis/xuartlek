@@ -8,6 +8,7 @@ tags:
 aliases: ["Clockwork Megaphone"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1145"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Clockwork Megaphone  *Item 1*

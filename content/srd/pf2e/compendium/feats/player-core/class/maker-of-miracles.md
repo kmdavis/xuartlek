@@ -7,6 +7,7 @@ tags:
 aliases: ["Maker of Miracles"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4706"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Maker of Miracles  *Feat 20*

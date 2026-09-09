@@ -9,6 +9,7 @@ tags:
 aliases: ["Read Disaster"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6067"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Read Disaster  *Feat 8*

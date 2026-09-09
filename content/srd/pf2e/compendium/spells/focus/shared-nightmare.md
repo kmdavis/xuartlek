@@ -14,6 +14,7 @@ tags:
 aliases: ["Shared Nightmare"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1825"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Shared Nightmare  *Focus 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

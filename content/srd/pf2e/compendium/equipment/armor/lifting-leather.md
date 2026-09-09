@@ -8,6 +8,7 @@ tags:
 aliases: ["Lifting Leather"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3816"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Lifting Leather  *Item 8*

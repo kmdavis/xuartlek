@@ -7,6 +7,7 @@ tags:
 aliases: ["Arcane School Spell"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5107"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Arcane School Spell  *Feat 4*

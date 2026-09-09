@@ -6,6 +6,7 @@ tags:
 aliases: ["Figurehead"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=512"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Figurehead  *Trait*

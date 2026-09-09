@@ -9,6 +9,7 @@ tags:
 aliases: ["Can't Fall Here"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5585"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Can't Fall Here  *Feat 13*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

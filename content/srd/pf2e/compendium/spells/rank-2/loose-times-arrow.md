@@ -8,6 +8,7 @@ tags:
 aliases: ["Loose Time's Arrow"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2602"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Loose Time's Arrow  *Spell 2*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

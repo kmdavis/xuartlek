@@ -7,6 +7,7 @@ tags:
 aliases: ["Hurling Charge"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6436"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Hurling Charge  *Feat 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

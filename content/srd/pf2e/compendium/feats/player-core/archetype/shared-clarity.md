@@ -7,6 +7,7 @@ tags:
 aliases: ["Shared Clarity"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4703"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Shared Clarity  *Feat 18*

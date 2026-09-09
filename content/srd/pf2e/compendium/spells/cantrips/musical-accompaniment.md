@@ -10,6 +10,7 @@ tags:
 aliases: ["Musical Accompaniment"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2774"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Musical Accompaniment  *Cantrip 1*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

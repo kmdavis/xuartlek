@@ -6,6 +6,7 @@ tags:
 aliases: ["Psychic"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=894"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Psychic  *Trait*

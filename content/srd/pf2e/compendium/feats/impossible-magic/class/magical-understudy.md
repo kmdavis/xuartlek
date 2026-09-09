@@ -8,6 +8,7 @@ tags:
 aliases: ["Magical Understudy"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9231"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Magical Understudy  *Feat 2*

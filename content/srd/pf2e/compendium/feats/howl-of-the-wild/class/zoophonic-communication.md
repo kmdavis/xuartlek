@@ -7,6 +7,7 @@ tags:
 aliases: ["Zoophonic Communication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5415"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Zoophonic Communication  *Feat 1*

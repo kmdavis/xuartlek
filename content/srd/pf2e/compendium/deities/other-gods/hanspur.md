@@ -5,6 +5,7 @@ tags:
 aliases: ["Hanspur"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=347"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Hanspur  *Deity*

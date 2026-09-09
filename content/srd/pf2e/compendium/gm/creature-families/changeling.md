@@ -5,6 +5,7 @@ tags:
 aliases: ["Changeling"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=381"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Changeling  *Creature Family*

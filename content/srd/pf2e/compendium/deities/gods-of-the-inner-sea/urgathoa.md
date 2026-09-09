@@ -5,6 +5,7 @@ tags:
 aliases: ["Urgathoa"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=295"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Urgathoa  *Deity*

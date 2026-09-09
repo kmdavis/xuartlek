@@ -11,6 +11,7 @@ tags:
 aliases: ["Wand of Overflowing Life"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3426"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Wand of Overflowing Life  *Item 9+*

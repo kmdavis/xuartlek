@@ -11,6 +11,7 @@ name: "God Caller"
 level: 10
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3542"
+socialImage: og-image.png
 ---
 
 ```statblock

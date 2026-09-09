@@ -11,6 +11,7 @@ tags:
 aliases: ["Warpwobble Poison"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2020"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Warpwobble Poison  *Item 8*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Conductor's Redirection"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4328"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Conductor's Redirection  *Feat 5*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

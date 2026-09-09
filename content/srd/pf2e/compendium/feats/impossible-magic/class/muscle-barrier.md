@@ -7,6 +7,7 @@ tags:
 aliases: ["Muscle Barrier"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9103"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Muscle Barrier  *Feat 2*

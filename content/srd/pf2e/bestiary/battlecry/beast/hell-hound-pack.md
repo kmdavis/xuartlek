@@ -14,6 +14,7 @@ name: "Hell Hound Pack"
 level: 8
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3922"
+socialImage: og-image.png
 ---
 
 ```statblock

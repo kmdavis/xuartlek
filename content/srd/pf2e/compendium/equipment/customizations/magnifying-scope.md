@@ -7,6 +7,7 @@ tags:
 aliases: ["Magnifying Scope"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1214"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Magnifying Scope  *Item 3+*

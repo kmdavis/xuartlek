@@ -6,6 +6,7 @@ tags:
 aliases: ["Manacles"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2733"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Manacles  *Item 0+*

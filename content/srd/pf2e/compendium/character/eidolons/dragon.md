@@ -8,6 +8,7 @@ tags:
 aliases: ["Dragon"]
 aon_url: "https://2e.aonprd.com/Eidolons.aspx?ID=21"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Dragon  *Summoner Eidolon*

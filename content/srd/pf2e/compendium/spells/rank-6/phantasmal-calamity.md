@@ -10,6 +10,7 @@ tags:
 aliases: ["Phantasmal Calamity"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1630"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Phantasmal Calamity  *Spell 6*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

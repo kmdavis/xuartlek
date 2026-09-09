@@ -6,6 +6,7 @@ tags:
 aliases: ["Keen Flair"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=63"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Keen Flair  *Class Feature 15*

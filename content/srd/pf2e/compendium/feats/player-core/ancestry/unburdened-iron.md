@@ -7,6 +7,7 @@ tags:
 aliases: ["Unburdened Iron"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4393"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Unburdened Iron  *Feat 1*

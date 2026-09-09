@@ -7,6 +7,7 @@ tags:
 aliases: ["Patron Reborn"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7255"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Patron Reborn  *Feat 20*

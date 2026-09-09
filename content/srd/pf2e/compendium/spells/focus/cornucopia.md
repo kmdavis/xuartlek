@@ -15,6 +15,7 @@ tags:
 aliases: ["Cornucopia"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1856"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Cornucopia  *Focus 1*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

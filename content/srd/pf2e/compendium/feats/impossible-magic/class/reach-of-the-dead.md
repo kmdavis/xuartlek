@@ -10,6 +10,7 @@ tags:
 aliases: ["Reach of the Dead"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9094"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Reach of the Dead  *Feat 1*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

@@ -7,6 +7,7 @@ tags:
 aliases: ["Greater Revelation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6076"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Greater Revelation  *Feat 12*

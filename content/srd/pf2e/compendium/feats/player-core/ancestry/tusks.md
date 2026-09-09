@@ -7,6 +7,7 @@ tags:
 aliases: ["Tusks"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4519"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Tusks  *Feat 1*

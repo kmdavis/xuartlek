@@ -13,6 +13,7 @@ tags:
 aliases: ["Tin Cobra"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1134"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Tin Cobra  *Item 5*

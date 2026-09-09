@@ -8,6 +8,7 @@ tags:
 aliases: ["Persistent Servant"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2785"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Persistent Servant  *Spell 2*

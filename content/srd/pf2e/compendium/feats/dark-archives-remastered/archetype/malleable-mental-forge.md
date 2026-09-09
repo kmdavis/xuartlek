@@ -7,6 +7,7 @@ tags:
 aliases: ["Malleable Mental Forge"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8510"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Malleable Mental Forge  *Feat 8*

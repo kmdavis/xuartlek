@@ -9,6 +9,7 @@ tags:
 aliases: ["Knave's Standard"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3912"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Knave's Standard  *Item 4+*

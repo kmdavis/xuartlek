@@ -8,6 +8,7 @@ tags:
 aliases: ["Ice Gliders"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5187"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Ice Gliders  *Item 8+*

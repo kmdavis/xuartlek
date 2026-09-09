@@ -8,6 +8,7 @@ tags:
 aliases: ["Duelist Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6313"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Duelist Dedication  *Feat 2*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Religious Symbol"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2745"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Religious Symbol  *Item 0+*

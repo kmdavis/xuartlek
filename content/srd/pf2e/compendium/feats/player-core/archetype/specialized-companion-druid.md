@@ -7,6 +7,7 @@ tags:
 aliases: ["Specialized Companion (Druid)"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4756"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Specialized Companion (Druid)  *Feat 14*

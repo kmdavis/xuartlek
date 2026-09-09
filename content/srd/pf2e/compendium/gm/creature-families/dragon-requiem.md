@@ -5,6 +5,7 @@ tags:
 aliases: ["Dragon, Requiem"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=586"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Dragon, Requiem  *Creature Family*

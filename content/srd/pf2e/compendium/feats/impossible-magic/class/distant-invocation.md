@@ -7,6 +7,7 @@ tags:
 aliases: ["Distant Invocation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9203"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Distant Invocation  *Feat 12*

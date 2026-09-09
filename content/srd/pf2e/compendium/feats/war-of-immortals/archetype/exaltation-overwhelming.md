@@ -11,6 +11,7 @@ tags:
 aliases: ["Exaltation Overwhelming"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7385"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Exaltation Overwhelming  *Feat 18*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")
@@ -21,6 +22,6 @@ source: "War of Immortals"
 - **Frequency**: once per day
 - **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/eternal-legend-dedication|Eternal Legend Dedication]]
 
-Raising your weapon or fist aloft, you begin to gleam with dazzling radiance. You fulminate with power and glory, making it clear to all who see you that your legend is real and possibly even greater than purported. Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/index|Mythic Point]]. All enemies who can see you must succeed at a Will saving throw against your class DC or become [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 3 (frightened 4 on a critical failure). You and any ally who can see you may choose to [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]] as a free action. Any of these Strikes are made at mythic proficiency.
+Raising your weapon or fist aloft, you begin to gleam with dazzling radiance. You fulminate with power and glory, making it clear to all who see you that your legend is real and possibly even greater than purported. Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]]. All enemies who can see you must succeed at a Will saving throw against your class DC or become [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 3 (frightened 4 on a critical failure). You and any ally who can see you may choose to [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]] as a free action. Any of these Strikes are made at mythic proficiency.
 
 *Source: War of Immortals p. 128*

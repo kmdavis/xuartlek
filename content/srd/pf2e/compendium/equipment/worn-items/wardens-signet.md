@@ -9,6 +9,7 @@ tags:
 aliases: ["Warden's Signet"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2330"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Warden's Signet  *Item 11*

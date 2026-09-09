@@ -7,6 +7,7 @@ tags:
 aliases: ["Glittering Scarab"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4121"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Glittering Scarab  *Item 1*

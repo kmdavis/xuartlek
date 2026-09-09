@@ -7,6 +7,7 @@ tags:
 aliases: ["Warden's Focus"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4897"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Warden's Focus  *Feat 12*

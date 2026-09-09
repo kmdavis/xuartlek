@@ -7,6 +7,7 @@ tags:
 aliases: ["Great Tengu Form"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5691"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Great Tengu Form  *Feat 17*

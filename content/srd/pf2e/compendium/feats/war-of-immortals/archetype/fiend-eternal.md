@@ -7,6 +7,7 @@ tags:
 aliases: ["Fiend Eternal"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7330"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Fiend Eternal  *Feat 20*

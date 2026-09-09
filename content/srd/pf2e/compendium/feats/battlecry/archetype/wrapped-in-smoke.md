@@ -7,6 +7,7 @@ tags:
 aliases: ["Wrapped in Smoke"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7960"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Wrapped in Smoke  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

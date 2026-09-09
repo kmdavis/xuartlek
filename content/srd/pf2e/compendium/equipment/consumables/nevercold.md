@@ -9,6 +9,7 @@ tags:
 aliases: ["Nevercold"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2026"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Nevercold  *Item 10+*

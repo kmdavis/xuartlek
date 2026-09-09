@@ -8,6 +8,7 @@ tags:
 aliases: ["Planar Shot"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3874"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Planar Shot  *Item 8*

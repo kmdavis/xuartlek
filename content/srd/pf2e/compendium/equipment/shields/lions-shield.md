@@ -7,6 +7,7 @@ tags:
 aliases: ["Lion's Shield"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2823"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Lion's Shield  *Item 6*

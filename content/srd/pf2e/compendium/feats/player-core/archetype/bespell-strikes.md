@@ -9,6 +9,7 @@ tags:
 aliases: ["Bespell Strikes"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5028"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Bespell Strikes  *Feat 4*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

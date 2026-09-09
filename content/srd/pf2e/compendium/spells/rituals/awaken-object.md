@@ -8,6 +8,7 @@ tags:
 aliases: ["Awaken Object"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=245"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Awaken Object  *Ritual 6*

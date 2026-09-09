@@ -9,6 +9,7 @@ tags:
 aliases: ["Summoner's Call"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9269"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Summoner's Call  *Feat 12*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

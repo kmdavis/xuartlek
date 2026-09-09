@@ -8,6 +8,7 @@ tags:
 aliases: ["Environmental Guide"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6477"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Environmental Guide  *Feat 7*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Honeyed Words"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1558"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Honeyed Words  *Spell 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

@@ -9,6 +9,7 @@ tags:
 aliases: ["Coven Spell"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5012"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Coven Spell  *Feat 12*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

@@ -11,6 +11,7 @@ name: "Sorvuth-Ka"
 level: 24
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4560"
+socialImage: og-image.png
 ---
 
 ```statblock

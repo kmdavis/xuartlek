@@ -5,6 +5,7 @@ tags:
 aliases: ["Bolka"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=445"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Bolka  *Deity*

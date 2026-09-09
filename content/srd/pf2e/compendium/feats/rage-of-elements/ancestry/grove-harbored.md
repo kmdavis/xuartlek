@@ -7,6 +7,7 @@ tags:
 aliases: ["Grove-Harbored"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4312"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Grove-Harbored  *Feat 1*

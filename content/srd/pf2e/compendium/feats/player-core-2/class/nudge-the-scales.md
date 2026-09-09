@@ -11,6 +11,7 @@ tags:
 aliases: ["Nudge the Scales"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6055"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Nudge the Scales  *Feat 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

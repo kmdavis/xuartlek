@@ -8,6 +8,7 @@ tags:
 aliases: ["Breadcrumbs"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2649"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Breadcrumbs  *Spell 1*

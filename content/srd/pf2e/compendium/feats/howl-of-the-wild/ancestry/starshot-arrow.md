@@ -8,6 +8,7 @@ tags:
 aliases: ["Starshot Arrow"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5342"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Starshot Arrow  *Feat 17*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

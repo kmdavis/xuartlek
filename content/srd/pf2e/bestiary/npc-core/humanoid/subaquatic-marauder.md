@@ -12,6 +12,7 @@ name: "Subaquatic Marauder"
 level: 5
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3603"
+socialImage: og-image.png
 ---
 
 ```statblock

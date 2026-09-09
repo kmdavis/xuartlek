@@ -10,6 +10,7 @@ tags:
 aliases: ["Wounding Oil"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2078"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wounding Oil  *Item 5*

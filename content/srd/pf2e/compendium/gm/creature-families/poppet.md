@@ -5,6 +5,7 @@ tags:
 aliases: ["Poppet"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=615"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Poppet  *Creature Family*

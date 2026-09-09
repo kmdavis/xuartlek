@@ -4,6 +4,7 @@ tags:
 - table/decks
 aliases: ["Critical Hit Deck: Piercing"]
 source: "Critical Hit Deck p. 0"
+socialImage: og-image.png
 ---
 
 # Critical Hit Deck: Piercing

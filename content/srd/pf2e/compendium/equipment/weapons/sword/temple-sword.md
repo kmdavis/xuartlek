@@ -9,6 +9,7 @@ tags:
 aliases: ["Temple Sword"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=418"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Temple Sword  *Weapon 0*

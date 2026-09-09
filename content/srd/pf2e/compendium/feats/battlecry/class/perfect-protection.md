@@ -7,6 +7,7 @@ tags:
 aliases: ["Perfect Protection"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7881"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Perfect Protection  *Feat 18*

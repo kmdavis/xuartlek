@@ -6,6 +6,7 @@ tags:
 aliases: ["Awakened Animal"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=787"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Awakened Animal  *Trait*

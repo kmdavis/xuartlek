@@ -8,6 +8,7 @@ tags:
 aliases: ["Meteoric Spellstrike"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9076"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Meteoric Spellstrike  *Feat 10*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

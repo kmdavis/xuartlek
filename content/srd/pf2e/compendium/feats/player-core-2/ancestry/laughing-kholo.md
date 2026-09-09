@@ -8,6 +8,7 @@ tags:
 aliases: ["Laughing Kholo"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5606"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Laughing Kholo  *Feat 9*

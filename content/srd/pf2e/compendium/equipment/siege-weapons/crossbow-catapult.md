@@ -8,6 +8,7 @@ tags:
 aliases: ["Crossbow Catapult"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=47"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Crossbow Catapult  *Siege Weapon 3*

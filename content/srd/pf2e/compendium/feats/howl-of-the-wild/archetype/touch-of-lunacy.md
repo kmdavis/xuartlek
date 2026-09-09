@@ -10,6 +10,7 @@ tags:
 aliases: ["Touch of Lunacy"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5507"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Touch of Lunacy  *Feat 10*

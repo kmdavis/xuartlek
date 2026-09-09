@@ -7,6 +7,7 @@ tags:
 aliases: ["Solar Rejuvenation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4506"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Solar Rejuvenation  *Feat 9*

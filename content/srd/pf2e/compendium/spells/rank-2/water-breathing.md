@@ -9,6 +9,7 @@ tags:
 aliases: ["Water Breathing"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1755"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Water Breathing  *Spell 2*

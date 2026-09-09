@@ -7,6 +7,7 @@ tags:
 aliases: ["Exceptional Follower"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8002"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Exceptional Follower  *Feat 14*

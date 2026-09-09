@@ -5,6 +5,7 @@ tags:
 aliases: ["Kholo"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=434"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Kholo  *Creature Family*

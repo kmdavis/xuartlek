@@ -7,6 +7,7 @@ tags:
 aliases: ["Orichalcum Armor"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2802"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Orichalcum Armor  *Item 20+*

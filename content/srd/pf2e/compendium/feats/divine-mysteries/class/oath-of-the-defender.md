@@ -8,6 +8,7 @@ tags:
 aliases: ["Oath of The Defender"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7518"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Oath of The Defender  *Feat 2*

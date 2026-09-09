@@ -9,6 +9,7 @@ tags:
 source: "GM Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3195"
 citation: "GM Core pg. 257"
+socialImage: og-image.png
 ---
 
 # Oils

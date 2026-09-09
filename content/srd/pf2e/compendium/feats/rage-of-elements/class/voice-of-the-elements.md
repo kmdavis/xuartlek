@@ -7,6 +7,7 @@ tags:
 aliases: ["Voice of the Elements"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4188"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Voice of the Elements  *Feat 2*

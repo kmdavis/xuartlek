@@ -7,6 +7,7 @@ tags:
 aliases: ["Esoteric Polymath"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4583"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Esoteric Polymath  *Feat 2*

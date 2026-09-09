@@ -12,6 +12,7 @@ tags:
 aliases: ["Spirit Snare"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1133"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Spirit Snare  *Item 8*

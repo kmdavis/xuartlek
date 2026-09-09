@@ -7,6 +7,7 @@ tags:
 aliases: ["Very, Very Sneaky"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4453"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Very, Very Sneaky  *Feat 13*

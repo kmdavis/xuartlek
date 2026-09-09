@@ -7,6 +7,7 @@ tags:
 aliases: ["Master Bard Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5065"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Master Bard Spellcasting  *Feat 18*

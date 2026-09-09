@@ -7,6 +7,7 @@ tags:
 aliases: ["Shared Stratagem"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5944"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Shared Stratagem  *Feat 2*

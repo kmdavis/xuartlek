@@ -8,6 +8,7 @@ tags:
 aliases: ["Take the Wheel"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3142"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Take the Wheel  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

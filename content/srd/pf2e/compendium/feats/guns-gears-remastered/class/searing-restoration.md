@@ -11,6 +11,7 @@ tags:
 aliases: ["Searing Restoration"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3054"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Searing Restoration  *Feat 2*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

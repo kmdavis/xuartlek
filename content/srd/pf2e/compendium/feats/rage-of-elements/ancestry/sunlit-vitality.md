@@ -7,6 +7,7 @@ tags:
 aliases: ["Sunlit Vitality"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4315"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Sunlit Vitality  *Feat 1*

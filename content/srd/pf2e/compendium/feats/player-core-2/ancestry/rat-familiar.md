@@ -7,6 +7,7 @@ tags:
 aliases: ["Rat Familiar"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5653"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Rat Familiar  *Feat 1*

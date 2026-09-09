@@ -8,6 +8,7 @@ tags:
 aliases: ["Timepiece"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1159"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Timepiece  *Item 1+*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Summon Wood Elemental"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4321"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Summon Wood Elemental  *Feat 13*

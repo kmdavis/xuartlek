@@ -11,6 +11,7 @@ tags:
 aliases: ["Trueshape Bomb"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1907"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Trueshape Bomb  *Item 12+*

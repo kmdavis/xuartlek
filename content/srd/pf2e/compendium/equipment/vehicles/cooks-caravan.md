@@ -7,6 +7,7 @@ tags:
 aliases: ["Cook's Caravan"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=100"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Cook's Caravan  *Vehicle 20*

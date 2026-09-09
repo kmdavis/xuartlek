@@ -7,6 +7,7 @@ tags:
 aliases: ["Robust Health"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6499"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Robust Health  *Feat 3*

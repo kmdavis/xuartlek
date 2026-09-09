@@ -5,6 +5,7 @@ tags:
 aliases: ["Scholar"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=548"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Scholar  *Creature Family*

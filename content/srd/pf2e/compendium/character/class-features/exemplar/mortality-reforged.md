@@ -6,6 +6,7 @@ tags:
 aliases: ["Mortality Reforged"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=65"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Mortality Reforged  *Class Feature 15*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Simple Weapon Expertise"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=64"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Simple Weapon Expertise  *Class Feature 11*

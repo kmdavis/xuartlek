@@ -5,6 +5,7 @@ tags:
 aliases: ["Grask Uldeth"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=555"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Grask Uldeth  *Deity*

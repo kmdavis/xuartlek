@@ -9,6 +9,7 @@ tags:
 aliases: ["Silvered Marp Fur"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3263"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Silvered Marp Fur  *Item 9*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Headbands of Translocation"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2336"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Headbands of Translocation  *Item 16*

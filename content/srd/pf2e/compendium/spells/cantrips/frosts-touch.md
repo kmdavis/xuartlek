@@ -10,6 +10,7 @@ tags:
 aliases: ["Frost's Touch"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1274"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Frost's Touch  *Cantrip 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

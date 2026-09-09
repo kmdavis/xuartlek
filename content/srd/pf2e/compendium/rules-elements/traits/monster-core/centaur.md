@@ -6,6 +6,7 @@ tags:
 aliases: ["Centaur"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=747"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Centaur  *Trait*

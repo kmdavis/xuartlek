@@ -10,6 +10,7 @@ tags:
 aliases: ["Engulfing Snare"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3369"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Engulfing Snare  *Item 14*

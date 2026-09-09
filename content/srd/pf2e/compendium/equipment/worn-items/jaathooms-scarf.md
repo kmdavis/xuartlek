@@ -9,6 +9,7 @@ tags:
 aliases: ["Jaathoom's Scarf"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2582"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Jaathoom's Scarf  *Item 10*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Alchemical Crafting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5117"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Alchemical Crafting  *Feat 1*

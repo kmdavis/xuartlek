@@ -7,6 +7,7 @@ tags:
 aliases: ["Fishblooded"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5350"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Fishblooded  *Feat 5*

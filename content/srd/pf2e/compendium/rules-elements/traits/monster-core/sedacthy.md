@@ -6,6 +6,7 @@ tags:
 aliases: ["Sedacthy"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=770"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Sedacthy  *Trait*

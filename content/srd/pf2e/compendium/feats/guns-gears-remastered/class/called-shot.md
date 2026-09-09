@@ -8,6 +8,7 @@ tags:
 aliases: ["Called Shot"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3182"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Called Shot  *Feat 10*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

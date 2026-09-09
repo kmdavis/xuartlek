@@ -7,6 +7,7 @@ tags:
 aliases: ["Expanded Elemental Magic"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4345"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Expanded Elemental Magic  *Feat 6*

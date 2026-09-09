@@ -11,6 +11,7 @@ tags:
 aliases: ["Combat Lure"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=277"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Combat Lure  *Weapon 0*

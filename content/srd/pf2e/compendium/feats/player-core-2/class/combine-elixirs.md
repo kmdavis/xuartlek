@@ -8,6 +8,7 @@ tags:
 aliases: ["Combine Elixirs"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5777"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Combine Elixirs  *Feat 6*

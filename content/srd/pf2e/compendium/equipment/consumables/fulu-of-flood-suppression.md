@@ -9,6 +9,7 @@ tags:
 aliases: ["Fulu Of Flood Suppression"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5076"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Fulu Of Flood Suppression  *Item 3*

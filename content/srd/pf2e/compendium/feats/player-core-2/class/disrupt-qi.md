@@ -9,6 +9,7 @@ tags:
 aliases: ["Disrupt Qi"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6024"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Disrupt Qi  *Feat 12*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

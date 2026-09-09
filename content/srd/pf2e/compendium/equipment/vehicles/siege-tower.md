@@ -7,6 +7,7 @@ tags:
 aliases: ["Siege Tower"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=17"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Siege Tower  *Vehicle 4*

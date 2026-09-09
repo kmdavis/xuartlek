@@ -7,6 +7,7 @@ tags:
 aliases: ["Shades of Meaning"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9219"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Shades of Meaning  *Feat 20*

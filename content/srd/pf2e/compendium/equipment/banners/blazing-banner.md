@@ -10,6 +10,7 @@ tags:
 aliases: ["Blazing Banner"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3908"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Blazing Banner  *Item 4+*

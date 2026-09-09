@@ -13,6 +13,7 @@ name: "Qadiran Camel Corps"
 level: 6
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3933"
+socialImage: og-image.png
 ---
 
 ```statblock

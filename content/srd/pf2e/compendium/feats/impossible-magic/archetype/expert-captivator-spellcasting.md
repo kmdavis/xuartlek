@@ -7,6 +7,7 @@ tags:
 aliases: ["Expert Captivator Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9320"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Expert Captivator Spellcasting  *Feat 10*

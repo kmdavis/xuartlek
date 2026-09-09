@@ -8,6 +8,7 @@ tags:
 aliases: ["Begin Stampede"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5382"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Begin Stampede  *Feat 17*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

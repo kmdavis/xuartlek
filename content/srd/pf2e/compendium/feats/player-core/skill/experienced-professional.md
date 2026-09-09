@@ -8,6 +8,7 @@ tags:
 aliases: ["Experienced Professional"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5144"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Experienced Professional  *Feat 1*

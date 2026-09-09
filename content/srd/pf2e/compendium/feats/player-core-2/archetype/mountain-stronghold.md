@@ -7,6 +7,7 @@ tags:
 aliases: ["Mountain Stronghold"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6002"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Mountain Stronghold  *Feat 6*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

@@ -8,6 +8,7 @@ tags:
 aliases: ["Growing Eel Friend"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5282"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Growing Eel Friend  *Feat 5*

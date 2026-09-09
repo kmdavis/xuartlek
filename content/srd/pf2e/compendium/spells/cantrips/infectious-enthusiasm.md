@@ -11,6 +11,7 @@ tags:
 aliases: ["Infectious Enthusiasm"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2748"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Infectious Enthusiasm  *Cantrip 1*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

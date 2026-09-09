@@ -7,6 +7,7 @@ tags:
 aliases: ["Aura of Life"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5920"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Aura of Life  *Feat 14*

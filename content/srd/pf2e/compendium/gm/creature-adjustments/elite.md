@@ -5,6 +5,7 @@ tags:
 aliases: ["Elite"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=22"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Elite  *Creature Adjustment*

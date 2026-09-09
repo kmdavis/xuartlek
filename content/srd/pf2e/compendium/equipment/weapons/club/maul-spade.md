@@ -10,6 +10,7 @@ tags:
 aliases: ["Maul-Spade"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=537"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Maul-Spade  *Weapon 0*

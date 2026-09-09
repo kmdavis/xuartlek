@@ -8,6 +8,7 @@ tags:
 aliases: ["Font of Life or Death"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7397"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Font of Life or Death  *Feat 16*

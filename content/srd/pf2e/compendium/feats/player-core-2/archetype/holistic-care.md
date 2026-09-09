@@ -8,6 +8,7 @@ tags:
 aliases: ["Holistic Care"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6376"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Holistic Care  *Feat 6*

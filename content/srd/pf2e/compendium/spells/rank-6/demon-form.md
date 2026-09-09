@@ -10,6 +10,7 @@ tags:
 aliases: ["Demon Form"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2674"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Demon Form  *Spell 6*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

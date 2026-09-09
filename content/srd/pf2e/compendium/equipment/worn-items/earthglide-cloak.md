@@ -9,6 +9,7 @@ tags:
 aliases: ["Earthglide Cloak"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3081"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Earthglide Cloak  *Item 15*

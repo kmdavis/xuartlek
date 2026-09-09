@@ -7,6 +7,7 @@ tags:
 aliases: ["Perfect Encore"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4638"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Perfect Encore  *Feat 20*

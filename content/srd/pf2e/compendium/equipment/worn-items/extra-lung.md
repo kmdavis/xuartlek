@@ -9,6 +9,7 @@ tags:
 aliases: ["Extra Lung"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2578"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Extra Lung  *Item 8*

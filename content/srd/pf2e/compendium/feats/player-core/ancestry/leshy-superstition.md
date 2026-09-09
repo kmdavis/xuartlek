@@ -7,6 +7,7 @@ tags:
 aliases: ["Leshy Superstition"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4496"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Leshy Superstition  *Feat 1*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

@@ -7,6 +7,7 @@ tags:
 aliases: ["Elemental Evolution"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4353"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Elemental Evolution  *Feat 2*

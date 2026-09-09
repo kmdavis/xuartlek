@@ -8,6 +8,7 @@ tags:
 aliases: ["Khopesh"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=290"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Khopesh  *Weapon 0*

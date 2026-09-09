@@ -8,6 +8,7 @@ tags:
 aliases: ["Chronocognizance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8481"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Chronocognizance  *Feat 7*

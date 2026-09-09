@@ -9,6 +9,7 @@ tags:
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3440"
 citation: "Battlecry! pg. 159"
+socialImage: og-image.png
 ---
 
 # Shared Space and Movement

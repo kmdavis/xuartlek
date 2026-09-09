@@ -7,6 +7,7 @@ tags:
 aliases: ["One with the Spirits"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7587"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # One with the Spirits  *Feat 16*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

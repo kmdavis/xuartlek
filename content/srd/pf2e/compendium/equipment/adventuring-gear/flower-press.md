@@ -6,6 +6,7 @@ tags:
 aliases: ["Flower Press"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3247"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Flower Press  *Item 0*

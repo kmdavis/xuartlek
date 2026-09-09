@@ -9,6 +9,7 @@ tags:
 aliases: ["Ranger Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5087"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Ranger Dedication  *Feat 2*

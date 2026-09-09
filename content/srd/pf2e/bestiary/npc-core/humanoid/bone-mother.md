@@ -11,6 +11,7 @@ name: "Bone Mother"
 level: 6
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3669"
+socialImage: og-image.png
 ---
 
 ```statblock

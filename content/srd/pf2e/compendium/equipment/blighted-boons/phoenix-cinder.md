@@ -10,6 +10,7 @@ tags:
 aliases: ["Phoenix Cinder"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2372"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Phoenix Cinder  *Item 16*

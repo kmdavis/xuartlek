@@ -7,6 +7,7 @@ tags:
 aliases: ["Clang!"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7877"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Clang!  *Feat 16*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

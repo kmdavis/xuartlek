@@ -7,6 +7,7 @@ tags:
 aliases: ["Beastmaster's Trance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6270"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Beastmaster's Trance  *Feat 6*

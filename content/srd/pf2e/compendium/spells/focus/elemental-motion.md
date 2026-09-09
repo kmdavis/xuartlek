@@ -11,6 +11,7 @@ tags:
 aliases: ["Elemental Motion"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2106"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Elemental Motion  *Focus 3*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

@@ -12,6 +12,7 @@ name: "Ancient Resurrection Dragon"
 level: 17
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4362"
+socialImage: og-image.png
 ---
 
 ```statblock

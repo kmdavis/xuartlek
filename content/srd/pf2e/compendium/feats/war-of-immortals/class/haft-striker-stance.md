@@ -10,6 +10,7 @@ tags:
 aliases: ["Haft Striker Stance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7237"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Haft Striker Stance  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

@@ -9,6 +9,7 @@ tags:
 aliases: ["Haunt Ingenuity"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8356"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Haunt Ingenuity  *Feat 1*

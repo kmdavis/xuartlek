@@ -8,6 +8,7 @@ tags:
 aliases: ["Spike Launcher"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1171"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Spike Launcher  *Item 6*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Shatter Defenses"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4806"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Shatter Defenses  *Feat 6*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

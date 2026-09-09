@@ -13,6 +13,7 @@ tags:
 aliases: ["Song of Strength"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1775"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Song of Strength  *Cantrip 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

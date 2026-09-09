@@ -7,6 +7,7 @@ tags:
 aliases: ["Long Tongue"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5701"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Long Tongue  *Feat 5*

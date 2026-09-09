@@ -7,6 +7,7 @@ tags:
 aliases: ["Practiced Brawn"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5324"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Practiced Brawn  *Feat 1*

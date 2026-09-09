@@ -8,6 +8,7 @@ tags:
 aliases: ["Lion's Armor"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2807"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Lion's Armor  *Item 12+*

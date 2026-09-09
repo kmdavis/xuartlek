@@ -14,6 +14,7 @@ tags:
 aliases: ["Cantrip Expansion"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4580"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Cantrip Expansion  *Feat 2*

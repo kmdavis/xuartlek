@@ -8,6 +8,7 @@ tags:
 aliases: ["Staff of Providence"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3422"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Staff of Providence  *Item 6+*

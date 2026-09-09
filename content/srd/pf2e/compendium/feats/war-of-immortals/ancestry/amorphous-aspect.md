@@ -7,6 +7,7 @@ tags:
 aliases: ["Amorphous Aspect"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7203"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Amorphous Aspect  *Feat 5*

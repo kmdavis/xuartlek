@@ -7,6 +7,7 @@ tags:
 aliases: ["False Witness"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4132"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # False Witness  *Item 0+*

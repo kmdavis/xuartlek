@@ -9,6 +9,7 @@ tags:
 aliases: ["Archivist's Gaze"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5113"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Archivist's Gaze  *Item 18*

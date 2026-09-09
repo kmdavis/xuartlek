@@ -11,6 +11,7 @@ tags:
 aliases: ["Community Restoration"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1901"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Community Restoration  *Focus 4*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

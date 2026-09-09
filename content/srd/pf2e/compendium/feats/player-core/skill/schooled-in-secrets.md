@@ -8,6 +8,7 @@ tags:
 aliases: ["Schooled in Secrets"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5209"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Schooled in Secrets  *Feat 1*

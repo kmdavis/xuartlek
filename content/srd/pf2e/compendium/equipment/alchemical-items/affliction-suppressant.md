@@ -10,6 +10,7 @@ tags:
 aliases: ["Affliction Suppressant"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1956"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Affliction Suppressant  *Item 1+*

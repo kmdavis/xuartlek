@@ -7,6 +7,7 @@ tags:
 aliases: ["Illusion Sense"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4428"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Illusion Sense  *Feat 1*

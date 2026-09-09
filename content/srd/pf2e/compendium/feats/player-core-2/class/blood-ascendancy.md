@@ -7,6 +7,7 @@ tags:
 aliases: ["Blood Ascendancy"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6115"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Blood Ascendancy  *Feat 14*

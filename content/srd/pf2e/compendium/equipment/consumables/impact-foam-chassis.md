@@ -9,6 +9,7 @@ tags:
 aliases: ["Impact Foam Chassis"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1115"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Impact Foam Chassis  *Item 1+*

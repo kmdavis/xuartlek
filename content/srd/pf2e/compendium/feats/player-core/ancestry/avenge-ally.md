@@ -8,6 +8,7 @@ tags:
 aliases: ["Avenge Ally"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4419"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Avenge Ally  *Feat 13*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

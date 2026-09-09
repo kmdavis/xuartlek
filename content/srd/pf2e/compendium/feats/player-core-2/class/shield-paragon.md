@@ -7,6 +7,7 @@ tags:
 aliases: ["Shield Paragon"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5932"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Shield Paragon  *Feat 20*

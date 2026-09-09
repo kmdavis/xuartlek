@@ -8,6 +8,7 @@ tags:
 aliases: ["Incredible Scout"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6487"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Incredible Scout  *Feat 11*

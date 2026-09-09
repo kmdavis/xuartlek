@@ -8,6 +8,7 @@ tags:
 aliases: ["Tiger Shield"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3833"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Tiger Shield  *Item 5*

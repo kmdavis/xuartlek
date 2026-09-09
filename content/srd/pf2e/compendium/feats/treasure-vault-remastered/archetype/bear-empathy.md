@@ -8,6 +8,7 @@ tags:
 aliases: ["Bear Empathy"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4090"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Bear Empathy  *Feat 10*

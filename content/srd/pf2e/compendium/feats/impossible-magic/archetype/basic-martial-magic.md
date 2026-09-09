@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Martial Magic"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9286"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Basic Martial Magic  *Feat 4*

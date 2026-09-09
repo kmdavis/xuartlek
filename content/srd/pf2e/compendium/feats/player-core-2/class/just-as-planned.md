@@ -8,6 +8,7 @@ tags:
 aliases: ["Just As Planned"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5963"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Just As Planned  *Feat 12*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

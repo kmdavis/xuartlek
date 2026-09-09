@@ -5,6 +5,7 @@ tags:
 aliases: ["Weight of the World"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=384"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Weight of the World  *Deity*

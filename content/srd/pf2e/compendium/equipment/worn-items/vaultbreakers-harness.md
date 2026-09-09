@@ -8,6 +8,7 @@ tags:
 aliases: ["Vaultbreaker's Harness"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2307"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Vaultbreaker's Harness  *Item 6*

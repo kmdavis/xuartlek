@@ -7,6 +7,7 @@ tags:
 aliases: ["Legendary Monster Hunter"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4904"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Legendary Monster Hunter  *Feat 16*

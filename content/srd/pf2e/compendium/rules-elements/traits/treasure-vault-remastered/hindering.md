@@ -6,6 +6,7 @@ tags:
 aliases: ["Hindering"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=479"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Hindering  *Trait*

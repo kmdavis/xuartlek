@@ -6,6 +6,7 @@ tags:
 aliases: ["Avenger"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=282"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Avenger  *Archetype 2*

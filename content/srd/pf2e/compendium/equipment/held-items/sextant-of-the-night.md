@@ -7,6 +7,7 @@ tags:
 aliases: ["Sextant of the Night"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2196"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sextant of the Night  *Item 4*

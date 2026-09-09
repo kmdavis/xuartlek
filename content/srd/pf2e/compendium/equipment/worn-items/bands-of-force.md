@@ -9,6 +9,7 @@ tags:
 aliases: ["Bands of Force"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3058"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Bands of Force  *Item 8+*

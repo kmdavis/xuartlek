@@ -7,6 +7,7 @@ tags:
 aliases: ["Pick Up the Pace"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6495"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Pick Up the Pace  *Feat 3*

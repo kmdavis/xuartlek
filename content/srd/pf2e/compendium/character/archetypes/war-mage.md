@@ -7,6 +7,7 @@ tags:
 aliases: ["War Mage"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=331"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # War Mage  *Archetype 2*

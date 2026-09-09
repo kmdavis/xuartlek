@@ -5,6 +5,7 @@ tags:
 aliases: ["Primeval Cryptid"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=58"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Primeval Cryptid  *Creature Adjustment*

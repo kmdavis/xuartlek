@@ -7,6 +7,7 @@ tags:
 aliases: ["Winter's Kiss"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4102"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Winter's Kiss  *Feat 14*

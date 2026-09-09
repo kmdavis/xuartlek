@@ -9,6 +9,7 @@ tags:
 aliases: ["Oil of Ownership"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2073"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Oil of Ownership  *Item 3+*

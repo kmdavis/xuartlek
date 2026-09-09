@@ -7,6 +7,7 @@ tags:
 aliases: ["Open the Blazing Eye"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7565"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Open the Blazing Eye  *Feat 10*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

@@ -5,6 +5,7 @@ tags:
 aliases: ["Nymph"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=449"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Nymph  *Creature Family*

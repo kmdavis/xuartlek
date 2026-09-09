@@ -6,6 +6,7 @@ tags:
 aliases: ["Rakshasa"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=768"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Rakshasa  *Trait*

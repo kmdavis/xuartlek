@@ -6,6 +6,7 @@ tags:
 aliases: ["Strange Gravity"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=703"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Strange Gravity  *Trait*

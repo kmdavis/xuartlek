@@ -8,6 +8,7 @@ tags:
 aliases: ["Quiet Allies"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5202"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Quiet Allies  *Feat 2*

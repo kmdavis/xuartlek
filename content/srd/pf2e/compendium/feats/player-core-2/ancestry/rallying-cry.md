@@ -8,6 +8,7 @@ tags:
 aliases: ["Rallying Cry"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5588"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Rallying Cry  *Feat 17*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

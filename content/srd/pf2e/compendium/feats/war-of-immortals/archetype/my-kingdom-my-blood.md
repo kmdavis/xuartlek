@@ -8,6 +8,7 @@ tags:
 aliases: ["My Kingdom, My Blood"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7409"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # My Kingdom, My Blood  *Feat 16*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

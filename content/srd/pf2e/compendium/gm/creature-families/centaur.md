@@ -5,6 +5,7 @@ tags:
 aliases: ["Centaur"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=379"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Centaur  *Creature Family*

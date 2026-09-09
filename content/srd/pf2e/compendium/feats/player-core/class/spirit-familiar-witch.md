@@ -7,6 +7,7 @@ tags:
 aliases: ["Spirit Familiar (Witch)"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5006"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Spirit Familiar (Witch)  *Feat 8*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Bathe In Blood"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=246"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Bathe In Blood  *Ritual 8*

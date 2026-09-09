@@ -7,6 +7,7 @@ tags:
 aliases: ["Smithing Weapons"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9175"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Smithing Weapons  *Feat 1*

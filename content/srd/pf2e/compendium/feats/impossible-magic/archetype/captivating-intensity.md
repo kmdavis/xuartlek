@@ -7,6 +7,7 @@ tags:
 aliases: ["Captivating Intensity"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9318"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Captivating Intensity  *Feat 8*

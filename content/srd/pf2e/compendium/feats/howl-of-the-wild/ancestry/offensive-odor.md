@@ -8,6 +8,7 @@ tags:
 aliases: ["Offensive Odor"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5296"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Offensive Odor  *Feat 17*

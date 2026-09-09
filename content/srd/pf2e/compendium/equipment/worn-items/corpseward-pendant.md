@@ -9,6 +9,7 @@ tags:
 aliases: ["Corpseward Pendant"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2341"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Corpseward Pendant  *Item 5*

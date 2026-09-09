@@ -5,6 +5,7 @@ tags:
 aliases: ["Cave Worm"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=378"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Cave Worm  *Creature Family*

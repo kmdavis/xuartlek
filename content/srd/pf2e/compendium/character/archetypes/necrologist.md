@@ -7,6 +7,7 @@ tags:
 aliases: ["Necrologist"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=330"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Necrologist  *Archetype 6*

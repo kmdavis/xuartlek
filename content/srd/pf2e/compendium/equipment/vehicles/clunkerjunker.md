@@ -7,6 +7,7 @@ tags:
 aliases: ["Clunkerjunker"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=20"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Clunkerjunker  *Vehicle 1*

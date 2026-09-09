@@ -9,6 +9,7 @@ tags:
 aliases: ["Jotunborn"]
 aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=95"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Jotunborn  *Ancestry*

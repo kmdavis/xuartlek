@@ -6,6 +6,7 @@ tags:
 aliases: ["Restorative Handwraps"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4356"
 source: "Secrets of the Unlit Star Game Master's Guide"
+socialImage: og-image.png
 ---
 
 # Restorative Handwraps  *Item 5*

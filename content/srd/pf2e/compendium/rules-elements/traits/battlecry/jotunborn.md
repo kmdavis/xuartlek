@@ -6,6 +6,7 @@ tags:
 aliases: ["Jotunborn"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=860"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Jotunborn  *Trait*

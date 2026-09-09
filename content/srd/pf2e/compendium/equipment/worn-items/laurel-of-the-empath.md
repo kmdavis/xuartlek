@@ -10,6 +10,7 @@ tags:
 aliases: ["Laurel of the Empath"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2139"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Laurel of the Empath  *Item 20*

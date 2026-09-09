@@ -10,6 +10,7 @@ tags:
 aliases: ["All Returns to Slumber"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9379"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # All Returns to Slumber  *Feat 6*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

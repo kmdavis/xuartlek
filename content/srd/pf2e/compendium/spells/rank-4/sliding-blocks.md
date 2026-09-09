@@ -9,6 +9,7 @@ tags:
 aliases: ["Sliding Blocks"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1341"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Sliding Blocks  *Spell 4*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

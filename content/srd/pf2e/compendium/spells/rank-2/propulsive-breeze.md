@@ -9,6 +9,7 @@ tags:
 aliases: ["Propulsive Breeze"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1319"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Propulsive Breeze  *Spell 2*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

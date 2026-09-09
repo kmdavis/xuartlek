@@ -7,6 +7,7 @@ tags:
 aliases: ["Mind over Matter"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8349"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mind over Matter  *Feat 20*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Improved Poison Weapon"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4951"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Improved Poison Weapon  *Feat 8*

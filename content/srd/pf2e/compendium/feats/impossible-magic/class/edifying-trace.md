@@ -8,6 +8,7 @@ tags:
 aliases: ["Edifying Trace"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9194"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Edifying Trace  *Feat 8*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

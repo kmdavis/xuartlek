@@ -7,6 +7,7 @@ tags:
 aliases: ["Cooperative Soul"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4484"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Cooperative Soul  *Feat 9*

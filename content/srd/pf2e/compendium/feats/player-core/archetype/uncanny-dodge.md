@@ -7,6 +7,7 @@ tags:
 aliases: ["Uncanny Dodge"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5097"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Uncanny Dodge  *Feat 10*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Vanishing Coin"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2996"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Vanishing Coin  *Item 10*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Wand of Rolling Flames"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2289"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wand of Rolling Flames  *Item 6+*

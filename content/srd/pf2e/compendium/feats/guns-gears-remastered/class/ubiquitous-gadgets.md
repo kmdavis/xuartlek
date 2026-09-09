@@ -7,6 +7,7 @@ tags:
 aliases: ["Ubiquitous Gadgets"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3068"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Ubiquitous Gadgets  *Feat 8*

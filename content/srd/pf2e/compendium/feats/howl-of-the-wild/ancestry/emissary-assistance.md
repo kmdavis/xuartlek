@@ -8,6 +8,7 @@ tags:
 aliases: ["Emissary Assistance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5287"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Emissary Assistance  *Feat 9*

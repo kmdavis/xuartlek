@@ -7,6 +7,7 @@ tags:
 aliases: ["Guiding Riposte"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4843"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Guiding Riposte  *Feat 14*

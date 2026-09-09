@@ -9,6 +9,7 @@ tags:
 aliases: ["Clairaudience"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1465"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Clairaudience  *Spell 3*

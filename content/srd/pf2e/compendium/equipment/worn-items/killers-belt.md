@@ -8,6 +8,7 @@ tags:
 aliases: ["Killer's Belt"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3968"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Killer's Belt  *Item 4+*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Haughty Obstinacy"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4477"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Haughty Obstinacy  *Feat 1*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Perfection's Path"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6216"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Perfection's Path  *Feat 12*

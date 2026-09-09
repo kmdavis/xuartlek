@@ -8,6 +8,7 @@ tags:
 aliases: ["Deathless Servant"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7316"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Deathless Servant  *Feat 18*

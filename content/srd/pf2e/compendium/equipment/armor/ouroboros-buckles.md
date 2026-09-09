@@ -9,6 +9,7 @@ tags:
 aliases: ["Ouroboros Buckles"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1850"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Ouroboros Buckles  *Item 19*

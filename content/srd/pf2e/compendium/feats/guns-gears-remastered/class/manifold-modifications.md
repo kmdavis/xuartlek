@@ -8,6 +8,7 @@ tags:
 aliases: ["Manifold Modifications"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3066"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Manifold Modifications  *Feat 8*

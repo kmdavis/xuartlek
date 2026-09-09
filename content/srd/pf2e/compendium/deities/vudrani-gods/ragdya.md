@@ -5,6 +5,7 @@ tags:
 aliases: ["Ragdya"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=618"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Ragdya  *Deity*

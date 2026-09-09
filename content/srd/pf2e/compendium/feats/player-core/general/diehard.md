@@ -7,6 +7,7 @@ tags:
 aliases: ["Diehard"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5140"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Diehard  *Feat 1*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Viper's Fang"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2997"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Viper's Fang  *Item 14*

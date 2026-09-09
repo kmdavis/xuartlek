@@ -7,6 +7,7 @@ tags:
 aliases: ["Impervious Vehicle"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3152"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Impervious Vehicle  *Feat 8*

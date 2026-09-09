@@ -5,6 +5,7 @@ tags:
 aliases: ["Lich"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=438"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Lich  *Creature Family*

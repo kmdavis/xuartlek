@@ -8,6 +8,7 @@ tags:
 aliases: ["Hellspawn"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4544"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Hellspawn  *Feat 1*

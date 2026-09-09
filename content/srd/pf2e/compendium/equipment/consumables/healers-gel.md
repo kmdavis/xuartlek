@@ -9,6 +9,7 @@ tags:
 aliases: ["Healer's Gel"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5055"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Healer's Gel  *Item 5+*

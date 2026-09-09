@@ -8,6 +8,7 @@ tags:
 aliases: ["Steam Winch"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1158"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Steam Winch  *Item 8*

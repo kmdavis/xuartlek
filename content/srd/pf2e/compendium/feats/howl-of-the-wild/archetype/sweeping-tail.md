@@ -7,6 +7,7 @@ tags:
 aliases: ["Sweeping Tail"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5431"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Sweeping Tail  *Feat 10*

@@ -10,6 +10,7 @@ name: "Veteran War Horse"
 level: 5
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3677"
+socialImage: og-image.png
 ---
 
 ```statblock

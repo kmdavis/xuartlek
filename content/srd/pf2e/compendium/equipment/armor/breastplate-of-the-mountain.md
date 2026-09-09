@@ -9,6 +9,7 @@ tags:
 aliases: ["Breastplate of the Mountain"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2137"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Breastplate of the Mountain  *Item 20*

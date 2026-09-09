@@ -7,6 +7,7 @@ tags:
 aliases: ["Flurry of Maneuvers"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5992"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Flurry of Maneuvers  *Feat 4*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Predator's Claw"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2990"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Predator's Claw  *Item 1*

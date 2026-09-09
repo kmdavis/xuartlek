@@ -9,6 +9,7 @@ tags:
 aliases: ["Incredible Familiar"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5004"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Incredible Familiar  *Feat 8*

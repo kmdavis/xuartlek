@@ -10,6 +10,7 @@ tags:
 aliases: ["Clockwork Goggles"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1107"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Clockwork Goggles  *Item 1+*

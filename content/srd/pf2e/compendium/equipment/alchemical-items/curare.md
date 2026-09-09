@@ -11,6 +11,7 @@ tags:
 aliases: ["Curare"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1999"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Curare  *Item 8*

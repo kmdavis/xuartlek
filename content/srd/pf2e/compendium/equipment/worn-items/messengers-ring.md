@@ -8,6 +8,7 @@ tags:
 aliases: ["Messenger's Ring"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3096"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Messenger's Ring  *Item 9+*

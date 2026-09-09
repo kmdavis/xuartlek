@@ -8,6 +8,7 @@ tags:
 aliases: ["True Shapeshifter"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4767"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # True Shapeshifter  *Feat 20*

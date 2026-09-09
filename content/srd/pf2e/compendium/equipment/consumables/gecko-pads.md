@@ -10,6 +10,7 @@ tags:
 aliases: ["Gecko Pads"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1114"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Gecko Pads  *Item 5+*

@@ -12,6 +12,7 @@ name: "Mythic Gogiteth"
 level: 12
 source: "War of Immortals"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3400"
+socialImage: og-image.png
 ---
 
 ```statblock

@@ -5,6 +5,7 @@ tags:
 aliases: ["Griffon"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=497"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Griffon  *Creature Family*

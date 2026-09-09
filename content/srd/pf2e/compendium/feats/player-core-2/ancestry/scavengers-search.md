@@ -7,6 +7,7 @@ tags:
 aliases: ["Scavenger's Search"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5675"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Scavenger's Search  *Feat 1*

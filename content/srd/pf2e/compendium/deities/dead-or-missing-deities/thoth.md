@@ -5,6 +5,7 @@ tags:
 aliases: ["Thoth"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=524"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Thoth  *Deity*

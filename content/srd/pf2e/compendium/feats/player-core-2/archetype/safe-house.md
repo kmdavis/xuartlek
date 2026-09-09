@@ -7,6 +7,7 @@ tags:
 aliases: ["Safe House"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6427"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Safe House  *Feat 4*

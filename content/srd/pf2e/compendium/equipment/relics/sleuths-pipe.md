@@ -9,6 +9,7 @@ tags:
 aliases: ["Sleuth's Pipe"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2409"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sleuth's Pipe  *Item 3*

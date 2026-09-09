@@ -8,6 +8,7 @@ tags:
 aliases: ["Rally Support"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7936"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Rally Support  *Feat 8*

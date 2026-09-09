@@ -9,6 +9,7 @@ tags:
 aliases: ["Wand of Shocking Haze"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2290"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wand of Shocking Haze  *Item 6*

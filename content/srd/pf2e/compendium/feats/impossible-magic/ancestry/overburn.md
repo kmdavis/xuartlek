@@ -7,6 +7,7 @@ tags:
 aliases: ["Overburn"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9405"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Overburn  *Feat 9*

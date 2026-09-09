@@ -8,6 +8,7 @@ tags:
 aliases: ["Mobile Shot Stance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4814"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Mobile Shot Stance  *Feat 8*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

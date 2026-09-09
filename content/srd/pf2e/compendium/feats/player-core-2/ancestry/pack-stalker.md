@@ -8,6 +8,7 @@ tags:
 aliases: ["Pack Stalker"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5598"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Pack Stalker  *Feat 5*

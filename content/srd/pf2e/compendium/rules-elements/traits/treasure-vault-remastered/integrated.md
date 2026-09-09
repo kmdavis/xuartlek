@@ -6,6 +6,7 @@ tags:
 aliases: ["Integrated"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=481"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Integrated  *Trait*

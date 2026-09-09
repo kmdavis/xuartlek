@@ -7,6 +7,7 @@ tags:
 aliases: ["Fight Through Oblivion"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7389"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Fight Through Oblivion  *Feat 20*

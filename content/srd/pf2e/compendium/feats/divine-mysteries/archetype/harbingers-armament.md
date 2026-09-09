@@ -7,6 +7,7 @@ tags:
 aliases: ["Harbinger's Armament"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7511"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Harbinger's Armament  *Feat 8*

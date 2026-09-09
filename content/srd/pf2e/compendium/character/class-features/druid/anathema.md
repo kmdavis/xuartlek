@@ -6,6 +6,7 @@ tags:
 aliases: ["Anathema"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=34"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Anathema  *Class Feature 1*

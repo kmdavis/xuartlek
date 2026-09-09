@@ -12,6 +12,7 @@ tags:
 aliases: ["Crowned in Tempest's Fury"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4219"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Crowned in Tempest's Fury  *Feat 18*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

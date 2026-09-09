@@ -8,6 +8,7 @@ tags:
 aliases: ["Oddity Identification"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5185"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Oddity Identification  *Feat 1*

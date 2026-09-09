@@ -9,6 +9,7 @@ tags:
 aliases: ["Potion of Flying"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2948"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Potion of Flying  *Item 8+*

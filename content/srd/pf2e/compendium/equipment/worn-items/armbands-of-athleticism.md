@@ -8,6 +8,7 @@ tags:
 aliases: ["Armbands of Athleticism"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3057"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Armbands of Athleticism  *Item 9+*

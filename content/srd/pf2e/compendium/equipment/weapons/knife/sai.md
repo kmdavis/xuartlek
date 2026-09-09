@@ -12,6 +12,7 @@ tags:
 aliases: ["Sai"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=416"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Sai  *Weapon 0*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Luck of the Clowder"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5559"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Luck of the Clowder  *Feat 9*

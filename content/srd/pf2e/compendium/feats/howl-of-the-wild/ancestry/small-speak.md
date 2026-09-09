@@ -7,6 +7,7 @@ tags:
 aliases: ["Small Speak"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5385"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Small Speak  *Feat 1*

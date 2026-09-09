@@ -8,6 +8,7 @@ tags:
 aliases: ["Teekdoon"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=32"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Teekdoon  *Siege Weapon 1*

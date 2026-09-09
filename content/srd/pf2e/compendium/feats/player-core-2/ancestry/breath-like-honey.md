@@ -8,6 +8,7 @@ tags:
 aliases: ["Breath Like Honey"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5604"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Breath Like Honey  *Feat 9*

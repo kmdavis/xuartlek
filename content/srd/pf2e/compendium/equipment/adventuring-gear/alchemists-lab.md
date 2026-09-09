@@ -6,6 +6,7 @@ tags:
 aliases: ["Alchemist's Lab"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2701"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Alchemist's Lab  *Item 0+*

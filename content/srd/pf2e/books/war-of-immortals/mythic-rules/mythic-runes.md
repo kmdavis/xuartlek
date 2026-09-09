@@ -9,6 +9,7 @@ tags:
 source: "War of Immortals"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3339"
 citation: "War of Immortals pg. 148"
+socialImage: og-image.png
 ---
 
 # Mythic Runes

@@ -8,6 +8,7 @@ tags:
 aliases: ["Legendary Performer"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5171"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Legendary Performer  *Feat 15*

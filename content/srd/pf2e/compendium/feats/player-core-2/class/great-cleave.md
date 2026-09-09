@@ -8,6 +8,7 @@ tags:
 aliases: ["Great Cleave"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5847"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Great Cleave  *Feat 10*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Call Ursine Ally"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4089"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Call Ursine Ally  *Feat 8*

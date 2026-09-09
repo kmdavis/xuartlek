@@ -7,6 +7,7 @@ tags:
 aliases: ["Devastating Manifestation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9354"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Devastating Manifestation  *Feat 14*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

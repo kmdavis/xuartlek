@@ -7,6 +7,7 @@ tags:
 aliases: ["Maul"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=388"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Maul  *Weapon 0*

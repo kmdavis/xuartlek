@@ -8,6 +8,7 @@ tags:
 aliases: ["Shameless Request"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5211"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Shameless Request  *Feat 7*

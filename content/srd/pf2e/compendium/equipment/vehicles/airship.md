@@ -7,6 +7,7 @@ tags:
 aliases: ["Airship"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=57"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Airship  *Vehicle 12*

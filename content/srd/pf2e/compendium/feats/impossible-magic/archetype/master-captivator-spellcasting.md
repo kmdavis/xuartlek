@@ -7,6 +7,7 @@ tags:
 aliases: ["Master Captivator Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9324"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Master Captivator Spellcasting  *Feat 16*

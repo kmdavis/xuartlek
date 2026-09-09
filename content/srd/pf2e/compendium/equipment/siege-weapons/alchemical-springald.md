@@ -8,6 +8,7 @@ tags:
 aliases: ["Alchemical Springald"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=10"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Alchemical Springald  *Siege Weapon 13*

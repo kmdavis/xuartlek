@@ -9,6 +9,7 @@ tags:
 aliases: ["Piercing Jab"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9272"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Piercing Jab  *Feat 14*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

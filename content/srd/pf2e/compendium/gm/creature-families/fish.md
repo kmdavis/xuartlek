@@ -5,6 +5,7 @@ tags:
 aliases: ["Fish"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=493"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Fish  *Creature Family*

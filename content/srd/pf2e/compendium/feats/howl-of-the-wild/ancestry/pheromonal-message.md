@@ -9,6 +9,7 @@ tags:
 aliases: ["Pheromonal Message"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5280"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Pheromonal Message  *Feat 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

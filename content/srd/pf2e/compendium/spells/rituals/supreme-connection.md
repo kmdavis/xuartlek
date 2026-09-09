@@ -7,6 +7,7 @@ tags:
 aliases: ["Supreme Connection"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=229"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Supreme Connection  *Ritual 7*

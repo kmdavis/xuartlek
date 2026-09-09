@@ -8,6 +8,7 @@ tags:
 aliases: ["Medic's Armband"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3972"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Medic's Armband  *Item 4+*

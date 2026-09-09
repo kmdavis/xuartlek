@@ -10,6 +10,7 @@ tags:
 aliases: ["Silver Tripod"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1235"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Silver Tripod  *Item 1*

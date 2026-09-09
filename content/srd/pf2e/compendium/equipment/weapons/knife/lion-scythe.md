@@ -10,6 +10,7 @@ tags:
 aliases: ["Lion Scythe"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=533"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Lion Scythe  *Weapon 0*

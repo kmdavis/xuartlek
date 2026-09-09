@@ -8,6 +8,7 @@ tags:
 aliases: ["Peer into the Past"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=261"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Peer into the Past  *Ritual 5*

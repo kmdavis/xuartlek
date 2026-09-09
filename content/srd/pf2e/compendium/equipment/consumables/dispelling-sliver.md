@@ -9,6 +9,7 @@ tags:
 aliases: ["Dispelling Sliver"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2969"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Dispelling Sliver  *Item 17*

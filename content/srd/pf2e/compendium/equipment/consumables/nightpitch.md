@@ -9,6 +9,7 @@ tags:
 aliases: ["Nightpitch"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2027"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Nightpitch  *Item 5*

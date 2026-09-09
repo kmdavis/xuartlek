@@ -8,6 +8,7 @@ tags:
 aliases: ["Steelheart 21"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=16"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Steelheart 21  *Siege Weapon 13*

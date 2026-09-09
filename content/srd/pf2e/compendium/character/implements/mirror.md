@@ -5,6 +5,7 @@ tags:
 aliases: ["Mirror"]
 aon_url: "https://2e.aonprd.com/Implements.aspx?ID=21"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mirror  *Thaumaturge Implement*

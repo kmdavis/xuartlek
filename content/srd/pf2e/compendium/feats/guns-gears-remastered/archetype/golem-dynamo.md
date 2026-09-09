@@ -8,6 +8,7 @@ tags:
 aliases: ["Golem Dynamo"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3132"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Golem Dynamo  *Feat 12*

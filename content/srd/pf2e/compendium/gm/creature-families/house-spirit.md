@@ -5,6 +5,7 @@ tags:
 aliases: ["House Spirit"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=601"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # House Spirit  *Creature Family*

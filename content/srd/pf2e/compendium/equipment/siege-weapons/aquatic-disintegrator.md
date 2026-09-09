@@ -9,6 +9,7 @@ tags:
 aliases: ["Aquatic Disintegrator"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=22"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Aquatic Disintegrator  *Siege Weapon 15*

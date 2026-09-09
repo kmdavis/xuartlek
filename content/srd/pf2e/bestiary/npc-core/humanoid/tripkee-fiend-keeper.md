@@ -11,6 +11,7 @@ name: "Tripkee Fiend Keeper"
 level: 7
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3675"
+socialImage: og-image.png
 ---
 
 ```statblock

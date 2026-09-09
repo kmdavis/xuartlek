@@ -6,6 +6,7 @@ tags:
 aliases: ["Surprise Doll"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3583"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Surprise Doll  *Item 1+*

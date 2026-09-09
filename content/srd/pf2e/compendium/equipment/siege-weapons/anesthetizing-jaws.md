@@ -10,6 +10,7 @@ tags:
 aliases: ["Anesthetizing Jaws"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=21"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Anesthetizing Jaws  *Siege Weapon 13*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Bridge of Graves"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9138"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Bridge of Graves  *Feat 12*

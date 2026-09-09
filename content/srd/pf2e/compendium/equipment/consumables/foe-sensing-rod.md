@@ -9,6 +9,7 @@ tags:
 aliases: ["Foe-Sensing Rod"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3882"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Foe-Sensing Rod  *Item 10*

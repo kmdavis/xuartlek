@@ -9,6 +9,7 @@ tags:
 aliases: ["Aeon Stone"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3055"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Aeon Stone  *Item 1+*

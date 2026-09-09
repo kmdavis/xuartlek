@@ -8,6 +8,7 @@ tags:
 aliases: ["Quicksand"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=493"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Quicksand  *Hazard 3*

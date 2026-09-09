@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/player-core
 aliases: ["Actions: Player Core"]
 entries: 114
+socialImage: og-image.png
 ---
 
 # Actions: Player Core
@@ -222,7 +223,7 @@ You attempt an Athletics check to move a maximum distance of 5 feet up, down, or
 
 `Auditory`  `Concentrate`  `Emotion`  `Exploration`  `Linguistic`  `Mental`
 
-With threats either veiled or overt, you attempt to bully a creature into doing what you want. You must spend at least 1 minute of conversation with the creature. At the end of the conversation, attempt an [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] check against the target's Will DC, modified by any circumstances the GM determines. (The attitudes referenced in the effects below are summarized in the Changing Attitudes sidebar and described in full in the [[srd/pf2e/books/player-core/conditions-appendix/index|Conditions Appendix]].)
+With threats either veiled or overt, you attempt to bully a creature into doing what you want. You must spend at least 1 minute of conversation with the creature. At the end of the conversation, attempt an [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] check against the target's Will DC, modified by any circumstances the GM determines. (The attitudes referenced in the effects below are summarized in the Changing Attitudes sidebar and described in full in the [[srd/pf2e/books/player-core/conditions-appendix/conditions-appendix|Conditions Appendix]].)
 
 **Critical Success** The target gives you the information you seek or agrees to follow your directives so long as they aren't likely to harm the target in any way. The target continues to comply for an amount of time determined by the GM but not exceeding 1 day, at which point the target becomes [[srd/pf2e/compendium/rules-elements/conditions#Unfriendly|unfriendly]] (if it wasn't already unfriendly or [[srd/pf2e/compendium/rules-elements/conditions#Hostile|hostile]]). However, the target is too scared of you to retaliate—at least in the short term.
 

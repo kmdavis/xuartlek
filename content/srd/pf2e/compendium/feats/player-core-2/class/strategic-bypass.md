@@ -7,6 +7,7 @@ tags:
 aliases: ["Strategic Bypass"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5969"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Strategic Bypass  *Feat 14*

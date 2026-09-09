@@ -7,6 +7,7 @@ tags:
 aliases: ["Ouroboros Flail"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5023"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Ouroboros Flail  *Item 14+*

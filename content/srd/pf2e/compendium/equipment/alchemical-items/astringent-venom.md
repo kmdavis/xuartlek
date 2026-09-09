@@ -11,6 +11,7 @@ tags:
 aliases: ["Astringent Venom"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1990"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Astringent Venom  *Item 12*

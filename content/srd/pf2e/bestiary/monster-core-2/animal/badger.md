@@ -10,6 +10,7 @@ name: "Badger"
 level: 0
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4276"
+socialImage: og-image.png
 ---
 
 ```statblock

@@ -8,6 +8,7 @@ tags:
 aliases: ["Overpowering Charge"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4829"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Overpowering Charge  *Feat 10*

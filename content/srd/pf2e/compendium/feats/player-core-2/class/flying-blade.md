@@ -7,6 +7,7 @@ tags:
 aliases: ["Flying Blade"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6130"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Flying Blade  *Feat 1*

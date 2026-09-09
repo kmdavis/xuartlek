@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/guns-gears-remastered
 aliases: ["Ways"]
 entries: 5
+socialImage: og-image.png
 ---
 
 # Ways

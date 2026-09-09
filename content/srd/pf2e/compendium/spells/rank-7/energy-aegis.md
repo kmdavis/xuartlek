@@ -8,6 +8,7 @@ tags:
 aliases: ["Energy Aegis"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1512"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Energy Aegis  *Spell 7*

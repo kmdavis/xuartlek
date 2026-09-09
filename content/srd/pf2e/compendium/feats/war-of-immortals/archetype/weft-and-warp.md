@@ -7,6 +7,7 @@ tags:
 aliases: ["Weft and Warp"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7384"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Weft and Warp  *Feat 16*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

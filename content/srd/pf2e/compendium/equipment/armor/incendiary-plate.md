@@ -9,6 +9,7 @@ tags:
 aliases: ["Incendiary Plate"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3814"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Incendiary Plate  *Item 20*

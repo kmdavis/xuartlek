@@ -9,6 +9,7 @@ tags:
 aliases: ["Growth Spell"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4348"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Growth Spell  *Feat 10*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

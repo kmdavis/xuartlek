@@ -7,6 +7,7 @@ tags:
 aliases: ["Vehicle Mechanic"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=113"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Vehicle Mechanic  *Archetype 2*

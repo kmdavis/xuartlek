@@ -8,6 +8,7 @@ tags:
 aliases: ["Artillerist Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3222"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Artillerist Dedication  *Feat 2*

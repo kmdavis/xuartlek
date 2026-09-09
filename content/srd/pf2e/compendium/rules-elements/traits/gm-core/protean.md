@@ -6,6 +6,7 @@ tags:
 aliases: ["Protean"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=678"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Protean  *Trait*

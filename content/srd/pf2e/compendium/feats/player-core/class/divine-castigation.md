@@ -7,6 +7,7 @@ tags:
 aliases: ["Divine Castigation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4643"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Divine Castigation  *Feat 1*

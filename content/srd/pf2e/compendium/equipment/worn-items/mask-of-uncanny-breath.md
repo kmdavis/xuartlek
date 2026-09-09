@@ -9,6 +9,7 @@ tags:
 aliases: ["Mask of Uncanny Breath"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2326"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mask of Uncanny Breath  *Item 11*

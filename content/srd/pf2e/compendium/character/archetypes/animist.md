@@ -6,6 +6,7 @@ tags:
 aliases: ["Animist"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=280"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Animist  *Archetype 2*

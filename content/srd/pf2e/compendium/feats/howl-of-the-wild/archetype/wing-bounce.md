@@ -7,6 +7,7 @@ tags:
 aliases: ["Wing Bounce"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5530"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Wing Bounce  *Feat 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

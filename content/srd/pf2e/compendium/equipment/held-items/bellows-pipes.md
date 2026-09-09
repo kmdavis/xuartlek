@@ -8,6 +8,7 @@ tags:
 aliases: ["Bellows Pipes"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3925"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Bellows Pipes  *Item 5*

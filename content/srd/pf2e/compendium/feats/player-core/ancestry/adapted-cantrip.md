@@ -7,6 +7,7 @@ tags:
 aliases: ["Adapted Cantrip"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4474"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Adapted Cantrip  *Feat 1*

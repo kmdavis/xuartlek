@@ -9,6 +9,7 @@ tags:
 aliases: ["Nullifier Sling"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=58"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Nullifier Sling  *Siege Weapon 11*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Light Hammer"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=384"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Light Hammer  *Weapon 0*

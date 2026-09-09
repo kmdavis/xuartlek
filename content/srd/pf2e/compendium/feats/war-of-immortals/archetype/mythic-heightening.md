@@ -10,6 +10,7 @@ tags:
 aliases: ["Mythic Heightening"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7421"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Mythic Heightening  *Feat 14*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
@@ -20,6 +21,6 @@ source: "War of Immortals"
 - **Frequency**: once per day
 - **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/wildspell-dedication|Wildspell Dedication]]
 
-You overload your minor spells to give them greater effect. Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/index|Mythic Point]]. If the next action you use is to [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a Spell]], that spell is heightened to the highest spell rank that you can cast. Any spell attack roll is made with mythic proficiency, and the spell’s DC is calculated with mythic proficiency. The spell slot used to cast the spell isn’t changed.
+You overload your minor spells to give them greater effect. Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]]. If the next action you use is to [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a Spell]], that spell is heightened to the highest spell rank that you can cast. Any spell attack roll is made with mythic proficiency, and the spell’s DC is calculated with mythic proficiency. The spell slot used to cast the spell isn’t changed.
 
 *Source: War of Immortals p. 139*

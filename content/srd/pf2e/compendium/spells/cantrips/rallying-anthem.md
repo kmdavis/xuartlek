@@ -13,6 +13,7 @@ tags:
 aliases: ["Rallying Anthem"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1773"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Rallying Anthem  *Cantrip 2*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

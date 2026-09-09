@@ -8,6 +8,7 @@ tags:
 aliases: ["Heavy Bombard"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=17"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Heavy Bombard  *Siege Weapon 9*

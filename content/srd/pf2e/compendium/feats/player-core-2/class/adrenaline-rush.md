@@ -8,6 +8,7 @@ tags:
 aliases: ["Adrenaline Rush"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5807"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Adrenaline Rush  *Feat 1*

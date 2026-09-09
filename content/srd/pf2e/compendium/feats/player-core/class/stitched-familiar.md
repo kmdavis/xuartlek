@@ -7,6 +7,7 @@ tags:
 aliases: ["Stitched Familiar"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5007"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Stitched Familiar  *Feat 8*

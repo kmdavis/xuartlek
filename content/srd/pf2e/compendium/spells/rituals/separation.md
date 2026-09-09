@@ -10,6 +10,7 @@ tags:
 aliases: ["Separation"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=267"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Separation  *Ritual 9*

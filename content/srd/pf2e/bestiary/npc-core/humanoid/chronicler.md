@@ -11,6 +11,7 @@ name: "Chronicler"
 level: 3
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3470"
+socialImage: og-image.png
 ---
 
 ```statblock

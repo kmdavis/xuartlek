@@ -7,6 +7,7 @@ tags:
 aliases: ["Advanced Death Dealing"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9298"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Advanced Death Dealing  *Feat 6*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Faithful Steed"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5885"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Faithful Steed  *Feat 1*

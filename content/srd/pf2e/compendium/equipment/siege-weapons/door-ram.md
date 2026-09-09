@@ -8,6 +8,7 @@ tags:
 aliases: ["Door Ram"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=6"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Door Ram  *Siege Weapon 2*

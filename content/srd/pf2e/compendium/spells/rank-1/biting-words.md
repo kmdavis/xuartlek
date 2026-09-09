@@ -12,6 +12,7 @@ tags:
 aliases: ["Biting Words"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2636"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Biting Words  *Spell 1*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

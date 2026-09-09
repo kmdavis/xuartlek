@@ -9,6 +9,7 @@ tags:
 aliases: ["Shark Tooth Charm"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2992"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Shark Tooth Charm  *Item 5*

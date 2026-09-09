@@ -7,6 +7,7 @@ tags:
 aliases: ["Field Propagandist"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=326"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Field Propagandist  *Archetype 2*

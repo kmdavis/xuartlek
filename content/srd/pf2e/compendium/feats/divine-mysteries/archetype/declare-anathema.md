@@ -9,6 +9,7 @@ tags:
 aliases: ["Declare Anathema"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7536"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Declare Anathema  *Feat 16*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

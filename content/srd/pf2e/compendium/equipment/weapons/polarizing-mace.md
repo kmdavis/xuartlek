@@ -8,6 +8,7 @@ tags:
 aliases: ["Polarizing Mace"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1875"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Polarizing Mace  *Item 10*

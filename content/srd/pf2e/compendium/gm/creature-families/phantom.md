@@ -5,6 +5,7 @@ tags:
 aliases: ["Phantom"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=455"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Phantom  *Creature Family*

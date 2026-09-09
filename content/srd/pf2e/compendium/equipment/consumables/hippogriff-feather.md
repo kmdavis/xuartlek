@@ -9,6 +9,7 @@ tags:
 aliases: ["Hippogriff Feather"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3259"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Hippogriff Feather  *Item 3*

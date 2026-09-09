@@ -7,6 +7,7 @@ tags:
 aliases: ["Hex Focus"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5013"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Hex Focus  *Feat 12*

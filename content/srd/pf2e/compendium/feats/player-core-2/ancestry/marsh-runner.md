@@ -7,6 +7,7 @@ tags:
 aliases: ["Marsh Runner"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5635"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Marsh Runner  *Feat 1*

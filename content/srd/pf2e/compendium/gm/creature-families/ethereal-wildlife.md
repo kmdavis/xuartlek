@@ -5,6 +5,7 @@ tags:
 aliases: ["Ethereal Wildlife"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=492"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Ethereal Wildlife  *Creature Family*

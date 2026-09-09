@@ -11,6 +11,7 @@ tags:
 aliases: ["Brine Dragon Scale"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2625"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Brine Dragon Scale  *Item 8*

@@ -12,6 +12,7 @@ tags:
 aliases: ["Fear Gem"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2975"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Fear Gem  *Item 4*

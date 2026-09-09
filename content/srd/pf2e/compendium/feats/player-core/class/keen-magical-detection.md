@@ -8,6 +8,7 @@ tags:
 aliases: ["Keen Magical Detection"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5043"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Keen Magical Detection  *Feat 12*

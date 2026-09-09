@@ -5,6 +5,7 @@ tags:
 aliases: ["Jaidi"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=406"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Jaidi  *Deity*

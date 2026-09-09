@@ -8,6 +8,7 @@ tags:
 aliases: ["Catfolk"]
 aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=77"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Catfolk  *Ancestry*

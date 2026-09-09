@@ -5,6 +5,7 @@ tags:
 aliases: ["Ratfolk"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=53"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Ratfolk  *Creature Adjustment*

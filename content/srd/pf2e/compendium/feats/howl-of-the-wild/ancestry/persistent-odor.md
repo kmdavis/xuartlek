@@ -8,6 +8,7 @@ tags:
 aliases: ["Persistent Odor"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5289"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Persistent Odor  *Feat 9*

@@ -13,6 +13,7 @@ name: "Danava Titan"
 level: 23
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4583"
+socialImage: og-image.png
 ---
 
 ```statblock

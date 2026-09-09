@@ -9,6 +9,7 @@ tags:
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3421"
 citation: "Battlecry! pg. 138"
+socialImage: og-image.png
 ---
 
 # Banners

@@ -7,6 +7,7 @@ tags:
 aliases: ["Bear Hug (Ursine Avenger)"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4088"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Bear Hug (Ursine Avenger)  *Feat 6*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

@@ -5,6 +5,7 @@ tags:
 aliases: ["Diplomacy"]
 aon_url: "https://2e.aonprd.com/Skills.aspx?ID=39"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Diplomacy  *Skill*

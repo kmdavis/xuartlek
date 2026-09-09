@@ -5,6 +5,7 @@ tags:
 aliases: ["Andoletta"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=464"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Andoletta  *Deity*

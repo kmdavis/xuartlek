@@ -11,6 +11,7 @@ tags:
 aliases: ["A Tale to Believe In"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7928"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # A Tale to Believe In  *Feat 8*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

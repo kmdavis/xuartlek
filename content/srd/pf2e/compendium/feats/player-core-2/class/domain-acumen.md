@@ -7,6 +7,7 @@ tags:
 aliases: ["Domain Acumen"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6059"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Domain Acumen  *Feat 2*

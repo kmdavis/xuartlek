@@ -10,6 +10,7 @@ tags:
 aliases: ["Spike Snare"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3385"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Spike Snare  *Item 1*

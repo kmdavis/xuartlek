@@ -10,6 +10,7 @@ tags:
 aliases: ["Unimpeded Stride"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1806"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Unimpeded Stride  *Focus 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

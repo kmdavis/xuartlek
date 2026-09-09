@@ -7,6 +7,7 @@ tags:
 aliases: ["Enhanced Glyph Familiar"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9176"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Enhanced Glyph Familiar  *Feat 2*

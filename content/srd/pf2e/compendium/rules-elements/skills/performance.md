@@ -5,6 +5,7 @@ tags:
 aliases: ["Performance"]
 aon_url: "https://2e.aonprd.com/Skills.aspx?ID=45"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Performance  *Skill*

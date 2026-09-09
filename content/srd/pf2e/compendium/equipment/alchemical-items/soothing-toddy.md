@@ -9,6 +9,7 @@ tags:
 aliases: ["Soothing Toddy"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1931"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Soothing Toddy  *Item 6*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Gird Champion"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7398"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Gird Champion  *Feat 16*

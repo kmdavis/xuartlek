@@ -5,6 +5,7 @@ tags:
 aliases: ["Chimera"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=489"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Chimera  *Creature Family*

@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/dark-archives-remastered
 aliases: ["Actions: Dark Archives (Remastered)"]
 entries: 16
+socialImage: og-image.png
 ---
 
 # Actions: Dark Archives (Remastered)

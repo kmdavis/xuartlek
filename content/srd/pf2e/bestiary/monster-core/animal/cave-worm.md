@@ -10,6 +10,7 @@ name: "Cave Worm"
 level: 13
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2871"
+socialImage: og-image.png
 ---
 
 ```statblock

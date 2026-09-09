@@ -9,6 +9,7 @@ tags:
 aliases: ["Rivethun Involutionist Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7588"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Rivethun Involutionist Dedication  *Feat 2*

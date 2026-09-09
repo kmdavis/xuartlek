@@ -8,6 +8,7 @@ tags:
 aliases: ["Quick Swim"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5200"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Quick Swim  *Feat 7*

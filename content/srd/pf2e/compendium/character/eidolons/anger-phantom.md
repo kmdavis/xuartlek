@@ -8,6 +8,7 @@ tags:
 aliases: ["Anger Phantom"]
 aon_url: "https://2e.aonprd.com/Eidolons.aspx?ID=16"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Anger Phantom  *Summoner Eidolon*

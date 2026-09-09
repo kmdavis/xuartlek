@@ -9,6 +9,7 @@ tags:
 aliases: ["Potion Of Stable Form"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5100"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Potion Of Stable Form  *Item 10+*

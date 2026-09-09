@@ -5,6 +5,7 @@ tags:
 aliases: ["Ravithra"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=620"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Ravithra  *Deity*

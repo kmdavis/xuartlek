@@ -8,6 +8,7 @@ tags:
 aliases: ["Brine May"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4530"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Brine May  *Feat 1*

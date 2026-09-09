@@ -9,6 +9,7 @@ tags:
 aliases: ["Five-feather Wreath"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5152"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Five-feather Wreath  *Item 4+*

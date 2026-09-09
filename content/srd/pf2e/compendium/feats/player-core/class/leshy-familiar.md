@@ -7,6 +7,7 @@ tags:
 aliases: ["Leshy Familiar"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4710"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Leshy Familiar  *Feat 1*

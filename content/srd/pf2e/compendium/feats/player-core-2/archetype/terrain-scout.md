@@ -7,6 +7,7 @@ tags:
 aliases: ["Terrain Scout"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6396"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Terrain Scout  *Feat 4*

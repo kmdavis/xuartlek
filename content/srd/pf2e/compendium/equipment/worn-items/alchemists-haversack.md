@@ -9,6 +9,7 @@ tags:
 aliases: ["Alchemist's Haversack"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2305"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Alchemist's Haversack  *Item 11*

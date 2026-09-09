@@ -10,6 +10,7 @@ tags:
 aliases: ["Tender Ministrations"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9329"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Tender Ministrations  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

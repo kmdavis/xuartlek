@@ -7,6 +7,7 @@ tags:
 aliases: ["Dueling Parry (Fighter)"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4781"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Dueling Parry (Fighter)  *Feat 2*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

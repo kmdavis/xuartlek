@@ -10,6 +10,7 @@ tags:
 aliases: ["Boneburst"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=464"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Boneburst  *Hazard 14*

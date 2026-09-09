@@ -7,6 +7,7 @@ tags:
 aliases: ["Crescent Cross Training"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7914"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Crescent Cross Training  *Feat 4*

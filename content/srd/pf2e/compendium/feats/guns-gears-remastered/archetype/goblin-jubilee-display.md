@@ -7,6 +7,7 @@ tags:
 aliases: ["Goblin Jubilee Display"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8532"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Goblin Jubilee Display  *Feat 10*

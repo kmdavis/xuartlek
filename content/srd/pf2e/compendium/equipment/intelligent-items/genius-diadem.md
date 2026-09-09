@@ -10,6 +10,7 @@ tags:
 aliases: ["Genius Diadem"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3125"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Genius Diadem  *Item 18*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Sivanah"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=358"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Sivanah  *Deity*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Read Omens"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1647"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Read Omens  *Spell 4*

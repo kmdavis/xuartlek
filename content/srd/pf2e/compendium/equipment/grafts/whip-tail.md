@@ -9,6 +9,7 @@ tags:
 aliases: ["Whip Tail"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3195"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Whip Tail  *Item 3+*

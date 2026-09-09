@@ -8,6 +8,7 @@ tags:
 aliases: ["Second Sting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4895"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Second Sting  *Feat 12*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

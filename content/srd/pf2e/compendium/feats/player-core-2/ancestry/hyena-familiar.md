@@ -8,6 +8,7 @@ tags:
 aliases: ["Hyena Familiar"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5591"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Hyena Familiar  *Feat 1*

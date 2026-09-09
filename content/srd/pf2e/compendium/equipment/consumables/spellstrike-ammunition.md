@@ -8,6 +8,7 @@ tags:
 aliases: ["Spellstrike Ammunition"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2927"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Spellstrike Ammunition  *Item 3+*

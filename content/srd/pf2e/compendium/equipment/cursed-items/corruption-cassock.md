@@ -13,6 +13,7 @@ tags:
 aliases: ["Corruption Cassock"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2376"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Corruption Cassock  *Item 11*

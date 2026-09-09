@@ -5,6 +5,7 @@ tags:
 aliases: ["Titivilus"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=530"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Titivilus  *Deity*

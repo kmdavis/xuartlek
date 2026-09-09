@@ -8,6 +8,7 @@ tags:
 aliases: ["All-seeing Eye"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5147"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # All-seeing Eye  *Item 3+*

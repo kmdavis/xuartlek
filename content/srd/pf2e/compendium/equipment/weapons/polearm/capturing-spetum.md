@@ -11,6 +11,7 @@ tags:
 aliases: ["Capturing Spetum"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=469"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Capturing Spetum  *Weapon 0*

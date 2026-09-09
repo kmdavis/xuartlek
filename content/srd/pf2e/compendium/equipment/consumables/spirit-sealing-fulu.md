@@ -10,6 +10,7 @@ tags:
 aliases: ["Spirit-sealing Fulu"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5083"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Spirit-sealing Fulu  *Item 3+*

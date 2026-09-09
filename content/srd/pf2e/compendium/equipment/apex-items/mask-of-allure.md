@@ -9,6 +9,7 @@ tags:
 aliases: ["Mask Of Allure"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5115"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Mask Of Allure  *Item 18*

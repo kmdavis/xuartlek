@@ -10,6 +10,7 @@ tags:
 aliases: ["Watcher's Armband"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3986"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Watcher's Armband  *Item 8*

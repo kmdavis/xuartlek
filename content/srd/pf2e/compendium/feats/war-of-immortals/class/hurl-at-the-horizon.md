@@ -8,6 +8,7 @@ tags:
 aliases: ["Hurl at the Horizon"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7158"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Hurl at the Horizon  *Feat 2*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Performer"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=546"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Performer  *Creature Family*

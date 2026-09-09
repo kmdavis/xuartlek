@@ -7,6 +7,7 @@ tags:
 aliases: ["Mobile Thralls"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9109"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Mobile Thralls  *Feat 4*

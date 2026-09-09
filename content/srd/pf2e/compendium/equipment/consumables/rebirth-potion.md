@@ -10,6 +10,7 @@ tags:
 aliases: ["Rebirth Potion"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2090"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Rebirth Potion  *Item 9*

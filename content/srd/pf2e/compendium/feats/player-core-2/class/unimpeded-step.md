@@ -7,6 +7,7 @@ tags:
 aliases: ["Unimpeded Step"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5889"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Unimpeded Step  *Feat 1*

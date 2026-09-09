@@ -7,6 +7,7 @@ tags:
 aliases: ["Mighty Bear"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4094"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mighty Bear  *Feat 18*

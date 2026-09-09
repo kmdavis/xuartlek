@@ -7,6 +7,7 @@ tags:
 aliases: ["Carried with the Swarm"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5469"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Carried with the Swarm  *Feat 8*

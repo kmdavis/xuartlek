@@ -9,6 +9,7 @@ tags:
 source: "Impossible Magic"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3684"
 citation: "Impossible Magic pg. 69"
+socialImage: og-image.png
 ---
 
 # Attribute Modifiers and Defenses

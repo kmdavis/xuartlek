@@ -10,6 +10,7 @@ tags:
 aliases: ["Pipes of Compulsion"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2269"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Pipes of Compulsion  *Item 4+*

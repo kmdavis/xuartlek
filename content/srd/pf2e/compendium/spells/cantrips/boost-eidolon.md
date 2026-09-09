@@ -10,6 +10,7 @@ tags:
 aliases: ["Boost Eidolon"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2913"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Boost Eidolon  *Cantrip 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

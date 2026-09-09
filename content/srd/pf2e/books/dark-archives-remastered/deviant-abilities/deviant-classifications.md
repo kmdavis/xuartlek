@@ -9,6 +9,7 @@ tags:
 source: "Dark Archives (Remastered)"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3505"
 citation: "Dark Archives (Remastered) pg. 99"
+socialImage: og-image.png
 ---
 
 # Deviant Classifications

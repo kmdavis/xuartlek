@@ -9,6 +9,7 @@ tags:
 aliases: ["Awesome Blow"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5862"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Awesome Blow  *Feat 14*

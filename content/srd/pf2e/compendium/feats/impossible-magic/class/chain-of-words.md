@@ -9,6 +9,7 @@ tags:
 aliases: ["Chain of Words"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9197"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Chain of Words  *Feat 10*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

@@ -5,6 +5,7 @@ tags:
 aliases: ["Nyarlathotep (Haunter in the Dark)"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=684"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Nyarlathotep (Haunter in the Dark)  *Deity*

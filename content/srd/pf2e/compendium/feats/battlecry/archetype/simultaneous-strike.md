@@ -8,6 +8,7 @@ tags:
 aliases: ["Simultaneous Strike"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7956"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Simultaneous Strike  *Feat 14*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

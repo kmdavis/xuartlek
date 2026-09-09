@@ -8,6 +8,7 @@ tags:
 aliases: ["Echoes in Stone"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4397"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Echoes in Stone  *Feat 9*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

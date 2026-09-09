@@ -9,6 +9,7 @@ tags:
 aliases: ["Fireproof"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1355"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Fireproof  *Spell 2*

@@ -11,6 +11,7 @@ tags:
 aliases: ["Orator's Fillibuster"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7927"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Orator's Fillibuster  *Feat 8*

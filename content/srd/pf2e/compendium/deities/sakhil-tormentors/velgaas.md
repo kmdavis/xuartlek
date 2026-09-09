@@ -5,6 +5,7 @@ tags:
 aliases: ["Velgaas"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=601"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Velgaas  *Deity*

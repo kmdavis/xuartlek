@@ -8,6 +8,7 @@ tags:
 aliases: ["Machete"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=516"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Machete  *Weapon 0*

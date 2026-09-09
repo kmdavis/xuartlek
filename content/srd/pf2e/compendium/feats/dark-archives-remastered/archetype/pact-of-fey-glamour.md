@@ -10,6 +10,7 @@ tags:
 aliases: ["Pact of Fey Glamour"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8465"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Pact of Fey Glamour  *Feat 4*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Improved Reflexive Shield"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4849"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Improved Reflexive Shield  *Feat 16*

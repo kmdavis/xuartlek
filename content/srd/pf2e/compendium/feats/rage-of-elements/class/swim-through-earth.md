@@ -10,6 +10,7 @@ tags:
 aliases: ["Swim Through Earth"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4230"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Swim Through Earth  *Feat 8*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

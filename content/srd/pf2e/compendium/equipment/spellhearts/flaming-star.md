@@ -9,6 +9,7 @@ tags:
 aliases: ["Flaming Star"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5153"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Flaming Star  *Item 3+*

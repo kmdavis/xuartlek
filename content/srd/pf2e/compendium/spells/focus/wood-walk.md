@@ -12,6 +12,7 @@ tags:
 aliases: ["Wood Walk"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2422"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Wood Walk  *Focus 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

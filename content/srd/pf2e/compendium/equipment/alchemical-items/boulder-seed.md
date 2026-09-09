@@ -10,6 +10,7 @@ tags:
 aliases: ["Boulder Seed"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1903"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Boulder Seed  *Item 12+*

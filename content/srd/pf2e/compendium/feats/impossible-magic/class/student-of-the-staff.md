@@ -7,6 +7,7 @@ tags:
 aliases: ["Student of the Staff"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9060"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Student of the Staff  *Feat 4*

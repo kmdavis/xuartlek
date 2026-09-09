@@ -7,6 +7,7 @@ tags:
 aliases: ["Elven Weapon Familiarity"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4407"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Elven Weapon Familiarity  *Feat 1*

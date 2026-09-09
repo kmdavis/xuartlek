@@ -8,6 +8,7 @@ tags:
 aliases: ["Wolf Fang"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=68"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Wolf Fang  *Siege Weapon 5*

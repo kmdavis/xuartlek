@@ -6,6 +6,7 @@ tags:
 aliases: ["Hex"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=624"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Hex  *Trait*

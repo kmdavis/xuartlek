@@ -9,6 +9,7 @@ tags:
 aliases: ["Herald's Strike"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7554"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Herald's Strike  *Feat 20*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

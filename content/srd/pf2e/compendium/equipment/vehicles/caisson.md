@@ -7,6 +7,7 @@ tags:
 aliases: ["Caisson"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=98"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Caisson  *Vehicle 4*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Monstrosity Shape"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4760"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Monstrosity Shape  *Feat 16*

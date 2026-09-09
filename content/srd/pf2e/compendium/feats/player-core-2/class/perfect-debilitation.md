@@ -7,6 +7,7 @@ tags:
 aliases: ["Perfect Debilitation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5802"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Perfect Debilitation  *Feat 18*

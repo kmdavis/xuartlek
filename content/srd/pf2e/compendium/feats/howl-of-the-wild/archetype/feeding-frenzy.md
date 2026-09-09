@@ -7,6 +7,7 @@ tags:
 aliases: ["Feeding Frenzy"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5495"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Feeding Frenzy  *Feat 6*

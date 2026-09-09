@@ -9,6 +9,7 @@ tags:
 aliases: ["Avenger Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7232"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Avenger Dedication  *Feat 2*

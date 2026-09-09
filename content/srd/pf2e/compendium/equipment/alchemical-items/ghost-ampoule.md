@@ -13,6 +13,7 @@ tags:
 aliases: ["Ghost Ampoule"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1948"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Ghost Ampoule  *Item 4*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Briar Battler"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5623"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Briar Battler  *Feat 9*

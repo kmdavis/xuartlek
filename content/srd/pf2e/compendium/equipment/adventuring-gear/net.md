@@ -6,6 +6,7 @@ tags:
 aliases: ["Net"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2738"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Net  *Item 0*

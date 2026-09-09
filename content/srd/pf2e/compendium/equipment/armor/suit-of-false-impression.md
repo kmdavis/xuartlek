@@ -10,6 +10,7 @@ tags:
 aliases: ["Suit Of False Impression"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4985"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Suit Of False Impression  *Item 6*

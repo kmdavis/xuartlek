@@ -7,6 +7,7 @@ tags:
 aliases: ["Advanced Concoction"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6187"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Advanced Concoction  *Feat 6*

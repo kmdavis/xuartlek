@@ -9,6 +9,7 @@ tags:
 aliases: ["Explosive Dust"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2694"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Explosive Dust  *Spell 2*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

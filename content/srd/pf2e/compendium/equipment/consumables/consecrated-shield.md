@@ -9,6 +9,7 @@ tags:
 aliases: ["Consecrated Shield"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5045"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Consecrated Shield  *Item 7*

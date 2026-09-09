@@ -6,6 +6,7 @@ tags:
 aliases: ["Bounty Hunter"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=243"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Bounty Hunter  *Archetype 2*

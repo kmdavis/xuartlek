@@ -9,6 +9,7 @@ tags:
 aliases: ["Wand of Pernicious Poison"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2286"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wand of Pernicious Poison  *Item 4+*

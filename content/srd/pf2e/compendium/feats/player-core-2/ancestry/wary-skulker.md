@@ -7,6 +7,7 @@ tags:
 aliases: ["Wary Skulker"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5562"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Wary Skulker  *Feat 9*

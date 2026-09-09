@@ -5,6 +5,7 @@ tags:
 aliases: ["Ma’at"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=518"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Ma’at  *Deity*

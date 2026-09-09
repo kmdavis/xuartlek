@@ -7,6 +7,7 @@ tags:
 aliases: ["Constant Levitation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8343"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Constant Levitation  *Feat 16*

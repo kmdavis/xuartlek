@@ -6,6 +6,7 @@ tags:
 aliases: ["Tengu"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=776"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Tengu  *Trait*

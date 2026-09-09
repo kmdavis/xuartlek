@@ -7,6 +7,7 @@ tags:
 aliases: ["Advanced Qi Spells"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5998"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Advanced Qi Spells  *Feat 6*

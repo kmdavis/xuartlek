@@ -10,6 +10,7 @@ tags:
 aliases: ["Receive Prayers"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7395"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Receive Prayers  *Feat 14*

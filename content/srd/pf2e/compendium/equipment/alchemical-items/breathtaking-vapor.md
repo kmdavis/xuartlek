@@ -11,6 +11,7 @@ tags:
 aliases: ["Breathtaking Vapor"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1993"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Breathtaking Vapor  *Item 17*

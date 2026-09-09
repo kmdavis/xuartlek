@@ -7,6 +7,7 @@ tags:
 aliases: ["Sneak Adept"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4964"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Sneak Adept  *Feat 10*

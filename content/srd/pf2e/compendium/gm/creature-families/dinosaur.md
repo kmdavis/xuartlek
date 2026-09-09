@@ -5,6 +5,7 @@ tags:
 aliases: ["Dinosaur"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=391"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Dinosaur  *Creature Family*

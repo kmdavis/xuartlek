@@ -5,6 +5,7 @@ tags:
 aliases: ["Sifkesh"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=437"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Sifkesh  *Deity*

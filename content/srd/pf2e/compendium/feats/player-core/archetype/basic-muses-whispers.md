@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Muse's Whispers"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5059"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Basic Muse's Whispers  *Feat 4*

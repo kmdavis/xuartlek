@@ -7,6 +7,7 @@ tags:
 aliases: ["Arise, ye Worthy!"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7215"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Arise, ye Worthy!  *Feat 13*

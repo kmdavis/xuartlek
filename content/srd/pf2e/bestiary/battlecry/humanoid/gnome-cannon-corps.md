@@ -12,6 +12,7 @@ name: "Gnome Cannon Corps"
 level: 7
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3919"
+socialImage: og-image.png
 ---
 
 ```statblock

@@ -9,6 +9,7 @@ tags:
 aliases: ["Trick Driver Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3140"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Trick Driver Dedication  *Feat 2*

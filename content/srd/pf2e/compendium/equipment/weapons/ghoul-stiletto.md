@@ -7,6 +7,7 @@ tags:
 aliases: ["Ghoul Stiletto"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1886"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Ghoul Stiletto  *Item 3*

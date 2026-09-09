@@ -7,6 +7,7 @@ tags:
 aliases: ["Deadly Grace"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6175"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Deadly Grace  *Feat 16*

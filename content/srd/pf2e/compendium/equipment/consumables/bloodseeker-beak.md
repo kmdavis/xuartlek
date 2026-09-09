@@ -9,6 +9,7 @@ tags:
 aliases: ["Bloodseeker Beak"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2965"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Bloodseeker Beak  *Item 4+*

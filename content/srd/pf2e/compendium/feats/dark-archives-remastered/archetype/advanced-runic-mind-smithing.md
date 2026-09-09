@@ -7,6 +7,7 @@ tags:
 aliases: ["Advanced Runic Mind-Smithing"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8514"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Advanced Runic Mind-Smithing  *Feat 16*

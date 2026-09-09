@@ -7,6 +7,7 @@ tags:
 aliases: ["Ageless Patience"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4412"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Ageless Patience  *Feat 5*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Ardande"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=498"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Ardande  *Trait*

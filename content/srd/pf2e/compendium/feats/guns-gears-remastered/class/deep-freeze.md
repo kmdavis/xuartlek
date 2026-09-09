@@ -9,6 +9,7 @@ tags:
 aliases: ["Deep Freeze"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3075"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Deep Freeze  *Feat 12*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

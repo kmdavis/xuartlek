@@ -6,6 +6,7 @@ tags:
 aliases: ["General"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=615"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # General  *Trait*

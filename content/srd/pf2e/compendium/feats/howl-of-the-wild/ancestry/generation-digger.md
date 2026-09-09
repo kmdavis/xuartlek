@@ -7,6 +7,7 @@ tags:
 aliases: ["Generation Digger"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5395"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Generation Digger  *Feat 13*

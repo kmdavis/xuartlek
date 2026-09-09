@@ -7,6 +7,7 @@ tags:
 aliases: ["Surging Blood Magic"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7245"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Surging Blood Magic  *Feat 12*

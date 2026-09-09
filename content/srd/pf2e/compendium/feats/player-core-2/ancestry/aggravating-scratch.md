@@ -8,6 +8,7 @@ tags:
 aliases: ["Aggravating Scratch"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5557"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Aggravating Scratch  *Feat 9*

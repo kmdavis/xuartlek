@@ -10,6 +10,7 @@ tags:
 aliases: ["Wall of Shrubs"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1414"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Wall of Shrubs  *Spell 1*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

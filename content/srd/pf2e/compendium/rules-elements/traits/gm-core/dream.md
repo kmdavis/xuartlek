@@ -6,6 +6,7 @@ tags:
 aliases: ["Dream"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=582"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Dream  *Trait*

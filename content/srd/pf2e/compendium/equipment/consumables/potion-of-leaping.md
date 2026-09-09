@@ -9,6 +9,7 @@ tags:
 aliases: ["Potion of Leaping"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2949"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Potion of Leaping  *Item 5*

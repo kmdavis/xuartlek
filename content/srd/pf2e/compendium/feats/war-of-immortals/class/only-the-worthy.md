@@ -8,6 +8,7 @@ tags:
 aliases: ["Only the Worthy"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7161"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Only the Worthy  *Feat 4*

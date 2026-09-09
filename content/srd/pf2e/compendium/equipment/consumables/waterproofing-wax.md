@@ -9,6 +9,7 @@ tags:
 aliases: ["Waterproofing Wax"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5070"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Waterproofing Wax  *Item 3*

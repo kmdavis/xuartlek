@@ -5,6 +5,7 @@ tags:
 aliases: ["Jotunborn"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=603"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Jotunborn  *Creature Family*

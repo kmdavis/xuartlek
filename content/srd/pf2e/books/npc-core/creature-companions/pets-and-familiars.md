@@ -9,6 +9,7 @@ tags:
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3371"
 citation: "NPC Core pg. 216"
+socialImage: og-image.png
 ---
 
 # Pets and Familiars

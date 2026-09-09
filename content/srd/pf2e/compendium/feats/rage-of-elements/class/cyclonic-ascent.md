@@ -10,6 +10,7 @@ tags:
 aliases: ["Cyclonic Ascent"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4214"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Cyclonic Ascent  *Feat 8*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

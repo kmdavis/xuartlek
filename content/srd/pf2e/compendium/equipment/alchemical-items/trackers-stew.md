@@ -9,6 +9,7 @@ tags:
 aliases: ["Tracker's Stew"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1933"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Tracker's Stew  *Item 3*

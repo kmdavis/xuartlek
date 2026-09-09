@@ -7,6 +7,7 @@ tags:
 aliases: ["Hardened Chassis"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9400"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Hardened Chassis  *Feat 5*

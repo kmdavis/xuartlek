@@ -7,6 +7,7 @@ tags:
 aliases: ["Blank Slate"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4979"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Blank Slate  *Feat 16*

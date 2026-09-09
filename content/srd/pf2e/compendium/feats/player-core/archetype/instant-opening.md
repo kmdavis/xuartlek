@@ -8,6 +8,7 @@ tags:
 aliases: ["Instant Opening"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4976"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Instant Opening  *Feat 14*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

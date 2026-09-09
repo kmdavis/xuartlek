@@ -8,6 +8,7 @@ tags:
 aliases: ["Admiral's Bicorne"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3954"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Admiral's Bicorne  *Item 10*

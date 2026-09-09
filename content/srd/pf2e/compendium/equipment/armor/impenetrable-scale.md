@@ -9,6 +9,7 @@ tags:
 aliases: ["Impenetrable Scale"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2806"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Impenetrable Scale  *Item 17*

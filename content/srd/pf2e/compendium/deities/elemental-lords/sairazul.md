@@ -5,6 +5,7 @@ tags:
 aliases: ["Sairazul"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=694"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Sairazul  *Deity*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Archaeologist Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6246"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Archaeologist Dedication  *Feat 2*

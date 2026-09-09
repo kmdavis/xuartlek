@@ -8,6 +8,7 @@ tags:
 aliases: ["Felicitous Riposte"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6176"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Felicitous Riposte  *Feat 16*

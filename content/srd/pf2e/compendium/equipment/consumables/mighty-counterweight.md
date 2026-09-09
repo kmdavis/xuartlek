@@ -9,6 +9,7 @@ tags:
 aliases: ["Mighty Counterweight"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3888"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Mighty Counterweight  *Item 4*

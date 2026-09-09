@@ -9,6 +9,7 @@ tags:
 aliases: ["Shifting Sand"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2365"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Shifting Sand  *Spell 3*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

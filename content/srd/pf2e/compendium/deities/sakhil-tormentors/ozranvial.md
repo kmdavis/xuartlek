@@ -5,6 +5,7 @@ tags:
 aliases: ["Ozranvial"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=599"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Ozranvial  *Deity*

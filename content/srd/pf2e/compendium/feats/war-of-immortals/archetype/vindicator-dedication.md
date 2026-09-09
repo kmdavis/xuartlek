@@ -9,6 +9,7 @@ tags:
 aliases: ["Vindicator Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7256"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Vindicator Dedication  *Feat 2*

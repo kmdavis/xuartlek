@@ -8,6 +8,7 @@ tags:
 aliases: ["Frost"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2839"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Frost  *Item 8+*

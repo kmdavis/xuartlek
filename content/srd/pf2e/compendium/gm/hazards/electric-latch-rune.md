@@ -9,6 +9,7 @@ tags:
 aliases: ["Electric Latch Rune"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=468"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Electric Latch Rune  *Hazard 3*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Redirecting Draft"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5536"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Redirecting Draft  *Feat 10*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

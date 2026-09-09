@@ -10,6 +10,7 @@ tags:
 aliases: ["Frost Furs"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3812"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Frost Furs  *Item 14*

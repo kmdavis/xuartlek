@@ -11,6 +11,7 @@ tags:
 aliases: ["Snowdrift Spell"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4727"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Snowdrift Spell  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

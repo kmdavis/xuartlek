@@ -5,6 +5,7 @@ tags:
 aliases: ["Hobgoblin"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=430"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Hobgoblin  *Creature Family*

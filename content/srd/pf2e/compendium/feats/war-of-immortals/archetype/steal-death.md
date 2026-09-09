@@ -8,6 +8,7 @@ tags:
 aliases: ["Steal Death"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7311"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Steal Death  *Feat 16*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

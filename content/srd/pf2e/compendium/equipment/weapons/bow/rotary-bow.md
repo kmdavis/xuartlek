@@ -7,6 +7,7 @@ tags:
 aliases: ["Rotary Bow"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=338"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Rotary Bow  *Weapon 0*

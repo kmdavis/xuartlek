@@ -9,6 +9,7 @@ tags:
 aliases: ["Bivouac Targe"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3826"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Bivouac Targe  *Item 2*

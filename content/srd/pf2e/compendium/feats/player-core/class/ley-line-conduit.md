@@ -11,6 +11,7 @@ tags:
 aliases: ["Ley Line Conduit"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4766"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Ley Line Conduit  *Feat 20*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

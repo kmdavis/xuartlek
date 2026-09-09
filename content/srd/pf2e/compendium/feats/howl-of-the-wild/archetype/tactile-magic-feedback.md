@@ -7,6 +7,7 @@ tags:
 aliases: ["Tactile Magic Feedback"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5453"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Tactile Magic Feedback  *Feat 4*

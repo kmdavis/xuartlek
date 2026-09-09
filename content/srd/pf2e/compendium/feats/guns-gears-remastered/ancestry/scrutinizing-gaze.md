@@ -8,6 +8,7 @@ tags:
 aliases: ["Scrutinizing Gaze"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3291"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Scrutinizing Gaze  *Feat 13*

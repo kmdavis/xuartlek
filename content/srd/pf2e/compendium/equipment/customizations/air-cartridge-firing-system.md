@@ -7,6 +7,7 @@ tags:
 aliases: ["Air Cartridge Firing System"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1220"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Air Cartridge Firing System  *Item 4*

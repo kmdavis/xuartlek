@@ -13,6 +13,7 @@ tags:
 aliases: ["Barrier of Boreal Frost"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4278"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Barrier of Boreal Frost  *Feat 14*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

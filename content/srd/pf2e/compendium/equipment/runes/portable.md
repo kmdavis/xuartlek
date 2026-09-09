@@ -7,6 +7,7 @@ tags:
 aliases: ["Portable"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1835"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Portable  *Item 9*

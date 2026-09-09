@@ -8,6 +8,7 @@ tags:
 aliases: ["Blade Brake"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4778"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Blade Brake  *Feat 2*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

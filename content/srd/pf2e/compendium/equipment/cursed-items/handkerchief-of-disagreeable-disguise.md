@@ -10,6 +10,7 @@ tags:
 aliases: ["Handkerchief of Disagreeable Disguise"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2381"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Handkerchief of Disagreeable Disguise  *Item 2+*

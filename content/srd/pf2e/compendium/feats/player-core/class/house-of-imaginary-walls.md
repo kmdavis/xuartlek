@@ -7,6 +7,7 @@ tags:
 aliases: ["House of Imaginary Walls"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4612"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # House of Imaginary Walls  *Feat 10*

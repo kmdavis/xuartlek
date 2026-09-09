@@ -9,6 +9,7 @@ tags:
 aliases: ["Prognostic Veil"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3436"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Prognostic Veil  *Item 10+*

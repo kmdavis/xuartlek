@@ -7,6 +7,7 @@ tags:
 aliases: ["Rebounding Smite"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4695"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Rebounding Smite  *Feat 16*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

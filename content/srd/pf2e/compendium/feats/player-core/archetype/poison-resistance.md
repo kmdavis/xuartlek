@@ -8,6 +8,7 @@ tags:
 aliases: ["Poison Resistance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4719"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Poison Resistance  *Feat 2*

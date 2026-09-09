@@ -9,6 +9,7 @@ tags:
 aliases: ["Dazzling Block"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9072"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Dazzling Block  *Feat 10*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

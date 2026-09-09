@@ -11,6 +11,7 @@ tags:
 aliases: ["Break Curse"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5128"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Break Curse  *Feat 7*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Aura of Despair"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5895"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Aura of Despair  *Feat 4*

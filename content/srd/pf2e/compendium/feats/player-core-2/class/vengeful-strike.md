@@ -8,6 +8,7 @@ tags:
 aliases: ["Vengeful Strike"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5866"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Vengeful Strike  *Feat 14*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

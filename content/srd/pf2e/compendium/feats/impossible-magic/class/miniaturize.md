@@ -8,6 +8,7 @@ tags:
 aliases: ["Miniaturize"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9256"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Miniaturize  *Feat 8*

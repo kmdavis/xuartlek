@@ -7,6 +7,7 @@ tags:
 aliases: ["Nodal Regeneration"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5398"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Nodal Regeneration  *Feat 17*

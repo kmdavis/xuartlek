@@ -7,6 +7,7 @@ tags:
 aliases: ["Spirit Window"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=637"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Spirit Window  *Hazard 20*

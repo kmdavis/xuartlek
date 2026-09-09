@@ -7,6 +7,7 @@ tags:
 aliases: ["Combination Finisher"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6153"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Combination Finisher  *Feat 6*

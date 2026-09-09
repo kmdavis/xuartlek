@@ -8,6 +8,7 @@ tags:
 aliases: ["Book Of Endless Walls"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5122"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Book Of Endless Walls  *Item 14*

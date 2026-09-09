@@ -8,6 +8,7 @@ tags:
 aliases: ["Vine Arrow"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2929"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Vine Arrow  *Item 3*

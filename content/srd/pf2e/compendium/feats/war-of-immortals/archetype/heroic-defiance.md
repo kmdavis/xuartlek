@@ -7,6 +7,7 @@ tags:
 aliases: ["Heroic Defiance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7262"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Heroic Defiance  *Feat 4*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

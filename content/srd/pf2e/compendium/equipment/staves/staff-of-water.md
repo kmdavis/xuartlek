@@ -8,6 +8,7 @@ tags:
 aliases: ["Staff of Water"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2262"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Staff of Water  *Item 3+*

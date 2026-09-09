@@ -5,6 +5,7 @@ tags:
 aliases: ["Dagon"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=429"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Dagon  *Deity*

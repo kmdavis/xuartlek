@@ -10,6 +10,7 @@ tags:
 aliases: ["Bag of Weasels"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3128"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Bag of Weasels  *Item 4*

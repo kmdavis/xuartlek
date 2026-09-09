@@ -7,6 +7,7 @@ tags:
 aliases: ["Sanguine Klar"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1859"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sanguine Klar  *Item 9+*

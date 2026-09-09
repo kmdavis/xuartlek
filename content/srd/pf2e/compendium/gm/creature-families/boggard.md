@@ -5,6 +5,7 @@ tags:
 aliases: ["Boggard"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=373"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Boggard  *Creature Family*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Giant Scorpion Venom"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3335"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Giant Scorpion Venom  *Item 6*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Underground Network"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6514"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Underground Network  *Feat 2*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Sack"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2749"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Sack  *Item 0*

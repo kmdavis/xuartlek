@@ -8,6 +8,7 @@ tags:
 aliases: ["Magnetic Shot"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2054"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Magnetic Shot  *Item 7+*

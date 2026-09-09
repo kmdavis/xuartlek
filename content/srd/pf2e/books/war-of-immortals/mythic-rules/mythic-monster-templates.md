@@ -9,6 +9,7 @@ tags:
 source: "War of Immortals"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3340"
 citation: "War of Immortals pg. 168"
+socialImage: og-image.png
 ---
 
 # Mythic Monster Templates

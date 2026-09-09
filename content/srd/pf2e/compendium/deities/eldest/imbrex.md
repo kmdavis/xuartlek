@@ -5,6 +5,7 @@ tags:
 aliases: ["Imbrex"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=454"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Imbrex  *Deity*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Book of Warding Prayers"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2172"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Book of Warding Prayers  *Item 8*

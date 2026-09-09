@@ -12,6 +12,7 @@ tags:
 aliases: ["Ommatophoric Mutagen"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3236"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Ommatophoric Mutagen  *Item 7*

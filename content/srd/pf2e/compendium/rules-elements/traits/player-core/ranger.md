@@ -6,6 +6,7 @@ tags:
 aliases: ["Ranger"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=682"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Ranger  *Trait*

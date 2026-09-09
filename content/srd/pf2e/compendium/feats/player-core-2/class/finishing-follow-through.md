@@ -7,6 +7,7 @@ tags:
 aliases: ["Finishing Follow-through"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6140"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Finishing Follow-through  *Feat 2*

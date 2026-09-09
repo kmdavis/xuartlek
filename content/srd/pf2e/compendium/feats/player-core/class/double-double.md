@@ -7,6 +7,7 @@ tags:
 aliases: ["Double, Double"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5009"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Double, Double  *Feat 10*

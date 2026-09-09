@@ -7,6 +7,7 @@ tags:
 aliases: ["Snare Genius"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5620"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Snare Genius  *Feat 5*

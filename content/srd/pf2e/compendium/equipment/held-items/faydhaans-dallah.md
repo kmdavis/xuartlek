@@ -8,6 +8,7 @@ tags:
 aliases: ["Faydhaan's Dallah"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2627"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Faydhaan's Dallah  *Item 14*

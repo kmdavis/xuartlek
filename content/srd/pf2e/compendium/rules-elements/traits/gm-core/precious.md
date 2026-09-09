@@ -6,6 +6,7 @@ tags:
 aliases: ["Precious"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=673"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Precious  *Trait*

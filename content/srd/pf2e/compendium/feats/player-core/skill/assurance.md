@@ -9,6 +9,7 @@ tags:
 aliases: ["Assurance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5121"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Assurance  *Feat 1*

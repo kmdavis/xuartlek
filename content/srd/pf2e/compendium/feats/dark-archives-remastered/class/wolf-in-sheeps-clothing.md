@@ -7,6 +7,7 @@ tags:
 aliases: ["Wolf in Sheep's Clothing"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8417"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wolf in Sheep's Clothing  *Feat 4*

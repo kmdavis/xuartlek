@@ -7,6 +7,7 @@ tags:
 aliases: ["Unrivaled Analysis"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7814"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Unrivaled Analysis  *Feat 8*

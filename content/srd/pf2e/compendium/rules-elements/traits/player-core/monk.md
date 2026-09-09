@@ -6,6 +6,7 @@ tags:
 aliases: ["Monk"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=656"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Monk  *Trait*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Transcendence"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=842"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Transcendence  *Trait*

@@ -12,6 +12,7 @@ name: "Conscript Squad"
 level: 3
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3523"
+socialImage: og-image.png
 ---
 
 ```statblock

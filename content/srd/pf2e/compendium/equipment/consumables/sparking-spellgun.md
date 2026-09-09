@@ -11,6 +11,7 @@ tags:
 aliases: ["Sparking Spellgun"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2125"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sparking Spellgun  *Item 5+*

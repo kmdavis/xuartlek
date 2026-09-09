@@ -7,6 +7,7 @@ tags:
 aliases: ["Blade Launcher"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1096"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Blade Launcher  *Item 1*

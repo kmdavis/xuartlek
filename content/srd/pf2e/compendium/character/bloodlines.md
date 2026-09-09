@@ -5,6 +5,7 @@ tags:
 - compendium/src/pf2e/player-core-2
 aliases: ["Bloodlines"]
 entries: 11
+socialImage: og-image.png
 ---
 
 # Bloodlines

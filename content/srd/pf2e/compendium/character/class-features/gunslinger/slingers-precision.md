@@ -6,6 +6,7 @@ tags:
 aliases: ["Slinger's Precision"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=20"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Slinger's Precision  *Class Feature 1*

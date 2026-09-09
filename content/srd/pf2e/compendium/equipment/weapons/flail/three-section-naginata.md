@@ -11,6 +11,7 @@ tags:
 aliases: ["Three-Section Naginata"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=305"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Three-Section Naginata  *Weapon 0*

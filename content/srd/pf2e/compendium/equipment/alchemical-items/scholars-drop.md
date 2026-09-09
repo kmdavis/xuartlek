@@ -9,6 +9,7 @@ tags:
 aliases: ["Scholar's Drop"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1929"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Scholar's Drop  *Item 6*

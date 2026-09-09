@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/impossible-magic
 aliases: ["Runesmith Runes"]
 entries: 44
+socialImage: og-image.png
 ---
 
 # Runesmith Runes

@@ -8,6 +8,7 @@ tags:
 aliases: ["Create Undead"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=117"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Create Undead  *Ritual 2*

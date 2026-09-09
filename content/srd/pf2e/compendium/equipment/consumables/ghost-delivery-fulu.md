@@ -9,6 +9,7 @@ tags:
 aliases: ["Ghost Delivery Fulu"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2035"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Ghost Delivery Fulu  *Item 8*

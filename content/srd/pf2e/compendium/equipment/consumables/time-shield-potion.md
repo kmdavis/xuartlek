@@ -9,6 +9,7 @@ tags:
 aliases: ["Time Shield Potion"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2959"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Time Shield Potion  *Item 13*

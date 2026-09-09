@@ -7,6 +7,7 @@ tags:
 aliases: ["Inescapable Grasp"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6456"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Inescapable Grasp  *Feat 12*

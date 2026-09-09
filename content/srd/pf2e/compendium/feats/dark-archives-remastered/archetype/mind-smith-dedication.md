@@ -8,6 +8,7 @@ tags:
 aliases: ["Mind Smith Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8504"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mind Smith Dedication  *Feat 2*

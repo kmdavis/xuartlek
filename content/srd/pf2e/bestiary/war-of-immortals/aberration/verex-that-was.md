@@ -12,6 +12,7 @@ name: "Verex-That-Was"
 level: 24
 source: "War of Immortals"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3409"
+socialImage: og-image.png
 ---
 
 ```statblock

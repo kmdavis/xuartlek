@@ -6,6 +6,7 @@ tags:
 aliases: ["Giant"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=616"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Giant  *Trait*

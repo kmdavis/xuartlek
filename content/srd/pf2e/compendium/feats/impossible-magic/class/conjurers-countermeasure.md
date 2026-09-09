@@ -7,6 +7,7 @@ tags:
 aliases: ["Conjurer's Countermeasure"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9061"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Conjurer's Countermeasure  *Feat 6*

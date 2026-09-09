@@ -7,6 +7,7 @@ tags:
 aliases: ["Animal Elocutionist"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4423"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Animal Elocutionist  *Feat 1*

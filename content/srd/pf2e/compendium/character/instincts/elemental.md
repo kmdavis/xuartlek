@@ -5,6 +5,7 @@ tags:
 aliases: ["Elemental"]
 aon_url: "https://2e.aonprd.com/Instincts.aspx?ID=7"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Elemental  *Barbarian Instinct*

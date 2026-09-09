@@ -8,6 +8,7 @@ tags:
 aliases: ["Fresh Ingredients"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6340"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Fresh Ingredients  *Feat 2*

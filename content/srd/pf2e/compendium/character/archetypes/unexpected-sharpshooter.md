@@ -7,6 +7,7 @@ tags:
 aliases: ["Unexpected Sharpshooter"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=123"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Unexpected Sharpshooter  *Archetype 2*

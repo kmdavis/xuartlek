@@ -7,6 +7,7 @@ tags:
 aliases: ["Shared Prey"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4899"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Shared Prey  *Feat 14*

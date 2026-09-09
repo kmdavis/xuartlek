@@ -9,6 +9,7 @@ tags:
 aliases: ["North Wind's Night Verse"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5022"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # North Wind's Night Verse  *Item 10*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Forgefather's Seal"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3120"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Forgefather's Seal  *Item 24*

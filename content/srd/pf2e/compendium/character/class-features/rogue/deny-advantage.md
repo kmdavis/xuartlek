@@ -6,6 +6,7 @@ tags:
 aliases: ["Deny Advantage"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=37"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Deny Advantage  *Class Feature 3*

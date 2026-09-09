@@ -9,6 +9,7 @@ tags:
 aliases: ["Monstrous Inclinations"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7148"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Monstrous Inclinations  *Feat 16*

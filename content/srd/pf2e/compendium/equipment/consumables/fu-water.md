@@ -10,6 +10,7 @@ tags:
 aliases: ["Fu Water"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5087"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Fu Water  *Item 5*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Fancy Moves"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6334"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Fancy Moves  *Feat 4*

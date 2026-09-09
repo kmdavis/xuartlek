@@ -9,6 +9,7 @@ tags:
 aliases: ["Codex of Destruction and Renewal"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2173"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Codex of Destruction and Renewal  *Item 20*

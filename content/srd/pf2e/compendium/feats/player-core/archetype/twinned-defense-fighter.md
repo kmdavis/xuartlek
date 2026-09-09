@@ -8,6 +8,7 @@ tags:
 aliases: ["Twinned Defense (Fighter)"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4853"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Twinned Defense (Fighter)  *Feat 16*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

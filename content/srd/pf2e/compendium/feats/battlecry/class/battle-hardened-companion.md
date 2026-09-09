@@ -7,6 +7,7 @@ tags:
 aliases: ["Battle-Hardened Companion"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7815"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Battle-Hardened Companion  *Feat 10*

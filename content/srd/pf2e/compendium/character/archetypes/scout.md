@@ -6,6 +6,7 @@ tags:
 aliases: ["Scout"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=261"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Scout  *Archetype 2*

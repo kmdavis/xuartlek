@@ -7,6 +7,7 @@ tags:
 aliases: ["Master Beast Gunner Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3234"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Master Beast Gunner Spellcasting  *Feat 18*

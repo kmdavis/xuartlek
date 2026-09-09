@@ -8,6 +8,7 @@ tags:
 aliases: ["Staff of the Tempest"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3423"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Staff of the Tempest  *Item 6+*

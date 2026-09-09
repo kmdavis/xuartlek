@@ -8,6 +8,7 @@ tags:
 aliases: ["First to Strike, First to Fall"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5609"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # First to Strike, First to Fall  *Feat 17*

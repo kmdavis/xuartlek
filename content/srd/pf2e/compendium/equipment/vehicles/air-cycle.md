@@ -7,6 +7,7 @@ tags:
 aliases: ["Air Cycle"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=88"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Air Cycle  *Vehicle 4*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Rapid Spark"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7178"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Rapid Spark  *Feat 12*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

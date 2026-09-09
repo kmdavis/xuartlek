@@ -7,6 +7,7 @@ tags:
 aliases: ["Occult Breadth"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5063"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Occult Breadth  *Feat 8*

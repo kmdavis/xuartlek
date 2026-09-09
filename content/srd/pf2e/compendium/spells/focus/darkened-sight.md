@@ -12,6 +12,7 @@ tags:
 aliases: ["Darkened Sight"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1791"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Darkened Sight  *Focus 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

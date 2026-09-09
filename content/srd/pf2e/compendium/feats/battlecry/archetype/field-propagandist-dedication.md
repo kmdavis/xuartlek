@@ -9,6 +9,7 @@ tags:
 aliases: ["Field Propagandist Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7922"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Field Propagandist Dedication  *Feat 2*

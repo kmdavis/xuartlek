@@ -6,6 +6,7 @@ tags:
 aliases: ["Bastion"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=240"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Bastion  *Archetype 2*

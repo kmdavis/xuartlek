@@ -8,6 +8,7 @@ tags:
 aliases: ["Mirror Goggles"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2315"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mirror Goggles  *Item 5+*

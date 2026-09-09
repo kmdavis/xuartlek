@@ -6,6 +6,7 @@ tags:
 aliases: ["Caligni"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=745"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Caligni  *Trait*

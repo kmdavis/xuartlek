@@ -9,6 +9,7 @@ tags:
 aliases: ["Obsidian Edge"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2606"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Obsidian Edge  *Item 6+*

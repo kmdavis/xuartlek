@@ -7,6 +7,7 @@ tags:
 aliases: ["World Rouser"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=396"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # World Rouser  *Archetype 2*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Kelizandri"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=690"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Kelizandri  *Deity*

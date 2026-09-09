@@ -9,6 +9,7 @@ tags:
 aliases: ["Rhinoceros Mask"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2352"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Rhinoceros Mask  *Item 4+*

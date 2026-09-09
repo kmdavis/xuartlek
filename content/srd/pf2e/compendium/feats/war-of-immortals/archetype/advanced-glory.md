@@ -7,6 +7,7 @@ tags:
 aliases: ["Advanced Glory"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7229"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Advanced Glory  *Feat 6*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Clone Mirrors"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=638"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Clone Mirrors  *Hazard 6*

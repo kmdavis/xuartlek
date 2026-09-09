@@ -10,12 +10,13 @@ tags:
 aliases: ["Mythic Casting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7300"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Mythic Casting  *Feat 10*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
 `Mythic`  `Spellshape`  `Uncommon`  `Metamagic`
 
-You can infuse mythic power directly into your spells to make them exceptionally potent. Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/index|Mythic Point]]; if the next action you use is to [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a Spell]], use mythic proficiency to determine your [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Spell Attack Rolls|spell attack rolls]] and save DC for that spell.
+You can infuse mythic power directly into your spells to make them exceptionally potent. Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-rules|Mythic Point]]; if the next action you use is to [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a Spell]], use mythic proficiency to determine your [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Spell Attack Rolls|spell attack rolls]] and save DC for that spell.
 
 *Source: War of Immortals p. 84*

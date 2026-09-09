@@ -7,6 +7,7 @@ tags:
 aliases: ["Gossip Lore"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6304"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Gossip Lore  *Feat 4*

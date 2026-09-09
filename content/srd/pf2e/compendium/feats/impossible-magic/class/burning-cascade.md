@@ -7,6 +7,7 @@ tags:
 aliases: ["Burning Cascade"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9051"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Burning Cascade  *Feat 4*

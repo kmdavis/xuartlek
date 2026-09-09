@@ -8,6 +8,7 @@ tags:
 aliases: ["Homeward Bound"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4437"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Homeward Bound  *Feat 17*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Dragon"]
 aon_url: "https://2e.aonprd.com/Instincts.aspx?ID=9"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Dragon  *Barbarian Instinct*

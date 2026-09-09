@@ -9,6 +9,7 @@ tags:
 aliases: ["Wand of Smoldering Fireballs"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3428"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Wand of Smoldering Fireballs  *Item 8+*

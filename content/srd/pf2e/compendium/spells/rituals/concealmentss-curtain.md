@@ -9,6 +9,7 @@ tags:
 aliases: ["Concealments's Curtain"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=249"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Concealments's Curtain  *Ritual 4*

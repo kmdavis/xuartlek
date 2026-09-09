@@ -9,6 +9,7 @@ tags:
 aliases: ["Hexing Jar"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2324"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Hexing Jar  *Item 11*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Time Mage"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=348"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Time Mage  *Archetype 6*

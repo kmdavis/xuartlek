@@ -7,6 +7,7 @@ tags:
 aliases: ["Nighthawk"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=94"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Nighthawk  *Vehicle 10*

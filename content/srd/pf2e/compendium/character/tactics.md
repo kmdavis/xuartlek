@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/battlecry
 aliases: ["Tactics"]
 entries: 32
+socialImage: og-image.png
 ---
 
 # Tactics

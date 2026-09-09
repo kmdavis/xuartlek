@@ -9,6 +9,7 @@ tags:
 aliases: ["Beacon of the Wilds"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3907"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Beacon of the Wilds  *Item 14*

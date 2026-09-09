@@ -7,6 +7,7 @@ tags:
 aliases: ["Improved Familiar"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6331"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Improved Familiar  *Feat 6*

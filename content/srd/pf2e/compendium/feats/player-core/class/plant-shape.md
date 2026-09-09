@@ -7,6 +7,7 @@ tags:
 aliases: ["Plant Shape"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4744"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Plant Shape  *Feat 10*

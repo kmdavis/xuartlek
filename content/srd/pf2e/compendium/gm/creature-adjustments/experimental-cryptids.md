@@ -5,6 +5,7 @@ tags:
 aliases: ["Experimental Cryptids"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=56"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Experimental Cryptids  *Creature Adjustment*

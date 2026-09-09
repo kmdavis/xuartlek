@@ -8,6 +8,7 @@ tags:
 aliases: ["Inveigle"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=150"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Inveigle  *Ritual 2*

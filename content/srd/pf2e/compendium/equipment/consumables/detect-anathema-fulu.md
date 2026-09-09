@@ -11,6 +11,7 @@ tags:
 aliases: ["Detect Anathema Fulu"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5072"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Detect Anathema Fulu  *Item 8*

@@ -9,6 +9,7 @@ tags:
 source: "Treasure Vault (Remastered)"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=1913"
 citation: "Treasure Vault (Remastered) pg. 136"
+socialImage: og-image.png
 ---
 
 # Coda Instruments

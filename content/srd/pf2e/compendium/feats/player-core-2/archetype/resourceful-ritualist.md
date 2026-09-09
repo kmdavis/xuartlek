@@ -8,6 +8,7 @@ tags:
 aliases: ["Resourceful Ritualist"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6390"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Resourceful Ritualist  *Feat 6*

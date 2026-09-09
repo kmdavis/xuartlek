@@ -7,6 +7,7 @@ tags:
 aliases: ["Dwarven Weapon Familiarity"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4389"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Dwarven Weapon Familiarity  *Feat 1*

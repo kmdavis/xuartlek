@@ -8,6 +8,7 @@ tags:
 aliases: ["Fulu Compendium"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5088"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Fulu Compendium  *Item 9*

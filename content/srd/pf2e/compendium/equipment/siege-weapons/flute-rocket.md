@@ -8,6 +8,7 @@ tags:
 aliases: ["Flute Rocket"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=53"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Flute Rocket  *Siege Weapon 16*

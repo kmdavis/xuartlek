@@ -10,6 +10,7 @@ tags:
 aliases: ["Perfected Robes"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2364"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Perfected Robes  *Item 22*

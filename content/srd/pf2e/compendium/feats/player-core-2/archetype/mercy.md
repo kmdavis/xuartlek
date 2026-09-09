@@ -7,6 +7,7 @@ tags:
 aliases: ["Mercy"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5897"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Mercy  *Feat 4*

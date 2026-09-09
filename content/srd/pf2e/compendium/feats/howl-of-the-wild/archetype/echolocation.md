@@ -7,6 +7,7 @@ tags:
 aliases: ["Echolocation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5493"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Echolocation  *Feat 6*

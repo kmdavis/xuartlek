@@ -10,6 +10,7 @@ tags:
 aliases: ["Herd Mask"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2349"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Herd Mask  *Item 6*

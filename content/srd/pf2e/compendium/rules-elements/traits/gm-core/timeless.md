@@ -6,6 +6,7 @@ tags:
 aliases: ["Timeless"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=713"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Timeless  *Trait*

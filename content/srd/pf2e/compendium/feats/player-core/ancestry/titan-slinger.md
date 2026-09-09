@@ -7,6 +7,7 @@ tags:
 aliases: ["Titan Slinger"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4462"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Titan Slinger  *Feat 1*

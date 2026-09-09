@@ -7,6 +7,7 @@ tags:
 aliases: ["Telluric Power"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4402"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Telluric Power  *Feat 13*

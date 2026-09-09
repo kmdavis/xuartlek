@@ -8,6 +8,7 @@ tags:
 aliases: ["Ricochet Stance (Fighter)"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4805"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Ricochet Stance (Fighter)  *Feat 6*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

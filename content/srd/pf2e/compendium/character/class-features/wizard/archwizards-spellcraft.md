@@ -6,6 +6,7 @@ tags:
 aliases: ["Archwizard's Spellcraft"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=39"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Archwizard's Spellcraft  *Class Feature 19*

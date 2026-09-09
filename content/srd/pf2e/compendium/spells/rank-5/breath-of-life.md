@@ -10,6 +10,7 @@ tags:
 aliases: ["Breath of Life"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1456"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Breath of Life  *Spell 5*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

@@ -7,6 +7,7 @@ tags:
 aliases: ["Between the Scales"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5622"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Between the Scales  *Feat 9*

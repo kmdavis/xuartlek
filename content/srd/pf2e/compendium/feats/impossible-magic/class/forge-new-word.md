@@ -7,6 +7,7 @@ tags:
 aliases: ["Forge New Word"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9217"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Forge New Word  *Feat 20*

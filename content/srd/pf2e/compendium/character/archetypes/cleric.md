@@ -6,6 +6,7 @@ tags:
 aliases: ["Cleric"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=212"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Cleric  *Archetype 2*

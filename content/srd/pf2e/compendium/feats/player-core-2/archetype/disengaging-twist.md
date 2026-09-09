@@ -7,6 +7,7 @@ tags:
 aliases: ["Disengaging Twist"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6447"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Disengaging Twist  *Feat 4*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

@@ -7,6 +7,7 @@ tags:
 aliases: ["Conjurer of Corpses"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9118"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Conjurer of Corpses  *Feat 6*

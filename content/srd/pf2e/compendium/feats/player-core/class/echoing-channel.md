@@ -11,6 +11,7 @@ tags:
 aliases: ["Echoing Channel"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4699"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Echoing Channel  *Feat 18*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

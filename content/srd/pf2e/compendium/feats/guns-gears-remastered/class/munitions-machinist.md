@@ -7,6 +7,7 @@ tags:
 aliases: ["Munitions Machinist"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3172"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Munitions Machinist  *Feat 6*

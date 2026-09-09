@@ -5,6 +5,7 @@ tags:
 aliases: ["Lamia"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=436"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Lamia  *Creature Family*

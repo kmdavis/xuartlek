@@ -7,6 +7,7 @@ tags:
 aliases: ["Cloaking Pulse"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5455"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Cloaking Pulse  *Feat 6*

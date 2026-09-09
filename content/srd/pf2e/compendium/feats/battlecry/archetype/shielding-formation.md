@@ -7,6 +7,7 @@ tags:
 aliases: ["Shielding Formation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7982"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Shielding Formation  *Feat 8*

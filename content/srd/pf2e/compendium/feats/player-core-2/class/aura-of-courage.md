@@ -7,6 +7,7 @@ tags:
 aliases: ["Aura of Courage"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5894"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Aura of Courage  *Feat 4*

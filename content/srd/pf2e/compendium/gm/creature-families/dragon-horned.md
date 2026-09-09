@@ -5,6 +5,7 @@ tags:
 aliases: ["Dragon, Horned"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=401"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Dragon, Horned  *Creature Family*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Deflecting Wave"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4266"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Deflecting Wave  *Feat 1*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

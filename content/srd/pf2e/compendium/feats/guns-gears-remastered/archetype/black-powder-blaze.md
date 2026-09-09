@@ -7,6 +7,7 @@ tags:
 aliases: ["Black Powder Blaze"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3237"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Black Powder Blaze  *Feat 8*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

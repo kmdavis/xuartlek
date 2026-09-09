@@ -7,6 +7,7 @@ tags:
 aliases: ["Shield Of Endurance"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5003"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Shield Of Endurance  *Item 9*

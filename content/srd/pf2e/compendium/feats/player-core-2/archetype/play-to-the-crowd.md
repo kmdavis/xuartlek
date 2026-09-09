@@ -8,6 +8,7 @@ tags:
 aliases: ["Play to the Crowd"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6335"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Play to the Crowd  *Feat 4*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

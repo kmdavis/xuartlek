@@ -5,6 +5,7 @@ tags:
 aliases: ["Sandbound"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=27"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Sandbound  *Creature Adjustment*

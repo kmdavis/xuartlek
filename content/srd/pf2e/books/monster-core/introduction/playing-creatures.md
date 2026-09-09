@@ -9,6 +9,7 @@ tags:
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3259"
 citation: "Monster Core pg. 5"
+socialImage: og-image.png
 ---
 
 # Playing Creatures

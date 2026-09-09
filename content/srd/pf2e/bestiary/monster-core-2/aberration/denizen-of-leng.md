@@ -11,6 +11,7 @@ name: "Denizen Of Leng"
 level: 8
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4323"
+socialImage: og-image.png
 ---
 
 ```statblock

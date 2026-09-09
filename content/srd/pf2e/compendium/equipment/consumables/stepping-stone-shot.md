@@ -9,6 +9,7 @@ tags:
 aliases: ["Stepping Stone Shot"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1198"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Stepping Stone Shot  *Item 7+*

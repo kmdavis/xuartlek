@@ -7,6 +7,7 @@ tags:
 aliases: ["Protect the Royal Line"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7411"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Protect the Royal Line  *Feat 16*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

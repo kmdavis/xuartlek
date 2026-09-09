@@ -10,6 +10,7 @@ tags:
 aliases: ["Metal Reverberation"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2767"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Metal Reverberation  *Spell 2*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

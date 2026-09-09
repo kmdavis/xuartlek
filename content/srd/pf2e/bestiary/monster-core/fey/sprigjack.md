@@ -12,6 +12,7 @@ name: "Sprigjack"
 level: -1
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3221"
+socialImage: og-image.png
 ---
 
 ```statblock

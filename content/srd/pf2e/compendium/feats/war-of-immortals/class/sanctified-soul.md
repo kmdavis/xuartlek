@@ -7,6 +7,7 @@ tags:
 aliases: ["Sanctified Soul"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7155"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Sanctified Soul  *Feat 1*

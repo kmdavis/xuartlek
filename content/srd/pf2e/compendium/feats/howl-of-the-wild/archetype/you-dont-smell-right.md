@@ -7,6 +7,7 @@ tags:
 aliases: ["You Don't Smell Right"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5502"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # You Don't Smell Right  *Feat 8*

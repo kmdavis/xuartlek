@@ -9,6 +9,7 @@ tags:
 aliases: ["Potency Crystal"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2989"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Potency Crystal  *Item 1+*

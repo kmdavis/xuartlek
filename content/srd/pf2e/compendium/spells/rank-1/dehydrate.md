@@ -9,6 +9,7 @@ tags:
 aliases: ["Dehydrate"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1351"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Dehydrate  *Spell 1*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

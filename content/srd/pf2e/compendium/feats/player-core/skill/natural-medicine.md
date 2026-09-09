@@ -8,6 +8,7 @@ tags:
 aliases: ["Natural Medicine"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5182"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Natural Medicine  *Feat 1*

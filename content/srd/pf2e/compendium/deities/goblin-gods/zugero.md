@@ -5,6 +5,7 @@ tags:
 aliases: ["Zugero"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=509"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Zugero  *Deity*

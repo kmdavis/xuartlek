@@ -10,6 +10,7 @@ tags:
 aliases: ["Wand of Tormented Slumber"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2295"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wand of Tormented Slumber  *Item 10*

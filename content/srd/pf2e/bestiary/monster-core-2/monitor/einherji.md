@@ -11,6 +11,7 @@ name: "Einherji"
 level: 10
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4016"
+socialImage: og-image.png
 ---
 
 ```statblock

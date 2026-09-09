@@ -9,6 +9,7 @@ tags:
 aliases: ["Tracing Bond"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2849"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Tracing Bond  *Spell 2*

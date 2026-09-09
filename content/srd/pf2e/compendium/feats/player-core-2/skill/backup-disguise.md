@@ -8,6 +8,7 @@ tags:
 aliases: ["Backup Disguise"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6463"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Backup Disguise  *Feat 2*

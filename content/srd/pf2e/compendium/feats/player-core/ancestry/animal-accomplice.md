@@ -7,6 +7,7 @@ tags:
 aliases: ["Animal Accomplice"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4422"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Animal Accomplice  *Feat 1*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Hat Of Many Minds"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5186"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Hat Of Many Minds  *Item 12*

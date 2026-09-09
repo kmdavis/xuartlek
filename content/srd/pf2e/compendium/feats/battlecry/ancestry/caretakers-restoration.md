@@ -7,6 +7,7 @@ tags:
 aliases: ["Caretaker's Restoration"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7770"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Caretaker's Restoration  *Feat 1*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

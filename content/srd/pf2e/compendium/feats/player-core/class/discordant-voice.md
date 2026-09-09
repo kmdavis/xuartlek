@@ -8,6 +8,7 @@ tags:
 aliases: ["Discordant Voice"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4634"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Discordant Voice  *Feat 18*

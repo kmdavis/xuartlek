@@ -7,6 +7,7 @@ tags:
 aliases: ["Distracting Feint"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4925"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Distracting Feint  *Feat 2*

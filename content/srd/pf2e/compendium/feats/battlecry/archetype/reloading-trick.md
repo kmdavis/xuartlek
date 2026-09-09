@@ -9,6 +9,7 @@ tags:
 aliases: ["Reloading Trick"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7917"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Reloading Trick  *Feat 6*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

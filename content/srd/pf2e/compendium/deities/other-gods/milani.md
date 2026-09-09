@@ -5,6 +5,7 @@ tags:
 aliases: ["Milani"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=352"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Milani  *Deity*

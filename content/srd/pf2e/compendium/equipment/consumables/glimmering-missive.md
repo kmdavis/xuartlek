@@ -10,6 +10,7 @@ tags:
 aliases: ["Glimmering Missive"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2062"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Glimmering Missive  *Item 4*

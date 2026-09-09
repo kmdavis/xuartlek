@@ -8,6 +8,7 @@ tags:
 aliases: ["Perfect Shot"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4910"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Perfect Shot  *Feat 18*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

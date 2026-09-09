@@ -10,6 +10,7 @@ tags:
 aliases: ["Key to the Stomach"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4151"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Key to the Stomach  *Item 9*

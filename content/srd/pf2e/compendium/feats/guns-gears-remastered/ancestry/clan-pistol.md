@@ -8,6 +8,7 @@ tags:
 aliases: ["Clan Pistol"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3281"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Clan Pistol  *Feat 1*

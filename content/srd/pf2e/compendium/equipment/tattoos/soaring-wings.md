@@ -9,6 +9,7 @@ tags:
 aliases: ["Soaring Wings"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2216"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Soaring Wings  *Item 9+*

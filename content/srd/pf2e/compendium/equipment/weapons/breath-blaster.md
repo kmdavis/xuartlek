@@ -8,6 +8,7 @@ tags:
 aliases: ["Breath Blaster"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1165"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Breath Blaster  *Item 8+*

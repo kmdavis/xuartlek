@@ -9,6 +9,7 @@ tags:
 aliases: ["Tectonic Stomp"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8041"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Tectonic Stomp  *Feat 10*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

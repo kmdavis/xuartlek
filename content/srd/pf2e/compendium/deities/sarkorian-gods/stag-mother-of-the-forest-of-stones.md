@@ -5,6 +5,7 @@ tags:
 aliases: ["Stag Mother of the Forest of Stones"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=609"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Stag Mother of the Forest of Stones  *Deity*

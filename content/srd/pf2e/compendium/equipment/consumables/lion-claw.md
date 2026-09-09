@@ -9,6 +9,7 @@ tags:
 aliases: ["Lion Claw"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5104"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Lion Claw  *Item 11*

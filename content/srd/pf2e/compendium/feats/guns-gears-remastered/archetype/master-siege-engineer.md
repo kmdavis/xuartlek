@@ -7,6 +7,7 @@ tags:
 aliases: ["Master Siege Engineer"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3228"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Master Siege Engineer  *Feat 16*

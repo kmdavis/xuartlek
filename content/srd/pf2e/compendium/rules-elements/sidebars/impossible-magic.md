@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/impossible-magic
 aliases: ["Sidebars: Impossible Magic"]
 entries: 11
+socialImage: og-image.png
 ---
 
 # Sidebars: Impossible Magic

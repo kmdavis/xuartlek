@@ -7,6 +7,7 @@ tags:
 aliases: ["Expanded Glossary"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9204"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Expanded Glossary  *Feat 12*

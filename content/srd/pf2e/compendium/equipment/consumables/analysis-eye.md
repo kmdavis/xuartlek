@@ -9,6 +9,7 @@ tags:
 aliases: ["Analysis Eye"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3875"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Analysis Eye  *Item 4*

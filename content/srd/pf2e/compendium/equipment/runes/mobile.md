@@ -7,6 +7,7 @@ tags:
 aliases: ["Mobile"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4991"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Mobile  *Item 5*

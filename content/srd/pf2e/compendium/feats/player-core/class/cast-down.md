@@ -10,6 +10,7 @@ tags:
 aliases: ["Cast Down"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4661"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Cast Down  *Feat 6*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

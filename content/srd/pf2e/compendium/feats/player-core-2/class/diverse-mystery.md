@@ -7,6 +7,7 @@ tags:
 aliases: ["Diverse Mystery"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6082"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Diverse Mystery  *Feat 16*

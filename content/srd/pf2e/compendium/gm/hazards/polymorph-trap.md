@@ -8,6 +8,7 @@ tags:
 aliases: ["Polymorph Trap"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=479"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Polymorph Trap  *Hazard 12*

@@ -6,6 +6,7 @@ tags:
 aliases: ["Monitor"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=655"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Monitor  *Trait*

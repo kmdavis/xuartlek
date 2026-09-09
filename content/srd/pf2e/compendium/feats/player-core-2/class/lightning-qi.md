@@ -7,6 +7,7 @@ tags:
 aliases: ["Lightning Qi"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6052"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Lightning Qi  *Feat 20*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

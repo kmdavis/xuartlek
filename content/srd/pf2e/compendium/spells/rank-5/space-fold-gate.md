@@ -10,6 +10,7 @@ tags:
 aliases: ["Space Fold Gate"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2822"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Space Fold Gate  *Spell 5*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

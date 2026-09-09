@@ -14,6 +14,7 @@ tags:
 aliases: ["Fresh Produce"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4281"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Fresh Produce  *Feat 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

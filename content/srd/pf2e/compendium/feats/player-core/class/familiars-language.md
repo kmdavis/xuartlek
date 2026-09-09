@@ -7,6 +7,7 @@ tags:
 aliases: ["Familiar's Language"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4998"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Familiar's Language  *Feat 2*

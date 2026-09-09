@@ -8,6 +8,7 @@ tags:
 aliases: ["Frog Tongue"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1953"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Frog Tongue  *Spell 2*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

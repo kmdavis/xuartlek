@@ -8,6 +8,7 @@ tags:
 aliases: ["Rapid Affixture"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6497"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Rapid Affixture  *Feat 7*

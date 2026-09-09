@@ -7,6 +7,7 @@ tags:
 aliases: ["Time Jump"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2843"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Time Jump  *Spell 3*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

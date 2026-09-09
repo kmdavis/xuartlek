@@ -11,6 +11,7 @@ tags:
 aliases: ["Aether Blast"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9340"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Aether Blast  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

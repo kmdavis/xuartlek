@@ -8,6 +8,7 @@ tags:
 aliases: ["Combat Climber"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5134"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Combat Climber  *Feat 1*

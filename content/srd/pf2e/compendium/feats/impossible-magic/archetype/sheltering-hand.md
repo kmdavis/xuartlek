@@ -8,6 +8,7 @@ tags:
 aliases: ["Sheltering Hand"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9380"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Sheltering Hand  *Feat 6*  [?](books/player-core/chapter-8-playing-the-game/actions#Actions "Varies")

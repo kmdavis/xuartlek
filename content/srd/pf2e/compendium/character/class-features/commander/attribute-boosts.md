@@ -6,6 +6,7 @@ tags:
 aliases: ["Attribute Boosts"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=66"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Attribute Boosts  *Class Feature 1*

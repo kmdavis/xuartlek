@@ -10,6 +10,7 @@ tags:
 aliases: ["Cryptic Spell"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8416"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Cryptic Spell  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

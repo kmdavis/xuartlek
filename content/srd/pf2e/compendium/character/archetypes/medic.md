@@ -6,6 +6,7 @@ tags:
 aliases: ["Medic"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=257"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Medic  *Archetype 2*

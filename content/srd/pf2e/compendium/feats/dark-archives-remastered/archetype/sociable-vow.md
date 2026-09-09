@@ -8,6 +8,7 @@ tags:
 aliases: ["Sociable Vow"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8464"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sociable Vow  *Feat 4*

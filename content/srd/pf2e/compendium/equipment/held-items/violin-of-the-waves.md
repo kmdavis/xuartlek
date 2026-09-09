@@ -9,6 +9,7 @@ tags:
 aliases: ["Violin of the Waves"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2199"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Violin of the Waves  *Item 9*

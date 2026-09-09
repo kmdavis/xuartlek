@@ -10,6 +10,7 @@ tags:
 aliases: ["Read Aura"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1646"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Read Aura  *Cantrip 1*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Eyes of Night"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5715"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Eyes of Night  *Feat 1*

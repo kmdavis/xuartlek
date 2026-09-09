@@ -11,6 +11,7 @@ tags:
 aliases: ["Energy Mutagen"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1962"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Energy Mutagen  *Item 1+*

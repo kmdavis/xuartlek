@@ -7,6 +7,7 @@ tags:
 aliases: ["Bullseye"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4949"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Bullseye  *Feat 8*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

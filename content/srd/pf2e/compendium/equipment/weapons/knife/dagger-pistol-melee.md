@@ -13,6 +13,7 @@ tags:
 aliases: ["Dagger Pistol (Melee)"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=216"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Dagger Pistol (Melee)  *Weapon 0*

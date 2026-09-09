@@ -9,6 +9,7 @@ tags:
 aliases: ["Transmuting Ingot"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3897"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Transmuting Ingot  *Item 1+*

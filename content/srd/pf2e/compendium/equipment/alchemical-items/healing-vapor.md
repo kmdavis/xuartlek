@@ -9,6 +9,7 @@ tags:
 aliases: ["Healing Vapor"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1941"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Healing Vapor  *Item 4+*

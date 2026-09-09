@@ -9,6 +9,7 @@ tags:
 aliases: ["Rivethun Invoker Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7581"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Rivethun Invoker Dedication  *Feat 2*

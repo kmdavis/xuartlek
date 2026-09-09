@@ -9,6 +9,7 @@ tags:
 aliases: ["Feather Step Stone"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2976"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Feather Step Stone  *Item 3*

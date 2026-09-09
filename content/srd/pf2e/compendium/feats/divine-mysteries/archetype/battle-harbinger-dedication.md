@@ -9,6 +9,7 @@ tags:
 aliases: ["Battle Harbinger Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7505"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Battle Harbinger Dedication  *Feat 2*

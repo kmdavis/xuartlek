@@ -7,6 +7,7 @@ tags:
 aliases: ["Seneschal"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=284"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Seneschal  *Archetype 2*

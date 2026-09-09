@@ -9,6 +9,7 @@ tags:
 aliases: ["Vehicle Mechanic Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3147"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Vehicle Mechanic Dedication  *Feat 2*

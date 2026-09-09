@@ -9,6 +9,7 @@ tags:
 aliases: ["Peacemaker"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1231"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Peacemaker  *Item 6*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Scout's Warning"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4876"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Scout's Warning  *Feat 4*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

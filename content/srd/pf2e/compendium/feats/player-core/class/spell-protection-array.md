@@ -9,6 +9,7 @@ tags:
 aliases: ["Spell Protection Array"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5031"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Spell Protection Array  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

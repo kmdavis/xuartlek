@@ -7,6 +7,7 @@ tags:
 aliases: ["Crushing Grab"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5985"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Crushing Grab  *Feat 2*

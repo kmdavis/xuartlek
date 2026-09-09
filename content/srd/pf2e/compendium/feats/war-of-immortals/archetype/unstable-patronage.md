@@ -9,6 +9,7 @@ tags:
 aliases: ["Unstable Patronage"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7254"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Unstable Patronage  *Feat 14*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Mirage"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1604"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Mirage  *Spell 4*

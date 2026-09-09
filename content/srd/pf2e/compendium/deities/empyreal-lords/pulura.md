@@ -5,6 +5,7 @@ tags:
 aliases: ["Pulura"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=480"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Pulura  *Deity*

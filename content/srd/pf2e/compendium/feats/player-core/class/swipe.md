@@ -9,6 +9,7 @@ tags:
 aliases: ["Swipe"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4795"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Swipe  *Feat 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

@@ -10,6 +10,7 @@ tags:
 aliases: ["High-Speed Regeneration"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8040"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # High-Speed Regeneration  *Feat 6*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

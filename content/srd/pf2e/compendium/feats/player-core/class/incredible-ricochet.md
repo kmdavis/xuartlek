@@ -9,6 +9,7 @@ tags:
 aliases: ["Incredible Ricochet"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4837"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Incredible Ricochet  *Feat 12*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

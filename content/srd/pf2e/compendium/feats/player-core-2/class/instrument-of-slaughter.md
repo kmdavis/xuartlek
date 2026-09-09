@@ -7,6 +7,7 @@ tags:
 aliases: ["Instrument of Slaughter"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5924"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Instrument of Slaughter  *Feat 16*

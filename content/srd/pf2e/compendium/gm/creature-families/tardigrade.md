@@ -5,6 +5,7 @@ tags:
 aliases: ["Tardigrade"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=503"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Tardigrade  *Creature Family*

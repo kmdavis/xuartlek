@@ -7,6 +7,7 @@ tags:
 aliases: ["Powerful Tail"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9398"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Powerful Tail  *Feat 1*

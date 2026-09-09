@@ -8,6 +8,7 @@ tags:
 aliases: ["Juggernaut Charge"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7858"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Juggernaut Charge  *Feat 8*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

@@ -6,6 +6,7 @@ tags:
 aliases: ["Fighter"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=214"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Fighter  *Archetype 2*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Autumn's Embrace"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1840"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Autumn's Embrace  *Item 12*

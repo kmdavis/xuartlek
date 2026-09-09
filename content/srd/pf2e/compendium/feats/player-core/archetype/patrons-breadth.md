@@ -7,6 +7,7 @@ tags:
 aliases: ["Patron's Breadth"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5103"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Patron's Breadth  *Feat 8*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Rapid Hybridization"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5513"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Rapid Hybridization  *Feat 14*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

@@ -8,6 +8,7 @@ tags:
 aliases: ["Gladiator Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6333"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Gladiator Dedication  *Feat 2*

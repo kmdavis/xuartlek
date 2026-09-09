@@ -7,6 +7,7 @@ tags:
 aliases: ["Wings of the Moon"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5511"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Wings of the Moon  *Feat 12*

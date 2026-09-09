@@ -7,6 +7,7 @@ tags:
 aliases: ["Spellwatch"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1837"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Spellwatch  *Item 13*

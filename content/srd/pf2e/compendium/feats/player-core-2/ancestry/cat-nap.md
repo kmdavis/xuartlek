@@ -9,6 +9,7 @@ tags:
 aliases: ["Cat Nap"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5543"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Cat Nap  *Feat 1*

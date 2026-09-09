@@ -5,6 +5,7 @@ tags:
 aliases: ["Rull"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=559"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Rull  *Deity*

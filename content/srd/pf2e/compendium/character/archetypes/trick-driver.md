@@ -7,6 +7,7 @@ tags:
 aliases: ["Trick Driver"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=112"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Trick Driver  *Archetype 2*

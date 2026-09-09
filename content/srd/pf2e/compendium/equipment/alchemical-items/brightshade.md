@@ -12,6 +12,7 @@ tags:
 aliases: ["Brightshade"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1994"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Brightshade  *Item 4*

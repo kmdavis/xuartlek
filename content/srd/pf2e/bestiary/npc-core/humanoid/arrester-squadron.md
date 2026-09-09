@@ -12,6 +12,7 @@ name: "Arrester Squadron"
 level: 8
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3564"
+socialImage: og-image.png
 ---
 
 ```statblock

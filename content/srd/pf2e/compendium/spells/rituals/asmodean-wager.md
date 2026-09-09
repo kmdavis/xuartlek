@@ -8,6 +8,7 @@ tags:
 aliases: ["Asmodean Wager"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=244"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Asmodean Wager  *Ritual 6*

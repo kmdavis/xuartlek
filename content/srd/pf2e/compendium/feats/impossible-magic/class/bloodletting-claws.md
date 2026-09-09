@@ -8,6 +8,7 @@ tags:
 aliases: ["Bloodletting Claws"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9235"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Bloodletting Claws  *Feat 4*

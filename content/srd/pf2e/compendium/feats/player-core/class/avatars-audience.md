@@ -7,6 +7,7 @@ tags:
 aliases: ["Avatar's Audience"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4704"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Avatar's Audience  *Feat 20*

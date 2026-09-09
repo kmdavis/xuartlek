@@ -10,6 +10,7 @@ tags:
 aliases: ["Draining Strike"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9100"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Draining Strike  *Feat 2*

@@ -11,6 +11,7 @@ tags:
 aliases: ["Flingflenser"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=208"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Flingflenser  *Weapon 0*

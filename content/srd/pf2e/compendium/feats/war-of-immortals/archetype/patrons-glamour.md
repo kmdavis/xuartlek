@@ -9,6 +9,7 @@ tags:
 aliases: ["Patron's Glamour"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7248"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Patron's Glamour  *Feat 4*

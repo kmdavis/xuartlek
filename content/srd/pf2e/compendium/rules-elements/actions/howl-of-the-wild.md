@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/howl-of-the-wild
 aliases: ["Actions: Howl of the Wild"]
 entries: 19
+socialImage: og-image.png
 ---
 
 # Actions: Howl of the Wild

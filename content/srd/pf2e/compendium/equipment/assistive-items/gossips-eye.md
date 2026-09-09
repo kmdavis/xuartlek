@@ -7,6 +7,7 @@ tags:
 aliases: ["Gossip's Eye"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2158"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Gossip's Eye  *Item 8*

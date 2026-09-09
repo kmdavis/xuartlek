@@ -9,6 +9,7 @@ tags:
 aliases: ["Undertaker's Spade"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5068"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Undertaker's Spade  *Item 9*

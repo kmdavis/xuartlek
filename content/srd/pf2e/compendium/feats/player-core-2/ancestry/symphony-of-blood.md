@@ -7,6 +7,7 @@ tags:
 aliases: ["Symphony of Blood"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5725"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Symphony of Blood  *Feat 17*

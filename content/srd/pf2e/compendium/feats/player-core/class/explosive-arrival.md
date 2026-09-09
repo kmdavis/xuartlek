@@ -11,6 +11,7 @@ tags:
 aliases: ["Explosive Arrival"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5033"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Explosive Arrival  *Feat 6*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

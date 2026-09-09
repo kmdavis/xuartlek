@@ -10,6 +10,7 @@ tags:
 aliases: ["Earthbreaker Stride"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2684"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Earthbreaker Stride  *Spell 8*

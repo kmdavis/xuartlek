@@ -9,6 +9,7 @@ tags:
 aliases: ["Effervescent Ampoule"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2971"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Effervescent Ampoule  *Item 2*

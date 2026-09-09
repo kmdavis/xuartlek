@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Animist Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7220"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Basic Animist Spellcasting  *Feat 4*

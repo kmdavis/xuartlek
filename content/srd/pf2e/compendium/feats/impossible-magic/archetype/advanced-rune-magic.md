@@ -7,6 +7,7 @@ tags:
 aliases: ["Advanced Rune Magic"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9303"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Advanced Rune Magic  *Feat 6*

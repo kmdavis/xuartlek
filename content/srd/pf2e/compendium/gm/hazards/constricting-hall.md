@@ -9,6 +9,7 @@ tags:
 aliases: ["Constricting Hall"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=639"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Constricting Hall  *Hazard 8*

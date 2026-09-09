@@ -12,6 +12,7 @@ name: "Hound Of Tindalos"
 level: 7
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4623"
+socialImage: og-image.png
 ---
 
 ```statblock

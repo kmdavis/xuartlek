@@ -7,6 +7,7 @@ tags:
 aliases: ["Flow of War"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7165"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Flow of War  *Feat 6*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

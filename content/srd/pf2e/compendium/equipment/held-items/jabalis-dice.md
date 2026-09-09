@@ -8,6 +8,7 @@ tags:
 aliases: ["Jabali's Dice"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2591"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Jabali's Dice  *Item 12*

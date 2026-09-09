@@ -9,6 +9,7 @@ tags:
 aliases: ["Alicorn Lance"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1882"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Alicorn Lance  *Item 5*

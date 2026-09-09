@@ -6,6 +6,7 @@ tags:
 aliases: ["Bolts (Phalanx Piercer)"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=351"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Bolts (Phalanx Piercer)  *Weapon 0*

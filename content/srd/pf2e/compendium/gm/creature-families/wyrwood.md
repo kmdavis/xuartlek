@@ -5,6 +5,7 @@ tags:
 aliases: ["Wyrwood"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=672"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Wyrwood  *Creature Family*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Jotun's Transposition"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7790"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Jotun's Transposition  *Feat 17*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Verdant Branch"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2162"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Verdant Branch  *Item 7*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Maze of Runes"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9211"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Maze of Runes  *Feat 16*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

@@ -7,6 +7,7 @@ tags:
 aliases: ["Living Graveyard"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9164"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Living Graveyard  *Feat 20*

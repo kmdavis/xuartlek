@@ -9,6 +9,7 @@ tags:
 aliases: ["Master Magus Ring"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2327"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Master Magus Ring  *Item 11*

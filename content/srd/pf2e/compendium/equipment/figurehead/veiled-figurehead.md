@@ -9,6 +9,7 @@ tags:
 aliases: ["Veiled Figurehead"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2635"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Veiled Figurehead  *Item 7+*

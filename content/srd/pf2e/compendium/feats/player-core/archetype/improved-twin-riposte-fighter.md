@@ -7,6 +7,7 @@ tags:
 aliases: ["Improved Twin Riposte (Fighter)"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4844"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Improved Twin Riposte (Fighter)  *Feat 14*

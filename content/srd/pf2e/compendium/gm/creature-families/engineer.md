@@ -5,6 +5,7 @@ tags:
 aliases: ["Engineer"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=536"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Engineer  *Creature Family*

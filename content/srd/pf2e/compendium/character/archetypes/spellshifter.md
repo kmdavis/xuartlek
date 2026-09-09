@@ -7,6 +7,7 @@ tags:
 aliases: ["Spellshifter"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=394"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Spellshifter  *Archetype 2*

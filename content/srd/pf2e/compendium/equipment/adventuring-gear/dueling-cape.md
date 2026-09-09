@@ -6,6 +6,7 @@ tags:
 aliases: ["Dueling Cape"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2721"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Dueling Cape  *Item 0*

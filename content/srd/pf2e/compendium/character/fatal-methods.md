@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/impossible-magic
 aliases: ["Fatal Methods"]
 entries: 2
+socialImage: og-image.png
 ---
 
 # Fatal Methods

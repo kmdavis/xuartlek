@@ -8,6 +8,7 @@ tags:
 aliases: ["Gathering Call"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=148"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Gathering Call  *Ritual 7*

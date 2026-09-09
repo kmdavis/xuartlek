@@ -14,6 +14,7 @@ name: "Kizidhar Shuyookh"
 level: 11
 source: "Rage of Elements"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2682"
+socialImage: og-image.png
 ---
 
 ```statblock

@@ -10,6 +10,7 @@ tags:
 aliases: ["Travel by Turtle"]
 aon_url: "https://2e.aonprd.com/MythicSpells.aspx?ID=2164"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Travel by Turtle  *Spell 3*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

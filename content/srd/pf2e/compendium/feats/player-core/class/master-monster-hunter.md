@@ -7,6 +7,7 @@ tags:
 aliases: ["Master Monster Hunter"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4889"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Master Monster Hunter  *Feat 10*

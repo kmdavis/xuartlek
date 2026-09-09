@@ -5,6 +5,7 @@ tags:
 aliases: ["Orc"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=52"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Orc  *Creature Adjustment*

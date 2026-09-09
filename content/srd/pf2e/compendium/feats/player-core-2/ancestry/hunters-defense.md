@@ -7,6 +7,7 @@ tags:
 aliases: ["Hunter's Defense"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5694"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Hunter's Defense  *Feat 1*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

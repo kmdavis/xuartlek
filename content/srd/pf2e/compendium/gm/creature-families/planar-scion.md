@@ -5,6 +5,7 @@ tags:
 aliases: ["Planar Scion"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=456"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Planar Scion  *Creature Family*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Bravo's Brew"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3300"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Bravo's Brew  *Item 2+*

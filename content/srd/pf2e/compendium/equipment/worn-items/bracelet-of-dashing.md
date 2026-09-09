@@ -8,6 +8,7 @@ tags:
 aliases: ["Bracelet of Dashing"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3060"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Bracelet of Dashing  *Item 3*

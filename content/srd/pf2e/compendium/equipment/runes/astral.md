@@ -8,6 +8,7 @@ tags:
 aliases: ["Astral"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2832"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Astral  *Item 8+*

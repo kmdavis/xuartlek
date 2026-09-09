@@ -13,6 +13,7 @@ name: "Deific Vessel of Urgathoa"
 level: 15
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3451"
+socialImage: og-image.png
 ---
 
 ```statblock

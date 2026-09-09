@@ -11,6 +11,7 @@ name: "Mercurial"
 level: 2
 source: "Rage of Elements"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2645"
+socialImage: og-image.png
 ---
 
 ```statblock

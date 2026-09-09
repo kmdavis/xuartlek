@@ -6,6 +6,7 @@ tags:
 aliases: ["Azata"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=543"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Azata  *Trait*

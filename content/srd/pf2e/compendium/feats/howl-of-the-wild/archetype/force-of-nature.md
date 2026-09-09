@@ -9,6 +9,7 @@ tags:
 aliases: ["Force of Nature"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5514"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Force of Nature  *Feat 16*

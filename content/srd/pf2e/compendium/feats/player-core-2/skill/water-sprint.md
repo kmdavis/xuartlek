@@ -8,6 +8,7 @@ tags:
 aliases: ["Water Sprint"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6515"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Water Sprint  *Feat 7*

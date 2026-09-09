@@ -10,6 +10,7 @@ tags:
 aliases: ["Ascended Celestial Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7331"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Ascended Celestial Dedication  *Feat 12*

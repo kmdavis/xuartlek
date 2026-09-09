@@ -7,6 +7,7 @@ tags:
 aliases: ["Ancestral Suspicion"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4413"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Ancestral Suspicion  *Feat 5*

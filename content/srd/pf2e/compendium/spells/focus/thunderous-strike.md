@@ -11,6 +11,7 @@ tags:
 aliases: ["Thunderous Strike"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2885"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Thunderous Strike  *Focus 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

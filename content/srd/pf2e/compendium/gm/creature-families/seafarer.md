@@ -5,6 +5,7 @@ tags:
 aliases: ["Seafarer"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=549"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Seafarer  *Creature Family*

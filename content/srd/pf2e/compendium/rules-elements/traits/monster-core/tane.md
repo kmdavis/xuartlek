@@ -6,6 +6,7 @@ tags:
 aliases: ["Tane"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=775"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Tane  *Trait*

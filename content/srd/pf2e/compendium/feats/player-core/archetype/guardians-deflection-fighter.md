@@ -7,6 +7,7 @@ tags:
 aliases: ["Guardian's Deflection (Fighter)"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4802"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Guardian's Deflection (Fighter)  *Feat 6*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

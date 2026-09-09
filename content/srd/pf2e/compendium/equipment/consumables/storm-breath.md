@@ -11,6 +11,7 @@ tags:
 aliases: ["Storm Breath"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2586"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Storm Breath  *Item 9*

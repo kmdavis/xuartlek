@@ -12,6 +12,7 @@ tags:
 aliases: ["Veil of Dreams"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1886"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Veil of Dreams  *Focus 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

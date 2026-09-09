@@ -9,6 +9,7 @@ tags:
 aliases: ["Voyager's Pack"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3115"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Voyager's Pack  *Item 17*

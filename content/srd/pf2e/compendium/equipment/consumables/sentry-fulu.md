@@ -9,6 +9,7 @@ tags:
 aliases: ["Sentry Fulu"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2042"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sentry Fulu  *Item 4*

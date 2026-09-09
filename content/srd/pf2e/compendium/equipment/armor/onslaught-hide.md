@@ -8,6 +8,7 @@ tags:
 aliases: ["Onslaught Hide"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3275"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Onslaught Hide  *Item 9*

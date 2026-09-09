@@ -7,6 +7,7 @@ tags:
 aliases: ["Ensnaring Disarm"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7946"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Ensnaring Disarm  *Feat 6*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

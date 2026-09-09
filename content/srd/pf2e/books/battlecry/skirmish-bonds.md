@@ -9,6 +9,7 @@ tags:
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3452"
 citation: "Battlecry! pg. 161"
+socialImage: og-image.png
 ---
 
 # Skirmish Bonds

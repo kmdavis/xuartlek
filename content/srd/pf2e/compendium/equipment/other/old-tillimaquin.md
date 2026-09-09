@@ -8,6 +8,7 @@ tags:
 aliases: ["Old Tillimaquin"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4116"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Old Tillimaquin  *Item 12*

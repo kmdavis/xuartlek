@@ -8,6 +8,7 @@ tags:
 aliases: ["Revivifying Mutagen"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5769"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Revivifying Mutagen  *Feat 2*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

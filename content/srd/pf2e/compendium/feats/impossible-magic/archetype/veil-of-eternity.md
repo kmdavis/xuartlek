@@ -7,6 +7,7 @@ tags:
 aliases: ["Veil of Eternity"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9370"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Veil of Eternity  *Feat 8*

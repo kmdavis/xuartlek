@@ -8,6 +8,7 @@ tags:
 aliases: ["Starfall Shield"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1861"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Starfall Shield  *Item 19*

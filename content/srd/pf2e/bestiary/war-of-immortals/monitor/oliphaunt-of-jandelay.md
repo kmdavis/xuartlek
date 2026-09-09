@@ -12,6 +12,7 @@ name: "Oliphaunt of Jandelay"
 level: 25
 source: "War of Immortals"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3407"
+socialImage: og-image.png
 ---
 
 ```statblock

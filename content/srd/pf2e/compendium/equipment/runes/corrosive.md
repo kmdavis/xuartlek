@@ -8,6 +8,7 @@ tags:
 aliases: ["Corrosive"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2834"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Corrosive  *Item 8+*

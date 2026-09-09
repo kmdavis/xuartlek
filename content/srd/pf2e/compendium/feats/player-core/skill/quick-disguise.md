@@ -8,6 +8,7 @@ tags:
 aliases: ["Quick Disguise"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5194"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Quick Disguise  *Feat 2*

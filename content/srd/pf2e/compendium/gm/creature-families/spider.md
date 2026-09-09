@@ -5,6 +5,7 @@ tags:
 aliases: ["Spider"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=474"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Spider  *Creature Family*

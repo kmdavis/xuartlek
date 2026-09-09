@@ -7,6 +7,7 @@ tags:
 aliases: ["Versatile Spellstrike"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9089"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Versatile Spellstrike  *Feat 18*

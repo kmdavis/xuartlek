@@ -6,6 +6,7 @@ tags:
 aliases: ["Olfactory"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=664"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Olfactory  *Trait*

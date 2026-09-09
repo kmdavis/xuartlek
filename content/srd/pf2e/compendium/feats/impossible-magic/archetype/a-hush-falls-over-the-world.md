@@ -9,6 +9,7 @@ tags:
 aliases: ["A Hush Falls Over the World"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9383"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # A Hush Falls Over the World  *Feat 10*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

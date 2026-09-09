@@ -7,6 +7,7 @@ tags:
 aliases: ["Elven Lore"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4406"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Elven Lore  *Feat 1*

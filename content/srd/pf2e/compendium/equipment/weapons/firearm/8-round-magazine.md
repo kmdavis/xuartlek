@@ -6,6 +6,7 @@ tags:
 aliases: ["8-Round Magazine"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=349"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # 8-Round Magazine  *Weapon 0*

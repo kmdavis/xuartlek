@@ -13,6 +13,7 @@ tags:
 aliases: ["Captivating Bauble"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2098"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Captivating Bauble  *Item 12*

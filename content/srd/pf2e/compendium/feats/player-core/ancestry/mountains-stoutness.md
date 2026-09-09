@@ -7,6 +7,7 @@ tags:
 aliases: ["Mountain's Stoutness"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4398"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Mountain's Stoutness  *Feat 9*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Magdh"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=457"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Magdh  *Deity*

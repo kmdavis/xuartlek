@@ -9,6 +9,7 @@ tags:
 aliases: ["Protective Netting"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3976"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Protective Netting  *Item 3*

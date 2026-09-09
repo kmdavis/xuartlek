@@ -9,6 +9,7 @@ tags:
 aliases: ["Spiritual Secret"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7251"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Spiritual Secret  *Feat 6*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

@@ -7,6 +7,7 @@ tags:
 aliases: ["Caretaker's Intuition"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7769"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Caretaker's Intuition  *Feat 1*

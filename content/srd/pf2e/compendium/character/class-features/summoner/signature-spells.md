@@ -6,6 +6,7 @@ tags:
 aliases: ["Signature Spells"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=77"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Signature Spells  *Class Feature 3*

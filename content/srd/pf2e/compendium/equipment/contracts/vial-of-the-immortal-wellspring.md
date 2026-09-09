@@ -10,6 +10,7 @@ tags:
 aliases: ["Vial of the Immortal Wellspring"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4154"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Vial of the Immortal Wellspring  *Item 20*

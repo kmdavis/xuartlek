@@ -6,6 +6,7 @@ tags:
 aliases: ["Legendary Overdrive"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=19"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Legendary Overdrive  *Class Feature 15*

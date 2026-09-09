@@ -5,6 +5,7 @@ tags:
 aliases: ["Elemental, Wood"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=345"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Elemental, Wood  *Creature Family*

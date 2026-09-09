@@ -6,6 +6,7 @@ tags:
 aliases: ["Sky Chariot, Armored"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=96"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Sky Chariot, Armored  *Vehicle 14*

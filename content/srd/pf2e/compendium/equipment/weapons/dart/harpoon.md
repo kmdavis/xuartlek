@@ -8,6 +8,7 @@ tags:
 aliases: ["Harpoon"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=336"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Harpoon  *Weapon 0*

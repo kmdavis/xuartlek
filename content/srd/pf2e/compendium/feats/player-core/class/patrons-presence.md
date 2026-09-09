@@ -7,6 +7,7 @@ tags:
 aliases: ["Patron’s Presence"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5015"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Patron’s Presence  *Feat 14*

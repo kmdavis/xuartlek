@@ -7,6 +7,7 @@ tags:
 aliases: ["General Training"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4476"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # General Training  *Feat 1*

@@ -10,6 +10,7 @@ name: "Experienced Hound"
 level: 7
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3678"
+socialImage: og-image.png
 ---
 
 ```statblock

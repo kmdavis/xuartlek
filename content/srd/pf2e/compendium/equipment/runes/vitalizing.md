@@ -7,6 +7,7 @@ tags:
 aliases: ["Vitalizing"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2852"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Vitalizing  *Item 5+*

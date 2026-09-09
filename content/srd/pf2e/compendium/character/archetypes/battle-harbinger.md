@@ -6,6 +6,7 @@ tags:
 aliases: ["Battle Harbinger"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=304"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Battle Harbinger  *Archetype 2*

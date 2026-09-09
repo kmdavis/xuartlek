@@ -6,6 +6,7 @@ tags:
 aliases: ["Mirror"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2735"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Mirror  *Item 0*

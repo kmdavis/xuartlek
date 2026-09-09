@@ -7,6 +7,7 @@ tags:
 aliases: ["Integrated Armament"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3097"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Integrated Armament  *Feat 5*

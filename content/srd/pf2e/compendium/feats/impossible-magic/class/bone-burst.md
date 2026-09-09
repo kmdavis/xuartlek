@@ -9,6 +9,7 @@ tags:
 aliases: ["Bone Burst"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9116"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Bone Burst  *Feat 6*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

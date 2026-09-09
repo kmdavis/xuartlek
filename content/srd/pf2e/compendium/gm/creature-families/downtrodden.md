@@ -5,6 +5,7 @@ tags:
 aliases: ["Downtrodden"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=535"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Downtrodden  *Creature Family*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Tenacious Endurance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5426"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Tenacious Endurance  *Feat 6*

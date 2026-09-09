@@ -9,6 +9,7 @@ tags:
 aliases: ["Razmiran Priest Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7566"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Razmiran Priest Dedication  *Feat 2*

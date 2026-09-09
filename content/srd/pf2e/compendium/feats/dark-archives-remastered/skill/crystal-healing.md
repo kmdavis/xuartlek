@@ -11,6 +11,7 @@ tags:
 aliases: ["Crystal Healing"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8428"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Crystal Healing  *Feat 1*

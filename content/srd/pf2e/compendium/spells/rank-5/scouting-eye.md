@@ -9,6 +9,7 @@ tags:
 aliases: ["Scouting Eye"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1661"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Scouting Eye  *Spell 5*

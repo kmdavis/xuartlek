@@ -8,6 +8,7 @@ tags:
 aliases: ["Firedrake"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=15"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Firedrake  *Siege Weapon 8*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Energy Adaptive"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1830"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Energy Adaptive  *Item 13*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Proud Mentor"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5329"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Proud Mentor  *Feat 5*

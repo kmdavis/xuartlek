@@ -9,6 +9,7 @@ tags:
 aliases: ["Ghostly Stride"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9108"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Ghostly Stride  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

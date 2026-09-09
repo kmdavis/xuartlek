@@ -7,6 +7,7 @@ tags:
 aliases: ["Splatrope Extruder"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1985"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Splatrope Extruder  *Item 3*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Sever Magic"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8384"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sever Magic  *Feat 16*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

@@ -9,6 +9,7 @@ tags:
 aliases: ["Phasing Trine"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3891"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Phasing Trine  *Item 16*

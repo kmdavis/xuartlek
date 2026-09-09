@@ -10,6 +10,7 @@ name: "Satyr"
 level: 4
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3173"
+socialImage: og-image.png
 ---
 
 ```statblock

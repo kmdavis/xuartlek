@@ -10,6 +10,7 @@ tags:
 aliases: ["Stone of Unrivaled Skill"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4153"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Stone of Unrivaled Skill  *Item 17*

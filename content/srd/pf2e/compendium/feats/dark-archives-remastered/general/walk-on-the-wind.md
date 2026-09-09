@@ -10,6 +10,7 @@ tags:
 aliases: ["Walk on the Wind"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8415"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Walk on the Wind  *Feat 16*

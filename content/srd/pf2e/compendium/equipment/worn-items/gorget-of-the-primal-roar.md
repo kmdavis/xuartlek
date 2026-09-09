@@ -8,6 +8,7 @@ tags:
 aliases: ["Gorget of the Primal Roar"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3085"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Gorget of the Primal Roar  *Item 11*

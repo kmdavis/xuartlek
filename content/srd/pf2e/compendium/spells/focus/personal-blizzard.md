@@ -11,6 +11,7 @@ tags:
 aliases: ["Personal Blizzard"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1883"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Personal Blizzard  *Focus 3*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

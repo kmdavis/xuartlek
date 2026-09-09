@@ -5,6 +5,7 @@ tags:
 aliases: ["Elemental, Scamp"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=411"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Elemental, Scamp  *Creature Family*

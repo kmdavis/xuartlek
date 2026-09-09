@@ -8,6 +8,7 @@ tags:
 aliases: ["Repeating Crossbow"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=176"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Repeating Crossbow  *Weapon 1*

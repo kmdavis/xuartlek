@@ -7,6 +7,7 @@ tags:
 aliases: ["Bony Barrage"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9107"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Bony Barrage  *Feat 4*

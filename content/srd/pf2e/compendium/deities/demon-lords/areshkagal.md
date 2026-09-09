@@ -5,6 +5,7 @@ tags:
 aliases: ["Areshkagal"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=426"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Areshkagal  *Deity*

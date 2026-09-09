@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Trickery"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5093"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Basic Trickery  *Feat 4*

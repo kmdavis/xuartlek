@@ -11,6 +11,7 @@ tags:
 aliases: ["Automatic Writing"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8426"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Automatic Writing  *Feat 2*

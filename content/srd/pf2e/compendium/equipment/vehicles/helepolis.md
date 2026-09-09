@@ -7,6 +7,7 @@ tags:
 aliases: ["Helepolis"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=16"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Helepolis  *Vehicle 16*

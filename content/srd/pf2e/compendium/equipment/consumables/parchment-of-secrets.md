@@ -10,6 +10,7 @@ tags:
 aliases: ["Parchment of Secrets"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4124"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Parchment of Secrets  *Item 3*

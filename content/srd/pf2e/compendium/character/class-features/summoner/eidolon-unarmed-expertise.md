@@ -6,6 +6,7 @@ tags:
 aliases: ["Eidolon Unarmed Expertise"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=77"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Eidolon Unarmed Expertise  *Class Feature 5*

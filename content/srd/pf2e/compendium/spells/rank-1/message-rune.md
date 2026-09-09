@@ -10,6 +10,7 @@ tags:
 aliases: ["Message Rune"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2356"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Message Rune  *Spell 1*

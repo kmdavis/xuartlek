@@ -9,6 +9,7 @@ tags:
 aliases: ["Three Bird Pinion"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5111"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Three Bird Pinion  *Item 8*

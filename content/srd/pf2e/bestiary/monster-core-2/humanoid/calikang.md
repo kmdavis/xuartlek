@@ -12,6 +12,7 @@ level: 12
 source: "Monster Core 2"
 other_sources: "Pathfinder #149: Against the Scarlet Triad"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4290"
+socialImage: og-image.png
 ---
 
 ```statblock

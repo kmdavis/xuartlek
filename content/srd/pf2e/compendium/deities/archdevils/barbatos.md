@@ -5,6 +5,7 @@ tags:
 aliases: ["Barbatos"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=395"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Barbatos  *Deity*

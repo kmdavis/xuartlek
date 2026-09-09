@@ -12,6 +12,7 @@ name: "Deluded Mob"
 level: 4
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3611"
+socialImage: og-image.png
 ---
 
 ```statblock

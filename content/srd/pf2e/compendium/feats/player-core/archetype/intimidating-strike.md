@@ -11,6 +11,7 @@ tags:
 aliases: ["Intimidating Strike"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4782"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Intimidating Strike  *Feat 2*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

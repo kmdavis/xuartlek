@@ -5,6 +5,7 @@ tags:
 aliases: ["Apollyon"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=390"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Apollyon  *Deity*

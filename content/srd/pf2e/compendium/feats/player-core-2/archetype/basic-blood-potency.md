@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Blood Potency"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6227"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Basic Blood Potency  *Feat 4*

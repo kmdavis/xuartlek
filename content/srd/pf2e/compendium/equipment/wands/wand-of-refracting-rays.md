@@ -10,6 +10,7 @@ tags:
 aliases: ["Wand of Refracting Rays"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2288"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wand of Refracting Rays  *Item 11+*

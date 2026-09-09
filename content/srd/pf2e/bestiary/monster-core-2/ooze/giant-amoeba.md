@@ -12,6 +12,7 @@ name: "Giant Amoeba"
 level: 1
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4496"
+socialImage: og-image.png
 ---
 
 ```statblock

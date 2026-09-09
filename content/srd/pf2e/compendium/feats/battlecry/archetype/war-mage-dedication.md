@@ -10,6 +10,7 @@ tags:
 aliases: ["War Mage Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7976"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # War Mage Dedication  *Feat 2*

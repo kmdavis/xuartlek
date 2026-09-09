@@ -8,6 +8,7 @@ tags:
 aliases: ["Invisible Chain Shirt"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4981"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Invisible Chain Shirt  *Item 13*

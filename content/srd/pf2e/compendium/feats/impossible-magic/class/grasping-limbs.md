@@ -8,6 +8,7 @@ tags:
 aliases: ["Grasping Limbs"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9267"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Grasping Limbs  *Feat 12*

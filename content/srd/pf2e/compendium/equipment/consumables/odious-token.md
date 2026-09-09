@@ -9,6 +9,7 @@ tags:
 aliases: ["Odious Token"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5061"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Odious Token  *Item 11*

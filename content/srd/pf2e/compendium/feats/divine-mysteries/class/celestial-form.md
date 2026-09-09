@@ -7,6 +7,7 @@ tags:
 aliases: ["Celestial Form"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7525"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Celestial Form  *Feat 18*

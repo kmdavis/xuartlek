@@ -7,6 +7,7 @@ tags:
 aliases: ["Far Shot"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4873"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Far Shot  *Feat 4*

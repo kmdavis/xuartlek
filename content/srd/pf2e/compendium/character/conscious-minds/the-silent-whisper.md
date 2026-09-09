@@ -5,6 +5,7 @@ tags:
 aliases: ["The Silent Whisper"]
 aon_url: "https://2e.aonprd.com/ConsciousMinds.aspx?ID=10"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # The Silent Whisper  *Psychic Conscious Mind*

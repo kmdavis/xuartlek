@@ -8,6 +8,7 @@ tags:
 aliases: ["Sparking Grimoire"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5132"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Sparking Grimoire  *Item 10+*

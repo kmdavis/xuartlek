@@ -10,6 +10,7 @@ tags:
 aliases: ["Runic Impression"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2881"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Runic Impression  *Focus 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

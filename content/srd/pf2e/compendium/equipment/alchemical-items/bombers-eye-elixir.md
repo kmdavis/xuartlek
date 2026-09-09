@@ -9,6 +9,7 @@ tags:
 aliases: ["Bomber's Eye Elixir"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3298"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Bomber's Eye Elixir  *Item 4+*

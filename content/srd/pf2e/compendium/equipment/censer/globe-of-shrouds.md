@@ -10,6 +10,7 @@ tags:
 aliases: ["Globe of Shrouds"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2604"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Globe of Shrouds  *Item 8*

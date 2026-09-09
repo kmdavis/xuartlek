@@ -8,6 +8,7 @@ tags:
 aliases: ["Affliction Resistance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5600"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Affliction Resistance  *Feat 5*

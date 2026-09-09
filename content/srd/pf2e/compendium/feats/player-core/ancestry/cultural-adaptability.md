@@ -7,6 +7,7 @@ tags:
 aliases: ["Cultural Adaptability"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4465"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Cultural Adaptability  *Feat 5*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Spider Gun"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1170"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Spider Gun  *Item 6+*

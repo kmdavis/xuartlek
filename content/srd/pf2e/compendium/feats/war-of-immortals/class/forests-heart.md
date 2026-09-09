@@ -11,6 +11,7 @@ tags:
 aliases: ["Forest's Heart"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7146"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Forest's Heart  *Feat 16*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

@@ -12,6 +12,7 @@ tags:
 aliases: ["Ash Form"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2425"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Ash Form  *Focus 6*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

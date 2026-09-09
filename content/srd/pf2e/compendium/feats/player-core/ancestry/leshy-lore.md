@@ -7,6 +7,7 @@ tags:
 aliases: ["Leshy Lore"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4495"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Leshy Lore  *Feat 1*

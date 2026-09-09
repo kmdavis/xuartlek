@@ -7,6 +7,7 @@ tags:
 aliases: ["Greater Esoteric Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7564"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Greater Esoteric Spellcasting  *Feat 12*

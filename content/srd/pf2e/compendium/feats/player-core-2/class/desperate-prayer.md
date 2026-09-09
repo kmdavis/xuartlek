@@ -7,6 +7,7 @@ tags:
 aliases: ["Desperate Prayer"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5884"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Desperate Prayer  *Feat 1*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

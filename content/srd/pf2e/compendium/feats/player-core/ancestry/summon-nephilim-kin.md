@@ -7,6 +7,7 @@ tags:
 aliases: ["Summon Nephilim Kin"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4564"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Summon Nephilim Kin  *Feat 13*

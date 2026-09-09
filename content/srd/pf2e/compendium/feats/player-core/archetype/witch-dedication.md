@@ -9,6 +9,7 @@ tags:
 aliases: ["Witch Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5099"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Witch Dedication  *Feat 2*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Practical Magic"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9331"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Practical Magic  *Feat 6*

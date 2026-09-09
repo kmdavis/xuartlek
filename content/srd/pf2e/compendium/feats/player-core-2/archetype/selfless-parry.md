@@ -7,6 +7,7 @@ tags:
 aliases: ["Selfless Parry"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6315"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Selfless Parry  *Feat 8*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Luckless Dice"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2383"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Luckless Dice  *Item 2*

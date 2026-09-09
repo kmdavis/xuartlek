@@ -10,6 +10,7 @@ name: "Sky Fisher"
 level: 11
 source: "Howl of the Wild"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3310"
+socialImage: og-image.png
 ---
 
 ```statblock

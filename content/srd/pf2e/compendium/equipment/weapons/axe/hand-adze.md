@@ -11,6 +11,7 @@ tags:
 aliases: ["Hand Adze"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=475"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Hand Adze  *Weapon 0*

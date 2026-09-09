@@ -11,6 +11,7 @@ tags:
 aliases: ["Timber Sentinel"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4284"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Timber Sentinel  *Feat 1*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

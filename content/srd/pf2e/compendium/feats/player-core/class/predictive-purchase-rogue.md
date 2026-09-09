@@ -7,6 +7,7 @@ tags:
 aliases: ["Predictive Purchase (Rogue)"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4955"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Predictive Purchase (Rogue)  *Feat 8*

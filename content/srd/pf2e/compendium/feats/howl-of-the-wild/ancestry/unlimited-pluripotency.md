@@ -7,6 +7,7 @@ tags:
 aliases: ["Unlimited Pluripotency"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5397"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Unlimited Pluripotency  *Feat 17*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Weapon Improviser Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6440"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Weapon Improviser Dedication  *Feat 2*

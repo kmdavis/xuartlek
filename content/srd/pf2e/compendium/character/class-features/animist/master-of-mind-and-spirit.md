@@ -6,6 +6,7 @@ tags:
 aliases: ["Master of Mind and Spirit"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=64"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Master of Mind and Spirit  *Class Feature 13*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Shield Warden"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4807"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Shield Warden  *Feat 6*

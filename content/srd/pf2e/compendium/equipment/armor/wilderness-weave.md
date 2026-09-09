@@ -8,6 +8,7 @@ tags:
 aliases: ["Wilderness Weave"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3825"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Wilderness Weave  *Item 5*

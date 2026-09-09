@@ -7,6 +7,7 @@ tags:
 aliases: ["Baton of the Fallen"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3923"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Baton of the Fallen  *Item 16*

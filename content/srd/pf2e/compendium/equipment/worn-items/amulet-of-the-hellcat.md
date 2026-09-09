@@ -9,6 +9,7 @@ tags:
 aliases: ["Amulet of the Hellcat"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3224"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Amulet of the Hellcat  *Item 7*

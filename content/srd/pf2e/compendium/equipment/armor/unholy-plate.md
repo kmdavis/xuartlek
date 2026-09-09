@@ -9,6 +9,7 @@ tags:
 aliases: ["Unholy Plate"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3276"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Unholy Plate  *Item 13*

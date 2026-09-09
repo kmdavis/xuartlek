@@ -7,6 +7,7 @@ tags:
 aliases: ["Qi Spells"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5981"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Qi Spells  *Feat 1*

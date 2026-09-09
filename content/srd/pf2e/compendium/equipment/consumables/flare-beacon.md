@@ -9,6 +9,7 @@ tags:
 aliases: ["Flare Beacon"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1112"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Flare Beacon  *Item 1+*

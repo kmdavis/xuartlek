@@ -5,6 +5,7 @@ tags:
 aliases: ["Corrupt"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=38"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Corrupt  *Creature Adjustment*

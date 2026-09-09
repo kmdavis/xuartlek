@@ -6,6 +6,7 @@ tags:
 aliases: ["Whetstone"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=861"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Whetstone  *Trait*

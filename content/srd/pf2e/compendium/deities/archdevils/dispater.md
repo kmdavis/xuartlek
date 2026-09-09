@@ -5,6 +5,7 @@ tags:
 aliases: ["Dispater"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=397"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Dispater  *Deity*

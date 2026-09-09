@@ -7,6 +7,7 @@ tags:
 aliases: ["Resist Ruin"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5758"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Resist Ruin  *Feat 13*

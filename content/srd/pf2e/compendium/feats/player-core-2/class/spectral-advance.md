@@ -10,6 +10,7 @@ tags:
 aliases: ["Spectral Advance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5911"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Spectral Advance  *Feat 10*

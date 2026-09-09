@@ -7,6 +7,7 @@ tags:
 aliases: ["Munitions Crafter"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3158"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Munitions Crafter  *Feat 1*

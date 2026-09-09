@@ -6,6 +6,7 @@ tags:
 aliases: ["Environmental"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=591"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Environmental  *Trait*

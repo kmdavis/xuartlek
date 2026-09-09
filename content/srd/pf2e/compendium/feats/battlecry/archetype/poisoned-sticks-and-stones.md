@@ -7,6 +7,7 @@ tags:
 aliases: ["Poisoned Sticks and Stones"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7935"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Poisoned Sticks and Stones  *Feat 6*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Sacral Monarch"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8479"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sacral Monarch  *Feat 14*

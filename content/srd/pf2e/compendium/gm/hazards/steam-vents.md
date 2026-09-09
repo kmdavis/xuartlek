@@ -10,6 +10,7 @@ tags:
 aliases: ["Steam Vents"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=95"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Steam Vents  *Hazard 4*

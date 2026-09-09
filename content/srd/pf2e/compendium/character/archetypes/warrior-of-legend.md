@@ -7,6 +7,7 @@ tags:
 aliases: ["Warrior Of Legend"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=286"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Warrior Of Legend  *Archetype 2*

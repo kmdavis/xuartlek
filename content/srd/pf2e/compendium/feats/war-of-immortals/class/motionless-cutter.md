@@ -8,6 +8,7 @@ tags:
 aliases: ["Motionless Cutter"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7166"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Motionless Cutter  *Feat 6*

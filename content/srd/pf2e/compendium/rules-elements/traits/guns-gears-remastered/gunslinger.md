@@ -6,6 +6,7 @@ tags:
 aliases: ["Gunslinger"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=406"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Gunslinger  *Trait*

@@ -9,6 +9,7 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2002"
 citation: "Player Core pg. 6"
+socialImage: og-image.png
 ---
 
 # Basics of Play

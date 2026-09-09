@@ -10,6 +10,7 @@ tags:
 aliases: ["Sanguine Fang"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2239"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sanguine Fang  *Item 9+*

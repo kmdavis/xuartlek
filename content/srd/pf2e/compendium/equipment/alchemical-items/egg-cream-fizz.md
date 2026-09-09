@@ -9,6 +9,7 @@ tags:
 aliases: ["Egg Cream Fizz"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1915"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Egg Cream Fizz  *Item 5*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Verdant Metamorphosis"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4758"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Verdant Metamorphosis  *Feat 14*

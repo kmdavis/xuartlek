@@ -9,6 +9,7 @@ tags:
 source: "GM Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=3245"
 citation: "GM Core pg. 306"
+socialImage: og-image.png
 ---
 
 # Cursed Items

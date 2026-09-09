@@ -6,6 +6,7 @@ tags:
 aliases: ["Automaton"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=398"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Automaton  *Trait*

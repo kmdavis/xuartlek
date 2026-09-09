@@ -9,6 +9,7 @@ tags:
 aliases: ["Eagle-Eye Elixir"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3306"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Eagle-Eye Elixir  *Item 1+*

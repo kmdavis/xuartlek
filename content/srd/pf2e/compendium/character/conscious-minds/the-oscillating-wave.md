@@ -5,6 +5,7 @@ tags:
 aliases: ["The Oscillating Wave"]
 aon_url: "https://2e.aonprd.com/ConsciousMinds.aspx?ID=9"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # The Oscillating Wave  *Psychic Conscious Mind*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Hexwise Banner"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3911"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Hexwise Banner  *Item 10+*

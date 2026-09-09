@@ -7,6 +7,7 @@ tags:
 aliases: ["Primal Summons"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4752"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Primal Summons  *Feat 12*

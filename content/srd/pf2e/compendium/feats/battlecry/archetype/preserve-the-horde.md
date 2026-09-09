@@ -8,6 +8,7 @@ tags:
 aliases: ["Preserve the Horde"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7970"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Preserve the Horde  *Feat 10*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

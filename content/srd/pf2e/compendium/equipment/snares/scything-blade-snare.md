@@ -10,6 +10,7 @@ tags:
 aliases: ["Scything Blade Snare"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3382"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Scything Blade Snare  *Item 12*

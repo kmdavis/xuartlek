@@ -7,6 +7,7 @@ tags:
 aliases: ["Scroll Thaumaturgy"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8358"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Scroll Thaumaturgy  *Feat 1*

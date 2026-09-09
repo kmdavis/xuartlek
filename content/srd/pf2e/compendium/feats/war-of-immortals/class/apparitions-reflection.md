@@ -10,6 +10,7 @@ tags:
 aliases: ["Apparition's Reflection"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7135"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Apparition's Reflection  *Feat 8*  [?](books/player-core/chapter-8-playing-the-game/actions#Actions "Varies")

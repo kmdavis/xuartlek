@@ -7,6 +7,7 @@ tags:
 aliases: ["Core Attunement"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3102"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Core Attunement  *Feat 9*

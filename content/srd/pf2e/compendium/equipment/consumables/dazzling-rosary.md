@@ -9,6 +9,7 @@ tags:
 aliases: ["Dazzling Rosary"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5047"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Dazzling Rosary  *Item 4+*

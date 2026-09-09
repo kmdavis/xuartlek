@@ -8,6 +8,7 @@ tags:
 aliases: ["Surgical Shock"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5967"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Surgical Shock  *Feat 12*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

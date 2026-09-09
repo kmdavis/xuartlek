@@ -7,6 +7,7 @@ tags:
 aliases: ["Dance Underfoot"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4467"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Dance Underfoot  *Feat 9*

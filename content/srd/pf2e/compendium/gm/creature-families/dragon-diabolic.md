@@ -5,6 +5,7 @@ tags:
 aliases: ["Dragon, Diabolic"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=398"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Dragon, Diabolic  *Creature Family*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Tandem Auras"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7513"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Tandem Auras  *Feat 12*

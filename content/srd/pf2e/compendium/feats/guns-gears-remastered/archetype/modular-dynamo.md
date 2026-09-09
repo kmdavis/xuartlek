@@ -7,6 +7,7 @@ tags:
 aliases: ["Modular Dynamo"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3128"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Modular Dynamo  *Feat 4*

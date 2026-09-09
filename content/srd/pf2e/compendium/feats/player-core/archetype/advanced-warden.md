@@ -7,6 +7,7 @@ tags:
 aliases: ["Advanced Warden"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4870"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Advanced Warden  *Feat 4*

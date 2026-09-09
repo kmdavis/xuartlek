@@ -8,6 +8,7 @@ tags:
 aliases: ["Sailor's Collar"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3977"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Sailor's Collar  *Item 4+*

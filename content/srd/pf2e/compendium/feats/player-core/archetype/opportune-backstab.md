@@ -7,6 +7,7 @@ tags:
 aliases: ["Opportune Backstab"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4954"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Opportune Backstab  *Feat 8*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

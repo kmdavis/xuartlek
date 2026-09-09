@@ -7,6 +7,7 @@ tags:
 aliases: ["Right Where you Want Them"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7870"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Right Where you Want Them  *Feat 12*

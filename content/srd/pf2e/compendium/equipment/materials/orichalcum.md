@@ -8,6 +8,7 @@ tags:
 aliases: ["Orichalcum"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2919"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Orichalcum  *Item 17+*

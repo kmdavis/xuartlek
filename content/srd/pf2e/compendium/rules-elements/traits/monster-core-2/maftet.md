@@ -6,6 +6,7 @@ tags:
 aliases: ["Maftet"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=868"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Maftet  *Trait*

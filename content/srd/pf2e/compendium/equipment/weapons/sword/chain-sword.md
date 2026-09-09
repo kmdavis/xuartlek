@@ -10,6 +10,7 @@ tags:
 aliases: ["Chain Sword"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=276"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Chain Sword  *Weapon 0*

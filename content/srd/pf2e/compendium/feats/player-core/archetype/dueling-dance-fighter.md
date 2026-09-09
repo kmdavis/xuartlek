@@ -8,6 +8,7 @@ tags:
 aliases: ["Dueling Dance (Fighter)"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4834"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Dueling Dance (Fighter)  *Feat 12*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

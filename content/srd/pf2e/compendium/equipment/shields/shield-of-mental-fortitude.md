@@ -7,6 +7,7 @@ tags:
 aliases: ["Shield Of Mental Fortitude"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5004"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Shield Of Mental Fortitude  *Item 10*

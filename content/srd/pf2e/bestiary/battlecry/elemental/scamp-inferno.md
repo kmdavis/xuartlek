@@ -13,6 +13,7 @@ name: "Scamp Inferno"
 level: 6
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3936"
+socialImage: og-image.png
 ---
 
 ```statblock

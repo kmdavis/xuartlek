@@ -6,6 +6,7 @@ tags:
 aliases: ["Healing"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=623"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Healing  *Trait*

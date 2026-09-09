@@ -8,6 +8,7 @@ tags:
 aliases: ["Familiar Morsel"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2119"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Familiar Morsel  *Item 5*

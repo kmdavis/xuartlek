@@ -11,6 +11,7 @@ tags:
 aliases: ["Mistform Elixir"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3310"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Mistform Elixir  *Item 4+*

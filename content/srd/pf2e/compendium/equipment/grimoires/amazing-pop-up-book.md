@@ -9,6 +9,7 @@ tags:
 aliases: ["Amazing Pop-Up Book"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2170"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Amazing Pop-Up Book  *Item 11*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Atmospheric Staff"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2576"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Atmospheric Staff  *Item 4+*

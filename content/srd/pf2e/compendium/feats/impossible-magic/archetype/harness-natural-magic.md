@@ -9,6 +9,7 @@ tags:
 aliases: ["Harness Natural Magic"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9343"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Harness Natural Magic  *Feat 6*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

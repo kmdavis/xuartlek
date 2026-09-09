@@ -8,6 +8,7 @@ tags:
 aliases: ["Graft Technician"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5542"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Graft Technician  *Feat 3*
@@ -16,6 +17,6 @@ source: "Howl of the Wild"
 
 - **Prerequisites**: Expert in [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]]
 
-You can create and implant [[srd/pf2e/books/howl-of-the-wild/grafting-rules/index|grafts]]. When you select this feat, you gain the formulas for four common grafts of 3rd level or lower. You gain a +1 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] checks to implant grafts. If you’re a master in Medicine, this bonus increases to +2.
+You can create and implant [[srd/pf2e/books/howl-of-the-wild/grafting-rules/grafting-rules|grafts]]. When you select this feat, you gain the formulas for four common grafts of 3rd level or lower. You gain a +1 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] checks to implant grafts. If you’re a master in Medicine, this bonus increases to +2.
 
 *Source: Howl of the Wild p. 97*

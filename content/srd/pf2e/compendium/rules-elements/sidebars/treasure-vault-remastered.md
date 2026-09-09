@@ -4,13 +4,14 @@ tags:
 - compendium/src/pf2e/treasure-vault-remastered
 aliases: ["Sidebars: Treasure Vault (Remastered)"]
 entries: 10
+socialImage: og-image.png
 ---
 
 # Sidebars: Treasure Vault (Remastered)
 
 ## Am I Playing?
 
-- **Parent page**: [[srd/pf2e/books/treasure-vault-remastered/trappings-of-power/index|Trappings of Power]]
+- **Parent page**: [[srd/pf2e/books/treasure-vault-remastered/trappings-of-power/trappings-of-power|Trappings of Power]]
 
 Many instruments in this chapter, as well as some presented in Wondrous Consumables, give you a bonus or effect while you’re playing the instrument, sometimes improving you in ways not directly related to your performance, such as getting a bonus to Perception checks. Usually, the GM can easily determine whether you’re playing the instrument. If you need concrete rules, you’re considered to be playing an instrument as long as you spend at least 1 action each round playing it. This includes playing the instrument for [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] checks, playing it for material or somatic components of spells, or just spending a single action to play it. If you just want to play just to keep up the benefit, you can usually take the Perform action for this purpose and forgo your roll.
 
@@ -18,7 +19,7 @@ Many instruments in this chapter, as well as some presented in Wondrous Consumab
 
 ## Assistive Items
 
-- **Parent page**: [[srd/pf2e/books/treasure-vault-remastered/trappings-of-power/index|Trappings of Power]]
+- **Parent page**: [[srd/pf2e/books/treasure-vault-remastered/trappings-of-power/trappings-of-power|Trappings of Power]]
 
 Fantasy gaming is for everyone. It’s incredibly important for all people, regardless of what unique circumstances they may face in life, to be able to see reflections of themselves inside the world of the game. You can find assistive items for a variety of disabilities here, in _Guns & Gears_, and in _Pathfinder Lost Omens Grand Bazaar_. Representation in gaming is essential to creating open and welcoming communities, so respectful use of assistive items has a place in all games and stories.
 
@@ -36,7 +37,7 @@ Caused by exposure to blightburn crystal, blightburn sickness burns and dissolve
 
 ## Creating the Moment
 
-- **Parent page**: [[srd/pf2e/books/treasure-vault-remastered/momentary-magic/index|Momentary Magic]]
+- **Parent page**: [[srd/pf2e/books/treasure-vault-remastered/momentary-magic/momentary-magic|Momentary Magic]]
 
 Getting the opportunity to use a consumable is often one of the most exciting parts of an encounter, but if the right opportunity to use a consumable never arises, it ends up in the “sell pile” and becomes just another well-described piece of treasure. Watch for moments in your campaign where you can create exciting opportunities for your players to use the consumables you’ve given them, and try to choose consumables that players will get a chance to use!
 
@@ -86,7 +87,7 @@ The new alchemical options appearing in this chapter represent some notable expa
 
 ## New Crafting Rules
 
-- **Parent page**: [[srd/pf2e/books/treasure-vault-remastered/secrets-of-crafting/index|Secrets of Crafting]]
+- **Parent page**: [[srd/pf2e/books/treasure-vault-remastered/secrets-of-crafting/secrets-of-crafting|Secrets of Crafting]]
 
 Some of the new options presented in this section can be used to enhance or adjust the core crafting rules, while others can serve as partial or complete replacements. Each of the individual subsections of this chapter represents a different way to adjust or modify how player characters interact with item creation and acquisition in the game world. It’s recommended that you think carefully about which of these options you add to your game, adding only one subsection to your game at a time, at least until you’ve gotten a feel for the tone and impact they each have on your game and your players’ enjoyment. The crafting alternate rules are best used as adjustments, while nature crafting and story-based crafting can speak to the nature of the game itself.
 
@@ -94,7 +95,7 @@ Some of the new options presented in this section can be used to enhance or adju
 
 ## Stories and Power
 
-- **Parent page**: [[srd/pf2e/books/treasure-vault-remastered/game-master-s-trove/index|Game Master's Trove]]
+- **Parent page**: [[srd/pf2e/books/treasure-vault-remastered/game-master-s-trove/game-master-s-trove|Game Master's Trove]]
 
 Many of the items presented in this section offer great power to the character who uses them, often at a price. The price for this power is a tool that you, as the Game Master, can use to create dramatic tension and high stakes in your stories. Artifacts, boons, and cursed or intelligent items should always be used to advance the stories you tell in your campaigns and create deeper connections between the players and the setting. Work with your players to discuss ways that these rare and potent items might help tell an exciting and otherwise impossible story.
 

@@ -12,6 +12,7 @@ tags:
 aliases: ["Drain Life"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2118"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Drain Life  *Focus 3*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

@@ -7,6 +7,7 @@ tags:
 aliases: ["Directed Channel"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4656"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Directed Channel  *Feat 4*

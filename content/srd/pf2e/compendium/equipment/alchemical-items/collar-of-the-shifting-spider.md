@@ -7,6 +7,7 @@ tags:
 aliases: ["Collar of the Shifting Spider"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1975"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Collar of the Shifting Spider  *Item 5*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Crunch"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5590"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Crunch  *Feat 1*

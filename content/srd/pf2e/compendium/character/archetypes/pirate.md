@@ -6,6 +6,7 @@ tags:
 aliases: ["Pirate"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=258"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Pirate  *Archetype 2*

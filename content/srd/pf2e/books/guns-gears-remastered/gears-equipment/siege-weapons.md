@@ -9,6 +9,7 @@ tags:
 source: "Guns & Gears (Remastered)"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=1622"
 citation: "Guns & Gears (Remastered) pg. 72"
+socialImage: og-image.png
 ---
 
 # Siege Weapons

@@ -7,6 +7,7 @@ tags:
 aliases: ["Living Nexus"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=392"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Living Nexus  *Archetype 2*

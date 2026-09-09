@@ -5,6 +5,7 @@ tags:
 aliases: ["Artisan"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=531"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Artisan  *Creature Family*

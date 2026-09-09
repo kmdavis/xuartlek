@@ -8,6 +8,7 @@ tags:
 aliases: ["Enigma Mirror"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2229"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Enigma Mirror  *Item 7+*

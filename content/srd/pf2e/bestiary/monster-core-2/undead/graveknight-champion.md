@@ -12,6 +12,7 @@ name: "Graveknight Champion"
 level: 15
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4420"
+socialImage: og-image.png
 ---
 
 ```statblock

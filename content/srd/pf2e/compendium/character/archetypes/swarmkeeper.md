@@ -7,6 +7,7 @@ tags:
 aliases: ["Swarmkeeper"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=223"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Swarmkeeper  *Archetype 2*

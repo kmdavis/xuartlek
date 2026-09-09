@@ -5,6 +5,7 @@ tags:
 aliases: ["Ketephys"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=462"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Ketephys  *Deity*

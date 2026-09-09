@@ -8,6 +8,7 @@ tags:
 aliases: ["Destined Victory"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7181"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Destined Victory  *Feat 14*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Aiuvarin"]
 aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=69"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Aiuvarin  *Versatile Heritage*

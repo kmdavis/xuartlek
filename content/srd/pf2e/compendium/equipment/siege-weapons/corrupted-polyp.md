@@ -9,6 +9,7 @@ tags:
 aliases: ["Corrupted Polyp"]
 aon_url: "https://2e.aonprd.com/SiegeWeapons.aspx?ID=46"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Corrupted Polyp  *Siege Weapon 19*

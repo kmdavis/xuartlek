@@ -7,6 +7,7 @@ tags:
 aliases: ["Cloud Step"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4980"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Cloud Step  *Feat 16*

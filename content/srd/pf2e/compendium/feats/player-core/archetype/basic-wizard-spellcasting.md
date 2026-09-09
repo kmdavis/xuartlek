@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Wizard Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5109"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Basic Wizard Spellcasting  *Feat 4*

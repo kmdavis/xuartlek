@@ -7,6 +7,7 @@ tags:
 aliases: ["Jann's Prism"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2655"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Jann's Prism  *Item 9*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Skilled Herbalist"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5325"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Skilled Herbalist  *Feat 1*

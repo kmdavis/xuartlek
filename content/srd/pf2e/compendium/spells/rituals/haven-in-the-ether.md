@@ -9,6 +9,7 @@ tags:
 aliases: ["Haven in the Ether"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=256"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Haven in the Ether  *Ritual 9*

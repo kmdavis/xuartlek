@@ -12,6 +12,7 @@ tags:
 aliases: ["Nature's Pathway"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1613"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Nature's Pathway  *Spell 5*

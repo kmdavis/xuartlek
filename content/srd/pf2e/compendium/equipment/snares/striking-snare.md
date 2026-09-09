@@ -10,6 +10,7 @@ tags:
 aliases: ["Striking Snare"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3387"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Striking Snare  *Item 8*

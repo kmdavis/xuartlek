@@ -7,6 +7,7 @@ tags:
 aliases: ["Larger than Life (Guardian)"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7832"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Larger than Life (Guardian)  *Feat 1*

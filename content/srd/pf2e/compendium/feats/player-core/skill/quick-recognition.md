@@ -8,6 +8,7 @@ tags:
 aliases: ["Quick Recognition"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5197"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Quick Recognition  *Feat 7*

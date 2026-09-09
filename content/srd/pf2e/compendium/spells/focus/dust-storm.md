@@ -13,6 +13,7 @@ tags:
 aliases: ["Dust Storm"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2388"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Dust Storm  *Focus 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

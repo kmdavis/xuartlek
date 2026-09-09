@@ -5,6 +5,7 @@ tags:
 aliases: ["Haggakal"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=493"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Haggakal  *Deity*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Spell Devourer"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4528"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Spell Devourer  *Feat 13*

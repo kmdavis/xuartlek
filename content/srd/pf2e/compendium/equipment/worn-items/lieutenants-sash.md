@@ -8,6 +8,7 @@ tags:
 aliases: ["Lieutenant's Sash"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3969"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Lieutenant's Sash  *Item 6*

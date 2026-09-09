@@ -11,6 +11,7 @@ tags:
 aliases: ["Mind Probe"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1601"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Mind Probe  *Spell 5*

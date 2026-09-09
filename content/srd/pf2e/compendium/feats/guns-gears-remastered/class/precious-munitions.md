@@ -7,6 +7,7 @@ tags:
 aliases: ["Precious Munitions"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3185"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Precious Munitions  *Feat 10*

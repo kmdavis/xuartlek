@@ -5,6 +5,7 @@ tags:
 aliases: ["Villain"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=550"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Villain  *Creature Family*

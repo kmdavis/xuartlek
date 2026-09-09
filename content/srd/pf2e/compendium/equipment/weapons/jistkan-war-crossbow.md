@@ -8,6 +8,7 @@ tags:
 aliases: ["Jistkan War Crossbow"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3850"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Jistkan War Crossbow  *Item 18*

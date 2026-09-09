@@ -7,6 +7,7 @@ tags:
 aliases: ["Messenger"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9397"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Messenger  *Feat 1*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Gorgon"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=496"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Gorgon  *Creature Family*

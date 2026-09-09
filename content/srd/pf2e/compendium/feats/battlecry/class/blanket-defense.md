@@ -8,6 +8,7 @@ tags:
 aliases: ["Blanket Defense"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7873"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Blanket Defense  *Feat 14*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

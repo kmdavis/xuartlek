@@ -10,6 +10,7 @@ tags:
 aliases: ["Black Adder Venom"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3324"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Black Adder Venom  *Item 2*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Hot Air Balloon"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=59"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Hot Air Balloon  *Vehicle 2*

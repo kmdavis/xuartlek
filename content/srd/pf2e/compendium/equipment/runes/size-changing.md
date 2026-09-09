@@ -7,6 +7,7 @@ tags:
 aliases: ["Size-Changing"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2795"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Size-Changing  *Item 7*

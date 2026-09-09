@@ -8,6 +8,7 @@ tags:
 aliases: ["Slamming Door"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=481"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Slamming Door  *Hazard 1*

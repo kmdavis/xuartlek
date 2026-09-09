@@ -7,6 +7,7 @@ tags:
 aliases: ["Agile Maneuvers"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6152"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Agile Maneuvers  *Feat 6*

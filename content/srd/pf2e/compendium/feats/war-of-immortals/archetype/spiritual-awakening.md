@@ -7,6 +7,7 @@ tags:
 aliases: ["Spiritual Awakening"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7221"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Spiritual Awakening  *Feat 4*

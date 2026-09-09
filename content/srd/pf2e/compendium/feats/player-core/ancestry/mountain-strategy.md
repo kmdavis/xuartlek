@@ -7,6 +7,7 @@ tags:
 aliases: ["Mountain Strategy"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4390"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Mountain Strategy  *Feat 1*

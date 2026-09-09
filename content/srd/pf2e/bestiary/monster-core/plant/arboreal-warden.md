@@ -11,6 +11,7 @@ name: "Arboreal Warden"
 level: 4
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2829"
+socialImage: og-image.png
 ---
 
 ```statblock

@@ -8,6 +8,7 @@ tags:
 aliases: ["Lengthy Diversion"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5176"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Lengthy Diversion  *Feat 1*

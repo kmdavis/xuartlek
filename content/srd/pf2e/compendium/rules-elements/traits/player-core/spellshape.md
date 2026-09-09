@@ -7,6 +7,7 @@ tags:
 aliases: ["Spellshape"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=513"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Spellshape  *Trait*

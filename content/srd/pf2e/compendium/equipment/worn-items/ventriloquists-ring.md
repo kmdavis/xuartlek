@@ -8,6 +8,7 @@ tags:
 aliases: ["Ventriloquist's Ring"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3114"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Ventriloquist's Ring  *Item 3+*

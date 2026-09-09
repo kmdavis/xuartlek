@@ -11,6 +11,7 @@ name: "Cullitox"
 level: 3
 source: "Rage of Elements"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2623"
+socialImage: og-image.png
 ---
 
 ```statblock

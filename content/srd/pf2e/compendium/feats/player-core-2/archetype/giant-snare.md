@@ -7,6 +7,7 @@ tags:
 aliases: ["Giant Snare"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6417"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Giant Snare  *Feat 10*

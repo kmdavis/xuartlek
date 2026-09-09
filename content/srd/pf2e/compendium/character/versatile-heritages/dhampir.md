@@ -7,6 +7,7 @@ tags:
 aliases: ["Dhampir"]
 aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=85"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Dhampir  *Versatile Heritage*

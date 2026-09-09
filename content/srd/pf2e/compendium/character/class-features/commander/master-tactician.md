@@ -6,6 +6,7 @@ tags:
 aliases: ["Master Tactician"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=66"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Master Tactician  *Class Feature 15*

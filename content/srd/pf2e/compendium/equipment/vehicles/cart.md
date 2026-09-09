@@ -6,6 +6,7 @@ tags:
 aliases: ["Cart"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=64"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Cart  *Vehicle 0*

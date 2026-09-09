@@ -7,6 +7,7 @@ tags:
 aliases: ["Ooze Skin"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1980"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Ooze Skin  *Item 5*

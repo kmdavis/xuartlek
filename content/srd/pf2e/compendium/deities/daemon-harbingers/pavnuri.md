@@ -5,6 +5,7 @@ tags:
 aliases: ["Pavnuri"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=420"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Pavnuri  *Deity*

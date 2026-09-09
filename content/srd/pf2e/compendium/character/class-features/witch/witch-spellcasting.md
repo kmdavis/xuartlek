@@ -6,6 +6,7 @@ tags:
 aliases: ["Witch Spellcasting"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=38"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Witch Spellcasting  *Class Feature 1*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Patron’s Claim"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5019"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Patron’s Claim  *Feat 18*

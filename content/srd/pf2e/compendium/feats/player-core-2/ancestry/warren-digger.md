@@ -7,6 +7,7 @@ tags:
 aliases: ["Warren Digger"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5670"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Warren Digger  *Feat 13*

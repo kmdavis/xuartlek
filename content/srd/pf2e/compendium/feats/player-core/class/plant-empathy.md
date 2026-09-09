@@ -7,6 +7,7 @@ tags:
 aliases: ["Plant Empathy"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4711"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Plant Empathy  *Feat 1*

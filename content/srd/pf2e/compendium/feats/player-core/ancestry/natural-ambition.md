@@ -7,6 +7,7 @@ tags:
 aliases: ["Natural Ambition"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4478"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Natural Ambition  *Feat 1*

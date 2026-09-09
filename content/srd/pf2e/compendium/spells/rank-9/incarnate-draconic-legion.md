@@ -9,6 +9,7 @@ tags:
 aliases: ["Incarnate Draconic Legion"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2739"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Incarnate Draconic Legion  *Spell 9*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

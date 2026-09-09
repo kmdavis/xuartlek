@@ -7,6 +7,7 @@ tags:
 aliases: ["Artisanal Crafter"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5361"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Artisanal Crafter  *Feat 1*

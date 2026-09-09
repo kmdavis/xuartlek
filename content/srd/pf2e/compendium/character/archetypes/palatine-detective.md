@@ -7,6 +7,7 @@ tags:
 aliases: ["Palatine Detective"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=306"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Palatine Detective  *Archetype 2*

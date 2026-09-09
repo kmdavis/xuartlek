@@ -6,6 +6,7 @@ tags:
 aliases: ["Incapacitation"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=631"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Incapacitation  *Trait*

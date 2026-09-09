@@ -8,6 +8,7 @@ tags:
 aliases: ["Slippery Prey"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6505"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Slippery Prey  *Feat 2*

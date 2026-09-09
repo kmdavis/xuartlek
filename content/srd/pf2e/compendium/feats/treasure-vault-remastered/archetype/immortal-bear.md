@@ -7,6 +7,7 @@ tags:
 aliases: ["Immortal Bear"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4095"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Immortal Bear  *Feat 20*

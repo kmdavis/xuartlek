@@ -5,6 +5,7 @@ tags:
 aliases: ["Vavaalrav"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=552"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Vavaalrav  *Deity*

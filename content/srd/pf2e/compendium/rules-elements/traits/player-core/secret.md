@@ -6,6 +6,7 @@ tags:
 aliases: ["Secret"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=690"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Secret  *Trait*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Weapon Proficiency"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5239"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Weapon Proficiency  *Feat 1*

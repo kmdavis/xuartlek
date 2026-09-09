@@ -8,6 +8,7 @@ tags:
 aliases: ["Sixth Sense"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8324"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sixth Sense  *Feat 6*

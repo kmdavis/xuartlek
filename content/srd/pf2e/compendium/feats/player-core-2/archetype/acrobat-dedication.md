@@ -8,6 +8,7 @@ tags:
 aliases: ["Acrobat Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6240"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Acrobat Dedication  *Feat 2*

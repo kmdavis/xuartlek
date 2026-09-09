@@ -9,6 +9,7 @@ tags:
 source: "Treasure Vault (Remastered)"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=1955"
 citation: "Treasure Vault (Remastered) pg. 158"
+socialImage: og-image.png
 ---
 
 # Crafting Alternate Rules

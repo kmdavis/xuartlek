@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/howl-of-the-wild
 aliases: ["Sidebars: Howl of the Wild"]
 entries: 10
+socialImage: og-image.png
 ---
 
 # Sidebars: Howl of the Wild

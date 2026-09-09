@@ -7,6 +7,7 @@ tags:
 aliases: ["Elemental Revision"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9195"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Elemental Revision  *Feat 8*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

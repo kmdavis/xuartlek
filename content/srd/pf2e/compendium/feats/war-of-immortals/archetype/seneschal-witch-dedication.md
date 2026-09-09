@@ -10,6 +10,7 @@ tags:
 aliases: ["Seneschal Witch Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7247"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Seneschal Witch Dedication  *Feat 2*

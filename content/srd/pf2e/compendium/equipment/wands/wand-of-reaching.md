@@ -8,6 +8,7 @@ tags:
 aliases: ["Wand of Reaching"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2287"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wand of Reaching  *Item 4+*

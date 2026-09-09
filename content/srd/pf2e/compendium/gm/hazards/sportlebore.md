@@ -6,6 +6,7 @@ tags:
 aliases: ["Sportlebore"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=625"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Sportlebore  *Hazard 7*

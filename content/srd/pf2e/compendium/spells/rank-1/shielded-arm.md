@@ -9,6 +9,7 @@ tags:
 aliases: ["Shielded Arm"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1378"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Shielded Arm  *Spell 1*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

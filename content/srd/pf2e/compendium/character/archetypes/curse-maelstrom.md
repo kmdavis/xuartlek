@@ -7,6 +7,7 @@ tags:
 aliases: ["Curse Maelstrom"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=347"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Curse Maelstrom  *Archetype 2*

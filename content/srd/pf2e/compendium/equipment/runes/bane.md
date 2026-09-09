@@ -8,6 +8,7 @@ tags:
 aliases: ["Bane"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4986"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Bane  *Item 4*

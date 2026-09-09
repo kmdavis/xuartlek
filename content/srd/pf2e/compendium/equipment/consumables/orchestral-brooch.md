@@ -10,6 +10,7 @@ tags:
 aliases: ["Orchestral Brooch"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5106"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Orchestral Brooch  *Item 8*

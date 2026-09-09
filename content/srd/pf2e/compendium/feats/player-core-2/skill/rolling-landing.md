@@ -8,6 +8,7 @@ tags:
 aliases: ["Rolling Landing"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6500"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Rolling Landing  *Feat 2*

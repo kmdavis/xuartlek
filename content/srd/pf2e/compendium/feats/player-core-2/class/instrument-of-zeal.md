@@ -7,6 +7,7 @@ tags:
 aliases: ["Instrument of Zeal"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5925"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Instrument of Zeal  *Feat 16*

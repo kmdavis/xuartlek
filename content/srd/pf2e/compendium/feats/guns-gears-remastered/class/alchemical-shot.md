@@ -7,6 +7,7 @@ tags:
 aliases: ["Alchemical Shot"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3165"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Alchemical Shot  *Feat 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

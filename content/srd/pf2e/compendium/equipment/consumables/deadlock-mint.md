@@ -9,6 +9,7 @@ tags:
 aliases: ["Deadlock Mint"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2021"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Deadlock Mint  *Item 3+*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Gnome Obsession"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4426"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Gnome Obsession  *Feat 1*

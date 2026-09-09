@@ -8,6 +8,7 @@ tags:
 aliases: ["Kip Up"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5165"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Kip Up  *Feat 7*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

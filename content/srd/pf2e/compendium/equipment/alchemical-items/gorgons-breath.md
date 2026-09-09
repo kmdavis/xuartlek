@@ -11,6 +11,7 @@ tags:
 aliases: ["Gorgon's Breath"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2004"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Gorgon's Breath  *Item 13*

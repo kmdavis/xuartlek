@@ -8,6 +8,7 @@ tags:
 aliases: ["Rebounding Breastplate"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4983"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Rebounding Breastplate  *Item 20*

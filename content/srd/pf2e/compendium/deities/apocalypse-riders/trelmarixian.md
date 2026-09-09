@@ -5,6 +5,7 @@ tags:
 aliases: ["Trelmarixian"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=393"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Trelmarixian  *Deity*

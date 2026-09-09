@@ -7,6 +7,7 @@ tags:
 aliases: ["Veteran Follower"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8000"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Veteran Follower  *Feat 8*

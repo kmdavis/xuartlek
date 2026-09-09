@@ -8,6 +8,7 @@ tags:
 aliases: ["Magical Adept"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9255"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Magical Adept  *Feat 8*

@@ -13,6 +13,7 @@ name: "Ninkonda"
 level: 17
 source: "Monster Core 2"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4031"
+socialImage: og-image.png
 ---
 
 ```statblock

@@ -12,6 +12,7 @@ tags:
 aliases: ["Live Wire"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2008"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Live Wire  *Cantrip 1*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

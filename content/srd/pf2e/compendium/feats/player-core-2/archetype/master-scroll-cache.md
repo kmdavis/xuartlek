@@ -7,6 +7,7 @@ tags:
 aliases: ["Master Scroll Cache"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6404"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Master Scroll Cache  *Feat 18*

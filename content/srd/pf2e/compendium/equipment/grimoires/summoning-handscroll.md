@@ -8,6 +8,7 @@ tags:
 aliases: ["Summoning Handscroll"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5135"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Summoning Handscroll  *Item 8*

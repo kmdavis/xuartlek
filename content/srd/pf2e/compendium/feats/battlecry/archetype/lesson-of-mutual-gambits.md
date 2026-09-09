@@ -8,6 +8,7 @@ tags:
 aliases: ["Lesson of Mutual Gambits"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7949"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Lesson of Mutual Gambits  *Feat 8*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

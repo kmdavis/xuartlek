@@ -5,6 +5,7 @@ tags:
 aliases: ["Basilisk"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=488"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Basilisk  *Creature Family*

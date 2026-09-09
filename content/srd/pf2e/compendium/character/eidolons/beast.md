@@ -7,6 +7,7 @@ tags:
 aliases: ["Beast"]
 aon_url: "https://2e.aonprd.com/Eidolons.aspx?ID=17"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Beast  *Summoner Eidolon*

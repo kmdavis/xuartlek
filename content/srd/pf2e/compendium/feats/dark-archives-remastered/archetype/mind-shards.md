@@ -10,6 +10,7 @@ tags:
 aliases: ["Mind Shards"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8509"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mind Shards  *Feat 6*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

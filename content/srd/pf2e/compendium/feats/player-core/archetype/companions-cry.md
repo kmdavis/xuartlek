@@ -7,6 +7,7 @@ tags:
 aliases: ["Companion's Cry"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4871"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Companion's Cry  *Feat 4*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Orc"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=454"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Orc  *Creature Family*

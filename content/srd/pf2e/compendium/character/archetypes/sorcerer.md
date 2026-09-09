@@ -6,6 +6,7 @@ tags:
 aliases: ["Sorcerer"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=234"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Sorcerer  *Archetype 2*

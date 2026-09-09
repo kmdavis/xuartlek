@@ -11,6 +11,7 @@ tags:
 aliases: ["Sanguine Mutagen"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1964"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sanguine Mutagen  *Item 1+*

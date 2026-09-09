@@ -7,6 +7,7 @@ tags:
 aliases: ["Club"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=357"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Club  *Weapon 0*

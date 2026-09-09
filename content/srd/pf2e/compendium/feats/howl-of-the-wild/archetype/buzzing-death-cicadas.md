@@ -8,6 +8,7 @@ tags:
 aliases: ["Buzzing Death Cicadas"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5472"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Buzzing Death Cicadas  *Feat 12*

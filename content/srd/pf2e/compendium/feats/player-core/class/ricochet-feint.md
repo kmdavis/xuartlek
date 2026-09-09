@@ -7,6 +7,7 @@ tags:
 aliases: ["Ricochet Feint"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4973"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Ricochet Feint  *Feat 12*

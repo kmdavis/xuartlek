@@ -7,6 +7,7 @@ tags:
 aliases: ["Basic Rivethun Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7589"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Basic Rivethun Spellcasting  *Feat 4*

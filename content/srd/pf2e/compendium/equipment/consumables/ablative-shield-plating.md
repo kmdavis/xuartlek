@@ -9,6 +9,7 @@ tags:
 aliases: ["Ablative Shield Plating"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1103"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Ablative Shield Plating  *Item 1+*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Hundred-moth Caress"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5020"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Hundred-moth Caress  *Item 8*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Tripkee"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=551"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Tripkee  *Creature Family*

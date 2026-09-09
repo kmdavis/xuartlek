@@ -7,6 +7,7 @@ tags:
 aliases: ["Evasiveness (Rogue)"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5098"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Evasiveness (Rogue)  *Feat 12*

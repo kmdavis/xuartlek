@@ -11,6 +11,7 @@ tags:
 aliases: ["Horsechopper"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=409"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Horsechopper  *Weapon 0*

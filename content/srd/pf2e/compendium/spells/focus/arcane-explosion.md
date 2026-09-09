@@ -12,6 +12,7 @@ tags:
 aliases: ["Arcane Explosion"]
 aon_url: "https://2e.aonprd.com/MythicSpells.aspx?ID=2151"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Arcane Explosion  *Focus 9*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

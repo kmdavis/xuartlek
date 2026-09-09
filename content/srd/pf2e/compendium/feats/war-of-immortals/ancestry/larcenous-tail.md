@@ -7,6 +7,7 @@ tags:
 aliases: ["Larcenous Tail"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7212"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Larcenous Tail  *Feat 9*

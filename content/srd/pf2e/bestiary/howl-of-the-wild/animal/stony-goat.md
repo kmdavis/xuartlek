@@ -11,6 +11,7 @@ name: "Stony Goat"
 level: 2
 source: "Howl of the Wild"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3313"
+socialImage: og-image.png
 ---
 
 ```statblock

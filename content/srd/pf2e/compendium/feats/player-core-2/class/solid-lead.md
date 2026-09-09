@@ -7,6 +7,7 @@ tags:
 aliases: ["Solid Lead"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5945"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Solid Lead  *Feat 2*

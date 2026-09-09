@@ -9,6 +9,7 @@ tags:
 aliases: ["Mukradi Jar"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1951"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mukradi Jar  *Item 15*

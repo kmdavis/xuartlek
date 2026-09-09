@@ -7,6 +7,7 @@ tags:
 aliases: ["Rapid Recharge"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9077"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Rapid Recharge  *Feat 10*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

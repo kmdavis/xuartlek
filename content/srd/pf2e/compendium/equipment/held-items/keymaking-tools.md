@@ -7,6 +7,7 @@ tags:
 aliases: ["Keymaking Tools"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5145"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Keymaking Tools  *Item 3*

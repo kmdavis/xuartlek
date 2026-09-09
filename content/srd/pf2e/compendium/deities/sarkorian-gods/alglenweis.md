@@ -5,6 +5,7 @@ tags:
 aliases: ["Alglenweis"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=605"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Alglenweis  *Deity*

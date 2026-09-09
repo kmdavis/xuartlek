@@ -7,6 +7,7 @@ tags:
 aliases: ["Strong of Wing"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5311"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Strong of Wing  *Feat 5*

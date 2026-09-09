@@ -6,6 +6,7 @@ tags:
 aliases: ["Fourth Apparition"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=64"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Fourth Apparition  *Class Feature 15*

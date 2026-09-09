@@ -7,6 +7,7 @@ tags:
 aliases: ["Oil-Slicked Walls"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=211"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Oil-Slicked Walls  *Ritual 2*

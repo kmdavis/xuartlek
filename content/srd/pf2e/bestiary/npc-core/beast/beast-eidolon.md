@@ -11,6 +11,7 @@ name: "Beast Eidolon"
 level: 10
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3679"
+socialImage: og-image.png
 ---
 
 ```statblock

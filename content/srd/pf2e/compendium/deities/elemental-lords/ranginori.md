@@ -5,6 +5,7 @@ tags:
 aliases: ["Ranginori"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=693"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Ranginori  *Deity*

@@ -9,6 +9,7 @@ tags:
 source: "Player Core"
 aon_url: "https://2e.aonprd.com/Rules.aspx?ID=2252"
 citation: "Player Core pg. 303"
+socialImage: og-image.png
 ---
 
 # Setting Triggers

@@ -9,6 +9,7 @@ tags:
 aliases: ["Summon Plant or Fungus"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1705"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Summon Plant or Fungus  *Spell 1*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

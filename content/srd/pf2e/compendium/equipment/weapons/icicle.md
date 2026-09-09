@@ -8,6 +8,7 @@ tags:
 aliases: ["Icicle"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2868"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Icicle  *Item 16*

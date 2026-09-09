@@ -8,6 +8,7 @@ tags:
 aliases: ["Ward Medic"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5237"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Ward Medic  *Feat 2*

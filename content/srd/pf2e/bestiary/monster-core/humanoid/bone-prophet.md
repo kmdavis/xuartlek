@@ -11,6 +11,7 @@ name: "Bone Prophet"
 level: 8
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3185"
+socialImage: og-image.png
 ---
 
 ```statblock

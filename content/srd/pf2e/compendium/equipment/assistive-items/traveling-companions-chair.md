@@ -7,6 +7,7 @@ tags:
 aliases: ["Traveling Companion's Chair"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2148"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Traveling Companion's Chair  *Item 1*

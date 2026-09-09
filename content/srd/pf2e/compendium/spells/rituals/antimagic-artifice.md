@@ -7,6 +7,7 @@ tags:
 aliases: ["Antimagic Artifice"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=207"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Antimagic Artifice  *Ritual 9*

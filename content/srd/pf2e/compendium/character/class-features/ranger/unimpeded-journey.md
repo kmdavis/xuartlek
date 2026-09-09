@@ -6,6 +6,7 @@ tags:
 aliases: ["Unimpeded Journey"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=36"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Unimpeded Journey  *Class Feature 11*

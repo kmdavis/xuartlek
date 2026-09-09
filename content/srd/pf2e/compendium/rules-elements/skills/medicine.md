@@ -5,6 +5,7 @@ tags:
 aliases: ["Medicine"]
 aon_url: "https://2e.aonprd.com/Skills.aspx?ID=42"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Medicine  *Skill*

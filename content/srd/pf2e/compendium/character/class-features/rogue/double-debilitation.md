@@ -6,6 +6,7 @@ tags:
 aliases: ["Double Debilitation"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=37"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Double Debilitation  *Class Feature 15*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Leave An Opening"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4977"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Leave An Opening  *Feat 14*

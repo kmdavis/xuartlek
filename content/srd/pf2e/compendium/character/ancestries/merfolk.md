@@ -9,6 +9,7 @@ tags:
 aliases: ["Merfolk"]
 aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=74"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Merfolk  *Ancestry*

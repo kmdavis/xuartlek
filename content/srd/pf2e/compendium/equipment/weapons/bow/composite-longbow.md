@@ -9,6 +9,7 @@ tags:
 aliases: ["Composite Longbow"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=434"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Composite Longbow  *Weapon 1*

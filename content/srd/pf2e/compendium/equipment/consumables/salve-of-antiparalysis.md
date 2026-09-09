@@ -10,6 +10,7 @@ tags:
 aliases: ["Salve of Antiparalysis"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2940"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Salve of Antiparalysis  *Item 6+*

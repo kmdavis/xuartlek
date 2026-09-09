@@ -7,6 +7,7 @@ tags:
 aliases: ["Spell Combination"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5054"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Spell Combination  *Feat 20*

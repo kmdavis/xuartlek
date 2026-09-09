@@ -12,6 +12,7 @@ tags:
 aliases: ["Faerie Dust"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2108"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Faerie Dust  *Focus 1*  [?](books/player-core/chapter-8-playing-the-game/actions#Actions "Varies")

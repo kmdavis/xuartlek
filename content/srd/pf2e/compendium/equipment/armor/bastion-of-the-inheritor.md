@@ -9,6 +9,7 @@ tags:
 aliases: ["Bastion of the Inheritor"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1841"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Bastion of the Inheritor  *Item 12*

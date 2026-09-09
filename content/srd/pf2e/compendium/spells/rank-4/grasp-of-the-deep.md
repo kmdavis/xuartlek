@@ -10,6 +10,7 @@ tags:
 aliases: ["Grasp of the Deep"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1390"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Grasp of the Deep  *Spell 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

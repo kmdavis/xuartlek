@@ -10,6 +10,7 @@ tags:
 aliases: ["Perfected Mind"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1830"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Perfected Mind  *Focus 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

@@ -6,6 +6,7 @@ tags:
 aliases: ["Shield Bash"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=395"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Shield Bash  *Weapon 0*

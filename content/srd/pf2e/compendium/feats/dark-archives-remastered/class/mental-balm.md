@@ -10,6 +10,7 @@ tags:
 aliases: ["Mental Balm"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8314"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mental Balm  *Feat 2*

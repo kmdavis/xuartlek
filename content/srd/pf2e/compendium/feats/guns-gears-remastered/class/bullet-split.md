@@ -8,6 +8,7 @@ tags:
 aliases: ["Bullet Split"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3177"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Bullet Split  *Feat 8*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

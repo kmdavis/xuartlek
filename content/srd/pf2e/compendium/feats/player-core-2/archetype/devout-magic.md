@@ -7,6 +7,7 @@ tags:
 aliases: ["Devout Magic"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6199"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Devout Magic  *Feat 4*

@@ -7,6 +7,7 @@ tags:
 - compendium/src/pf2e/treasure-vault-remastered
 aliases: ["Animal Companions"]
 entries: 43
+socialImage: og-image.png
 ---
 
 # Animal Companions

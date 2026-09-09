@@ -8,6 +8,7 @@ tags:
 aliases: ["Clockwork Bookshelf"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1141"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Clockwork Bookshelf  *Item 1*

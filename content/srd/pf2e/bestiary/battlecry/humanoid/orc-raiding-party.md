@@ -12,6 +12,7 @@ name: "Orc Raiding Party"
 level: 5
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3931"
+socialImage: og-image.png
 ---
 
 ```statblock

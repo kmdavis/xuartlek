@@ -10,6 +10,7 @@ tags:
 aliases: ["Wand of Traitorous Thoughts"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2297"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Wand of Traitorous Thoughts  *Item 12*

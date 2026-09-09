@@ -7,6 +7,7 @@ tags:
 aliases: ["Elemental Fist"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5987"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Elemental Fist  *Feat 2*

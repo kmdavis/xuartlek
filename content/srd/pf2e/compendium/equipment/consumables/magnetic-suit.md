@@ -8,6 +8,7 @@ tags:
 aliases: ["Magnetic Suit"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1117"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Magnetic Suit  *Item 4+*

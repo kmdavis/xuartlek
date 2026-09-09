@@ -7,6 +7,7 @@ tags:
 aliases: ["Leshy"]
 aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=65"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Leshy  *Ancestry*

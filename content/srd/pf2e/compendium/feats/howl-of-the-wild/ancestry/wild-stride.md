@@ -7,6 +7,7 @@ tags:
 aliases: ["Wild Stride"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5313"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Wild Stride  *Feat 5*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

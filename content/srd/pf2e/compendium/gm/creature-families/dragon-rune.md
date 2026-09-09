@@ -5,6 +5,7 @@ tags:
 aliases: ["Dragon, Rune"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=588"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Dragon, Rune  *Creature Family*

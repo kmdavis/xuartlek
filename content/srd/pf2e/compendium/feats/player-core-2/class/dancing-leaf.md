@@ -7,6 +7,7 @@ tags:
 aliases: ["Dancing Leaf"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5986"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Dancing Leaf  *Feat 2*

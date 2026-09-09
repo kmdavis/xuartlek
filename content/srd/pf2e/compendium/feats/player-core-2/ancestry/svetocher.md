@@ -8,6 +8,7 @@ tags:
 aliases: ["Svetocher"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5714"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Svetocher  *Feat 1*

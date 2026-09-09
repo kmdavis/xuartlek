@@ -5,6 +5,7 @@ tags:
 aliases: ["Gnome"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=45"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Gnome  *Creature Adjustment*

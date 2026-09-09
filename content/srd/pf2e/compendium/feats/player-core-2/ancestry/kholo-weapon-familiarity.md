@@ -8,6 +8,7 @@ tags:
 aliases: ["Kholo Weapon Familiarity"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5593"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Kholo Weapon Familiarity  *Feat 1*

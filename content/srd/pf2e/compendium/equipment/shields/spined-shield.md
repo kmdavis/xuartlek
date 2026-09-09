@@ -6,6 +6,7 @@ tags:
 aliases: ["Spined Shield"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2827"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Spined Shield  *Item 7*

@@ -9,6 +9,7 @@ tags:
 aliases: ["World In Shadow"]
 aon_url: "https://2e.aonprd.com/MythicRituals.aspx?ID=200"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # World In Shadow  *Ritual 5*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Lyrakien Staff"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2255"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Lyrakien Staff  *Item 6+*

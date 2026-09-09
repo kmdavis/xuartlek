@@ -7,6 +7,7 @@ tags:
 aliases: ["Digger"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5317"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Digger  *Feat 13*

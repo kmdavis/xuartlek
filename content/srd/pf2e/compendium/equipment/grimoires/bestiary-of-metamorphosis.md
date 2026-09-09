@@ -8,6 +8,7 @@ tags:
 aliases: ["Bestiary Of Metamorphosis"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5120"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Bestiary Of Metamorphosis  *Item 6*

@@ -10,6 +10,7 @@ tags:
 aliases: ["Glory and Valor!"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7211"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Glory and Valor!  *Feat 9*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

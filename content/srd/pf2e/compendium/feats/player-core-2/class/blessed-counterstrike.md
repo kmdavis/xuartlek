@@ -8,6 +8,7 @@ tags:
 aliases: ["Blessed Counterstrike"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5914"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Blessed Counterstrike  *Feat 12*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

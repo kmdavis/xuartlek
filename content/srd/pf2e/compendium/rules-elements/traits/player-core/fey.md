@@ -6,6 +6,7 @@ tags:
 aliases: ["Fey"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=599"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Fey  *Trait*

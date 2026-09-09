@@ -9,6 +9,7 @@ tags:
 aliases: ["Alchemist Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6184"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Alchemist Dedication  *Feat 2*

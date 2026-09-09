@@ -8,6 +8,7 @@ tags:
 aliases: ["Splintering Spear"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2646"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Splintering Spear  *Item 13+*

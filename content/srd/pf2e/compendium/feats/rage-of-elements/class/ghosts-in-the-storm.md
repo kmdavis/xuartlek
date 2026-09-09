@@ -12,6 +12,7 @@ tags:
 aliases: ["Ghosts in the Storm"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4216"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Ghosts in the Storm  *Feat 12*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

@@ -5,6 +5,7 @@ tags:
 aliases: ["Fleshwarp"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=415"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Fleshwarp  *Creature Family*

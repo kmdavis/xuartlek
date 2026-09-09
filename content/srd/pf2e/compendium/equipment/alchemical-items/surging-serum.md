@@ -10,6 +10,7 @@ tags:
 aliases: ["Surging Serum"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3313"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Surging Serum  *Item 2+*

@@ -11,6 +11,7 @@ tags:
 aliases: ["Gelid Shard"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2369"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Gelid Shard  *Item 2*

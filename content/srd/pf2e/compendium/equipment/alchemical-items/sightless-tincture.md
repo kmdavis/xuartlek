@@ -11,6 +11,7 @@ tags:
 aliases: ["Sightless Tincture"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2013"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Sightless Tincture  *Item 9*

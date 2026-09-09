@@ -13,6 +13,7 @@ tags:
 aliases: ["Molten Wire"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4306"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Molten Wire  *Feat 6*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

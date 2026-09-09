@@ -9,6 +9,7 @@ tags:
 aliases: ["Apparition Stabilization"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7130"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Apparition Stabilization  *Feat 6*

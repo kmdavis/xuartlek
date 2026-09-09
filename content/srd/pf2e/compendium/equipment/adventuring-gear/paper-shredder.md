@@ -8,6 +8,7 @@ tags:
 aliases: ["Paper Shredder"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1155"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Paper Shredder  *Item 2*

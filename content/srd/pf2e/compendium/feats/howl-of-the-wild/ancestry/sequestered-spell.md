@@ -7,6 +7,7 @@ tags:
 aliases: ["Sequestered Spell"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5384"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Sequestered Spell  *Feat 1*

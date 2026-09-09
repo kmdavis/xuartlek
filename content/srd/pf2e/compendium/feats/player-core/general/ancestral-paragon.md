@@ -7,6 +7,7 @@ tags:
 aliases: ["Ancestral Paragon"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5118"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Ancestral Paragon  *Feat 3*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Reflect Spell"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5016"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Reflect Spell  *Feat 14*

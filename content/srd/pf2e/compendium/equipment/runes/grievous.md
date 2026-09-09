@@ -7,6 +7,7 @@ tags:
 aliases: ["Grievous"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2841"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Grievous  *Item 9*

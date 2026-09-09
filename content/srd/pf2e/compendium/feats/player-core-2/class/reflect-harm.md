@@ -7,6 +7,7 @@ tags:
 aliases: ["Reflect Harm"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6117"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Reflect Harm  *Feat 14*

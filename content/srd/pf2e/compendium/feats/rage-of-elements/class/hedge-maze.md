@@ -13,6 +13,7 @@ tags:
 aliases: ["Hedge Maze"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4291"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Hedge Maze  *Feat 12*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

@@ -10,6 +10,7 @@ tags:
 aliases: ["Instant Minefield"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2509"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Instant Minefield  *Spell 5*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

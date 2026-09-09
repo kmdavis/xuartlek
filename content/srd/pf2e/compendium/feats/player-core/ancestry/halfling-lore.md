@@ -7,6 +7,7 @@ tags:
 aliases: ["Halfling Lore"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4457"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Halfling Lore  *Feat 1*

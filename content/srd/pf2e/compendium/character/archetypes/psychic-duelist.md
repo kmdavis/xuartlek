@@ -7,6 +7,7 @@ tags:
 aliases: ["Psychic Duelist"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=350"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Psychic Duelist  *Archetype 4*

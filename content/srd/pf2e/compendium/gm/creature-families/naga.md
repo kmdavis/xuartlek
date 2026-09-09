@@ -5,6 +5,7 @@ tags:
 aliases: ["Naga"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=446"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Naga  *Creature Family*

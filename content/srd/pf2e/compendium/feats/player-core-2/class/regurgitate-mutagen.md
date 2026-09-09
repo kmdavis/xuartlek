@@ -8,6 +8,7 @@ tags:
 aliases: ["Regurgitate Mutagen"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5775"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Regurgitate Mutagen  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

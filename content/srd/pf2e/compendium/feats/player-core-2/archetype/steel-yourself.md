@@ -10,6 +10,7 @@ tags:
 aliases: ["Steel Yourself!"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6355"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Steel Yourself!  *Feat 4*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

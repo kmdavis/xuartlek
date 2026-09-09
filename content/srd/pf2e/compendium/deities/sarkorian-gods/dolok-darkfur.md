@@ -5,6 +5,7 @@ tags:
 aliases: ["Dolok Darkfur"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=606"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Dolok Darkfur  *Deity*

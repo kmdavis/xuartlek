@@ -8,6 +8,7 @@ tags:
 aliases: ["Staff of Protection"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3045"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Staff of Protection  *Item 6+*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Iron Cudgel"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3409"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Iron Cudgel  *Item 14*

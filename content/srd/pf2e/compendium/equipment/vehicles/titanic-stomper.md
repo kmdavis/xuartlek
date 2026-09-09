@@ -7,6 +7,7 @@ tags:
 aliases: ["Titanic Stomper"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=34"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Titanic Stomper  *Vehicle 15*

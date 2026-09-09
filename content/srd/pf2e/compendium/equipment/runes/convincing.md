@@ -7,6 +7,7 @@ tags:
 aliases: ["Convincing"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4987"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Convincing  *Item 5+*

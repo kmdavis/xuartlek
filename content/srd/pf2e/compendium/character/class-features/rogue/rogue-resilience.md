@@ -6,6 +6,7 @@ tags:
 aliases: ["Rogue Resilience"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=37"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Rogue Resilience  *Class Feature 9*

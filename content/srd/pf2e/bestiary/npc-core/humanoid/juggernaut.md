@@ -12,6 +12,7 @@ name: "Juggernaut"
 level: 13
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3465"
+socialImage: og-image.png
 ---
 
 ```statblock

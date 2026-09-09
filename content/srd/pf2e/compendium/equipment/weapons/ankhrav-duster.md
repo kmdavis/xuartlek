@@ -8,6 +8,7 @@ tags:
 aliases: ["Ankhrav Duster"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3201"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Ankhrav Duster  *Item 4*

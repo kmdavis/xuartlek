@@ -8,6 +8,7 @@ tags:
 aliases: ["Incredible Luck"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6178"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Incredible Luck  *Feat 18*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Ocean's Roar"]
 aon_url: "https://2e.aonprd.com/MythicRituals.aspx?ID=196"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Ocean's Roar  *Ritual 9*

@@ -11,6 +11,7 @@ tags:
 aliases: ["Reaper’s Lantern"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2017"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Reaper’s Lantern  *Spell 2*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

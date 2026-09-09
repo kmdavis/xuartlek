@@ -5,6 +5,7 @@ tags:
 aliases: ["Wildspell"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=295"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Wildspell  *Archetype*

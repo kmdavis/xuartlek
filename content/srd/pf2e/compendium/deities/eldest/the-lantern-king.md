@@ -5,6 +5,7 @@ tags:
 aliases: ["The Lantern King"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=455"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # The Lantern King  *Deity*

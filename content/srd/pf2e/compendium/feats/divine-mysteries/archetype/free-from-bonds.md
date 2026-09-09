@@ -7,6 +7,7 @@ tags:
 aliases: ["Free from Bonds"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7539"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Free from Bonds  *Feat 16*

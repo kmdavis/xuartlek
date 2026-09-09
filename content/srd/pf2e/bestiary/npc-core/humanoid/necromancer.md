@@ -11,6 +11,7 @@ name: "Necromancer"
 level: 5
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3538"
+socialImage: og-image.png
 ---
 
 ```statblock

@@ -11,6 +11,7 @@ tags:
 aliases: ["Digly's Oil of Sympathy"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3586"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Digly's Oil of Sympathy  *Item 1+*

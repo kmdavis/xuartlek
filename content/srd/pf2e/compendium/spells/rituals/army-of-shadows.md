@@ -8,6 +8,7 @@ tags:
 aliases: ["Army of Shadows"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=208"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Army of Shadows  *Ritual 2*

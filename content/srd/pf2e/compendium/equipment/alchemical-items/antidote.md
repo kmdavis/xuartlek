@@ -10,6 +10,7 @@ tags:
 aliases: ["Antidote"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3296"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Antidote  *Item 1+*

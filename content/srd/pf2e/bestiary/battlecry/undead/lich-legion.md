@@ -13,6 +13,7 @@ name: "Lich Legion"
 level: 18
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3926"
+socialImage: og-image.png
 ---
 
 ```statblock

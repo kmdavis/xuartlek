@@ -6,6 +6,7 @@ tags:
 aliases: ["Ancestry and Background"]
 aon_url: "https://2e.aonprd.com/Classes.aspx?ID=74"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Ancestry and Background  *Class Feature 1*

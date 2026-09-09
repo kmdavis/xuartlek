@@ -10,6 +10,7 @@ tags:
 aliases: ["Ring of Sneering Charity"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4144"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Ring of Sneering Charity  *Item 7*

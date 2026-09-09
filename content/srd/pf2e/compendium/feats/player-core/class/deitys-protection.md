@@ -7,6 +7,7 @@ tags:
 aliases: ["Deity's Protection"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4687"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Deity's Protection  *Feat 14*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Poltergeist's Fury"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2577"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Poltergeist's Fury  *Spell 6*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

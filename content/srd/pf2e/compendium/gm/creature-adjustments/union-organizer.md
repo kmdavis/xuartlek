@@ -5,6 +5,7 @@ tags:
 aliases: ["Union Organizer"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=35"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Union Organizer  *Creature Adjustment*

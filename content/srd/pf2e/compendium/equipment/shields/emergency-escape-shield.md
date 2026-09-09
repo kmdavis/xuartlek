@@ -7,6 +7,7 @@ tags:
 aliases: ["Emergency Escape Shield"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5001"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Emergency Escape Shield  *Item 6*

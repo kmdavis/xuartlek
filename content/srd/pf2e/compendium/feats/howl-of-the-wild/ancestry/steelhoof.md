@@ -7,6 +7,7 @@ tags:
 aliases: ["Steelhoof"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5326"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Steelhoof  *Feat 1*

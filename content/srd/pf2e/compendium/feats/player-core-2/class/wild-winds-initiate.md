@@ -7,6 +7,7 @@ tags:
 aliases: ["Wild Winds Initiate"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6017"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Wild Winds Initiate  *Feat 8*

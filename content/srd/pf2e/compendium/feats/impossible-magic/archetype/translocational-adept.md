@@ -7,6 +7,7 @@ tags:
 aliases: ["Translocational Adept"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9371"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Translocational Adept  *Feat 10*

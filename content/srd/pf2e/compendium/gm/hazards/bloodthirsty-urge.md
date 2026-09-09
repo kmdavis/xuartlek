@@ -7,6 +7,7 @@ tags:
 aliases: ["Bloodthirsty Urge"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=466"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Bloodthirsty Urge  *Hazard 10*

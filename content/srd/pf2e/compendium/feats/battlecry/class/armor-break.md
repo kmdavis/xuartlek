@@ -7,6 +7,7 @@ tags:
 aliases: ["Armor Break"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7867"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Armor Break  *Feat 12*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

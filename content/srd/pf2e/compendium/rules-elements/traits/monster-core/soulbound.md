@@ -6,6 +6,7 @@ tags:
 aliases: ["Soulbound"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=773"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Soulbound  *Trait*

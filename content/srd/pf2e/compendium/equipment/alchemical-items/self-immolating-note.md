@@ -10,6 +10,7 @@ tags:
 aliases: ["Self-Immolating Note"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4125"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Self-Immolating Note  *Item 1*

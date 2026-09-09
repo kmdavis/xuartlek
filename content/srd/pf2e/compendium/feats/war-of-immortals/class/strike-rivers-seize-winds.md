@@ -7,6 +7,7 @@ tags:
 aliases: ["Strike Rivers, Seize Winds"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7187"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Strike Rivers, Seize Winds  *Feat 16*

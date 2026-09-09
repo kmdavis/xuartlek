@@ -5,6 +5,7 @@ tags:
 aliases: ["Leech"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=606"
 source: "Monster Core 2"
+socialImage: og-image.png
 ---
 
 # Leech  *Creature Family*

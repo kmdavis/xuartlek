@@ -7,6 +7,7 @@ tags:
 aliases: ["Alchemical Power"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6189"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Alchemical Power  *Feat 12*

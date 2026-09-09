@@ -12,6 +12,7 @@ tags:
 aliases: ["Rain of Rust"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4299"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Rain of Rust  *Feat 4*  [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")

@@ -8,6 +8,7 @@ tags:
 aliases: ["Fireproof Gloves"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3963"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Fireproof Gloves  *Item 9+*

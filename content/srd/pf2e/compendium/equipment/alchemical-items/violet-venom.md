@@ -11,6 +11,7 @@ tags:
 aliases: ["Violet Venom"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2019"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Violet Venom  *Item 3*

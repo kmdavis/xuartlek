@@ -6,6 +6,7 @@ tags:
 aliases: ["Double Barrel"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=403"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Double Barrel  *Trait*

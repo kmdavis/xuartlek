@@ -8,6 +8,7 @@ tags:
 aliases: ["Guerrilla Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7931"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Guerrilla Dedication  *Feat 2*

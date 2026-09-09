@@ -8,6 +8,7 @@ tags:
 aliases: ["Captivator Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9315"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Captivator Dedication  *Feat 2*

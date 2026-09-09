@@ -9,6 +9,7 @@ tags:
 aliases: ["Steel Cloud Road"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5065"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Steel Cloud Road  *Item 7*

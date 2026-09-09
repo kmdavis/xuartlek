@@ -9,6 +9,7 @@ tags:
 aliases: ["Rapier"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=391"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Rapier  *Weapon 0*

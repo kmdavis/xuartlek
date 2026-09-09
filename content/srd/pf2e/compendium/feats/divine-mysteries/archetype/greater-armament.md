@@ -7,6 +7,7 @@ tags:
 aliases: ["Greater Armament"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7515"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Greater Armament  *Feat 16*

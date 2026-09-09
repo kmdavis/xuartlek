@@ -7,6 +7,7 @@ tags:
 aliases: ["Eternal Blessing"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4694"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Eternal Blessing  *Feat 16*

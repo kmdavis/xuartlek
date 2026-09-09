@@ -6,6 +6,7 @@ tags:
 aliases: ["Basic Face Mask"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2152"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Basic Face Mask  *Item 0*

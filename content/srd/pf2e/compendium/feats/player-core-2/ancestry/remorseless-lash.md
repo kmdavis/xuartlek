@@ -7,6 +7,7 @@ tags:
 aliases: ["Remorseless Lash"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5573"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Remorseless Lash  *Feat 1*

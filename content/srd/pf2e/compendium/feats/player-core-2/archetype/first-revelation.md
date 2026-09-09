@@ -7,6 +7,7 @@ tags:
 aliases: ["First Revelation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6220"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # First Revelation  *Feat 4*

@@ -11,6 +11,7 @@ tags:
 aliases: ["Earth's Bile"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=2144"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Earth's Bile  *Focus 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

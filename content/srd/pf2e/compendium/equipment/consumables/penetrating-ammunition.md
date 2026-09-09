@@ -8,6 +8,7 @@ tags:
 aliases: ["Penetrating Ammunition"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2925"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Penetrating Ammunition  *Item 12*

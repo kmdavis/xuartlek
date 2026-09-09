@@ -8,6 +8,7 @@ tags:
 aliases: ["Pitborn"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4547"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Pitborn  *Feat 1*

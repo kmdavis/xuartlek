@@ -10,6 +10,7 @@ tags:
 aliases: ["Hive Mother Bottle"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3231"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Hive Mother Bottle  *Item 8*

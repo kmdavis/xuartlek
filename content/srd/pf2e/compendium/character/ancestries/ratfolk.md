@@ -8,6 +8,7 @@ tags:
 aliases: ["Ratfolk"]
 aon_url: "https://2e.aonprd.com/Ancestries.aspx?ID=82"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Ratfolk  *Ancestry*

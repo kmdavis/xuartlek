@@ -13,6 +13,7 @@ name: "Brass Bastion"
 level: 14
 source: "Rage of Elements"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2631"
+socialImage: og-image.png
 ---
 
 ```statblock

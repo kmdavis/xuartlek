@@ -5,6 +5,7 @@ tags:
 aliases: ["Shivaska"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=436"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Shivaska  *Deity*

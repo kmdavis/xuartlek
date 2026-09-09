@@ -7,6 +7,7 @@ tags:
 aliases: ["Rivethun Involutionist"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=310"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Rivethun Involutionist  *Archetype 2*

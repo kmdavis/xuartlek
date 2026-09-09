@@ -10,6 +10,7 @@ tags:
 aliases: ["Accoutrements Of Bone"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4978"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Accoutrements Of Bone  *Item 9*

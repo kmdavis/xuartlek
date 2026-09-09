@@ -7,6 +7,7 @@ tags:
 aliases: ["Scar-Thick Skin"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4523"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Scar-Thick Skin  *Feat 5*

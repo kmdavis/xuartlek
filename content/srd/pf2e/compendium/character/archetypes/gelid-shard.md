@@ -5,6 +5,7 @@ tags:
 aliases: ["Gelid Shard"]
 aon_url: "https://2e.aonprd.com/Archetypes.aspx?ID=201"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Gelid Shard  *Archetype*

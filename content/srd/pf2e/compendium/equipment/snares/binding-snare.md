@@ -11,6 +11,7 @@ tags:
 aliases: ["Binding Snare"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1122"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Binding Snare  *Item 10*

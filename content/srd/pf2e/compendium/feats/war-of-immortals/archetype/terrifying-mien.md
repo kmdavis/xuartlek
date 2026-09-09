@@ -7,6 +7,7 @@ tags:
 aliases: ["Terrifying Mien"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7383"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Terrifying Mien  *Feat 16*

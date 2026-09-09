@@ -7,6 +7,7 @@ tags:
 aliases: ["Master Animist Spellcasting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7225"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Master Animist Spellcasting  *Feat 18*

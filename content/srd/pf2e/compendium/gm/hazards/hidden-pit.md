@@ -8,6 +8,7 @@ tags:
 aliases: ["Hidden Pit"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=474"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Hidden Pit  *Hazard 0*

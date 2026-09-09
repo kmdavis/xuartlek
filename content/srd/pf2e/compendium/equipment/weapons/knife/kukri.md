@@ -10,6 +10,7 @@ tags:
 aliases: ["Kukri"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=413"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Kukri  *Weapon 0*

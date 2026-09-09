@@ -7,6 +7,7 @@ tags:
 aliases: ["Eternal Boost"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9281"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Eternal Boost  *Feat 20*

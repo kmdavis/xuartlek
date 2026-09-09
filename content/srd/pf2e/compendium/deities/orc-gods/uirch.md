@@ -5,6 +5,7 @@ tags:
 aliases: ["Uirch"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=560"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Uirch  *Deity*

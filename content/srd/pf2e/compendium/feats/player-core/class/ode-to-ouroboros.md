@@ -7,6 +7,7 @@ tags:
 aliases: ["Ode to Ouroboros"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4613"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Ode to Ouroboros  *Feat 10*

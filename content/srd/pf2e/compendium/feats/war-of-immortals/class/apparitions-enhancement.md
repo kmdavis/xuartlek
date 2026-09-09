@@ -10,6 +10,7 @@ tags:
 aliases: ["Apparition's Enhancement"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7127"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Apparition's Enhancement  *Feat 4*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

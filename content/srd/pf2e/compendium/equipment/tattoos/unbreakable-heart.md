@@ -9,6 +9,7 @@ tags:
 aliases: ["Unbreakable Heart"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2222"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Unbreakable Heart  *Item 3*

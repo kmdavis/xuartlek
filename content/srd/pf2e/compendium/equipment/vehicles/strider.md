@@ -7,6 +7,7 @@ tags:
 aliases: ["Strider"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=70"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Strider  *Vehicle 7*

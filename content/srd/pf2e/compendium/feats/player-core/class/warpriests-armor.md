@@ -7,6 +7,7 @@ tags:
 aliases: ["Warpriest’s Armor"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4654"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Warpriest’s Armor  *Feat 2*

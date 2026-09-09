@@ -9,6 +9,7 @@ tags:
 aliases: ["Ensnaring Disk"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2105"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Ensnaring Disk  *Item 7*

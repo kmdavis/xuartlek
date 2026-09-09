@@ -7,6 +7,7 @@ tags:
 aliases: ["Alarming Disappearance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5369"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Alarming Disappearance  *Feat 5*

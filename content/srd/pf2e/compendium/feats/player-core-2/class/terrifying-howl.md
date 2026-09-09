@@ -9,6 +9,7 @@ tags:
 aliases: ["Terrifying Howl"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5853"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Terrifying Howl  *Feat 10*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

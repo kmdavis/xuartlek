@@ -7,6 +7,7 @@ tags:
 aliases: ["Targeting Strike"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7818"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Targeting Strike  *Feat 10*

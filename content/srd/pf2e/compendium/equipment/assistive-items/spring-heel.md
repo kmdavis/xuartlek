@@ -9,6 +9,7 @@ tags:
 aliases: ["Spring Heel"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2161"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Spring Heel  *Item 5*

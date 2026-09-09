@@ -8,6 +8,7 @@ tags:
 aliases: ["Walking Cauldron"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3116"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Walking Cauldron  *Item 1*

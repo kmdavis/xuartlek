@@ -9,6 +9,7 @@ tags:
 aliases: ["Murderer's Knot"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2987"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Murderer's Knot  *Item 7*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Expanded Repertoire"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9305"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Expanded Repertoire  *Feat 10*

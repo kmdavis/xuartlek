@@ -9,6 +9,7 @@ tags:
 aliases: ["Staff of Arcane Might"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3038"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Staff of Arcane Might  *Item 12+*

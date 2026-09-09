@@ -7,6 +7,7 @@ tags:
 aliases: ["Fishing Lure"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=515"
 source: "War of Immortals"
+socialImage: og-image.png
 ---
 
 # Fishing Lure  *Weapon 0*

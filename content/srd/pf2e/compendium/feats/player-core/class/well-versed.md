@@ -7,6 +7,7 @@ tags:
 aliases: ["Well-Versed"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4579"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Well-Versed  *Feat 1*

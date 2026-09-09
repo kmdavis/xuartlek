@@ -12,6 +12,7 @@ tags:
 aliases: ["Slime Spit"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1930"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Slime Spit  *Focus 1*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

@@ -8,6 +8,7 @@ tags:
 aliases: ["Diving Armor"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=3056"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Diving Armor  *Feat 4*

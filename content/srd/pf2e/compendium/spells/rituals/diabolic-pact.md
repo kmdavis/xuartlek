@@ -8,6 +8,7 @@ tags:
 aliases: ["Diabolic Pact"]
 aon_url: "https://2e.aonprd.com/Rituals.aspx?ID=143"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Diabolic Pact  *Ritual 1*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Titan's Grasp"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5118"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Titan's Grasp  *Item 18*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Lead the Pack"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6276"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Lead the Pack  *Feat 16*

@@ -8,6 +8,7 @@ tags:
 aliases: ["Lifting Belt"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3091"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Lifting Belt  *Item 4*

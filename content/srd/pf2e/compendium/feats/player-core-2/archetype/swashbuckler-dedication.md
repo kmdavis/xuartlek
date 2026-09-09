@@ -9,6 +9,7 @@ tags:
 aliases: ["Swashbuckler Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6233"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Swashbuckler Dedication  *Feat 2*

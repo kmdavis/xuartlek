@@ -7,6 +7,7 @@ tags:
 aliases: ["Versatile Performance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4578"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Versatile Performance  *Feat 1*

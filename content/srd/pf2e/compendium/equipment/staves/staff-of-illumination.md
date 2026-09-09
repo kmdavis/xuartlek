@@ -8,6 +8,7 @@ tags:
 aliases: ["Staff of Illumination"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3043"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Staff of Illumination  *Item 8*

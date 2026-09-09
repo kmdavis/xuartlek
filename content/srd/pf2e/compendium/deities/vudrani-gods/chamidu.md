@@ -5,6 +5,7 @@ tags:
 aliases: ["Chamidu"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=612"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Chamidu  *Deity*

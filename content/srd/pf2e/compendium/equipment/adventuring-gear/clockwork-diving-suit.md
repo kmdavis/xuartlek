@@ -10,6 +10,7 @@ tags:
 aliases: ["Clockwork Diving Suit"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1144"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Clockwork Diving Suit  *Item 6*

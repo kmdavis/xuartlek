@@ -9,6 +9,7 @@ tags:
 aliases: ["Wolf Fang"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2998"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Wolf Fang  *Item 1*

@@ -9,6 +9,7 @@ tags:
 aliases: ["Arboreal's Revenge"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1174"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Arboreal's Revenge  *Item 6*

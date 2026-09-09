@@ -9,6 +9,7 @@ tags:
 aliases: ["Liar's Gun"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=1173"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Liar's Gun  *Item 7*

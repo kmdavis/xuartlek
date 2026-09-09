@@ -11,6 +11,7 @@ name: "Tidewater Guard"
 level: 4
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3660"
+socialImage: og-image.png
 ---
 
 ```statblock

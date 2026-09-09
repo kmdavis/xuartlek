@@ -15,6 +15,7 @@ tags:
 aliases: ["Quickened Casting"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4614"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Quickened Casting  *Feat 10*  [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action")

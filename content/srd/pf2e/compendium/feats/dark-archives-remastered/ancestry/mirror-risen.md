@@ -8,6 +8,7 @@ tags:
 aliases: ["Mirror-Risen"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8434"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Mirror-Risen  *Feat 1*

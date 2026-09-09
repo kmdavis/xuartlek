@@ -7,6 +7,7 @@ tags:
 aliases: ["Swipe Souvenir"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4959"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Swipe Souvenir  *Feat 8*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

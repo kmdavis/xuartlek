@@ -13,6 +13,7 @@ tags:
 aliases: ["Whisper on the Wind"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4209"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Whisper on the Wind  *Feat 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

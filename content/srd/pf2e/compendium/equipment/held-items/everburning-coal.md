@@ -9,6 +9,7 @@ tags:
 aliases: ["Everburning Coal"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2603"
 source: "Rage of Elements"
+socialImage: og-image.png
 ---
 
 # Everburning Coal  *Item 12*

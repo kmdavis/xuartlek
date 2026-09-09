@@ -8,6 +8,7 @@ tags:
 aliases: ["Candle of Revealing"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3412"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Candle of Revealing  *Item 7*

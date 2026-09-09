@@ -7,6 +7,7 @@ tags:
 aliases: ["Extendable Tail"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2163"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Extendable Tail  *Item 3*

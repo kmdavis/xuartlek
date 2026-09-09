@@ -6,6 +6,7 @@ tags:
 aliases: ["Unique"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=723"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Unique  *Trait*

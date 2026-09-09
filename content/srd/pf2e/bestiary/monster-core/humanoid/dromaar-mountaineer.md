@@ -14,6 +14,7 @@ name: "Dromaar Mountaineer"
 level: 2
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3131"
+socialImage: og-image.png
 ---
 
 ```statblock

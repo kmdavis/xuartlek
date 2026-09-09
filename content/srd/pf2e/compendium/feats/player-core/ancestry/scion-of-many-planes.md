@@ -7,6 +7,7 @@ tags:
 aliases: ["Scion of Many Planes"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4556"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Scion of Many Planes  *Feat 5*

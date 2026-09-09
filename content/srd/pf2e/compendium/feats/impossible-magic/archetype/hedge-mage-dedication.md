@@ -8,6 +8,7 @@ tags:
 aliases: ["Hedge Mage Dedication"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9326"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Hedge Mage Dedication  *Feat 2*

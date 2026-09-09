@@ -8,6 +8,7 @@ tags:
 aliases: ["Clashing Compound Invocation"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=9198"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Clashing Compound Invocation  *Feat 10*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

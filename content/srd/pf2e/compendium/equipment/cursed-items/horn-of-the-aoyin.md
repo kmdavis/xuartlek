@@ -9,6 +9,7 @@ tags:
 aliases: ["Horn of the Aoyin"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=4135"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Horn of the Aoyin  *Item 13*

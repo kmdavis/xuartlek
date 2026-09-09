@@ -9,6 +9,7 @@ tags:
 aliases: ["Shift Horde"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7972"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Shift Horde  *Feat 12*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

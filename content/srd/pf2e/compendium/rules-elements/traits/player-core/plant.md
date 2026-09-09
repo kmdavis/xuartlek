@@ -6,6 +6,7 @@ tags:
 aliases: ["Plant"]
 aon_url: "https://2e.aonprd.com/Traits.aspx?ID=668"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Plant  *Trait*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Count Ranalc"]
 aon_url: "https://2e.aonprd.com/Deities.aspx?ID=452"
 source: "Divine Mysteries"
+socialImage: og-image.png
 ---
 
 # Count Ranalc  *Deity*

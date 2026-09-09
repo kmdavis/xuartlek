@@ -4,6 +4,7 @@ tags:
 - compendium/src/pf2e/player-core-2
 aliases: ["Causes"]
 entries: 7
+socialImage: og-image.png
 ---
 
 # Causes

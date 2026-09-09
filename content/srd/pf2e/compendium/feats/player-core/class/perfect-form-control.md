@@ -7,6 +7,7 @@ tags:
 aliases: ["Perfect Form Control"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4763"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Perfect Form Control  *Feat 18*

@@ -7,6 +7,7 @@ tags:
 - compendium/src/pf2e/treasure-vault-remastered
 aliases: ["Familiar Abilities"]
 entries: 73
+socialImage: og-image.png
 ---
 
 # Familiar Abilities

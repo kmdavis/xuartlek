@@ -10,6 +10,7 @@ tags:
 aliases: ["Wheel of Misery"]
 aon_url: "https://2e.aonprd.com/Hazards.aspx?ID=496"
 source: "GM Core"
+socialImage: og-image.png
 ---
 
 # Wheel of Misery  *Hazard 6*

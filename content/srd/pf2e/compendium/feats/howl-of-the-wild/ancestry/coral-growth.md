@@ -8,6 +8,7 @@ tags:
 aliases: ["Coral Growth"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5281"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Coral Growth  *Feat 5*

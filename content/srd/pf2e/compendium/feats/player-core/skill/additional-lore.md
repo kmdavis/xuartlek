@@ -8,6 +8,7 @@ tags:
 aliases: ["Additional Lore"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5114"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Additional Lore  *Feat 1*

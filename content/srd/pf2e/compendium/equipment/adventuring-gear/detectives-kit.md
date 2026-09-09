@@ -6,6 +6,7 @@ tags:
 aliases: ["Detective's Kit"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2719"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Detective's Kit  *Item 3*

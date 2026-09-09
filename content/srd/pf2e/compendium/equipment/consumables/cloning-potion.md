@@ -10,6 +10,7 @@ tags:
 aliases: ["Cloning Potion"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2080"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Cloning Potion  *Item 18*

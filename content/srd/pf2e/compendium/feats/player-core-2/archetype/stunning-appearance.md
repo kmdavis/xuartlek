@@ -8,6 +8,7 @@ tags:
 aliases: ["Stunning Appearance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6434"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Stunning Appearance  *Feat 16*

@@ -12,6 +12,7 @@ name: "Ardande Gardener"
 level: 1
 source: "Rage of Elements"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=2686"
+socialImage: og-image.png
 ---
 
 ```statblock

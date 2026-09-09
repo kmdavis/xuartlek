@@ -8,6 +8,7 @@ tags:
 aliases: ["Experienced Smuggler"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5145"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Experienced Smuggler  *Feat 1*

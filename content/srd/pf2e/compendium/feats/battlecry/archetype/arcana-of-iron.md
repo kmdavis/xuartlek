@@ -7,6 +7,7 @@ tags:
 aliases: ["Arcana of Iron"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=7980"
 source: "Battlecry!"
+socialImage: og-image.png
 ---
 
 # Arcana of Iron  *Feat 6*

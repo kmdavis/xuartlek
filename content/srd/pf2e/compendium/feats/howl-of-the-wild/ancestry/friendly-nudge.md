@@ -7,6 +7,7 @@ tags:
 aliases: ["Friendly Nudge"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=5364"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Friendly Nudge  *Feat 1*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

@@ -5,6 +5,7 @@ tags:
 aliases: ["Retired"]
 aon_url: "https://2e.aonprd.com/MonsterTemplates.aspx?ID=36"
 source: "NPC Core"
+socialImage: og-image.png
 ---
 
 # Retired  *Creature Adjustment*

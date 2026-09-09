@@ -7,6 +7,7 @@ tags:
 aliases: ["Goblin Weapon Familiarity"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4443"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Goblin Weapon Familiarity  *Feat 1*

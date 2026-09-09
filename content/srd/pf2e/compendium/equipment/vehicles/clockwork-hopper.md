@@ -7,6 +7,7 @@ tags:
 aliases: ["Clockwork Hopper"]
 aon_url: "https://2e.aonprd.com/Vehicles.aspx?ID=27"
 source: "Guns & Gears (Remastered)"
+socialImage: og-image.png
 ---
 
 # Clockwork Hopper  *Vehicle 6*

@@ -7,6 +7,7 @@ tags:
 aliases: ["Lightning Snares"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6418"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Lightning Snares  *Feat 12*

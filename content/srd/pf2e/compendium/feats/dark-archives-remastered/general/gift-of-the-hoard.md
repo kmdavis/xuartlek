@@ -9,6 +9,7 @@ tags:
 aliases: ["Gift of the Hoard"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=8409"
 source: "Dark Archives (Remastered)"
+socialImage: og-image.png
 ---
 
 # Gift of the Hoard  *Feat 10*

@@ -5,6 +5,7 @@ tags:
 aliases: ["Kobold"]
 aon_url: "https://2e.aonprd.com/MonsterFamilies.aspx?ID=435"
 source: "Monster Core"
+socialImage: og-image.png
 ---
 
 # Kobold  *Creature Family*

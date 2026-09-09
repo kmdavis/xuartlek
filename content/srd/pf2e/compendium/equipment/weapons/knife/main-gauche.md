@@ -11,6 +11,7 @@ tags:
 aliases: ["Main-gauche"]
 aon_url: "https://2e.aonprd.com/Weapons.aspx?ID=387"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Main-gauche  *Weapon 0*

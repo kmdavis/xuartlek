@@ -14,6 +14,7 @@ name: "Angelic Chorus"
 level: 12
 source: "Battlecry!"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3898"
+socialImage: og-image.png
 ---
 
 ```statblock

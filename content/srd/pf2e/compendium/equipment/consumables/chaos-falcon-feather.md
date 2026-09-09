@@ -9,6 +9,7 @@ tags:
 aliases: ["Chaos Falcon Feather"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=3257"
 source: "Howl of the Wild"
+socialImage: og-image.png
 ---
 
 # Chaos Falcon Feather  *Item 3*

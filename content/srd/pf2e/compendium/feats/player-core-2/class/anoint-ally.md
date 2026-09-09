@@ -8,6 +8,7 @@ tags:
 aliases: ["Anoint Ally"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=6091"
 source: "Player Core 2"
+socialImage: og-image.png
 ---
 
 # Anoint Ally  *Feat 2*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")

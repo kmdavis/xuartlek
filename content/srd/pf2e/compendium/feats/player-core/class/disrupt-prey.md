@@ -7,6 +7,7 @@ tags:
 aliases: ["Disrupt Prey"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4872"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Disrupt Prey  *Feat 4*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")

@@ -10,6 +10,7 @@ tags:
 aliases: ["Spiral Labyrinth"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=5109"
 source: "Impossible Magic"
+socialImage: og-image.png
 ---
 
 # Spiral Labyrinth  *Item 14*

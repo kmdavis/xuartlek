@@ -11,6 +11,7 @@ name: "Goblin Scavenger"
 level: 4
 source: "NPC Core"
 aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3641"
+socialImage: og-image.png
 ---
 
 ```statblock

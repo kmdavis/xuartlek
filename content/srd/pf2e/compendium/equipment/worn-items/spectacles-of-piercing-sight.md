@@ -9,6 +9,7 @@ tags:
 aliases: ["Spectacles of Piercing Sight"]
 aon_url: "https://2e.aonprd.com/Equipment.aspx?ID=2317"
 source: "Treasure Vault (Remastered)"
+socialImage: og-image.png
 ---
 
 # Spectacles of Piercing Sight  *Item 18*

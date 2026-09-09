@@ -7,6 +7,7 @@ tags:
 aliases: ["Toppling Dance"]
 aon_url: "https://2e.aonprd.com/Feats.aspx?ID=4472"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Toppling Dance  *Feat 13*

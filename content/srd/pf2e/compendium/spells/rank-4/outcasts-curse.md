@@ -11,6 +11,7 @@ tags:
 aliases: ["Outcast's Curse"]
 aon_url: "https://2e.aonprd.com/Spells.aspx?ID=1620"
 source: "Player Core"
+socialImage: og-image.png
 ---
 
 # Outcast's Curse  *Spell 4*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")

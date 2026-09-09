@@ -12,6 +12,7 @@ name: "Kholo Sergeant"
 level: 4
 source: "Monster Core"
 aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3071"
+socialImage: og-image.png
 ---
 
 ```statblock
