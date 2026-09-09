@@ -7,6 +7,9 @@
 // .folder-container[data-folderpath] plus its .folder-outer children,
 // so hiding the <li> removes the whole branch. Quartz sets data-slug
 // on <body>, which is what makes this conditional on the current page.
-body:not([data-slug^="srd"]) .explorer li:has(> .folder-container[data-folderpath="srd"]) {
+// Note the "/index" suffix: FileTrieNode.slug appends it for folder nodes
+// (get slug() { ... return this.isFolder ? e + "/index" : e }), and the
+// explorer assigns that slug straight to dataset.folderpath.
+body:not([data-slug^="srd/"]) .explorer li:has(> .folder-container[data-folderpath="srd/index"]) {
   display: none;
 }
