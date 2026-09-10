@@ -8,6 +8,7 @@ tags:
   - gm-reference
 calendar: Xuartlek Imperial Calendar
 present_year: 500
+present_date: 500-01-01
 current_era: Myrrhina
 era_length: 30
 transit_length: 5
@@ -22,12 +23,15 @@ keeps and the only calendar the vault tracks. Year 0 is the year the Skyy Tortle
 declared a new era, not the year Xuartlek was born. Three events below are
 recorded in local reckoning instead, and both dates are given.
 
-**The present is year 500.** Xuartlek has just arrived above Myrrhina.
-Sulveig, the twenty-fourth district, was founded this year, but its primary
-portal will not complete until **505**. For now the only way down to Myrrhina
-is by ship.
+**The present is 500-01-01, 1 Lowsun 500.** Xuartlek has just arrived above
+Myrrhina. Sulveig, the twenty-fourth district, is founded this year, but its
+primary portal will not complete until **505**, so for now the only way down to
+Myrrhina is by ship.
 
 Everything dated 505 and later is scheduled rather than done.
+
+The clock is pinned: it advances when play advances, not with real time. See
+[[Xuartlek Imperial Calendar]].
 
 The empire stands at [[The High City|twenty-three districts across twelve worlds]]
 because Toril was lost. Twenty-four districts have been founded, but Duathamper
