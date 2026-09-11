@@ -1,0 +1,20 @@
+{
+  "name": "quartz-statblocks",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "./index.js",
+  "exports": { ".": "./index.js" },
+  "quartz": {
+    "name": "statblocks",
+    "displayName": "PF2e Statblocks",
+    "description": "Renders fantasy-statblocks ```statblock fences using the Basic Pathfinder 2e Layout.",
+    "category": "transformer",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 11,
+    "defaultEnabled": true,
+    "defaultOptions": { "hideEncounterTables": true }
+  },
+  "peerDependencies": { "@jackyzha0/quartz": "^5.0.0", "yaml": "^2.0.0" }
+}

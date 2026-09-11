@@ -269,6 +269,8 @@ plugins:
       display: all
   - source: "./plugins/quartz-spoiler"
     enabled: true
+  - source: "./plugins/quartz-statblocks"
+    enabled: true
   - source: github:Requiae/quartz-leaflet-bases-plugin
     enabled: true
     options:

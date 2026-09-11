@@ -70,3 +70,79 @@ body:not([data-slug^="srd/"]) .explorer li:has(> .folder-container[data-folderpa
     & > * { visibility: visible; }
   }
 }
+
+// PF2e statblocks, produced by plugins/quartz-statblocks from ```statblock
+// fences. Colours follow the printed Monster Core: bone page, oxblood rules.
+.pf2e-statblock {
+  --sb-ink: #58180d;
+  --sb-bg: color-mix(in srgb, var(--light) 92%, #c9ad6a 8%);
+
+  background: var(--sb-bg);
+  border: 1px solid color-mix(in srgb, var(--sb-ink) 35%, transparent);
+  border-top: 4px solid var(--sb-ink);
+  border-radius: 3px;
+  padding: 0.8rem 1rem 0.6rem;
+  margin: 1.2rem 0;
+  font-size: 0.92em;
+  line-height: 1.45;
+
+  p { margin: 0.28rem 0; }
+
+  .sb-name {
+    font-variant: small-caps;
+    font-weight: 700;
+    font-size: 1.3em;
+    color: var(--sb-ink);
+    letter-spacing: 0.02em;
+  }
+  .sb-level {
+    float: right;
+    font-variant: small-caps;
+    font-weight: 700;
+    font-size: 1.1em;
+    color: var(--sb-ink);
+  }
+
+  .sb-trait {
+    display: inline-block;
+    background: var(--sb-ink);
+    color: #fff;
+    font-variant: small-caps;
+    font-size: 0.82em;
+    letter-spacing: 0.04em;
+    padding: 0.05em 0.5em;
+    margin: 0.15em 0.25em 0.15em 0;
+    border: 1px solid #d9c179;
+  }
+  .sb-trait.sb-size { background: #3b7a57; }
+  .sb-trait.sb-trait-alt { background: #4a4a6a; }
+
+  .sb-rule {
+    border: none;
+    border-top: 2px solid var(--sb-ink);
+    margin: 0.5rem 0;
+  }
+
+  // the ability-mod row is a plain markdown table; strip it back to a grid
+  table {
+    width: 100%;
+    margin: 0.5rem 0;
+    border: none;
+    th, td {
+      text-align: center;
+      border: none;
+      padding: 0.1rem 0.2rem;
+      background: none;
+    }
+    th { font-variant: small-caps; color: var(--sb-ink); }
+    td { font-weight: 600; }
+  }
+  .table-container { overflow: visible; }
+
+  .sb-source {
+    display: block;
+    margin-top: 0.5rem;
+    font-size: 0.85em;
+    color: var(--gray);
+  }
+}
