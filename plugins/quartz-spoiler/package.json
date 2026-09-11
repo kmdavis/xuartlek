@@ -1,0 +1,24 @@
+{
+  "name": "quartz-spoiler",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "./index.js",
+  "exports": { ".": "./index.js" },
+  "quartz": {
+    "name": "spoiler",
+    "displayName": "Spoiler Blocks",
+    "description": "Renders ```spoiler fences as collapsed callouts, matching the Obsidian spoiler plugin.",
+    "category": "transformer",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 10,
+    "defaultEnabled": true,
+    "defaultOptions": {
+      "languages": ["spoiler"],
+      "defaultTitle": "Spoiler",
+      "calloutType": "spoiler"
+    }
+  },
+  "peerDependencies": { "@jackyzha0/quartz": "^5.0.0" }
+}

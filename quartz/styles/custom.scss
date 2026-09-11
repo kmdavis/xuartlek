@@ -13,3 +13,60 @@
 body:not([data-slug^="srd/"]) .explorer li:has(> .folder-container[data-folderpath="srd/index"]) {
   display: none;
 }
+
+// Spoiler blocks, produced by plugins/quartz-spoiler from ```spoiler fences.
+// They ride on Quartz's collapsible-callout machinery, so only the colour and
+// icon are needed here. The eye-off icon is Lucide, matching the other callouts.
+:root {
+  --callout-icon-spoiler: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9.88 9.88a3 3 0 1 0 4.24 4.24"></path><path d="M10.73 5.08A10.43 10.43 0 0 1 12 5c7 0 10 7 10 7a13.16 13.16 0 0 1-1.67 2.68"></path><path d="M6.61 6.61A13.526 13.526 0 0 0 2 12s3 7 10 7a9.74 9.74 0 0 0 5.39-1.61"></path><line x1="2" x2="22" y1="2" y2="22"></line></svg>');
+}
+
+.callout[data-callout="spoiler"] {
+  --color: var(--secondary);
+  --border: var(--secondary);
+  --callout-icon: var(--callout-icon-spoiler);
+
+  // A spoiler that is open should still read as set apart from the page.
+  & > .callout-content {
+    border-left: 2px dashed var(--secondary);
+    margin-left: 0.25rem;
+    padding-left: 0.75rem;
+  }
+}
+
+// Inline spoilers: ||hidden||. Revealed on click or keyboard focus, no JS.
+// Like the block form this hides text from a glance, not from view-source.
+.spoiler-inline {
+  background-color: var(--dark);
+  color: transparent;
+  border-radius: 3px;
+  padding: 0 0.15em;
+  cursor: pointer;
+  transition:
+    color 0.15s ease,
+    background-color 0.15s ease;
+
+  // children (bold, links, images) must be hidden too, not just the text
+  & > * {
+    visibility: hidden;
+  }
+
+  &:focus,
+  &:focus-within {
+    background-color: var(--lightgray);
+    color: var(--darkgray);
+    outline: none;
+
+    & > * {
+      visibility: visible;
+    }
+  }
+}
+
+@media print {
+  .spoiler-inline {
+    background-color: transparent;
+    color: var(--darkgray);
+    & > * { visibility: visible; }
+  }
+}

@@ -76,10 +76,12 @@ def main():
     else:
         print("ok   no lore.md and no .ts")
 
-    # 4. no relative markdown links
+    # 4. no relative markdown links. The pattern deliberately does not require a
+    # leading "./": bucket F shipped links like [00](sessions/00-.../notes.md),
+    # which the old anchored pattern missed entirely.
     rel = []
     for p in mine:
-        for m in re.finditer(r"\]\((\.\.?/[^)]+\.md[^)]*)\)", p.read_text()):
+        for m in re.finditer(r"\]\((?!https?:|#|mailto:)([^)]+\.md[^)]*)\)", p.read_text()):
             rel.append(f"{p}: {m.group(1)}")
     if rel:
         fail = 1
@@ -145,6 +147,24 @@ def main():
         print(f"FAIL setting links to campaign: {leaks}")
     else:
         print("ok   no setting -> campaign links")
+
+    # 9. material that must never be published, by filename
+    BLOCKED = ("explicit", "nsfw", "nude", "-bedroom", "-backroom")
+    leaked = [str(p) for p in ROOT.rglob("*")
+              if p.is_file() and any(b in p.name.lower() for b in BLOCKED)]
+    if leaked:
+        fail = 1
+        print(f"FAIL blocked material in content/: {leaked}")
+    else:
+        print("ok   no blocked material in content/")
+
+    # 10. nothing may reference the session transcripts, which are never migrated
+    sess = [f"{p}" for p in mine if re.search(r"sessions?/\d|/sessions/", p.read_text())]
+    if sess:
+        fail = 1
+        print(f"FAIL references to session transcripts: {sess}")
+    else:
+        print("ok   no references to session transcripts")
 
     print("\nFAILED" if fail else "\nPASS")
     return fail

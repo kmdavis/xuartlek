@@ -267,6 +267,8 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
+  - source: "./plugins/quartz-spoiler"
+    enabled: true
   - source: github:Requiae/quartz-leaflet-bases-plugin
     enabled: true
     options:
