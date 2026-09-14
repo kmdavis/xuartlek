@@ -25,7 +25,7 @@ trait_01: "Aberration"
 modifier: 12
 perception:
   - name: "Perception"
-    desc: "Perception +12; darkvision"
+    desc: "+12; darkvision"
 skills:
   - name: "Skills"
     desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +13, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +11, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +10"

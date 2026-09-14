@@ -29,7 +29,7 @@ trait_03: "Water"
 modifier: 18
 perception:
   - name: "Perception"
-    desc: "Perception +18; darkvision"
+    desc: "+18; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]"
 skills:
   - name: "Skills"

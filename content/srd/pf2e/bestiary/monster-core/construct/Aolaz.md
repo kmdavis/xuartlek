@@ -27,7 +27,7 @@ trait_02: "Rare"
 modifier: 33
 perception:
   - name: "Perception"
-    desc: "Perception +33; low-light vision, flawless hearing"
+    desc: "+33; low-light vision, flawless hearing"
 skills:
   - name: "Skills"
     desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +35"

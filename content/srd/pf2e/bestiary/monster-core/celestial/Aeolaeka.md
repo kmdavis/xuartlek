@@ -31,7 +31,7 @@ trait_04: "Holy"
 modifier: 23
 perception:
   - name: "Perception"
-    desc: "Perception +23; darkvision, tremorsense (precise) 60 feet"
+    desc: "+23; darkvision, tremorsense (precise) 60 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]], [[srd/pf2e/compendium/rules-elements/languages#Petran|Petran]]; [[srd/pf2e/compendium/spells/rank-5/speak-with-stones|_speak with stones_]], [[srd/pf2e/compendium/spells/rank-5/truespeech|_truespeech_]]"
 skills:
   - name: "Skills"

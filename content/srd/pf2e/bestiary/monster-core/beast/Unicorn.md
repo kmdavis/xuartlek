@@ -29,7 +29,7 @@ trait_03: "Holy"
 modifier: 13
 perception:
   - name: "Perception"
-    desc: "Perception +13; darkvision, scent (imprecise) 30 feet"
+    desc: "+13; darkvision, scent (imprecise) 30 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]"
 skills:
   - name: "Skills"

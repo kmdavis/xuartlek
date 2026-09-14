@@ -27,7 +27,7 @@ trait_02: "Uncommon"
 modifier: 10
 perception:
   - name: "Perception"
-    desc: "Perception +10; tremorsense (imprecise) 10 feet, darkvision"
+    desc: "+10; tremorsense (imprecise) 10 feet, darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]"
 skills:
   - name: "Skills"

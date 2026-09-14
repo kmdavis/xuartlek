@@ -29,7 +29,7 @@ trait_03: "Rare"
 modifier: 13
 perception:
   - name: "Perception"
-    desc: "Perception +13"
+    desc: "+13"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"

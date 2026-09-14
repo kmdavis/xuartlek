@@ -27,7 +27,7 @@ trait_02: "Mindless"
 modifier: 5
 perception:
   - name: "Perception"
-    desc: "Perception +5; darkvision"
+    desc: "+5; darkvision"
 skills:
   - name: "Skills"
     desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +11"

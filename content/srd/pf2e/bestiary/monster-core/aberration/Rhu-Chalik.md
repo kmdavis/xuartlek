@@ -27,7 +27,7 @@ trait_02: "Uncommon"
 modifier: 17
 perception:
   - name: "Perception"
-    desc: "Perception +17; greater darkvision, thoughtsense 60 feet"
+    desc: "+17; greater darkvision, thoughtsense 60 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]]; telepathy 100 feet"
 skills:
   - name: "Skills"

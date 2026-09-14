@@ -27,7 +27,7 @@ trait_02: "Gremlin"
 modifier: 4
 perception:
   - name: "Perception"
-    desc: "Perception +4; darkvision, scent (imprecise) 30 feet"
+    desc: "+4; darkvision, scent (imprecise) 30 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]"
 skills:
   - name: "Skills"

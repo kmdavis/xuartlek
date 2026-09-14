@@ -27,7 +27,7 @@ trait_02: "Spirit"
 modifier: 9
 perception:
   - name: "Perception"
-    desc: "Perception +9; darkvision"
+    desc: "+9; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]]"
 skills:
   - name: "Skills"

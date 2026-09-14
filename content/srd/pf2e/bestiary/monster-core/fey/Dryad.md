@@ -31,7 +31,7 @@ trait_04: "Wood"
 modifier: 10
 perception:
   - name: "Perception"
-    desc: "Perception +10; low-light vision"
+    desc: "+10; low-light vision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/languages#Muan|Muan]]"
 skills:
   - name: "Skills"

@@ -29,7 +29,7 @@ trait_03: "Uncommon"
 modifier: 22
 perception:
   - name: "Perception"
-    desc: "Perception +22; darkvision 120 feet, planar sight 120 feet, [[srd/pf2e/compendium/spells/rank-2/see-the-unseen|_see the unseen_]]"
+    desc: "+22; darkvision 120 feet, planar sight 120 feet, [[srd/pf2e/compendium/spells/rank-2/see-the-unseen|_see the unseen_]]"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]]"
 skills:
   - name: "Skills"

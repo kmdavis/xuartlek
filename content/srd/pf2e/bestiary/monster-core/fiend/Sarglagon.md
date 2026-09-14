@@ -31,7 +31,7 @@ trait_04: "Unholy"
 modifier: 18
 perception:
   - name: "Perception"
-    desc: "Perception +18; greater darkvision, see the unseen"
+    desc: "+18; greater darkvision, see the unseen"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]]; telepathy 100 feet"
 skills:
   - name: "Skills"

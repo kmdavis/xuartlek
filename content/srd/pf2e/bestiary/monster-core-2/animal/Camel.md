@@ -25,7 +25,7 @@ trait_01: "Animal"
 modifier: 4
 perception:
   - name: "Perception"
-    desc: "Perception +4; low-light vision, scent (imprecise) 30 feet"
+    desc: "+4; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
     desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +6, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +6"

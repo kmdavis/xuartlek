@@ -27,7 +27,7 @@ trait_02: "Psychopomp"
 modifier: 29
 perception:
   - name: "Perception"
-    desc: "Perception +29; darkvision, lifesense 120 feet"
+    desc: "+29; darkvision, lifesense 120 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]], Requian"
 skills:
   - name: "Skills"

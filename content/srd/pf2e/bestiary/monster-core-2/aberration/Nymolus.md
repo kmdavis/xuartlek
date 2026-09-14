@@ -29,7 +29,7 @@ trait_03: "Uncommon"
 modifier: 22
 perception:
   - name: "Perception"
-    desc: "Perception +22; darkvision"
+    desc: "+22; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], Alghollthu, [[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]], [[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]; [[srd/pf2e/compendium/spells/rank-5/truespeech|_truespeech_]]"
 skills:
   - name: "Skills"

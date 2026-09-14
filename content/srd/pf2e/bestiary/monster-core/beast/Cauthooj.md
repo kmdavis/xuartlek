@@ -25,7 +25,7 @@ trait_01: "Beast"
 modifier: 22
 perception:
   - name: "Perception"
-    desc: "Perception +22; thoughtsense (imprecise) 60 feet"
+    desc: "+22; thoughtsense (imprecise) 60 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]; (can't speak any language)"
 skills:
   - name: "Skills"

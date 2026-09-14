@@ -29,7 +29,7 @@ trait_03: "Velstrac"
 modifier: 24
 perception:
   - name: "Perception"
-    desc: "Perception +24; greater darkvision, painsight"
+    desc: "+24; greater darkvision, painsight"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Shadowtongue|Shadowtongue]]"
 skills:
   - name: "Skills"

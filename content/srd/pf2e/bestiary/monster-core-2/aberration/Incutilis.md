@@ -29,7 +29,7 @@ trait_03: "Uncommon"
 modifier: 7
 perception:
   - name: "Perception"
-    desc: "Perception +7; darkvision"
+    desc: "+7; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]; telepathy 30 feet"
 skills:
   - name: "Skills"

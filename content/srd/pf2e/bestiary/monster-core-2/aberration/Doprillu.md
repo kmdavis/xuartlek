@@ -25,7 +25,7 @@ trait_01: "Aberration"
 modifier: 22
 perception:
   - name: "Perception"
-    desc: "Perception +22; darkvision, [[srd/pf2e/compendium/spells/rank-2/see-the-unseen|_see the unseen_]]"
+    desc: "+22; darkvision, [[srd/pf2e/compendium/spells/rank-2/see-the-unseen|_see the unseen_]]"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]"
 skills:
   - name: "Skills"

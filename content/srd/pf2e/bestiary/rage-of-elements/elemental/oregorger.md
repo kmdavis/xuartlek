@@ -27,7 +27,7 @@ trait_02: "Metal"
 modifier: 18
 perception:
   - name: "Perception"
-    desc: "Perception +18; darkvision, rust vision"
+    desc: "+18; darkvision, rust vision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Talican|Talican]]"
 skills:
   - name: "Skills"

@@ -29,7 +29,7 @@ trait_03: "Unholy"
 modifier: 21
 perception:
   - name: "Perception"
-    desc: "Perception +21; darkvision, lifesense (imprecise) 30 feet"
+    desc: "+21; darkvision, lifesense (imprecise) 30 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], Daemonic; telepathy 100 feet"
 skills:
   - name: "Skills"

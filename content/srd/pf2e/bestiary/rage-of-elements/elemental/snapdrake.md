@@ -29,7 +29,7 @@ trait_03: "Wood"
 modifier: 16
 perception:
   - name: "Perception"
-    desc: "Perception +16"
+    desc: "+16"
 languages: "Arboreal, [[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Muan|Muan]]; (can't speak any languages)"
 skills:
   - name: "Skills"

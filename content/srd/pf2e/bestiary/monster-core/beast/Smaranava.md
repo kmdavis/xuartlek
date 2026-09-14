@@ -27,7 +27,7 @@ trait_02: "Uncommon"
 modifier: 15
 perception:
   - name: "Perception"
-    desc: "Perception +15; darkvision"
+    desc: "+15; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]]"
 skills:
   - name: "Skills"

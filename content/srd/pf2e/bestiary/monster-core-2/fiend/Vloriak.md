@@ -29,7 +29,7 @@ trait_03: "Unholy"
 modifier: 13
 perception:
   - name: "Perception"
-    desc: "Perception +13; darkvision"
+    desc: "+13; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]], [[srd/pf2e/compendium/rules-elements/languages#Talican|Talican]]; telepathy 100 feet"
 skills:
   - name: "Skills"

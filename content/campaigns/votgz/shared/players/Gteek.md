@@ -12,6 +12,8 @@ visibility: players
 type: pc
 ---
 
+![[Gteek Portrait.webp|portrait]]
+
 ```statblock
 layout: Basic Pathfinder 2e Layout
 name: Gteek
@@ -30,9 +32,9 @@ trait_02: Humanoid
 modifier: 8 # unrendered
 perception:
   - name: Perception
-    desc: "Perception +8"
+    desc: "+8"
 languages:
-- Common
+- [[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
 - Grippli
 skills:
   athletics: +4

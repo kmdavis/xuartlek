@@ -29,7 +29,7 @@ trait_03: "Genie"
 modifier: 17
 perception:
   - name: "Perception"
-    desc: "Perception +17; darkvision"
+    desc: "+17; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Pyric|Pyric]]; [[srd/pf2e/compendium/spells/rank-5/truespeech|_truespeech_]]"
 skills:
   - name: "Skills"

@@ -31,7 +31,7 @@ trait_04: "Rare"
 modifier: 27
 perception:
   - name: "Perception"
-    desc: "Perception +27; darkvision, [[srd/pf2e/compendium/spells/cantrips/detect-magic|_detect magic_]], [[srd/pf2e/compendium/spells/rank-2/see-the-unseen|_see the unseen_]]"
+    desc: "+27; darkvision, [[srd/pf2e/compendium/spells/cantrips/detect-magic|_detect magic_]], [[srd/pf2e/compendium/spells/rank-2/see-the-unseen|_see the unseen_]]"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]], [[srd/pf2e/compendium/rules-elements/languages#Pyric|Pyric]], [[srd/pf2e/compendium/rules-elements/languages#Sussuran|Sussuran]]"
 skills:
   - name: "Skills"

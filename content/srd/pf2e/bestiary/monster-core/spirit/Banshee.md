@@ -33,7 +33,7 @@ trait_05: "Unholy"
 modifier: 32
 perception:
   - name: "Perception"
-    desc: "Perception +32; hears heartbeats (imprecise) 60 feet, darkvision"
+    desc: "+32; hears heartbeats (imprecise) 60 feet, darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]]"
 skills:
   - name: "Skills"

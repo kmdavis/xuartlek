@@ -27,7 +27,7 @@ trait_02: "Humanoid"
 modifier: 35
 perception:
   - name: "Perception"
-    desc: "Perception +35; lifesense (imprecise) 60 feet"
+    desc: "+35; lifesense (imprecise) 60 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"

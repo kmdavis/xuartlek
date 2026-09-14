@@ -28,7 +28,7 @@ trait_02: "Uncommon"
 modifier: 26
 perception:
   - name: "Perception"
-    desc: "Perception +26; darkvision"
+    desc: "+26; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/languages#Common|Common]]; [[srd/pf2e/compendium/spells/rank-5/truespeech|_truespeech_]]"
 skills:
   - name: "Skills"

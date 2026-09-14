@@ -27,7 +27,7 @@ trait_02: "Aquatic"
 modifier: 11
 perception:
   - name: "Perception"
-    desc: "Perception +11; low-light vision"
+    desc: "+11; low-light vision"
 skills:
   - name: "Skills"
     desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +10, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +12"

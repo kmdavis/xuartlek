@@ -27,7 +27,7 @@ trait_02: "Rare"
 modifier: 22
 perception:
   - name: "Perception"
-    desc: "Perception +22; darkvision; true sin scent (precise) 60 feet"
+    desc: "+22; darkvision; true sin scent (precise) 60 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]], Thassilonian"
 skills:
   - name: "Skills"

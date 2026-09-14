@@ -27,7 +27,7 @@ trait_02: "Earth"
 modifier: 10
 perception:
   - name: "Perception"
-    desc: "Perception +10; darkvision"
+    desc: "+10; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Petran|Petran]]"
 skills:
   - name: "Skills"

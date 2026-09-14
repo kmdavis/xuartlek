@@ -27,7 +27,7 @@ trait_02: "Unholy"
 modifier: 12
 perception:
   - name: "Perception"
-    desc: "Perception +12; darkvision, scent (imprecise) 30 feet"
+    desc: "+12; darkvision, scent (imprecise) 30 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/languages#Goblin|Goblin]], [[srd/pf2e/compendium/rules-elements/languages#Jotun|Jotun]]"
 skills:
   - name: "Skills"

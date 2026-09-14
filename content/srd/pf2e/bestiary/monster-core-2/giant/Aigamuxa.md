@@ -29,7 +29,7 @@ trait_03: "Uncommon"
 modifier: 19
 perception:
   - name: "Perception"
-    desc: "Perception +19; scent (imprecise) 30 feet"
+    desc: "+19; scent (imprecise) 30 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"

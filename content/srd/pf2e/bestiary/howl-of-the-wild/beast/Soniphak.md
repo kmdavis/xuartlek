@@ -25,7 +25,7 @@ trait_01: "Beast"
 modifier: 21
 perception:
   - name: "Perception"
-    desc: "Perception +21; no vision, sensitive echolocation (precise) 120 feet"
+    desc: "+21; no vision, sensitive echolocation (precise) 120 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]]"
 skills:
   - name: "Skills"

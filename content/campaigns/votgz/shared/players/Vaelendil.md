@@ -12,6 +12,8 @@ visibility: players
 type: pc
 ---
 
+![[Vaelendil Token.webp|token]]
+
 ```statblock
 layout: Basic Pathfinder 2e Layout
 name: Vaelendil
@@ -30,10 +32,10 @@ trait_02: Humanoid
 modifier: 6 # unrendered
 perception:
   - name: Perception
-    desc: "Perception +6"
+    desc: "+6"
 languages:
-- Common
-- Elven
+- [[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
+- [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]]
 skills:
   arcana: +7
   athletics: +5

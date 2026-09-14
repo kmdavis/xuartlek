@@ -25,7 +25,7 @@ trait_01: "Plant"
 modifier: 18
 perception:
   - name: "Perception"
-    desc: "Perception +18; low-light vision"
+    desc: "+18; low-light vision"
 skills:
   - name: "Skills"
     desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +21, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +19, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +21"

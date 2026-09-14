@@ -25,7 +25,7 @@ trait_01: "Fey"
 modifier: 7
 perception:
   - name: "Perception"
-    desc: "Perception +7; low-light vision"
+    desc: "+7; low-light vision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/languages#Gnomish|Gnomish]]"
 skills:
   - name: "Skills"

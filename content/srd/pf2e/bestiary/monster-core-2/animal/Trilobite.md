@@ -27,7 +27,7 @@ trait_02: "Aquatic"
 modifier: 8
 perception:
   - name: "Perception"
-    desc: "Perception +8; darkvision, wavesense (imprecise) 30 feet"
+    desc: "+8; darkvision, wavesense (imprecise) 30 feet"
 skills:
   - name: "Skills"
     desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +4, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +5, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +4"

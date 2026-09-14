@@ -25,7 +25,7 @@ trait_01: "Construct"
 modifier: 3
 perception:
   - name: "Perception"
-    desc: "Perception +3; darkvision"
+    desc: "+3; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]; (can't speak any language); master link"
 skills:
   - name: "Skills"

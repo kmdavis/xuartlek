@@ -27,7 +27,7 @@ trait_02: "Uncommon"
 modifier: 14
 perception:
   - name: "Perception"
-    desc: "Perception +14; darkvision, scent (imprecise) 30 feet"
+    desc: "+14; darkvision, scent (imprecise) 30 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]; (can't speak any language)"
 skills:
   - name: "Skills"

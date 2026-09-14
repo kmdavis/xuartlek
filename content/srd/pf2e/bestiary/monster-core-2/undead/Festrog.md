@@ -25,7 +25,7 @@ trait_01: "Undead"
 modifier: 6
 perception:
   - name: "Perception"
-    desc: "Perception +6; darkvision"
+    desc: "+6; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"

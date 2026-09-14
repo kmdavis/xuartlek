@@ -25,7 +25,7 @@ trait_01: "Plant"
 modifier: 25
 perception:
   - name: "Perception"
-    desc: "Perception +25; darkvision, tremorsense (imprecise) 60 feet"
+    desc: "+25; darkvision, tremorsense (imprecise) 60 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]; (can't speak any language)"
 skills:
   - name: "Skills"

@@ -29,7 +29,7 @@ trait_03: "Holy"
 modifier: 36
 perception:
   - name: "Perception"
-    desc: "Perception +36; darkvision"
+    desc: "+36; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]]; [[srd/pf2e/compendium/spells/rank-2/speak-with-animals|_speak with animals_]], [[srd/pf2e/compendium/spells/rank-5/truespeech|_truespeech_]]"
 skills:
   - name: "Skills"

@@ -29,7 +29,7 @@ trait_03: "Unholy"
 modifier: 22
 perception:
   - name: "Perception"
-    desc: "Perception +22; greater darkvision"
+    desc: "+22; greater darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]], [[srd/pf2e/compendium/rules-elements/languages#Talican|Talican]]; telepathy 100 feet"
 skills:
   - name: "Skills"

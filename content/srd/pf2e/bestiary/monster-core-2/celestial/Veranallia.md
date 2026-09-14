@@ -29,7 +29,7 @@ trait_03: "Holy"
 modifier: 38
 perception:
   - name: "Perception"
-    desc: "Perception +38; darkvision, tremorsense (imprecise) 120 feet"
+    desc: "+38; darkvision, tremorsense (imprecise) 120 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]]; [[srd/pf2e/compendium/spells/rank-2/speak-with-animals|_speak with animals_]], [[srd/pf2e/compendium/spells/rank-3/speak-with-plants|_speak with plants_]], [[srd/pf2e/compendium/spells/rank-5/truespeech|_truespeech_]]"
 skills:
   - name: "Skills"

@@ -29,7 +29,7 @@ trait_03: "Uncommon"
 modifier: 10
 perception:
   - name: "Perception"
-    desc: "Perception +10; all-around vision (page 360), darkvision, thoughtsense (precise) 60 feet"
+    desc: "+10; all-around vision (page 360), darkvision, thoughtsense (precise) 60 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]]; (can't speak any language)"
 skills:
   - name: "Skills"

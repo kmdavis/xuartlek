@@ -27,7 +27,7 @@ trait_02: "Unholy"
 modifier: 7
 perception:
   - name: "Perception"
-    desc: "Perception +7; darkvision"
+    desc: "+7; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/languages#Common|Common]], Daemonic, [[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]]; telepathy (touch)"
 skills:
   - name: "Skills"

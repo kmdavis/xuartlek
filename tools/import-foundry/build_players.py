@@ -31,7 +31,7 @@ import foundry_pc as F
 
 HERE = Path(__file__).parent
 VAULT = HERE.parents[1]
-OUT = VAULT / "content" / "campaigns" / "votgz" / "players"
+OUT = VAULT / "content" / "campaigns" / "votgz" / "shared" / "players"
 TRAITS = "srd/pf2e/compendium/rules-elements/traits"
 LANGS = "srd/pf2e/compendium/rules-elements/languages"
 
@@ -43,11 +43,16 @@ ROSTER = {
     "vaelendil-(tanusri)": ("Vaelendil", "Tanusri", None),
     "espera-(ellen)": ("Espera", "Ellen", None),
     "gteek-(calvin)": ("Gteek", "Calvin", None),
+    "john-jacob-jingleheimer-schmidt-(kevan)": ("John Jacob Jingleheimer Schmidt", "Kevan", None),
     "sir-pickles-(gripp's-companion)": ("Sir Pickles", "Levi", "Gripp"),
     "drak-(ellen's-companion)": ("Drak", "Ellen", "Espera"),
 }
 
 ACTION_GLYPH = {1: "⬻", 2: "⬺", 3: "⬹", "reaction": "⬲", "free": "⭓"}
+
+# Characters no longer on the roster. Their notes stay for continuity, but the
+# statistics are stale and they must not be counted in coverage.
+RETIRED = {"Espera", "Vaelendil"}
 
 
 def slug(s: str) -> str:
@@ -158,7 +163,7 @@ def statblock(actor: dict, name: str, mods: dict) -> list[str]:
         f"modifier: {perc} # unrendered",
         "perception:",
         "  - name: Perception",
-        f'    desc: "Perception +{perc}"',
+        f'    desc: "+{perc}"',
     ]
     if langs:
         lines.append("languages:")
@@ -323,9 +328,30 @@ def build(path: Path, name: str, player: str, companion_of: str | None) -> str:
         fm.append(f"class: {items['class']['name']}")
     if "ancestry" in items:
         fm.append(f"ancestry: {items['ancestry']['name']}")
-    fm += [f"source: Foundry export {path.name}", "---", ""]
-    body = statblock(actor, name, mods) + feats_section(actor) + inventory_section(actor)
+    fm += [
+        f"source: Foundry export {path.name}",
+        "publish: true",
+        "visibility: players",
+        "type: pc",
+        "---",
+        "",
+    ]
+    body = portrait_section(name) + statblock(actor, name, mods) \
+        + feats_section(actor) + inventory_section(actor)
     return "\n".join(fm + body).rstrip() + "\n"
+
+
+def portrait_section(name: str) -> list[str]:
+    """Embed the portrait and token if the art is sitting beside the note.
+
+    Art is optional and several characters have none yet, so a missing file is
+    silently skipped rather than leaving a broken embed on the page.
+    """
+    out: list[str] = []
+    for kind in ("Portrait", "Token"):
+        if (OUT / f"{name} {kind}.webp").exists():
+            out.append(f"![[{name} {kind}.webp|{kind.lower()}]]")
+    return out + [""] if out else []
 
 
 def familiar_section(actor: dict, name: str, master: dict | None,
@@ -373,7 +399,7 @@ def familiar_section(actor: dict, name: str, master: dict | None,
         f"modifier: {perc} # unrendered",
         "perception:",
         "  - name: Perception",
-        f'    desc: "Perception +{perc}"',
+        f'    desc: "+{perc}"',
         "abilityMods: [0,0,0,0,0,0]",
         "",
         f"ac: {ac} # unrendered",
@@ -434,6 +460,7 @@ def party_note(path: Path) -> str:
 
     fm = ["---", "aliases: [\"The Party\"]",
           "tags:", "- campaign/votgz/party",
+          "publish: true", "visibility: players", "type: reference",
           f"source: Foundry export {path.name}", "---", "",
           "# Party Stash", "",
           "Everything the group owns jointly, as opposed to the individual",
@@ -453,11 +480,12 @@ def party_note(path: Path) -> str:
 # the "if absent" column is the part that actually gets used at the table.
 CONTRIBUTION: dict[str, tuple[str, str]] = {
     "Flick": (
-        "Melee striker and sole party face. Only character trained in "
-        "Thievery, and the only one in Performance.",
-        "**No Thievery at all** -- locks, traps and pockets go uncovered. "
-        "Performance vanishes. Intimidation falls to +4. Stealth drops from "
-        "+8 to +5.",
+        "Melee striker and sole party face. The only one trained in "
+        "Performance, and tied with Schmidt for best Thievery and Stealth "
+        "at +8.",
+        "Performance vanishes and Intimidation falls from +7 to +4. Thievery "
+        "and Stealth hold at +8 only because Schmidt matches him; if both are "
+        "away, **locks, traps and pockets go uncovered**.",
     ),
     "Belegost": (
         "Front-line striker and the party's Athletics muscle: Shove, Trip and "
@@ -466,26 +494,53 @@ CONTRIBUTION: dict[str, tuple[str, str]] = {
         "Nobody else reliably controls position.",
     ),
     "Gripp": (
-        "Chirurgeon alchemist -- healing, Crafting, and the only Society "
-        "training. Backs up Deception and Diplomacy at +7.",
-        "Crafting and Society drop to nothing. If Gteek is also away there is "
-        "**no healing whatsoever**.",
+        "Chirurgeon alchemist: healing, best Crafting (+8) and best Society "
+        "(+8). Backs up Deception and Diplomacy at +7.",
+        "Crafting drops from +8 to +6 and Society from +8 to +6, both onto "
+        "Schmidt. If Gteek is also away there is **no healing whatsoever**.",
+    ),
+    "John Jacob Jingleheimer Schmidt": (
+        "Gunslinger on the Way of the Spellshot. The only Arcana and the only "
+        "Occultism on the roster, both +6, and the only ranged attacker. "
+        "Matches Flick at +8 Thievery and +8 Stealth, and carries Battle "
+        "Medicine as a second healer.",
+        "**Arcana and Occultism go back to zero** -- no identifying magic "
+        "items, no reading wards or curses. The party loses its only reliable "
+        "range and its backup healing, and Thievery and Stealth rest on Flick "
+        "alone.",
+    ),
+    "Vaelendil": (
+        "_Retired._ Was the party's arcane artillery, with the best Arcana "
+        "(+7), Occultism (+7) and Crafting (+7) in the group.",
+        "_Retired._ His departure is what opened the Arcana and Occultism "
+        "hole that Schmidt now fills.",
+    ),
+    "Espera": (
+        "_Retired._ Ranger and tracker: Survival, Nature, and +7 Acrobatics "
+        "and Stealth. Covered range alongside Vaelendil.",
+        "_Retired._ Her departure left the party with no ranged damage until "
+        "Schmidt joined.",
     ),
     "Gteek": (
-        "Cloistered cleric: the only spellcaster, the only Religion training, "
-        "best Perception (+8) and best Will (+10). Sentinel Dedication keeps "
-        "him in armour.",
-        "**No spellcasting and no divine healing.** Religion goes uncovered, "
+        "Cloistered cleric: the only divine caster and the party's only real "
+        "healing, the only Religion training, best Perception (+8) and best "
+        "Will (+10). Sentinel Dedication keeps him in armour.",
+        "**No divine healing.** Religion goes uncovered, "
         "the party loses its best scout, and Will saves fall off sharply.",
     ),
 }
 
 STANDING_GAPS = [
-    ("Ranged damage", "Espera and Vaelendil were both ranged; neither is "
-     "playing. Gripp throws the occasional bomb but is built as a healer. "
-     "Everyone else is melee."),
-    ("Arcana", "Nobody trained. No identifying arcane items or wards."),
-    ("Occultism", "Nobody trained. No reading curses or occult remains."),
+    ("Ranged damage", "Schmidt's clan pistol is the only reliable ranged "
+     "attack the party has, since Espera and Vaelendil both retired. Gripp "
+     "throws the occasional bomb but is built as a healer, and everyone else "
+     "is melee."),
+    ("Arcana and Occultism", "Covered by John Jacob Jingleheimer Schmidt "
+     "alone, at +6 each. Both were uncovered between Vaelendil retiring and "
+     "Schmidt joining, and both go dark again in any arc Schmidt's player is "
+     "running the game."),
+    ("Religion", "Gteek alone. No other character is trained."),
+    ("Performance", "Flick alone. No other character is trained."),
 ]
 
 
@@ -499,6 +554,9 @@ def roster_note(built: list[tuple[str, str, dict, dict]]) -> str:
         "---",
         "tags:",
         "- campaign/votgz/party",
+        "publish: true",
+        "visibility: players",
+        "type: reference",
         "source: Generated from Foundry exports by tools/import-foundry",
         "---",
         "",
@@ -515,13 +573,20 @@ def roster_note(built: list[tuple[str, str, dict, dict]]) -> str:
     ]
     for name, player, mods, stats in built:
         out.append(
-            f"| [[campaigns/votgz/players/{name.replace(' ', '')}|{name}]] "
-            f"| {player} | {stats['ac']} | {stats['hp']} | +{stats['perc']} "
+            (f"| ~~[[campaigns/votgz/shared/players/{name}\\|{name}]]~~ (retired) "
+             if name in RETIRED else
+             f"| [[campaigns/votgz/shared/players/{name}\\|{name}]] ")
+            + f"| {player} | {stats['ac']} | {stats['hp']} | +{stats['perc']} "
             f"| +{stats['fort']} | +{stats['ref']} | +{stats['will']} |")
     out += ["", "## Contribution and absence", ""]
     for name, _player, _mods, _stats in built:
         brings, absent = CONTRIBUTION.get(
             name, ("_Not yet described._", "_Not yet described._"))
+        if name in RETIRED:
+            out += [f"### {name}", "", f"```spoiler {name} (retired)",
+                    f"**Brings.** {brings}", "", f"**If absent.** {absent}",
+                    "```", ""]
+            continue
         out += [f"### {name}", "", f"**Brings.** {brings}", "",
                 f"**If absent.** {absent}", ""]
     out += ["## Standing gaps", "",
@@ -600,14 +665,16 @@ def main() -> int:
         extra = companions.get(name)
         if extra:
             text = text.rstrip() + "\n" + "\n".join(extra).rstrip() + "\n"
-        dest = OUT / f"{name.replace(' ', '')}.md"
+        # Names keep their spaces: leaf notes are Title Case in this vault, and
+        # "JohnJacobJingleheimerSchmidt" is nobody's name.
+        dest = OUT / f"{name}.md"
         dest.write_text(text, encoding="utf-8", newline="\n")
         note = f"  (+{', '.join(c for c, v in companions.items() if c == name)})" if extra else ""
         print(f"  {dest.name:18} {len(text):6}b{note}")
         written += 1
 
     # Remove standalone companion pages from earlier runs.
-    for stale in ("SirPickles.md", "Drak.md"):
+    for stale in ("SirPickles.md", "Drak.md", "JohnJacobJingleheimerSchmidt.md"):
         f = OUT / stale
         if f.exists():
             f.unlink()

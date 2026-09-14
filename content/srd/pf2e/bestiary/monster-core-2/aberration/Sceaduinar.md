@@ -31,7 +31,7 @@ trait_04: "Negative"
 modifier: 15
 perception:
   - name: "Perception"
-    desc: "Perception +15; greater darkvision, lifesense 120 feet"
+    desc: "+15; greater darkvision, lifesense 120 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]]"
 skills:
   - name: "Skills"

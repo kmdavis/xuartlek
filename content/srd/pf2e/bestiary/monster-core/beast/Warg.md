@@ -25,7 +25,7 @@ trait_01: "Beast"
 modifier: 8
 perception:
   - name: "Perception"
-    desc: "Perception +8; darkvision, scent (imprecise) 30 feet"
+    desc: "+8; darkvision, scent (imprecise) 30 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Goblin|Goblin]], [[srd/pf2e/compendium/rules-elements/languages#Orcish|Orcish]]"
 skills:
   - name: "Skills"

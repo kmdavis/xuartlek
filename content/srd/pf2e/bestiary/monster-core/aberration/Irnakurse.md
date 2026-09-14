@@ -25,7 +25,7 @@ trait_01: "Aberration"
 modifier: 18
 perception:
   - name: "Perception"
-    desc: "Perception +18; darkvision"
+    desc: "+18; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]; (can't speak any language)"
 skills:
   - name: "Skills"

@@ -27,7 +27,7 @@ trait_02: "Humanoid"
 modifier: 11
 perception:
   - name: "Perception"
-    desc: "Perception +11"
+    desc: "+11"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]]"
 skills:
   - name: "Skills"

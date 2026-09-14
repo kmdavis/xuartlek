@@ -27,7 +27,7 @@ trait_02: "Rare"
 modifier: 28
 perception:
   - name: "Perception"
-    desc: "Perception +28; motion sense 120 feet, no vision"
+    desc: "+28; motion sense 120 feet, no vision"
 skills:
   - name: "Skills"
     desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +30, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +27, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +25"

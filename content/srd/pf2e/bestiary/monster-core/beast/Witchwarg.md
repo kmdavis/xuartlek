@@ -27,7 +27,7 @@ trait_02: "Cold"
 modifier: 14
 perception:
   - name: "Perception"
-    desc: "Perception +14; darkvision, scent (imprecise) 30 feet"
+    desc: "+14; darkvision, scent (imprecise) 30 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Jotun|Jotun]]"
 skills:
   - name: "Skills"

@@ -29,7 +29,7 @@ trait_03: "Unholy"
 modifier: 31
 perception:
   - name: "Perception"
-    desc: "Perception +31; darkvision, [[srd/pf2e/compendium/spells/rank-2/see-the-unseen|_see the unseen_]], warp sense"
+    desc: "+31; darkvision, [[srd/pf2e/compendium/spells/rank-2/see-the-unseen|_see the unseen_]], warp sense"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]]"
 skills:
   - name: "Skills"

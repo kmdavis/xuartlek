@@ -29,7 +29,7 @@ trait_03: "Rare"
 modifier: 33
 perception:
   - name: "Perception"
-    desc: "Perception +33; darkvision"
+    desc: "+33; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]], [[srd/pf2e/compendium/rules-elements/languages#Sussuran|Sussuran]]; truespeech"
 skills:
   - name: "Skills"

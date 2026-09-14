@@ -29,7 +29,7 @@ trait_03: "Nymph"
 modifier: 19
 perception:
   - name: "Perception"
-    desc: "Perception +19; low-light vision"
+    desc: "+19; low-light vision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], Utopian"
 skills:
   - name: "Skills"

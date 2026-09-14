@@ -27,7 +27,7 @@ trait_02: "Uncommon"
 modifier: 17
 perception:
   - name: "Perception"
-    desc: "Perception +17; darkvision"
+    desc: "+17; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]]; telepathy ([[srd/pf2e/books/player-core/chapter-7-spells/ranges-areas-and-targets#Touch Range|touch]])"
 skills:
   - name: "Skills"

@@ -29,7 +29,7 @@ trait_03: "Unholy"
 modifier: 20
 perception:
   - name: "Perception"
-    desc: "Perception +20; darkvision, plaguesense (imprecise) 60 feet"
+    desc: "+20; darkvision, plaguesense (imprecise) 60 feet"
 languages: "Daemonic; telepathy 100 feet"
 skills:
   - name: "Skills"

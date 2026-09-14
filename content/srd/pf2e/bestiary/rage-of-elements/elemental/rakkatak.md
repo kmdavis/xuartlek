@@ -27,7 +27,7 @@ trait_02: "Fire"
 modifier: 9
 perception:
   - name: "Perception"
-    desc: "Perception +9; darkvision"
+    desc: "+9; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Pyric|Pyric]]; (can't speak any language)"
 skills:
   - name: "Skills"

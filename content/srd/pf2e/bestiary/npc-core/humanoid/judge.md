@@ -27,7 +27,7 @@ trait_02: "Humanoid"
 modifier: 8
 perception:
   - name: "Perception"
-    desc: "Perception +8; (15 to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Motive|Sense Motive]])"
+    desc: "+8; (15 to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Motive|Sense Motive]])"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"

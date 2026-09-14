@@ -27,7 +27,7 @@ trait_02: "Ooze"
 modifier: 9
 perception:
   - name: "Perception"
-    desc: "Perception +9"
+    desc: "+9"
 skills:
   - name: "Skills"
     desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +15"

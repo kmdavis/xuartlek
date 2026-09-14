@@ -27,7 +27,7 @@ trait_02: "Humanoid"
 modifier: 13
 perception:
   - name: "Perception"
-    desc: "Perception +13; darkvision, scent (imprecise) 30 feet"
+    desc: "+13; darkvision, scent (imprecise) 30 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]"
 skills:
   - name: "Skills"

@@ -27,7 +27,7 @@ trait_02: "Rare"
 modifier: 41
 perception:
   - name: "Perception"
-    desc: "Perception +41; [[srd/pf2e/compendium/spells/cantrips/detect-magic|_detect magic_]], greater darkvision, lifesense 120 feet, [[srd/pf2e/compendium/spells/rank-6/truesight|_truesight_]]"
+    desc: "+41; [[srd/pf2e/compendium/spells/cantrips/detect-magic|_detect magic_]], greater darkvision, lifesense 120 feet, [[srd/pf2e/compendium/spells/rank-6/truesight|_truesight_]]"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/languages#Jotun|Jotun]]; [[srd/pf2e/compendium/spells/rank-5/truespeech|_truespeech_]]"
 skills:
   - name: "Skills"

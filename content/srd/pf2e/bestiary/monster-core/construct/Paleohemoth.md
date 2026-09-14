@@ -29,7 +29,7 @@ trait_03: "Rare"
 modifier: 20
 perception:
   - name: "Perception"
-    desc: "Perception +20; darkvision"
+    desc: "+20; darkvision"
 skills:
   - name: "Skills"
     desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +20"

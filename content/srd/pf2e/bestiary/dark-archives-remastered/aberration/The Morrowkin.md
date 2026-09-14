@@ -1,0 +1,80 @@
+---
+noteType: pf2eMonster
+aliases: "The Morrowkin"
+tags:
+  - pf2e/creature/level/14
+  - pf2e/creature/trait/aberration
+  - pf2e/creature/trait/time
+  - pf2e/creature/trait/unique
+  - pf2e/creature/trait/medium
+statblock: inline
+name: "The Morrowkin"
+level: 14
+source: "Dark Archives (Remastered)"
+aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4650"
+socialImage: og-image.png
+---
+
+```statblock
+columns: 2
+forcecolumns: true
+layout: Basic Pathfinder 2e Layout
+source: "DA"
+name: "The Morrowkin"
+level: "Creature 14"
+size: "Medium"
+trait_01: "Aberration"
+trait_02: "Time"
+trait_03: "Unique"
+modifier: 24
+perception:
+  - name: "Perception"
+    desc: "+24"
+skills:
+  - name: "Skills"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +26, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +24, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +28, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +25, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +25"
+abilityMods: [8, 7, 7, 5, 4, 4]
+abilities_top:
+  - name: "Disgusted by Food"
+    desc: "The morrowkin eats dreams and potential, not food. A creature that spends an action to brandish food at the morrowkin automatically makes the creature [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1 (or increases its sickened value by 1, to a maximum of sickened 6), decreasing the morrowkin's AC, attack rolls, saves, skills, and ability DCs accordingly, as normal for the sickened condition. The morrowkin can't retch to reduce its sickened condition."
+  - name: "Endless"
+    desc: "If reduced to 0 Hit Points or incapacitated for more than 3 rounds, the morrowkin vanishes. In 1 minute, it reappears refreshed completely as if the previous battle never happened, with full HP, with all effects on it cleared, and with its Swallow Future ability ready to use again."
+ac: 34
+armorclass:
+  - name: "AC"
+    desc: "34; __Fort__: +28; __Ref__: +25; __Will__: +25"
+hp: 320
+health:
+  - name: "HP"
+    desc: "320"
+speed: "35 feet"
+attacks:
+  - name: "Melee"
+    desc: "⬻ claw +29 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10]]) __Damage__ 3d8+14 slashing plus drain potential"
+abilities_bot:
+  - name: "Drain Potential"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/misfortune|Misfortune]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]) The morrowkin tries to drain the motivation from its target, who must attempt a DC 31 Fortitude save. If the target fails, it is [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]] 1 (doomed 2 on a critical failure) and must roll twice and use the worse result on all checks for 1 minute. Creatures wearing a hope talisman are unaffected."
+  - name: "Swallow Future"
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]])"
+  - name: "Frequency"
+    desc: "once per minute"
+  - name: "Effect"
+    desc: "The morrowkin inhales and draws forth the future deeds of all creatures around it. All creatures within a 30-foot emanation of the morrowkin take 6d8+18 mental damage depending on their DC 39 Will save. Creatures wearing hope talismans can choose to let their hope talisman break in order to ignore the effect after seeing the result of their Will save."
+  - name: "Critical Success"
+    desc: "The creature takes no damage."
+  - name: "Success"
+    desc: "The creature takes half damage and is [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]] 1."
+  - name: "Failure"
+    desc: "The creature takes full damage and is doomed 2."
+  - name: "Critical Failure"
+    desc: "The creature takes double damage and becomes doomed 4 (likely causing it to die immediately)."
+  - name: "Tomorrow's Fury"
+    desc: "⬺ The morrowkin makes claw attacks against any number of targets within reach. The claw attacks count against the morrowkin's multiple attack penalty, but don't apply the penalty until after all attacks have been made."
+sourcebook: "_Dark Archives (Remastered)_, page 192."
+```
+
+```encounter-table
+name: The Morrowkin
+creatures:
+  - 1: The Morrowkin
+```

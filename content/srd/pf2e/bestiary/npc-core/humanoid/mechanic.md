@@ -27,7 +27,7 @@ trait_02: "Humanoid"
 modifier: 5
 perception:
   - name: "Perception"
-    desc: "Perception +5"
+    desc: "+5"
 skills:
   - name: "Skills"
     desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +16, [[srd/pf2e/compendium/rules-elements/skills/lore|Engineering Lore]] +16, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +6"

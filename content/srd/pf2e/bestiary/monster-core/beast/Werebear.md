@@ -33,7 +33,7 @@ trait_05: "Werecreature"
 modifier: 11
 perception:
   - name: "Perception"
-    desc: "Perception +11; low-light vision, scent (imprecise) 30 feet"
+    desc: "+11; low-light vision, scent (imprecise) 30 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]; bear empathy"
 skills:
   - name: "Skills"

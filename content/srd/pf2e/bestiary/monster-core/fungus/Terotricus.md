@@ -29,7 +29,7 @@ trait_03: "Unholy"
 modifier: 31
 perception:
   - name: "Perception"
-    desc: "Perception +31; darkvision, tremorsense (imprecise) 120 feet"
+    desc: "+31; darkvision, tremorsense (imprecise) 120 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]"
 skills:
   - name: "Skills"

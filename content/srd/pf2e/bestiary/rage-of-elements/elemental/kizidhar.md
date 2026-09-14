@@ -33,7 +33,7 @@ trait_05: "Wood"
 modifier: 14
 perception:
   - name: "Perception"
-    desc: "Perception +14; darkvision"
+    desc: "+14; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Muan|Muan]]; _speak with plants_, _truespeech_"
 skills:
   - name: "Skills"

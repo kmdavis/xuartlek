@@ -27,7 +27,7 @@ trait_02: "Humanoid"
 modifier: 13
 perception:
   - name: "Perception"
-    desc: "Perception +13"
+    desc: "+13"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]"
 skills:
   - name: "Skills"

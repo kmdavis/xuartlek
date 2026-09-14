@@ -27,7 +27,7 @@ trait_02: "Monitor"
 modifier: 27
 perception:
   - name: "Perception"
-    desc: "Perception +27; darkvision, lifesense 120 feet"
+    desc: "+27; darkvision, lifesense 120 feet"
 languages: "envisioning"
 skills:
   - name: "Skills"

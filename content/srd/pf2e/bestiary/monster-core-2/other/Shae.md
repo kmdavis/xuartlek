@@ -25,7 +25,7 @@ trait_01: "Shadow"
 modifier: 10
 perception:
   - name: "Perception"
-    desc: "Perception +10; darkvision"
+    desc: "+10; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]], Shae, [[srd/pf2e/compendium/rules-elements/languages#Sussuran|Sussuran]]"
 skills:
   - name: "Skills"

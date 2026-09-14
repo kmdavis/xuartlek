@@ -27,7 +27,7 @@ trait_02: "Unholy"
 modifier: 15
 perception:
   - name: "Perception"
-    desc: "Perception +15; darkvision, echolocation 40 feet"
+    desc: "+15; darkvision, echolocation 40 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]"
 skills:
   - name: "Skills"

@@ -27,7 +27,7 @@ trait_02: "Uncommon"
 modifier: 15
 perception:
   - name: "Perception"
-    desc: "Perception +15; darkvision, scent (imprecise) 30 feet"
+    desc: "+15; darkvision, scent (imprecise) 30 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]]"
 skills:
   - name: "Skills"

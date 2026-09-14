@@ -31,7 +31,7 @@ trait_04: "Uncommon"
 modifier: 15
 perception:
   - name: "Perception"
-    desc: "Perception +15; darkvision"
+    desc: "+15; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Talican|Talican]]; _truespeech_"
 skills:
   - name: "Skills"

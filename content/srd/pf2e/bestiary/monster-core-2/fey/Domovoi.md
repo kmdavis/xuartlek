@@ -25,7 +25,7 @@ trait_01: "Fey"
 modifier: 11
 perception:
   - name: "Perception"
-    desc: "Perception +11; tremorsense (imprecise) within their entire bound home"
+    desc: "+11; tremorsense (imprecise) within their entire bound home"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]"
 skills:
   - name: "Skills"

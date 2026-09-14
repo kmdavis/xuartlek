@@ -25,7 +25,7 @@ trait_01: "Animal"
 modifier: 15
 perception:
   - name: "Perception"
-    desc: "Perception +15; darkvision, orescent (precise) 60 feet"
+    desc: "+15; darkvision, orescent (precise) 60 feet"
 skills:
   - name: "Skills"
     desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +10, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +12, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +10"

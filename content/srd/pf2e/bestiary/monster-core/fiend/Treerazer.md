@@ -33,7 +33,7 @@ trait_05: "Unique"
 modifier: 46
 perception:
   - name: "Perception"
-    desc: "Perception +46; darkvision, [[srd/pf2e/compendium/spells/rank-6/truesight|_truesight_]]"
+    desc: "+46; darkvision, [[srd/pf2e/compendium/spells/rank-6/truesight|_truesight_]]"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]; telepathy 300 feet"
 skills:
   - name: "Skills"

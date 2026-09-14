@@ -27,7 +27,7 @@ trait_02: "Uncommon"
 modifier: 14
 perception:
   - name: "Perception"
-    desc: "Perception +14; low-light vision, tremorsense (precise) 30 feet"
+    desc: "+14; low-light vision, tremorsense (precise) 30 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/languages#Common|Common]], Mi-Go"
 skills:
   - name: "Skills"

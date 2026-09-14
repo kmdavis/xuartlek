@@ -26,6 +26,8 @@ import argparse
 import collections
 import json
 import re
+
+from naming import note_filename
 import sys
 import time
 from pathlib import Path
@@ -330,7 +332,7 @@ def destination(d: dict, root: Path, class_index: dict[str, str],
         group = d.get("deity_category") or "other-gods"
         if isinstance(group, list):
             group = group[0] if group else "other-gods"
-        return root / "deities" / slugify(group) / f"{slugify(d.get('name',''))}.md", None
+        return root / "deities" / slugify(group) / f"{note_filename(d.get('name',''))}.md", None
 
     if cat in CONSOLIDATE:
         folder, stem = CONSOLIDATE[cat]
@@ -379,7 +381,9 @@ def destination(d: dict, root: Path, class_index: dict[str, str],
     else:
         parts = [FOLDERS.get(cat, DEFAULT_FOLDER)]
 
-    stem = slugify(detemplate(d.get("name", "")))
+    # Directory parts above are categories and sources, so they stay kebab-case.
+    # Only the leaf carries the entry's actual name.
+    stem = note_filename(detemplate(d.get("name", "")))
     return root.joinpath(*parts) / f"{stem}.md", None
 
 

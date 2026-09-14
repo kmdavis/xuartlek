@@ -27,7 +27,7 @@ trait_02: "Rare"
 modifier: 30
 perception:
   - name: "Perception"
-    desc: "Perception +30; darkvision, [[srd/pf2e/compendium/spells/rank-6/truesight|_truesight_]]"
+    desc: "+30; darkvision, [[srd/pf2e/compendium/spells/rank-6/truesight|_truesight_]]"
 skills:
   - name: "Skills"
     desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +25, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +40"

@@ -27,7 +27,7 @@ trait_02: "Mindless"
 modifier: 9
 perception:
   - name: "Perception"
-    desc: "Perception +9; darkvision, tremorsense (imprecise) 30 feet"
+    desc: "+9; darkvision, tremorsense (imprecise) 30 feet"
 skills:
   - name: "Skills"
     desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +12, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +9, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +14, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +15"

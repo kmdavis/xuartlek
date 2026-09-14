@@ -27,7 +27,7 @@ trait_02: "Uncommon"
 modifier: 21
 perception:
   - name: "Perception"
-    desc: "Perception +21; darkvision, thoughtsense 60 feet"
+    desc: "+21; darkvision, thoughtsense 60 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]; telepathy 100 feet"
 skills:
   - name: "Skills"

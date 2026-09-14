@@ -29,7 +29,7 @@ trait_03: "Uncommon"
 modifier: 17
 perception:
   - name: "Perception"
-    desc: "Perception +17; gemsight"
+    desc: "+17; gemsight"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], Cyclops, [[srd/pf2e/compendium/rules-elements/languages#Jotun|Jotun]], [[srd/pf2e/compendium/rules-elements/languages#Petran|Petran]]"
 skills:
   - name: "Skills"

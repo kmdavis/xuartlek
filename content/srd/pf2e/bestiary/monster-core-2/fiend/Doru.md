@@ -29,7 +29,7 @@ trait_03: "Unholy"
 modifier: 7
 perception:
   - name: "Perception"
-    desc: "Perception +7; greater darkvision"
+    desc: "+7; greater darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], Daemonic; telepathy (touch)"
 skills:
   - name: "Skills"

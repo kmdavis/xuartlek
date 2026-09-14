@@ -426,6 +426,11 @@ CHECK = re.compile(r"@Check\[[^\]]*\](?:\{([^}]*)\})?")
 DAMAGE = re.compile(r"@Damage\[([^\]]*)\](?:\{([^}]*)\})?")
 TEMPLATE = re.compile(r"@Template\[[^\]]*\](?:\{([^}]*)\})?")
 LOCALIZE = re.compile(r"@Localize\[[^\]]*\]")
+# Foundry inline action macros: [[/act gather-information skill=society]]{Gather
+# Information}. Without this the raw macro survives as a wikilink and resolves
+# to nothing.
+INLINE_MACRO_LABELLED = re.compile(r"\[\[/[^\]]+\]\]\{([^}]*)\}")
+INLINE_MACRO_BARE = re.compile(r"\[\[/[^\]]+\]\]")
 
 
 def clean_html(html: str) -> str:
@@ -436,6 +441,8 @@ def clean_html(html: str) -> str:
     t = DAMAGE.sub(lambda m: m.group(2) or m.group(1).split("[")[0], t)
     t = TEMPLATE.sub(lambda m: m.group(1) or "area", t)
     t = LOCALIZE.sub("", t)
+    t = INLINE_MACRO_LABELLED.sub(r"\1", t)
+    t = INLINE_MACRO_BARE.sub("", t)
     t = re.sub(r"<hr\s*/?>", "\n\n", t, flags=re.I)
     t = re.sub(r"</p>|<br\s*/?>", "\n", t, flags=re.I)
     t = re.sub(r"<li[^>]*>", "\n- ", t, flags=re.I)
@@ -444,7 +451,9 @@ def clean_html(html: str) -> str:
     t = re.sub(r"<[^>]+>", "", t)
     t = (t.replace("&nbsp;", " ").replace("&amp;", "&")
           .replace("&lt;", "<").replace("&gt;", ">").replace("&quot;", '"')
-          .replace("&#39;", "'").replace("&mdash;", "--").replace("&ndash;", "-"))
+          .replace("&#39;", "'").replace("&mdash;", "--").replace("&ndash;", "-")
+          # literal em/en dashes come through in Foundry's own rules text
+          .replace("\u2014", "--").replace("\u2013", "-"))
     t = re.sub(r"[ \t]+", " ", t)
     t = re.sub(r"\n{3,}", "\n\n", t)
     return t.strip()

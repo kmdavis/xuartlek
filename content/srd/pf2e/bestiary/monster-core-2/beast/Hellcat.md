@@ -29,7 +29,7 @@ trait_03: "Unholy"
 modifier: 16
 perception:
   - name: "Perception"
-    desc: "Perception +16; darkvision, scent (imprecise) 30 feet"
+    desc: "+16; darkvision, scent (imprecise) 30 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]]; (can't speak any language), fiendish telepathy 100 feet"
 skills:
   - name: "Skills"

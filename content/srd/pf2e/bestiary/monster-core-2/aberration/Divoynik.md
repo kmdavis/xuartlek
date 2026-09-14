@@ -27,7 +27,7 @@ trait_02: "Uncommon"
 modifier: 7
 perception:
   - name: "Perception"
-    desc: "Perception +7; darkvision"
+    desc: "+7; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]; two other languages; telepathy 100 feet"
 skills:
   - name: "Skills"

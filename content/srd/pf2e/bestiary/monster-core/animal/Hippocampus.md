@@ -27,7 +27,7 @@ trait_02: "Aquatic"
 modifier: 6
 perception:
   - name: "Perception"
-    desc: "Perception +6; darkvision, scent (imprecise) 30 feet"
+    desc: "+6; darkvision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
     desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +4, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +7"

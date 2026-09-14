@@ -27,7 +27,7 @@ trait_02: "Mindless"
 modifier: 18
 perception:
   - name: "Perception"
-    desc: "Perception +18; bloodsense (precise) 120 feet, no vision, scent (imprecise) 60 feet"
+    desc: "+18; bloodsense (precise) 120 feet, no vision, scent (imprecise) 60 feet"
 skills:
   - name: "Skills"
     desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +21, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +23"

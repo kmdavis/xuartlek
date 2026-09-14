@@ -35,7 +35,7 @@ trait_06: "Unholy"
 modifier: 37
 perception:
   - name: "Perception"
-    desc: "Perception +37; darkvision, scent ([[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Imprecise Senses|imprecise]]) 60 feet, smoke vision, soulsense 60 feet"
+    desc: "+37; darkvision, scent ([[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Imprecise Senses|imprecise]]) 60 feet, smoke vision, soulsense 60 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Necril|Necril]], [[srd/pf2e/compendium/rules-elements/languages#Pyric|Pyric]]"
 skills:
   - name: "Skills"

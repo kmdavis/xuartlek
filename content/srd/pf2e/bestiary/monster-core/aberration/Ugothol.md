@@ -25,7 +25,7 @@ trait_01: "Aberration"
 modifier: 10
 perception:
   - name: "Perception"
-    desc: "Perception +10; darkvision"
+    desc: "+10; darkvision"
 languages: "Alghollthu, [[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]; [[srd/pf2e/compendium/spells/rank-5/truespeech|_truespeech_]]"
 skills:
   - name: "Skills"

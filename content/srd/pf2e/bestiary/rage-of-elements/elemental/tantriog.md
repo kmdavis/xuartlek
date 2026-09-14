@@ -29,7 +29,7 @@ trait_03: "Water"
 modifier: 16
 perception:
   - name: "Perception"
-    desc: "Perception +16; all-around vision"
+    desc: "+16; all-around vision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]"
 skills:
   - name: "Skills"

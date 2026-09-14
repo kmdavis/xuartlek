@@ -1,0 +1,69 @@
+---
+noteType: pf2eMonster
+aliases: "Skeletal Champion"
+tags:
+  - pf2e/creature/level/2
+  - pf2e/creature/trait/skeleton
+  - pf2e/creature/trait/undead
+  - pf2e/creature/trait/unholy
+  - pf2e/creature/trait/medium
+statblock: inline
+name: "Skeletal Champion"
+level: 2
+source: "Monster Core"
+aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3194"
+socialImage: og-image.png
+---
+
+```statblock
+columns: 2
+forcecolumns: true
+layout: Basic Pathfinder 2e Layout
+source: "MC"
+name: "Skeletal Champion"
+level: "Creature 2"
+size: "Medium"
+trait_01: "Skeleton"
+trait_02: "Undead"
+trait_03: "Unholy"
+modifier: 8
+perception:
+  - name: "Perception"
+    desc: "+8; darkvision"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Necril|Necril]]"
+skills:
+  - name: "Skills"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +7"
+abilityMods: [4, 4, 1, -1, 2, 1]
+abilities_top:
+  - name: "Items"
+    desc: "Chain Mail, Lance, Longsword, Steel Shield (Hardness 5, HP 20, BT 10)"
+ac: 19
+armorclass:
+  - name: "AC"
+    desc: "19; __Fort__: +5; __Ref__: +10; __Will__: +6"
+hp: 25
+health:
+  - name: "HP"
+    desc: "25 (void healing); __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 5, piercing 5, slashing 5"
+abilities_mid:
+  - name: "Reactive Strike"
+    desc: "⬲"
+  - name: "Shield Block"
+    desc: "⬲"
+speed: "25 feet"
+attacks:
+  - name: "Melee"
+    desc: "⬻ longsword +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile P]]) __Damage__ 1d8+4 slashing"
+  - name: "Melee"
+    desc: "⬻ claw +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d6+4 slashing"
+  - name: "Melee"
+    desc: "⬻ lance +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d8]], [[srd/pf2e/compendium/rules-elements/traits/player-core/jousting|jousting d6]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 1d8+4 piercing"
+sourcebook: "_Monster Core_, page 312."
+```
+
+```encounter-table
+name: Skeletal Champion
+creatures:
+  - 1: Skeletal Champion
+```

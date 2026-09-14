@@ -33,7 +33,7 @@ trait_05: "Werecreature"
 modifier: 10
 perception:
   - name: "Perception"
-    desc: "Perception +10; blood scent, scent (imprecise) 100 feet"
+    desc: "+10; blood scent, scent (imprecise) 100 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]; shark empathy"
 skills:
   - name: "Skills"

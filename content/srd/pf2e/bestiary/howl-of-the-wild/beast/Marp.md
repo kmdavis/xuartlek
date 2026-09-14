@@ -25,7 +25,7 @@ trait_01: "Beast"
 modifier: 12
 perception:
   - name: "Perception"
-    desc: "Perception +12; darkvision, goldsense (imprecise) 60 feet"
+    desc: "+12; darkvision, goldsense (imprecise) 60 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]"
 skills:
   - name: "Skills"

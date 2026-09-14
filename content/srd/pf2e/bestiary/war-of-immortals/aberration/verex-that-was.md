@@ -29,7 +29,7 @@ trait_03: "Unique"
 modifier: 42
 perception:
   - name: "Perception"
-    desc: "Perception +42; darkvision, [[srd/pf2e/compendium/spells/rank-6/truesight|_truesight_]]"
+    desc: "+42; darkvision, [[srd/pf2e/compendium/spells/rank-6/truesight|_truesight_]]"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Orcish|Orcish]]"
 skills:
   - name: "Skills"

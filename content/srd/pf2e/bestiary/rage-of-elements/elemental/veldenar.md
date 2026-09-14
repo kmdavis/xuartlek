@@ -27,7 +27,7 @@ trait_02: "Elemental"
 modifier: 24
 perception:
   - name: "Perception"
-    desc: "Perception +24; all-around vision, darkvision"
+    desc: "+24; all-around vision, darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Sussuran|Sussuran]]"
 skills:
   - name: "Skills"

@@ -29,7 +29,7 @@ trait_03: "Uncommon"
 modifier: 14
 perception:
   - name: "Perception"
-    desc: "Perception +14; darkvision"
+    desc: "+14; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"

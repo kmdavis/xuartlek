@@ -1,0 +1,74 @@
+---
+noteType: pf2eMonster
+aliases: "Tidewater Guard"
+tags:
+  - pf2e/creature/level/4
+  - pf2e/creature/trait/humanoid
+  - pf2e/creature/trait/lizardfolk
+  - pf2e/creature/trait/medium
+statblock: inline
+name: "Tidewater Guard"
+level: 4
+source: "NPC Core"
+aon_url: "https://2e.aonprd.com/NPCs.aspx?ID=3660"
+socialImage: og-image.png
+---
+
+```statblock
+columns: 2
+forcecolumns: true
+layout: Basic Pathfinder 2e Layout
+source: "NPC"
+name: "Tidewater Guard"
+level: "Creature 4"
+size: "Medium"
+trait_01: "Humanoid"
+trait_02: "Lizardfolk"
+modifier: 10
+perception:
+  - name: "Perception"
+    desc: "+10"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], Iruxi"
+skills:
+  - name: "Skills"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +11, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +12, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +10, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +11, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +10"
+abilityMods: [4, 3, 1, -1, 2, 0]
+abilities_top:
+  - name: "Deep Breath"
+    desc: "A tidewater guard can [[srd/pf2e/books/player-core/chapter-8-playing-the-game/encounter-mode#Mounted Defenses|hold their breath]] for 20 minutes."
+  - name: "Tethered Tridents"
+    desc: "The tidewater guard's tridents are specially prepared to be aquadynamic and tethered by ropes. They have the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/tethered|tethered]] trait, meaning that a wielder who has a free hand can Interact to pull the weapon back into their grasp after they have thrown it as a ranged attack or after it has been disarmed (unless it is being held by another creature)."
+  - name: "Items"
+    desc: "Studded Leather Armor, trident with 50 feet of line (2)"
+ac: 21
+armorclass:
+  - name: "AC"
+    desc: "21; __Fort__: +11; __Ref__: +11; __Will__: +10"
+hp: 60
+health:
+  - name: "HP"
+    desc: "60"
+abilities_mid:
+  - name: "Reactive Strike"
+    desc: "⬲"
+speed: "25 feet, swim 25 feet"
+attacks:
+  - name: "Melee"
+    desc: "⬻ trident +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core-2/tethered|Tethered]]) __Damage__ 1d8+7 piercing"
+  - name: "Melee"
+    desc: "⬻ claw +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d6+7 piercing"
+  - name: "Ranged"
+    desc: "⬻ trident +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core-2/tethered|Tethered]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 20 feet]]) __Damage__ 1d8+7 piercing"
+abilities_bot:
+  - name: "Reel In"
+    desc: "⬺ The tidewater guard makes a ranged Strike with their trident. If the Strike hits, the guard can haul on the attached line, moving the target up to 30 feet in a straight line toward the iruxi."
+  - name: "Terrain Advantage"
+    desc: "Non-[[srd/pf2e/compendium/rules-elements/traits/player-core-2/lizardfolk|lizardfolk]] creatures that are in difficult terrain or are in water and lack a swim Speed are [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to the tidewater guard."
+sourcebook: "_NPC Core_, page 204."
+```
+
+```encounter-table
+name: Tidewater Guard
+creatures:
+  - 1: Tidewater Guard
+```

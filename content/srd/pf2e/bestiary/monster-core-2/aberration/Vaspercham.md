@@ -27,7 +27,7 @@ trait_02: "Aquatic"
 modifier: 30
 perception:
   - name: "Perception"
-    desc: "Perception +30; darkvision, [[srd/pf2e/compendium/spells/rank-2/see-the-unseen|_see the unseen_]]"
+    desc: "+30; darkvision, [[srd/pf2e/compendium/spells/rank-2/see-the-unseen|_see the unseen_]]"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]]"
 skills:
   - name: "Skills"

@@ -25,7 +25,7 @@ trait_01: "Beast"
 modifier: 15
 perception:
   - name: "Perception"
-    desc: "Perception +15; no vision, sensitive echolocation (precise) 120 feet"
+    desc: "+15; no vision, sensitive echolocation (precise) 120 feet"
 skills:
   - name: "Skills"
     desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +16, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +17, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +13"

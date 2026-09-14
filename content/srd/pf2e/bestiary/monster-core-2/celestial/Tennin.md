@@ -29,7 +29,7 @@ trait_03: "Holy"
 modifier: 17
 perception:
   - name: "Perception"
-    desc: "Perception +17; darkvision, fingers upon the loom (precise) 60 feet"
+    desc: "+17; darkvision, fingers upon the loom (precise) 60 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]]; [[srd/pf2e/compendium/spells/rank-5/truespeech|_truespeech_]]"
 skills:
   - name: "Skills"

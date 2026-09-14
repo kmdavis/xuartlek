@@ -38,6 +38,7 @@ ACTION_GLYPH = {
 }
 
 from books import REMASTER_RULEBOOKS
+from naming import note_filename
 from linkmap import LinkMap
 
 LINKS: LinkMap | None = None
@@ -291,7 +292,10 @@ def convert(c: dict) -> tuple[str, dict]:
     # -- block 0: perception / languages / skills / mods / top abilities --
     perc_body = strip_markup(d0.get("Perception", ""))
     if perc_body:
-        out += name_desc_list("perception", [("Perception", f"Perception {perc_body}")])
+        # The label is already the entry name; prefixing it again renders as
+        # "Perception Perception +2" in both Obsidian and Quartz. Skills and
+        # Languages below never did this.
+        out += name_desc_list("perception", [("Perception", perc_body)])
 
     langs = strip_markup(d0.get("Languages", ""))
     if langs:
@@ -516,7 +520,7 @@ def main() -> int:
         bslug = f"{book_slug(c)}/{creature_type(c)}"
         dest = args.out / book_slug(c) / creature_type(c)
         dest.mkdir(parents=True, exist_ok=True)
-        path = dest / f"{slugify(c['name'])}.md"
+        path = dest / f"{note_filename(c['name'])}.md"
         if path in seen:
             diag["warnings"].append(f"path collides with {seen[path]}")
         seen[path] = c["name"]

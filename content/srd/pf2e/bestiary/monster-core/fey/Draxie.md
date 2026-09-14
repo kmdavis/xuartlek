@@ -27,7 +27,7 @@ trait_02: "Sprite"
 modifier: 8
 perception:
   - name: "Perception"
-    desc: "Perception +8; low-light vision"
+    desc: "+8; low-light vision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]; telepathy (touch)"
 skills:
   - name: "Skills"

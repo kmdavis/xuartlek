@@ -31,7 +31,7 @@ trait_04: "Unholy"
 modifier: 0
 perception:
   - name: "Perception"
-    desc: "Perception +0; greater darkvision"
+    desc: "+0; greater darkvision"
 skills:
   - name: "Skills"
     desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +6"

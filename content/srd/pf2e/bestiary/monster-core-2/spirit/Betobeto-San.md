@@ -31,7 +31,7 @@ trait_04: "Uncommon"
 modifier: 22
 perception:
   - name: "Perception"
-    desc: "Perception +22; greater darkvision, fearsense (precise) 60 feet"
+    desc: "+22; greater darkvision, fearsense (precise) 60 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Shadowtongue|Shadowtongue]]"
 skills:
   - name: "Skills"

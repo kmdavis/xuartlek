@@ -27,7 +27,7 @@ trait_02: "Unique"
 modifier: 42
 perception:
   - name: "Perception"
-    desc: "Perception +42; darkvision"
+    desc: "+42; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]]; (can't speak any language)"
 skills:
   - name: "Skills"

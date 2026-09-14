@@ -27,7 +27,7 @@ trait_02: "Uncommon"
 modifier: 15
 perception:
   - name: "Perception"
-    desc: "Perception +15; darkvision, [[srd/pf2e/compendium/spells/cantrips/detect-magic|_detect magic_]], scent (imprecise) 30 feet"
+    desc: "+15; darkvision, [[srd/pf2e/compendium/spells/cantrips/detect-magic|_detect magic_]], scent (imprecise) 30 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]"
 skills:
   - name: "Skills"

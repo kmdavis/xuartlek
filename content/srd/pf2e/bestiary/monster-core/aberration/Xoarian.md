@@ -27,7 +27,7 @@ trait_02: "Uncommon"
 modifier: 16
 perception:
   - name: "Perception"
-    desc: "Perception +16; thoughtsense 60 feet, tremorsense 60 feet"
+    desc: "+16; thoughtsense 60 feet, tremorsense 60 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]]; (can't speak any languages); telepathy 100 feet"
 skills:
   - name: "Skills"

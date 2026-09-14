@@ -25,7 +25,7 @@ trait_01: "Aberration"
 modifier: 15
 perception:
   - name: "Perception"
-    desc: "Perception +15; darkvision, scent (imprecise) 120 feet, taste fear, vestigial eyes"
+    desc: "+15; darkvision, scent (imprecise) 120 feet, taste fear, vestigial eyes"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]]"
 skills:
   - name: "Skills"

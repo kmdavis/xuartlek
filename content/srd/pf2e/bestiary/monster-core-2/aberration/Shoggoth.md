@@ -29,7 +29,7 @@ trait_03: "Rare"
 modifier: 34
 perception:
   - name: "Perception"
-    desc: "Perception +34; darkvision, scent (imprecise) 60 feet, tremorsense (imprecise) 60 feet"
+    desc: "+34; darkvision, scent (imprecise) 60 feet, tremorsense (imprecise) 60 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]]"
 skills:
   - name: "Skills"

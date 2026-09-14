@@ -29,7 +29,7 @@ trait_03: "Unholy"
 modifier: 27
 perception:
   - name: "Perception"
-    desc: "Perception +27; darkvision"
+    desc: "+27; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]; (can't speak any language)"
 skills:
   - name: "Skills"

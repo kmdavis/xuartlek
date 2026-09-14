@@ -27,7 +27,7 @@ trait_02: "Humanoid"
 modifier: 10
 perception:
   - name: "Perception"
-    desc: "Perception +10; (11 to find traps)"
+    desc: "+10; (11 to find traps)"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"

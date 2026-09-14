@@ -25,7 +25,7 @@ trait_01: "Fey"
 modifier: 14
 perception:
   - name: "Perception"
-    desc: "Perception +14; tremorsense (imprecise) within their entire bound granary or storeroom"
+    desc: "+14; tremorsense (imprecise) within their entire bound granary or storeroom"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]"
 skills:
   - name: "Skills"

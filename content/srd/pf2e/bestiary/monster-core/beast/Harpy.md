@@ -29,7 +29,7 @@ trait_03: "Humanoid"
 modifier: 12
 perception:
   - name: "Perception"
-    desc: "Perception +12; darkvision"
+    desc: "+12; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]; wind's whispers"
 skills:
   - name: "Skills"

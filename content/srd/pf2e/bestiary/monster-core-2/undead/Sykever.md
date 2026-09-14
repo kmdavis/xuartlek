@@ -31,7 +31,7 @@ trait_04: "Unholy"
 modifier: 29
 perception:
   - name: "Perception"
-    desc: "Perception +29; greater darkvision, lifesense 60 feet"
+    desc: "+29; greater darkvision, lifesense 60 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Necril|Necril]]; telepathy 100 feet"
 skills:
   - name: "Skills"

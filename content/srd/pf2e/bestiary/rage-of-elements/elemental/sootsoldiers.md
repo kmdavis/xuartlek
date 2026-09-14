@@ -29,7 +29,7 @@ trait_03: "Troop"
 modifier: 20
 perception:
   - name: "Perception"
-    desc: "Perception +20; darkvision, smoke vision"
+    desc: "+20; darkvision, smoke vision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Pyric|Pyric]]"
 skills:
   - name: "Skills"

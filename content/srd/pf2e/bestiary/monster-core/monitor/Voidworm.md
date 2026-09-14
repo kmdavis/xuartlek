@@ -27,7 +27,7 @@ trait_02: "Protean"
 modifier: 4
 perception:
   - name: "Perception"
-    desc: "Perception +4; entropy sense (imprecise) 30 feet, darkvision"
+    desc: "+4; entropy sense (imprecise) 30 feet, darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Chthonian|Chthonian]], Protean"
 skills:
   - name: "Skills"

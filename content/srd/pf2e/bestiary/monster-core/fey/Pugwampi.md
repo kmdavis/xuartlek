@@ -27,7 +27,7 @@ trait_02: "Gremlin"
 modifier: 6
 perception:
   - name: "Perception"
-    desc: "Perception +6; (-2 to hear things) darkvision"
+    desc: "+6; (-2 to hear things) darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Kholo|Kholo]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]"
 skills:
   - name: "Skills"

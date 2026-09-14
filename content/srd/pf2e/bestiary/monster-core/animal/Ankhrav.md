@@ -25,7 +25,7 @@ trait_01: "Animal"
 modifier: 7
 perception:
   - name: "Perception"
-    desc: "Perception +7; darkvision, tremorsense (imprecise) 60 feet"
+    desc: "+7; darkvision, tremorsense (imprecise) 60 feet"
 skills:
   - name: "Skills"
     desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +6, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +11, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +8"

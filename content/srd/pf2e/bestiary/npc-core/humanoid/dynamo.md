@@ -29,7 +29,7 @@ trait_03: "Uncommon"
 modifier: 16
 perception:
   - name: "Perception"
-    desc: "Perception +16"
+    desc: "+16"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"

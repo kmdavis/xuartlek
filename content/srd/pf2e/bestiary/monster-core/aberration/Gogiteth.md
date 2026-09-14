@@ -25,7 +25,7 @@ trait_01: "Aberration"
 modifier: 21
 perception:
   - name: "Perception"
-    desc: "Perception +21; darkvision"
+    desc: "+21; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]; (can't speak)"
 skills:
   - name: "Skills"

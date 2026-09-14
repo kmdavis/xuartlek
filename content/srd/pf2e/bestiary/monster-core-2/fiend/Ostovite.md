@@ -27,7 +27,7 @@ trait_02: "Unholy"
 modifier: 4
 perception:
   - name: "Perception"
-    desc: "Perception +4; darkvision"
+    desc: "+4; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Chthonian|Chthonian]]"
 skills:
   - name: "Skills"

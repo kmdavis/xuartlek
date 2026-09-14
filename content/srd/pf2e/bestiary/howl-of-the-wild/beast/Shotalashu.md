@@ -27,7 +27,7 @@ trait_02: "Uncommon"
 modifier: 9
 perception:
   - name: "Perception"
-    desc: "Perception +9; darkvision"
+    desc: "+9; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/languages#Lashunta|Lashunta]]; (can't speak any language); empathic communication"
 skills:
   - name: "Skills"

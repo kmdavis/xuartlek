@@ -29,7 +29,7 @@ trait_03: "Nymph"
 modifier: 12
 perception:
   - name: "Perception"
-    desc: "Perception +12; darkvision"
+    desc: "+12; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]"
 skills:
   - name: "Skills"

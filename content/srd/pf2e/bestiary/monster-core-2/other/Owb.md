@@ -27,7 +27,7 @@ trait_02: "Uncommon"
 modifier: 13
 perception:
   - name: "Perception"
-    desc: "Perception +13; greater darkvision"
+    desc: "+13; greater darkvision"
 languages: "Caligni; (can't speak any languages), telepathy 100 feet"
 skills:
   - name: "Skills"

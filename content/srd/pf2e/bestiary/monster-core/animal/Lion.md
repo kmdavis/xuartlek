@@ -25,7 +25,7 @@ trait_01: "Animal"
 modifier: 9
 perception:
   - name: "Perception"
-    desc: "Perception +9; low-light vision, scent (imprecise) 30 feet Skills Acrobatics 8, Athletics 9, Stealth 10"
+    desc: "+9; low-light vision, scent (imprecise) 30 feet Skills Acrobatics 8, Athletics 9, Stealth 10"
 abilityMods: [4, 3, 2, -4, 2, -2]
 ac: 18
 armorclass:

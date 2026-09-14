@@ -27,7 +27,7 @@ trait_02: "Holy"
 modifier: 20
 perception:
   - name: "Perception"
-    desc: "Perception +20; darkvision"
+    desc: "+20; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]], [[srd/pf2e/compendium/rules-elements/languages#Vudrani|Vudrani]]; plus two others; speaker of the skies"
 skills:
   - name: "Skills"

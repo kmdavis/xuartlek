@@ -31,7 +31,7 @@ trait_04: "Water"
 modifier: 13
 perception:
   - name: "Perception"
-    desc: "Perception +13; darkvision"
+    desc: "+13; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]"
 skills:
   - name: "Skills"

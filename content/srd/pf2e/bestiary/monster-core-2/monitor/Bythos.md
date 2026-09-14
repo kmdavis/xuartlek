@@ -29,7 +29,7 @@ trait_03: "Uncommon"
 modifier: 30
 perception:
   - name: "Perception"
-    desc: "Perception +30; darkvision"
+    desc: "+30; darkvision"
 languages: "envisioning"
 skills:
   - name: "Skills"

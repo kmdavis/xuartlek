@@ -12,6 +12,8 @@ visibility: players
 type: pc
 ---
 
+![[Belegost Token.webp|token]]
+
 ```statblock
 layout: Basic Pathfinder 2e Layout
 name: Belegost
@@ -30,10 +32,10 @@ trait_02: Humanoid
 modifier: 5 # unrendered
 perception:
   - name: Perception
-    desc: "Perception +5"
+    desc: "+5"
 languages:
-- Common
-- Orcish
+- [[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
+- [[srd/pf2e/compendium/rules-elements/languages#Orcish|Orcish]]
 skills:
   acrobatics: +6
   athletics: +8
@@ -83,7 +85,7 @@ Make two unarmed Strikes. If both hit the same creature, combine their damage fo
 
 `monk`
 
-Your fists are deadly weapons. The damage die for your fist increases to 1d6 instead of 1d4. You don't take the normal –2 circumstance penalty when making a lethal attack with your fist or any other unarmed attacks.
+Your fists are deadly weapons. The damage die for your fist increases to 1d6 instead of 1d4. You don't take the normal -2 circumstance penalty when making a lethal attack with your fist or any other unarmed attacks.
 
 ### Class Feats
 

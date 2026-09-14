@@ -27,7 +27,7 @@ trait_02: "Beast"
 modifier: 21
 perception:
   - name: "Perception"
-    desc: "Perception +21; darkvision"
+    desc: "+21; darkvision"
 languages: "Boggard; [[srd/pf2e/compendium/spells/rank-2/speak-with-animals|_speak with animals_]]"
 skills:
   - name: "Skills"

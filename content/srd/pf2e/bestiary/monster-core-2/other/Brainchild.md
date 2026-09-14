@@ -29,7 +29,7 @@ trait_03: "Rare"
 modifier: 18
 perception:
   - name: "Perception"
-    desc: "Perception +18; darkvision"
+    desc: "+18; darkvision"
 languages: "telepathy 100 feet, universal language"
 skills:
   - name: "Skills"

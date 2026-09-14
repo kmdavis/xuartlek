@@ -25,7 +25,7 @@ trait_01: "Beast"
 modifier: 12
 perception:
   - name: "Perception"
-    desc: "Perception +12; scent (imprecise) 30 feet"
+    desc: "+12; scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
     desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +13, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +12, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +10"

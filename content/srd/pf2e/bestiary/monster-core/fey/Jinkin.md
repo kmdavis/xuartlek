@@ -27,7 +27,7 @@ trait_02: "Gremlin"
 modifier: 7
 perception:
   - name: "Perception"
-    desc: "Perception +7; darkvision"
+    desc: "+7; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]"
 skills:
   - name: "Skills"

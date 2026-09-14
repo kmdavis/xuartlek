@@ -25,7 +25,7 @@ trait_01: "Undead"
 modifier: 14
 perception:
   - name: "Perception"
-    desc: "Perception +14; darkvision, sense murderer"
+    desc: "+14; darkvision, sense murderer"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]; any one spoken in life by their murderer (typically [[srd/pf2e/compendium/rules-elements/languages#Common|Common]])"
 skills:
   - name: "Skills"

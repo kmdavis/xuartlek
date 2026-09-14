@@ -29,7 +29,7 @@ trait_03: "Troop"
 modifier: 10
 perception:
   - name: "Perception"
-    desc: "Perception +10; keen eyes"
+    desc: "+10; keen eyes"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Halfling|Halfling]]"
 skills:
   - name: "Skills"

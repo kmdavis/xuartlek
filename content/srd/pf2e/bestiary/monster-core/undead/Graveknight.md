@@ -29,7 +29,7 @@ trait_03: "Unholy"
 modifier: 19
 perception:
   - name: "Perception"
-    desc: "Perception +19; darkvision"
+    desc: "+19; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Necril|Necril]]"
 skills:
   - name: "Skills"

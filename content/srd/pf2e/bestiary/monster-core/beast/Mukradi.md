@@ -25,7 +25,7 @@ trait_01: "Beast"
 modifier: 24
 perception:
   - name: "Perception"
-    desc: "Perception +24; darkvision, tremorsense (imprecise) 60 feet"
+    desc: "+24; darkvision, tremorsense (imprecise) 60 feet"
 skills:
   - name: "Skills"
     desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +32"

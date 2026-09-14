@@ -31,7 +31,7 @@ trait_04: "Werecreature"
 modifier: 9
 perception:
   - name: "Perception"
-    desc: "Perception +9; low-light vision, scent (imprecise) 30 feet"
+    desc: "+9; low-light vision, scent (imprecise) 30 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]; wolf empathy"
 skills:
   - name: "Skills"

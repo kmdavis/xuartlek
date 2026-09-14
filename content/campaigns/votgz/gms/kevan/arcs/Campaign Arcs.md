@@ -17,7 +17,7 @@ Arcs link to location-specific content (threads, NPCs) but provide the overarchi
 | Arc | Status | Summary |
 |-----|--------|---------|
 | [[Commodore Thorne]] | Active | The party has made an enemy of the pirate commodore |
-| [[Homeward Bound]] | Active | Getting the ship repaired and returning home |
+| [[Homeward Bound (Arc)|Homeward Bound]] | Active | Getting the ship repaired and returning home |
 
 ## Arc Structure
 

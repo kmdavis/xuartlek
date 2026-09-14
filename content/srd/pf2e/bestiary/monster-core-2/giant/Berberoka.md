@@ -27,7 +27,7 @@ trait_02: "Humanoid"
 modifier: 26
 perception:
   - name: "Perception"
-    desc: "Perception +26; darkvision, scent (imprecise) 60 feet"
+    desc: "+26; darkvision, scent (imprecise) 60 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Jotun|Jotun]]"
 skills:
   - name: "Skills"

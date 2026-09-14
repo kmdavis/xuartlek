@@ -31,7 +31,7 @@ trait_04: "Wood"
 modifier: 30
 perception:
   - name: "Perception"
-    desc: "Perception +30; darkvision"
+    desc: "+30; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]]; [[srd/pf2e/compendium/spells/rank-3/speak-with-plants|_speak with plants_]], telepathy 150 feet"
 skills:
   - name: "Skills"

@@ -29,7 +29,7 @@ trait_03: "Holy"
 modifier: 16
 perception:
   - name: "Perception"
-    desc: "Perception +16"
+    desc: "+16"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]; (can't speak any language)"
 skills:
   - name: "Skills"

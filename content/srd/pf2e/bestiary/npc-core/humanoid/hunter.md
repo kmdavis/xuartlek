@@ -27,7 +27,7 @@ trait_02: "Humanoid"
 modifier: 17
 perception:
   - name: "Perception"
-    desc: "Perception +17"
+    desc: "+17"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"

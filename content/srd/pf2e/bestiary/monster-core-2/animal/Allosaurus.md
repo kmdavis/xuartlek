@@ -27,7 +27,7 @@ trait_02: "Dinosaur"
 modifier: 15
 perception:
   - name: "Perception"
-    desc: "Perception +15; low-light vision, scent (imprecise) 60 feet"
+    desc: "+15; low-light vision, scent (imprecise) 60 feet"
 skills:
   - name: "Skills"
     desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +12, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +17"

@@ -27,7 +27,7 @@ trait_02: "Troop"
 modifier: 19
 perception:
   - name: "Perception"
-    desc: "Perception +19; darkvision, sin scent (imprecise) 30 feet"
+    desc: "+19; darkvision, sin scent (imprecise) 30 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], Thassilonian"
 skills:
   - name: "Skills"

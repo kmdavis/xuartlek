@@ -26,7 +26,7 @@ trait_01: "Humanoid"
 modifier: 10
 perception:
   - name: "Perception"
-    desc: "Perception +10; echolocation 20 feet, low-light vision, scent (imprecise) 30 feet"
+    desc: "+10; echolocation 20 feet, low-light vision, scent (imprecise) 30 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/languages#Mwangi|Mwangi]]"
 skills:
   - name: "Skills"

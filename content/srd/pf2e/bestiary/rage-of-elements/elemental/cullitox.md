@@ -27,7 +27,7 @@ trait_02: "Elemental"
 modifier: 9
 perception:
   - name: "Perception"
-    desc: "Perception +9; crystal scent (imprecise) 60 feet, darkvision"
+    desc: "+9; crystal scent (imprecise) 60 feet, darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Petran|Petran]]"
 skills:
   - name: "Skills"

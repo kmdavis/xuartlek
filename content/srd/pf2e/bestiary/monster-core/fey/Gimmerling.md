@@ -25,7 +25,7 @@ trait_01: "Fey"
 modifier: 21
 perception:
   - name: "Perception"
-    desc: "Perception +21; hungersense (imprecise) 30 feet, low-light vision"
+    desc: "+21; hungersense (imprecise) 30 feet, low-light vision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]"
 skills:
   - name: "Skills"

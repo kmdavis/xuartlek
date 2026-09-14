@@ -27,7 +27,7 @@ trait_02: "Humanoid"
 modifier: 18
 perception:
   - name: "Perception"
-    desc: "Perception +18; low-light vision, scent (imprecise) 30 feet"
+    desc: "+18; low-light vision, scent (imprecise) 30 feet"
 languages: "Adlet, [[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"

@@ -29,7 +29,7 @@ trait_03: "Genie"
 modifier: 15
 perception:
   - name: "Perception"
-    desc: "Perception +15; darkvision, tremorsense (imprecise) 60 feet"
+    desc: "+15; darkvision, tremorsense (imprecise) 60 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Petran|Petran]]; [[srd/pf2e/compendium/spells/rank-5/truespeech|_truespeech_]]"
 skills:
   - name: "Skills"

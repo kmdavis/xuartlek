@@ -31,7 +31,7 @@ trait_04: "Negative"
 modifier: 29
 perception:
   - name: "Perception"
-    desc: "Perception +29; greater darkvision, scent (imprecise) 30 feet"
+    desc: "+29; greater darkvision, scent (imprecise) 30 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/languages#Necril|Necril]]"
 skills:
   - name: "Skills"

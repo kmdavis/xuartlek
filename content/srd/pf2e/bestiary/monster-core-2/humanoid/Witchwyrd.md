@@ -28,7 +28,7 @@ trait_02: "Uncommon"
 modifier: 12
 perception:
   - name: "Perception"
-    desc: "Perception +12; darkvision"
+    desc: "+12; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]]; one or more planar languages, [[srd/pf2e/compendium/spells/rank-5/truespeech|_truespeech_]]"
 skills:
   - name: "Skills"

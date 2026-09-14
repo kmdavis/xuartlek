@@ -27,7 +27,7 @@ trait_02: "Aquatic"
 modifier: 34
 perception:
   - name: "Perception"
-    desc: "Perception +34; darkvision, scent (imprecise) 80 feet"
+    desc: "+34; darkvision, scent (imprecise) 80 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]]"
 skills:
   - name: "Skills"

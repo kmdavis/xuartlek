@@ -27,7 +27,7 @@ trait_02: "Humanoid"
 modifier: 3
 perception:
   - name: "Perception"
-    desc: "Perception +3; (9 to eavesdrop)"
+    desc: "+3; (9 to eavesdrop)"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]; one additional language spoken by their boss"
 skills:
   - name: "Skills"

@@ -27,7 +27,7 @@ trait_02: "Plant"
 modifier: 15
 perception:
   - name: "Perception"
-    desc: "Perception +15; low-light vision"
+    desc: "+15; low-light vision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]; (can't speak any language)"
 skills:
   - name: "Skills"

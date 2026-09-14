@@ -29,7 +29,7 @@ trait_03: "Unholy"
 modifier: 10
 perception:
   - name: "Perception"
-    desc: "Perception +10; (12 to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Motive|Sense Motive]]) darkvision, lifesense 30 feet"
+    desc: "+10; (12 to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Motive|Sense Motive]]) darkvision, lifesense 30 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]; (can't speak any language)"
 skills:
   - name: "Skills"

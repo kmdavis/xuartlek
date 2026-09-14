@@ -29,7 +29,7 @@ trait_03: "Unholy"
 modifier: 12
 perception:
   - name: "Perception"
-    desc: "Perception +12; darkvision, smell magic (imprecise) 60 feet"
+    desc: "+12; darkvision, smell magic (imprecise) 60 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/languages#Common|Common]], Daemonic, [[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], Requian; telepathy 100 feet"
 skills:
   - name: "Skills"

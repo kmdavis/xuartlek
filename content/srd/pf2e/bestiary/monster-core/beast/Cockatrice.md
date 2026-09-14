@@ -25,7 +25,7 @@ trait_01: "Beast"
 modifier: 8
 perception:
   - name: "Perception"
-    desc: "Perception +8; darkvision"
+    desc: "+8; darkvision"
 skills:
   - name: "Skills"
     desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +11"

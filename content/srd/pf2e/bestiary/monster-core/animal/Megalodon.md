@@ -27,7 +27,7 @@ trait_02: "Aquatic"
 modifier: 20
 perception:
   - name: "Perception"
-    desc: "Perception +20; blood scent, scent (imprecise) 100 feet"
+    desc: "+20; blood scent, scent (imprecise) 100 feet"
 skills:
   - name: "Skills"
     desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +21, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +19, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +16"

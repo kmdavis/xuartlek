@@ -27,7 +27,7 @@ trait_02: "Protean"
 modifier: 8
 perception:
   - name: "Perception"
-    desc: "Perception +8; darkvision, entropy sense (imprecise) 30 feet"
+    desc: "+8; darkvision, entropy sense (imprecise) 30 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]], Protean; telepathy (touch only)"
 skills:
   - name: "Skills"

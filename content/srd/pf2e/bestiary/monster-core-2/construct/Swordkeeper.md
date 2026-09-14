@@ -29,7 +29,7 @@ trait_03: "Uncommon"
 modifier: 20
 perception:
   - name: "Perception"
-    desc: "Perception +20"
+    desc: "+20"
 skills:
   - name: "Skills"
     desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +21, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +23"

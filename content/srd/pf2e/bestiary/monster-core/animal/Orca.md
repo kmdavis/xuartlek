@@ -25,7 +25,7 @@ trait_01: "Animal"
 modifier: 12
 perception:
   - name: "Perception"
-    desc: "Perception +12; aquatic echolocation 120 feet, low-light vision"
+    desc: "+12; aquatic echolocation 120 feet, low-light vision"
 skills:
   - name: "Skills"
     desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +14, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +13"

@@ -29,7 +29,7 @@ trait_03: "Uncommon"
 modifier: 21
 perception:
   - name: "Perception"
-    desc: "Perception +21; scent (imprecise) 60 feet"
+    desc: "+21; scent (imprecise) 60 feet"
 skills:
   - name: "Skills"
     desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +23, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +21, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +22"

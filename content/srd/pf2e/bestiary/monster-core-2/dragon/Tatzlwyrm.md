@@ -25,7 +25,7 @@ trait_01: "Dragon"
 modifier: 8
 perception:
   - name: "Perception"
-    desc: "Perception +8; darkvision"
+    desc: "+8; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]]"
 skills:
   - name: "Skills"

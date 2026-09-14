@@ -27,7 +27,7 @@ trait_02: "Fire"
 modifier: 14
 perception:
   - name: "Perception"
-    desc: "Perception +14; darkvision"
+    desc: "+14; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]; (can't speak any language)"
 skills:
   - name: "Skills"

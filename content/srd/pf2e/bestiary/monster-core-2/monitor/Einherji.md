@@ -27,7 +27,7 @@ trait_02: "Monitor"
 modifier: 17
 perception:
   - name: "Perception"
-    desc: "Perception +17; darkvision"
+    desc: "+17; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Hallit|Hallit]], [[srd/pf2e/compendium/rules-elements/languages#Jotun|Jotun]]"
 skills:
   - name: "Skills"

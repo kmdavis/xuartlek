@@ -27,7 +27,7 @@ trait_02: "Monitor"
 modifier: 7
 perception:
   - name: "Perception"
-    desc: "Perception +7; darkvision, locate aeon"
+    desc: "+7; darkvision, locate aeon"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]], Utopian"
 skills:
   - name: "Skills"

@@ -27,7 +27,7 @@ trait_02: "Rare"
 modifier: 7
 perception:
   - name: "Perception"
-    desc: "Perception +7; darkvision, treasure sense (imprecise) 500 feet"
+    desc: "+7; darkvision, treasure sense (imprecise) 500 feet"
 languages: "carbuncle empathy 30 feet"
 skills:
   - name: "Skills"

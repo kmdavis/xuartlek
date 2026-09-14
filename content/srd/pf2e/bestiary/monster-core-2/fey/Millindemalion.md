@@ -25,7 +25,7 @@ trait_01: "Fey"
 modifier: 23
 perception:
   - name: "Perception"
-    desc: "Perception +23; low-light vision"
+    desc: "+23; low-light vision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]"
 skills:
   - name: "Skills"

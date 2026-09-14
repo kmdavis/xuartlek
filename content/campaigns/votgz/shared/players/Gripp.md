@@ -12,6 +12,9 @@ visibility: players
 type: pc
 ---
 
+![[Gripp Portrait.webp|portrait]]
+![[Gripp Token.webp|token]]
+
 ```statblock
 layout: Basic Pathfinder 2e Layout
 name: Gripp
@@ -30,11 +33,11 @@ trait_02: Humanoid
 modifier: 4 # unrendered
 perception:
   - name: Perception
-    desc: "Perception +4"
+    desc: "+4"
 languages:
-- Common
-- Fey
-- Gnomish
+- [[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
+- [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]
+- [[srd/pf2e/compendium/rules-elements/languages#Gnomish|Gnomish]]
 skills:
   acrobatics: +5
   crafting: +8
@@ -310,7 +313,7 @@ trait_02: Minion
 modifier: 4 # unrendered
 perception:
   - name: Perception
-    desc: "Perception +4"
+    desc: "+4"
 abilityMods: [0,0,0,0,0,0]
 
 ac: 16 # unrendered

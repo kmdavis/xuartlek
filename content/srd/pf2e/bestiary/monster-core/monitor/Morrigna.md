@@ -27,7 +27,7 @@ trait_02: "Psychopomp"
 modifier: 28
 perception:
   - name: "Perception"
-    desc: "Perception +28; darkvision, lifesense 60 feet"
+    desc: "+28; darkvision, lifesense 60 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]], [[srd/pf2e/compendium/rules-elements/languages#Necril|Necril]], Requian; [[srd/pf2e/compendium/spells/rank-2/speak-with-animals|_speak with animals_]], [[srd/pf2e/compendium/spells/rank-5/truespeech|_truespeech_]]"
 skills:
   - name: "Skills"

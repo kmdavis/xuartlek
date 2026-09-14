@@ -25,7 +25,7 @@ trait_01: "Aberration"
 modifier: 29
 perception:
   - name: "Perception"
-    desc: "Perception +29; tremorsense (imprecise) 60 feet"
+    desc: "+29; tremorsense (imprecise) 60 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]]; (can't speak any language); telepathy 100 feet"
 skills:
   - name: "Skills"

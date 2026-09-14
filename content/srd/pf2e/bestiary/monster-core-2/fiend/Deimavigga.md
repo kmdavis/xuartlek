@@ -29,7 +29,7 @@ trait_03: "Unholy"
 modifier: 32
 perception:
   - name: "Perception"
-    desc: "Perception +32; (36 to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Motive|Sense Motive]]) greater darkvision"
+    desc: "+32; (36 to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Motive|Sense Motive]]) greater darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]]; indomitable oration, telepathy 100 feet"
 skills:
   - name: "Skills"

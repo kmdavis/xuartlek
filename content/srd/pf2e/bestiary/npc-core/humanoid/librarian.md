@@ -27,7 +27,7 @@ trait_02: "Humanoid"
 modifier: 7
 perception:
   - name: "Perception"
-    desc: "Perception +7"
+    desc: "+7"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]]; up to 4 additional languages"
 skills:
   - name: "Skills"

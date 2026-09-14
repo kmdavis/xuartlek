@@ -29,7 +29,7 @@ trait_03: "Holy"
 modifier: 12
 perception:
   - name: "Perception"
-    desc: "Perception +12; darkvision, [[srd/pf2e/compendium/spells/cantrips/detect-magic|_detect magic_]]"
+    desc: "+12; darkvision, [[srd/pf2e/compendium/spells/cantrips/detect-magic|_detect magic_]]"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]]; [[srd/pf2e/compendium/spells/rank-5/truespeech|_truespeech_]]"
 skills:
   - name: "Skills"

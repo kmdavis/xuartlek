@@ -25,7 +25,7 @@ trait_01: "Aberration"
 modifier: 11
 perception:
   - name: "Perception"
-    desc: "Perception +11; darkvision, tremorsense (imprecise) 30 feet"
+    desc: "+11; darkvision, tremorsense (imprecise) 30 feet"
 skills:
   - name: "Skills"
     desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +12, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +12"

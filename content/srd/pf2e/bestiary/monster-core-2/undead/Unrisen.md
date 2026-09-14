@@ -27,7 +27,7 @@ trait_02: "Unholy"
 modifier: 21
 perception:
   - name: "Perception"
-    desc: "Perception +21; darkvision, lifesense 30 feet"
+    desc: "+21; darkvision, lifesense 30 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]; (can't speak any language)"
 skills:
   - name: "Skills"

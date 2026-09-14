@@ -2,10 +2,10 @@
 aliases: ["The Party"]
 tags:
 - campaign/votgz/party
-source: Foundry export fvtt-Actor-the-party-xxxPF2ExPARTYxxx.json
 publish: true
 visibility: players
 type: reference
+source: Foundry export fvtt-Actor-the-party-xxxPF2ExPARTYxxx.json
 ---
 
 # Party Stash

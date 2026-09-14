@@ -27,7 +27,7 @@ trait_02: "Humanoid"
 modifier: 18
 perception:
   - name: "Perception"
-    desc: "Perception +18; darkvision"
+    desc: "+18; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], Sphinx; [[srd/pf2e/compendium/spells/rank-5/truespeech|_truespeech_]]"
 skills:
   - name: "Skills"

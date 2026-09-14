@@ -27,7 +27,7 @@ trait_02: "Petitioner"
 modifier: 7
 perception:
   - name: "Perception"
-    desc: "Perception +7; darkvision"
+    desc: "+7; darkvision"
 languages: "see Planar Incarnation"
 skills:
   - name: "Skills"

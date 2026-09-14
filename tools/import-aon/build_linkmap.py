@@ -1,3 +1,4 @@
+from naming import note_filename
 #!/usr/bin/env -S uv run --script
 # /// script
 # requires-python = ">=3.11"
@@ -94,7 +95,7 @@ def main() -> int:
     creatures, _dropped = bes.dedupe(json.loads((snap / "creatures.json").read_text()))
     for c in creatures:
         path = (ROOT / "bestiary" / bes.book_slug(c) / bes.creature_type(c)
-                / f"{bes.slugify(c['name'])}.md")
+                / f"{note_filename(c['name'])}.md")
         lm.add_creature(c.get("id", ""), path)
     print(f"  bestiary:   {len(creatures)} creatures")
 

@@ -27,7 +27,7 @@ trait_02: "Fey"
 modifier: 11
 perception:
   - name: "Perception"
-    desc: "Perception +11; low-light vision"
+    desc: "+11; low-light vision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]"
 skills:
   - name: "Skills"

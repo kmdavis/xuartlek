@@ -27,7 +27,7 @@ trait_02: "Rare"
 modifier: 28
 perception:
   - name: "Perception"
-    desc: "Perception +28; scent (imprecise) 60 feet"
+    desc: "+28; scent (imprecise) 60 feet"
 skills:
   - name: "Skills"
     desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +33, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +27, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +29"

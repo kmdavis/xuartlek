@@ -31,7 +31,7 @@ trait_04: "Unholy"
 modifier: 30
 perception:
   - name: "Perception"
-    desc: "Perception +30; darkvision, [[srd/pf2e/compendium/spells/rank-6/truesight|_truesight_]]"
+    desc: "+30; darkvision, [[srd/pf2e/compendium/spells/rank-6/truesight|_truesight_]]"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Chthonian|Chthonian]]; telepathy 100 feet"
 skills:
   - name: "Skills"

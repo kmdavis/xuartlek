@@ -27,7 +27,7 @@ trait_02: "Monitor"
 modifier: 18
 perception:
   - name: "Perception"
-    desc: "Perception +18; darkvision"
+    desc: "+18; darkvision"
 languages: "envisioning"
 abilityMods: [4, 4, 3, 3, 5, 3]
 abilities_top:

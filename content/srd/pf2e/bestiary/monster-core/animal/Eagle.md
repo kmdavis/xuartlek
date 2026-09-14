@@ -25,7 +25,7 @@ trait_01: "Animal"
 modifier: 6
 perception:
   - name: "Perception"
-    desc: "Perception +6; low-light vision"
+    desc: "+6; low-light vision"
 skills:
   - name: "Skills"
     desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +6"

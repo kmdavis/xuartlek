@@ -25,7 +25,7 @@ trait_01: "Beast"
 modifier: 22
 perception:
   - name: "Perception"
-    desc: "Perception +22; darkvision"
+    desc: "+22; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]]"
 skills:
   - name: "Skills"

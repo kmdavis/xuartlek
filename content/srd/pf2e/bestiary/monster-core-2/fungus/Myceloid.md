@@ -25,7 +25,7 @@ trait_01: "Fungus"
 modifier: 10
 perception:
   - name: "Perception"
-    desc: "Perception +10; darkvision, scent (imprecise) 30 feet"
+    desc: "+10; darkvision, scent (imprecise) 30 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]; telepathy 100 feet (myceloids and those afflicted by purple pox only)"
 skills:
   - name: "Skills"

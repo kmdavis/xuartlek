@@ -27,7 +27,7 @@ trait_02: "Earth"
 modifier: 29
 perception:
   - name: "Perception"
-    desc: "Perception +29; darkvision, manifold vision, tremorsense (imprecise) 30 feet"
+    desc: "+29; darkvision, manifold vision, tremorsense (imprecise) 30 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Petran|Petran]]"
 skills:
   - name: "Skills"

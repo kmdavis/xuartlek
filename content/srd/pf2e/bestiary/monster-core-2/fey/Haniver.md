@@ -29,7 +29,7 @@ trait_03: "Gremlin"
 modifier: 5
 perception:
   - name: "Perception"
-    desc: "Perception +5; darkvision"
+    desc: "+5; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]], [[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]"
 skills:
   - name: "Skills"

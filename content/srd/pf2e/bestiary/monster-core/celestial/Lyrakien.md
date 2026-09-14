@@ -29,7 +29,7 @@ trait_03: "Holy"
 modifier: 8
 perception:
   - name: "Perception"
-    desc: "Perception +8; darkvision"
+    desc: "+8; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]]"
 skills:
   - name: "Skills"

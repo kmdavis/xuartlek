@@ -114,7 +114,12 @@ def clean(text, title, src=None, titles=None):
 
 # Titles whose filename cannot be derived safely. "Xuartlek: Voyage of the Grim
 # Zephyr" would otherwise truncate to "Xuartlek" and collide with the deity note.
-FILENAME_OVERRIDE = {"Xuartlek: Voyage of the Grim Zephyr": "Voyage of the Grim Zephyr"}
+FILENAME_OVERRIDE = {
+    "Xuartlek: Voyage of the Grim Zephyr": "Voyage of the Grim Zephyr",
+    # "Homeward Bound" is also a PF2e ancestry feat in the SRD; disambiguate
+    # so Obsidian wikilinks are not ambiguous between the two.
+    "Arc: Homeward Bound": "Homeward Bound (Arc)",
+}
 
 
 def filename_for(title, kind):

@@ -31,7 +31,7 @@ trait_04: "Rare"
 modifier: 27
 perception:
   - name: "Perception"
-    desc: "Perception +27; darkvision, scent (imprecise) 30 feet"
+    desc: "+27; darkvision, scent (imprecise) 30 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]"
 skills:
   - name: "Skills"

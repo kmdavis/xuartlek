@@ -25,7 +25,7 @@ trait_01: "Fey"
 modifier: 25
 perception:
   - name: "Perception"
-    desc: "Perception +25; lifesense 120 feet, low-light vision"
+    desc: "+25; lifesense 120 feet, low-light vision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]; (can't speak any language); telepathy 100 feet"
 skills:
   - name: "Skills"

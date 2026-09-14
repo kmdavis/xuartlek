@@ -29,7 +29,7 @@ trait_03: "Rare"
 modifier: 30
 perception:
   - name: "Perception"
-    desc: "Perception +30; darkvision"
+    desc: "+30; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Talican|Talican]]; plus one language for each of their mouths; telepathy 100 feet"
 skills:
   - name: "Skills"

@@ -31,7 +31,7 @@ trait_04: "Unique"
 modifier: 38
 perception:
   - name: "Perception"
-    desc: "Perception +38; darkvision, stormsight"
+    desc: "+38; darkvision, stormsight"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Tien|Tien]]; (can't speak any language)"
 skills:
   - name: "Skills"

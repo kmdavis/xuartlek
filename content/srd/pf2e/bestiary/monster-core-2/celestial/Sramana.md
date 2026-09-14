@@ -29,7 +29,7 @@ trait_03: "Holy"
 modifier: 29
 perception:
   - name: "Perception"
-    desc: "Perception +29; darkvision, heed the fettered (imprecise) 120 feet"
+    desc: "+29; darkvision, heed the fettered (imprecise) 120 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]], Requian; [[srd/pf2e/compendium/spells/rank-5/truespeech|_truespeech_]]"
 skills:
   - name: "Skills"

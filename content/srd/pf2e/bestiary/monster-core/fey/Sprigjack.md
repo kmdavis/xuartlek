@@ -29,7 +29,7 @@ trait_03: "Wood"
 modifier: 5
 perception:
   - name: "Perception"
-    desc: "Perception +5; darkvision"
+    desc: "+5; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]"
 skills:
   - name: "Skills"

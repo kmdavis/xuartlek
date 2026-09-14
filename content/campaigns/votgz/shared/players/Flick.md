@@ -12,6 +12,9 @@ visibility: players
 type: pc
 ---
 
+![[Flick Portrait.webp|portrait]]
+![[Flick Token.webp|token]]
+
 ```statblock
 layout: Basic Pathfinder 2e Layout
 name: Flick
@@ -30,10 +33,10 @@ trait_02: Humanoid
 modifier: 6 # unrendered
 perception:
   - name: Perception
-    desc: "Perception +6"
+    desc: "+6"
 languages:
-- Common
-- Goblin
+- [[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
+- [[srd/pf2e/compendium/rules-elements/languages#Goblin|Goblin]]
 skills:
   acrobatics: +8
   athletics: +4

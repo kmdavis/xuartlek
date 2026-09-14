@@ -27,7 +27,7 @@ trait_02: "Uncommon"
 modifier: 14
 perception:
   - name: "Perception"
-    desc: "Perception +14; low-light vision"
+    desc: "+14; low-light vision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]"
 skills:
   - name: "Skills"

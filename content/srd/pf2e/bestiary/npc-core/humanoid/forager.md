@@ -27,7 +27,7 @@ trait_02: "Humanoid"
 modifier: 7
 perception:
   - name: "Perception"
-    desc: "Perception +7; (11 to notice flora and fauna)"
+    desc: "+7; (11 to notice flora and fauna)"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"

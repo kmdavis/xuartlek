@@ -27,7 +27,7 @@ trait_02: "Humanoid"
 modifier: 6
 perception:
   - name: "Perception"
-    desc: "Perception +6; (8 to spot fish)"
+    desc: "+6; (8 to spot fish)"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"

@@ -25,7 +25,7 @@ trait_01: "Plant"
 modifier: 11
 perception:
   - name: "Perception"
-    desc: "Perception +11; blood scent, low-light vision"
+    desc: "+11; blood scent, low-light vision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"

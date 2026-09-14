@@ -25,7 +25,7 @@ trait_01: "Beast"
 modifier: 11
 perception:
   - name: "Perception"
-    desc: "Perception +11; darkvision"
+    desc: "+11; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]]; [[srd/pf2e/compendium/spells/rank-2/translate|_translate_]]"
 skills:
   - name: "Skills"

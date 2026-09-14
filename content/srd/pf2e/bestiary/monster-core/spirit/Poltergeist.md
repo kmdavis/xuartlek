@@ -31,7 +31,7 @@ trait_04: "Unholy"
 modifier: 11
 perception:
   - name: "Perception"
-    desc: "Perception +11; darkvision"
+    desc: "+11; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"

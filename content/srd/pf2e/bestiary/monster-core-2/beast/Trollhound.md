@@ -29,7 +29,7 @@ trait_03: "Wood"
 modifier: 6
 perception:
   - name: "Perception"
-    desc: "Perception +6; darkvision, scent (imprecise) 30 feet"
+    desc: "+6; darkvision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
     desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +6, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +9, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +8, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +6"

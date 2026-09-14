@@ -29,7 +29,7 @@ trait_03: "Uncommon"
 modifier: 34
 perception:
   - name: "Perception"
-    desc: "Perception +34; darkvision"
+    desc: "+34; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]"
 skills:
   - name: "Skills"

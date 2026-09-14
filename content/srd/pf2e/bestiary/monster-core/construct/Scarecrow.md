@@ -25,7 +25,7 @@ trait_01: "Construct"
 modifier: 11
 perception:
   - name: "Perception"
-    desc: "Perception +11; darkvision"
+    desc: "+11; darkvision"
 skills:
   - name: "Skills"
     desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +12"

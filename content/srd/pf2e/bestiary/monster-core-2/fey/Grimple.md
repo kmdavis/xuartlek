@@ -27,7 +27,7 @@ trait_02: "Gremlin"
 modifier: 6
 perception:
   - name: "Perception"
-    desc: "Perception +6; low-light vision"
+    desc: "+6; low-light vision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]"
 skills:
   - name: "Skills"

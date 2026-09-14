@@ -29,7 +29,7 @@ trait_03: "Velstrac"
 modifier: 15
 perception:
   - name: "Perception"
-    desc: "Perception +15; greater darkvision, painsight, sense portal"
+    desc: "+15; greater darkvision, painsight, sense portal"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Shadowtongue|Shadowtongue]]; telepathy 100 feet"
 skills:
   - name: "Skills"

@@ -27,7 +27,7 @@ trait_02: "Uncommon"
 modifier: 16
 perception:
   - name: "Perception"
-    desc: "Perception +16; darkvision, scent (imprecise) 30 feet"
+    desc: "+16; darkvision, scent (imprecise) 30 feet"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]]"
 skills:
   - name: "Skills"

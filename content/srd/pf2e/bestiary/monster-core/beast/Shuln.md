@@ -27,7 +27,7 @@ trait_02: "Uncommon"
 modifier: 20
 perception:
   - name: "Perception"
-    desc: "Perception +20; scent 30 feet, tremorsense (imprecise) 60 feet"
+    desc: "+20; scent 30 feet, tremorsense (imprecise) 60 feet"
 skills:
   - name: "Skills"
     desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +25, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +22"

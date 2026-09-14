@@ -27,7 +27,7 @@ trait_02: "Humanoid"
 modifier: 15
 perception:
   - name: "Perception"
-    desc: "Perception +15"
+    desc: "+15"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Petran|Petran]], [[srd/pf2e/compendium/rules-elements/languages#Pyric|Pyric]]"
 skills:
   - name: "Skills"

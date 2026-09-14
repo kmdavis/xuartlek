@@ -27,7 +27,7 @@ trait_02: "Humanoid"
 modifier: 7
 perception:
   - name: "Perception"
-    desc: "Perception +7; (8 to find concealed objects)"
+    desc: "+7; (8 to find concealed objects)"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"

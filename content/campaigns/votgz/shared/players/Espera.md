@@ -12,6 +12,8 @@ visibility: players
 type: pc
 ---
 
+![[Espera Token.webp|token]]
+
 ```statblock
 layout: Basic Pathfinder 2e Layout
 name: Espera
@@ -30,10 +32,10 @@ trait_02: Humanoid
 modifier: 7 # unrendered
 perception:
   - name: Perception
-    desc: "Perception +7"
+    desc: "+7"
 languages:
 - Amurrun
-- Common
+- [[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
 skills:
   acrobatics: +7
   athletics: +5
@@ -159,7 +161,7 @@ You often smuggle things past the authorities. When the GM rolls your Stealth ch
 
 `general`  `skill`
 
-Tracking is second nature to you, and when necessary you can follow a trail without pause. You can Track while moving at full Speed by taking a –5 penalty to your Survival check. If you're a master in Survival, you don't take the –5 penalty. If you're legendary in Survival, you no longer need to roll a new Survival check every hour when tracking, though you still need to roll whenever there are significant changes in the trail.
+Tracking is second nature to you, and when necessary you can follow a trail without pause. You can Track while moving at full Speed by taking a -5 penalty to your Survival check. If you're a master in Survival, you don't take the -5 penalty. If you're legendary in Survival, you no longer need to roll a new Survival check every hour when tracking, though you still need to roll whenever there are significant changes in the trail.
 
 
 ## Inventory
@@ -215,7 +217,7 @@ trait_02: Minion
 modifier: 7 # unrendered
 perception:
   - name: Perception
-    desc: "Perception +7"
+    desc: "+7"
 abilityMods: [0,0,0,0,0,0]
 
 ac: 18 # unrendered

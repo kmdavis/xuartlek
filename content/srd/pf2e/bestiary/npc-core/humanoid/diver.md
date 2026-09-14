@@ -27,7 +27,7 @@ trait_02: "Humanoid"
 modifier: 9
 perception:
   - name: "Perception"
-    desc: "Perception +9"
+    desc: "+9"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]"
 skills:
   - name: "Skills"

@@ -29,7 +29,7 @@ trait_03: "Unholy"
 modifier: 33
 perception:
   - name: "Perception"
-    desc: "Perception +33; darkvision, [[srd/pf2e/compendium/spells/rank-6/truesight|_truesight_]]"
+    desc: "+33; darkvision, [[srd/pf2e/compendium/spells/rank-6/truesight|_truesight_]]"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Necril|Necril]]; Skeletal Lore languages"
 skills:
   - name: "Skills"

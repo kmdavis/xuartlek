@@ -201,7 +201,7 @@ Long-running narrative threads. See [[Campaign Arcs|arcs/]] for full details.
 | Arc | Status | Summary |
 |-----|--------|---------|
 | [[Commodore Thorne]] | Active | The party has made an enemy of the pirate commodore |
-| [[Homeward Bound]] | Active | Getting the ship repaired and returning home |
+| [[Homeward Bound (Arc)|Homeward Bound]] | Active | Getting the ship repaired and returning home |
 
 ## Locations
 

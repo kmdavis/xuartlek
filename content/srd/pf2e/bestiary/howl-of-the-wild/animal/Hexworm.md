@@ -25,7 +25,7 @@ trait_01: "Animal"
 modifier: 10
 perception:
   - name: "Perception"
-    desc: "Perception +10; arcanosense (precise) 60 feet"
+    desc: "+10; arcanosense (precise) 60 feet"
 skills:
   - name: "Skills"
     desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +10, [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] +12, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +9"

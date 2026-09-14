@@ -29,7 +29,7 @@ trait_03: "Tane"
 modifier: 30
 perception:
   - name: "Perception"
-    desc: "Perception +30; darkvision, scent (precise) 120 feet"
+    desc: "+30; darkvision, scent (precise) 120 feet"
 skills:
   - name: "Skills"
     desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +30, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +33, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +32, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +32, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +28"

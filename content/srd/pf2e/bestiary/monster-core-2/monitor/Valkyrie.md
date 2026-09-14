@@ -27,7 +27,7 @@ trait_02: "Monitor"
 modifier: 22
 perception:
   - name: "Perception"
-    desc: "Perception +22; darkvision"
+    desc: "+22; darkvision"
 languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Jotun|Jotun]]; ravenspeaker, [[srd/pf2e/compendium/spells/rank-5/truespeech|_truespeech_]]"
 skills:
   - name: "Skills"
